@@ -1,0 +1,958 @@
+0:03
+Andrew Ippolito: Alright, welcome to the first of our recordings. This is what I call my lecture zero this so this material is
+0:12
+Andrew Ippolito: For context. There's some of this stuff is in Unit one chapter one. But, uh, this is me. This is what I think every Science major needs to understand
+0:28
+Andrew Ippolito: So the first thing I want to do is give you a little story here. I call this the little horseshoe crabs that didn't
+0:38
+Andrew Ippolito: So why don't today's horseshoe crabs look almost exactly like fossils from on this case, this fossil right here, dated about 200 million years old.
+0:48
+Andrew Ippolito: Right, if you look carefully, it has the same basic structure as the modern horseshoe crabs. So the picture on the left is from 200 million years ago. And the picture on the right was from like last Saturday. I don't know. I didn't take it.
+1:01
+Andrew Ippolito: So here's how the story goes, Hey, have you ever wondered what's beyond that doing over there said one horseshoe crabs to another.
+1:10
+Andrew Ippolito: No, not really. Andrew Ippolito: The end.
+1:18
+What's going on here. Andrew Ippolito: So why hasn't the horseshoe crabs. Andrew Ippolito: Are changed.
+1:25
+Andrew Ippolito: Good Victoria. victoria bloemker: I was gonna say I'm trying to put it on my laptop instead of my phone because it's really hard to see because the screens tiny
+1:35
+victoria bloemker: Yeah, so if you see two of me like on it. I'm just trying to switch on Andrew Ippolito: Okay, go ahead.
+1:40
+victoria bloemker: Do what you gotta do. Andrew Ippolito: So somebody Angela Harbeck: I think
+1:46
+Angela Harbeck: I would think that they didn't evolve, because they didn't need to.
+1:53
+Andrew Ippolito: Go ahead, God, what was like, I didn't mean to interrupt you keep talking. Angela Harbeck: No, I just said it wasn't necessary for them to like go over there.
+2:04
+Andrew Ippolito: Exactly their environment didn't change right they were never stressed the horseshoe crab is a living fossil and for context this creature
+2:16
+Andrew Ippolito: has witnessed the rise and fall of the Dinosaurs. Dinosaurs didn't evolve and then they did evolve and then they stopped existing all in his life span, not the same ones lifespan, but you get the point. Right.
+2:32
+Andrew Ippolito: So all that evolution happened and the horseshoe crabs was like kids these days with their, their legs and their their their lungs.
+2:42
+Andrew Ippolito: Right. What's up with all man just, I'm just going to enjoy my intertidal zone and just just hang out and relax.
+2:50
+Andrew Ippolito: Because honestly, the intertidal zone itself, while the position of it might have changed dramatically over the last two or 300 million years, the actual environment itself is kind of the same.
+3:02
+Andrew Ippolito: So here's the take home in order for change to happen. You absolutely need to introduce stress into the environment.
+3:11
+Andrew Ippolito: And so here's, here's the allegory. Now, you guys have decided to go over the next dune and see what's what you're getting your education.
+3:22
+Andrew Ippolito: Right. You didn't have to do this. You could have stayed home, you could have done something else with your life, you can go work it. I don't know Cosco they have a good you know
+3:34
+Andrew Ippolito: They have decent salary and good benefits right but you want more.
+3:39
+Andrew Ippolito: You want to evolve. Now it's not evolution in the classical sense right well learn something this semester. And that is one of the hallmarks of life is this, this idea that populations evolve over time.
+3:50
+Andrew Ippolito: Right individuals don't adapt to the environment. Individuals respond to the environment. We can acclimate to the environment.
+3:59
+Andrew Ippolito: But we can't evolve. Andrew Ippolito: Right, so that's not what we're using this phrase, we're using the word evolve in the way we use it in more of a sociological concept which is our brain evolves we we change over time. And the only way to do that is to stress yourself.
+4:14
+Andrew Ippolito: Right so stress is a good thing. A little bit of stress a moderate amount of stress will cause change.
+4:23
+Andrew Ippolito: Right, we're going to learn about metabolism and homeostasis. Soon the idea you're if you're cold. What do you do you go somewhere where you're not cold or you put a shirt on, or a jacket on, or whatever you change something so that the stress goes away.
+4:38
+Andrew Ippolito: You're going to study until you understand something. So you're not stressed about it anymore. They see how it works. You being stressed is a signal that something has to change so that you're not stressed anymore.
+4:51
+Andrew Ippolito: And chronic low grade stress, which is what education is causes continual change and improvement. So what I tell my students is, don't be a horseshoe crabs.
+5:04
+Andrew Ippolito: Right, I wasn't sure which picture to show this one or the much more interesting.
+5:12
+Andrew Ippolito: Somebody made a horseshoe crabs costume. Jordan Russell: I'm not gonna lie I went ahead and I looked at the PowerPoint earlier in the class cracking up looking at that picture.
+5:24
+Andrew Ippolito: When I first saw it. I was a little disturbed by it. It's like somebody passed out in a horseshoe crabs outfit. Right. They just fell over. But then I realized, no. That's how horseshoe crabs wrote you know roam the earth. So he's probably fully conscious and just shown off his costume.
+5:42
+Andrew Ippolito: Alright, we kind of want to put this on a shirt though. Don't be a horseshoe crabs. That's our motto for the class right
+5:49
+Andrew Ippolito: Now I have had other students and other semesters. Tell me, in response to that question.
+5:56
+Andrew Ippolito: They didn't want to change. If it ain't broke don't fix it. They're comfy.
+6:01
+Andrew Ippolito: And that's true. If you have a good life and you don't need an education and you're not curious about what's beyond the other doom.
+6:09
+Andrew Ippolito: Don't stress yourself out be horseshoe crap. But this is not the place for that this is beyond the dune that's where you are right now.
+6:19
+Andrew Ippolito: All right. And some of you might be like, you know, I really don't like this side of the dude. I'm going to go back to the other side of the dude.
+6:25
+Andrew Ippolito: That's fine too. That's part of what freshman year in college is all about is finding what you like. You don't like and what you want to do what you don't want to do
+6:33
+Andrew Ippolito: Right, it's not successes and failures. It's learning about yourself.
+6:40
+Andrew Ippolito: All right, now I'm going to blow your mind a little bit kind of want a fanfare here.
+6:47
+Andrew Ippolito: What do you know
+6:53
+Andrew Ippolito: So knowledge itself. This is what we're going to start to talk about soon knowledge itself.
+7:00
+Andrew Ippolito: Is a Andrew Ippolito: Well, first of all, it's within the realm of philosophy called episode homology. Maybe you've heard that word before
+7:11
+Andrew Ippolito: Episode homology is literally the study of knowledge. And so we're going to learn for context here.
+7:19
+Andrew Ippolito: The different ways that a human being in our little noggin here how we put new knowledge in
+7:28
+Andrew Ippolito: There's different ways to do that. Andrew Ippolito: And we'll see how science fits into that. All right. But before we can even think about knowledge. Let's get a really intuitive understanding and let's give ourselves a perspective here and the universal scale.
+7:42
+Andrew Ippolito: To just really hit home the idea that we still know nothing as much as humans have learned we know nothing.
+7:50
+Andrew Ippolito: On average. The average out the numbers. It's like 00 like point oh there's a whole bunch of O's. They're, they're really zeros to 1% of nothing.
+8:01
+Andrew Ippolito: Okay, so we're going to start here. We're gonna, you know, I'm going to teach you a little bit of introductory concepts. I'm gonna put the chat window up here too, because I see some people. Okay. Thanks, Eric.
+8:12
+Andrew Ippolito: We're going to see here. We're at the scale of one times 10 to the six
+8:17
+Andrew Ippolito: Meters or 100 Adam meters. Andrew Ippolito: This in itself is still a huge number in the sense that the smallest amount of space. If we took a three dimensional, you know, just some violent space.
+8:33
+Andrew Ippolito: And we asked a question, what's the smallest distance that space can exist in our universe that number, something like 10 to the negative 24th.
+8:44
+Andrew Ippolito: That's called the punk length as the smallest anything can get
+8:51
+Andrew Ippolito: Well, what's 10 times smaller than that. There is nothing. And that starts with your, your brain starts to hurt at this point. And that's okay. So we have to step back a little bit. Alright, so we go from one times 10 to the negative 24th to one times 10 to the 16th.
+9:05
+Andrew Ippolito: All right, now I want you to make sure you understand what this means, when we say one times 10 to the zero. What's that, what's that equal to you, like, why are we doing math this biology. It's all connected. What's that, what's the answer that.
+9:21
+Zachary Lucas: Okay. Andrew Ippolito: Yeah, exactly. Just one right Zachary Lucas: We just set that equal to one.
+9:26
+Andrew Ippolito: All right. One times 10 to the one. What's that
+9:33
+Andrew Ippolito: Just shout it out. You know 10 Andrew Ippolito: Okay, and one times 10 to the two is 100
+9:39
+Andrew Ippolito: Etc. Right. So when I say tend to the second and I compare that to tend to the third. I want you to understand that that's 10 times bigger. That's $1 bill versus a $10 bill. This is $100 bill.
+9:53
+Andrew Ippolito: This is $1,000 bill, you're like, Oh, I like that $10,000 bill.
+9:59
+Andrew Ippolito: Hundred thousand dollar bill million dollar bill. I think I want to hold on a second here. Now this is 100. This is a million. Right. So the point is this, even though that that exponent is just going up by one right don't see that as a for something that is 1000 or 10,000
+10:19
+Andrew Ippolito: Okay. So when we say Andrew Ippolito: One times 10 to the negative 24th one times 10 to the 24th is the planck length and the picture you're seeing right here is 10 to the negative 16th.
+10:33
+Andrew Ippolito: Okay 16 to 2417 oh by the way what I can't do math and be social. At the same time, my math skills are terrible when I'm teaching. I just have to warn you about that. So let's see me. Pretend you're not there for a second and 17 that's about seven right 16 that's 48 so
+10:51
+Andrew Ippolito: This is a difference of Andrew Ippolito: 12345678
+10:59
+Andrew Ippolito: Right, there's a there's 10 million Andrew Ippolito: Levels are what are called orders of magnitude in between the absolutely smallest scale of the universe and the smallest thing. We know exists.
+11:13
+Andrew Ippolito: Okay, so just there's there's entire universe is hidden in there. Andrew Ippolito: Alright so this thing right here. What we're looking at is this artist's rendition of what we call a quark.
+11:25
+Jeong Lee: Right. Andrew Ippolito: These are things that you should be learning about in chemistry. I don't think they're learning, you're not learning the Standard Model yet and chemistry. This is called the standard model.
+11:34
+Andrew Ippolito: You should understand this as a science person, the standard model is there is the best
+11:41
+Scientific Andrew Ippolito: Theory that humanity has ever come up with. It's the most accurate in terms of what it can predict
+11:49
+Andrew Ippolito: And what we get experimentally. This is physics and chemistry. Andrew Ippolito: Okay, the standard model explains our everyday world of atoms and energy.
+12:02
+Andrew Ippolito: And it includes Andrew Ippolito: Basically to physical kinds of
+12:10
+Andrew Ippolito: Particles and they're called quarks. Andrew Ippolito: And they're called leptons.
+12:16
+Andrew Ippolito: That's what our universe is made out of course and leptons. The leptons include the electrons, which is there is your electron. Okay, so you have and then quarks come together to make protons.
+12:27
+Jeong Lee: And neutrons. Andrew Ippolito: And these are the things that you're familiar with from your basic chemistry.
+12:35
+Jeong Lee: Even if you didn't take chemistry since Andrew Ippolito: High School. You've all heard of protons, neutrons and electrons.
+12:40
+Andrew Ippolito: Right. But what you've learned in the past and what most of your teachers are not telling you is that these are just three of many things and the fact that protons. You've always learned are actually single things. They're not. They're actually systems of quirks.
+12:57
+Andrew Ippolito: There's three of them in there. Andrew Ippolito: Okay, so a quark.
+13:02
+Andrew Ippolito: I'm just going to give you the the the kindergarten version of this. Andrew Ippolito: Quarks don't come
+13:08
+In Andrew Ippolito: Charges. They come in flavors.
+13:15
+Andrew Ippolito: And if these words are weird to you, they should be okay. The word quark was actually used it was barred from Lewis Carol's Jabberwocky.
+13:23
+Andrew Ippolito: Talking about something that was weird and nonsensical because when scientists first discovered these things they were weird and nonsensical. And so they gave them nonsensical names.
+13:32
+Jeong Lee: Like the quark. Okay. Andrew Ippolito: There's the up cork. Andrew Ippolito: And there's a down quark.
+13:39
+Andrew Ippolito: To ups in a down, give you a proton. Andrew Ippolito: To downs and enough give you a neutron
+13:49
+Andrew Ippolito: Call quarks have charges. Andrew Ippolito: In addition to their flavors. Jeong Lee: Their charges come in thirds though they're either
+13:57
+Andrew Ippolito: One third or two thirds and when you and I'm not going to give you the, the numbers. I'm just going to say that when you add these together, you get plus one.
+14:04
+Andrew Ippolito: When you add these together, you get zero. There's your charge of a proton being plus one and your charge of a neutron being uncharged because of the nature of the quarks charges.
+14:16
+Andrew Ippolito: OK. And then beyond the scope of what I'm going to talk about. There's also something called
+14:22
+Andrew Ippolito: It's called color charge Andrew Ippolito: And they can either be red. Andrew Ippolito: Or green. Oh my gosh.
+14:28
+Andrew Ippolito: Red, blue and green. Andrew Ippolito: The primary No no no no no red, green, yellow, red, blue,
+14:35
+Andrew Ippolito: And so when you add these all together, you get white, just like in color right yeah those three colors together of light, you get white light.
+14:46
+Andrew Ippolito: And that's why you need three of them. So you need the equivalent of a red, green and blue.
+14:53
+Andrew Ippolito: And you're like, Okay, what is this is crazy. That's it. You just need to know that these crazy things exist, we're never going to get a test question on this or a quiz question. It's just. Hmm. OK. So now when you think of a proton.
+15:07
+Andrew Ippolito: I want you to think of them like this to ups and the downs, or two downs and and up for a neutron that's protons and neutrons.
+15:16
+Andrew Ippolito: They're not what you would call elementary charge elementary particles. Their, their conglomerates.
+15:24
+Andrew Ippolito: Yeah. Andrew Ippolito: We're gonna zoom out now. Andrew Ippolito: And every picture you see here is 10 times bigger than the last picture.
+15:34
+Andrew Ippolito: And the last picture that we saw is going to be in the center here. So we're still well within
+15:40
+Andrew Ippolito: quark land here where within a proton one centimeter Andrew Ippolito: Going to zoom out again. Andrew Ippolito: 10 times and here we are in the nucleus of an atom of carbon.
+15:52
+Andrew Ippolito: And you can see that there's some dark purple and some Jeong Lee: light purple. Okay.
+15:58
+Andrew Ippolito: There's your protons and neutrons. The reason why you need both. If there's something you've probably never considered before. If I have two protons, a plus one charge each and they're near each other. What do they do.
+16:12
+Andrew Ippolito: What's the relationship like they repel. Andrew Ippolito: Right, like charges repel. Unlike charges attract.
+16:21
+Andrew Ippolito: Okay, now, and you, you probably known that since third grade. Andrew Ippolito: But what your brains. Never done probably is asked the question, How on earth are these plus chargers not blowing up.
+16:36
+Andrew Ippolito: How is carbon stable. You just told me that they fire Part one there close together, and we know that Carbon has six of those in the nucleus, a carbon has a plus six.
+16:47
+Andrew Ippolito: The nucleus is plus six. There's six protons in there. That's what makes it carbon
+16:54
+Andrew Ippolito: But why isn't it blowing up. Andrew Ippolito: And the answer to that. I'm going to reveal here. If this is a proton.
+17:02
+Andrew Ippolito: And this is a proton. Andrew Ippolito: This is the neutron that's neutral charge the neutron doesn't repel the protons. So they have like a bouncer and between them.
+17:15
+Andrew Ippolito: Okay. And so you've all learned about the electromagnetic force.
+17:20
+Andrew Ippolito: Electromagnetism that's the force that's mediated by things called photon.
+17:26
+Andrew Ippolito: Alright so photons. Andrew Ippolito: Are particles that carry your force called the electromagnetic force. The force carriers. They're not matter. Their energy
+17:37
+Andrew Ippolito: There are other forces in the universe, you're already familiar with another one we called gravity. We still don't understand gravity works that's beyond the scope of what I want to talk about. But there's two others. So there's four forces of nature.
+17:51
+Andrew Ippolito: These other two generally don't learn about in a basic science course. Anybody know them. Has anybody learned about these yet.
+17:57
+Zachary Lucas: Like the strong nuclear force and the weak nuclear force. Andrew Ippolito: Awesome, a strong fortunate week for us. That's the easiest way to think
+18:04
+Andrew Ippolito: Okay. Andrew Ippolito: These things also have particles that carry their forces the strong forces particle. Anybody know what it's called.
+18:16
+Andrew Ippolito: It's called the glue on Andrew Ippolito: Which is named appropriately.
+18:23
+Andrew Ippolito: The glue on is what glues together the neutrons and protons and neutrons and the neutrons and approach on the protons, anything that's in the nucleus protons and neutrons are stuck together by a force of nature stronger than gravity and
+18:37
+Andrew Ippolito: Stronger than electromagnetism and it's appropriately named the strong nuclear force because it only exists.
+18:43
+Andrew Ippolito: Nucleus. It exists over a very short distances. We can't experience it out here, beyond the scope of atoms, which is why you don't usually think about it.
+18:54
+Andrew Ippolito: This is high energy particle physics. Andrew Ippolito: Stuff, this is this is atomic bombs and particle colliders and the large
+19:02
+Andrew Ippolito: The Large Hadron Collider. The ELYSEE, Andrew Ippolito: Write something on Google. If you don't know what that is.
+19:09
+The ELYSEE, Andrew Ippolito: Okay, so that's where that force of nature is now the weak force.
+19:15
+Andrew Ippolito: Is even weirder. And this took me years to understand well enough to teach it. First of all, the force carriers are called the W. There's two of them. There's the W and there's the bows ons.
+19:27
+Jeong Lee: Just a funny name. Andrew Ippolito: And what those guys do is they keep the quarks together.
+19:33
+Andrew Ippolito: The ups ups and the downs. That's where the weak forces.
+19:40
+Andrew Ippolito: And that's it. That's as crazy as I'm going to get for you. Right.
+19:46
+Andrew Ippolito: So that's why carbon state that's Andrew Ippolito: Why, any Adam beyond hydrogen can exist.
+19:52
+Andrew Ippolito: Because the neutrons are there to keep the protons from fighting each other and blowing Andrew Ippolito: This is also what explains radioactivity.
+20:00
+Andrew Ippolito: If this was, let's say carbon 14
+20:05
+Andrew Ippolito: Alright, so carbon 12 rave. We look at carbon 12 that six protons. Andrew Ippolito: six neutrons.
+20:11
+Andrew Ippolito: And that's an elegant Andrew Ippolito: 12 member dance. They're all jiggling around and it's stable mathematically it's aesthetically pleasing it's happy it's stable if I add two more neutrons here.
+20:25
+Andrew Ippolito: And now I'm dealing with carbon 14 those extra neutrons don't really, it's like trying to draw a seven sided figure. There's something mathematically off about it. And so at some point in that little jiggle of dances with all the forces. Everyone's got something that gets popped out
+20:42
+Andrew Ippolito: That's radiation in a nutshell. Okay. Andrew Ippolito: All right, let's go on and now
+20:48
+Andrew Ippolito: Beyond here. We're at one to the negative 13th and we step back and there's, there's the nucleus and the domain of the nucleus is in that bubble
+20:57
+Andrew Ippolito: And there is nothing out there beyond that, you know, like that's empty space, say, one of the ways we like to say is like matters, mostly empty space.
+21:08
+Andrew Ippolito: Zoom out again. Watch this. There's still nothing there. Andrew Ippolito: So we just went up 100 times the diameter of a nucleus and they're still
+21:17
+Andrew Ippolito: No density of any material. Andrew Ippolito: Now what's really there something called the quantum vacuum. There are things popping in and out of existence, all
+21:27
+Jeong Lee: The time Andrew Ippolito: little quirks. It's like, it's like a if you've ever looked, you know, think of seltzer water like the physical the seltzer water. The bubbles are just that's that's what's going on there is crazy stuff.
+21:40
+Andrew Ippolito: I want to zoom out again and now you're going to finally see what what are Andrew Ippolito: The starry sky or suddenly, where's my background.
+21:48
+Andrew Ippolito: Each one of those dots, those aren't stars, of course know what you're looking at here is what you would call a probability distribution or probability density diagram. You're looking at where the electrons around carbon probably are.
+22:06
+Andrew Ippolito: Electrons are like three dimensional vibrating guitar strings. And it turns out all matter and energy are really waves.
+22:20
+Andrew Ippolito: The vibrations of a field. Andrew Ippolito: Picture the surface of the ocean.
+22:27
+Andrew Ippolito: during a storm. Andrew Ippolito: The wind everywhere. And you see the choppiness of the waves. Okay, that surface of the ocean, those waves.
+22:37
+Andrew Ippolito: That you're observing are due to the interaction between the air and the water and the energy in there.
+22:46
+Andrew Ippolito: And so all that churning happens. That's all the interesting stuff is. That's kind of what electrons and protons and neutrons and protons are each particle has an associated field.
+22:59
+Andrew Ippolito: This is called quantum field theory and this is the most accurate theory. This is the most accurate. I can't spell theories story. Oh my gosh.
+23:09
+Andrew Ippolito: Quantum field theory. Andrew Ippolito: Is the most accurate description of the universe.
+23:15
+Andrew Ippolito: Everything is a field. You've all heard the electromagnetic field.
+23:21
+Andrew Ippolito: Okay, everything's a field. Andrew Ippolito: And our reality, what we are what we look out in space is due to the interactions between these three dimensional fields.
+23:33
+Andrew Ippolito: And that's about as best as I can give you. That's the most accurate description on the universe and it's probably the hardest to get your brain to wrap around. So the electronic field.
+23:44
+Andrew Ippolito: These vibrational waves, just like in the ocean. But there are 3D and they have all sorts of cool shapes will learn about later. What you're looking at is that the distribution of in a moment in time where it could be
+23:57
+Andrew Ippolito: Okay so electrons can be best described as probability clouds. They are there 95% of the time.
+24:04
+Andrew Ippolito: Don't ask me where the or the other 5% nobody knows. They're on break or something.
+24:10
+Andrew Ippolito: That's where they can fall through walls, and that's something called quantum tunneling. Andrew Ippolito: We're gonna do, man. Again, here's the beginning of it. All I want you all to look at this picture and acknowledge or her
+24:21
+Andrew Ippolito: There is organization their structure blurrier eyes a little bit, you'll see a density in the middle. And if you're really careful and you pay attention. You might even start to see some lobes here.
+24:36
+Like a clover. Andrew Ippolito: Okay if I get rid of that now just kind of blurry your eyes and see that density, there is an order there. If that's not just random static
+24:49
+Andrew Ippolito: And right there. That's the beginning of a concept. We're going to learn all semester. We're going to see that the structure of things in forms its function.
+25:02
+Andrew Ippolito: There is an intertwined relationship between structure and function and you can also the form and function. The phrasing might want to burn into your head form.
+25:13
+Andrew Ippolito: Follows function. Andrew Ippolito: And this is true, all the way down to the individual Adam and all the way up to the biggest galactic clusters and everything in between.
+25:24
+Andrew Ippolito: Particularly in biology, you will learn about this all the time. In other words, what something looks like informs you the observer. I'm probably something, it does.
+25:34
+Andrew Ippolito: Right, if an alien came to earth and picked up a fork. They could probably surmise that it's some kind of eating utensil after studying humans a bit
+25:42
+Andrew Ippolito: They have to eat their food, they have to pick up their food. They might not want to touch their food. And so they use this thing to stick into the food and put it in their mouth right for too small to really be used as a weapon of war. That's what those sort of things are
+25:57
+Andrew Ippolito: Right, and then the spoon. Looks like it can be some kind of liquid. It's bull shaped it takes, you know, gravity into account so you can put some liquid in it, and then they look at a Spork and they're like, well, now that's just silly.
+26:10
+Andrew Ippolito: Right so form follows function. And here we are in the heart of a carbon atom. We're going to zoom out again now suddenly we see DNA something we're going to also learn about all semester.
+26:21
+Andrew Ippolito: We're now on the scale of and nanometre you've all heard nanotechnology. The, the, the
+26:29
+Andrew Ippolito: DNA double helix when you Andrew Ippolito: Unwind and relax it the distance from end to end here is two nanometers and its standard size for DNA.
+26:39
+Andrew Ippolito: And will learn all about DNA right now. We'll just know that DNA does one job. It stores information don't teach you all about how it does that later going to zoom out again. Now we can use mesh of DNA. It's almost like a chain link fence.
+26:53
+Andrew Ippolito: 10 nanometers. What we're looking at here is the wave buyers DNA can be spread out an organized within the caps ID of the wires.
+27:01
+Andrew Ippolito: There's different kinds of viruses. Andrew Ippolito: Chapter 19 and your book is all about viruses. If you're interested in viruses, for some reason, like, I don't know if you're living during the worst pandemic of a generation or two.
+27:11
+Andrew Ippolito: And you want to know a little bit more about viruses go over your chapter 19 which is not officially covered in our, in our
+27:18
+Andrew Ippolito: In our curriculum. If you want to take my microbiology class, you can learn about viruses more in there.
+27:25
+Andrew Ippolito: In any case, there's DNA viruses. There's are any viruses. There's double stranded DNA. There's double stranded RNA, they're single stranded DNA their single stranded RNA and within the single stranded RNAs there's pluses and minuses. The coronavirus is a positive RNA wires.
+27:43
+Andrew Ippolito: Okay, the virus itself is called severe acute respiratory syndrome coronavirus 19 sorry, I'm sorry. I'm sorry source code to
+27:55
+Andrew Ippolito: To distinguish it from the original source code buyers, the one that causes SARS. This is the you would call this the
+28:03
+Andrew Ippolito: The vector of the disease. Andrew Ippolito: Okay, as an analogy, you have the human immunodeficiency virus.
+28:11
+Andrew Ippolito: That causes the disease acquired amino acquired immune deficiency syndrome, the source code to virus causes the corona virus infectious disease, discovered in 2019
+28:26
+Andrew Ippolito: That's what Coach so coven 19 and this is how you formally right it it's not coded there's already kovats
+28:33
+Andrew Ippolito: They're already covert coronavirus infectious disease. If you look on the back of a Lysol container, you'll see the word coven on it and we're in conspiracy theorists like we've known about this for years. No.
+28:43
+Andrew Ippolito: No, we, we did not know about this particular version of the disease for years we have known about Corona biases for years and epidemiologists have been clamoring for the last 20 years saying that this was going to happen and. Nobody listened to them.
+28:55
+Andrew Ippolito: There was a paper from 2003 that I read back in March that said that bats in China have a very large repository of Corona viruses and it's only a matter of time before they are unleashed. Yeah.
+29:16
+Andrew Ippolito: There's a whole bunch of people saying, I told you so. I'm sure they're not saying that that's kind of rude at this point.
+29:24
+Andrew Ippolito: I'm sure there's a couple. There's always a few of those cantankerous scientists anyway. So this is a double stranded DNA virus, and we're going to zoom out again. And there he is, or
+29:35
+Andrew Ippolito: Whatever virus that is there was a bars. Now I want you to see here is I want you to have viruses sitting on a background.
+29:43
+What's that background. Andrew Ippolito: And you can't tell me unless you've looked ahead, and even then you probably can't tell mom, maybe you can tell me if you cheat and you look at but So pretend you didn't look at there is nothing about this picture that tells you what that is.
+30:02
+Andrew Ippolito: Okay, this concept here. So, watch, watch this. Here's the spoiler. We're going to do, Matt. Excuse me. Again, we are now on the surface of a bacterium, a single bacterial cell.
+30:16
+Andrew Ippolito: So there's this concept here called an emergent property.
+30:24
+Andrew Ippolito: emergent properties. Andrew Ippolito: Are properties of a system.
+30:31
+Andrew Ippolito: That emerged out of that systems moving parts and complexity.
+30:36
+Andrew Ippolito: For example, you can see, unless you're blind. You can hear unless you're deaf, you can walk. There's things you as the organism can do
+30:46
+Andrew Ippolito: That your individual parts cannot do, and it's nonsensical to even describe them as such. In other words, if I chopped off of foot that foots not something that can walk
+30:59
+Andrew Ippolito: Your eyes cells can't see. Andrew Ippolito: Adams don't have color.
+31:06
+Andrew Ippolito: Okay colors in emergent property out of atomic systems locomotion as an emergent property of the mechanics of the
+31:14
+Andrew Ippolito: Individual body. Okay. And so you can't predict emergent properties by studying in. Here's another example, take a brick.
+31:22
+Andrew Ippolito: You can show me how hard to break is you can tell me how big the brick is how Angular, it is but one thing you couldn't tell me is the maximum room occupancy of the third floor apartment that was made up of those breaks
+31:35
+Andrew Ippolito: Right, that's just nonsensical even think about Andrew Ippolito: So every time you go up a level when you have these nested systems of systems of systems every new level is going to have new properties.
+31:50
+Andrew Ippolito: Okay, that's one of the hallmarks of life. We'll talk about Andrew Ippolito: With zoom out again. Now, there's the bacterial cell on this other weird alien. What is that like a meteor as a
+32:03
+Andrew Ippolito: You mean it looks that that's the only thing it could be some kind of weird rock. Andrew Ippolito: Right here. What is that, so we zoom out again. So now we're at 10 microns. This is still something we can't see with the naked eye. Notice that's not in color, color doesn't even exist yet within zoom out one more time. There it is. You're looking at a green of pollen.
+32:26
+Andrew Ippolito: On this weird geometric repeating pattern. So notice the pollen green is spiked take a spiky ball.
+32:34
+Andrew Ippolito: form follows function, it sticks to things. That's why pollen sticks to everything because it's spiky
+32:41
+Andrew Ippolito: Every species of plant has a slightly different shaped pollen green to their like snowflakes.
+32:46
+Andrew Ippolito: To the point where Paleo botanists can look at fossilized for means, for example, the insides of a dinosaur stomach and just by looking at the pollen greens.
+32:57
+Andrew Ippolito: It can see exactly where it was living, whether it was tropical subtropical or whatever you can usually tell all the way up to the genus and possibly the species of the plan.
+33:08
+Andrew Ippolito: But what's up with that regular geometric pattern in the background. What could that possibly be zoom out again and now we're in the realm of color. We're in the risk of one millimeter which we can kind of see and we're looking at a bi.
+33:23
+Andrew Ippolito: And I promise you, but I'm going to guess if I had a bed. Nobody's ever done this close to a bumblebee before on purpose, and looked at its. I like that.
+33:35
+Andrew Ippolito: So we're still not really within the realm of human experience within zoom out again there is most of us probably don't feel comfortable getting this close to a, b, but that's your centimeter
+33:46
+Andrew Ippolito: Want to zoom out again. Andrew Ippolito: Those are 10 centimeters. And now we can see the Lillian the be
+33:52
+Andrew Ippolito: Talking about the birds and the bees and then we zoom out again. And there it is this. If you think about the scale of existence that we've discovered. Let me try that. Okay, we are right here we are at that fulcrum point
+34:07
+Andrew Ippolito: The one scale meter 111 meter. Andrew Ippolito: Why one meter.
+34:14
+Andrew Ippolito: Because we're about to have these you stand up.
+34:19
+Andrew Ippolito: We fit within about a two meter space, right. That's the only reason why we're here with this meter because humans are about this big. This is our everyday life.
+34:31
+Andrew Ippolito: Okay and so up to this point, just think about the fact that there are these universes of experience and characteristics and properties and that you have absolutely no knowledge of that, you're cut off from without using very expensive equipment and careful study
+34:52
+Andrew Ippolito: And disciplined approach. Andrew Ippolito: Let's go the other way. Now 10 meters. There's a pond with lily pads hundred meters Japanese tea garden.
+35:02
+Andrew Ippolito: And most of us at some point in our lives. We've seen something like this directly with their own two eyes.
+35:08
+Andrew Ippolito: You've been standing on the 10th floor of something, looking down maybe you've been an apartment building in the city, or you went to New York and you got to look at Central Park or something, right.
+35:20
+Andrew Ippolito: Then I'm sure a lot of us have been on airplanes and gotten to look out the window and look down.
+35:27
+Andrew Ippolito: Maybe you've even gotten high enough in the air. You've seen entire cities below you.
+35:32
+Andrew Ippolito: Right. But we've already surpassed the average human
+35:37
+Andrew Ippolito: And we've already surpassed Andrew Ippolito: Every single civilization and generation of humans until ours came along about 100 years ago. I mean, if you think about that were amongst the very small percentage of humans that have been able to actually fly, something that we've dreamed about doing since we could dream.
+35:57
+Andrew Ippolito: We saw a bird. Why can't we do that. Andrew Ippolito: Right now, we can, to the point where people complain about waiting in line to get on the plane and how cramped it is you're amazing sky chariot.
+36:14
+Andrew Ippolito: We zoom out again. All right. And now the only people that have ever experienced this kind of view or astronauts, or I guess the experimental plane pilots for the military. Maybe you to spy plane saw something like this.
+36:28
+Andrew Ippolito: Zoom out again and now we're definitely in the realm of astronauts and spy satellites one mega meter. That's a mega meter it there as California zoom matic gathers 10 mega meters and there's North and Central America and there's 100 mega meters. There's Earth.
+36:46
+He or she is Andrew Ippolito: The astronauts so went to the moon saw this
+36:53
+Andrew Ippolito: You have some amazing pictures they took Andrew Ippolito: And this blows their mind.
+36:58
+Andrew Ippolito: This the astronauts all report when they, when they are able to look at Earth like this. It just changes their entire perspective on existence on their own lives every single thing that ever happened to any human ever in every civilization occurred just within that span of his thumb.
+37:18
+Andrew Ippolito: We zoom out again and now we're beyond the scope of humanity. We haven't yet traveled beyond the circumference of our moon.
+37:26
+Andrew Ippolito: Then you can see the elliptical orbit there of the moon. And we're at a giga meter.
+37:35
+Andrew Ippolito: And now we are at such distances that we have to start thinking in terms of time.
+37:45
+Andrew Ippolito: On earth light travels so quickly that it seems instantaneous. We don't really have to consider it to the point where we can talk in seeming mealtime to somebody on the other side of the planet on a phone because radio waves which are photons radio waves are light.
+38:03
+Andrew Ippolito: Moves justice fast, but we're here now while we're at 10 meters tend to the 10th meters. We now have to think about how long it takes for light itself to travel.
+38:15
+Andrew Ippolito: And it just so happens, if you start here and you end here. And that's the Earth's orbit going around the sun. It takes four days. I don't know why it's July. It's a nice year. That's a nice month my birthday month. It's also the middle of summer, nice and warm.
+38:34
+Andrew Ippolito: July is a good month I missed Andrew Ippolito: We'll talk about it being four days in July.
+38:42
+Andrew Ippolito: We zoom out again. Andrew Ippolito: Right so Earth's here. Now you can start to see the path of Venus and Mars. And for me, and I think they did this intentionally now that I think about it.
+38:56
+Andrew Ippolito: The earth is sandwiched between the goddess of love and the God of War.
+39:05
+Andrew Ippolito: Loving more were between and when I realized that when I started teaching this that like that's very, very pleasing from a poetic standpoint. Earth is situated between love and where
+39:17
+Andrew Ippolito: The story of human civilization. We zoom out again now and we can see the inner planets. Then there's this whole big blank. And then there's this there's Jupiter's orbit. Anybody know what's in here.
+39:37
+And nobody Andrew Ippolito: Jay, what we saying
+39:46
+Andrew Ippolito: Oh, hold on a second. I'm only pause this recording. All right, all right, does it. So does anybody know what's in the middle here.
+39:58
+Is the asteroid belt. Andrew Ippolito: A bunch of asteroids.
+40:03
+Andrew Ippolito: All right. Raise your hand if you saw Empire Strikes Back. Andrew Ippolito: Star Wars.
+40:11
+Andrew Ippolito: Raise your hand if you have not yet seen Empire Strikes Back. Andrew Ippolito: One, two, wow, there's too many. Oh man, this is not good. You're not American. If you haven't seen Star Wars.
+40:28
+Andrew Ippolito: kidding aside. The Empire Strikes Back. There's a scene where the Millennium Falcon is flying through an asteroid belt.
+40:34
+Andrew Ippolito: And the way they portray the asteroid belt in the movie is there's asteroids pretty close to each other where you're having to, you know, die between them. That's not
+40:44
+Andrew Ippolito: The reality of an asteroid belt and turns out if the trends are that close together gravity would take over. Anyway, eventually form a planet. Yeah, exactly. It's extra credit watch Star Wars.
+40:59
+Andrew Ippolito: So, so Andrew Ippolito: When our solar system was first formed right the way it works is when a star forms forms this thing called an accretion disk.
+41:12
+Andrew Ippolito: And accretion disk is just a whole bunch of matter dust and gravity pulls it together. And it's spinning because of the way the way the Star Wars born, it gets shot out of its nebula and it's just spinning
+41:26
+Andrew Ippolito: And so everything settles around it and Gravity Forms. Think of something like Saturn. Right. But Bob Baker and eventually over time is dense, there's, there's a
+41:39
+Andrew Ippolito: There's areas of density that form and those eventually come together and solidify the planets.
+41:46
+Andrew Ippolito: OK, now the asteroid belt. Andrew Ippolito: Never made a to be planet.
+41:53
+Andrew Ippolito: So you could say that the asteroid belt is a planet that never got it shit together.
+42:01
+Andrew Ippolito: That's my joke. Andrew Ippolito: Okay, that's the only time I curse in class that just doesn't work. If you see crap you know you say
+42:12
+Andrew Ippolito: I'll say like, Get your shit together great that they can come on
+42:18
+Andrew Ippolito: Right, the asteroid belt was like, like the horseshoe crabs. Yeah, I'm good. Just he never she never whatever that thing did never came together and formed a plan. It's a failed plan.
+42:32
+Andrew Ippolito: So we're mining it now there's gonna be there's gonna be, let's see. Mercury, Venus, here's Earth we got
+42:38
+Andrew Ippolito: We got people that are going to go out here and mine this stuff. We are rare earth elements, the rare earth elements. Haha. They're not rare out there.
+42:50
+Andrew Ippolito: Okay, this thing, this magic box that you have that you're addicted to that you can't put down, get off it. If you have it on right now shut it off completely. Go to airplane mode.
+43:00
+Andrew Ippolito: Okay, this thing has something like, I don't know. I'm making this number of like 47 different elements in it there. Most of them are. I'm a hold on a second. I was getting most of them are
+43:13
+Andrew Ippolito: Ready earth elements that you can only mine in certain parts of the world, mostly in China. Andrew Ippolito: It's just the luck of the draw, we found deposits of them in China, and they're good for various kinds of technologies. So we're going to go out there and get some more. That's where those all these companies that are going to eventually got mine the space.
+43:33
+Andrew Ippolito: And we're going to do that again and again. And now we have what we call Saul. That's the formal name for our little neck of the woods in the universe saw our solar system. And notice, this looks just like the atom. There's a lot of empty space out here.
+43:49
+Andrew Ippolito: We're going to zoom out again. Andrew Ippolito: I'm going to zoom out again. I just zoomed out three times.
+43:57
+Andrew Ippolito: One, two, and now we're at what's called a light year
+44:03
+Andrew Ippolito: It takes like an entire 365 days to travel across the screen.
+44:09
+Andrew Ippolito: Okay so space and time turn out.
+44:15
+Andrew Ippolito: To be the same exact thing. Andrew Ippolito: But is why you have a lot of problems when you say to yourself, What's time, like what is
+44:24
+Andrew Ippolito: The reason I didn't do great in physics. When I was in college, and I was in your seat was because the very first day of class.
+44:31
+Andrew Ippolito: We had this wonderful very dynamic engaging physics teacher. He was awesome, and I he said before class started the first day, he said, before we start does anybody have any questions and I raised my hand, and I said, can you just give me a simple definition of matter and time.
+44:50
+Andrew Ippolito: Because like I couldn't think about physics without first understanding, like the stuff we're dealing with, and he just started laughing at
+44:56
+Andrew Ippolito: It's like nobody can do that. We don't know what we don't know. It's time is, and I was pretty much my career in physics, this I love learning about this stuff. But the math was
+45:12
+Andrew Ippolito: How I was able to get up to about calc to everybody has the ceiling in their head for their math and you'll find years. Eventually, the average humans is calculus.
+45:21
+Andrew Ippolito: Right, you might not think that, but that's true. We just teach it terribly in America. The rest of the world's figured it out. The average person can do calculus. No problem.
+45:30
+Andrew Ippolito: And then after that everybody's in a different place. My, my, I started losing in around the end of calc two things got a little hard for my poor brain.
+45:39
+Andrew Ippolito: My friends that went on the calc three I was looking at what they were doing. And I'm like, yeah, no, nope. Nope, that linear algebra differential equations.
+45:49
+Andrew Ippolito: Right. But every I know I did not take those classes. I mean, again, I like I'm interested in this stuff, but my brain can't do it.
+45:57
+Andrew Ippolito: Everybody's brain is in a different place. So, so, anyway.
+46:03
+Andrew Ippolito: He time what's time Einstein has the best definition that time Einstein said time is the thing that prevents everything from happening at once.
+46:17
+Andrew Ippolito: And that's about as good as we can get for time. Andrew Ippolito: Okay, now
+46:22
+Andrew Ippolito: Space itself. This this three dimensional matrix that we're weaving in is the same thing as time and that's the best I can get
+46:31
+Andrew Ippolito: To the point where we can start describing time and space is the same thing when we get the big distances. All right. When we peer into that telescope, boom, we look up at space.
+46:41
+Andrew Ippolito: And we can now start to see stars. I just got another 10 there's 10 light years. Here's our local neighborhood. These are all the stores that we can hop on a spaceship and get there within human lifetime.
+46:52
+Andrew Ippolito: And it turns out some of those stars got planets orbiting around them. We found hundreds of exoplanets so far and just our small time studying the stars.
+47:03
+Andrew Ippolito: Scientists estimate. There's about 2 billion Earth's within our solar system within our galaxy alone.
+47:11
+Andrew Ippolito: Okay, the chances of life out there pretty high. Andrew Ippolito: Galactic civilizations or another story that's probably right. I'm kind of skeptical our universe is about 414 point seven or whatever billion years old right and its projected the last trillions of years.
+47:31
+Andrew Ippolito: So we're kind of in the infancy of our existence. And so one of the ideas is that humans are the first we're going to be the elders someday, which is kind of scary. If you think about humans.
+47:44
+Andrew Ippolito: Right. All right. We go from one light year 10 light years 100 light years.
+47:50
+Andrew Ippolito: Okay, these are the stars with if we're in this center there. These are all the stars within 50 light years. You can already see there's too many to count.
+48:00
+Andrew Ippolito: thousand light years 10,000 light years 100,000 light years. And there we are. We're just an average star and an average corner of an average galaxy.
+48:16
+Andrew Ippolito: It turns out there is nothing special about us or Sol or our star. If you look at all the stars that we can observe directly and you put them on a chart.
+48:29
+Andrew Ippolito: And how bright they are and how big they are, and you get the bell curve. Guess where the sun is work somewhere in here. We're an average star. We're of average size of average luminosity or average age.
+48:47
+Andrew Ippolito: Nothing special about us. What does that tell you that it should tell you that there's probably lots of us out there somewhere. It just spaces big
+48:57
+Andrew Ippolito: I'm probably never gonna find it. Andrew Ippolito: Was depressing. It is
+49:02
+The nicest Andrew Ippolito: Yeah, go ahead. Danuta Despagne: I'm on Netflix does this show called alien world and they basically like explore like exoplanets. And like the live on them in there like compared to Earth in the life
+49:15
+Danuta Despagne: How like they're kind of similar but not really. It's a really cool, really scientific like show and next thing. What's the
+49:22
+Andrew Ippolito: What's the name of it. Danuta Despagne: alien world. Andrew Ippolito: You know what I started watching that it's on Netflix. Right.
+49:28
+Andrew Ippolito: Yeah. Yeah, I watched the first episode of that. It's called. Yeah. So for those of you who have Netflix. It's called alien worlds.
+49:35
+Andrew Ippolito: The first episode imagines a world that's twice the size of Earth and its atmosphere is ridiculously thick, to the point where the life that flies on it can live forever in the clouds, because of the density. There's all these
+49:47
+Andrew Ippolito: Consequences of the physics that you don't think about, and the idea that our if our atmosphere was really dense.
+49:54
+Andrew Ippolito: Things could live in it and fly and never fall because right now. Well, in order for us to like have a plane flying or birds flying. You have to have this constant input energy
+50:04
+Andrew Ippolito: Because it's too thin but and these alien planets. The atmosphere was so dense that want once you're up there, you stay up there really cool stuff. Thank you for that. I forgot about that.
+50:14
+Danuta Despagne: And get back to watch them up. Yeah, it's ready. Andrew Ippolito: So here's my next question is that an actual picture of the Milky Way.
+50:25
+Victoria Bloemker: I would say no. Andrew Ippolito: Why would you say no. And you'd be correct. Victoria Bloemker: Because like space is so large that it is nearly impossible for absolutely anybody take a full picture of something. So I feel like what they do is they grab collaborations. Well, I guess they like plus two pictures that they have and try to put them together to make one whole picture.
+50:53
+Andrew Ippolito: Okay that's. Yes. And also, this is just happens to be a picture. Andrew Ippolito: Of a different galaxy all together that we've taken a
+50:59
+Andrew Ippolito: Picture of that looks like what we think ours is Andrew Ippolito: Right, I mean humans haven't made it this far away to take a picture and then come back. So, so this is the equivalent like a fake ID, where you have somebody that looks kind of like you
+51:15
+Andrew Ippolito: They don't don't look too closely right we've all known people that have had fake IDs and up the picture and you're like, Come on, that look well I have two eyes and the nose and a mouth. That's close enough. That's what this is. This is a stand in
+51:32
+Andrew Ippolito: Okay. Now watch this. We're going to zoom out one more time. That's a million light years.
+51:38
+Andrew Ippolito: You see these tiny little dots. Andrew Ippolito: These are not stars.
+51:44
+Andrew Ippolito: Galaxies Andrew Ippolito: Each dot contains 10s or hundreds of billions of stars.
+51:55
+Andrew Ippolito: And now I want to go out to 10 million light years.
+52:02
+Andrew Ippolito: And I'm going to go out to 100 million light years.
+52:07
+Andrew Ippolito: This is called the Hubble Deep Field. Andrew Ippolito: The Hubble Space Telescope back in 2003 took a picture of the darkest part of the sky could find about I think it's like three art three
+52:20
+Andrew Ippolito: Degrees or something. I can't remember how they measure it, but basically this if you think of the size of the full moon really take your pinky finger and put it against the full moon and the top of your pinky fingers about where the picture was taken.
+52:33
+Andrew Ippolito: And they exposed it for something like eight months. So it's like holding the shutter open for that long.
+52:41
+Andrew Ippolito: And they just wanted to see what they're going to grab hahaha what they saw. Let me zoom out here was this picture.
+52:49
+Andrew Ippolito: This is the Hubble Deep Field. Andrew Ippolito: You're not looking at a starry sky here even though that's what it looks like you're looking at galaxies. And if you look really close to the screen. And if you take the PowerPoint on your own, or if you Google it type Hubble Deep Field and you zoom in.
+53:08
+Andrew Ippolito: And you look around. Andrew Ippolito: You'll see spirals, and you'll see galaxies colliding with each other like this down over here on the bottom left.
+53:19
+Andrew Ippolito: Okay. These eat.is 10s of billions of stars.
+53:29
+Andrew Ippolito: This breaks people's brains. Sometimes when they think about this.
+53:36
+Andrew Ippolito: That just broke my brain. Andrew Ippolito: Okay, so here we are. Watch this 10 million hundred million.
+53:45
+Andrew Ippolito: A billion. Andrew Ippolito: The universe is 14 of these old
+53:51
+Andrew Ippolito: The further away. We look the further back in time or looking
+53:57
+Andrew Ippolito: And what you're seeing here. Andrew Ippolito: These. It looks like smoke tendrils of smoke. Those are rivers of matter. Those are galactic clusters.
+54:10
+Andrew Ippolito: And the reason why Andrew Ippolito: It has the shape is it free rewind time to the singularity where everything took up an infinite amount of density in a infinite amount of tiny little space there were still a vacuum there with fluctuations. And so at some moment in time we freeze that vacuum. Let me expand it.
+54:36
+Andrew Ippolito: And that's the pattern we see and that math all works out. And that's where your mind gets blue. There's nothing beyond this.
+54:44
+Andrew Ippolito: In other words, if I showed you another picture of 10 billion light years or 100 billion or trillion, it would look exactly the same as this picture.
+54:52
+Andrew Ippolito: This is called the fractal nature of the universe. The patterns are all the same. I could show you a picture of a starry sky like my background was
+55:04
+Andrew Ippolito: When I had that starry sky background and I can show you an electron cloud.
+55:09
+Andrew Ippolito: I can show you the eastern seaboard. Or I can show you the crust of bread.
+55:15
+Andrew Ippolito: The math and the physics keep repeating themselves. Andrew Ippolito: Okay, so when we take all that into account.
+55:25
+Andrew Ippolito: Yes, this question to you again. Now what do you know
+55:32
+Hey, what do you think, you know, Andrew Ippolito: Can you really know anything
+55:39
+Andrew Ippolito: I want you to be humbled and odd and a little broken
+55:45
+Andrew Ippolito: Because in that state of wonder is where wisdom is born soccer. One of my favorite quotes wisdom begins with wonder
+56:00
+Andrew Ippolito: So the question really is, that's not a. That's not a rhetorical question, right. How do we acquire new knowledge. How do we stick stuff in our brain.
+56:10
+Andrew Ippolito: And this is where the handout is that you're going to read, we're gonna learn that there's a few ways that humans can acquire new knowledge and we're gonna see how science is one of those ways
+56:21
+Andrew Ippolito: Empiricism you. So this is the word you should start to use more if you haven't used this something's empirical
+56:27
+Andrew Ippolito: That means that you know that information through some kind of direct observation.
+56:33
+Andrew Ippolito: It's raining out today. How do you know that I'm standing outside and I'm wet and I'm looking up and there's rain falling on me. Where are you sure it's raining, you don't know it's raining. I'm in the rain literally in the rain.
+56:46
+Andrew Ippolito: That's empirical, there are some things we can only know empirically
+56:54
+Fires hot Okay.
+57:00
+Andrew Ippolito: There's authority. And vegetables are good for you.
+57:05
+Andrew Ippolito: How do you know that I told you, that's why. Dad, why do I have to eat this. Because I said so I promised myself before I had children. I would never use that phrase. Because I hate it because I said so is the most obnoxious response to an answer until I started using it myself.
+57:25
+Andrew Ippolito: Here's why. When you're a parent someday. The reason why you're going to say it, even though you say you're not going to say it is because you're so very tired of having to explain every goddamn thing.
+57:37
+Andrew Ippolito: And so when your kid su the 13 and you're exhausted. Andrew Ippolito: And you need them to do that thing, whatever it is, just do it because they said so.
+57:48
+Andrew Ippolito: I try not to say that it's usually a rational explanation and they say, okay, and then they do it because that's what I've learned gives the
+57:55
+Andrew Ippolito: The most compliance to your requests. If you explain to a five year old why it's important to do that thing they do that thing.
+58:04
+Andrew Ippolito: I mean, they still sometimes forget to do that thing like please shut the door. Now they're going outside all the time, they just leave the door wide open. We've all been there before, we probably do it ourselves. Still, and your dad says something like, you know, live in a barn.
+58:17
+Andrew Ippolito: So I sat down and I gave them a healthy explanation of heating houses and how much it costs to heat the house and when you leave that door open. It's basically like throwing money out the window.
+58:25
+Andrew Ippolito: And they're all about the allowance money. So I started telling them, they're going to lose a little bit of an allowance of the door open. Guess we stopped doing
+58:34
+Andrew Ippolito: Earning allowance. No. Andrew Ippolito: They stopped leaving the door open and then I told them they can have all their money back. It was good psychology. It worked.
+58:45
+Andrew Ippolito: That's authority. Andrew Ippolito: Now, back in the 15 and 1400s. When we started developing science. There's when you look at the writing there. There's two methods.
+58:57
+Andrew Ippolito: There's the method of science. And then there's this thing called the method of tenacity, they refer to it as tenacity, is I believe that because it just makes sense.
+59:08
+Andrew Ippolito: If you ever heard Stephen Colbert truthiness. This is truthiness I believe that's true because it just makes sense to me. Of course, it's true. How could it not be true. That's tenacity. This is the the least reliable way of learning new things.
+59:27
+Andrew Ippolito: Okay it now. It does work sometimes intuition works. There's a book, you might want to read
+59:35
+Andrew Ippolito: Called blink. Andrew Ippolito: The power of I think it's like the power of human perception or something to it. The idea, but by Malcolm Gladwell, I have it in my, in my handout.
+59:46
+Andrew Ippolito: There's the book you just read the beginning of it. Just read chapter one on the book if you can find it.
+59:51
+Andrew Ippolito: It goes like this. There's this museum in California that purchases. What were they were told was an ancient statue from Greece or Rome. They paid like you know $12 million for it and they do all of this scientific testing on it and sampling and they determine that it is authentic.
+1:00:14
+Andrew Ippolito: And just before they put it on the floor and open it to the public. They bring in an expert on Ancient Greek architecture, just, you know, as an afterthought, to see what he thinks of it. Maybe they wanted to impress them.
+1:00:29
+Andrew Ippolito: And they bring them down into the basement where it's still got its big curtain over it and they pull it off and say, what do you think any glances at it.
+1:00:38
+Andrew Ippolito: And he looks at the curator and says, How much did you pay for this and they're like, No $12 million, he's like, well, I'm sorry. That's a fake
+1:00:47
+Andrew Ippolito: Like why we did months of testing on this we verified it, blah, blah, blah. And so he told tells them the special kind of tested do. And it turns out it was a forgery. It was all artificially aged by this shop and Eastern Europe that was putting out a bunch of forged Greek relics.
+1:01:06
+Andrew Ippolito: Yeah. Andrew Ippolito: And he, he, I don't know what the ramifications of that word, whether that led to arrest or if the museum was just screwed out of $12 million. I'm not sure.
+1:01:17
+Andrew Ippolito: But here's the cool part. When you ask the professor how he. How did you know how did you know it was a fake he wasn't able to articulate it all he could say was a look fresh
+1:01:31
+Andrew Ippolito: As it Andrew Ippolito: So just because somebody can do something and just because somebody can be such an expert in the field doesn't necessarily mean they're gonna be able to explain how they did it.
+1:01:41
+Andrew Ippolito: That goes along with just because got your PhD doesn't mean you can teach Andrew Ippolito: Right.
+1:01:47
+Andrew Ippolito: You got good teachers you got bad teachers you people who are amazing researchers, you can discover all sorts of amazing things. But if you stick them in a classroom and it's a mistake.
+1:01:58
+Andrew Ippolito: Right, so that's just how it works. So Andrew Ippolito: It turned out he just spent so much time studying this stuff that he developed a very keen intuition on it.
+1:02:11
+Andrew Ippolito: Right. If you've ever played a musical instrument. Well, if you ever played a sport or practice the craft like drawing
+1:02:20
+Andrew Ippolito: Or whatever you do with your life, whatever you mastered. Everybody has some mastery in something. It's one of the things we seek out. It's part of what motivates us to be alive to get some
+1:02:31
+Andrew Ippolito: If, let's let's say we're playing catch and I toss the ball to you and you grab it out of the air easily and you throw it back at me. You're doing super advanced 3D calculus.
+1:02:42
+Andrew Ippolito: Your brain is intuitively calculating masses and trajectories and making all sorts of crazy complicated predictions things that would take
+1:02:50
+Andrew Ippolito: Artificial Intelligence computer geniuses, a long time to put into a machine and you're just casually playing ball and you're playing ball in the five year old right our brains have really good at this stuff. And that's tenacity.
+1:03:04
+Andrew Ippolito: Putting new knowledge in your head, based on just what you think is true. Andrew Ippolito: Okay, now, so it can be true, but this is the least reliable way of knowing things just because it seems to make sense, doesn't mean it is. And this is something that our society now more than ever has to be paying attention to.
+1:03:29
+Andrew Ippolito: Okay and I'm not going to go off on a tangent right now about information literacy just
+1:03:35
+Right, just make sense. Andrew Ippolito: rationalism.
+1:03:41
+Andrew Ippolito: This is the realm of logic and reason I think therefore I am probably all heard that somewhere along the line, right. You've all heard Rene de car, I think, therefore I am.
+1:03:52
+Andrew Ippolito: There's a really fun joke. I heard years ago run a car walks into a bar, and the bartender is like, oh, Renee. Good to see ya.
+1:04:03
+Andrew Ippolito: Do you want a drink and the courses I think not.
+1:04:09
+He disappears.
+1:04:19
+Andrew Ippolito: Logic and reason we can use in a very regimented way. For example, we take a premise like Socrates is mortal
+1:04:27
+Andrew Ippolito: We take another oh I don't have the list of details here. So you say man is mortal socrates as a man therefore Socrates is mortal
+1:04:38
+Andrew Ippolito: That's reasoning. That's a specific kind of reasoning, we'll talk about later. Okay. But that's, that there's no moving parts. There's no experiments. There's just, just your own human brain and our brain's ability to perform this thing we call logic and reasoning.
+1:04:52
+Andrew Ippolito: Okay that's rationalism. Andrew Ippolito: You would say, you know, as true.
+1:04:59
+Andrew Ippolito: Be as true, or I'm sorry, I'm sorry. You would say Andrew Ippolito: You know, if A then be
+1:05:08
+Andrew Ippolito: If B. Andrew Ippolito: Then C. Therefore, if a and these are the ones. Sorry.
+1:05:19
+Andrew Ippolito: Then see if A then see that's new knowledge right there and you arrived at that through logic.
+1:05:27
+Andrew Ippolito: That's rationalism. Okay, so a rationalist would be somebody who thinks this is the best way to learn and empiricists will be somebody who thinks direct experience is the best way to learn
+1:05:39
+Andrew Ippolito: And then there's science. Andrew Ippolito: Okay, so here's the thing, science isn't a philosophy or a worldview or an alternative to religion. It is a process of acquiring new knowledge. It's a process.
+1:05:52
+Andrew Ippolito: And all it is, is it's marrying empiricism and rationalism, you think something through logically and you go out in the world and test it out and see if it's right or not that that's it that science in a nutshell.
+1:06:05
+Andrew Ippolito: Done purely done authentically, it is the most reliable way of acquiring you're not
+1:06:15
+Andrew Ippolito: We have given rise since we've started doing science in the 1500s everything started changing for us, things started going our way a little bit more
+1:06:23
+Andrew Ippolito: We came up with atomic theory. Andrew Ippolito: Eventually we came up with self theory gravitation theory evolution theory.
+1:06:32
+Andrew Ippolito: Learn about what this word theory means when we do the scientific method. It doesn't mean what you think it means
+1:06:39
+Andrew Ippolito: Alright, so people so so where do they play some fun quotes just associated so experienced the only source of knowledge is experience Albert Einstein said that
+1:06:48
+Andrew Ippolito: That's kind of an absolute isn't there. Right. But it's got to be other sources of knowledge. But no, there's only one is called experience.
+1:06:55
+Andrew Ippolito: Put yourself up by your bootstraps, the school of hard knocks. What he's really talking about there is we can sit there in hand wave, but at the end of the day, a scientist goes out and actually looks
+1:07:09
+Andrew Ippolito: That's the difference between philosophy and science, philosophy is the thinking and the science is the thinking and the doing
+1:07:20
+Andrew Ippolito: That's why we call it a doctor, a philosophy, a PhD, having a doctorate in philosophy means that you learned about some subject to the point where you got to the point where there was no more. You could do you got to the point where you could just start philosophizing about it.
+1:07:37
+Andrew Ippolito: But nobody's actually done the experiential stuff. And that's why we call it that.
+1:07:43
+Andrew Ippolito: Nick a tip, tip of the hat. The Mark Twain probably seven, a man who carries a cat by the tail learn something we can learn no other way.
+1:07:55
+Andrew Ippolito: Cats. Andrew Ippolito: I hate cats.
+1:08:03
+Andrew Ippolito: That's one of my sticks, you're gonna see in class. I don't actually hate cats, but you're gonna see all semester I pretend to hate cats, because it's funny.
+1:08:12
+Andrew Ippolito: I come up with in a totally unintentional. When I started teaching couple years back.
+1:08:18
+Andrew Ippolito: I came up some analogies with cats. Now, I don't like cats, particularly in part because I'm highly allergic to them.
+1:08:25
+Andrew Ippolito: That's really what it comes down to. I love kittens. But kittens grow up to be cats.
+1:08:33
+Andrew Ippolito: All right, show hands, how many of your cat people who are you, Oh man, that's too many
+1:08:40
+Andrew Ippolito: Wow, that's like a record. I have to class going to hate anybody in here. How many of your dog people dog people yeah oh yeah okay that's much
+1:08:49
+Andrew Ippolito: Better Way more dog people, thank God. Andrew Ippolito: I'm just kidding. Again, I just want to preface.
+1:08:55
+Andrew Ippolito: This by saying Jordan Russell: This is all a stick. Andrew Ippolito: I don't actually hate cats. Andrew Ippolito: But it's a funny thing to do. And you'll see when we do like when we do metabolism. I learned about metabolism right you'll see some of my funny catch up here.
+1:09:08
+Andrew Ippolito: Anyway, holding a cat by the tail and really holding anything by the Toby mean it might give them like hip dysplasia, but particularly, you can imagine, pulling a cat by the tail that's gonna you're gonna learn something. You can't learn otherwise.
+1:09:23
+Andrew Ippolito: Or authority. Andrew Ippolito: Last year I started reading rereading for the first time as an adult 1984 by George Orwell
+1:09:32
+Andrew Ippolito: Very disturbing book. Andrew Ippolito: And if all others accepted the lie, which the party imposed if all records told the same tale than the live past in the history and became truth who controls the past ran the party slogan controls the future. And who controls the present controls the past
+1:09:55
+Andrew Ippolito: The party told you to reject the evidence of your eyes and ears. It was their final most essential command.
+1:10:05
+Andrew Ippolito: Now what you're seeing and what you're reading is not what's happening.
+1:10:11
+Andrew Ippolito: That was it. Literal quote by what time is it Andrew Ippolito: We're missing the presidential inauguration. We missed it was an hour ago. So we can now say our former president said that
+1:10:23
+Andrew Ippolito: I just want to preface this by saying this is our first day of class, I am not political in class at all. I respect everybody's worldview. Everybody's philosophies.
+1:10:36
+Andrew Ippolito: But there are some things that don't have two sides.
+1:10:42
+Andrew Ippolito: But they're beyond the scope of the class. Right, so I I don't have my first amendment rights when I'm a teacher, no teacher has their First Amendment rights.
+1:10:51
+Andrew Ippolito: And the reason for that is very simple. You are what you would call in legal ease a captive audience. In other words, because I give you grades.
+1:11:01
+Andrew Ippolito: And because some of those grades, not for me personally, but if you're a hypothetical teacher giving grades for say class participation, or you know grading essays, or whatever. And then like an English class because I have power over you by awarding grades to you.
+1:11:17
+Andrew Ippolito: You don't have the freedom to say things to me you'd like to say maybe because I could in theory penalize you for them.
+1:11:27
+Andrew Ippolito: And that's why I don't have my freedom of speech because you're a captive audience. So instead I have something called academic freedom.
+1:11:37
+Andrew Ippolito: Academic freedom is my ability to teach you things that might not be comfy. But if it's within the scope of the curriculum, it's fair game.
+1:11:45
+Andrew Ippolito: For example, I can teach you about evolution and because this is a biology class. We can talk about things that are sometimes uncomfortable like death or abortion or
+1:11:59
+Andrew Ippolito: Sex and gender the genetics behind those things. Andrew Ippolito: Right. And I'm going to talk about all that stuff this semester. And I'm going to teach you a lot about what the science is behind those things things I can't talk about are things that have nothing to do with the
+1:12:12
+Andrew Ippolito: The, the curriculum, so I can't talk about anything that's going on the world unless there's a tie into science. For example, I can talk about the fact there's no such thing as an alternative fact
+1:12:23
+Andrew Ippolito: You might have heard that phrase in the last few years. Raise your hand if you've heard that phrase before alternative fact yeah that's
+1:12:31
+Andrew Ippolito: That's nice, maybe for a level stuff. That's
+1:12:37
+Andrew Ippolito: That's propaganda. Andrew Ippolito: Okay.
+1:12:43
+Andrew Ippolito: And I can talk about the free press Andrew Ippolito: Because we're talking about acquiring knowledge. There are three people three types of fields that people go into where as a professional, their job is facts.
+1:12:59
+Andrew Ippolito: Teaching, which is what I'm doing right now. Andrew Ippolito: Journalism, which is essentially the scientific method.
+1:13:08
+Andrew Ippolito: And doctors Andrew Ippolito: right to vote, but let's say journalists and teachers and those are the targets of propaganda.
+1:13:20
+Andrew Ippolito: If you want to control the message, you have to take away the confidence that people have in the people whose job is to report the facts, teachers and journalists. So education gets lampooned and the press gets lampoon
+1:13:34
+Andrew Ippolito: Let's make sense. I hope so. That's authority, though.
+1:13:39
+Andrew Ippolito: Right. That is the way to acquire new knowledge authority, you're learning that right now. I'm an authority figure
+1:13:48
+Andrew Ippolito: Because I'm a teacher. But how do you know Andrew Ippolito: Can, can these methods that we're using be fallible.
+1:13:57
+Andrew Ippolito: How do you even know who I am. It says, Andrea Polina right here. Andrew Ippolito: That must be Andrew Pulido now when I was in school when we're in person. I used to make this really dark joke like how do you know Andrew blue was actually not in the trunk of my car.
+1:14:12
+Andrew Ippolito: I didn't know. I didn't kidnap Andrew bleed on impersonating them you have relied on the assumption that the school did all that checking first
+1:14:22
+Andrew Ippolito: You're making assumptions. Andrew Ippolito: Now, the key here is, and we're going to talk about the assumptions of science, you have to make assumptions or you just keep having to reinvent the wheel every day.
+1:14:34
+Andrew Ippolito: Right, if you have to constantly quality control and validate every single fact all the time. You're not going to build anything new. You're just going to keep reinventing the same thing over and over again.
+1:14:46
+Andrew Ippolito: That's no good. So authority when used properly is a shortcut. Your textbook as an authority scientific journal articles are authorities, I'm an authority, you're an authority you learned it from me, now you can go to somebody else.
+1:15:01
+Andrew Ippolito: Right, but you have to keep in mind every source of knowledge has its strengths and weaknesses and authority.
+1:15:09
+Andrew Ippolito: Has its weaknesses. Andrew Ippolito: Right, if I'm not a responsible teacher, and I'm not reading up on the current things and I'm making up answers to your questions that I don't know and I pretend I do
+1:15:20
+Andrew Ippolito: That's being a responsible. I'm sure there's some people that hand wave but don't tell their students are hand waving and you learn or I miss speak and I see something factually wrong and now you have something factually wrong.
+1:15:31
+Andrew Ippolito: Just like Spider man's uncle said with great with great power comes great responsibility.
+1:15:39
+Andrew Ippolito: Okay, so that's authority. Andrew Ippolito: As tenacity. This is my favorite one to just joke about this is a really good quote false hood flies and the truth comes limping after it.
+1:15:56
+Andrew Ippolito: Once you put something out into society. It is almost impossible to take it back.
+1:16:03
+Andrew Ippolito: We've all been exposed to this sort of thing. Andrew Ippolito: For example, Andrew Ippolito: The whole situation with vaccination right now, which is more important than ever. But go back five years.
+1:16:15
+Andrew Ippolito: Go back to the idea that vaccines cause autism. Andrew Ippolito: Which was made up by researchers
+1:16:21
+Andrew Ippolito: They admitted it to them. They were lying. They may they fabricated their data and they went to jail for it and they lost their license for it. And yet, there's still people who believe it.
+1:16:33
+Andrew Ippolito: If you believe that narrative. Andrew Ippolito: When somebody uses the phrase narrative. Yeah, that's a flag.
+1:16:41
+Andrew Ippolito: That that's the conspiracy mind not saying there aren't conspiracies, but I'm saying that for things that science accepts like vaccination does not cause autism. You believe that still you're being tenacious.
+1:16:56
+Okay. Andrew Ippolito: Foolish people ask you Andrew Ippolito: When you speak what they do not wish to hear how do you know it is the truth and not an error of your own. We know the truth when we see it from opinion as we know when we are a week that we are a week.
+1:17:15
+Andrew Ippolito: Do we end up one Andrew Ippolito: We might end up one Andrew Ippolito: I do this sometimes, especially the first day of class.
+1:17:23
+Andrew Ippolito: Yeah, I think we ended one. Alright, so, Give me, give me another minute or two to just wrap this up. And we don't usually go over time it just the first day of class.
+1:17:30
+Andrew Ippolito: Um, what's so the idea here is you know it's it's light outside of course it's like, how do I know it's late. Well, it just makes sense.
+1:17:39
+Andrew Ippolito: Actually no less empiricism that that's not that's not even like how do I know I'm a week.
+1:17:44
+Andrew Ippolito: Because I just feel a week. How do you know your real Andrew Ippolito: Man, that's where
+1:17:51
+Andrew Ippolito: That's tenacity here. Let me skip ahead here. Andrew Ippolito: To science.
+1:17:57
+Andrew Ippolito: Okay, the status aspect of life right now is that science gathers knowledge faster than society gathers wisdom. That's the truth.
+1:18:05
+Andrew Ippolito: And right now we're gathering more data than we can process. Andrew Ippolito: There's every second of every day we're gathering things like telemetry data and and ocean temperatures and wind patterns and every time in real time right now we're just building these massive data repositories and we don't even know what to do with them yet.
+1:18:20
+Andrew Ippolito: We're getting an artificial intelligence to handle that stuff. Andrew Ippolito: Okay. But here's the thing. That's what I wanted to get to, for the end of the class. Science is it's a Venn diagram, you have empiricism. On one hand, you know, rationalism, on the other.
+1:18:34
+Andrew Ippolito: Now I include tenacity and authority here because even though they don't directly relate. We do use them sometimes for inspiration. For example, if you're coming out with a novel hypothesis.
+1:18:45
+Andrew Ippolito: Sometimes it just makes sense. Andrew Ippolito: Differences is that's not where it ends. You're not claiming knowledge there you're claiming the beginnings of an inquiry to seek that knowledge.
+1:18:57
+Andrew Ippolito: Likewise you read something in a scientific paper that gives you an idea that's the authority part so they live outside of it, but they're very much
+1:19:07
+Andrew Ippolito: The augmented Andrew Ippolito: Okay. The key is this any single individual method of acquiring new knowledge is a week unto itself. It's when you put them together and you get this very robust discipline system. And that's what science is
+1:19:26
+Andrew Ippolito: And everybody uses it, whether it's a court of law or in journalism or or doctor, or a construction worker. It's just a method of acquiring new knowledge. It's professional troubleshooting, in some ways, that's it. There's nothing special about it, denying science is denying reality.
+1:19:48
+Andrew Ippolito: Okay. And so I'm going to leave you on this concept because we see things like, well,
+1:19:53
+Andrew Ippolito: Well masks were bad the mask. We're good mask or bad password. Should we wear a mask and we wear a mask is it airborne or isn't an airborne. What is it science doesn't know anything. The thing is, guys, is that
+1:20:02
+Andrew Ippolito: This was a new virus, and we were learning things at an accelerated pace. And so here's the concept. I would never want you to forget. And you can start using this one today, you're ready science.
+1:20:14
+Andrew Ippolito: I'm going to write this down because it's so important. And I'll leave you on and it's today science.
+1:20:21
+Andrew Ippolito: Is replaced Andrew Ippolito: By
+1:20:27
+Andrew Ippolito: Better science.
+1:20:32
+Andrew Ippolito: We're always inquiring and learning new things and adding to what we knew before and throwing out what was wrong and replacing it with something more accurate.
+1:20:45
+Okay, Jordan. Andrew Ippolito: That a hand. Raise your hand. I can Jordan Russell: Oh no, I was laughing
+1:20:51
+Andrew Ippolito: Oh, okay, good. Okay. Andrew Ippolito: I'm still learning my own zoom link. Oh, that's good. Yeah, I like that one sciences replaced
+1:20:57
+Andrew Ippolito: By better science. And so when somebody says why science, like we can't eat eggs. But then we could eat eggs. But now we can't eat eggs again and eggs are bad, and eggs are good well
+1:21:05
+Andrew Ippolito: That's because we're still learning the week cholesterol works and how that really start disease. Well, and about that went to genetics.
+1:21:11
+Andrew Ippolito: Okay, alright. So that concludes our first day of class. I hope you enjoyed it and what I want to make sure you do now is get everything you know be motivated
+1:21:21
+Andrew Ippolito: And let's let's see right now our short term goal is to get everything done get everything set up so that you're kicking butt on on Quiz one
+1:21:29
+Andrew Ippolito: Which you're going to have after the second I think by day three, we'll have our first quiz. Right. I'm not going to hit you with a quiz on Monday.
+1:21:37
+Andrew Ippolito: I'm going to hit you with a quiz on Wednesday. I'm telling you now, right. So, between now and Monday. You know what to do if you're not sure what to do.
+1:21:45
+Andrew Ippolito: Send me an email, be on the lookout for my emails. I'm going to set the zoom chats up. I'm going to start sending invites out and we'll have a persistent place to have our little talkie talkie okay
+1:21:57
+Andrew Ippolito: Alright, awesome. Pleasure meeting you all Andrew Ippolito: And I'll so what I'm going to do now is I'm gonna stop the Andrew Ippolito: Recording for the first class here. Stop recording
