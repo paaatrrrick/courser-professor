@@ -1,0 +1,1088 @@
+0:02
+Andrew Ippolito: All right, here we go we're picking up where we left off last time we're in the middle of talking about the different hallmarks of life.
+0:09
+Andrew Ippolito: And we are sitting here talking about we just finished speaking about emergent properties.
+0:15
+Andrew Ippolito: The idea that there are certain characteristics of systems that only reveal themselves once the complexities of the interactions of the components of those systems happen.
+0:24
+Andrew Ippolito: And so what this traces back to is this concept we've talked about earlier and i'm going to repeat to work for PT now the the tie in or the the intimate relationship between structure and function.
+0:36
+Andrew Ippolito: there's a correlation between the physical shape of something. Andrew Ippolito: And what it can do right, this is something that might seem obvious, at first, but this is a guiding principle in all investigations in biology.
+0:51
+Andrew Ippolito: This is a critical when when you look at the way engineers design whatever they're designing whether it's a bridge or better hammer form follows function that's the same.
+1:04
+Andrew Ippolito: So when scientists are you know studying something new, like the corona buyers we look at you know the spike proteins on its surface, let me see the way they're shaped that tells us that gives us a hint as to what they are meant to do.
+1:18
+Okay. alright. Andrew Ippolito: So the next level appears the cell itself, we see life emerging you see light so here here's one thing you could say life is an emergent property of cellular organization or the at the level of the cell life is an emergent property being alive, is a characteristic.
+1:39
+Andrew Ippolito: Right, so this is where we start our story and biology it's not where we ended, but this is a good place to or maybe this is a fulcrum point the Center of it all this is the beginning.
+1:50
+Andrew Ippolito: Of the story of life. Andrew Ippolito: And we're going to talk all about cells this semester.
+1:56
+Andrew Ippolito: One of the things I can tell you right away, is that there's only two kinds of cells on the planet.
+2:01
+Andrew Ippolito: there's prokaryotes and carriers there's nothing there's no third.
+2:06
+Andrew Ippolito: And you can think of these as super domains there's super domain pro carrier and super domain you carry on and from within their all of the stuff we're going to talk about this semester off and next semester, when you take bio to.
+2:19
+Andrew Ippolito: will be will be within that there's a huge range of sizes between cells, the largest size, for example in the human body is the the female over the egg.
+2:29
+Andrew Ippolito: And the smallest cells ever recorded of these very primitive bacterial cells, like all the way down to Point one microns.
+2:38
+Okay. Andrew Ippolito: Alright, so once we get to that cell here, we could say that that cell will reproduce cells, we get cells beget cells right.
+2:50
+Andrew Ippolito: And the question, there is, you know where that first cell come from and evolution doesn't give us that.
+2:58
+Andrew Ippolito: that's that's a theory called a bio genesis. Andrew Ippolito: The idea that life arose from organic material that was not itself alive.
+3:09
+Andrew Ippolito: that's your your Ian Miller experiment, the primordial soup, the idea of.
+3:15
+Andrew Ippolito: pants panspermia the idea that early earth was pummeled by.
+3:21
+Andrew Ippolito: meteors that brought Richard Yannick molecules to the surface, that then. Andrew Ippolito: played in the soup and eventually gave rise to self replicating molecules which, in turn, got encapsulated which gave us the first produce cells, which give us the first cells, and here we are lost, like the definition, you would give for that ap bio genesis.
+3:42
+Andrew Ippolito: You can say this is a theory the theory. Andrew Ippolito: That life arose.
+3:49
+Andrew Ippolito: From. Andrew Ippolito: There, so I don't know what the scientific term for dead is let's just say from dead organic.
+3:59
+molecules. Andrew Ippolito: that's the easiest that's just one way to put it.
+4:07
+Andrew Ippolito: Right, so that there was a spontaneous generation that happened back then it wasn't instant it wasn't approved, but actually based on, but we could put together the forensics of it, it took a billion years between a cool down earth and the first cells.
+4:25
+Andrew Ippolito: And it took another billion years before those probiotic cells around what gave rise to eukaryotic.
+4:34
+Andrew Ippolito: Could you like, once we got yeah good. Taylor Campbell: So could you kind of relate that to like a phoenix.
+4:41
+Andrew Ippolito: yeah I like. Taylor Campbell: The phoenix. Taylor Campbell: dies, and like catches on fire, but then once it cools like it kind of like a little tiny cells nine gets old again, thank you.
+4:51
+Andrew Ippolito: yeah. Andrew Ippolito: The earth is like a phoenix. Andrew Ippolito: And we're still in its first life cycle.
+4:57
+Andrew Ippolito: that's cool thanks for that i'm going to. Taylor Campbell: keep that in there.
+5:05
+Andrew Ippolito: Okay, the idea of growth, now is the idea there's two ways, you could take a growth getting bigger or replicating into marcel's.
+5:14
+Andrew Ippolito: Right, so all of us started as a single microscopic cell year there was an ova they got fertilized by sperm and that single zygote went into two to four to eight to 16 all the way up to what you are now, which is about 30 to 40 trillion cells.
+5:29
+Andrew Ippolito: And every moment of every day, every second of every day, your body's producing 100,000 new cells.
+5:36
+Which is kind of a crazy number, if you think about it.
+5:47
+Andrew Ippolito: hundred thousand cells are dying. there's something called apoptosis which will learn about later.
+5:53
+Andrew Ippolito: Okay, and then, when we talk about development, this is kind of distinct to multicellular organisms, the idea that that one cell specializes in you know and.
+6:02
+Andrew Ippolito: It gives rise to multiple cells and then some of those cells become one thing, and some of those cells become another thing, so the idea of development.
+6:09
+Andrew Ippolito: And the reason, when we throw this together in one hallmark of life is because we have to really capture that idea of what happens once you've got that sell.
+6:19
+Andrew Ippolito: That cell begets another cell that cell becomes bigger that cell divides rate and it depends on you know you got bacteria that are unicellular and you got us that are multi site or, and so this captures all that.
+6:30
+Andrew Ippolito: So the question is, and what decides what so I can show you a live image of an embryo under a microscope and two embryos, they look exactly the same, and I tell you that one of them is a human embryo, Mr there was a mouse embryo.
+6:46
+Andrew Ippolito: What decides which is which you tell me what do you think.
+6:51
+Angela Harbeck: isn't it like the cells that you have, because if you don't have certain cells for that body like to create that, then you can't like make up that like living being.
+7:02
+Andrew Ippolito: Yes, but here's the thing. Andrew Ippolito: At that moment and Tom showing you both of those embryos have all the same cells.
+7:12
+Alexis Micewski: Stand I think exactly yeah. April Neeld: it's the it's the genes what the gene say, did you think.
+7:18
+Andrew Ippolito: Of the Jesus the the APP. Andrew Ippolito: there's an APP running I got the human APP we got the mouse APP you can switch them.
+7:29
+right here it's kind of like a hard coded to APP. Andrew Ippolito: cool our energy processing.
+7:38
+Andrew Ippolito: The idea that. Andrew Ippolito: We need to take in energy to do the work of life and we'll talk more about this when we get.
+7:48
+Andrew Ippolito: Later into the Semester, but for now let's just do some simple definitions here.
+7:54
+Andrew Ippolito: You can't really define energy until you define work. Andrew Ippolito: what's work let's take matter.
+8:03
+Andrew Ippolito: And then let's change this position. Andrew Ippolito: that's that's the simplest definition of work, take something.
+8:11
+Andrew Ippolito: and change its position it's a push it's a Pole it's a twist it's a break it's a build it's it's just any movement at all.
+8:23
+Andrew Ippolito: OK, so the cell is constantly doing work it's building things it's breaking things it's moving things it's changing things right there's there's chemical work different chemical reactions.
+8:39
+Andrew Ippolito: there's a. Andrew Ippolito: Movement think about your cell bringing things in or pushing things out so there's physical movement of things.
+8:50
+Andrew Ippolito: there's mechanical work, they can muscle contraction okay so there's all sorts of different ways this are so So what is energy, energy is the capacity to do work.
+9:03
+Andrew Ippolito: it's the potential to do work. Andrew Ippolito: It doesn't mean you're doing the work.
+9:09
+Andrew Ippolito: means you can do the work. Andrew Ippolito: And that's why you can divide energy really into two groupings, so you have potential energy and kinetic energy and we've all learned this when we were kids right potential energy is energy.
+9:25
+Andrew Ippolito: that's what i'm talking about, you have the potential to do the work kinetic energy is when you're actually doing the work.
+9:38
+Andrew Ippolito: And so we can talk about force here, but then we start getting too much into physics, we talked about force of force is you can think of it as a focused concentration of kinetic energy, such that you're applying an acceleration to an object.
+9:56
+Andrew Ippolito: Right and in order to move something right so here take this pen take the stylus right.
+10:01
+Andrew Ippolito: And I apply some and I give it some energy right, how do you give it energy I apply a force to it, the force is when I go from a T equals zero is not moving and now we start moving it i've accelerated it right so forces.
+10:17
+Andrew Ippolito: Are things are a force leads to an acceleration.
+10:24
+Andrew Ippolito: Okay, and in order to apply it, for us, you need energy, so we don't usually call it. Andrew Ippolito: The electromagnetic energy we call it the electromagnetic force because it can accelerate things okay.
+10:37
+Andrew Ippolito: So there's there's subtle differences between the concepts of energy and force you don't have to know that for this class, but when you start thinking about and tying in and you meant, you have to take physics, you have to tie all this together at some point.
+10:50
+Okay. Andrew Ippolito: All right, so we just did what kind of worked as a cell mechanical chemical movement right trans trans So you can see, transport, mechanical and chemical if you want to you know doable but, again, we cover all this later in the Semester.
+11:04
+Andrew Ippolito: Right now, the question here now, is it all we need all you need is love, all you need is energy.
+11:11
+Andrew Ippolito: Right that's not true, you need things to right, so you could say the hallmark of life would be life requires energy materials.
+11:22
+Andrew Ippolito: You need carbon right, you need nitrogen, you need oxygen you need water right, so you need all this stuff to build the cell not just energy you can't make anything out of energy.
+11:31
+Andrew Ippolito: So I like to say, think think of a think of a hill somewhere that has a whole bunch of lumber and and boxes of nails and and ladders right and move we call this thing a house No, of course, not that's just I mean that's a pretty terrible house right.
+11:53
+Andrew Ippolito: that's like calling the asteroid field, the planet. Andrew Ippolito: Remember that bad joke.
+11:58
+Andrew Ippolito: Right it's no so that's the material, what do we have to do we have to put energy into it, to build that house right, you have to put the energy and that's that's what we're doing so, so if you just got this pile of goo that's not a cell that's not life.
+12:13
+Andrew Ippolito: Right, we have to put the work in. Andrew Ippolito: Alright, so that's energy processing.
+12:19
+Andrew Ippolito: So distinguished now the whole the energy in the materials energy flows through systems.
+12:32
+Andrew Ippolito: Like the force flows through us if you ever watched Star Wars and you listen to obi wan kenobi talking to Luke about the force the force flows through.
+12:43
+Andrew Ippolito: energy flows through it doesn't cycle. Andrew Ippolito: right on our planet here you got the sun you got the earth Okay, the energy goes to the earth and then back again.
+12:59
+Andrew Ippolito: it's flowing in it's a one way flow. Andrew Ippolito: And yes, and I believe that leads to the heat death of the universe, but that's not happening anytime soon you have to worry about it.
+13:11
+Andrew Ippolito: Okay, in the meantime we got life here it's fun it's like a vacation that last couple billion years, then she is going to end but we won't be here to see it.
+13:21
+Andrew Ippolito: In contrast to that the nutrients do cycle okay everything on earth carbon nitrogen the Austrian the phosphorus the water.
+13:31
+Andrew Ippolito: Carbon dioxide, whatever the nutrients cycle and all of them have their own cycle there's a carbon cycle of the phosphorus cycle, the nitrogen cycle you'll learn about all that stuff and bio to when you do ecology.
+13:43
+Andrew Ippolito: For now, just understand it's all connected the ecosystems on earth.
+13:49
+Andrew Ippolito: As they evolved. Andrew Ippolito: As long as they don't get mocked up are sustainable and perpetuate through time until there is a disturbance whether it's a huge forest fire or a meteor impacting.
+14:03
+Andrew Ippolito: Our farmer starts building a ranch down the road.
+14:08
+Okay. Andrew Ippolito: Life regulates.
+14:17
+Andrew Ippolito: Right, I mean think about it, if a cell just hung out and didn't do any work the universe, is going to collapse in on it right.
+14:25
+Andrew Ippolito: Things are going to flow into the cell, as it does its metabolism we sold chameleon inside the cell that's gonna die.
+14:33
+Andrew Ippolito: So what's the cell to do right well so here think about your home think about where you are right now and think about the fact that if you didn't spend a little bit of time whether every day or every week or every month cleaning your room.
+14:47
+Andrew Ippolito: doing your laundry folding it and putting it away vacuuming dusting.
+14:54
+Andrew Ippolito: Right organizing your books, or whatever you have in hanging out in your room it's going to start slowly falling apart.
+15:01
+Andrew Ippolito: Right, the universe, is just always trying to crush down around us that the universe tends towards chaos.
+15:09
+Andrew Ippolito: And life is all about fighting that and we have to put energy into it.
+15:15
+Right. Andrew Ippolito: And so we have this concept called homeostasis homie homie or homo homos that same.
+15:25
+Andrew Ippolito: Okay, and then status means still. Andrew Ippolito: you're keeping yourself the same.
+15:31
+Andrew Ippolito: Right, so at this moment in time i'm alive my cells are alive, this is what we want to keep we want to stay like this that's what homeostasis is work is all about.
+15:41
+Andrew Ippolito: that's the concept of homeostasis right, so you can think of, we have all these various parameters, we have sugar levels in our blood, we have a temperature, we have ceiling concentrations, we have magnesium and calcium and iodine all these things.
+15:57
+Andrew Ippolito: and any one of those things, has to be within some realm of normalcy that's why you can see, this little green boundary point you know it's it's, not a single line I didn't draw it like this it's not a lie.
+16:11
+Andrew Ippolito: right if it was a line you would say things like this i'm uncomfortable it's not 74.2 degrees.
+16:17
+Andrew Ippolito: I need to be 74.2 degrees I don't like 74.3 degrees now i'm cold or now i'm hot right you're like i'm okay with between 70 and 73 degrees or 68 and 72 or you're like, whatever your favorite range of temperatures it's a ring right.
+16:33
+Andrew Ippolito: you're okay with it fluctuating a bit that's what that is that's a it's a fuzziness there's a fuzziness here right your blood pH, for example, it ranges anywhere from 7.35 to 7.45.
+16:46
+Andrew Ippolito: Which is kind of tight, but if you think about that that's a logarithmic scale that's still that's a that's a healthy difference going too far in one direction or the other, though right, so if we start heading away from that sweet spot there's your stress, we talked about from day one.
+17:03
+Andrew Ippolito: And what do you do when you get stressed you respond to it, you try to bring it back to the green.
+17:09
+Andrew Ippolito: If you start getting hot if it starts getting too high, what do you do you sweat your body cools down again it pulls it back okay life has a tendency to settle in that middle part it's like a buffer.
+17:24
+Andrew Ippolito: Okay that's the concept of homeostasis. Andrew Ippolito: So here's one of my fun little things here you got the goldilocks idea right this porridge is too hot this part is too cold and there's porridge is perfectly balanced Santos you guys don't know who fantasies you have no idea fantasy, some of it yeah So if you ever watched the.
+17:48
+Andrew Ippolito: The avengers. Jordan Russell: Of course, and everything it says. Andrew Ippolito: yeah not everybody does.
+17:54
+Andrew Ippolito: raise your hand you don't know who fantasies. Andrew Ippolito: yeah there's a couple of you, so you know you know the the marvel movies, you know iron man and all the ones that you missed.
+18:03
+Andrew Ippolito: All that all that nonsense, so the big bad guy in the avengers was this guy named fan oh so what he wanted to do was he wanted to murder instantly half of all life in the universe.
+18:14
+Andrew Ippolito: Because we were unsustainable and that was a solution to it just randomly kill half of everything in the universe, with a snap.
+18:25
+Andrew Ippolito: And he did it. Andrew Ippolito: And then the whole next movie was about them, trying to fix that it was kind of dramatic at the end of the movie where he actually does the snap and you see people feeding to dust.
+18:37
+Andrew Ippolito: spider man like I don't feel so good, and then he disappears like half of all the people that you like watching on the screen just turn to sender ash.
+18:48
+Andrew Ippolito: was kind of disturbing honestly and then the next movie starts and you're like I don't like where this is going at all it's made me feel uncomfortable I hope this ends well.
+18:59
+Andrew Ippolito: Maybe you should just not watch it. Andrew Ippolito: But. Andrew Ippolito: here's the idea. Andrew Ippolito: Go ahead Jordan.
+19:06
+Jordan Russell: Ah. Andrew Ippolito: I heard you say something I thought. Jordan Russell: Oh no but I cried during that movie.
+19:14
+Jordan Russell: I will, I will gladly admit I was sobbing in the theater during a game.
+19:20
+Andrew Ippolito: yeah you definitely get attached to these characters. Alexis Micewski: Would you say Alexis i'm with them there ironically i'm watching all the marvel movies in chronological order again so.
+19:29
+Alexis Micewski: Nice. Andrew Ippolito: Nice yeah yeah i'll go back and watch. Andrew Ippolito: My once my kids get older they'll probably be interested in them definite it for him at seven years old.
+19:38
+Jordan Russell: I am currently like head over heels for one division, right now, so I need that to come out like all at once.
+19:44
+I can't I. Andrew Ippolito: I watched the first to have that. Andrew Ippolito: Actually, and I was really amused by it it's so different and I.
+19:52
+Andrew Ippolito: We can talk about that later. that's I have some theories. Andrew Ippolito: Anyway, and then, of course, demand delorean but you know what is this biology class this isn't talk about your favorite TV show class i'm sorry I Maybe I should I have to remove this slide it's just a distraction at this point.
+20:07
+Andrew Ippolito: But you get the idea right there's a sweet spot there's a balance that LIFE has to achieve, and the way it does this is through our metabolism right so here's a fun thing the word homeostasis means states Dell, the word metal the Greek root for this.
+20:25
+Andrew Ippolito: literally means. Andrew Ippolito: A change.
+20:31
+Andrew Ippolito: To change so you're. Andrew Ippolito: Changing to stand still.
+20:38
+Andrew Ippolito: hmm, and so the idea here so First let me formally defined this when I say your metabolism that's the sum total of all the chemistry that's happening in your body or all the chemistry is happening in a single cell.
+20:51
+Andrew Ippolito: It depends on what you're talking about your best metabolism it's the big web of chemistry.
+20:57
+Andrew Ippolito: Okay, and you can roughly divided metabolism into two subdivisions there's the building reactions and the breaking reactions.
+21:07
+Andrew Ippolito: and call them the nationalism and the capitalism you refer to things like this catabolic reactions anabolic reactions Okay, and the way to remember this is well just think about what cats do.
+21:24
+Andrew Ippolito: They what do they do, they destroy. Andrew Ippolito: right they break things they shred rapes, they eat your ferns they eat lasagna.
+21:39
+Julia Lakchin: To be fair, dogs do the same thing, though.
+21:45
+Jordan Russell: Have you ever own dusky. Julia Lakchin: No, but my boy. Andrew Ippolito: i'm not being fair okay.
+21:52
+Andrew Ippolito: My. Julia Lakchin: My shoes, but this dog eats my shoes all the time. Andrew Ippolito: that's terrible okay we're gonna remind this.
+22:00
+Jordan Russell: yeah my husky has eaten drywall. Andrew Ippolito: There we go. Andrew Ippolito: Just flat out named it's called dog.
+22:06
+capitalism. Andrew Ippolito: or. Jordan Russell: How about cannibalism for canine.
+22:11
+Andrew Ippolito: The idea you're never gonna forget this now metabolism is a breaking reactions, I say remember it cats break so to do catabolic reactions and then imagine there's this.
+22:22
+Andrew Ippolito: cute little girl five year old sitting on the carpet building with Lincoln logs and her name is Anna and he's building this little cast a lot of Lincoln logs.
+22:31
+Andrew Ippolito: into the cat comes along destroys it. Andrew Ippolito: there's an apple ISM.
+22:38
+Angela Harbeck: Please, so do they play off of each other. Yes. Andrew Ippolito: that's actually Angela.
+22:43
+Andrew Ippolito: that's a great insight that it's kind of neat how you just amelie did that there's this concept so here here's the here's the cartoony version of this, so we have this this molecule that we break down.
+22:54
+Andrew Ippolito: Right so there's your breaking reaction. Andrew Ippolito: catabolic reaction, right now, these reactions give off energy.
+23:05
+Andrew Ippolito: And we'll learn how this works in more detail later this master Okay, and then here's a different system okay and we're gonna go oh hold on actually let me.
+23:19
+let's do like this. Andrew Ippolito: But yeah.
+23:27
+Andrew Ippolito: we're gonna go up and build it there's your Annapolis oops a na.
+23:34
+Andrew Ippolito: And we're gonna need energy for that, so this is called coupling.
+23:39
+Andrew Ippolito: Right, so we eat our food we break our food down, we take the energy out of that and we put it to work building our stuff that we actually need.
+23:52
+Andrew Ippolito: So, yes it's all connected and this. Andrew Ippolito: Is your metabolism.
+24:03
+Andrew Ippolito: Excellent okay so life regulates itself through its metabolism so here's the analogy, at the end of the day, you're running on a treadmill.
+24:12
+Andrew Ippolito: that's life. Life is a treadmill. Andrew Ippolito: you're running to stay in place you stop running What do you do you fall off that stuff.
+24:23
+Alexa Deprisco: The world doesn't stop it's relentless. Andrew Ippolito: It just keeps moving forward and it's up for you to keep up with it.
+24:32
+Andrew Ippolito: What does that sound like the beginning of the movie trainspotting now. You got to keep up.
+24:39
+Alexa Deprisco: All right. Andrew Ippolito: So, like what is. Alexa Deprisco: Then the.
+24:44
+Alexa Deprisco: The metabolism, like in terms of the cat cannibalism like breaking down then.
+24:49
+Andrew Ippolito: So khattab realism we're going to learn that would be. Andrew Ippolito: Things like like causes that would be when we take our food.
+24:57
+Andrew Ippolito: Our food particles and we ingest them and then insides are inside our.
+25:02
+Andrew Ippolito: ourselves, we go through chemical reactions, I take those big molecules and make them into little pieces, so we take a protein and we break it down into amino acids.
+25:10
+Andrew Ippolito: Are we take a poly soccer I like starch and we break it down into glucose molecules and we take those glucose molecules are breaking down to carbon dioxide and water Okay, and as we're breaking everything down.
+25:20
+Andrew Ippolito: There shedding energy. Andrew Ippolito: And then we're taking the energy or building things were taking amino acids and we're putting together into poly peptides and make proteins we're putting glucose molecules together to make glycogen we're building phosphor limits for our cell membranes etc, etc.
+25:33
+Alexa Deprisco: So, like could you liken it to them like breaking down nutrients so processes perfect. Andrew Ippolito: yeah breakdown nutrients to build the cells needed materials.
+25:45
+Andrew Ippolito: Good good good good all right. Andrew Ippolito: So one of the ways we regulate ourselves as we respond to our environment and you can think of reactions to extrinsic factors like if I say fire, we all run away I can't yell that in class because that's kind of dangerous.
+26:01
+Andrew Ippolito: Right bomb that would get me arrested. Andrew Ippolito: Right, but you get the idea right you're there's something happening in the environment and you're gonna respond to it, and if you don't.
+26:12
+Andrew Ippolito: Well then, you can't regulate anyone because you're dead, you have to respond your environment life response okay there's also intrinsic factors which I left out, I guess yeah there are intrinsic factors to.
+26:24
+Andrew Ippolito: Okay things like you know eat something bad let's just leave it at that you react to that to those intrinsic and extrinsic factors but there's in the environment.
+26:34
+Andrew Ippolito: Okay, and then this last thing here, this is probably the most important trade. Andrew Ippolito: evolutionary adaptation life evolves.
+26:43
+Andrew Ippolito: and Andrew Ippolito: This is something that happens slowly over time, one of the fun little ways to think about this and think of think of your arm to cut your arm off at the top of the shoulder and just imagine all these bones here.
+26:55
+Andrew Ippolito: Okay, take those bones and considered them and imagine them being made out of some kind of semi movable clay and being able to sculpt and stretch them.
+27:06
+Andrew Ippolito: But keeping them in place keeping the bones that are connected to bones, in the same locations relative to each other, but being able to change their shapes adapting their shapes to their environments, this is exactly what we see.
+27:22
+Andrew Ippolito: When we look at all mammals, for example. Andrew Ippolito: If you look at a salamanders arm or leg or crocodile or a bird.
+27:33
+Andrew Ippolito: or a bad, so I don't wanna say mammals tetrapods and it quadruples anything with four limbs, where you have that Axial skeleton and the APP indicator skeleton.
+27:44
+Andrew Ippolito: My favorite one to think about. Andrew Ippolito: Is the whale.
+27:51
+Andrew Ippolito: Because we think of Wales, as these aquatic organisms which they are and they swim gracefully through the ocean, and they have those flippers just like fish that flippers are fins.
+28:02
+Andrew Ippolito: The thing is, though, is that whales got some in there. Andrew Ippolito: are useless thumb granted you can't ever go to a to a whale and be hey and he used.
+28:14
+Andrew Ippolito: To making fun of me I can't do that there's no opposable thumb it's hidden in there you wouldn't even know what was in there, unless you did an autopsy.
+28:23
+Andrew Ippolito: But they've had their carpools they have their Meta carpools they have their phalanges all those are there and the whale flipper whereas if you look at a fish fin the fish finish just something it looks like a fern leaf there's no complexity there.
+28:45
+Andrew Ippolito: was also have hip bones. Andrew Ippolito: Why would a whale have a hip bone it doesn't have legs.
+28:52
+Right. Andrew Ippolito: The only rational explanation is sometime long ago wells weren't always in the ocean.
+29:02
+Andrew Ippolito: If you look at how well swims right here, everybody do this for me take your hand and mimic the way a fish swims How does a fish swim like this right Okay, and how does the whale swim.
+29:14
+Andrew Ippolito: totally different if I tied your body up if I tied your legs up and I three in a pool.
+29:22
+Andrew Ippolito: Whatever way that's mean and you had a swim How would you swim just like a whale right, I think the mermaids think of the little mermaid How does she swim same thing right her legs are tied together that's how basically well swim and dolphins and other marine mammals right.
+29:41
+Andrew Ippolito: This concept, where there's at some point in the distant past a common ancestor so you could say that there's a common.
+29:51
+Andrew Ippolito: anatomical structure between our arm and that way elfin we call that relationship homology.
+29:59
+Andrew Ippolito: We talked about homologous. Things So you can see homologous structures.
+30:06
+Andrew Ippolito: There are homologous jeans. Okay we'll talk about those later in the semester we do genetics.
+30:14
+Andrew Ippolito: Right, we talked about homologous chromosomes. Andrew Ippolito: This word is an evolutionary word.
+30:23
+Andrew Ippolito: Okay, now there are some things out there, that are not evolutionary related, but instead evolved to do a job in a completely independent fashion right So if you compare something like an insect wing.
+30:37
+Andrew Ippolito: And the pterodactyl wing and a bird wing and a BAT wing all four of those wings let you fly, but none of those wings have common ancestry Okay, that is called analogy so there's homology and analogy.
+30:52
+Andrew Ippolito: Or you could say analogous structures.
+30:58
+Are analogs. Oh boy that's just really meant that she here let's put a.
+31:07
+Andrew Ippolito: analogs analogous structures structures that Okay, so if these are two different ancestors that were not uncommon and they converge on to a single function that's called convergent evolution.
+31:23
+Andrew Ippolito: Okay, and contrast. Andrew Ippolito: In contrast, you have a single common ancestor that branches out into two different things that's called divergent evolution divergent evolution.
+31:49
+Andrew Ippolito: Looking at birds and BATs is a really, really good system, because it has both in their their skeletons are home logs.
+32:00
+But their wings are in analogs. Andrew Ippolito: and other words there's no common ancestor to the bird and the BAT that flu.
+32:10
+Andrew Ippolito: birds devolved flight completely independently them BATs evolving flight, but they are both you would say quadruplets.
+32:19
+Andrew Ippolito: They both have that APP and together skeleton in common, and so they have the same bones and they're appendages.
+32:26
+Andrew Ippolito: But they have completely adaptive adaptive differently, and the way you can present that and what's number of cloud grams remember from that chapter 26 talk.
+32:34
+Andrew Ippolito: We didn't really talk too much about this yet, but you read about him a clatter Graham is a visual representation of a hypothesis that connects things through evolutionary relationships.
+32:46
+Andrew Ippolito: that's a cloud Graham right there. Andrew Ippolito: A file a gigantic tree.
+32:54
+Andrew Ippolito: is like a cloud it's essentially a cloud of ground but the the length of the lines tell you something about relative time.
+33:04
+Andrew Ippolito: Okay, so cloud a grand think of as a generic concept that's like saying bar chart what kind of bar chart okay it's a classroom classroom is a generic thing it's just a visual representation of relationships.
+33:16
+Andrew Ippolito: yeah phylogenetic tree is a is a type of graph. Andrew Ippolito: And there's different ways to present these there's circular ones and there's horizontal and vertical or whatever, but the point is is the nodes Okay, the the contact points of the lines vertices represent species populations.
+33:38
+Andrew Ippolito: i'm really not that middle one there, so this shows a divergence here right, so there was some common ancestor and that ancestor diversion to two distinct populations.
+33:48
+Andrew Ippolito: Okay, and before it diverged with the story here is telling you is that, before it diverged that species here the common ancestor of everything above it had four limbs already.
+34:01
+Andrew Ippolito: Okay, and so we took this population of organisms and they radiated they covered they went to different places on the earth, they went to different environments and they lead their own lives and then over the years, they eventually specie through random changes.
+34:18
+Andrew Ippolito: And then, this species over here on the Left eventually divergent to another set of species that became over time, the BAT and the mouse, and you can see here this little this little bar here that's when, according to the story the BAT learn to fly.
+34:36
+Andrew Ippolito: Okay, and so there was some common ancestor here that didn't fly and some of those individuals went off and came to be the MICE that we have today rodents redemption.
+34:50
+Andrew Ippolito: and others of them became BATs. Andrew Ippolito: Which did learn to fly so there's flight of the BAT here, meanwhile, this population over here went along and eventually diverged into.
+35:05
+Andrew Ippolito: birds and crocodiles right, so this is the common ancestor of the mammals.
+35:12
+And reptiles. Andrew Ippolito: Wait I thought birds weren't reptiles, now they are now they change that.
+35:20
+Angela Harbeck: weight, so the follow gigantic trans or whatever it's, just like the time, like the lines meaning something.
+35:28
+Andrew Ippolito: yeah the lines. Angela Harbeck: indicate time passage.
+35:33
+Andrew Ippolito: Right so example it might be. Andrew Ippolito: like this that long we just means a lot of time passed the short I mean it's it's pretty recent compared to that.
+35:43
+Andrew Ippolito: Just basically like if you see the if you see a picture that's got weird lengths of lines that's the phylogenetic tree if, whereas the what i'm showing you here.
+35:52
+Andrew Ippolito: everything's the same this there's no indicator like how long it took back to evolve that or how long might have been around that's just cloud Graham.
+36:00
+Andrew Ippolito: Okay, so you can see here, this was the divergence to the reptiles and mammals.
+36:07
+Andrew Ippolito: And so we now call these these are avian reptiles and non avian reptiles.
+36:14
+that's the new. Andrew Ippolito: lingo and taxonomy, and so we could say that the dinosaurs.
+36:22
+Andrew Ippolito: Are down here, actually, you know that that's overly simple so basically i'll say this bird modern birds are are the living survivors.
+36:31
+Andrew Ippolito: Of the Holocaust that killed the dinosaurs, they are dinosaurs they evolved in today's birds are yesterday's dinosaurs, they are sauropods the sauropod dinosaurs evolved into our modern D birds.
+36:48
+Andrew Ippolito: They even had feathers are more and more we're learning that dinosaurs, there were a lot of feather dinosaurs, and so, if you go back and watch Jurassic Park, a lot of that stuff probably has to get edited now.
+36:58
+Taylor Campbell: So, like, I do have a question. yeah.
+37:03
+Taylor Campbell: isn't it true that we don't know what dinosaurs actually sounded like.
+37:09
+Taylor Campbell: um what. Taylor Campbell: About birds, though, like birds don't scream.
+37:15
+Taylor Campbell: Like you know they're like tweet tweet tweet so like two big dinosaur. Andrew Ippolito: Right right.
+37:21
+Andrew Ippolito: Now one thing we have, so I know, like the the. Taylor Campbell: duck old dinosaurs plesiosaurs.
+37:26
+Andrew Ippolito: We we doing the simulations well i'll take the bones and they'll run simulation where the way air goes to them how they breathe and there'll be able to emulate probably.
+37:36
+Andrew Ippolito: The way they sounded you know they like lead instruments like if somebody showed you a clarinet, but it was dead you forced air through it, you can probably simulate how it's supposed to sound so yeah we don't know exactly how they sounded like but based on their.
+37:51
+Andrew Ippolito: Their their skeletal structures we can take good guesses at it, but yeah we will never know for sure, until we find something.
+37:57
+Taylor Campbell: With soft tissue and see what else was there, but like aren't they supposed to be related somehow like to hell bird sound yeah.
+38:05
+Andrew Ippolito: Sure, I mean if there are common ancestor but the outstanding question, there would just be you know bird song, the idea of bird song is that something that is unique to birds, just like, if you look over at the BATs right.
+38:17
+Taylor Campbell: Only BATs flying and you sound similar. Taylor Campbell: kind of have that like that, but squeak enos.
+38:24
+Andrew Ippolito: yeah yeah. Andrew Ippolito: So it's. Andrew Ippolito: very likely that dinosaurs sounded like modern birds a bit, but maybe.
+38:29
+Taylor Campbell: Like deeper voices we doing. Taylor Campbell: Okay.
+38:35
+All right. Andrew Ippolito: So we're not going to spend any great amount of time learning about natural selection and this class that's bio to stuff.
+38:44
+Andrew Ippolito: However, evolution is the thread that connects everything, and so it is important for you to have a general awareness and understanding of how natural selection works, and so this is something that is actually in the curriculum.
+38:56
+Andrew Ippolito: In kindergarten in the UK now every kid in the UK learns this stuff from day one in school that's that's how you fight scientific illiteracy.
+39:06
+Andrew Ippolito: Right, the acceptance of evolution theory by natural selection and America is still in an embarrassingly low number.
+39:13
+Andrew Ippolito: I mean again imagine people walking around saying they don't really believe in Adams that's where we are right now it's a little loopy.
+39:23
+Andrew Ippolito: Right now. Andrew Ippolito: The people who strongly don't believe in evolution there's only one group of people that dawn they're very, very religious.
+39:33
+Andrew Ippolito: Okay there's no atheist. Andrew Ippolito: evolution deniers it's very firmly rooted in and what some people would consider the mutual exclusion between science and religion, which is a logical fallacy, the two can exist just fine the Catholic Church acknowledges this happened.
+39:52
+Andrew Ippolito: They have their on record saying something that, to paraphrase the last Pope, it would be ludicrous to deny the evidence of natural selection at this point.
+40:04
+Andrew Ippolito: So they accept it. Andrew Ippolito: And the way they can go back to their religion is that God was the invisible hand guiding it all behind the scenes.
+40:13
+Andrew Ippolito: You can't disprove approve that that's fine. Andrew Ippolito: that's different than the people who deny it they're called the young earth creationists there's also old earth creationists but there's people that believe the Earth is about 5000 years old and that all species were were created as they are today and have not changed.
+40:33
+Andrew Ippolito: Just that's harder and harder to find those people, these days, but. Andrew Ippolito: Go ahead tell her. Taylor Campbell: Does that fall into the category of people that believe the Earth is flat.
+40:41
+Andrew Ippolito: Does it fall into the category of. Taylor Campbell: The people that believe the Earth is flat. Andrew Ippolito: know, although that's equally ridiculous, I mean yeah you know what, if you want to.
+40:49
+Andrew Ippolito: You want to. Taylor Campbell: The world works differently, like gravity's different like gravity happens because, like we're falling like they have all kinds of strange things that they think so like do you think that would fall into the fact.
+40:58
+Andrew Ippolito: That they do so. Andrew Ippolito: So you could. Andrew Ippolito: put all that on the realm of pseudoscience if you want. Andrew Ippolito: Okay um.
+41:07
+Andrew Ippolito: or. Andrew Ippolito: Or you can put that into the method of. Andrew Ippolito: veracity i'm sorry tenacity. Andrew Ippolito: Okay, so yeah, you have the flatter thurs you had the young earth creationists and then, and then you have the more complex subtle things like anti vax The anti vax crowd right.
+41:24
+Andrew Ippolito: Just take your vitamins. Andrew Ippolito: Like I do.
+41:30
+Andrew Ippolito: My experience those people just tend to naturally they got lucky genetically and they're healthy and they also live a healthy lifestyle and so they have this idea that everybody can live like them and be healthy.
+41:41
+Taylor Campbell: yeah and that falls into like when we were learning about like the belief like they refuse to believe it and the hackathon to again like how you're talking about the scientists that like.
+41:52
+Taylor Campbell: Allegedly like said that it causes autism and then he came out to say that it wasn't true but they refuse to believe that that counteract.
+42:01
+Andrew Ippolito: Exactly because the it just makes sense to them. Taylor Campbell: Right. Taylor Campbell: Okay, like limit themselves to.
+42:08
+Andrew Ippolito: Exactly, and so there are people who are it just makes sense. Elizabeth Doebler: that the earth is 5000 years old.
+42:14
+Andrew Ippolito: But that's not true it's not it just makes sense it's so the Christian Bible has an entire book in it the big gets and there was this Irish priest many, many centuries ago, who did some math and calculated that it went from Adam to.
+42:33
+Andrew Ippolito: Joseph so, and so we got that we got that we got that we got that and we got Joseph and then he had his 13 kids and they're all the tribes of canaan the canaanites and.
+42:45
+Andrew Ippolito: When you do the math there and the average person live 200 years old well blah blah blah it 200 years old, what well that's in the Bible the older the older books of the Bible they believe that they measured years, not in solar years but in lunar years.
+42:59
+Andrew Ippolito: that's pretty cool and so that's why you have people living to two or 300 years old, those are those are months really are 200 months old it's still it's do the math is still about 80 years old, so he was still an old guy it just not 200 old.
+43:15
+Andrew Ippolito: The point is, is that they do that that's where the 5000 comes from there was this Irish priest there's a documentary about flat Earth is really yes, I began watching that and actually the first two or three minutes of it, I was like this watching it.
+43:29
+Andrew Ippolito: Like they're putting this on TV, I mean this is they're trying to actually build the case for flat earth this guy's actually trying to build the keys 40 standing in front of a lake saying look a flat, it is i'm like.
+43:37
+Andrew Ippolito: yeah what is. Elizabeth Doebler: an experiment gets completely like blown up at the end and it's like i'm you're wrong and then they're just like oh wow.
+43:45
+Andrew Ippolito: yeah so at the end of that the way. Andrew Ippolito: They come up with this idea, like so in order to prove that the earth is flat, we are going to buy this $25,000 laser interferometer thing.
+43:55
+Andrew Ippolito: And we're if the end we're gonna take measurements every 20 you know every hour for 24 hours, and if the divergence in the degree, is more than 15 degrees, the Earth is is round not flat.
+44:07
+Andrew Ippolito: And if there is no divergence the Earth is flat so we're going to go into the experiment do the experiment it's 15 degrees it's exactly as predicted rounder like so they're doing the interview and he's like yeah so so that's a problem.
+44:21
+Andrew Ippolito: But we're gonna keep at it and, like it just I, for I didn't. Elizabeth Doebler: bother with it no you're wrong the Earth is not flat.
+44:27
+Andrew Ippolito: yeah The thing is, is that guy made a lot of money and his. Andrew Ippolito: Followers he. Andrew Ippolito: He was making a lot of money he.
+44:33
+Andrew Ippolito: actually put a cruise together for the flat earth crazy we're going to look at the end of the world up in the Arctic and that year, I remember telling my students if anybody goes, please take some pictures, for me, I really want to do with the end of the earth looks like.
+44:47
+Andrew Ippolito: Alright, so here's how it works this there's nothing magical about this, you have an individual group of organisms of the same species you got population within that population there's variations.
+44:59
+Andrew Ippolito: All populations have variations that's part of life right if you just look at us on the zoom channel, we got different color hair different.
+45:07
+Andrew Ippolito: different skin tones we all have different metabolisms right we're just physically we're different you can do this whole way down to yourselves if you're looking under the microscope at a group of cells like your skin cells Those are all different to right there's variation and populations.
+45:24
+Andrew Ippolito: Number two not all offspring survive We live in a finite resource environment it's the concept here is called scarcity.
+45:37
+Andrew Ippolito: In the context of scarcity, not everybody makes it.
+45:42
+Andrew Ippolito: When you have scarce resources, not all the offspring are survive Darwin when he first started putting this together and thinking about it did this quick little back of the envelope calculation on elephants.
+45:52
+Andrew Ippolito: And he said, if I take two elephants and they have you know, on average, they have three children over the course of their decades of life, he did some quick math and he said the earth should be covered an elephant within 200 years and clearly that's not the case.
+46:07
+Andrew Ippolito: Right, he did an experiment in his yard, it was called the because we'd garden he actually had a garden of weeds who has a weed garden darling did.
+46:18
+Andrew Ippolito: Before Darwin postulated this most people assumed that that the earth was this wonderful beautifully balanced paradise that everything was there for a reason, when the pilgrims first came to America.
+46:35
+Andrew Ippolito: And we started going out in the woods and they discovered these whole swaths of farm they found crops growing for them, they thought God put them all they're.
+46:49
+Andrew Ippolito: Not the Indians that were decimated by plake that then died.
+46:54
+Andrew Ippolito: So he thought it was all sculpted exactly for them it's very interesting that's very interesting story, too, so the idea is is that the earth isn't this perfect balanced, harmonious.
+47:05
+Andrew Ippolito: system and when Darwin did was he took very detailed notes, he planted some seeds in the earth and then every day he visited them.
+47:12
+Andrew Ippolito: And he kept a notebook on them day one seat number seven was eaten by a mouse day three seedling number 14 you know, had some kind of weird blight and then it died.
+47:24
+Andrew Ippolito: So, only a few of them survived from the originals and that's where he started coming up with this idea to. Andrew Ippolito: Okay, so have the offspring that do survive.
+47:34
+Andrew Ippolito: Some of them, not all of them, some of them survive a little bit better because of those better they had natural variations that were more suited to that environment.
+47:44
+Andrew Ippolito: And right there that's that's the key there. Andrew Ippolito: Some of them survive because of their natural variations and those that do survive pass on those variations to the next.
+48:00
+Andrew Ippolito: To the next group. Andrew Ippolito: The next generation. Andrew Ippolito: And those who don't perish and you just keep doing that, over and over and over and over and over for hundreds and hundreds and thousands and thousands of millions and millions of generations.
+48:15
+Andrew Ippolito: And slowly and surely adaptation occurs this isn't something that happened now we have observed this happen and it's in so, for example, there was a species of lizard.
+48:26
+Andrew Ippolito: That they had to transplant from one island to another, the spec like this 60s to let it survive and they let it live on that island and they revisited it something like 20 years later, back in the 80s.
+48:39
+Andrew Ippolito: And when they researching it an autopsy showed that the stomach developed a brand new valve.
+48:50
+Andrew Ippolito: Within something like the calculated on my 30 generations, they were just popping new valve in their.
+48:57
+New species of rows of lizard. The stomach bowels lizard I don't know.
+49:03
+Andrew Ippolito: Okay, when Darwin visit the Galapagos Islands and he found all these finches living all over the place.
+49:09
+Andrew Ippolito: And he had a childhood, where he was good, with hunting, he would he was a hunter he likes shooting you know and hunting animals and so he collected a whole bunch of birds and he would he would you know.
+49:20
+Andrew Ippolito: treat them, however, he was supposed to jump ship them back to England during his five year voyage, he was just shipping things back to England, the whole time.
+49:27
+Andrew Ippolito: There was this one ornithologist friend of his and when he got back to England and he talked to that ornithologist is ornithologist friend was like.
+49:34
+Andrew Ippolito: Do you realize all of these birds are different species now he was you know, looking at their anatomy and and Darren was like why and that's what made him start thinking like he assumed, these are just you know one population, a bird.
+49:48
+Andrew Ippolito: Not all these different species that could not intermix. Andrew Ippolito: And that's the idea you start connecting all the dots here and it's like so in the islands different habitats, they had different kinds of seeds, the other beaks were shaped a little differently.
+50:04
+Andrew Ippolito: And we now learn they have different ton of bird song right there's all these changes that occur.
+50:10
+Andrew Ippolito: So so that's it that's that's evolution by natural selection, if you think of dogs it's the same exact idea, except we're deciding which dogs breed okay artificial selection humans pick mom and dad natural selection, the environment, PICs mom and dad.
+50:28
+it's that simple. Angela Harbeck: Then it happened with us like because I know I work in a nursing home and like half the resins that I work with they say that they had like six kids.
+50:41
+Angela Harbeck: And i'm like geez. Andrew Ippolito: So we live in a very well actually with a pandemic, we don't anymore.
+50:51
+Andrew Ippolito: What I used to say was We live in a very safe, healthy environment where it's kind of hard to die now, and you know, the average American our lifespans are.
+51:02
+Andrew Ippolito: they've now shortened for the first time in decades from from the pandemic, but we still pretty good let's say before antibiotics before germ theory.
+51:14
+Taylor Campbell: But you know if you go back to like the 1820s. Andrew Ippolito: When you still have people not washing their hands in between the maternity Ward and the cadaver pit they the life expectancy was in the 30s.
+51:26
+Andrew Ippolito: Our life expectancy has been in the 30s for thousands of years.
+51:32
+Andrew Ippolito: You were an elder I would be an elder. Taylor Campbell: listen to me children i've seen things right.
+51:40
+Andrew Ippolito: Most of us would be dead. Andrew Ippolito: i've actually probably be dead myself my wife would be dead she had jack was breached, when he was born, she would have blood out and died I probably would have died, too.
+51:53
+Andrew Ippolito: But she wouldn't have even gone. Andrew Ippolito: yeah What would you say to her. Taylor Campbell: Like it's because that we have the technology now like we laugh.
+51:59
+Andrew Ippolito: And sing on the medicine. Andrew Ippolito: and your practices we wash your hands, we we understand germ theory we try to avoid getting sick.
+52:07
+Taylor Campbell: yeah but we got that because of our intelligence grow. Andrew Ippolito: Right right.
+52:12
+Taylor Campbell: Like they don't have that like advantage. Andrew Ippolito: They don't need it.
+52:18
+Taylor Campbell: Right, they can yeah. Andrew Ippolito: So, if anything, we've kind of grown beyond.
+52:24
+Andrew Ippolito: The normal boundaries of natural selection right now we're still evolving don't don't mistake that humanity still above everything evolves over time it's just what what the the pressures and the stresses are different now.
+52:36
+Andrew Ippolito: Alright, so the reason why we now have glasses and stomach problems and migraines and all sorts of these just a little annoying things of life, those are accumulation of deleterious mutations that happened about six every generation.
+52:50
+Andrew Ippolito: were those are starting to catch up to us. Andrew Ippolito: The same reason why most dog breeds tend to have kind of stuff going on with them, like last opposite kidney problems.
+52:59
+Andrew Ippolito: And dalmatians or death right it's all the inbreeding and for us it's allowing the that not allowing but enabling.
+53:10
+Andrew Ippolito: More and more children to survive into adulthood, and to have children themselves that in the past wouldn't have been able to because they would have died from calera or anthrax or diphtheria, or one of them, you know pick your poison.
+53:25
+Andrew Ippolito: Right we're the first generation, we are among the first generations to survive as long as we do.
+53:32
+Andrew Ippolito: The idea that there are so many people over the age of 60 has never happened on earth before and our bodies don't know what to do, that's one of the fun things too is like my body at 45 years old.
+53:42
+Andrew Ippolito: everything that happens after this there's no precedent and evolution for it, we just slowly kind of wear out like the martian Rovers that are up there still taking pictures.
+53:51
+Andrew Ippolito: They had they were supposed to be done, years ago, but they're still up there right it's a my shoulder kind of wore out a little bit, and I know this car well you're still got a shoulder just that's not enough.
+54:06
+Andrew Ippolito: So we lose the muscles in our eyes, we lose the ability to focus that's why we need reading glasses, you know our tendons and ligaments start to get a little more desiccated and they don't fix themselves as quickly anymore our skin starts to dry out a little bit aging sucks.
+54:24
+Andrew Ippolito: And so my mom had a really good you know when I was like bitching and moaning about getting older she's like think about how lucky or.
+54:33
+Andrew Ippolito: Am I This is like the hall I eat your vegetables there's people starving in other parts of the world. Andrew Ippolito: Like Well, no, I mean you're still alive, you know and you're gonna keep being alive yeah you get older, but you get to experience, more and more and more like you keep getting to experience things.
+54:48
+Danuta Despagne: that's cool um my great grandma lives like 200.
+54:54
+Danuta Despagne: wow yeah she and she was like still like a little bit active to the day she died so she would walk even at her 90s 97 to walk to church.
+55:04
+Danuta Despagne: But she lived like what a mappings so she was used to like active work so she just was healthy throughout her whole entire life and stuff so she knew she died at 100.
+55:15
+Andrew Ippolito: wow. Andrew Ippolito: yeah they say that i'm healthy lifestyle gets you to 70 and that your genes get you to ED and beyond, you can be the healthiest person in the world, but if you just got bad genes.
+55:29
+Andrew Ippolito: You know congestive heart failure brain starting to go it's just you can do everything in the world and it'll still catch up to you if you're unlucky enough.
+55:37
+Andrew Ippolito: So so that's good that that whole being able to live to become a centurion I think that's what they call them century ins.
+55:43
+Andrew Ippolito: that's genetic my my great uncle john led to about 9495 and the only reason he passed away was when he was in the hospital for something he got sepsis the doctors messed up then give them, you know he accidentally got an infectious disease, they took him out.
+56:01
+Andrew Ippolito: But if he didn't get that. Andrew Ippolito: He was still lucid he was playing the horse track race stuff and he was just his mind was chubby was telling us, the last time I met him I got my kids got to meet him.
+56:10
+Andrew Ippolito: yeah we went up to visit on good john and he was telling us stories when he was in his 20s back in New York City grew up in the in the city and.
+56:19
+Andrew Ippolito: It was just he just remembered it like was yesterday still I hope I got those jeans.
+56:24
+Danuta Despagne: yeah like in my family, the women live longer than the men usually so they like some most of the women live like pastor 70 8090 was the manager that like diner 15th which is sad but.
+56:38
+Andrew Ippolito: yeah that's good. Good. Andrew Ippolito: So they also say that in today that the first person to live to 1000 years old, is already alive today.
+56:48
+Andrew Ippolito: Where they are now we're that within the next couple of decades we're going to be able to extend human life, to the point where we're not going to die of natural causes anymore, the only thing it's going to take us out are things like car accidents and.
+57:02
+Andrew Ippolito: guns I don't know like unnatural cause of death, but not your body failing and their way there they they approach, this is they see death natural cell death as a disease.
+57:13
+Andrew Ippolito: Instead of as an inevitable consequence so 105 oh my God and that's the best would be like, if you have people in your life that are up there, like that.
+57:24
+Andrew Ippolito: Take your phone start recording and just ask them questions about their life they capture that stuff my mom did that to her grandfather.
+57:33
+Andrew Ippolito: And you can find the damn tapes like wanted to listen to them, but she listened to them enough, where she could tell me stories, those are i'll tell you those stories some other time my great grandpa was it's almost like he was indiana Jones character is kind of crazy.
+57:46
+Andrew Ippolito: So Okay, so at the end of the day here natural selection is the only thing that makes sense and biology and you can connect it in the same way that we do atomic theory newtonian mechanics and whatnot for physics right, this is the thing that connects everything.
+58:01
+Andrew Ippolito: Which is why it's ridiculous that people don't accept. Andrew Ippolito: Right, if you think about here, this is, I forgot I put this in here, this would artificial selection does so there's this wild master plan.
+58:11
+Andrew Ippolito: brassica allera CA or oh gosh Mercedes where's Laura other CA and you take that and you selectively breed it for its stem.
+58:21
+Andrew Ippolito: And you get kohlrabi if you're selected for its leaves to get kale if you select it for its flower beds and stems you get broccoli or Brussels sprouts or cabbage cauliflower.
+58:31
+Andrew Ippolito: they're all mustard How crazy is that I bet you didn't know that now you do it's the same plant we just exaggerated different features for it by selecting for it.
+58:41
+Andrew Ippolito: You take a while muster plan you're like oh this particular much, but its leaves are a little bit bigger let's just read this one and just keep doing that you get killed.
+58:52
+There you go all right. Andrew Ippolito: Where are we with time here we're almost out of time what time does our class officially end.
+58:59
+Andrew Ippolito: One oh good we're almost out of time, all right, you guys okay to keep going if you're not you can go take a break, if you need it, but okay.
+59:07
+Andrew Ippolito: I gotta keep going I don't have to keep going, I have to keep going systematics, this is a, this is a science unto itself, you could become systematised someday system artists or people who concern themselves with the tree of life itself and trying to put all the parts together.
+59:23
+Andrew Ippolito: And so there's two things going on here there's there's your name. Andrew Ippolito: How, you name something like i'm Andrew Joseph dippolito.
+59:31
+PhD. Andrew Ippolito: Is a little thing at the end now that's kind of Nice right that's that's me Okay, I am currently it's just impress assistant professor of biology.
+59:43
+Andrew Ippolito: In the you know stem department of books kind of chemical that's my classification that's not my own classification i'm also dad right and i'm also husband i'm also friend.
+59:54
+Andrew Ippolito: must have dungeon master i'm all these different things.
+59:59
+Andrew Ippolito: And you can change that you can change the classifications, I am I played d&d.
+1:00:04
+Andrew Ippolito: i'm running a few campaigns right now. Andrew Ippolito: And, and so that's the difference between what we call binomial nomenclature, which is how we name biological organisms we classify them as a species, we named them according to their classifications their their genus and species it's like we're homosapien.
+1:00:24
+Andrew Ippolito: Okay, so binomial nomenclature is your name your name never changes. Andrew Ippolito: If we uncover new relationships that shift things around on the family tree, the name stays the same, but the categories might differ that's why I told you not like birds are now reptiles.
+1:00:40
+Andrew Ippolito: But the names of those pieces of the birds are still the same okay so there's naming and there's classifying we're going to see this in chemistry to we have the names of the elements right, we have the names of different organic compounds are different compounds.
+1:00:55
+Andrew Ippolito: Like you know ethanol, and then we have the periodic table right how we organize it all we classify them, you know you got your your your halogens and your noble gases and whatever okay in biology, the way we categorize things we use two different tools.
+1:01:14
+Andrew Ippolito: taxonomy is the tool we've used since the 1600s starting with Charles linnaeus or linnaeus.
+1:01:23
+Andrew Ippolito: and Andrew Ippolito: taxonomy is a system we use based upon morphological differences morphology is what we look like our physical differences so, for example, arthropods have segments and their bodies.
+1:01:38
+Andrew Ippolito: And so to do analysts the segmented worms and so according to taxonomy the analysts and the arthropods or sister groups.
+1:01:48
+Andrew Ippolito: Okay, in contrast, fila genetics.
+1:01:56
+Andrew Ippolito: is a means to connect the family trees, based on. Andrew Ippolito: Their relationships with each other evolutionarily.
+1:02:05
+Andrew Ippolito: This is the deeper one, this is the more accurate one it's also the harder one to use, because you have to have sequence information available.
+1:02:13
+Andrew Ippolito: Whether it's at the DNA level or the RNA level, and when we put those DNA sequence comparisons together school comparative genomics we can start to build family trees, based on the differences within the codes.
+1:02:28
+Andrew Ippolito: And that that there's a whole science on to that you know which genes do I use which punch the genome into a PIC.
+1:02:35
+Andrew Ippolito: If i'm using RNA which rnas do I pick well that's you know we're not going to go into any of that this semester just we're just going to become aware that this is a field of science called file genetics.
+1:02:46
+Andrew Ippolito: And you can't just do file genetics, or just taxonomy right because you can't do file genetics on organisms, you know sequences to like any dinosaur most dinosaurs.
+1:02:57
+Andrew Ippolito: Right likewise i'm sure that we found you know DNA sequences in the remains of animals, you know stomachs or whatever, and we don't necessarily have a skeleton to show.
+1:03:08
+Andrew Ippolito: Right so together we use these two tools in the toolkit of systematics okay that ultimately has the goal of building a tree of life.
+1:03:21
+Andrew Ippolito: it's a very ambitious goal. Andrew Ippolito: Okay it's gonna take both the extinct.
+1:03:30
+Andrew Ippolito: and Andrew Ippolito: extent organisms and put them all into a tree so there's a new word for you, for some of you extent is the opposite of extinct humans or an extent species.
+1:03:42
+For now. Okay.
+1:03:48
+Andrew Ippolito: questions. Andrew Ippolito: it's making sense. Alexa Deprisco: alright. Andrew Ippolito: So there is this go ahead, go ahead.
+1:03:57
+Alexa Deprisco: I lived on it says what includes extinct versus extent.
+1:04:03
+Alexa Deprisco: or both them do. Andrew Ippolito: systematics does systematics. Alexa Deprisco: Does yeah. Andrew Ippolito: systematics is the study.
+1:04:10
+Alexa Deprisco: Of the tree of life that's one way to say it. Andrew Ippolito: And within systematics, and so the goal of systematics is to put together that family tree of everything living in depth and the way we do that is through taxonomy and filer genetics.
+1:04:23
+Andrew Ippolito: yeah so careful like that you said follow gen X I mix this up all the time, so there's the word file lodge and he.
+1:04:31
+Andrew Ippolito: And then there's fellow genetics. Andrew Ippolito: And we call them they're not phylogenetic trees they're phylogenetic trees.
+1:04:40
+Andrew Ippolito: And i'm still you know I probably have to read about these words a little bit more to to figure out the relationships between but phylogenetic.
+1:04:47
+Andrew Ippolito: Is a word we use to describe common ancestry this fellow gigantic tree is a tree of common ancestry.
+1:04:55
+Okay. Taylor Campbell: So you're saying i'm sorry, one more time, what was the systematics they could.
+1:05:02
+Andrew Ippolito: Follow genetics. Andrew Ippolito: Is the study of phylogenetic, I guess, maybe that's how we can say that's the relationship.
+1:05:27
+Andrew Ippolito: Oh, I don't know if i'm going to buy this but i'm just reading this on one definition phylogenetic is the evolutionary history of groups and organisms, such as species or leads.
+1:05:38
+Andrew Ippolito: So clubs or groups of species, while follow genetics, is the systematic study of organisms relation organism relationships based on evolutionary similarities and differences.
+1:05:51
+Andrew Ippolito: So. Andrew Ippolito: I guess, I can see that so when we when we compare sequences really Oh, these are just these sequences are different and that's why they're in different clouds.
+1:06:00
+Andrew Ippolito: Right, but here, but again, this I don't want to go too deep into this rabbit hole, this is bio to stuff that you just have to be kind of vaguely aware of right now.
+1:06:08
+Andrew Ippolito: This isn't going to impact too much of our work together so understand phylogenetic trees, the chapter 26 level material that I assigned just that stuff okay.
+1:06:18
+Andrew Ippolito: All right, so there it is there's there's a nice representation of the tree of life it's a web and notice that there's, not a single common ancestor but there's a population of them.
+1:06:27
+Okay. Andrew Ippolito: And most species haven't even been identified right the big stuffs been identified the easy to find stuff has been identified for the most part.
+1:06:40
+Andrew Ippolito: You know, but the the bacteria and the insects there's more species of beetle than there is anything else is 350,000 species of beetles alone.
+1:06:55
+Andrew Ippolito: There was this. Andrew Ippolito: interview with some evolutionist back in years and years ago and researcher was saying, like.
+1:07:03
+Andrew Ippolito: If you could ask or, if you could say something about the mind of God, as you know, creating all this if if God put it all together what would you what would you say, and he was a British guy he's like.
+1:07:13
+Andrew Ippolito: All say God, really, really like Beatles.
+1:07:22
+Beatles alright. Andrew Ippolito: So when we say nomenclature there's not nomenclature, is not a biology word, this is just a generic English word nomenclature, is when when you have any.
+1:07:36
+Andrew Ippolito: Technical system where there's chemistry or auto mechanics the nomenclature of the field is the words and the definitions that are specific to that field right.
+1:07:48
+Andrew Ippolito: And if you don't know the nomenclature of a given field and you're listening to people who do talk, you might understand some English words in there, but you're not gonna really have any idea what they're talking about.
+1:07:58
+Andrew Ippolito: that's nomenclature okay and there's your cleats and clatter Graham, so this is a circular cloud ground.
+1:08:04
+Andrew Ippolito: Okay, and and you could also say that this is a phylogenetic tree, because you see the the length of the lines are different right that suggests there's relative differences in how long things have been around so that you can start in the middle here, and you can read out.
+1:08:20
+Andrew Ippolito: And this, this is basically the entire tree of life, this is old to I forgot, this is this computer picture is probably at least 10 years old, at this point.
+1:08:29
+Andrew Ippolito: Okay, but if you zoom on the way in a kind of looks like a city metropolis if you look really close right and you could see I don't know if you can read this on your screen, but that says, you are here.
+1:08:40
+Andrew Ippolito: that's humans were just this teeny tiny little offshoot of some obscure part of the family tree.
+1:08:48
+Andrew Ippolito: right here the animals the plants, the protests, the fungus and there are the bacteria in our cans.
+1:08:57
+Andrew Ippolito: Right now, this so this isn't the whole tree of life right, this is what we got so far and what we've discovered so that tells you that we, we still have a lot of work to do with your cans and the bacteria.
+1:09:10
+Angela Harbeck: So what are cleats and clatter grams. Andrew Ippolito: Okay, so a clade.
+1:09:16
+Angela Harbeck: is just a group of organisms i'm sorry, a group of species connected in some way through.
+1:09:25
+Andrew Ippolito: A cloud of Graham so this would be like these three species here, we would call that a clade okay so it's just it's a way of grouping things.
+1:09:34
+Taylor Campbell: Anything species, yes, groups of species.
+1:09:40
+Andrew Ippolito: And so, in a class diagram is the visual representation of their relationships.
+1:09:48
+Andrew Ippolito: And that's again that's all chapter 26 stuff. Andrew Ippolito: So, within taxonomy the currently accepted system we use today to communicate in science it's based on this guy named moose, this is the most system.
+1:10:07
+Andrew Ippolito: And he came up with this idea back in the 70s, that the bacteria and they are cans are fundamentally different branches of the tree because of the way there sequences of RNA where.
+1:10:21
+Andrew Ippolito: Their their genetic differences were so incredibly different that they might as well have been their own family, all together, so that's what we came up with this thing called the domain system.
+1:10:31
+Andrew Ippolito: Okay, so we have the domain is the broadest category, the most inclusive category.
+1:10:38
+Andrew Ippolito: there's only three of those i'll show you another i'll show you a couple other pictures about this, but just hear the words so you have domains.
+1:10:44
+Andrew Ippolito: Within domains, you have kingdoms within kingdoms, you have the file individual word file them within the file, you have classes orders families genus and species.
+1:10:55
+Andrew Ippolito: And the way to remember this is used to be king Philip came over from Germany singing. Andrew Ippolito: And you could put a D at the top of that, I just made up darn us damn if you really want a damn King Philip came over from Germany singing or I put these little lines over here some people print this out, you can make up your own.
+1:11:11
+Andrew Ippolito: whenever you wanted, but definitely remember this put this in your head.
+1:11:18
+Andrew Ippolito: and understand that, within the different studies of life, so we have zoologist to study animals right we have my colleges to study fun guy.
+1:11:28
+Andrew Ippolito: We have bacteriologist we have a religious we have botanist right the different branches of the tree have different studies and so some of those systems, you slightly different words, for example in botany phylum is replaced by the word division.
+1:11:48
+Andrew Ippolito: So there's just little things like that you don't have to know the differences. For this class.
+1:11:54
+Andrew Ippolito: So here's an example here's here's your here's your great wolf canucks lupus alright, so the genus name is kindness, which means there are other species of canines right think of boxes and dingoes and hyenas then there's a family Kennedy.
+1:12:16
+Andrew Ippolito: Okay, which has a broader collection of there's different there's different geniuses.
+1:12:22
+Andrew Ippolito: and actually some of the examples I just use might be different different geniuses I don't have this whole lineage of my head then within the families, you have the orders, the carnivores car never the meat eaters.
+1:12:35
+Andrew Ippolito: Within the orders, you have classes like mammals. Andrew Ippolito: And then the classes, you have the file like family i'm sorry like core data.
+1:12:46
+Andrew Ippolito: Okay we're recording. Andrew Ippolito: All of us.
+1:12:53
+Andrew Ippolito: Okay, and then within the Court within the the file live within the kingdom and Amalia the technical name for the Kingdom is the medicine Oh, is it a zone or Meta zones or medicine that's the animal kingdom, and you see there's there's about 38 ish.
+1:13:13
+Andrew Ippolito: Different fila within the animal kingdom. Andrew Ippolito: And there's only one of those kingdoms that has vertebrates.
+1:13:24
+Andrew Ippolito: that's the coordinates every single other animal phylum isn't invertebrates.
+1:13:31
+Andrew Ippolito: 95% of animals or invertebrates species.
+1:13:37
+Okay. Andrew Ippolito: So here's one view of the tree of life at the base of it all, you have the start of in right and then there's three major branches, we call the domains there's domain bacteria domain archaea and domain you carry.
+1:13:51
+Andrew Ippolito: notice that only domain you carry a has words associated with it. Andrew Ippolito: The reason for that is that single celled organisms, of which the bacteria in your hands are very much single celled organisms, even if their colonial are free swimming they're still single celled they don't specialize.
+1:14:07
+Andrew Ippolito: They are promiscuous genetically, in other words, different species of bacteria can exchange genetic material pretty easily.
+1:14:16
+Andrew Ippolito: When they're out in the wild and that's why it's very hard to clarify that's a good word clarifying the species, so instead we have these kind of broad swath of branches.
+1:14:28
+Andrew Ippolito: You know there's the bacteria geologists I don't know if we call them archaeologists that names reserved for people who study ancient ruins.
+1:14:37
+Andrew Ippolito: But the our cans are probably studied within the bacteriologist.
+1:14:43
+Andrew Ippolito: Now the you carrier, you know we've we've clarified them pretty well. Andrew Ippolito: The protests, you know i'm still seeing in some books, the Kingdom kingdom protester.
+1:14:54
+it's not really a kingdom anymore. Andrew Ippolito: Okay, the goal of systematics.
+1:15:01
+Andrew Ippolito: Okay So you see, you can call these clouds you see these big chunky groups that you know there's probably thousands of species in each one of these right.
+1:15:07
+Andrew Ippolito: So you know there's all the fungus and all the animals and all the plants notice that there's like an on this picture there's three branch of for the protest right So those are.
+1:15:19
+Andrew Ippolito: Those are different clouds okay and. Andrew Ippolito: The goal of systematics is to grow this family tree in such a way i'm just going to cluster a couple of things up here if I circle, all of this, do you see how every single species that I just doodled in there is connected to this one common ancestor.
+1:15:44
+Andrew Ippolito: You see, that okay so really the best way to circle, this would be like this.
+1:15:51
+Andrew Ippolito: Okay, so what I just circled that's a clade it's just a group of species right, but this clay, this is what we're going for this is called a Mano.
+1:16:01
+Andrew Ippolito: phylogenetic clade single common ancestor Mano phylogenetic.
+1:16:11
+Andrew Ippolito: If I have a group of species.
+1:16:16
+me see how I can draw this.
+1:16:22
+Andrew Ippolito: Okay, if I circled all these guys. Andrew Ippolito: Do you see how there's two common ancestors in that group.
+1:16:29
+Andrew Ippolito: Okay, this would be called poly file attic.
+1:16:34
+Andrew Ippolito: This isn't This means we don't have the tree hammered out, we can, if we had a name for all those organisms like birds.
+1:16:42
+Andrew Ippolito: That would tell us were wrong in our naming system that we have to, we have to do this we need this group to be one thing in this group to be a different thing now their model file attic you see that.
+1:16:53
+Andrew Ippolito: i'm just just how i'm grouping them pounds circling them and calling them names okay and there's one other kind of relationship let's say that we had.
+1:17:04
+Andrew Ippolito: This and I circled.
+1:17:10
+Andrew Ippolito: I picked that guy over there right So you see how I group them that group that I just circled that I highlighted here, let me make this a little visually easier to understand, because i'm, this is a little complicated.
+1:17:21
+Andrew Ippolito: I mean just use yellow here alright, so the yellow ones those that's my group that's a clean right again I cleared is just a group organism little group of species, this is called para fanatic.
+1:17:34
+Andrew Ippolito: Because that clean does not include all common ancestors.
+1:17:42
+Andrew Ippolito: Right, I would have to also So if I look at what I just doodled here, I would have to include.
+1:17:48
+Andrew Ippolito: All of these to get model file attic right, because this is a common ancestor right here of all that.
+1:17:57
+Andrew Ippolito: OK, so the goal of systematics is to establish modify let it groups, this is why we had to make birds into reptiles.
+1:18:06
+Andrew Ippolito: Because when we learned that birds and reptiles, are all part of the same cleared from the same common ancestor that's a model file at a group and so now, we had to say okay avian and non avian reptiles, instead of saying reptiles and birds right.
+1:18:22
+Andrew Ippolito: So you could also say that the old, so the bird. Andrew Ippolito: The grouping bird is.
+1:18:31
+Andrew Ippolito: terrifying. Andrew Ippolito: Because it does not include the dinosaurs, and it does not include the crocodiles.
+1:18:38
+Andrew Ippolito: Right, you could also say reptile the old version of reptile that didn't include birds is paradigmatic.
+1:18:46
+Okay. Andrew Ippolito: Okay, and again All of this leads to the underlying assumption that there is a common ancestor.
+1:18:55
+Andrew Ippolito: Right without that idea, none of this makes any sense that's another reason why not believing that evolution happened is a little silly right because because, as we do this work it all continues to make sense.
+1:19:06
+Andrew Ippolito: It all fits together and meets the fossil record it agrees with biogeography all the evidence is there homologous.
+1:19:13
+Angela Harbeck: homology. Andrew Ippolito: With our anatomy OK so. Andrew Ippolito: The proteus the word protest.
+1:19:20
+Andrew Ippolito: The Kingdom protein that's poly SCI fi left. Andrew Ippolito: that's why it's not a thing anymore, we still kind of call it the kingdom proteins to.
+1:19:30
+At least in some books. Andrew Ippolito: But any system that is worth their salt, they would never call that go ahead, go ahead Angela.
+1:19:38
+Angela Harbeck: I was just asking because I didn't get it the first time let's polly fi like again. Andrew Ippolito: qualify letting means multiple common.
+1:19:45
+Andrew Ippolito: ancestors. Andrew Ippolito: So, in other words, if I select i'm sorry if I doodle here if this group here of species, all these different me if I called that something because there's two common ancestors here.
+1:20:02
+Andrew Ippolito: that's poly file attic. Andrew Ippolito: Okay, whereas this group over here that I doodled that includes really, really this group, right here that's model file attic and that's what we're going for we're going for groups of in groups of species with with a single common ancestor.
+1:20:20
+Andrew Ippolito: Okay, and so we're rewriting the trees of life, right now, right now, at this moment in time in 2021 as you guys are becoming budding scientists and budding biologists.
+1:20:29
+Andrew Ippolito: system systematics is kind of in a in a renaissance it's a hot mess it's there's lots of arguments going on, if you go to delve out right now and there's a guy named Chris kipping one of my good friends over there.
+1:20:43
+Andrew Ippolito: I taught his invertebrates biology class for two springs in a row, because he had to be an interim Dean, and so I had to learn, I had to learn zoology very quickly.
+1:20:54
+Andrew Ippolito: If you look at the analytics analytics, which is an animal file of worms that include things like earthworm and arthropods.
+1:21:04
+Andrew Ippolito: Okay, in his mind those two things are right next to each other and then somewhere over here yeah the mollusks.
+1:21:10
+Andrew Ippolito: Alaska like clams oysters okay according to phylogenetic oh i'm sorry according according to follow genetic analysis.
+1:21:20
+Andrew Ippolito: it's the analysts are right next to the mollusks and the arthropods or by themselves.
+1:21:28
+Andrew Ippolito: And he looks at it that's bullshit. Andrew Ippolito: All those other system it's just with their brand new toys and their RNA sequencing know why why, why does he believe that he is so strongly believe in this because analytics and arthropods have segmented bodies and he strongly believes that their common ancestor had segmentation.
+1:21:49
+Andrew Ippolito: But that's not the scientific consensus anymore. Andrew Ippolito: Instead, the scientific consensus segmentation arose independently between those two lineages in the same way that birds about flight and BATs about flight that segmentation is not a characteristic that ties them together anymore.
+1:22:08
+Andrew Ippolito: So that's that's the basics of taxonomy right now the last one where we would talk here.
+1:22:15
+Andrew Ippolito: So the last little bit here is this person named Luca. Andrew Ippolito: Luca Luca stands for the last universal.
+1:22:27
+Common ancestor. Andrew Ippolito: The hypothetical first cell.
+1:22:34
+Andrew Ippolito: The one that had DNA and proteins and lipids and carbohydrates.
+1:22:42
+Andrew Ippolito: that gave rise to all of the trees branches.
+1:22:48
+Andrew Ippolito: you'll also see in this tree here. Andrew Ippolito: That the fungus in the animals.
+1:22:54
+Andrew Ippolito: Have a common ancestor. Andrew Ippolito: That is different than the plants.
+1:23:02
+Andrew Ippolito: One of the little subtle fun facts here when you look at multicellular life, the plants, the animals and the fungus.
+1:23:08
+Andrew Ippolito: The fungus and the animals form a model file attic clade these combinations have a fun name i'm going to teach it to you this just for fun, these are called the Pis cons.
+1:23:21
+Andrew Ippolito: The common ancestor of the fungus in human.
+1:23:27
+Andrew Ippolito: You are more related to bread mold, then you are the elm tree.
+1:23:34
+Andrew Ippolito: Your header tropes and you have cotton.
+1:23:39
+Other two things you have in common with. Alexa Deprisco: That would have looked like.
+1:23:45
+Andrew Ippolito: A. Andrew Ippolito: yeah I think i've seen some artists renditions Of these, but there they look just a weird as any other weird multicellular proteins thing.
+1:23:57
+Andrew Ippolito: or I shouldn't see multiplayer protest, you know it probably you know it's stuck to the bottom of the ocean and filter fed and just we have around.
+1:24:04
+Andrew Ippolito: You know that's that's where we got our start there are these uh these proteins, called the Co no flagellate This is our common answer, this is the lineage of proteins that give rise to the animals.
+1:24:17
+Andrew Ippolito: And I guess on the phone kiss so and they're still around today and actually if you look at one of those cells, it looks, just like the cells that make up sponges.
+1:24:27
+Andrew Ippolito: yeah that's pretty cool we're all in our hearts bunches like sponge Bob.
+1:24:34
+he's a great granddad. Andrew Ippolito: Now that's not true at all.
+1:24:41
+Andrew Ippolito: For so many reasons, all right, I like this picture I forgot, where I found this but I I forgot how I came across it, but you can see the artists work down here.
+1:24:51
+Andrew Ippolito: Because here's the thing the family tree of life isn't this nice neatly segmented ironical.
+1:25:00
+Andrew Ippolito: classification. it's a mess. Andrew Ippolito: it's a web Okay, do you see how there are these weird.
+1:25:10
+Andrew Ippolito: blends together kind of machine there so here's what's happening there, this is the last thing I teach about evolution stuff and you have two species that are completely independent of each other every once in a while.
+1:25:23
+Andrew Ippolito: There will be something called. Horizontal.
+1:25:29
+gene transfer. Andrew Ippolito: This is still kind of a black box.
+1:25:36
+Andrew Ippolito: We still don't know how all these systems work. Andrew Ippolito: Somehow some way some species acquire entire chunks of the genome of other species, not through reproduction.
+1:25:51
+Andrew Ippolito: We don't know, maybe it's a virus thing or maybe they somehow ingested and then cannibalize the genome in some weird way, nobody knows I shouldn't say nobody knows we're working on it and there are some mechanisms.
+1:26:04
+Andrew Ippolito: Right, I mean if you think of the wave of viruses jump species, sometimes right like the corona bars we're dealing with used to be a bad coronavirus.
+1:26:12
+Andrew Ippolito: And now it's a human coronavirus well, I should say and it's a bad and human corona buyers.
+1:26:17
+Right. Andrew Ippolito: And and other other animals can get it to like we know that cats can get it, and I think I haven't looked at the latest larger on this by dogs and cats and there's some other kinds of animals that i've heard in Europe that have been infected with it to.
+1:26:34
+Andrew Ippolito: Horizontal gene transfer okay so it's not the tree of life it's the web of life, we still call it the tree of life but it's more of a web right, so you have common descent and horizontal gene transfer these dotted lines everywhere.
+1:26:52
+Andrew Ippolito: right as to where life came from that's not what evolution theory explains in any way evolution doesn't have anything to do it all with the origin of life, it has nothing to do with the big bang.
+1:27:06
+Andrew Ippolito: or astrophysics or cosmology it just tells us why life is so unified and why it's so incredibly diverse that sounds like a paradox we're unified we all use DNA.
+1:27:22
+Andrew Ippolito: We all look so different unity in diversity instead there's this thing called a bio genesis.
+1:27:28
+Andrew Ippolito: Okay, and the most recent thing I know actually there's something even more recent now, but the last time I kind of comb through the literature, I found this article from 2016.
+1:27:37
+Andrew Ippolito: That scientists showed they were able to create RNA that was able to replicate into more RNA self replicating RNA in a test tube.
+1:27:48
+Andrew Ippolito: One of the hallmarks of life right life reproduces.
+1:27:54
+Andrew Ippolito: We have found the sugar rainbows, which is essential for RNA we have found ribosome space and Comet dust.
+1:28:03
+Andrew Ippolito: we've also found amino acids like glycine out there in space This tells us that these are very common molecules that these are in something that's special on earth.
+1:28:17
+Andrew Ippolito: If we find them in our solar system there's rainbows everywhere, and you guys remember that hubble deep field.
+1:28:24
+Andrew Ippolito: Right, there are more stars and the cosmos and there are grains of sand on the eastern seaboard of America.
+1:28:31
+Andrew Ippolito: And rainbows and glycine are everywhere. Andrew Ippolito: And so, as water.
+1:28:38
+Andrew Ippolito: All the common elements are life receded everywhere. Andrew Ippolito: there's a new, I want to call it a hypothesis that's coming out of.
+1:28:47
+Andrew Ippolito: MIT this this couple years old, now I should also follow up on this there's this mathematician physicists guy who's working on life itself.
+1:28:58
+Andrew Ippolito: And the idea is is that life is an emergent property of any system.
+1:29:05
+Andrew Ippolito: That has a constant input of energy. Andrew Ippolito: Like the sun coming down to the earth, so any system be keep putting energy into it.
+1:29:14
+Andrew Ippolito: The system. Andrew Ippolito: Through through some math of the entropy of it all the different States the system can be in the most efficient way to package all of that stuff in the context of this constant energy coming in.
+1:29:28
+Andrew Ippolito: Eventually, gives rise to life inevitably that life's like an inevitable consequence of matter that's the working model, right now, of course, is unproven I didn't even want to call it a.
+1:29:37
+Alexa Deprisco: theory it's a hypothesis they're testing it. Andrew Ippolito: But it's cool it's cool to think about.
+1:29:43
+Andrew Ippolito: Right so there's there's look good. Alexa Deprisco: yeah go ahead alexa. Alexa Deprisco: There um oh my gosh it was in my friends textbook for bio and it was like an experiment, where they had it was like a closed circuit sort of deal, and it was like methane and anya and CO2 and then he, like ran up.
+1:30:00
+Andrew Ippolito: Oh that's. Andrew Ippolito: that's called the Uri Miller experiment, if you just Google Uri Miller, that I mean again you'll learn about that in bio to that's the primordial soup experiment.
+1:30:12
+Andrew Ippolito: And yeah that so basically the scientists back in the 1940s 1950s put together.
+1:30:18
+Andrew Ippolito: What they thought at the time was like the most accurate representation of early earth hypoxic environment no oxygen constant input of electricity some carbon dioxide some like ammonia.
+1:30:29
+Andrew Ippolito: And they just zapped it, and then they would take samples of it over the period of weeks and months, and they found that they would give rise to complex organic molecules spontaneously yeah.
+1:30:38
+Alexa Deprisco: that's your email. Andrew Ippolito: So. Taylor Campbell: What would you say it's one o'clock.
+1:30:46
+Andrew Ippolito: Okay, so here, let me haha. Andrew Ippolito: Oh, my golly that so so here's where i'm going with this, I love this picture, even though it looks kinda like broccoli.
+1:30:55
+Andrew Ippolito: But that's that's like an artist's rendition of the tree of life it's got that core with three major branches right so there's your hands your bacteria and your carrier's.
+1:31:06
+Andrew Ippolito: But what this is my my preferred way of looking at the tree of life, the thing on the right here, because what this does.
+1:31:12
+Andrew Ippolito: Is it shows you the evolutionary relationship between the arcades and the mysterious basically coming together and giving us the eukaryotes.
+1:31:19
+Andrew Ippolito: OK, so the best way to think of this is, you have the bacteria and the Ark hands Okay, and, over time, they gave rise to the protests so protest you finally have you carrier and then the protests diverged.
+1:31:36
+Andrew Ippolito: into you can say dozens of these kingdoms and one of them is animal one on those plant morons fungus but then you have all these other things that will just collectively called the protests Okay, you can divide them roughly the algae and protozoa.
+1:31:51
+Andrew Ippolito: Okay, the algae would be the plant like fun protests and the proto zones, would be the animal like proteins that are truths.
+1:32:01
+Andrew Ippolito: Okay, but really the protests that's where all the weird stuff is there's there's photosynthetic things that also eat and and roam around.
+1:32:11
+Andrew Ippolito: we'll talk about those later in the Semester right, so the protests just are I guess it's earth way of tipping their hand saying can try to figure this out science doesn't care what you think.
+1:32:23
+Andrew Ippolito: Right you try to come up with something mitochondria have Chris day right you guys have all learned, you know the mitochondria has those little finger like projections in there.
+1:32:29
+Andrew Ippolito: Right, but there are some proteus where the mitochondria actually look like chloroplasts so yeah there's just there's all sorts of crazy exceptions and that's what you learn the next semester this semester we learned the default template of life.
+1:32:41
+Andrew Ippolito: next semester you'll learn the exceptions to the rules. Andrew Ippolito: Which is kind of one of the more exciting stuff is.
+1:32:48
+Andrew Ippolito: Right you got to learn how to the pieces move before you can play the game.
+1:32:54
+Andrew Ippolito: And only be on that note D and.
+1:33:00
+Taylor Campbell: Oh boy that's always a tough question discard okay um and then we're supposed to have like quizzes in the beginning of like.
+1:33:09
+Andrew Ippolito: Always gonna have quizzes in the beginning, if we have a quiz yes. Andrew Ippolito: And what that does that make sure everybody comes to class on time and come to class.
+1:33:17
+Taylor Campbell: got it okay. Andrew Ippolito: Let me stop the recording here.

@@ -1,0 +1,686 @@
+0:01
+Andrew Ippolito: This is a quick review of photosynthesis before we dig into some respiration. Andrew Ippolito: So we're just we're parsing out right now the light reaction of the Calvin cycle, as it relates to the three main modes of photosynthesis the see three the sea, for they can.
+0:13
+Andrew Ippolito: See three photosynthesis so all three all three of the light reactions occur in the same place in the liquid membranes great the Calvin cycle and the see three plants occurs and just the mass of fuel cells, so this is the most efficient motives of photosynthesis see.
+0:32
+Andrew Ippolito: it's also the one that subject to photo i'm sorry yeah photo respiration.
+0:41
+Andrew Ippolito: If you recall, for the respiration is when we use oxygen instead of carbon dioxide.
+0:49
+Andrew Ippolito: Right and that's done by that enzyme rubbish go.
+0:56
+Andrew Ippolito: And so we have to get around that so these these see for the can plant mechanisms evolved to counter the the inefficiency of rubbish go really so see for plants have the carbon fixation step occur in the muscle phil, whereas the other two steps occur in the butter sheet cells.
+1:17
+Andrew Ippolito: Can plants fix carbon at night when it's cold.
+1:22
+Andrew Ippolito: And they do the rest of this stuff. Andrew Ippolito: During the day when there's energy available because of the light.
+1:30
+Andrew Ippolito: And we'll talk about that the end of this little mini lecture okay so that's that's the context.
+1:37
+Andrew Ippolito: So here's what i'm gonna do we're gonna we're gonna set up the game here and i'm going to ask you questions alright, so the first question is.
+1:45
+Andrew Ippolito: Well, so here let's set the groundwork here we're inside the cell and we're gonna here let's do some colors here green we got so this is the liquid memory.
+1:57
+Andrew Ippolito: Okay. Andrew Ippolito: that's the liquid membrane. Andrew Ippolito: And so, remember i'll give you the very first thing that we're going to play with here this guy right here, of course, you tell me what's the very first key player here what's the name of this thing.
+2:15
+what's his name. Andrew Ippolito: Anybody. Andrew Ippolito: don't look at your notes don't look at your notes this is or try not to look at your notes.
+2:27
+Andrew Ippolito: And he's got an antenna. Andrew Ippolito: he's got the low antenna he's got a reaction Center that has chlorophyll on it.
+2:37
+Zachary Lucas: system. Andrew Ippolito: You got it photo system to okay.
+2:43
+Branden Lane: there's a reaction Center. Andrew Ippolito: With a pair of chlorophyll. Andrew Ippolito: And the absorb light does anybody remember the name of the reaction Center complex.
+2:55
+Andrew Ippolito: That has the various colors in there.
+3:03
+Andrew Ippolito: It starts with the p. Alexa Deprisco: P six at peace sad.
+3:10
+Andrew Ippolito: Good. Andrew Ippolito: And remember that six at correspond to a wavelength of light. Andrew Ippolito: that's it sweet spot.
+3:17
+Andrew Ippolito: All right, so an electronic its energy energized and leaves.
+3:23
+Andrew Ippolito: Right and and as a consequence what's happening down here.
+3:31
+Andrew Ippolito: So a pair of electrons get so energized that they leave, and so you would say that photo system to gets what is it oxidize to reduced.
+3:41
+Andrew Ippolito: oxidized good. Andrew Ippolito: And so, in response. Andrew Ippolito: It is going to oxidize what.
+3:52
+Andrew Ippolito: Where does it get his replacement electrons from.
+4:01
+Angela Harbeck: Is it water. Andrew Ippolito: Yes, good Angela. Andrew Ippolito: hey so we got to water molecules here.
+4:07
+Andrew Ippolito: Get ripped apart into the oxygen guests that we breathe and for protons and i'm process we call what anybody what's the name of that process.
+4:20
+Andrew Ippolito: Breaking water with light.
+4:27
+Branden Lane: photo laces. Andrew Ippolito: Good. Branden Lane: photo analysis but. Andrew Ippolito: photo licenses how you say it to get the two words photo and then laces and you say fatalis like hydrolysis right breaking breaking things with water, and here we are breaking water itself okay good and so these pair of electrons get handed off to a series of increasingly electro negative.
+4:52
+Andrew Ippolito: components that collectively are called the what. Andrew Ippolito: what's this thing called.
+5:06
+Andrew Ippolito: catches electrons and moves them down hill using their energy.
+5:15
+Andrew Ippolito: Do something.
+5:21
+Branden Lane: Is it that i'm a. Branden Lane: chance up to. Andrew Ippolito: ran into that again.
+5:28
+Branden Lane: i'm being that kind of stuff did. Andrew Ippolito: Good do okay. Andrew Ippolito: So they are accepting electrons and you would say that the first component on this system is the initial electronics adapter.
+5:37
+Andrew Ippolito: Collectively we call this the electron. Andrew Ippolito: transport chain you got it.
+5:47
+Andrew Ippolito: The chain of increasingly electro negative and so basically they're they're playing a game where each component grabs the electron from the last component and so they're increasingly electro negative.
+5:57
+Andrew Ippolito: Like stronger and stronger magnets, and so what what work they're doing is they're pumping protons right, and so you could say that there's two ways that the cell is contributing to this pool of protons building up in the thigh liquid space.
+6:15
+Andrew Ippolito: Right and so that's the key here is the concentration of protons is vastly increase in here, you could also say that the pH is going.
+6:25
+Andrew Ippolito: downward trend. Andrew Ippolito: Okay. Andrew Ippolito: So, remember, we have an enzyme over here now what's the name of the ends on that takes advantage of this gradient of protons.
+6:42
+Andrew Ippolito: what's the name of this enzyme.
+6:50
+Andrew Ippolito: At peace and grace excellent. Andrew Ippolito: That is. Andrew Ippolito: ATP synthesis.
+6:57
+Andrew Ippolito: and its job is to take some adenosine di phosphate plus some inorganic phosphate staple them together and give us our first official product of the system ATP good and, of course, those protons can then go back and get pumped back in again so it's a nice sustainable loop there alright.
+7:17
+Andrew Ippolito: Alright, meanwhile, there is another component here that looks similar.
+7:24
+Andrew Ippolito: To photo system to name.
+7:31
+Alexis Micewski: One good. Andrew Ippolito: photos just a month and what's the name of photo system ones like complex.
+7:38
+Alexis Micewski: piece of murder good. Andrew Ippolito: that's the piece of 100 so the key there that higher number corresponds to a longer wavelength.
+7:49
+Andrew Ippolito: corresponding to a lower energy so photo system one isn't as good as photo system to it's not it doesn't capture.
+7:58
+Andrew Ippolito: As much high energy so it's the weaker of the two and it's the first one to have evolved, it turns out that's why it's named photo system one the initial system it's not strong enough to break water, so it does not generate oxygen gas.
+8:14
+Andrew Ippolito: Instead it energizes that pair of electrons. Andrew Ippolito: And what does it do to them, where does it bring them who's right here, waiting in the wings during a typical linear electron flow.
+8:30
+Andrew Ippolito: what's this thing. Alexis Micewski: Any dp this case.
+8:38
+Andrew Ippolito: got yeah yeah and adp redux good any dp P for plant and EDP reduction.
+8:47
+Andrew Ippolito: And, as its name suggests, the redux enzyme will reduce it substrate, and so what comes in, is any dp in its oxidized form and a dp plus.
+8:58
+Andrew Ippolito: And we're going to take those high energy electrons and protons, of course, and we're going to staple on to it, those pair of high energy electrons and create any D pH, which is the second and final product of the light reactions.
+9:11
+Andrew Ippolito: Okay now there's one last little consequence here, if you remember the these electrons that leave that now find themselves here.
+9:20
+Andrew Ippolito: have to get replaced and they get replaced by that electron transport chain. Andrew Ippolito: Right, so if you think of the flow Okay, this is how so Taylor when you asked about how to remember all this think of it like a complex game you start here in water, you have a pair of electrons and water.
+9:37
+Andrew Ippolito: Okay, they get passed on to photo system to that they get handed off to the electron transport chain.
+9:44
+Andrew Ippolito: Then they get handed to photo system one and they get handed to the enzyme any dp reductive, and so they find themselves here and add pH and then they're going to be going they're going to go over and be using the Calvin cycle to put those two high energy electrons into a sugar molecule.
+10:02
+Andrew Ippolito: Okay, so basically you can summarize, this is thinking about thinking of it this way we're going to take the energy from the sun.
+10:10
+Andrew Ippolito: we're gonna use that energy from the sun to heat up a pair of electrons and keep that energy in that pair of electrons and then store that energy into organic molecule.
+10:22
+Andrew Ippolito: And we're just going to do that forever and that's that's the basics okay.
+10:28
+Andrew Ippolito: So, are there any questions now on this, this is the last time you're going to get me to focus on the light reactions before the test.
+10:36
+Andrew Ippolito: that's not something recorded anyway.
+10:41
+Andrew Ippolito: So it was there any pain point here is anything, it should it should make sense but that's to my brain that's been looking at this, for 10 years.
+10:49
+Andrew Ippolito: I can only imagine how many different views, there are to this, so let me see if I can correct any incorrect perceptions of those before we move on.
+11:00
+Angela Harbeck: So the difference between a photo system one and two other than like the p 786 80 at is that, like photo system to uses water.
+11:12
+Angela Harbeck: And then photo system one doesn't. Andrew Ippolito: So what does it use that's that's a really good way of thinking about the differentiator so So the question is, where does it get it replacement electrons photo system to get it from water, where does photo system one get it from.
+11:25
+Angela Harbeck: The electron transport chain. Andrew Ippolito: Good and that's a really good way to think about it. Angela Harbeck: Okay okay.
+11:31
+Andrew Ippolito: Now does anybody remember. Andrew Ippolito: linear So this was linear electron flow, the idea of the electrons loads and a highlighter going through the system and leaving.
+11:42
+Andrew Ippolito: linear electron flow. Andrew Ippolito: what's the counter to that what's the other mode of electrons.
+11:50
+Victoria Bloemker: doing things like. Andrew Ippolito: Good. Andrew Ippolito: cyclical electron flow or cyclical natural flow potato potato and how's that work.
+12:00
+Andrew Ippolito: who's the key what, what are the the two key players and what we'll call cyclical electronic flow.
+12:12
+Andrew Ippolito: One of the two anybody. Branden Lane: Yes. Andrew Ippolito: Okay, good good ps1 use a different color here.
+12:21
+Branden Lane: All right. and
+12:26
+Andrew Ippolito: Is any dp redux he's involved in this. Branden Lane: Now. Branden Lane: Good up.
+12:33
+Andrew Ippolito: say that again. Andrew Ippolito: ATP okay okay yep yep.
+12:39
+Andrew Ippolito: The whole. Andrew Ippolito: ATP synthesis complex is there Okay, and then there's one other key player.
+12:48
+Taylor Campbell: Would it be PS. Andrew Ippolito: So no so PS two is actually out of play and stuff like that, so this.
+12:54
+Taylor Campbell: Is not ever one or the other it's always just. Taylor Campbell: Yes, one. Andrew Ippolito: Right it's always peaceful for cyclic flow yeah so ps1 is involved them both and this is how you can look at it cyclic flow evolve first.
+13:06
+Andrew Ippolito: What we're about to cover here is the most primitive version of photosynthesis that was always there and then what we do is we take that simpler system when we we add complexity to it and we get the linear flow already So who is your only other one we haven't talked about yet.
+13:21
+Taylor Campbell: electron transport. Taylor Campbell: Exactly. Andrew Ippolito: Okay, so here's how that works. Andrew Ippolito: As the sun shines down let's use yellow here as the sun shines down on photo system one photo system ones electrons get energized and instead of handing it to the enzyme it hands it back here to the electron transport chain.
+13:39
+Andrew Ippolito: And the electron transport chain does what it does, it does a proton pumping it uses the energy and those electrons it cools them down.
+13:45
+Andrew Ippolito: And then it hands them back to photo system month and so you can see here, this is what keeps.
+13:53
+Andrew Ippolito: These this mode of photosynthesis alive the idea that the electrons are getting energized and just being used to pump protons which, in turn, then drive the ATP synthesis.
+14:04
+Andrew Ippolito: Okay, so plants that undergo or really any photosynthetic organism that undergoes cyclic flow can generate some ATP from it.
+14:13
+Andrew Ippolito: But not anything else it can't produce sugars, because there is no na de pH being produced and that's a key building block to the sugars that's what's going to give us those powerful chemical bonds right remember that any D pH we call this.
+14:30
+Andrew Ippolito: This is a market that has what we call reducing potential.
+14:37
+Andrew Ippolito: Okay, you need reducing potential to build complex organic molecules you can build complex organic molecules simply with phosphorylation which would ATP gives us.
+14:51
+Taylor Campbell: So in the Calvin cycle, it talks about how the electrons don't move like to a higher energy level.
+15:01
+Taylor Campbell: Like. Taylor Campbell: They don't. Andrew Ippolito: They don't move too high energy right they're gonna come. Andrew Ippolito: If anything they're going downhill, a little bit.
+15:07
+Taylor Campbell: yeah they talk about how like when they're heated and like how they're moving like how they bounce like to move that they're not actually moving like like to a higher energy level.
+15:18
+Andrew Ippolito: Right right so they've been moved to a higher energy level at this moment, right here. Taylor Campbell: Soon, so they do do it in the light reaction.
+15:26
+Andrew Ippolito: Yes, yes that's what makes them go away. Andrew Ippolito: Is they get bumped up to a higher energy state. Okay.
+15:33
+Andrew Ippolito: yeah if you're thinking about the chemistry involved in this. Andrew Ippolito: that's exactly right, so the Calvin by the time it gets to the Calvin cycle they've already been energized and we're going to take that.
+15:42
+Andrew Ippolito: If you think of it from an energy diagram the energies up here we're gonna have to go downhill, not all the way we're not going all the way down a carbon dioxide and water but we're going to stop here, we still have to go down a little bit.
+15:54
+Andrew Ippolito: you're going down a couple fighter stairs anytime you build anything you're going down.
+16:01
+Andrew Ippolito: Do you have to go up to go down, yes we're down to go up it's a riddle there somewhere yeah so you can summarize it all in and as kind of simple.
+16:12
+Andrew Ippolito: Energy diagram let's see if I can do this, so we start out right so there's the low energy components carbon dioxide and water right.
+16:21
+Andrew Ippolito: There low in energy will think about energy here. Andrew Ippolito: And I don't know this is time I don't know what it is just as as we move forward in the reactions, so we have these low energy molecules right.
+16:34
+Andrew Ippolito: And then we have high energy photons let's abbreviate that with the Lambda here right, so we have high energy electron of photons.
+16:45
+Andrew Ippolito: And therefore right we're going to have high energy electrons let's look at it that way, great because you can't do anything with a photon right, you need matter that's energy, we need to put it into into matter and so we're gonna put it in some electrons.
+16:58
+Andrew Ippolito: And so Tyler said the electrons potential energy decreases as it moves, yes, that is exactly the right way to think of it good.
+17:06
+Andrew Ippolito: She said the electrons potential energy decreases as it moves down the electron transport chain good there's actually there's a good slide and the PowerPoint deck that has the actual precise numbers in there, you can even see it it's called the their electro their potential.
+17:22
+Andrew Ippolito: Okay we're going to take this high energy pair of electrons and we're gonna put them into these low energy molecules are This is how the Calvin cycle works and we get that.
+17:36
+Andrew Ippolito: Alright, so that that is a ridiculous simple summary of everything right we're going to take these high energy electrons.
+17:43
+Andrew Ippolito: Are we're going to take those high energy electrons and put them into these low energy molecules carbon dioxide and water we're going to create.
+17:51
+Andrew Ippolito: This high So you see where I drew it do you see how I put you through here right it's underneath the electron but well above these guys.
+17:59
+Andrew Ippolito: So we think of it, you know, in a there's an Iraqi of energy OK, so the sun's obviously at the highest point here we can't go past that.
+18:08
+Andrew Ippolito: And so those electrons are the highest we're going to get in the biosphere that's as that's as big as we can so photo system to, which is what does all that right.
+18:16
+Andrew Ippolito: There the photo system to is the most oxidative thing in biology it's so powerful of an oxidative burns water right it oxidizes water.
+18:26
+Andrew Ippolito: Right, so that right that's where we get the electrons from in fact so so you can also maybe we can maybe tailor this there's nothing wrong with what I just wrote, but we can do a little more accurately, we can say that light right goes into.
+18:42
+Andrew Ippolito: And grabs the electrons from water pumps them up, and then it uses the carbon dioxide as a source of the carbon to make this high energy three carbon molecule GDP.
+18:59
+Andrew Ippolito: Okay, and so this right here is a product of the Calvin cycle.
+19:04
+Andrew Ippolito: Well we're going to see. Andrew Ippolito: We can take two of those. Andrew Ippolito: And we can make our glucose.
+19:12
+Andrew Ippolito: My we're going to do today is we're going to break glucose back down to GDP really let's so glucose is even higher and energy right.
+19:22
+Andrew Ippolito: Because there's two of them in there, so we're gonna we're gonna do so respiration is all about breaking that back down to.
+19:30
+Andrew Ippolito: To be PG. Andrew Ippolito: To three PG, which is also P go.
+19:38
+Andrew Ippolito: To pvp. Andrew Ippolito: To pirate, by the way, don't don't worry if you can't do that I can finally do that i'll say I wasn't able to do that myself.
+19:47
+Andrew Ippolito: I can do that now so i'm like I would never expect you to be able to just rattle those off this is like the intermediate of like houses, the idea here is you get to pirate.
+19:57
+Andrew Ippolito: Okay, which. Andrew Ippolito: Technically let's let's take let's take all of that, I want to do the energy stuff accurately, so I want to bring all these up here, so I have some more breathing room.
+20:09
+Andrew Ippolito: right because I want to show a pirate is still well above carbon dioxide in terms of words energies right so there's this downhill trend and i'm on this downhill in this extra Yannick process we're going to make some ATP and we're going to make some nadh.
+20:27
+Andrew Ippolito: Okay, so that's that's like houses in a nutshell. Andrew Ippolito: And then, in the presence of oxygen we're going to further oxidized movie.
+20:36
+Andrew Ippolito: Until we basically get back these guys it's all connected.
+20:42
+Andrew Ippolito: Okay, so when you're done with this one of the things you can study on Thursday, when you're done with studying chapters nine and 10 is you can put it all together in one big grand master.
+20:53
+Andrew Ippolito: diagram photosynthesis and so respiration it's all connected and and that's the simple story.
+20:59
+Andrew Ippolito: The output is always going to be ultimately eats up.
+21:06
+Andrew Ippolito: Okay. Andrew Ippolito: And so electrons are going up and down and they're being bopped around and all these intermediates it's very messy so his life it's a good allegory for life itself.
+21:24
+Angela Harbeck: um I know this is a little bit of a stupid question but. Andrew Ippolito: it's not stupid go ahead.
+21:29
+Angela Harbeck: The focus of this is obviously you're dealing with like the chloroplasts you're not dealing with the mitochondria right and.
+21:37
+Andrew Ippolito: that's a no that's a great question because we're all thinking about one of the things that your brains are going to start to do.
+21:43
+Andrew Ippolito: Once you kind of start getting this is you're going to start asking deeper questions like where is this happening. Andrew Ippolito: You know what's, what are the grander structures and so here, I can give you a very simple diagram.
+21:53
+Andrew Ippolito: So here's a plan so. Andrew Ippolito: Okay here's the big central vacuum.
+22:00
+Andrew Ippolito: And so let's say here's the chloroplasts. Andrew Ippolito: With the final equation it right.
+22:06
+Andrew Ippolito: And then hey let's put our mitochondria over here. Andrew Ippolito: Okay, so don't forget this, this when you were in grade school you learn plants have chloroplasts and animal cells have mitochondria right, that was a lie.
+22:19
+Andrew Ippolito: everybody's got mitochondria plants and animals have mitochondria and fungus.
+22:25
+Andrew Ippolito: And most, but not all most protein Okay, so if you're eukaryotic cell you've got to mitochondria that's one of the things that you come with along with your nucleus, and your linear chromosomes and your cellular organelles that have membranes right good Jordan.
+22:42
+Jordan Russell: Can you hear me. Jordan Russell: yeah Okay, I have a slightly weird slightly off topic question about mitochondria.
+22:48
+Andrew Ippolito: Specifically, the powerhouse of the cell sorry. Jordan Russell: Well, besides that but, like you know in how humans, how you can trace back, like everyone has their mothers mitochondria just like keep tracing back is that kind of the same plants.
+23:05
+Andrew Ippolito: Yes, yeah we actually call, there was a human genetic analysis done that trait so.
+23:12
+Andrew Ippolito: back when I was in high school, there were two competing theories about human emergence mom was called the out of Africa theory and the other I forgot the other one was called up by this point because it was now it's now outmoded.
+23:25
+Andrew Ippolito: But the the proof in the pudding for that was doing a mitochondrial DNA analysis, because we all inherit our mitochondria from just our mothers, it comes from the egg cell.
+23:36
+Andrew Ippolito: They were able to do this. Andrew Ippolito: International like the largest scale genetic analysis, you know they wanted to rural villages everywhere into blood samples and.
+23:47
+Andrew Ippolito: They they sequence mitochondrial DNA and they traced it all back to Africa. Andrew Ippolito: And so they were able to trace it back to what you would think of Now is our pool of females that originated in Africa and they call that mitochondrial Eve.
+24:00
+Andrew Ippolito: Which is just a lovely little connection there so there's mitochondrial Eve, and then there was a separate analysis done years later on.
+24:09
+Andrew Ippolito: The y chromosome the one that only males have and they trace that back to I don't know what the y chromosome Adam.
+24:17
+Andrew Ippolito: Genetic Adam and they both both of those analysis all traced back to Africa.
+24:23
+Andrew Ippolito: And so we now know with you know as high confidence as we possibly can, that all humanity came from Africa, we started in Africa and there's a really great documentary on netflix that that talks about all this.
+24:34
+Andrew Ippolito: And one of the most profound pieces of that are this through a simple little bit of video where they go into some of these villages and the year so so we never left Africa right we there's also people still in Africa, to this day from 2 million years ago when we are i'm sorry i'm sorry.
+24:54
+Andrew Ippolito: somewhere around 500,000 years ago is when humans really took the form of our current modern physiological human when you look at their faces, you see, everybody in them.
+25:07
+Andrew Ippolito: You see, the diversity of all what we call sociologically races all the different races are represented in their morphology of their faces you see.
+25:19
+Andrew Ippolito: You know Asian esque faces you see South American use every anything everything in between it's amazing it was really profound to see that.
+25:28
+Andrew Ippolito: So so anyway, no that's a good question okay so battery Angeles question about the mitochondria chloroplasts now already so understand that that 50% of the sugars that plants make.
+25:38
+Andrew Ippolito: are used for the plant to eat right, so they truly they make their own food they eat.
+25:43
+Andrew Ippolito: And so they're still glycol genesis and they're still the Krebs cycle and they're still all this, all this stuff we're going to learn about today is happening and all you carry those.
+25:52
+Andrew Ippolito: plants, animals and fungus and produce Okay, there are like a handful of species of proteins that we found don't have the mitochondria they lost it over time we still don't fully understand how they survive.
+26:04
+Andrew Ippolito: It just it makes it, but you know protein that's just how they are they're there they keep us guessing.
+26:11
+Andrew Ippolito: You could also say that purchaser just an evolutionary experiment that is continuing to go on after a couple billion years.
+26:19
+Andrew Ippolito: right there, so there are chloroplasts that look like mitochondria and their mitochondria locally chloroplasts in terms of their internal membranes.
+26:25
+Andrew Ippolito: right there, there are mitochondria that have fila quite like stacks instead of Chris day so there's all sorts of craziness out there okay So here we go Angela you got where the sun shines down here we make some sugars.
+26:39
+Andrew Ippolito: And then those sugars are metabolized in the cytoplasm and then some of those things go in here and which we'll talk about today so that's the connection.
+26:49
+Andrew Ippolito: That makes sense. Angela Harbeck: So photosynthesis is the core classes and cellular respiration is mitochondria.
+26:56
+Andrew Ippolito: that's a great way to think of it yeah. Andrew Ippolito: Okay, and really let's. Andrew Ippolito: add the cytoplasm in there because we're going to see that the first steps of cell respiration the breakdown of sugar in glycol says that's actually in the cytoplasm.
+27:13
+Andrew Ippolito: And so, when we remember the oxygen we need right oxygens would oxygens our ticket into the mitochondria.
+27:21
+Andrew Ippolito: Without without oxygen we don't get in there. Andrew Ippolito: And so we'll learn about fermentation, which is part of the alternative process fermentation occurs in the absence of oxygen so respiration occurs in the presence of oxygen.
+27:35
+Andrew Ippolito: So we'll call it aerobic respiration. Andrew Ippolito: don't worry about anaerobic respiration right now.
+27:42
+Andrew Ippolito: Has tell her someone with first are all this this overwhelming and there's a lot of info it's it's definitely the case here.
+27:52
+Alexa Deprisco: Excuse me, yes um I don't know, are we done like talking about plants and at this point like the Calvin cycle everything.
+28:00
+Andrew Ippolito: Are we done talking about which part. Alexa Deprisco: I guess like the Calvin cycle and everything like we're just we're. Andrew Ippolito: No, no i'm still fielding questions you want to do want to ask a question, or do you want to guess question about something after all that.
+28:10
+Alexa Deprisco: I guess it's it's relating to like this see for Calvin cycle specifically. Andrew Ippolito: sure.
+28:15
+Alexa Deprisco: Good so like it says. Andrew Ippolito: Looking at your window aren't you. Alexa Deprisco: yeah i'm looking out my window.
+28:22
+Alexa Deprisco: Okay, so I have my thing over here so uh let's see for molecule moves into the bundle sheets so and then it is broken.
+28:31
+Andrew Ippolito: yeah you see here. Alexa Deprisco: Do we have to know the name of the enzyme. Andrew Ippolito: No, no, no, no, no. Andrew Ippolito: You don't you don't even have to.
+28:37
+Andrew Ippolito: yeah just know that we pumped up for carbon molecule other and a. Andrew Ippolito: Pig degrades back into a three plus one.
+28:44
+Andrew Ippolito: You drink enough to know that yeah So the idea is here, if this is the bundle sheets so, and this is the muscle feel so so phil.
+28:52
+Andrew Ippolito: banerjee so we take this for carbon molecule we pump it across so that requires energy right there's a reason why see four plus or less efficient than see to replace, we need to put energy into this that we don't otherwise need.
+29:05
+Andrew Ippolito: Okay, and then the three carbon molecule plus one quarter mile basically it's like think think of the three quarter molecules a taxi cab.
+29:12
+Andrew Ippolito: we're bringing the passenger into the bundle csl dropping them off and then we're going to go back and pick up another one and that taxi is the p P, the phosphoenolpyruvate.
+29:23
+Andrew Ippolito: And then the for carbon molecule it creates is called malaise you do often o'malley because you're going to see him again when we do sell respiration muscle gaming your head so Mally is the for carbon molecule that is the first product of the first reaction.
+29:41
+Taylor Campbell: Okay, so you said that it needs energy that see three.
+29:47
+Andrew Ippolito: yeah right here that pump we're pumping the mallet into the bundle she's so. Andrew Ippolito: And so that just record you don't have to worry about the details or there's a pump it requires ATP, just like the sodium potassium pump we learned about.
+30:00
+Andrew Ippolito: Because we're forcing a higher concentration of carbon dioxide into the bundles so that's the whole point of this is to artificially elevate.
+30:09
+Andrew Ippolito: That carbon dioxide concentration, so that rubbish go remember rubbish go the enzyme that can't tell the difference between oxygen and carbon dioxide always has enough carbon dioxide to do its job.
+30:27
+Taylor Campbell: How do you feel about doing. Taylor Campbell: The Calvin cycle, how you did the light site um yeah the light reaction.
+30:35
+Andrew Ippolito: You want me to go over yeah yeah we can do that. Andrew Ippolito: Are there any other questions on the light reactions.
+30:41
+Andrew Ippolito: let's go back up here what a mess.
+30:46
+Andrew Ippolito: alexa, would you be willing to show us your your window i'm really curious to know what it looks like now, I want to see how.
+30:53
+Andrew Ippolito: Complicated it got you don't have to if you're if it's Okay, you can show me later if you while you're taking a picture of screenshots and i'm just I want to see what it looks like.
+31:01
+Alexa Deprisco: I guess, I mean like I have the Calvin cycle here, I can try and like turn my whole computer.
+31:06
+yeah. Alexa Deprisco: Can you see that. Andrew Ippolito: Yes, yes okay Oh, that is so cool Oh, and you have trees out your window, which is appropriate.
+31:15
+Alexa Deprisco: yeah right. Alexa Deprisco: Very cool I can think about how it works.
+31:20
+Andrew Ippolito: That is really cool. Andrew Ippolito: My friend Jen her her son. Andrew Ippolito: When he was really young men really he was like in first or second grade it was learning to do math and she found him underneath there a glass coffee table.
+31:36
+Andrew Ippolito: And he was writing at the bottom of it and then he was getting up and looking down at it, he was doing like.
+31:42
+Andrew Ippolito: he's like crazy smart, but he was using the two sides of the glass to who knows what he was thinking, but yeah he was she caught him on the floor writing up on the bottom of the glass.
+31:55
+Andrew Ippolito: Anyway, thanks for sure. Taylor Campbell: But let's see writing were like a marker. Andrew Ippolito: He was writing with with a marker yeah good thing was I don't you can take permanent marker off of glass to who knows what he was writing with I mean it could been crayon for all I know, but he was writing.
+32:09
+Taylor Campbell: That wasn't really hard that's why i'm asking like that would take like a lot of pressure, like you, oh. yeah.
+32:15
+Taylor Campbell: Man a pencil is just. Andrew Ippolito: know it was a marker so i'm kind it's bright colored colored markers.
+32:22
+Andrew Ippolito: Might you know what my guess is it's probably the Expos like we're less was using because I imagine Jen my I know my friend well enough to she probably got him to stop to like be creative with it instead he was using it to his math.
+32:37
+Andrew Ippolito: yeah okay so anybody else questions on the light reactions.
+32:44
+Andrew Ippolito: Alright Calvin cycle. Alexis Micewski: zoom in here to the Calvin cycle, the test, we need to know like how many carbons and how it changes.
+32:56
+Andrew Ippolito: Exactly we're not we're not gonna. Andrew Ippolito: So there's a part of the Calvin cycle that you don't need to know actually know what in the PowerPoint there's there's a slide that says, you need to know this level of detail.
+33:08
+Andrew Ippolito: And so that's basically here i'll draw what you need to know you got.
+33:14
+Andrew Ippolito: me here, let me get i'll tell you what first let's do carbon accounting without without words one two so here one that's carbon dioxide Okay, let me get a second marker here setup.
+33:29
+Andrew Ippolito: Plus. Andrew Ippolito: 12345 Okay, and what we're going to do a free gonna do is we're gonna pump those full of the energy that came from light reactions your your nav pH and your ATP we're going to use all that stuff to pump it in here.
+33:55
+Andrew Ippolito: Okay, and so step one is that fixation step that's grabbing the gas and making a solid basically fixing it in space and then we're going to reduce it we're going to pump the end of the pH in there.
+34:06
+Andrew Ippolito: Okay, and we're going to get this very, very, very temporary six carbon intermediate that i'm going to draw and what that does is immediately breaks in half.
+34:18
+Andrew Ippolito: To three carbon molecules.
+34:25
+Andrew Ippolito: Alright, and so. Andrew Ippolito: That and then what we're gonna do is we're gonna we're going to do this, three times right so here, I can just take these watch this i'm going to just take those.
+34:39
+Andrew Ippolito: That. Andrew Ippolito: are going to do it again. Andrew Ippolito: All right, and then what we did was we did we built up.
+34:51
+Andrew Ippolito: I want to keep these together here we've built up 123456 of these okay so here that if you step back and think of it we've taken three carbon dioxide's.
+35:03
+Andrew Ippolito: And in a series of chemical reactions we've stapled them onto these five carbon RU bps we pump them full of energy and we've created six of these G three piece.
+35:14
+Andrew Ippolito: And what we're gonna do is we're going to take one of these.
+35:20
+Andrew Ippolito: we're gonna keep it for our trouble. Andrew Ippolito: we're just gonna keep him.
+35:29
+Keep it. Andrew Ippolito: Right, the remaining ones.
+35:36
+Andrew Ippolito: The rest of these guys. Andrew Ippolito: we're going to take them and now they're high in energy right, these are high energy three carbons we're going to take that energy that free energy and we're going to basically reconstruct these three.
+35:57
+Andrew Ippolito: Groups, these three. Andrew Ippolito: are a big piece and that's that third step the regeneration step.
+36:07
+Andrew Ippolito: Okay, so step one is fixation we're going to take a five carbon molecule and staple it to a one carbon molecule okay does that so what's the enzyme that does that.
+36:19
+Andrew Ippolito: Was the key player here. Andrew Ippolito: most abundant ends up on the planet.
+36:27
+Andrew Ippolito: and also the stupidest.
+36:35
+Angela Harbeck: pisco. Rebecca.
+36:40
+Andrew Ippolito: If you read on the Internet, like I know and Wikipedia they they write it like this, capital or lowercase you capital be.
+36:51
+Andrew Ippolito: lowercase I. Andrew Ippolito: lowercase s and then capital C and sometimes you see a slash with an o
+37:02
+Andrew Ippolito: And the reason is that that it's not a acronym it's a word I can't remember that you take bits I like the word redux reduction oxidation crammed together right, this is, are you be right below this phosphate car box ELISE slash oxygen Nice.
+37:21
+Andrew Ippolito: Because it's an enzyme that has two activities to enzymatic activity that's how we say we say activities, so you would say.
+37:29
+Andrew Ippolito: Another enzyme that you've already I haven't taught you this word yet, but so any ends on that phosphor ELISE things is called a kinase right maybe you've raised an interesting that were before kindness anybody.
+37:41
+Andrew Ippolito: Okay, you saw here first folks a kindness is an enzyme that as phosphates two things it's universal we're going to learn about kindness is all semester, so you might as well get that in your head now.
+37:54
+Andrew Ippolito: A kinases and ends on the last four listings. Andrew Ippolito: And so, so like there's a glucose kinase there's those will see the word kindness and the next chapter.
+38:04
+Andrew Ippolito: Anyway, we say kindness activity this isn't ends on the House kindness activity but it's how we talk so so rubbish go has both a car box ELISE activity and an oxygen as activity, it can use carbon dioxide and oxygen.
+38:21
+Andrew Ippolito: interchangeably, and so we have to make sure the useful one, the one that we want to build things with is the car box last activity.
+38:29
+Andrew Ippolito: And so we want to make sure that wherever obispo is doing its job it has more carbon dioxide available than oxygen, which is in our environment in our climate of the common default state in a temporary environment.
+38:45
+Andrew Ippolito: But on a hot day when it's holding its breath and gas exchange isn't occurring the oxygen levels are gonna start creeping up.
+38:56
+Andrew Ippolito: Right and so that's when you get that thing called photo respiration.
+39:03
+Andrew Ippolito: And what photo respiration is is when rubbish go is using oxygen instead, and what that reaction looks like you don't have to worry about just understand it basically attacks the five carbon molecule and blows it up a little bit makes carbon dioxide.
+39:16
+Andrew Ippolito: Okay, the idea is you can't regenerate. Andrew Ippolito: Okay you're tapping into your.
+39:23
+Andrew Ippolito: That five carbon molecule pool right there you can think of the cells, having this reserve of these things, and so like think of a here's an analogy think of a trust fund.
+39:34
+Andrew Ippolito: there's like a million dollars in the bank and that million dollars gives you know $2,000 a month in interest payments all right that's that that's we trust funds work you stick a whole bunch of money in the bank and you just live on the interest.
+39:48
+Andrew Ippolito: Okay, the reason nice way for people to live if they're lucky enough to have some kind of rich relative that gives them a trust fund.
+39:56
+Andrew Ippolito: So imagine that you have this life, where you get $2,000 a month, just because you're lucky, and you spend $2,000 a month.
+40:07
+Andrew Ippolito: you're fine right that's that's what this would be like on a nice temporary day so so you you withdraw some money from it, but it just gets replaced to get it regenerates from the interest payments right.
+40:18
+Andrew Ippolito: But let's say that you're greedy and you want to buy a tesla and so instead of $2,000 you take out $100,000.
+40:27
+Andrew Ippolito: Well now, you have $900,000 in the bank and that's not going to support $2,000 a month anymore now you get only item is making this up now, you only get $1,800 a month.
+40:39
+Andrew Ippolito: shucks. Andrew Ippolito: Right, but if you kept doing that eventually run out of money right, and so the idea here is photo respiration withdraws permanently some of that are a BP.
+40:53
+Andrew Ippolito: You can't regenerate it, and so, if the cell starts using that up and that's all it's doing because it's hot out this elementary dies.
+41:04
+Andrew Ippolito: And so that's where see for plants come in. Andrew Ippolito: what's the for plants do is they separate this step here the fixation step they separate that from the rest of us.
+41:20
+Andrew Ippolito: Okay, so in see for plants. Andrew Ippolito: We do this in the medical field cells and instead of rubbish go, we have an enzyme called P P O box ELISE notice the name it's a car box ELISE it's not an oxygen as.
+41:35
+Andrew Ippolito: It specialized. Andrew Ippolito: It it can pull a carbon dioxide out of the air, even if there's just one compared to the thousands of molecules of oxygen it doesn't compete with oxygen, and so it does not undergo photo respiration.
+41:53
+Andrew Ippolito: And so what the sea for plants do is they take that carbon dioxide they put it onto a molecule called P P, as well as called P P O box at least P P, is a three carbon molecule.
+42:07
+Andrew Ippolito: And increases for carbon molecule and a pumps, though, that into the bundle sheet cells.
+42:14
+Andrew Ippolito: Where it then releases back into pvp and carbon dioxide and that's the key.
+42:22
+Andrew Ippolito: we're pumping up the carbon dioxide concentration and the bundle she sells that's where rubbish go is so robust go still doing its thing it's just not initially fixing the carbon it's taking this carbon that's being given to it.
+42:37
+Andrew Ippolito: And then everything else you already learned happens, meanwhile, that three carbon P P gets pumped back out to the medical field sales to pick up another carbon doubts.
+42:48
+Andrew Ippolito: OK, so the key there to summarize it is see for plants.
+42:56
+Andrew Ippolito: isolate the fixation step physically from the reduction and regeneration.
+43:04
+Andrew Ippolito: In other words, you can you can there's a simple diagram I have a slide on this very simple diagram see three see for and again we haven't talked about camp.
+43:16
+Andrew Ippolito: And you have the Calvin cycle step one step two and step three right, you have your you have your fixation your reduction in regeneration.
+43:26
+Andrew Ippolito: Alright, and see three plants, they occur in all on the muscle cells.
+43:33
+Andrew Ippolito: and see for plants that occurs in the medical field sales just step one and step, two and three occur and the boundaries T cells.
+43:42
+Andrew Ippolito: And as you'll see in the camp plants this occurs during one time of the day, and this occurs in a second time of the day.
+43:50
+Andrew Ippolito: So this is a space we separate things by space this separates and by time.
+44:02
+Andrew Ippolito: Excuse me, yes. Alexa Deprisco: question about what you said when.
+44:08
+Alexa Deprisco: The the sea for sugar from the C word plan is like pumped through to the bundle she sells and you said that it breaks up into the carbon dioxide.
+44:17
+Alexa Deprisco: And the three carbons herbal it breaks off into like the carbon and the three carbon sugar and you had mentioned that the three carbon sugar, it was the pee pee but I thought the books that it was pirate movie and then like it reacts with ATP to turn back.
+44:31
+Andrew Ippolito: Oh that's me misspeaking it's. Andrew Ippolito: It says hi Ruby. Alexa Deprisco: that's an anomaly.
+44:36
+Alexa Deprisco: It reacts with the ATP and then it becomes. Andrew Ippolito: yeah okay okay yeah so that's that's pie Ruby.
+44:45
+Andrew Ippolito: becomes fastball email pie Ruby that's the key part, so the last piece of the pie Ruby and then that becomes the mouth.
+44:52
+Andrew Ippolito: Again, so alexa this, this is a level of detail, you don't have to know for the test, but if you're learning it at this level that's good that's good then you'll get all the test questions right.
+45:02
+Andrew Ippolito: So yeah I got I gloss over this, I mean actually there the other classes, they don't even teach the sea, for they just just teach the three so you guys are already ahead of the game in terms of knowing knowing some stuff for your future classes.
+45:17
+Andrew Ippolito: You will learn about it, for, at some point in another class i'm not sure which class that will be I don't know if they cover they don't cover this and bio to you might cover this in biochemistry i'm not sure.
+45:28
+Andrew Ippolito: In any case, um yeah so so the enzyme is PP car box ELISE and that takes the that creates malley as a final product.
+45:43
+Andrew Ippolito: And so here here's your carbon dioxide on your pee pee and then this will all get pumped in.
+45:53
+Andrew Ippolito: And it will release it. Andrew Ippolito: So you can picture we're building up the carbon dioxide here while this guy cycles to go back.
+46:02
+Andrew Ippolito: let's go cycles to him.
+46:08
+Angela Harbeck: I got a question. Angela Harbeck: yep so when you said that like when the GP G three peas, or like made and everything only one of them is captain, the other ones go back.
+46:21
+Angela Harbeck: to hell isn't sugar made in the Calvin cycle, so how does the.
+46:26
+Andrew Ippolito: Oh okay so think of this disclosure out the height three phosphate.
+46:32
+Andrew Ippolito: This is a try ios sugar. Andrew Ippolito: Is sugar.
+46:39
+Andrew Ippolito: Okay, when we want to make glucose, we have to do all of this two times so to go Sir i'll have three phosphates generate one and we'll say glucose six phosphate.
+46:54
+Andrew Ippolito: Which is glucose as far as we, for all intensive purposes so that's where like when we see sugar, this is what you're more familiar with their sure heck so sugar glucose.
+47:05
+Andrew Ippolito: What Jay three P, is a sugar too it's just it's we don't do anything with it other than make other things with it so think of GDP is like the master Lego building block.
+47:17
+Angela Harbeck: yeah but my question was like you said, we have to bring those back up so you could do carbon fixation again that you GDP So how do you how do they leave that Calvin cycle, then.
+47:30
+Andrew Ippolito: Oh OK, so in order for the Calvin so it's a cycle right Calvin cycle, meaning that it keeps going it's not a flow it's a cycle, so in order to start the Calvin cycle, we need three molecules that are five carbons each these are also sugars, these are these are pintos sugars.
+47:52
+Andrew Ippolito: Okay called regulus right, you lose.
+47:58
+Andrew Ippolito: This phosphate. Andrew Ippolito: So we're gonna take so let's do carbon accounting each one of these is five carpets right so that's 15 carbons total.
+48:10
+Andrew Ippolito: we're gonna take. Andrew Ippolito: These 15 carbons and we're going to shuffle them around basically think of these as again think of it if you think of it as legos think about you have five three piece legos.
+48:23
+Andrew Ippolito: we're going to shatter them all and we're going to reconstruct using the energy that was in there, to begin with three five carbon versions.
+48:32
+Andrew Ippolito: And, and so we're going to take that last one for our trouble, and you can also visualize this as the three low energy carbon dioxide that have gotten reduced.
+48:43
+Andrew Ippolito: These three right here. Andrew Ippolito: Leave the system and a higher energy state than they came in and the rest of it stays there.
+48:56
+Angela Harbeck: Okay, that makes more sense. Andrew Ippolito: All right, more questions anybody.
+49:05
+Andrew Ippolito: Otherwise i'll do cam. Andrew Ippolito: And then we'll do some respiration.
+49:11
+Andrew Ippolito: and feel free you know if questions pop up as we're doing this just interrupt me and and and ask them right now to Camp plants can plants aren't so see three plants and see for plants are both named they're named after.
+49:30
+Andrew Ippolito: The first product.
+49:36
+Andrew Ippolito: Of the first reaction and that's a common way of naming any pathway we're going to see the Krebs cycle is also called the citric acid cycle.
+49:43
+Andrew Ippolito: or their tried car, but the citric acid cycle we'll just leave it at that, and so the reason for that is the first product of the first reaction is citric acid.
+49:52
+Andrew Ippolito: camp planets are named after the first plant, the family that it was discovered in stands for let's see if I can spell us right crass the lease scene that's probably spelled terribly wrong cresta lucien acid metabolism.
+50:10
+Andrew Ippolito: Alright there's the crassly scenes they're the ones that we see this kind of photos, and this was a current these are things like your cactus.
+50:21
+Andrew Ippolito: cactus plants. Andrew Ippolito: Right So these are, these are the survivors think of cam plants as sustenance farming, it is the least efficient mode of photosynthesis but it's the one that can survive in the hottest environments on earth.
+50:37
+Andrew Ippolito: Let me think about it 120 degrees no water for weeks and there's this Green little plant growing.
+50:45
+Andrew Ippolito: how to get there. Andrew Ippolito: Right so here's what they do now, in order to understand these best is, you have to think about the deserts like think about the desert day night cycle what's the desert like at night.
+51:00
+Andrew Ippolito: very cold very cold. Andrew Ippolito: Anybody know why it's very cool, why is it that I mean you desert supposed to be hot, why are they so cold.
+51:11
+Taylor Campbell: Well doesn't it not have anything really to like hold in the heat. Taylor Campbell: Exactly sand.
+51:17
+Andrew Ippolito: silica has a very low specific heat if you've ever taken an aluminum pan out of your oven.
+51:25
+Andrew Ippolito: you realize, maybe, surprisingly, the first time you do this, that it's cool to the touch, you can very easily hold the pan within seconds of it coming out of the oven.
+51:36
+Andrew Ippolito: The reason for that is aluminum like silicon doesn't hold heat very long, it gives it back as fast as you take and contrast water when you give water he it keeps it.
+51:46
+Andrew Ippolito: For a long time that's why everything that's me anything water beast takes a really long time to cool down that's why, if you've ever had.
+51:53
+Andrew Ippolito: Ever ordered mashed potatoes or French Fries are made some and you're like Oh, they should be cool now and then you put in your mouth, you still bring your tongue.
+52:03
+Andrew Ippolito: As because water has such a high specific key. Andrew Ippolito: The desert, all you got to stand right and so during the daytime, this is a desert during the daytime.
+52:15
+Andrew Ippolito: That, so the sun's really hot because you're at the equator right, so you got maximum amount of energy coming down at you, at the same time.
+52:22
+Andrew Ippolito: The sands giving back that he just as fast that's why it's so freaking hot during the day you got two sides of it right and that's why people that live in the desert where those robes you might wonder why they wear robes don't they overheat they're actually creating convection currents.
+52:38
+Andrew Ippolito: Right, the hot air comes up from the bottom of their robes and it leaves their sleeves in their hoods, and so there there's they're basically constantly have a fan going on that's how they keep cool.
+52:49
+Andrew Ippolito: So during the day, you can imagine a cam plan okay so here's our cactus.
+52:56
+Andrew Ippolito: The cam plant during the day to stone me.
+53:03
+Andrew Ippolito: Or the stigmata. Andrew Ippolito: or shut to conserve water right they're holding their breath during the day.
+53:14
+Andrew Ippolito: The light reactions are going, obviously the sun's out.
+53:20
+Andrew Ippolito: Which means we're generating that ATP and that any dp.
+53:26
+Andrew Ippolito: which we have to put to work, those are unstable molecules so we're gonna make sugars during the day.
+53:33
+Andrew Ippolito: Well, how where's the see where's the CO2 coming from. Andrew Ippolito: Right remember the Calvin cycle needs a CO2, so it turns out, just like the sea floor plans we got the mallet.
+53:44
+Andrew Ippolito: Somewhere so during the day there's this malley present that's getting degraded into carbon dioxide, just like the way they see three plants are doing.
+53:54
+Andrew Ippolito: During the nighttime. Andrew Ippolito: In the desert so when the moon's out.
+54:01
+Andrew Ippolito: And it's cold.
+54:07
+Andrew Ippolito: At this point. Andrew Ippolito: there's tomato open.
+54:13
+Andrew Ippolito: And they breathe in. Andrew Ippolito: breathe in that carbon dioxide.
+54:20
+Andrew Ippolito: And they go through that P P car box ELISE.
+54:27
+Andrew Ippolito: fixation. Andrew Ippolito: Okay, so a nighttime CO2 is fixed.
+54:36
+Andrew Ippolito: The daytime everything else happens. Andrew Ippolito: that's it that's how that's the difference between the camp plants and the seaport plans.
+54:46
+Andrew Ippolito: So the fun way to think about it, instead of separating in space they separated and time again they're separating step one from step, two and three of the Calvin cycle.
+55:02
+Andrew Ippolito: And that's it. Andrew Ippolito: i'll leave it at that. Alexa Deprisco: This might be kind of a silly question, but like do you think then cam plans would fare better and more acidic soil.
+55:23
+Andrew Ippolito: I want to say a first, not necessarily because they're still there, well.
+55:29
+Andrew Ippolito: So a cactus plant is going to have lower efficiency is.
+55:36
+Andrew Ippolito: yay. Andrew Ippolito: I never thought about this before lower so Mars I don't know the correlation between acidic soils.
+55:44
+Andrew Ippolito: And plant growth because there are like we're going to genetics and a couple weeks and we're going to see that some treats are environmentally driven and so there's a type of flowering plant.
+55:59
+Andrew Ippolito: I can't remember the name of it yeah Thank you. Andrew Ippolito: hydrangeas hydrangeas in acidic soil give you a.
+56:07
+Andrew Ippolito: pink flowers and then basic soils give you yeah blue flowers, but they can survive in both so I don't know necessarily.
+56:16
+Andrew Ippolito: If I had to guess the campus probably be fine in acidic soil more acidic soils because they're harder they they can keep the water there succulents right they can drop the water in there, but that's just a guess and what's your brain doing what do you thinking about.
+56:32
+Alexa Deprisco: Just because i'm like reading in the book it said it was like incorporating like these organic acids like that's where it was fixing its carbon and then the breakdown of that was like releasing the CO2 so i'm like if there's like more acid pair with.
+56:47
+Andrew Ippolito: The because of the name, so yeah, so I think I think we're talking also about Rubik acid.
+56:54
+Andrew Ippolito: Which is really what I read is there's Peruvian pi river gas or they're just just like citric acid and citrate.
+57:03
+Andrew Ippolito: Their contract Member I don't know your chemistry it you conjugate acids contract basis that you do that yet.
+57:09
+Andrew Ippolito: yeah so yeah we remember how we talked about acids donating protons and basis absorbing it yeah so.
+57:14
+Andrew Ippolito: Any one of those molecules that's weak like carbonic acid, you can think of it as there's two states have it like in redux right so it's either goddess proton or does.
+57:23
+Andrew Ippolito: Right, and so you have those two states, and so, once called the conjugate acid one's called the contract of bees, just like one is the oxidized form and then reduce for.
+57:30
+Andrew Ippolito: Or the first formulated for them than office for late for all these things that we talked about have different states and re ATP ATP any dp and then the pH and so Peruvian pie Rubik acid citrate citric acid, those are they're all like a yin Yang sort of thing.
+57:47
+Andrew Ippolito: So terrific acid is it's I mean yes it's an acid it's donating protons, but that is all that means is that when you put it in water it loses a proton it doesn't mean it's dropping a pH, to the point where it's dangerous.
+57:59
+Andrew Ippolito: It just means it's under seven, it might be 6.9 that's still technically a weak acid right but that's well within the physiological limits of anything to live.
+58:10
+Andrew Ippolito: Okay, good question any other questions.
+58:17
+Andrew Ippolito: Okay, all right, so what we're going to do now is i'm going to stop this PowerPoint this are the the recording, this is the end of like the review for photosynthesis so tag this as.
+58:29
+Andrew Ippolito: A photosynthesis lecture because I don't want to I don't want to contaminate it with some cell respiration talk we're going to stop this recording here.

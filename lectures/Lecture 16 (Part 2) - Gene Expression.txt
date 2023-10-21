@@ -1,0 +1,2216 @@
+0:01
+Andrew Ippolito: Alright, this is lecture number two gene expression last time we talked about.
+0:07
+Andrew Ippolito: We connect the dots right we got Garrod the wonder can of.
+0:13
+Andrew Ippolito: The early 1900s where he's the one that noted he made the observation that metabolic disorders were inherited in a million matter.
+0:23
+Andrew Ippolito: So that was that that that key link there, and he called these inborn errors of metabolism. Andrew Ippolito: But between 1900 1940 not much was done in terms of understanding the mechanisms of a gene.
+0:35
+Andrew Ippolito: Right and now, to be fair right we still we were still arguing about what genes were even made out of right and.
+0:42
+Andrew Ippolito: it's complicated the paradigm of molecular biology is very complicated, the idea of DNA to RNA protein, you know they barely understood any of it right.
+0:54
+Andrew Ippolito: So it you got to give them all cut them all slacker by the 1940s Oh, we got beetle and pay them using the halfway and Ross Perot crosses to.
+1:03
+Andrew Ippolito: come up with their one gene one enzyme model and that we went through that experimental protocol in detail.
+1:11
+Andrew Ippolito: So you guys should definitely try to if you don't already make sure you understand beetle and pay them through and through ask me questions if you don't get it and i'll give you the missing piece of the puzzle in your head.
+1:23
+Andrew Ippolito: We then go on to understanding hemoglobin and understand the hemoglobin isn't one thing it's actually four things right two different chains alpha globulin and beta globulin.
+1:36
+Andrew Ippolito: And they're the ones that finally realized that. Andrew Ippolito: Again, and code of the information to make just a poly peptide chain of amino acids.
+1:46
+Andrew Ippolito: And so the modern version of a gene right there's no in really the I think in retrospect, the the story should definitely have another piece here that connects the dots with RNA.
+2:00
+Andrew Ippolito: right we don't tell the story of RNA because I told you this, a couple times a semester RNA is still something that we're coming to terms with there's there's a lot to it.
+2:14
+Andrew Ippolito: Then we're just scratching the surface in this class on it so.
+2:19
+Andrew Ippolito: Okay, so i'm going to skip all the beetle and tatum stuff here's.
+2:26
+Andrew Ippolito: here's hemoglobin okay so okay so here's this we're going to start today i'm going to explain to you just very briefly what's going on in sickle cell disease on the left hand side there this molecule, this is the beta globe and.
+2:41
+Andrew Ippolito: what's it called inner globulin these these two words are interchangeable of my head.
+2:47
+Andrew Ippolito: globe in alpha beta Isaac globulin or Globe it.
+2:53
+I always do this. Just come out the chains.
+3:02
+globe in. Andrew Ippolito: It is globe and okay. Andrew Ippolito: So you got to change to poly peptide fold up in the 3D and you got this you know here.
+3:16
+Andrew Ippolito: This guy so here, this is pretty much this is a relatively accurate right model of alpha globe and.
+3:24
+Andrew Ippolito: So the idea is there is a.
+3:30
+Andrew Ippolito: There is a slot in both of them and, within that slot sits a team group which is basically a carbon scaffold and that him group has, in the core of it and iron Ion.
+3:47
+Andrew Ippolito: effie and oxygen molecular officer binds to it right and so that's basically think of it like a little little docking port for a spaceship that goes in there that's oxygen in and out in and out The thing is, though, is every time oxygen goes in there Okay, if you look at the slide now.
+4:04
+Andrew Ippolito: you'll see oxygen right here coming in and out okay when oxygen comes in there, you can see, it just nestled in there with the iron.
+4:11
+Andrew Ippolito: notice that the amino acids in the area around it, are being pulled towards that a little bit, so the whole molecule ends up changing shape just a little bit you see that right.
+4:22
+Andrew Ippolito: And if you look very closely, right here. Andrew Ippolito: You see, that little thing sticking out when only only in I should say it's the purple one right here.
+4:34
+Andrew Ippolito: When oxygen is not bound hemoglobin So you see oxy oxy oxy oxy oxy guys pay attention to D oxy and look at the little purple nub sticking out Okay, so, in the absence of oxygen hemoglobin has this amino acid jut out into space.
+4:54
+Andrew Ippolito: And in sickle cell disease, the mutation over here changes what is a hydrophobic side chain, so that would normally be good hammock gas it or glutamate.
+5:06
+Andrew Ippolito: To a hydrophobic one see all those carpets are just that's that's totally nonpolar like oil and water, so the idea is is that when hemoglobin doesn't have oxygen bound to it.
+5:16
+Andrew Ippolito: This becomes a hydrophobic area, and so what that does is it causes protein aggregation by by trying to hide the hydrophobic residue from the water, and so you can see here in the middle.
+5:29
+Andrew Ippolito: What happens right, you can see that the hemoglobin.
+5:35
+Andrew Ippolito: forms these basically these double filaments. Andrew Ippolito: to mask that feeling and so you get these filaments it's not supposed to be a filament it's supposed to be a globular soluble protein and, instead, you have these little hairs basically that causes the red blood cells to start twisting and contorting into that circle shape.
+5:54
+Andrew Ippolito: which renders it i'm more likely to clog the arteries at our capillary beds and it will also reduce vastly reduced its lifespan.
+6:08
+Andrew Ippolito: And all of that, from a single base change from an A to you and as well learn at the end of all this that's called so that kind of mutation where you change one residue to another one nucleotide to another it's called a point mutation.
+6:24
+Andrew Ippolito: Okay, and there's different kinds of point mutations and that right there is called a missiles mutation.
+6:32
+Andrew Ippolito: it's like misspeaking is you're saying the wrong word you meant to say big but you said small instead. Andrew Ippolito: Okay, and that's a radical Mrs mutation because we're changing its biochemistry as opposed to a conservative Mrs mutation where.
+6:47
+Andrew Ippolito: The chemistry is still there it's just a slightly different amino acid, so, in other words, it would be like changing glutamate to aspartame, which is another acidic amino acid.
+6:57
+Andrew Ippolito: Well we'll cover that more detail later. Andrew Ippolito: All right, we took we went over this the last time, the idea of the central dogma, we went through this slide here transcription and translation all right.
+7:11
+Andrew Ippolito: We talked about the differences between procreation eukaryotes Helen precarious it's only happening in the cytoplasm because that's all there is and so they're happening simultaneously and I taught you does anybody what's the word I used here.
+7:23
+Andrew Ippolito: what's what's a special kind of transcript that only prokaryotes have.
+7:30
+begins with a p.
+7:38
+Andrew Ippolito: Anybody know don't remember polly.
+7:44
+Andrew Ippolito: Still, no. Andrew Ippolito: Are you guys talking in my hearing is not working.
+7:58
+Andrew Ippolito: let's draw Nick what's this mean polly's this chronic.
+8:07
+Andrew Ippolito: All right, here we go, this is a big long piece of Mr ne from prokaryotes over here some open reading frame with code ons.
+8:16
+Andrew Ippolito: And over here there's another one that over here there's another one Okay, this is unique to pro carriers you carry ios one RNA gets us one holiday peptide.
+8:25
+Andrew Ippolito: and pro carriers, we can not always but we can't have multiple poly peptides so you can very rapidly spit out a whole bunch of proteins from a single team.
+8:33
+Andrew Ippolito: or I should say as a single region of the genome.
+8:38
+Okay.
+8:44
+Andrew Ippolito: We talked about the different RNA messenger transfer rab is almost structural functional okay RNA polymerase to makes messenger RNA RNA polymerase one makes ribosomal RNA and RNA polymerase three makes transfer are.
+9:00
+Andrew Ippolito: three different types of Jesus, the only ones who are going to worry about for for our discussions is RNA polymerase to just understand all RNA is transcribed from a DNA and there are genes okay every are here here's another way of saying it every RNA comes from a g.
+9:17
+Andrew Ippolito: You can trace every RNA back to a genetic source. Andrew Ippolito: 100% of the time.
+9:26
+Andrew Ippolito: Some viruses their genome is literally RNA already okay.
+9:33
+Andrew Ippolito: Alright, so now this we got to this in the afternoon class, but we didn't get to this last time so i'm going to teach you how the language works now okay this, so this is the language of life, this is universal.
+9:46
+Andrew Ippolito: Every cell on earth speaks this language which is mind blowing if you think about it, despite the fact that life is diverse.
+9:54
+Andrew Ippolito: We have one language that unifies us, so much so that you can take a human gene and put it into a bacterium and that bacteria will know exactly what it says and it will produce the protein.
+10:07
+Andrew Ippolito: Okay, so here's how it works.
+10:13
+Andrew Ippolito: The genetic code Okay, so let me step back for a second and say this.
+10:18
+Andrew Ippolito: One i'm about to teach you isn't the only grammar of language nucleic acids okay there's there's two kinds of sequences in DNA.
+10:29
+Andrew Ippolito: Right, the one we're going to talk about here is called a coding sequel code on okay.
+10:34
+Andrew Ippolito: A code on is a three letter word.
+10:40
+Andrew Ippolito: Okay, remember, we have four letters at si n G right with the you replacing T and barney.
+10:47
+Andrew Ippolito: So a code on is three of those for and they could be the same, so you can have a your tgt your CC.
+10:55
+Andrew Ippolito: So how many how many columns we have enough.
+11:01
+Andrew Ippolito: How many total how many codes, does the language, if we have three letter words and we have four letters in the alphabet.
+11:18
+Alexis Micewski: 6464. Andrew Ippolito: Right and the reason that we will you get that is there's four possibilities for possibilities for possibilities remember genetics, we had the rule of multiplication right just pick you can just pick of the randomness there.
+11:34
+Andrew Ippolito: Okay, so we have 64 can.
+11:40
+Andrew Ippolito: Remember that. Andrew Ippolito: Of the amino acids there's 20th.
+11:45
+Andrew Ippolito: Right, so this language has to be rich enough to be able to describe all 20 of those amino acids.
+11:54
+Andrew Ippolito: As well as tell us hey start making it and then okay stop making it so we need start signals stop signals and then amino acid signals so within that 64 code on all that's there there's only two codes, I want you to memorize The first is the start code on that's a huge.
+12:13
+Andrew Ippolito: That means start translation.
+12:18
+Andrew Ippolito: Now i'm going to intentionally write the word translation there here's why some people will make a mistake and thing that that starting transcription know.
+12:26
+Andrew Ippolito: Yes, we start transcription there but that's not what that is i'll explain how transcription starts later, and then we have what I call the caveman code on.
+12:36
+YouTube. Andrew Ippolito: That means stop now, to be fair, there are two other stock code ons but I don't expect you to memorize all four of these just to go good analog okay Now you can speak a little DNA and you can also speak a little cave.
+12:52
+Good. stuff. Andrew Ippolito: Okay.
+12:58
+Andrew Ippolito: All the others, except the other two are not going to worry about all the others code for some of the 20 amino acids now some amino acids, I would say.
+13:10
+Andrew Ippolito: Most amino maybe even all amino acids. Andrew Ippolito: have multiple codes Okay, so they might have three or four codes, meaning the same thing, like see Lucy.
+13:22
+Andrew Ippolito: All right, when we have the situation where you have multiple code ons meaning one amino acid, the first two letters these first two letters are always the same.
+13:35
+Andrew Ippolito: And then third one, is a play you could want to four years later, so this is called the wobble effect.
+13:44
+Andrew Ippolito: One of the purposes of the wobble effect is to guard against changes in the peptide chain.
+13:51
+Andrew Ippolito: that result from mutations okay so think about it, if you have a random sequence of three letters and you change the last one.
+13:59
+Andrew Ippolito: So you're introducing mutation to that. Andrew Ippolito: It doesn't change the poly peptide it doesn't change the amino acid rain So these are called silent mutations.
+14:09
+Andrew Ippolito: that's another one of those point mutations. Andrew Ippolito: Alright, so so far you've learned two kinds the silent mutation and the misinterpretation silent mutations of the heartbeat of evolution.
+14:19
+Andrew Ippolito: We can actually estimate the divergence of genetics sequences based on the accumulation of silent mutations within the same gene.
+14:29
+Andrew Ippolito: So, for example, you compare our side of chrome see gene with a dogs and a monkeys and a starfish and a sea urchin and a reptile and a fish and a bacterium.
+14:42
+Andrew Ippolito: You put them all in a row, and just count the number of changes you pick falls into the exact same row as if you were looking at a geological time record of fossils.
+14:53
+Andrew Ippolito: down to within the precision of percent error of whatever your technique is and other words that all lines up.
+15:01
+Andrew Ippolito: For their confirmation of evolution. Andrew Ippolito: Because that's a wobble effect.
+15:09
+Andrew Ippolito: Now the So this is the way it works here here's the concept we're gonna take that piece of RNA.
+15:15
+Andrew Ippolito: And that RNA is going to have some kind of code on it right.
+15:22
+Andrew Ippolito: The link or between it all is the transfer RNA the tiara you can cartoon the T RNA.
+15:29
+like this. Andrew Ippolito: is just the cartoony version of it.
+15:35
+Andrew Ippolito: Okay, the key here is the tr, so this is a i'll say, well, I mean color code this so here.
+15:48
+Andrew Ippolito: There is a. Andrew Ippolito: there's two aspects to the transfer are.
+15:55
+Andrew Ippolito: The first is. Andrew Ippolito: what's called the anti code on.
+16:04
+Andrew Ippolito: The anti code on is empty sense or complimentary to the code on in the Mr Nick and so these form hydrogen bonds it sticky.
+16:16
+Andrew Ippolito: Okay, so that's called sequence specific body that sequence specific recognition okay there's a handshake there and then over here.
+16:27
+Andrew Ippolito: Music use a different color here over here. Andrew Ippolito: Is the amino acid.
+16:35
+Andrew Ippolito: Okay, which amino acid, well, it depends, it depends on whatever this is and and right there that's where the translation occurs okay in the languages.
+16:46
+Andrew Ippolito: So in this case you a see well really that's The anti code on so let's say the code on a huge G if you looked it up in a reference table would tell you that that's the amino acid Messiah me.
+17:01
+Andrew Ippolito: Right so know that that so just know that one miss miss sign is the first amino acid in the sequence of every protein ever made ever forever sometimes it's cut off later, but it's always there to start with.
+17:15
+Andrew Ippolito: So so right here that's my tiny assigning has the single letter abbreviation of em.
+17:23
+Andrew Ippolito: It has a three letter abbreviation of met. Andrew Ippolito: All amino acids, have a three letter code and a one letter code.
+17:32
+Andrew Ippolito: that's an easy one. Andrew Ippolito: Okay, so do you see that the T RNA is the secret sauce the tiara is what decides what amino acid comes in, with that anti code on.
+17:46
+Andrew Ippolito: All right, so how did it get there right How did this amino acid get attached so there's an enzyme.
+17:52
+Andrew Ippolito: Of course there's always an enzyme right so there's a special enzyme called Oh, let me before I tell you what that okay this amino acid here.
+18:01
+Andrew Ippolito: You see us attached to an organic molecule right you guys remember functional groups.
+18:06
+Andrew Ippolito: Member how functional groups are called functional groups only if they're attached to another molecule right like the hydroxide ions Oh, we just floating around.
+18:15
+Andrew Ippolito: But if it attaches to an organic molecules now the hydroxyl group rate in the same way and amino acid.
+18:21
+Andrew Ippolito: attached to another molecule could be construed as a functional group, so this here is called an amino acl functional group, technically, so this is what we're going to call this molecule itself, this is called an amino.
+18:35
+Andrew Ippolito: acl tra. Andrew Ippolito: Think of it as.
+18:42
+Andrew Ippolito: A charged apart to RNA. Andrew Ippolito: and other words it's a loaded gun it's got its amino acid it's ready to be used.
+18:52
+Andrew Ippolito: And so the enzyme that does this is literally i'm just going to scroll over here, so I can just add the next word transferees.
+19:02
+Andrew Ippolito: you're just making that up you just put you can't just put s at the end of a word of making an enzyme no that's actually what they do.
+19:10
+Andrew Ippolito: The garbage truck is a pickup piece, you can just transfer stuff it's a transfer okay so there's do this is a mouthful now I mean we use elt RNA transferees actually actually technically it's a centerpiece i'm sorry i'm sorry I messed that up synthetic.
+19:27
+Synthetic piece. Andrew Ippolito: it's making not transferring although it's semantics at that point, really, it could have been named either one it just depends on who names these things, but those are called synthesizes.
+19:41
+Andrew Ippolito: Sometimes you'll see other enzymes that are called synthesis there's no distinction, to my knowledge between some distance of the taste, is just the person's preference who named it.
+19:50
+Andrew Ippolito: If you discover something you get to name it right so remember ATP synthesis remember the hands on that makes ATP that's a sympathies, this is ameena results yarn a centerpiece maybe these wanted to put as many syllables in there as possible because already a big word, who knows.
+20:08
+Andrew Ippolito: Alright, so here's here's The second reason why the wobble effect where action, in my opinion, is probably the more important one.
+20:14
+Andrew Ippolito: Think about the fact that sells need to be as energetically efficient as possible okay actually that that's an important principle here I want you to write this down this is going to come up a couple of times today cells strive.
+20:32
+To be. Andrew Ippolito: As an are genetically.
+20:39
+Andrew Ippolito: Efficient. Andrew Ippolito: as possible.
+20:47
+Andrew Ippolito: If they can cut corners, are going to cut corners. Andrew Ippolito: Alright, so here's the insight want to me only silty RNA sent the taste, you can charge all of the different tr nays.
+21:01
+Andrew Ippolito: That have.
+21:08
+Andrew Ippolito: Let me, let me come up with a more systemized way here. Andrew Ippolito: i'm thinking of the wobble so we have amino acid or nucleotides one and two and then X whatever X is right doesn't matter so.
+21:20
+Andrew Ippolito: And those would be different letters let's do this let's do X.
+21:32
+Andrew Ippolito: let's do this w X, Y.
+21:38
+Andrew Ippolito: There is there a tcg right so there's there's in theory there's four different yarn age that have the first two letters that are the same than a different last letter right, so a single tyranny centipedes can take care of all those.
+21:52
+Andrew Ippolito: Okay, so we don't need 64 enzymes. Andrew Ippolito: Which are expensive to make now, we just need maybe 20.
+22:02
+Andrew Ippolito: That makes sense, raise your hand that made sense. Andrew Ippolito: Okay, good.
+22:08
+Andrew Ippolito: So it's an efficiency thing. Andrew Ippolito: So guards against mutations and and it makes the cell not have to make so many proteins that might need.
+22:16
+Andrew Ippolito: Okay, so this leads to other interesting issues such as the code ons that ourselves us right so think of this think of these as code ons you know, a B, C and D right so each of those let's i'm just making this up let's say that each of these codes for the amino acids Lucy.
+22:36
+Andrew Ippolito: hypothetically in ourselves and let's say all mammals let's say mammals tend to use these three code ons for that amino acid bacteria tend to use this one.
+22:47
+Andrew Ippolito: You see that. Andrew Ippolito: So code on usage isn't equal the dialects between different species of different organisms has to do with the selection of code on the US and in fact some bacteria.
+23:01
+Andrew Ippolito: or equal I, in particular the lab stream of equal lie and, and the reason i'm telling you this story is because I had to deal with this in lab and it sent me back, about a year of work.
+23:10
+Andrew Ippolito: Because it's crazy because it's such a unique thing I told us to Steve Gus Horn, a couple months ago and he's like i've never heard of this nobody has also, you have to deal with it it's called rare code on usage.
+23:21
+Andrew Ippolito: Okay, I was sticking my protein my gene into bacteria to make it and it was always making a small version of it made no sense.
+23:30
+Andrew Ippolito: You look at the normal version, it was here you look at the version I was making it was here, it was a mystery.
+23:36
+Andrew Ippolito: And, and finally, I was scratching my head for weeks and weeks and weeks tried all these different ways of purifying the protein.
+23:44
+Andrew Ippolito: One day, I was downstairs visiting the biophysics lab the ones that do X Ray crystallography and I was telling them my problem, and she immediately goes with the senior lab tests like.
+23:54
+Andrew Ippolito: Have you have you tried using the rosetta strain of bacteria anybody know what the rosetta stone Is anybody remember what the rosetta stone is what's the rosetta stone April.
+24:03
+April Neeld: It was pretty much like how we could translate her Hieroglyphics. Andrew Ippolito: From yeah. Andrew Ippolito: It sounds good yeah so so there was this King back in ancient Egypt.
+24:14
+Andrew Ippolito: That wrote some Royal decrease in three languages because his people he had such a big empire, there were three languages, there was Aramaic there was Greek and there was Egyptian.
+24:23
+Andrew Ippolito: And so the discovery of this tablet allowed us to say oh that's an Ian Greek that's an Aramaic and so must be with hieroglyphic means, which means we can go into the tombs and we can decide for their artwork.
+24:34
+Andrew Ippolito: So the rosetta stone was a key to understanding translation, so I call the chart actually this chart here that we're going to look at in a second you get to it, I call this the rosetta stone of molecular biology this lets us do all the translation.
+24:51
+Andrew Ippolito: So anyway, the bacteria that I was using.
+24:57
+Andrew Ippolito: The normally call a strain, to make the proteins didn't use one of the human color dawn's so I was putting a human gene into bacteria the bacteria had no idea what to do with this code on and so just stop there.
+25:10
+Andrew Ippolito: It would just be like, I have no idea what to do here, air 54 you know it was like don't compute.
+25:16
+Andrew Ippolito: The rosetta strain of bacteria is an artificially engineered version of it that has all of the trn a synthesis of humans.
+25:24
+Andrew Ippolito: And so, she gave me some of hers she had some because she had ran into this problem couple years ago. Andrew Ippolito: And I did an experiment side by side with my bacteria and there was edited bacteria and when I ran the gels here was my old one down here.
+25:37
+Andrew Ippolito: Okay, so here the control would be this big here's the human version and the human cells here's my bacterial and you call lie and then here's the one from rosetta.
+25:45
+Andrew Ippolito: It was so satisfying to see that after about two years of maybe not two years might have been like a year, I mean i'm exaggerating it now.
+25:53
+Andrew Ippolito: Okay, so the idea here is this code is universal, but it's not always used in the same way Okay, so now that we're here, you can see right here, look for code on free for Lucy.
+26:05
+Andrew Ippolito: You guys see you, you see, you see, you see you. See you later.
+26:17
+Sorry. Andrew Ippolito: There is your start coat on.
+26:24
+Right. Andrew Ippolito: There are your three stop code on so and there's ago, so you a and you EG are the other two Members.
+26:33
+Andrew Ippolito: Right you'll also notice that some amino acids. Andrew Ippolito: So I can i'm terrible at this were hard today.
+26:44
+Andrew Ippolito: really can anybody else see them there's two other Syrians, I can never find them.
+26:50
+there's okay there's three inning.
+27:00
+wow.
+27:05
+Andrew Ippolito: There they are oh my gosh. Andrew Ippolito: i'm so terrible at this there we go there's the two it's like well where's I was terrible where's Waldo to okay so some amino acids are over represented in the chart.
+27:18
+Andrew Ippolito: Right so searing Syrian has the functional group that has the hydroxyl group sticking out, this is what gets us for elated number, I told you, I told you this before phosphorylation is one of the most important.
+27:28
+Andrew Ippolito: right mechanisms and in all of biology searing is one of the most Syrians, the one that gets us probably the most commonly OK three means the next one.
+27:40
+Andrew Ippolito: Okay, and there's two others for three any which wow I can't find those now if you can see, the two extra three names are in there, somewhere, but the idea here is.
+27:49
+Andrew Ippolito: I should, there might not be extra three means but there's a there's 10 amino acids there right, in other words 10 code ons out of 64.
+27:59
+Andrew Ippolito: do one thing, mostly what does that tell you it tells you that they're important, so the genetic code isn't random, this is not just a random collection of letters, this is a highly evolved language.
+28:13
+Andrew Ippolito: That has that popped out probably yeah before the first cells came to be like this was refined before we can see any record of it.
+28:24
+Andrew Ippolito: Which is kind of sad if you think about right, so the first the first cells on earth, probably use this language, which means before that first cell, there was a whole bunch of other languages, and this was the one that was the most efficient and one.
+28:38
+Okay. Andrew Ippolito: All right, so some rules of the language let's go back here.
+28:47
+Andrew Ippolito: So, so the the way this was hammered out the way we discovered this there was this group of researchers who used basically.
+29:01
+Andrew Ippolito: precursor red blood cells from rabbits called ridiculous sites.
+29:09
+Andrew Ippolito: ridiculous, it is a amateur read bloods. Andrew Ippolito: it's protein factory it's got lots of rough er that's what caught a ridiculous ridiculous endoplasmic reticulum got lots of rough er lots of rob isms lots of amino acid lots of tea rnas all you have to do is life, the cells and then add your own.
+29:27
+Andrew Ippolito: Artificial RNA. Andrew Ippolito: And it will make your amino acids and so what they did the very first experiment they ever did was just a poly poly a.
+29:41
+Andrew Ippolito: You just put a whole bunch of ease in there and what popped out of that was a bunch of Fino alanine.
+29:50
+Andrew Ippolito: And you can imagine how exciting that must have been to ask a question, a or to make a statement, a and then get an ECHO back Fino alanine Fino alanine if you allow me.
+30:03
+Andrew Ippolito: Right and then how about you, you or to CCC or DG right, so they basically artificially translated a bunch of artificial rnas and they got sequences out of it, to the point where they got really good at it, where they could do this.
+30:20
+Andrew Ippolito: let's let's look at the sequence for a second, so we can understand this. Andrew Ippolito: is just a repeat of ua ua ua ua ua.
+30:28
+Andrew Ippolito: Alright, so, but I want you to see this okay so let's that code on as a you are you a you right.
+30:36
+Andrew Ippolito: But what if I saw that if I started reading it position one. Andrew Ippolito: What if I started reading it instead of position to, then I have the code on a way right to see that.
+30:48
+Andrew Ippolito: And what if I start reading it in position three, then I have my view a you again.
+30:55
+Andrew Ippolito: Okay, so. Andrew Ippolito: So this actually isn't the best Stephen this isn't the best example of giving you all the reading frame, so let me.
+31:03
+Andrew Ippolito: Let me just add a third lot are here let's say to see alright so let's say usc usc usc.
+31:14
+Andrew Ippolito: You is he Okay, so we start reading in the third one, so we start reading here right we get usc we start reading the second one we get acu so let's a see you.
+31:32
+Andrew Ippolito: don't we start reading the third one me clean this up hill there we go, we get see you a.
+31:40
+Andrew Ippolito: But what if I start reading the fourth one more we're back to the first one again right.
+31:45
+Taylor Campbell: You a hungry change that. Andrew Ippolito: There now it's all. Andrew Ippolito: cuz that's all consistent now So you see how there are three different start points in theory and so therefore you're going to get three different.
+31:58
+Andrew Ippolito: completely different code on right what's the second code on in this this version here, that would be UFC right you AC so that's a repeat.
+32:08
+Andrew Ippolito: How about this one acu acu easy Okay, so there are repeats right that makes that makes sense and then see you at usc way, so we call these these different star points reading frames.
+32:28
+Andrew Ippolito: So there are three reading frames and the language of nucleic acid, there are three coding reading frames and so a reading frame that encodes a specific code on sequence for for a poly peptide chain, we call that an open meeting.
+32:52
+Andrew Ippolito: You can abbreviate that or. Andrew Ippolito: Okay, so associate or fs encode ons that means you're going to make a protein there's a you ag at the front of it and there's a good at the end of it.
+33:07
+Okay. Andrew Ippolito: Any questions so far.
+33:13
+Andrew Ippolito: alright. Andrew Ippolito: So you can imagine if you start reading in the wrong place nothing's going to make sense, take the simple English sentence, the Red dog ate the bug and then start reading and the second reading frame her it Agha tech hub ugh.
+33:33
+Andrew Ippolito: I have no idea what that means that doesn't mean anything in English right, I mean none of these are words, except in her while her is a word and.
+33:43
+Andrew Ippolito: I don't know if that's spelled I think we usually put an H, at the end of that anyway, the point is is that it's different and you can't predict it.
+33:54
+Andrew Ippolito: Okay, so another mutation. Andrew Ippolito: Is if you insert into a genetic sequence one or two letters right in your shift everything that would be called a frame shift mutation.
+34:11
+Andrew Ippolito: The frame shift mutation changes the reading frame.
+34:19
+Andrew Ippolito: And, and the impact of a frame ship mutation is, you now have a completely new completely new random stretch of amino acids.
+34:31
+Andrew Ippolito: That could not be predicted.
+34:36
+Andrew Ippolito: And so you can now see you can finally see at the core of it all the power of a genetic mutation in terms of forging brand new things.
+34:48
+Andrew Ippolito: Right, I mean it's random, but if you do, that a trillion times you're going to make DNA polymerase.
+34:56
+Andrew Ippolito: Right you're gonna make brand new enzyme. Andrew Ippolito: that's the power of the friendship mutation.
+35:03
+Andrew Ippolito: Now normally. Andrew Ippolito: frames mutations are terrible because you're introducing a whole bunch of randomness there and so imagine that imagine a photocopier that started going haywire.
+35:17
+Andrew Ippolito: or a printing press that started going haywire What do you do, what do you try to do immediately What would you do in that kind of situation if you're working with a machine and just starts going crazy, what are you gonna want to do.
+35:30
+Taylor Campbell: And plug it. Andrew Ippolito: Right, just like just shut it down that's why there's three stop codes.
+35:38
+Andrew Ippolito: Okay, if you will roll if you're old if you had a 64 sided die. Andrew Ippolito: And you were rolling it randomly because of a friendship, you have a three out of 64% chance to stop the madness.
+35:53
+Andrew Ippolito: Before things get too out of hand. Andrew Ippolito: Okay there's a there's a rhyme there's a reason for all this stuff.
+36:00
+Okay.
+36:06
+Andrew Ippolito: Oh yeah So the first the first RNA was a poly you. Andrew Ippolito: Alright, so I want you to look at that chart and and I want you to see how to read that you're going to sometimes see this chart in different ways depending on your where you go in life, and what you're looking at.
+36:19
+Andrew Ippolito: I don't like this one at all, I prefer the the rectangle one, but this is this is another one, so you start by reading in the first ring.
+36:29
+Andrew Ippolito: And then you go to the second ring so here's the first ring here's the second ring and here's the third ring right, so you you look around the ring and you'd be like okay you you you.
+36:42
+Andrew Ippolito: Right, so you you you there it is there's you you Fino alanine.
+36:48
+Andrew Ippolito: Okay, so here i'll give you a random, let me just think of a random on here how about a CCA glad, whoever the first person to find it shout it out.
+37:04
+Andrew Ippolito: just give me the three letter abbreviation.
+37:09
+Would you say Julia. Julia Lakchin: Pro. Andrew Ippolito: Just spell it out.
+37:16
+PR. Andrew Ippolito: PR oh there's no.
+37:21
+Andrew Ippolito: Wait let me zoom in a little bit maybe you can't see it because it's all fuzzy. Andrew Ippolito: Alright, so what did I say CCA yes, you see, I.
+37:29
+Andrew Ippolito: Already here here see CA so that's tr that's thr.
+37:36
+Andrew Ippolito: it's it's actually on my end so on years prior to that I can see that look like whoa that's three anything, by the way.
+37:42
+Andrew Ippolito: Okay, so that's that's how you do that's the school you're going to do your homework has a couple of questions where.
+37:48
+Andrew Ippolito: you'll get to look this stuff up. Andrew Ippolito: So these were deciphered in the mid 60s right just think about that for a second, the public the go ahead Juliet you might see some.
+38:01
+Julia Lakchin: Why don't you start at the in the middle.
+38:08
+Andrew Ippolito: CCA. Alexis Micewski: Because there's a there's a there's match.
+38:16
+Andrew Ippolito: That actually makes more sense and he actually see the five to three prime.
+38:22
+Andrew Ippolito: Read things five to three so good job Julia yeah so you were right, so do you see pro PR oh.
+38:27
+Julia Lakchin: yeah yeah. Andrew Ippolito: Okay. Andrew Ippolito: that's that's probably and yeah that makes a lot more sense that's why I was like. Andrew Ippolito: When I was what I did you you you right, so I was like where's you you you you you so I guess, because it was all US it didn't matter which way I was reading it right, but CA yeah so okay you start in the middle, and that makes.
+38:45
+Taylor Campbell: sense CCA. Andrew Ippolito: I know the very first one this this one, when I when I.
+38:50
+Andrew Ippolito: Did this talking aloud to. Andrew Ippolito: You I was looking around and I did I did this at first I just found the first you I could find out here.
+38:59
+Andrew Ippolito: And then I found a second you, and then the third you, and then I realized that it was over here, so I did it ass backwards, it was terrible the way I did it.
+39:06
+Andrew Ippolito: And the thing is, I was, I was starting from the outside, going in because you you doesn't make sense, but the CIA that doesn't right AC would be a completely different code.
+39:16
+Andrew Ippolito: Right so as really pointed out, see if you start in the middle and your branch out it's also easier to read that way yeah.
+39:25
+Andrew Ippolito: I got a chat message here oh haha i'll keep that on that.
+39:31
+Andrew Ippolito: Alright, so the the way I like reading it is this one over here, so the way you use this table this is what I mean I have this printed out and stitch to my my wall, when I was in Grad school so first base.
+39:45
+Andrew Ippolito: Second base going this way third base going this way right so you'd say you you you that's how your I love your your eye looks here, then the scans at the top than a scans at the side.
+39:58
+Andrew Ippolito: Right you triangulate. Andrew Ippolito: Okay, this also lets you see.
+40:06
+Andrew Ippolito: The wobble effect as well, you can see. Andrew Ippolito: Right, almost all of them have that first two amino acids, being the same.
+40:19
+April Neeld: question. April Neeld: Which April, so you can use both of those charts to read.
+40:27
+Andrew Ippolito: say that again. April Neeld: You can use both of those charts that you just showed us to read the code on.
+40:32
+Andrew Ippolito: This one here. April Neeld: yeah. April Neeld: So, which question so are they like, if you give us on like the test like Oh, this is.
+40:43
+Andrew Ippolito: Oh yeah yeah yeah yeah yeah yeah. Andrew Ippolito: yeah you would not have to memorize this. Andrew Ippolito: No, no yeah. Andrew Ippolito: I nobody memorize is this.
+40:50
+Andrew Ippolito: i'm sure there's somebody that's memorized it. Andrew Ippolito: Those are the same people that memorized pi to the 30th decimal point or whatever.
+41:01
+Andrew Ippolito: All right. Andrew Ippolito: let's move on okay so here here are the formal rules of the road here the language is degenerate that's what we that's the phrase that also means redundancy, so it does generate code is a code that has multiple words that mean the same.
+41:17
+Andrew Ippolito: that's the whole wobble effect it's an ambiguous meaning every word always means the same thing.
+41:24
+Andrew Ippolito: You can't have a word that means two things that the exception, there being this dark coat on but that's not that's not meaning to amino acids.
+41:35
+Andrew Ippolito: All right there start and stop signals there's one start code on there's three stock code ons right you got burger wag and who.
+41:43
+Andrew Ippolito: you're not you don't have to memorize any of those just ago. Andrew Ippolito: And then the code is universal, and then there's a little footnote with exceptions.
+41:54
+Andrew Ippolito: So, in other words the words mean the same thing for every single organism, which supports the laws of evolution, showing that we all come from a common ancestor ourselves speak exactly the same complex language.
+42:07
+Andrew Ippolito: That should be humbling. Andrew Ippolito: And there's no punctuation.
+42:13
+Andrew Ippolito: it's just one big long long sentence.
+42:19
+Andrew Ippolito: Now that said. Andrew Ippolito: code ons are just one type of work Okay, there are many, many other words.
+42:32
+Andrew Ippolito: Okay, in general. Andrew Ippolito: The other words.
+42:38
+Andrew Ippolito: Are sequences that proteins bind to.
+42:44
+Andrew Ippolito: Okay, so we'll see a whole bunch of that soon.
+42:49
+Andrew Ippolito: And so all right, so the code on sit right next to each other is no gaps in them. Andrew Ippolito: And if you know about the nixons that's not what we're talking about we're talking about the actual coding sequence.
+42:59
+Andrew Ippolito: Okay. Andrew Ippolito: This site think is from your book, I think this is another and it just it's just a different way of laying it out.
+43:09
+Andrew Ippolito: Right, so you can see that this if you just step back and look at this, you can see, easily more easily the multiple code ons that correspond to a single amino acid right and so here here's this look assisting see how systems only got two amino acids.
+43:26
+Andrew Ippolito: Okay. Andrew Ippolito: Where you know our our janine has six.
+43:33
+Andrew Ippolito: searing has six. Andrew Ippolito: custodians got to luda means got to so there's there's a reason for all this, then you'll actually begin to that when you get to molecular biologists.
+43:49
+Andrew Ippolito: Here the 20 amino acid as a reminder Okay, see the different color coatings you can see that there are different families of amino acids different people divvy this up in different ways depending on who's in charge, so you can see here.
+44:04
+Andrew Ippolito: These are acidic these are alkaline these are polar these are non polar that's The easiest way so here there's non polar.
+44:16
+Andrew Ippolito: polar. Andrew Ippolito: or charged.
+44:23
+Andrew Ippolito: acidic. and outline.
+44:29
+Andrew Ippolito: There are many ways to split this up, this is the simplest and you don't have to memorize this just understand all the chemistry we've talked about all semester is represented within the 20 minute.
+44:40
+Andrew Ippolito: Okay, so that's all i'll say about that. Andrew Ippolito: here's a schematic that represents the central dogma you got your DNA sequence here.
+44:51
+Andrew Ippolito: Okay let's do a little bit here. Andrew Ippolito: Your DNA sequence here a CC je je CA.
+44:59
+Andrew Ippolito: You can see that the anti sense of that you, you ggvc cgs you use your you right, so I say RNA so they're complimentary so this would be the templates fan of the DNA and the other strand is not even here that's the non templates.
+45:15
+Andrew Ippolito: Right. Andrew Ippolito: And then the RNA itself, you can see, these three letter words code ons correspond to a particular amino acid.
+45:25
+Andrew Ippolito: And you can see why none of this work was done from 1900 1940 This is just insanely complicated right.
+45:33
+Andrew Ippolito: And that over here, this is the right person. That translates of all.
+45:41
+Okay. Andrew Ippolito: There it is bigger there's transcription and translation, and you can see now trip the fan Fino alanine glycine searing so you could see you G G stands for trip to fan you use stands for Fino alanine etc.
+45:57
+Andrew Ippolito: All right, and now you can see here's the double stranded DNA alright so here, this is what we'll do.
+46:06
+Andrew Ippolito: For the whiteboard here. Andrew Ippolito: Okay ready, we got our DNA.
+46:16
+Andrew Ippolito: Right, we got our five and three and our three and five.
+46:24
+Andrew Ippolito: We have our RNA.
+46:31
+Andrew Ippolito: messenger RNA. Andrew Ippolito: And then we have.
+46:37
+Andrew Ippolito: Our polly pepped up.
+46:43
+Andrew Ippolito: notice i'm not calling that a protein it's not folded up. Andrew Ippolito: What I want you to see here is the relationship.
+46:52
+Between. Andrew Ippolito: The complimentary or identical sequences so here's what we're going to say where everything is relative to the RNA.
+47:01
+Andrew Ippolito: So we're gonna say this is the sequence itself we're looking at all right if we called.
+47:08
+Andrew Ippolito: The strand here if that strand here let's read it on this side here.
+47:15
+Andrew Ippolito: This train here will call the template strand.
+47:21
+Andrew Ippolito: The strand we're going to see it as a non template strand.
+47:26
+Andrew Ippolito: This is the transcript. Andrew Ippolito: And this is the poly peptide i'm just gonna repeat that PP.
+47:35
+Andrew Ippolito: Okay, so what I want to understand what's the relationship between, say, the transcript and the template stamp or the transcript and the non templates tramp alright so let's let's introduce some code onto your just for the sake of looking at things let's say this is a je je you you.
+47:53
+ACC. Andrew Ippolito: Alright, so let's let's work this out now so that template strand right, we can all agree that template strand has to be complimentary to that right.
+48:04
+Andrew Ippolito: That just makes it because it's the template the template so what we're going to read so that's got to be complimentary so we're going to call this this sense sense.
+48:14
+Andrew Ippolito: And this is going to be anti sense i'm sorry i'm sorry, this is the anti sense strand.
+48:22
+Andrew Ippolito: antisense means complimentary Okay, when you see the word antisense I want you to think it's going to stick to something.
+48:29
+Andrew Ippolito: Like like velcro.
+48:36
+Andrew Ippolito: Okay, so you would say that the transcript is sense.
+48:42
+Andrew Ippolito: To the non template strand, in other words, the non templates TRAN would say exactly the same thing, except with the teaser instead of the US.
+48:55
+Andrew Ippolito: Whereas the template strand.
+49:08
+Andrew Ippolito: would be anti science or complimentary so the word antisense you can also say complimentary.
+49:20
+Andrew Ippolito: So the code on Anti code on a sense antisense.
+49:31
+Andrew Ippolito: So you can understand coronavirus now ready the coronavirus that's dealing that we're dealing with in the pandemic it's genome, is a positive RNA.
+49:41
+Andrew Ippolito: Which means it is essentially this the coronavirus.
+49:49
+Andrew Ippolito: genome X basically like an a messenger RNA when it gets into ourselves.
+49:55
+Andrew Ippolito: Okay there's negative stranded arnie viruses and so that would have to first be transcribed into a sense strand.
+50:03
+Andrew Ippolito: To be made into proteins okay raise your hand if you're still following all this okay cool alright so that's it now i'm going to go into the actual mechanisms here.
+50:15
+Andrew Ippolito: yeah this this is amazing right all the different this, these are just samplings of life at no matter how so there's a tart agreed to agree to.
+50:24
+Andrew Ippolito: agree to tigers to see squirts. Andrew Ippolito: The strawberries and roses and.
+50:29
+Andrew Ippolito: diatoms and. Andrew Ippolito: cuttlefish they all speak the. same genetically.
+50:35
+Andrew Ippolito: And they use the same 20 amino acids. Andrew Ippolito: And this terrifying spider down here.
+50:43
+Branden Lane: This is. Branden Lane: This is a petri dish. Andrew Ippolito: has been painted with different strains of bacteria that have all been artificially transformed to express various fluorescent proteins.
+50:58
+Andrew Ippolito: These fluorescent proteins here, such as this is enhanced gfp green fluorescent protein screen.
+51:08
+Andrew Ippolito: Okay em Turquoise civilian, these are all that we find all these different kinds of proteins, mostly in Delhi fish.
+51:16
+Andrew Ippolito: We can extract the genes from jellyfish we can engineer them into plasmids and we can put the plasmids into bacteria and now you can have some really bad art.
+51:29
+Okay. Andrew Ippolito: Now, the next few slides are just for you to go over if this is really fascinating stuff to you and you want to dig into a little bit.
+51:37
+Andrew Ippolito: These are exceptions to the rules, this slide here says mitochondrial code on usage exceptions, for example, an animal mitochondria a way does not mean ISO leucine it means Matthias.
+51:50
+Andrew Ippolito: Okay, but i'm not going to read all this and he got nuclear gene exceptions which are very rare right so, for example, some proteus some ciliates use one, two or three of those stop code ons to encode for different amino acids instead.
+52:09
+Andrew Ippolito: Okay, and then we have this is probably the neatest one there's different amino acids non standard amino acids one we use in our bodies is called cilento Sistine well we we use both of these actually there's pyro lysine and cilento assisting.
+52:26
+Andrew Ippolito: And we still don't fully understand how this stuff works, so you can see here in the paralysing.
+52:31
+Andrew Ippolito: Actually we don't use paralyzed and we use someone else's team parlay scenes only in procuress and you ag is used for interchangeably stop or pyre lysine and we have no idea how this discrimination occurs it's a mystery.
+52:45
+Andrew Ippolito: Okay, so this is the cool exceptional stuff. Andrew Ippolito: Okay, here we are.
+52:51
+Andrew Ippolito: This is the big picture, now, this is where we're going to dig into mechanisms here.
+52:57
+Andrew Ippolito: This is the song of gene expression and there's three parts to it.
+53:03
+Andrew Ippolito: there's transcription there's post transcription all RNA processing, which you really can just abbreviate this when you talk fast RNA processing.
+53:12
+Andrew Ippolito: or Mr any processing and then translation. Andrew Ippolito: All right now notice that steps, one in three here transcription and translation each have the same three.
+53:25
+Andrew Ippolito: phases initiation elongation termination initiation start start doing it elongation keep doing it termination stop doing it.
+53:36
+Andrew Ippolito: So there's nothing there's nothing surprising here. Andrew Ippolito: Each one of these phases has their own rules and players and we'll talk about those okay post transcription of processing, this is basically surgically preparing the M RNA to go out of the nucleus.
+53:55
+Andrew Ippolito: Right, so this this stuff happens with the exception of this one this all happens in procuring eukaryotes right obviously there's a nucleus to export out from.
+54:05
+Andrew Ippolito: Pro carriers okay and bacteria don't splice so here let's do this not in bacteria notice, I said bacteria and I didn't say pro carrier, because our cans actually do that.
+54:19
+Andrew Ippolito: Not in. Andrew Ippolito: prokaryotes neither of them have the nucleus, this is universal.
+54:28
+Andrew Ippolito: OK so i'll teach you as we do all that so i'll give you the exceptions between the brokers and eukaryotes do alright so i'm going to go through this once and i'm just going to do a straight run through it if it doesn't make perfect sense go back and watch it again okay.
+54:43
+Andrew Ippolito: The first thing that happens so again let's let's look at big picture here let's keep this organized from from the start here.
+54:51
+Andrew Ippolito: you're ready we're so we're learning gene expression.
+54:58
+Andrew Ippolito: i'll tell you what i'll give you the cartoony simple version first and then we'll flush it out so i'll give you a couple of times okay you guys want me to do it this way, you want to use the slides raise your if you want whiteboard.
+55:07
+Andrew Ippolito: region or, if you want slides. Andrew Ippolito: Okay, slides.
+55:13
+Andrew Ippolito: So here we go initiation elongation termination all right during initiation of transcription.
+55:20
+Andrew Ippolito: There is a series of proteins that swarm the DNA into a region called the promoter.
+55:31
+Andrew Ippolito: The promote we call it the promoter region. Andrew Ippolito: as its name suggests, to promote transcription.
+55:38
+Andrew Ippolito: Okay, so these proteins bind to the promoter and they will then open up the DNA.
+55:48
+Andrew Ippolito: And then they will start reading along and produce so it's not so initiation is all about the binding and the DNA during the melting of the.
+55:58
+Andrew Ippolito: The the breaking part of the strands. Andrew Ippolito: OK, and then so think of it like a train on tracks its engine just starts getting going here.
+56:09
+Andrew Ippolito: And then it starts going here's your elongation during elongation you can see an RNA transcript is emerging from the system.
+56:18
+Andrew Ippolito: Okay, and again it's always three to 5% from the three prime to the five prime right because we're reading it from five to three so you're going to see the five prime and is the first the pop up.
+56:29
+Andrew Ippolito: Right, so the cartoony version of that would look like this, this right here is the five prime.
+56:35
+Andrew Ippolito: Because we're adding this way right there's the three prime extending.
+56:40
+Andrew Ippolito: All right. Andrew Ippolito: And then termination occurs in completely different mechanisms and procured new carrots so and you carry it's you can think of it as the plumber is just falls off the DNA eventually gets bored and goes away.
+56:58
+Andrew Ippolito: it's a messy up in prokaryotes there's different mechanisms you don't have to worry about any of the termination stuff just understand it stuck.
+57:07
+Okay. Andrew Ippolito: So here is a gene the generic version of a gene jeans all have this upstream so that she upstream downstream that's how we talked alright, so when we say upstream or going backwards or going downstream or going forwards.
+57:24
+Andrew Ippolito: We read downstream in English, you can think of okay.
+57:29
+Andrew Ippolito: So the promoter is the regulatory.
+57:35
+region. Andrew Ippolito: Okay really that's the core of the regulatory region there's there's other regulators okay so, for example, some promoters will have sequences here.
+57:49
+Andrew Ippolito: right here, this is a DNA let's here we go really far away over here. Andrew Ippolito: Alright, so there are sequences of being a really, really far away, that can loop back in because it's three dimensional that go what's beginning, you know right can loop back and come to the promoter these are called trans.
+58:07
+Andrew Ippolito: Regulatory sequences regulatory. Andrew Ippolito: sequence these would be SIS regulatory.
+58:17
+Andrew Ippolito: sequences system trance just close transits for.
+58:24
+Andrew Ippolito: Okay, these are generally referred to as enhancer regions, so an enhancer is something that makes it even better.
+58:35
+Andrew Ippolito: Okay.
+58:40
+Andrew Ippolito: I generally don't talk about these that's wrapped up into the promoter.
+58:46
+Andrew Ippolito: Okay, so promoters have binding sites for other proteins.
+58:51
+Andrew Ippolito: And then so ready i'm going to delete all that now. Andrew Ippolito: There is.
+58:58
+Andrew Ippolito: A start site there's a an 80 G right here. Andrew Ippolito: So, so when I say there's an atg here right let's let's understand when I say tg that's the DNA sequence right that's actually the non template stamped because when I see tg recognize that as a start code on.
+59:16
+Andrew Ippolito: A huge etc right but understand oops a tg right thc right, this is actually the double stranded DNA right.
+59:26
+Andrew Ippolito: And so, this would be the coating. Andrew Ippolito: Or the template strand.
+59:33
+Andrew Ippolito: This is what the RNA is going to say. Andrew Ippolito: So when we talk about DNA sequences we almost always been that we we always report them out as the non templates tramp because this don templates enters the census strand to the travel.
+59:52
+Andrew Ippolito: Okay, for example, you know if you're a researcher and you're looking at a DNA sequence, and this is a coating region, you want to just be able to look at the code ons and you know that's a Fino alanine that's a Syrian whatever you don't want to have to do the complimentary.
+1:00:05
+Andrew Ippolito: Translation first. Time. Andrew Ippolito: So there's our atg start site.
+1:00:13
+Andrew Ippolito: And then, this whole thing right here there's our open reading frame your book will call that a transcription unit.
+1:00:21
+Andrew Ippolito: At the end here. Andrew Ippolito: Okay there's a sequence called.
+1:00:28
+Andrew Ippolito: eukaryotes we're gonna call this the poly. Andrew Ippolito: demolition signal i'll tell you what that means in a second.
+1:00:39
+Andrew Ippolito: And and prokaryotes we have generally what's called the terminator region.
+1:00:50
+Okay. Andrew Ippolito: And that's that's the gene.
+1:00:58
+Andrew Ippolito: So the promoter is the DNA sequence that defines where the gene transcription because.
+1:01:03
+Andrew Ippolito: It determines whether or not the genes on or off right its regulatory nature.
+1:01:09
+Andrew Ippolito: And it dictates where ready RNA polymerase R and.
+1:01:18
+Andrew Ippolito: R N, a polymerase rsvp to put the Roman numeral two there are an ap to RNA polymerase to.
+1:01:27
+Andrew Ippolito: The promoter dictates where it binds and it tells the polymerase which strand to start reading.
+1:01:36
+Andrew Ippolito: Okay. Andrew Ippolito: And so here's your first what's called the consensus site consensus site and it drives me NUTS your book doesn't use this phrase.
+1:01:47
+Andrew Ippolito: A consensus site is just one of those sequence specific, binding sites for proteins that I told you about earlier Okay, and so there's this thing called the top box.
+1:01:58
+Andrew Ippolito: Which is a name that makes people giggle usually but it's just ta ta.
+1:02:04
+Andrew Ippolito: The concept of a consensus site is the word itself is not always exactly the same some top boxes might have another eight here.
+1:02:15
+Andrew Ippolito: or some of them might be ta ta ta I don't think that's common now right, but the idea is is there some play in it.
+1:02:23
+Andrew Ippolito: OK, so the top box has a protein that binds to it. Andrew Ippolito: called the top binding protein or TV P T be P, and so TV P is your first introduction into the world or transcription factors.
+1:02:40
+Andrew Ippolito: A transcription factor is a protein that regulates transcription. Andrew Ippolito: there's positive regulators and there's negative regular.
+1:02:49
+Andrew Ippolito: TV P, is a positive review here. Andrew Ippolito: Okay now here's The other thing.
+1:02:57
+Andrew Ippolito: And i'm so right everything i'm about to teach you here is this all you carriers are in particular mammals, but you can use this as a general concept for all of it.
+1:03:10
+Andrew Ippolito: Every cell in your body needs a set of genes on all the time right.
+1:03:15
+Andrew Ippolito: I mean we could we call this housekeeping gene think about you know the genes necessary to make ATP and liquids and proteins blah blah blah so.
+1:03:26
+Andrew Ippolito: Those genes that are always on we call those concerns did choose to live jeans a constituent of genius a genius always on you would see its constituent fully expressed.
+1:03:40
+Andrew Ippolito: Can digitally express genes. Andrew Ippolito: Have a TD P site.
+1:03:47
+Andrew Ippolito: or topics. Andrew Ippolito: Okay, so, because this is not specific to a specific set of genes, but kind of universal right so 50% of our genes 50% of our promoters have a car box we call this a bazell transcription factor.
+1:04:09
+Andrew Ippolito: bazell meaning, like the basement universal Okay, there is bs will transcription factors and their specific transcription factors.
+1:04:19
+Okay. Andrew Ippolito: raise your hand if that made sense. Andrew Ippolito: Okay, you guys kind of like absorbing this like a sponge right now, are you getting overwhelmed.
+1:04:36
+Give me some feedback here. Andrew Ippolito: guys okay.
+1:04:42
+Okay.
+1:04:48
+Andrew Ippolito: So there you go so promoters can paint specific words can specific sequence is called consensus is which can recruit specific proteins called transcription factors.
+1:04:58
+Andrew Ippolito: So here what i'm about to teach you is, this is a biggest difference between procreation your carrier's in terms of how they work ready.
+1:05:10
+Andrew Ippolito: So that's a P for promoter just to make this easier okay i'm prokaryotes versus you carry.
+1:05:19
+Andrew Ippolito: In prokaryotes. Andrew Ippolito: RNA polymerase.
+1:05:27
+Andrew Ippolito: can bind. Andrew Ippolito: To DNA. Andrew Ippolito: directly.
+1:05:36
+Andrew Ippolito: there's just one RNA polymerase there's not RNA polymerase to it's just RNA polymerase it does all.
+1:05:43
+Andrew Ippolito: don't worry during. glad you're back.
+1:05:50
+Andrew Ippolito: Okay, and you carry us. Andrew Ippolito: RNA polymerase all of them aren't a part one, two and three RNA polymerase one, two and three.
+1:06:02
+Andrew Ippolito: cannot find. Andrew Ippolito: To DNA.
+1:06:09
+Andrew Ippolito: directly. Andrew Ippolito: Okay, so, in other words, they need a protein that can bind to DNA.
+1:06:17
+Andrew Ippolito: to anchor them there. Andrew Ippolito: Okay, so you would say that it is recruited.
+1:06:25
+Andrew Ippolito: To the promoter.
+1:06:30
+Andrew Ippolito: aren't a plumber is recruited to the promoter by transcription factors.
+1:06:37
+Andrew Ippolito: I abbreviate transcription factors tf by etfs.
+1:06:53
+Andrew Ippolito: So. Andrew Ippolito: Does that make sense right.
+1:06:58
+Andrew Ippolito: The way I see this is there's a swarm of protein in there, this i'm not going to teach you the complexity of this, there are a lot of transcription factors that start this in eukaryotes.
+1:07:08
+Andrew Ippolito: They swarm the promoter like a bunch of ants carrying a banana that's the idea of RNA polymerase right.
+1:07:15
+Andrew Ippolito: So you've we've all seen at one time or another in our lives we go outside, we see a bunch of ants carrying something as a group right that's kind of how I see the protein swarming onto the promoter and then recruiting the RNA public.
+1:07:30
+Andrew Ippolito: art. Andrew Ippolito: So transcription factors right, these are proteins that regularly gene expression by binding to the promoter and then they either recruit or block polymer, this is what makes them plus or minus Okay, so there is transcription active eaters.
+1:07:48
+Andrew Ippolito: And there's transcription repressive. Andrew Ippolito: notice we call them represses and not inhibitors we repress gene expression we don't inhibit gene expression it's just the English of it.
+1:08:02
+Andrew Ippolito: Okay, so I want to teach you. Andrew Ippolito: To have them, these are the ones I worked on, which is why i'm teaching them to, because these are the ones I know the best an example of a gene activator is a to F.
+1:08:17
+Andrew Ippolito: E to F, is a positive regulator or an activator of jeans and S phase.
+1:08:27
+Andrew Ippolito: Alright, so think about that for a second etfs bind to promoters of genes, that we need to be on when we go into SPS go back to the cell cycle, remember, we go from one to s right the way we go from do you want to so by turning genes on that go into s phase and each one of those players.
+1:08:47
+Andrew Ippolito: Okay, and then our be the retinoblastoma protein PR be is the oppressor.
+1:08:57
+Andrew Ippolito: It also happens to be the first tumor suppressor.
+1:09:05
+Andrew Ippolito: discovered. Andrew Ippolito: tumor suppressor, as its name suggests, suppresses the growth of transform cells.
+1:09:16
+Andrew Ippolito: So it is a negative growth regulator its job is to bind to promoters, the best fees jeans and stay there.
+1:09:25
+Andrew Ippolito: Okay, so here's the concept. Andrew Ippolito: This is.
+1:09:30
+Andrew Ippolito: Active repression. Andrew Ippolito: that's a key concept to understand the way regulation works okay active repression, meaning you're keeping your hand so imagine there's a.
+1:09:43
+Andrew Ippolito: Let me think Okay, you know when you open the refrigerator the light goes on right. Andrew Ippolito: You shut the door and the light goes off you open the door light goes on, think about when you open the refrigerator right from a side view of it if this is your refrigerator side you there's a button in there.
+1:09:58
+Andrew Ippolito: Right and when you push down on that button. Andrew Ippolito: right when you when your finger is pushing up button right, so this is on, and this is now off right as long as you keep holding that it's off.
+1:10:13
+Andrew Ippolito: You are actively keeping that button off right there's a little spring in here that's how it works right so when you let go of it, it POPs back opening camp okay so that's an example of active repression.
+1:10:26
+Andrew Ippolito: Which means. Andrew Ippolito: If this protein suffers a loss of function.
+1:10:35
+mutation. Andrew Ippolito: Now the genes that it turns off or accidentally going to be turned on.
+1:10:43
+Andrew Ippolito: And that's what leads to carcinogenesis that's how cancer works. Andrew Ippolito: Okay.
+1:10:49
+Andrew Ippolito: All right, and I know i'm hitting you with a lot, but you can pause this and rewatch this later whatever so.
+1:10:56
+Andrew Ippolito: So be got ETF. Andrew Ippolito: activates SPS genes.
+1:11:02
+Andrew Ippolito: We have PR be that inhibits it. Andrew Ippolito: Okay, there are always these tug of wars going on here.
+1:11:13
+Andrew Ippolito: And so there's things that activate this and there are things that inhibit that and vice versa, and things start to get messy and we're not going to go there.
+1:11:24
+Andrew Ippolito: All right now the next layer of complexity eukaryotic genes and our cans.
+1:11:34
+Andrew Ippolito: within their open reading frame. Andrew Ippolito: contains two fundamental types of sequences they're called electrons and excellence alright sounds in.
+1:11:44
+Andrew Ippolito: The axons are the important thing. Andrew Ippolito: Think of them as.
+1:11:50
+Andrew Ippolito: The expressed code.
+1:11:55
+Andrew Ippolito: So we want just the excellence, we don't want the entrance in our RNA.
+1:12:01
+Andrew Ippolito: Okay, think of the N tron. Andrew Ippolito: and different books use different phrases I say they are interests first code on there not code on there interspersed sequences.
+1:12:16
+Andrew Ippolito: There in between so in tron in between.
+1:12:24
+Andrew Ippolito: And I think another way of doing this region that's where the oh when comes from region interspersed region.
+1:12:33
+Andrew Ippolito: expressed code ons you could say express region it doesn't matter what they stand for the point is that the axons contain the useful code ons to make the protein in the interim step.
+1:12:44
+Andrew Ippolito: Okay. Andrew Ippolito: So I want you to imagine.
+1:12:49
+Andrew Ippolito: I want you to imagine a gene sequence that looks like this here's Exxon one. Andrew Ippolito: actually make it Nice and short here here's Exxon one.
+1:12:58
+Andrew Ippolito: here's in tron one. Andrew Ippolito: And here's Exxon to.
+1:13:04
+Andrew Ippolito: Okay, so Exxon one. Andrew Ippolito: PICs on to.
+1:13:10
+Andrew Ippolito: in Toronto one. Andrew Ippolito: i'm just going to just to illustrate this simply i'm going to show you this so let's say that we we make the piece of RNA Okay, so we do transcription, and so what we're looking at here now we're going to call the primary.
+1:13:26
+Andrew Ippolito: transcript. Andrew Ippolito: Okay, so this is the piece of RNA that we've just made from transcription RNA polymerase to me this.
+1:13:38
+Andrew Ippolito: over here. Andrew Ippolito: Is it's five prime and over here it's three minutes.
+1:13:46
+Andrew Ippolito: Okay.
+1:13:54
+Andrew Ippolito: So i'm going to skip ahead here and go into RNA processing and just give you the quick steps here, the first thing we're going to do is, we need to protect this end from being enzymatic be degraded, we need to protect the CAP or the end so we're going to cap it.
+1:14:09
+Andrew Ippolito: The way we do that is by adding a special.
+1:14:15
+Andrew Ippolito: message related guanine. Andrew Ippolito: Okay, so this is methyl think of it as methodology.
+1:14:26
+Andrew Ippolito: I don't know I guess you can say gee subscript m it's a methylation guanine This is called the five prime CAP.
+1:14:35
+Andrew Ippolito: And it protects it. Andrew Ippolito: From enzymes called.
+1:14:43
+RNA. Andrew Ippolito: XO nucleobases.
+1:14:50
+Andrew Ippolito: Think of them like PAC man.
+1:14:56
+Andrew Ippolito: wants to eat the XO nucleus from the outside, and no nucleus would cut it from within we're not talking about those now.
+1:15:04
+Andrew Ippolito: Okay, so we protect the five prime CAP then over here at the three prime and.
+1:15:09
+Andrew Ippolito: there's a there's a signal in here that I said to you earlier, is called the poly.
+1:15:15
+Andrew Ippolito: Dental elation sequence. Andrew Ippolito: So there's an enzyme that binds to that.
+1:15:26
+Andrew Ippolito: And that enzyme is polly a. Andrew Ippolito: plumber.
+1:15:33
+Andrew Ippolito: And the job of a plumber is is to basically add a whole bunch of add an easier.
+1:15:41
+Andrew Ippolito: For us to pay a it knows, one word it's not a very good plumber, just as one word hey.
+1:15:49
+Andrew Ippolito: Right, so we call this the three prime tail or sometimes we say the three prime polly a tail.
+1:15:57
+Andrew Ippolito: We say that the process is polly Dan elation.
+1:16:07
+Andrew Ippolito: Right.
+1:16:19
+Andrew Ippolito: Okay, so now let's go back to these excellent. Andrew Ippolito: So here's how you doodle a a transcript if you have multi colors you can go like this.
+1:16:41
+Andrew Ippolito: We call this the mentor transcript. Andrew Ippolito: Oh, actually, no, no, we don't know we don't don't start stop right because we still have to get rid of the Internet Okay, so the last thing we're going to do so, we kept it we tell it and now we're going to splice it and here's how the spacing works there are sequences recognized here.
+1:17:00
+Andrew Ippolito: called boundary elements.
+1:17:06
+Andrew Ippolito: And they are recognized by this big special enzyme.
+1:17:13
+Andrew Ippolito: Well, really i'll tell you what let's make it simple let's. Andrew Ippolito: Just the whole this whole thing is bound, this is called the splices.
+1:17:23
+Andrew Ippolito: splice within a splice and then oh zone so it's spicy ozone but it's spices.
+1:17:31
+Andrew Ippolito: spices them like the ribosome is made out of protein and special rnas we're not going to learn about.
+1:17:40
+Andrew Ippolito: Okay, there are small nuclear little RNA is called SN rnas but we're not learning that in this class Okay, but the idea, there is, those are Naser in there and they recognize these boundary elements we can recognize the interim Exxon boundaries.
+1:17:59
+Andrew Ippolito: And when they do this is what the spices um does. Andrew Ippolito: It will bend.
+1:18:06
+Andrew Ippolito: That RNA. Andrew Ippolito: Such that it loops out.
+1:18:13
+Andrew Ippolito: That interim. Top tail.
+1:18:20
+Andrew Ippolito: see that. Andrew Ippolito: So the spices i'm. Andrew Ippolito: not sure the spices on it lifted up and then What it does is a cuts this.
+1:18:31
+Andrew Ippolito: And it ends up releasing it. Andrew Ippolito: So the interim.
+1:18:37
+Andrew Ippolito: is cut out. Andrew Ippolito: And released.
+1:18:45
+Andrew Ippolito: And what that does is it results in the two exxon's which are now pasted together alright, so the Spice the muscle leggett's them together.
+1:18:54
+Andrew Ippolito: And you now have your miniature transcript.
+1:19:05
+Andrew Ippolito: And this gets exported.
+1:19:11
+Andrew Ippolito: To the cytoplasm.
+1:19:21
+Andrew Ippolito: Alright, so i'm going back to the slides now show you all this. Andrew Ippolito: Alright, so there's the open reading frame.
+1:19:30
+Andrew Ippolito: This is the sequence that contains code ons. Andrew Ippolito: Okay, your book cause these intro genetic regions, as opposed to expressed regions.
+1:19:41
+Andrew Ippolito: In transit or small compared to exxon's i'm sorry exxon's or small compared to entrance despite what your book shows.
+1:19:48
+Andrew Ippolito: that's why, when I drew it, I went like this here's the Exxon here's the intro and here's another excellent so in reality in terms are big.
+1:19:57
+Andrew Ippolito: But for the interest of diagrams and books, they generally make them all the same, but.
+1:20:03
+Andrew Ippolito: there's a scaling issue there, and the reason is is the electrons kind of protect everything right think of a random mutation occurring somewhere chances are it's going to hit somewhere in the middle, that in drawn so it doesn't matter.
+1:20:17
+Andrew Ippolito: Pro carry you don't have insurance. Andrew Ippolito: they're just one bit so we don't even say they have xrs we just say they have an open reading frame we don't use the terms in transit next on zoom pro carriers.
+1:20:36
+Are. Andrew Ippolito: So ready step one initiation you don't have to memorize this, this would be if we were taking molecular if I focus teaching you junior level molecular biology, you would have to know that.
+1:20:51
+Andrew Ippolito: You don't have to know that but i'm going to show it to you, so you can get an idea of how it works okay so here's the promoter and you can see, here we zoom into it.
+1:21:01
+Andrew Ippolito: ta ta okay so that's a top top box so that's just a little variation of it right, you see the little it's hard to see this because it's pixelated but that says, plus one.
+1:21:13
+Andrew Ippolito: Okay. Andrew Ippolito: You see how the ta ta says minus 30, and this is plus one, so these numbers correspond to the distance from the start code on a huge okay so let's that serves as our anchor point so he would say that the top box lies 30 bases downstream from the start side.
+1:21:37
+Andrew Ippolito: Okay. Andrew Ippolito: And in fact if I handed you the coronavirus genome and I asked you hey how many open reading frames, do you think this thing as.
+1:21:47
+Andrew Ippolito: You can read through it and you can look for ta and you can look for a new G, and if they're 30 away from each other, maybe you could call that an open reading frame that's the way things work.
+1:21:59
+Andrew Ippolito: Alright there's tip top binding protein binding to the ta site right, but then there's this guy here she says tf.
+1:22:07
+Andrew Ippolito: And then, those are it looks like two eyes as a Roman numeral two for RNA polymerase two, so this is transcription factor for RNA polymerase to, and this is transcription factor too deep.
+1:22:18
+Andrew Ippolito: because that was the one that was it was discovered fourth, I guess, so this is tf 2d.
+1:22:26
+Andrew Ippolito: Right, so this is how you would tell the story for this gene to turn on.
+1:22:31
+Andrew Ippolito: Top Tata binding protein bar so the top box recruiting tf 2d.
+1:22:36
+Andrew Ippolito: This complex in turn recruits tf to a anti have to be.
+1:22:42
+Andrew Ippolito: which in turn recruit tf to E and T F H, and once you have this called the pre initiation complex that would recruit the RNA polymerase to.
+1:22:54
+Andrew Ippolito: Okay, for us, for what I want you guys to understand is, I just want you to understand the concept of the pre initiation complex pre initiation complex, which is made out of transcription factors called tf tues.
+1:23:17
+Andrew Ippolito: And I want you to see that as a swarm of insects on a piece of fruit. Andrew Ippolito: was all swarm down there.
+1:23:26
+Andrew Ippolito: Alright, once the pre initiation complex forms that recruits the RNA polymerase.
+1:23:34
+Andrew Ippolito: And now we call it the initiation complex the transcription initiation complex.
+1:23:40
+Andrew Ippolito: or so pre initiation because we're not started yet the party doesn't get started into the plumber races there.
+1:23:50
+Andrew Ippolito: And then the polymerase D meters the strands pulls them apart and, by the way this pre initiation complex and all that not all that complexity there that cluster decides which one of the two pieces of DNA is that template.
+1:24:06
+Andrew Ippolito: that's i've had that question a couple of times throughout the Semester is where i'll just teach it to us people, we have a How does it, how does the RNA polymerase know which one to read.
+1:24:15
+Andrew Ippolito: The The pre initiation complex tells it so it depends on the transcription factors President hold on one second guys.
+1:24:37
+Andrew Ippolito: 40 seconds.
+1:25:00
+Andrew Ippolito: You do jack just asked if he can make himself a hot dog in the microwave. Andrew Ippolito: let's see how this goes.
+1:25:08
+Andrew Ippolito: So expecting about three or four minutes he's going to run in here and tell me something is going to.
+1:25:14
+Andrew Ippolito: alright. Andrew Ippolito: um. Andrew Ippolito: Any questions.
+1:25:21
+Andrew Ippolito: So this is kind of like a stupid question, but like it's. Andrew Ippolito: stupid questions at this point, no. Andrew Ippolito: that's stupid.
+1:25:28
+Alexa Deprisco: it's honest strand of RNA. Andrew Ippolito: seek Sagan Why can I sleep complex that you just talked.
+1:25:34
+Alexa Deprisco: About it's on a strand of RNA right. Andrew Ippolito: Ah. Andrew Ippolito: No that's a great question though so here's your double stranded DNA everything we're talking about is on the DNA OK, so the promoters this region of double stranded DNA right, so the top box is actually.
+1:25:56
+Andrew Ippolito: Right it's it's actually double stranded DNA, and so the ttp binds to the actual DNA so here, so my little.
+1:26:12
+Andrew Ippolito: what's up okay so here looking for a second here's double stranded DNA here's my little 3D printed DNA see this.
+1:26:19
+Andrew Ippolito: Okay, so if you can imagine that, if this was flexible and if I could kind of untwist this and make it look like the screen right so so there's like a ti a ta ta so there's a protein that will literally.
+1:26:38
+Andrew Ippolito: bind to those sequences. Andrew Ippolito: Okay, and then another protein and turn.
+1:26:47
+Andrew Ippolito: So. Andrew Ippolito: wow that was fun, so this interaction here is sequence specific right.
+1:26:55
+Andrew Ippolito: Actually, this works really nice, I never did this before her.
+1:27:06
+Andrew Ippolito: Okay let's try this one more time so here's a tip.
+1:27:12
+Andrew Ippolito: Okay, it binds within the groove of the DNA in a sequence specific manner right and then tf 2d would come along tf 2d doesn't bind the DNA pod binds to pvp.
+1:27:24
+Andrew Ippolito: Right, so you can imagine, now the swarm that comes around the DNA that essentially culminates into.
+1:27:31
+Andrew Ippolito: Something that would probably look. Andrew Ippolito: more of us.
+1:27:39
+Andrew Ippolito: like this. Andrew Ippolito: Okay, so this is the pre initiation complex and now here's.
+1:27:47
+Andrew Ippolito: The prima Donna RNA polymerase to that has to be know escorted along here, and so this thing can't bind to DNA directly as no idea just floating around, but it can bind.
+1:28:01
+Andrew Ippolito: To all these proteins here like this boom. Andrew Ippolito: Okay, and so that tells it go here use this strand here melt the support and then start moving along the DNA.
+1:28:14
+OK. Andrew Ippolito: So the only interactions with the DNA or with the transcription factors now in pro carrier promoter polymerase.
+1:28:25
+Andrew Ippolito: much simpler. Andrew Ippolito: Okay, so we need a different way of regulating that and we'll teach you that in a SEC.
+1:28:34
+Andrew Ippolito: Any other questions. Andrew Ippolito: So we have no RNA yet alexa we have not made a single piece of RNA.
+1:28:41
+Alexa Deprisco: So it's the DNA strand that like there's the promoter with like the top top box and then the cpb comes to that and then all of the tf the transcription factors go to that, and then the RNA polymerase goes to that exactly got it.
+1:29:00
+Andrew Ippolito: Think of it like. Andrew Ippolito: At the very end of it all we put the Crown on top.
+1:29:07
+Andrew Ippolito: Right and I cry that's the RNA polymerase to hold on a second what oh.
+1:29:13
+Andrew Ippolito: My predictions coming true what's up Jay I think I open the hot dogs do wrong why I don't know how to do I open open i'm just do your best I got three is an old one Okay, but the others back in a plastic bag i've been trying to get him get him.
+1:29:32
+Andrew Ippolito: Okay. Andrew Ippolito: it's okay it's okay i'll be right back.
+1:30:52
+Andrew Ippolito: Whatever he's learning that's good okay.
+1:30:58
+Andrew Ippolito: So this is the level of detail, I want you to know. Andrew Ippolito: Okay there's a promoter it bonds the transcription factors, the transcription factors recruit the polymerase easy peasy.
+1:31:12
+Andrew Ippolito: Okay. Andrew Ippolito: So that's initiation this this is how you turn in gene on when we talk about Jesus being turned on in cancer or genes being turned off due to pharmaceuticals Okay, this is how it works all right.
+1:31:31
+Andrew Ippolito: I said all this to you already there's nothing new here.
+1:31:39
+Andrew Ippolito: Oh, I didn't say this it doesn't need a primer, it is a primer right.
+1:31:46
+Andrew Ippolito: So it doesn't mean it doesn't need to be primed it's not like Dini plum rates right so remember DNA polymerase needs and RNA primer RNA polymerase does it it just goes okay.
+1:31:58
+Andrew Ippolito: So another question they usually get as well we're all the nucleotides coming from. Andrew Ippolito: there's this idea of the super round metabolic pool Okay, so all of the things that are needed to make anything in the cell are just floating around that's the way to think about it.
+1:32:17
+Andrew Ippolito: Okay. Andrew Ippolito: All right, and so this whole thing that we just learned this is true for all the other types of RNA is the T RNA RNA is the Mr name is the small nuclear rnas the non coding RNA is the snips this nerves whatever okay.
+1:32:34
+Andrew Ippolito: elongation is easy, we just ticker tape along, as I say, we ticker tape along the template can we make a piece of art, we just go.
+1:32:43
+Andrew Ippolito: Okay, now, this can have errors, but we don't talk about errors.
+1:32:49
+Andrew Ippolito: All right, because here's the key and I want you to think of it this way here's a DNA.
+1:32:56
+Andrew Ippolito: I want you to imagine a whole bunch of plumbers is bound to that DNA.
+1:33:01
+Andrew Ippolito: And each one of those polymer races, is making a piece of RNA.
+1:33:07
+Andrew Ippolito: So one gene can give rise to thousands or 10s of thousands of transcripts.
+1:33:16
+Andrew Ippolito: We would call this a highly express gene. Andrew Ippolito: Okay, so yeah mutations can happen in there, but it's just one in a sea of others.
+1:33:27
+Andrew Ippolito: Okay. Andrew Ippolito: All right. Andrew Ippolito: What I just doodle is right there there it is so this core here is the DNA itself.
+1:33:39
+Andrew Ippolito: And then on this size yeah these are shorter you see how these are all shorter, so what you're seeing here is this.
+1:33:49
+Andrew Ippolito: you're seeing many, many, many, many RNA polymerase is doing their job and as they read down this way the RNA gets longer.
+1:33:58
+Okay. Andrew Ippolito: And you can also see that as the gene is being transcribed you can already see the splices i'm starting to do his job.
+1:34:08
+Andrew Ippolito: Okay, so the second that so here, if this is the DNA.
+1:34:13
+Andrew Ippolito: This is the plumber is the second that transcript is coming off it gets kept.
+1:34:21
+Andrew Ippolito: that protects it right away, and then the spices on grabs it, and then only after falls off that you get the poly ventilation, the misplacing.
+1:34:29
+Andrew Ippolito: You don't have to know that level of granularity in terms of the stepwise stuff just understand right we have initiation we have elongation we have termination right that's transcription oops.
+1:34:44
+Andrew Ippolito: that's transcription. Andrew Ippolito: Or how much room do I have right here here tx that's transcription initiation elongation termination.
+1:34:56
+Andrew Ippolito: And then, while elongation is occurring, we got capping.
+1:35:01
+Andrew Ippolito: We have splicing we have tail caps place tail right.
+1:35:07
+Andrew Ippolito: And then, lastly, when everything's done we export.
+1:35:18
+All right. Andrew Ippolito: So. Andrew Ippolito: The plumbers and twists the double helix about 10 to 20 basis at one time so basically a prize open an entire twist and you get about 40 nucleotides per second and and you carriers.
+1:35:35
+Andrew Ippolito: Which isn't that fast, the average gene has thousands of base pairs long.
+1:35:40
+Andrew Ippolito: So this this isn't like neurons firing Okay, this is more like.
+1:35:45
+Andrew Ippolito: From the time you wake up until the time you start feeling like a human well for some of you that's fast.
+1:35:53
+Andrew Ippolito: The time you start drinking your coffee. Andrew Ippolito: time you feel it take it into effect.
+1:36:07
+Andrew Ippolito: Already okay termination that's just one slide on this and you carry out on a plumber's reaches the end of the coding region and then just Basel the book goes into more detail than you need to know, and it is interesting to read, but i'm not gonna hold you accountable for that information.
+1:36:23
+Andrew Ippolito: And prokaryotes there's row so row is a Greek letter, it looks like this there's a road dependent and row independent you know, often on the details there either just understand Rosa protein and there's a terminator region alexa.
+1:36:37
+Alexa Deprisco: This is like a slide fact that you were saying that the RNA polymerase that. Alexa Deprisco: Like unwinds everything is there, like a top murray's involved there.
+1:36:46
+Andrew Ippolito: Oh that's a great question.
+1:36:52
+Andrew Ippolito: No and here's why, when we open. Andrew Ippolito: Well, so there's a bubble right, you can think of, like a bubble, just like in our DNA polymerase but The thing is, is we close it back up again.
+1:37:04
+Andrew Ippolito: Right, so we temporarily unwind it and then it closes again so we actually don't want to go by summaries.
+1:37:10
+Andrew Ippolito: Right, if you remember in DNA polymerase we unwind it and we want to stay that way because we're making a new double stranded piece of DNA right.
+1:37:18
+Andrew Ippolito: So the polymerase is more like a think think of a rug that has a marble underneath it and the marbles rolling under the rug.
+1:37:28
+Andrew Ippolito: Right so it's moving them rug and then, as it leaves the rug settles again right, so the DNA and twists and then it goes back together again so now there's a healer case activity.
+1:37:39
+Andrew Ippolito: Right, but you don't have to know any of that just the RNA polymerase think of marnie plumbers, is the hollow enzyme of the DNA polymerase always with all the moving parts in it.
+1:37:47
+Andrew Ippolito: You don't have to know any of it okay so there's an enzyme that swoops down pulls the DNA apart and says as told him start reading over here and it says it's easy, you are, it is a tea right, and so it say here, I need an A and then I started building.
+1:38:06
+Andrew Ippolito: You still look like you have a headache. Alexa Deprisco: So i'm just trying to like wrap my head around it conceptually so I guess like.
+1:38:13
+Alexa Deprisco: I guess like the difference between like this process and, like DNA replication would be like with DNA replication replication you're like pulling.
+1:38:19
+Andrew Ippolito: apart, the whole thing to duplicate it. Alexa Deprisco: While like this, like you're just. Andrew Ippolito: Pulling from DNA. Alexa Deprisco: Here here's the picture.
+1:38:25
+Maybe this will help. Andrew Ippolito: Right so, so this is DNA right imagine sticking my thumb in here and then just moving my thumb along like this.
+1:38:40
+Andrew Ippolito: Okay, but now it's not entirely accurate, because I can't I can't redo it but.
+1:38:49
+Andrew Ippolito: it's just.
+1:38:57
+Andrew Ippolito: Maybe there was a total summaries, but now you're making me think second because I never thought about to apply summaries and transcription.
+1:39:05
+Alexa Deprisco: follow up question to what you just did there was, like the wire and everything. Alexa Deprisco: So, like it'll run the whole length of the DNA strand at won't just pull a chunk from it, then.
+1:39:18
+Andrew Ippolito: say that again. Alexa Deprisco: So, like you're saying, like the. Alexa Deprisco: bubble it's like moving down like the railroad track of like the double helix so like is it going to go, like the full length of the DNA or is it just going to like pull it chunk out.
+1:39:32
+Andrew Ippolito: Oh, it doesn't pull it. Andrew Ippolito: But when you see the full length of God made you mean the whole chromosome.
+1:39:39
+Alexa Deprisco: I guess, just like the full end of like a double here. Andrew Ippolito: So. Alexa Deprisco: The big picture view here.
+1:39:46
+Andrew Ippolito: would be if so here's so what i'm about to draw the single line is double stranded DNA. Andrew Ippolito: Okay, so let's say that the whole chromosome right remember that chromosomes have those you know the chromatin territories right remember the whole histones and all that so we're going to zoom all the way down into that.
+1:40:03
+Andrew Ippolito: And so here's plumbers and so we're all going to do is read along here.
+1:40:10
+Andrew Ippolito: And so that bubble is inside of it, the whole time so we're when, as it leaves.
+1:40:16
+Andrew Ippolito: Right like think of that is like the the the downstream and the upstream right so as we go downstream we open it and then right behind us it's closed again so we're not permanently making any changes to the double helix we're just we're just peeking in there and coming back out.
+1:40:38
+Andrew Ippolito: That makes sense okay that's where the boy summaries I do want to roles of your character, for some reason transcription 2016 oh that's funny this way I learned this stuff a little bit longer than 2016 pillbox commerce's.
+1:40:52
+kind of like an immediate bottle. Andrew Ippolito: Here we read the roads are two of our summer sun media and commented dynamics transcription okay yeah this, this is just a review Article.
+1:41:01
+Andrew Ippolito: That was published in 2016 so it looks like to book summaries is do player on transcription.
+1:41:07
+Andrew Ippolito: And, and that makes it, you know it's funny the second I started moving my thumb along they're like this. Andrew Ippolito: Like I immediately realized like downstream, and that it's going to keep getting tighter so you do need it to a boy sorry, Sir, even though you're not leaving it that way you're still pushing forward and and creating a tension there.
+1:41:25
+Andrew Ippolito: So yes, oh boy summaries would make sense there we just i've never thought about it before, because the number it doesn't play any regulatory role, so it was just part of the complex itself.
+1:41:38
+Okay. alright. Andrew Ippolito: Alright, so elongation and then termination and we talk to you so again termination the RNA polymerase keeps reading it gets through a poly ventilation signal all right, I want to make sure that's there again polly.
+1:41:55
+Andrew Ippolito: Dan elation signal there's a seat it's a it's like a word there's a sequence in there and that consensus site tells the.
+1:42:05
+Andrew Ippolito: poly a plumber, I used to buy in there to make the poly tail okay so that's embedded there that is part of the open reading for him said last tail end of the open reading from no pun intended.
+1:42:16
+Andrew Ippolito: Or the terminator we only talked about that in pro carriers you carry don't have a specific terminator sequence.
+1:42:26
+Right. Andrew Ippolito: Okay, so that, so you just learned transcription. Andrew Ippolito: they're going to draw a line there now we're going to do our any processing which we've already covered, for the most part Okay, so we have splicing gets rid of the electrons we edit both sides, both ends the five prime and gets a cap the three prime and gets a tail.
+1:42:51
+Andrew Ippolito: And then we export it Okay, so you have to keep in mind export is the last step here so you'd see this CAP tail splice export your capital it tell it you splice it and then you kick it up.
+1:43:07
+Andrew Ippolito: And the reason why I want you to keep those four steps in mind is when we learn regulation, next time, each one of those steps can be regulated, for example, imagine preventing it from leaving the nucleus now you don't get a protein.
+1:43:27
+Andrew Ippolito: here's a schematic of eukaryotic gene expression. Andrew Ippolito: Okay, so when this all very quickly show you here the axons.
+1:43:36
+Andrew Ippolito: Okay, so here's the DNA here's the primary transcript you can see it's kept that's got a tail we're going to then splice these electrons out.
+1:43:47
+Andrew Ippolito: And they've done a little fancy job showing you their varying lengths and size doesn't matter.
+1:43:52
+Andrew Ippolito: Okay, so these things, a lot of questions are what trends do you can say they just get degraded and we reuse the pieces.
+1:44:00
+Andrew Ippolito: Sometimes they play other roles and regulation and i'll talk about that, next time, and you get this mature transcript which technically isn't really mature into leaves right, just like your kids have to leave the House before you tell me a grown up.
+1:44:19
+Andrew Ippolito: So, so this is the 18 year old, and this is the 26 year olds.
+1:44:25
+Andrew Ippolito: That finally leaves the House. Andrew Ippolito: Okay.
+1:44:31
+Andrew Ippolito: So this is just another overview of it. Andrew Ippolito: This is where Okay, this is the anatomy but mature transcript and then there's a lot on this slide here, so let me, let me give you a simple i'll i'll draw it slowly for you.
+1:44:47
+Andrew Ippolito: Okay, so this is the Mr. Andrew Ippolito: This is your five prime cat.
+1:44:55
+Andrew Ippolito: This is your three prime tail. Andrew Ippolito: Okay. Andrew Ippolito: And here's your start code on notice, I drew it not at the beginning, you see that.
+1:45:08
+Andrew Ippolito: And then here's your stop code on. Andrew Ippolito: Again notice I didn't draw it at the end.
+1:45:18
+Andrew Ippolito: So this region, right here. Andrew Ippolito: This region, right here, we can all agree that that's not going to be translated right.
+1:45:28
+Andrew Ippolito: we're not going to translate those parts So those are on translated regions we're going to call those on translated regions ut ours.
+1:45:39
+Andrew Ippolito: And this is the five prime on translated region because it's on a five primary to the transcript, and this is the three prime up for.
+1:45:46
+Andrew Ippolito: Okay, so on translated. region.
+1:45:54
+Andrew Ippolito: These regions contain important sites.
+1:45:59
+Andrew Ippolito: Okay, this is going to be where the ribosome binds.
+1:46:07
+Andrew Ippolito: Let me do translation. Andrew Ippolito: This contains the poly a site.
+1:46:14
+Andrew Ippolito: For the poly plumbers to buy.
+1:46:21
+Andrew Ippolito: And the reason why we hand wave translation a bit just because we still don't fully understand all of this, there are translation factors, just like there are transcription factors but we're not going to learn about them.
+1:46:34
+Andrew Ippolito: Okay, this is one of those it's still kind of a black box there's a lot more known about it than is in your book there's a lot more known about it, and is, in my brain because I didn't focus on translation at all I focused on transcripts.
+1:46:49
+Andrew Ippolito: It turns out, this is just as highly regulated as transcriptions we're not going to learn any of that.
+1:46:56
+Andrew Ippolito: Right, we can all agree, this is already information dense enough.
+1:47:02
+Andrew Ippolito: So in here all your code right that's your open reading frame.
+1:47:07
+Andrew Ippolito: I mean really this thing the open reading room includes the start and stop all your code on during there for all your amino acids.
+1:47:16
+Andrew Ippolito: Okay, so now let's go back to the slide, and this is in your books and now you can understand this there's your untranslated region for your five prime there's your method guanine CAP.
+1:47:28
+Andrew Ippolito: there's your poly a tail there is your poly ventilation signal which is a you a you don't have to memorize that but that's probably ventilation site and the poly tail is anywhere from 50 to 250 amino acids i'm sorry nucleotides.
+1:47:43
+Andrew Ippolito: So it's got a variable length. Andrew Ippolito: You can imagine the longer it is the longer the army is going to hang around.
+1:47:53
+Okay. Andrew Ippolito: here's a schematic on splicing.
+1:47:59
+Andrew Ippolito: This stands for small.
+1:48:04
+Andrew Ippolito: You know clay or nuclear the nuclear list right inside the nucleus small nuclear solar.
+1:48:11
+Andrew Ippolito: rainbow new Clio, in other words. Andrew Ippolito: A molecule it's made out of both proteins and RNA Robin nuclear protein.
+1:48:25
+Andrew Ippolito: I should say that rainbow new Clio. Andrew Ippolito: RNA plus proteins or rainbow nuclear protein so small nuclear solar rainbow nuclear protein.
+1:48:38
+Andrew Ippolito: Okay, and our NP is the generic fruits RNA.
+1:48:44
+Andrew Ippolito: arrival nuclear protein. Andrew Ippolito: is a complex of RNA protein, so the rhizome is an example of one.
+1:48:53
+Andrew Ippolito: And the splices i'm as an example of one. Andrew Ippolito: So these are new things to you you've learned about proteins you've learned about nucleic acids you've learned about lipids you learn about sugars, and now you learned about Robin nuclear pretty.
+1:49:08
+Andrew Ippolito: Okay, so it's like it's like a clinical protein, but instead of the sugar being the other part of the team it's the nucleic acid, in particular the RNA.
+1:49:19
+Andrew Ippolito: Okay, and so you can see here that the spices Ohm is made out of small nuclear the nuclear proteins.
+1:49:29
+Andrew Ippolito: You don't have to worry about loud. Andrew Ippolito: Okay. Andrew Ippolito: Any questions on that.
+1:49:42
+Andrew Ippolito: This is from your book, you can see more carefully now those are those boundary elements I told you about earlier, the electronics on boundaries are recognized by these small rnas within the splices.
+1:49:59
+Okay. Andrew Ippolito: And this cutting occurs, not from enzyme activity, but from right beside my activity.
+1:50:13
+it's pretty amazing.
+1:50:18
+Okay next slide here. Andrew Ippolito: You there This just shows you the.
+1:50:28
+Andrew Ippolito: The pre Mr me versus the mature are so easy pre Mr your book cause a pre army I call it the primary transcript the book cause of the pre Mr.
+1:50:37
+Andrew Ippolito: The numbers just tell you about how long everything is again we're talking about plus one being the a huge start site.
+1:50:45
+Andrew Ippolito: Okay, so you can see here, Exxon one is about 30 amino acids are 30 base pairs long.
+1:50:53
+Andrew Ippolito: Okay, and then there's an electron and there's another axon between 31 or mono for So do you see these numbers these numbers are all basically bookmarks or page numbers okay they're the base their their the base number from the first.
+1:51:09
+Andrew Ippolito: So you can see here this transcript is 146 pieces long alexa.
+1:51:15
+Alexa Deprisco: So where between like where that little dashed line is and the five path and then at the end where the little dashed line is in the pilot eight tail So those are That was the poly a dental lesion signal and the five.
+1:51:26
+Andrew Ippolito: minute you are that. Alexa Deprisco: are not translated. Alexa Deprisco: Correct. Andrew Ippolito: This dotted line represents the startup translation and this represents the end of it and so everything past this as you tr.
+1:51:39
+Andrew Ippolito: And everything past this as you tr. Andrew Ippolito: And, actually, you can see right here, there you go this this right this little read this, or rather this box right here there's your.
+1:51:51
+Andrew Ippolito: there's your three pregnant to. Alexa Deprisco: go down into the Mr na yes.
+1:51:57
+Andrew Ippolito: It was no no. Andrew Ippolito: This this whole thing is Mr Nick. Andrew Ippolito: Okay, so this, this is the pre Mr RNA and then this is the mature Mr day.
+1:52:08
+Andrew Ippolito: Okay, the book says so, this just says Mr RNA, and this is pre Mr so you could also make the argument that it's not technically Mr nay until it's ready to actually get translated.
+1:52:25
+Andrew Ippolito: I like the idea of calling it the primary transcript hot off the press and then you got to do stuff to it and then it's mature okay.
+1:52:34
+Andrew Ippolito: And one more thing, so the. Alexa Deprisco: spark code on are still in that. Andrew Ippolito: Absolutely there right right here is a huge g.
+1:52:43
+Andrew Ippolito: And right there is you GA or one of the other day.
+1:52:49
+Andrew Ippolito: You got it.
+1:52:55
+Andrew Ippolito: I just mentioned wrap his arms.
+1:53:02
+Andrew Ippolito: rob is is kind of broke people's brains, a little bit because up to this point, we assume that proteins were the only things that catalyzed chemical reactions and ourselves.
+1:53:12
+Andrew Ippolito: It turns out that there are also already here here's the thought, how you organize your brains ideas right, you have in chemistry right we have something called a catalyst.
+1:53:25
+Andrew Ippolito: right they speed up chemical reactions without getting used up in the process in biology.
+1:53:31
+Andrew Ippolito: We have catalysts made out of proteins, which we call enzymes.
+1:53:38
+Andrew Ippolito: And we have catalysts made out of RNA called right beside.
+1:53:45
+Andrew Ippolito: Your book kind of does you a disservice by saying that right designs. Andrew Ippolito: act like enzymes.
+1:53:54
+Andrew Ippolito: kind of suggests that enzymes kind of trump drivers i'm somehow when, in reality, you would say right designs like enzymes are catalysts.
+1:54:02
+Andrew Ippolito: There they're both So these are biological catalysts a biological catalyst me out of protein is called an enzyme a biological catalyst made out of r&d is called the brightness on DNA does not do this.
+1:54:16
+Andrew Ippolito: Yet i'm sure somebody will discover it does something, but as far as we know, DNA does not catalyze chemical reactions only RNA count.
+1:54:29
+Okay.
+1:54:40
+Andrew Ippolito: Any other questions. Andrew Ippolito: Are you guys still okay.
+1:54:47
+Andrew Ippolito: Well, I wanted to get through transcription before taking a break, where I think we're almost there.
+1:54:53
+Andrew Ippolito: Right here's a little thinking question right, so why do we have both. Andrew Ippolito: Why do we have Dr designs and enzymes.
+1:55:02
+Andrew Ippolito: Why would I saw both. Andrew Ippolito: what's your answer.
+1:55:12
+Andrew Ippolito: Think of evolution.
+1:55:29
+Andrew Ippolito: nobody's got a thought. Andrew Ippolito: hold on a SEC.
+1:55:43
+Andrew Ippolito: So the first cells on earth were probably filled with RNA RNA did everything.
+1:55:50
+Andrew Ippolito: RNA stored information in a sequence specific manner, so they were genes and RNA catalyzed chemical reactions, so they did the work of the cell and they store the information of the cell.
+1:56:02
+Andrew Ippolito: As evolution went on DNA eventually emerged, and so the way I like to think of it here's here's my quick story of it rnas entrepreneur.
+1:56:13
+Andrew Ippolito: You know, when you first start a business, you have to wear all the hats, you have to be the accountant and the marketer and the creator and you have to go out and talk to customers, you have to build this thing right you got to do everything, and nobody can do all those things.
+1:56:25
+Andrew Ippolito: At the level of excellence, you need to run a successful company right that's how you start the company once you get going, you start hiring people you hire specialists, you need an account manager money.
+1:56:36
+Andrew Ippolito: You need a marketing person to go on and get sales, you need some you know people in the factory to manufacture stuff right while you're in the background you've got your hands and everything.
+1:56:47
+Andrew Ippolito: Right think of the CEO of the box around and kind of visits every department and and knows enough to be dangerous and ask the right questions right that's a successful manager somebody that understands enough of what your job is where they can talk to you intelligently about.
+1:57:01
+Andrew Ippolito: Okay that's RNA so RNA can store a little information aren't it can catalyze and chemical reactions, but it delegated the task of storage to DNA and a delegated the work of the cell to the protein.
+1:57:13
+Andrew Ippolito: But it always stayed there in the background and it's got his hands and everything that's why RNA is kind of a molecule can't quite wrap your head around.
+1:57:22
+Andrew Ippolito: Because it does it all and it's a mess.
+1:57:27
+Andrew Ippolito: Okay, all right.
+1:57:32
+Andrew Ippolito: All right. Andrew Ippolito: here's the last concept. Andrew Ippolito: i've introduced the idea before to you have protein domains alright consider a protein let's just consider a hypothetical protein that here here's DNA.
+1:57:49
+Andrew Ippolito: let's consider a positive transcription factor like. Andrew Ippolito: so easy to F has a region on the protein.
+1:57:58
+Andrew Ippolito: That is a DNA. Andrew Ippolito: Binding domain.
+1:58:06
+OK. Andrew Ippolito: And then so let's say that that DNA bonnie domain has some alpha helix uses a beta sheets of whatever.
+1:58:13
+let's.
+1:58:18
+let's do this.
+1:58:24
+Andrew Ippolito: So there's a pair is called a helix loop helix this is beautiful little motif that sticks to the groove of DNA like a pair of scissors.
+1:58:31
+Andrew Ippolito: Like where's my DNA. Andrew Ippolito: Right, so you got the groove of DNA imagine a pair of scissors that can slide right into the group, like that okay so that's what that is.
+1:58:43
+Andrew Ippolito: we'll call that a DNA body to me, and then, as it goes on over here let's say there's another there's a little data sheet and maybe another helix like this, and so we're going to call this the activation domain.
+1:59:00
+Andrew Ippolito: And the activation domain is what say bind to some protein like RNA polymerase.
+1:59:10
+Andrew Ippolito: This making sense. Andrew Ippolito: Okay, so proteins, you can see, so this protein right here, right if I was to just grab it now let's see if I can.
+1:59:25
+Andrew Ippolito: write this protein right here perfect alright, so, in reality, right that's.
+1:59:32
+Andrew Ippolito: it's one proteins one continuous poly peptide chain. Andrew Ippolito: But there's two regions of it that do different things functionally so that's what a domain is a domain is this functionally relevant part of a protein.
+1:59:47
+Andrew Ippolito: Press I want you to be familiar with this concept of a protein. Okay.
+1:59:53
+Andrew Ippolito: Now here's where things get really awesome when you look at a gene.
+1:59:58
+Andrew Ippolito: list so this hypothetical gene that I just made here's Exxon one.
+2:00:05
+And here's Exxon do. Andrew Ippolito: You see, where i'm going with this now.
+2:00:12
+Andrew Ippolito: Okay, this Exxon all by itself. Andrew Ippolito: will give us that DNA binding domain.
+2:00:21
+Andrew Ippolito: This axon all by itself will give us that trans activation domain.
+2:00:28
+Andrew Ippolito: So, in other words, these are like legal building blocks. Andrew Ippolito: Imagine taking an axon from one gene that binds the DNA and mixing it with a part of another gene that does something different.
+2:00:43
+Andrew Ippolito: Okay, so these right here are the Lego building blocks of evolution.
+2:00:49
+Andrew Ippolito: that's the way to think. Okay.
+2:00:56
+Andrew Ippolito: So imagine for the same protein imagine that I had the splices i'm working on it.
+2:01:04
+Andrew Ippolito: Right so here i'm just going by what I did it all up there, so there's there's three this is in tron one say let's make the tron yellow right so there's no wrong one.
+2:01:20
+Andrew Ippolito: Okay, now, when I spice that out normally right, you would get you would get this right.
+2:01:28
+Andrew Ippolito: But what if I spliced it where I ignored.
+2:01:33
+Andrew Ippolito: let's see if I, so I I spliced it here, but then I ignored.
+2:01:40
+Andrew Ippolito: I ignored this spice site.
+2:01:45
+Andrew Ippolito: I just ignored it then the loop would look like this.
+2:01:53
+Andrew Ippolito: And what's here just for argument's sake let's see there's another bunch of there's another axon over there, so I can do this.
+2:02:00
+Andrew Ippolito: Okay, so here here's one here's Exxon to and here's Exxon, and so here's another.
+2:02:12
+Andrew Ippolito: Okay.
+2:02:21
+So there's that.
+2:02:26
+Andrew Ippolito: There we go Okay, so, in other words. Andrew Ippolito: When I spliced this I ignored Exxon too.
+2:02:37
+Andrew Ippolito: So my amateur transcript now is only going to have X on one in three.
+2:02:45
+Andrew Ippolito: Okay, so this is called alternative splicing.
+2:02:56
+Andrew Ippolito: And this is how you can go from one gene encoding information to make several.
+2:03:03
+Andrew Ippolito: poly peptides. Andrew Ippolito: So the one gene one poly peptide model isn't true either.
+2:03:16
+Andrew Ippolito: Okay, so here i'll give you a simpler another schematic of this so here's the gene.
+2:03:22
+Andrew Ippolito: And here are the exxon's.
+2:03:29
+Andrew Ippolito: Okay let's say this gene has seven excellence, so you can imagine a transcript that has just Exxon was just making things simpler just X on one.
+2:03:40
+Andrew Ippolito: or axon one and two or one, two and three. Andrew Ippolito: etc, etc, or mix and match them imagine, I had 1246 and seven or 1234 by itself or one and seven by itself okay just just pick you know pick where you're going to splice.
+2:04:05
+Andrew Ippolito: And you get you can get a whole family of proteins now from one gene, and so this family of proteins is called a family of ISO forums.
+2:04:24
+Andrew Ippolito: And we usually named them with Roman numerals so, for example, there's a protein called P amp L and there are seven nice of forums named P amp l one 2pm seven.
+2:04:38
+Andrew Ippolito: And they all have slightly different functions.
+2:04:43
+Andrew Ippolito: Okay. Andrew Ippolito: raise your hand that made sense.
+2:04:50
+Andrew Ippolito: Okay sort of so Alexis asked me a question.
+2:04:55
+Alexis Micewski: For each of those proteins they're each different don't mean. Alexis Micewski: yeah.
+2:05:01
+Andrew Ippolito: there's different that yeah that's a good way of thinking of it. Andrew Ippolito: There they have different domains so, for example, maybe P amp l one includes the DNA binding domain, but P amp l three doesn't and so P amp l three.
+2:05:13
+Andrew Ippolito: Because it doesn't ever seen a binding domain, but it has everything else right it's going to still bind to RNA polymerase and now it's a question, so it acts as a negative regulator.
+2:05:24
+Andrew Ippolito: Okay, and you can start you're starting to see the cracks and to how insanely complicated things get.
+2:05:33
+Andrew Ippolito: them are still not anywhere near the actual level of complexity.
+2:05:39
+Andrew Ippolito: Okay, but which is why I have to keep telling you guys were the level, I want you to know right, so all understand alternative splicing understand splicing understand protein domains okay.
+2:05:51
+Andrew Ippolito: And you're starting to now become proficient in molecular biology that's what all this is this is molecular biology.
+2:06:00
+Okay. Andrew Ippolito: Alright cool. cool cool.
+2:06:06
+Andrew Ippolito: So this is where we're going to stop for our break. Andrew Ippolito: The idea is called axon shuffling this I just learned this later in life, myself and this blew my mind you guys remember crossing over.
+2:06:18
+Andrew Ippolito: Number crossing over a mental Ray you can see, you can get your recombinant and all that, so I wanted to now take everything you already learned, but instead of talking about are considering different genes.
+2:06:30
+Andrew Ippolito: I want you to think of a gene with three different excellence three different domains A, B and C.
+2:06:37
+Andrew Ippolito: Okay, so on this on this slide here right, you can see, so the blue one represents, you know, whatever you got from mom and aren't would be whatever you got from dad.
+2:06:48
+Andrew Ippolito: Right so there's your your genome type capital a capital B capital a lowercase etc, but these instead of these numbers or letters, corresponding to jeans they're different excellence.
+2:06:57
+Andrew Ippolito: Right so capital he gives us a circle capital B gives us a square capital C gives us a star, and so the protein is going to look like this.
+2:07:06
+Andrew Ippolito: Okay, the lowercase a version gives us the heart the lowercase B gives us a triangle and lowercase C gives us this six sided star son, and so the so these proteins look completely different from each other right.
+2:07:20
+Andrew Ippolito: So imagine crossing over occurred here imagine crossing over did this.
+2:07:27
+Andrew Ippolito: So now we get capital a capital be lowercase C and we get lowercase a lowercase B capital C we get completely different proteins now.
+2:07:40
+Andrew Ippolito: Okay, this would be like taking your kids toys and popping the heads off of one and putting it on another and taking the gun from that army guy and giving it to this guy or taking you know, putting this shirt on this doll or whatever we're mixing and matching parts to make new things.
+2:07:59
+Andrew Ippolito: that's called axon shuffling and that's, the real reason my interests are so long to is to make sure that crossing over can occur between now.
+2:08:09
+Andrew Ippolito: that's another reason I should say. Okay.
+2:08:17
+Andrew Ippolito: All right, let's take a 10 minute break cleanser brains, because I know this is a lot of information and it's getting you're getting hit with it fast, but that's.
+2:08:29
+Andrew Ippolito: Right really have any control over this. Taylor Campbell: You know how many more chapters, there are that we need to learn.
+2:08:35
+Andrew Ippolito: So this. Andrew Ippolito: Is um this is 17. Taylor Campbell: So there's 18.
+2:08:41
+Andrew Ippolito: Okay, and then just parts of 2020 biotech we're skipping 19 that's viruses Okay, and then this chapter here.
+2:08:51
+Andrew Ippolito: 17 and 18 is just jeans right so gene expression and gene regulation and so all of them are it's all interconnected.
+2:09:00
+Andrew Ippolito: right if I was to write a book I would probably put those in the same chapter and have two chunks right regular expression and regulation so it's not as much as you think to get to the test right now.
+2:09:13
+Andrew Ippolito: Okay. Taylor Campbell: Yes. Andrew Ippolito: yeah in focus, remember, we got the study guides what those be your beacon to.
+2:09:21
+Andrew Ippolito: guide your way in the study all right let's take a 10 minute break and i'll see you guys.
+2:20:27
+Andrew Ippolito: Alright i'm back.
+2:20:52
+Victoria Bloemker: Sam i'm like the next one coming up what chapters is it.
+2:20:59
+Andrew Ippolito: broke up touring again. Victoria Bloemker: i'm are the chapters for this exam coming up it's a chapter.
+2:21:08
+Victoria Bloemker: Chapter 115 to 18 right. um.
+2:21:17
+Andrew Ippolito: No 1616 is DNA. Andrew Ippolito: 1617 1820.
+2:21:26
+Victoria Bloemker: Oh.
+2:21:33
+Andrew Ippolito: Okay. Andrew Ippolito: So. rest of this stuff we can skip here.
+2:21:41
+Andrew Ippolito: here's here's your. Andrew Ippolito: RNA splicing you can see the.
+2:21:46
+Andrew Ippolito: Different domains right same idea there. Andrew Ippolito: So the number of genes, we have.
+2:21:58
+Andrew Ippolito: So when we talk about all our genes, we talk about our genome right.
+2:22:04
+Andrew Ippolito: So there's our genome and then jeans make proteins right.
+2:22:09
+Andrew Ippolito: And so we have what's called the proteome.
+2:22:15
+Andrew Ippolito: So the human proteome is way bigger than the human genome, we don't even know how big it is.
+2:22:23
+Andrew Ippolito: there's estimates that's all we can do.
+2:22:31
+Andrew Ippolito: i've already explained, all this new combinations of domains, give us new proteins and possibly new new functionalities right.
+2:22:43
+Andrew Ippolito: Alright translation up, I have a question for you guys when I when I said earlier, you want to do PowerPoint or do you want to do whiteboard and, most of us can do the PowerPoint.
+2:22:51
+Andrew Ippolito: Is there something I can do better in the whiteboard to make that better because in the past i've had students want to use the whiteboard mark, so I seen that shift i'm just curious to know what your thoughts are.
+2:23:03
+Andrew Ippolito: By one's better than the other. April Neeld: Well, I like PowerPoint because I feel like it's a little more organized and it like when you do a whiteboard you kind of jumbled around but.
+2:23:14
+Andrew Ippolito: yeah that's what I was thinking. Andrew Ippolito: Okay, so. Andrew Ippolito: I that's usually a sign of me being tired when I do that so that's probably what's going on there.
+2:23:26
+Andrew Ippolito: So let's do let's do this combination we're gonna do translation now so we're gonna go i'm gonna go back and forth and i'll try to stay organized here.
+2:23:36
+Alright, so translation.
+2:23:43
+Andrew Ippolito: key players right we got the ribosome.
+2:23:53
+Andrew Ippolito: The writers, the ribosome consists of the small sub unit.
+2:24:02
+Andrew Ippolito: The large subunit. Andrew Ippolito: So you can look at the small subunit kind of looks like a boat large sub you know it looks kind of like.
+2:24:15
+Andrew Ippolito: Half hemisphere and really you can think of it collectively as if you've ever watched South park.
+2:24:23
+Andrew Ippolito: You know Terrence and fill up the way they draw Canadians disembodied head.
+2:24:31
+Andrew Ippolito: And you can see that the large Sabine of the rhizome has three grooves in it.
+2:24:38
+Andrew Ippolito: And those grooves are the site, the site and the a site, you could think of the Environmental Protection Agency EPA the EPA he stands for exit.
+2:24:52
+Andrew Ippolito: P stands for. Andrew Ippolito: poly pep title.
+2:25:00
+Andrew Ippolito: And a stands for new so it depends on who's talking and what book you're reading, but you can think of a as the amino acl.
+2:25:11
+Andrew Ippolito: site, or you could think of it as the acceptor site.
+2:25:23
+Andrew Ippolito: Because that's the.
+2:25:28
+Andrew Ippolito: key player what key player to is your Mr name.
+2:25:33
+You can call it the mature transcript if you want.
+2:25:42
+Andrew Ippolito: key player three we have our let's call my arm, you know is your tiara knees.
+2:26:00
+And then lastly we're going to have something called the release factor.
+2:26:11
+Okay. Andrew Ippolito: So those are key players, the rhizome the RNA the trs and this thing called the release factor that's going to end the game when we're done with it.
+2:26:39
+Okay, give me one second guys have to respond to something.
+2:26:44
+Andrew Ippolito: So you keep. Andrew Ippolito: Keep writing that down.
+2:27:30
+alright.
+2:27:36
+Andrew Ippolito: we're back to that again so anyway, there we go okay any questions yet.
+2:27:43
+Andrew Ippolito: feel free to interrupt me as i'm explaining this with your questions okay.
+2:27:49
+Andrew Ippolito: All right, so translation steps. Andrew Ippolito: Step number one initiation.
+2:28:01
+Andrew Ippolito: initiation begins.
+2:28:06
+Andrew Ippolito: When we have, I want to draw straight lines here.
+2:28:22
+Andrew Ippolito: And here we're gonna have a huge site.
+2:28:31
+Andrew Ippolito: Unless say that the second code on here let's call that CCC.
+2:28:37
+Andrew Ippolito: A third one here will be je je je.
+2:28:44
+Andrew Ippolito: And the fourth one here will be. A CG.
+2:28:51
+Okay.
+2:28:57
+Andrew Ippolito: We have our five prime new tr.
+2:29:03
+Andrew Ippolito: number five product CAP. alright.
+2:29:09
+i'm gonna take this whole thing and copy. This again a couple times.
+2:29:23
+Andrew Ippolito: Alright initiation, the first thing that happens. Andrew Ippolito: Is the small.
+2:29:29
+Andrew Ippolito: Sub unit. Andrew Ippolito: binds.
+2:29:36
+Andrew Ippolito: To the five product nudity or.
+2:29:43
+Right, so you can embrace it so it looks like this.
+2:29:52
+My you is. purple.
+2:30:02
+Andrew Ippolito: Okay, so there's our there's they're small rob is a muscle. Andrew Ippolito: And so you can picture this.
+2:30:09
+Andrew Ippolito: is able to slide a longer. Andrew Ippolito: Okay, so we're gonna we're gonna bind it here it's gonna slide along until the ag is kind of smack in the middle, like that.
+2:30:26
+Andrew Ippolito: The next thing that happens. Andrew Ippolito: Is the initiator tra and is she tour.
+2:30:36
+Andrew Ippolito: T RNA. Andrew Ippolito: finds the start site.
+2:30:42
+Andrew Ippolito: Or the start kota. Andrew Ippolito: Okay, so we can let's use a kind of a future here.
+2:30:53
+Alright So here we go.
+2:30:58
+Andrew Ippolito: And, of course, this is going to have the anti code on your not whatever you AC.
+2:31:06
+Andrew Ippolito: And it's going to have on it, the my signing that amino acid.
+2:31:14
+Okay. Andrew Ippolito: And then the very last thing that happens number three.
+2:31:21
+Andrew Ippolito: Is the large Sabina bye.
+2:31:36
+Andrew Ippolito: And here, let me. Andrew Ippolito: draw these in a way that i'm just gonna i'm just redrawing it you don't have to you're not doing anything wrong, but I want to make this internally consistent here.
+2:31:55
+Okay. There we go.
+2:32:02
+Andrew Ippolito: And then so here's the large.
+2:32:11
+Andrew Ippolito: And again remember there's an East site puppy site and a site.
+2:32:16
+Andrew Ippolito: So we can even color code those is kind of like red.
+2:32:22
+yellow.
+2:32:33
+Andrew Ippolito: Okay, so do you see how the initiator to RNA is in the peace site there.
+2:32:39
+Andrew Ippolito: At all times the peace site is going to be the keeper of the poly peptide that's why I got the piece site.
+2:32:45
+Andrew Ippolito: So that's it that's initiation.
+2:32:57
+elongation. Andrew Ippolito: i'm not gonna write this i'm just going to show it to you we're going to take this whole life isn't me, let me see if I can do this better pull out.
+2:33:10
+I can pull this apart.
+2:33:38
+didn't mean to grab the.
+2:33:53
+colors make it easier.
+2:34:14
+Andrew Ippolito: Alright, so we're gonna take this rhizome okay So you see, I can slide it along so i'm going to move it.
+2:34:21
+Andrew Ippolito: From.
+2:34:36
+Andrew Ippolito: So watch this, I want to take the rhizome itself.
+2:34:43
+Andrew Ippolito: Okay, so right there see the Jesus in the middle right you see that i'm going to move the ribosome one code on downstream.
+2:34:52
+Andrew Ippolito: Okay, but see the tra here the tna was sticking by hydrogen bonds.
+2:34:58
+Andrew Ippolito: To that star code on right, this is a, this is a hydrogen bonding so the TRT didn't move the ribosome did okay imagine standing in front of a train that's coming onto the platform you're standing still on the trains moving and the doors open in front of you.
+2:35:15
+Andrew Ippolito: And there's too many people there, and so, what do you do you wait for the train to slow down a little bit to move down a little bit more, and then the next day doors opens OK, so the tiara is not moving the rhizomes movie.
+2:35:28
+Okay. Andrew Ippolito: And so the nestle so right now that RNA is sitting in the site right that's the site that.
+2:35:43
+Andrew Ippolito: The whole. Andrew Ippolito: It didn't move yet i'm sorry guys yeah and you guys are very focused and copying all this down and I just realized.
+2:35:55
+Andrew Ippolito: Before we do the moment here. Andrew Ippolito: Okay, so before we do the movement here let's let's put this back here Okay, so the sites there.
+2:36:08
+Andrew Ippolito: And Okay, so we haven't moved, yet we haven't launched yet so right now that that initial tra is sitting in the piece is still okay nothing's moved.
+2:36:19
+Andrew Ippolito: Before the rhizomes another T RNA comes in.
+2:36:26
+Andrew Ippolito: And this tra comes along with its amino acid.
+2:36:32
+Andrew Ippolito: And this is in the ACI. Okay, so there's the EPA right.
+2:36:38
+Andrew Ippolito: So you see how the two to your needs are sitting right next to each other ones in the peace site and once in a site OK.
+2:36:46
+Andrew Ippolito: Now. Andrew Ippolito: The rhizome is going to move.
+2:36:56
+Andrew Ippolito: One coat on. Andrew Ippolito: And while it does, that it is going to transfer.
+2:37:05
+Andrew Ippolito: This amino acid on to that amino acid it's going to catalyze the peptide bond.
+2:37:11
+Andrew Ippolito: So that we can literally just take this little blue or green dot and put it here like that, you see, I transferred it over there.
+2:37:22
+Andrew Ippolito: So at this moment in time, do you notice how the tr Nina sitting in the exit site is now empty.
+2:37:29
+Andrew Ippolito: Right it's like a bullet with a good just it's the empty shell. Andrew Ippolito: Because it's an exit site what happens is this mtt RNA leaves.
+2:37:41
+It exit stage left. Andrew Ippolito: In the meantime notice that this to RNA is now the keeper of the growing poly peptide there's the piece.
+2:37:51
+Andrew Ippolito: Okay, this would be like use us wearing a hat let's say you're wearing a hat somebody else comes along with a hat and put the hat on top of you.
+2:37:59
+Andrew Ippolito: Okay, and so now you're wearing two hats and somebody else comes along with a hat and you take your two hats you take them both off and put them on the other person.
+2:38:08
+Andrew Ippolito: And then you leave and then another person with a hat comes along and the person with the three hats takes all three of their Hats off and puts it on the other person right, so the idea is you're not just adding one, at a time you're literally moving the whole chain.
+2:38:22
+Andrew Ippolito: Okay. Andrew Ippolito: And so now do you notice that the a site is free.
+2:38:27
+Andrew Ippolito: So the next era comes in here.
+2:38:33
+Andrew Ippolito: And we just keep doing this. Andrew Ippolito: Okay, any questions at this point.
+2:38:41
+Andrew Ippolito: Where did the tiara they come from. There floating around.
+2:38:46
+Andrew Ippolito: And the only ones that stick for any length of time, are the ones that have the proper base pair.
+2:38:52
+Andrew Ippolito: They have the right anti code on so they can linger because they can stick like velcro.
+2:38:57
+Alexa Deprisco: So they're just like kind of exist within this region, but like with the correct piece pairings or not.
+2:39:06
+Andrew Ippolito: yeah they'll bump like let's say that they call the tyranny is are there right, so the ones that don't have the right anti code on they come in and and bump around but they don't stick.
+2:39:14
+Andrew Ippolito: And it happens it thousands of times per second because we're at the molecular level everything's moving super fast, so the only thing that it sticks, there is the one that has the right specificity.
+2:39:25
+Andrew Ippolito: And then, when they exit this complex did they lose this base parents.
+2:39:30
+Andrew Ippolito: Saying alexa. Alexa Deprisco: When they exit this complex, are they going to lose those base pairs of the came in with.
+2:39:36
+Andrew Ippolito: No, no, no, so. Andrew Ippolito: Those base pairs are integral to their composition let's go to the slide for a second let's look it up.
+2:39:44
+Andrew Ippolito: let's see if there's a cartoony version of your name, are you okay here's try here's the player. Andrew Ippolito: Alright, so the sequence of tna looks like this in two dimensions right it forms these to the business two dimensional structure, there are these this base pairing that occurs looks kind of like a three leaf clover.
+2:39:59
+Andrew Ippolito: Right and then what we do is we take that 3D and then we kind of fold it up into really it looks like a gun like a rake gun it's got like you can pick your hand here holding it and it shoots that way, and then over here, where the bullet comes out would be where the amino acids.
+2:40:14
+Andrew Ippolito: And down here so anti code ah So you see how the anti code on is is integral to it doesn't lose its anti code on it stops sticking.
+2:40:23
+Andrew Ippolito: I think that's maybe what you were talking about here, so this T RNA here leaves.
+2:40:30
+Andrew Ippolito: Right this falls off the base pair of the riders on kicks it out okay. Andrew Ippolito: Right other questions.
+2:40:38
+Victoria Bloemker: I have a quick one so every time another amino acid is there and it down by a code.
+2:40:47
+Andrew Ippolito: Every time the amino acid. Victoria Bloemker: like an amino acid is added it moves down by a code.
+2:40:54
+Andrew Ippolito: yeah yeah so basically once the T RNA hands it's probably hands it to amino acid to the next one, the ribosome shifts off, so that they can leave and the new one can come in.
+2:41:06
+Andrew Ippolito: Okay. Andrew Ippolito: And so we keep doing this again and again and again, and eventually the right, so the ribosome keeps moving this way.
+2:41:17
+Andrew Ippolito: The tr nice keep coming in with their amino acids and over time we get this poly peptide that emerges, and then it starts to fall into is alpha helix is in beta sheets and all that, until we come to ogre the STOP quarter.
+2:41:37
+Andrew Ippolito: Okay, when the rhizome hits the stock code on and the rhizome is sitting with the a site and let's start so that, let me say that differently when the stock code on is in the a site.
+2:41:47
+Andrew Ippolito: Right, so when we have. Andrew Ippolito: This thing is here.
+2:41:54
+Andrew Ippolito: When the right business. Andrew Ippolito: Has the a site occupied by ogre by the stuff code on.
+2:42:03
+Andrew Ippolito: There is no try instead there is a protein.
+2:42:10
+Andrew Ippolito: I don't like red let's use a lighter color you can see better let's use yellow there's a protein that binds here, called the release factor.
+2:42:21
+Andrew Ippolito: The release factor binds and it causes dissociation on the entire complex.
+2:42:26
+Andrew Ippolito: The basically breaks the ribosome apart and it POPs the poly peptide off.
+2:42:40
+Andrew Ippolito: That makes sense.
+2:42:48
+I hope.
+2:43:00
+Andrew Ippolito: let's look at. me now.
+2:43:13
+Andrew Ippolito: First, think I have to delete that the first link doesn't work anymore, because it's a flash animation fact doesn't work anymore.
+2:43:22
+Andrew Ippolito: I mean they're just how on anymore. Andrew Ippolito: These old websites.
+2:43:29
+Andrew Ippolito: didn't update a lot, I know this exists somewhere. Andrew Ippolito: So i'm a translation.
+2:43:39
+let's see if there's a migrated.
+2:43:48
+No, not that. Andrew Ippolito: The ones from the textbook drive me insane there there, here we go be SEC.
+2:44:00
+flash animation.
+2:44:10
+Andrew Ippolito: Because, then, if you use flash anymore why I thought that you could still use flash and something.
+2:44:18
+that's really frustrating. Alexa Deprisco: niche. Alexa Deprisco: Down flash player like dance version of it.
+2:44:25
+Andrew Ippolito: Which is a. Alexa Deprisco: Nice shut down flash player like this past December.
+2:44:30
+Andrew Ippolito: yeah I forgot they did this. Andrew Ippolito: Virtual cel animation collection oh that's nice yeah all right, whatever.
+2:44:41
+Andrew Ippolito: Oh. Andrew Ippolito: There it is. Andrew Ippolito: hold on you must be on YouTube somewhere.
+2:44:53
+Oh.
+2:44:58
+Andrew Ippolito: yeah there it is okay, this is the original video that I wanted to show you let me share my screen here.
+2:45:08
+Andrew Ippolito: Okay, can you see the screen Oh, let me share the screen the video sound to.
+2:45:17
+music.
+2:45:33
+translation is the synthesis of a protein from an American a template this process involves several key molecules, including Mr RNA the small and large subunits in the right zone to RNA.
+2:45:47
+And finally, the release factor. The process is broken into three stages initiation elongation and termination.
+2:45:58
+let's see the process in action. eukaryotic Mr RNA the substrate for translation.
+2:46:06
+has a unique three prime end called the poly tail.
+2:46:15
+Mr RNA also contains code ons that will encode for specific amino acids.
+2:46:22
+A method CAP is found at the five prime end translation initiation begins when the small subunit of the rhizome attaches to the CAP and moves to the translation initiation site.
+2:46:37
+To RNA is another key molecule.
+2:46:42
+It contains an Anti code on that is complimentary to the RNA code on to which it binds the first Mr in a code on is typically a yuji.
+2:46:53
+attached to the end of the tna is the corresponding amino acid Matthias corresponds to the AU G code on.
+2:47:04
+Andrew Ippolito: The large subunit of the rhizome now binds to create the PEPPER do or P site and the amino a CEO or a site alright, so they call it the videos site doesn't really matter the ideas is the piece site keeps the poly peptide.
+2:47:20
+Andrew Ippolito: You guys following us stills as making sense.
+2:47:27
+Andrew Ippolito: The first TEE RNA occupies the p site, the second tra enters the a site and is complimentary to the second Mr an a code on bother to absorb this year so here's your start code on.
+2:47:38
+Andrew Ippolito: here's The anti code on here's your initiator tra there is i'm assigning alright so right here's the key go see my mouse make sure it can.
+2:47:47
+Andrew Ippolito: So that's that's the piece site all right, the a site here you you a here's a second amino acid and so what's got is basically these two teams are shaped like there's like there's spooning like they're laying next to each other.
+2:47:59
+Andrew Ippolito: Okay, and so that the two amino acids are positioned precisely so that we can catalyze this bond right here so watch this.
+2:48:07
+Andrew Ippolito: them assigning is then transferred to the site amino acid, the first try exits the ribosome moves along the RNA and the next TRT enters okay So you see how the entire poly peptide is transferred like a bunch of hot dog linked on a string.
+2:48:26
+Andrew Ippolito: So that's the basic the basic steps of elongation and you see how the ribosome itself is moving, while the tiara nice day still.
+2:48:35
+Andrew Ippolito: they're staying so because of the hydrogen bonding as elongation continues the growing peptide is continually transferred to the a site tra the right moves along the Mr rene a new trn as enter.
+2:48:52
+Andrew Ippolito: When I stopped code on his encountered in the a site a release factor enters the a site and translation is terminated when termination is reached, the right resumed associates, and the newly formed protein is released that's right so 100% of proteins are made this way.
+2:49:12
+Andrew Ippolito: Now you can go back to your cell biology chapter and remember rhizomes insert themselves into the rough er rhizomes are found in the cytoplasm floating around or rhizomes are in the mitochondria.
+2:49:25
+Andrew Ippolito: You also remember that there's ripe isms that prokaryotes have that are smaller than the rhizomes that you carry yourself and the ones that are the ones that are mitochondria are the smaller ones right, so our mitochondrial rivals and look, just like bacteria right.
+2:49:41
+Okay. All right.
+2:49:48
+Andrew Ippolito: So it's one o'clock, let me just kid just want to wrap this up now, since we're at one o'clock here alright so let's see that's it anything so we I taught you all this already you can just review these slides now.
+2:50:05
+Andrew Ippolito: yeah we talked about this is all really I throw these slides in here just for your own study after we reviewed all that.
+2:50:23
+Andrew Ippolito: Okay, so the very last thing i'll say at the end of this is that once a protein is manufactured wants to probably peptide is manufactured that's not that's the beginning of it story.
+2:50:33
+Andrew Ippolito: Alright, so there's a whole world called post translational right after translation post translational modification.
+2:50:40
+Andrew Ippolito: You guys have already learned one phosphorylation remember some proteins are phosphor ELISE right remember G protein couple of receptors remember that.
+2:50:49
+Andrew Ippolito: are a dental Cyclades or G proteins and remember that idea phosphor leading a protein to activate it so that phosphorylation event is considered a post translational modification.
+2:51:01
+Andrew Ippolito: Okay, other proteins will need to be cut up to be activated so, for example, some enzymes are synthesized, but there are dormant until you cut a piece of them off to activate them.
+2:51:12
+Okay. Andrew Ippolito: All right, and so, at the end of the day, we can now say what a genius.
+2:51:19
+Andrew Ippolito: What a mutation is right, we used to say that a mutation was something that changed a phenotype we can now say it's a change in the sequence of a gene.
+2:51:28
+Andrew Ippolito: what's a gene it's a sequence of DNA that makes a piece of art.
+2:51:34
+Andrew Ippolito: So that's that and one thing we're not going to cover in any great detail the Semester, because we literally just can't fit any more into the class is this notion of RNA inhibition I will mention this when we do regulation next time but we're not going to spend any time.
+2:51:51
+Andrew Ippolito: Okay, and that's that. Andrew Ippolito: This. Taylor Campbell: Chapter 17.
+2:51:57
+Andrew Ippolito: You, this is the end. Andrew Ippolito: Of 17 yes.
+2:52:03
+Andrew Ippolito: Okay, so next time we'll do chapter 18. Andrew Ippolito: And we'll i'll teach you the lock up wrong.
+2:52:12
+Andrew Ippolito: Okay, I would encourage you guys to get as far as you can on your own, we have a big gap here right so feel free to ask me questions, between now and Monday on your studying.
+2:52:24
+Andrew Ippolito: On the lock opera, even though I didn't lecture on it, yet i'm totally okay teaching you guys over the weekend, if you want, if you're sitting there reading a study on your own and you pick my brain i'm here okay.
+2:52:36
+Andrew Ippolito: put this link in the chat yeah yeah i'll definitely I can do that right now.
+2:52:42
+Andrew Ippolito: Oh here i'll put this in and zoom meeting, let me stop sharing my screen, so I can use my.
+2:52:49
+Andrew Ippolito: Computer alright let's. See.
+2:52:55
+Andrew Ippolito: There we go alright so that's the translation video.
+2:53:01
+Andrew Ippolito: There are a ton of awesome animations out there for all this stuff right now, you guys have access to stuff I could only have dreamed up when I was in your seats so you'll you'll have a much quicker better way of understanding the stuff than I ever did, which is kind of Nice i'm a little.
+2:53:20
+Andrew Ippolito: All this was when I was in this when I was in your seat all this was just picked static pictures and imagination, there was no animations at all, there were no computer anything, it was.
+2:53:34
+Andrew Ippolito: very hard to understand. Taylor Campbell: I ask a question.
+2:53:39
+No. Andrew Ippolito: yeah, of course, got. Taylor Campbell: Just about like I guess the course.
+2:53:46
+Taylor Campbell: It do you think we're like kind of stopped failing everything does do like you're like our exams and stuff.
+2:53:54
+Andrew Ippolito: So we hold on hold. Taylor Campbell: grudges or certain number of all the time. Taylor Campbell: And i'm just curious like is that something that always happens where do you think yeah.
+2:54:06
+Taylor Campbell: So this happens it's not always. Andrew Ippolito: So keep keeping my so you're approaching this from the perspective that that raw score you get is your actual grade and I after the modified.
+2:54:20
+Andrew Ippolito: That and so that's the wrong way to look at this the right way to look at this is these tests aren't perfect.
+2:54:27
+Andrew Ippolito: Because we're sitting here in zoom and we're sitting here in a pandemic and i've never done it this way before and you've never done it that way before and we're all trying to figure out how to make this all work right, so it turns out.
+2:54:41
+Andrew Ippolito: The people that have been teaching for like 20 years right people like Professor corn, she has honed her craft down to the point where she knows exactly.
+2:54:51
+Andrew Ippolito: The kinds of questions that are asked and how much time it takes and how it covers lecture, to the point where her her exams would give her a number that she still has to adjust a little bit.
+2:55:05
+Andrew Ippolito: Okay Steve gosport we talk all the time he's constantly Every teacher has a technique to process the raw outputs that students okay so for these classes, the other struggle is.
+2:55:25
+Andrew Ippolito: You guys are this broad spectrum of students right you guys aren't all 18 with a specific SAP score and applied to the College and got accepted.
+2:55:37
+Andrew Ippolito: Right, if you think about a classic freshman class at temple or drexel or wherever, all those students are kind of homogenized right they're all about the same age, they have about the same high school GPA and experience and so.
+2:55:54
+Andrew Ippolito: you're going to see a nice bell curve in that kind of situation with an agency, the average will be a C, and I mean that's you get what you said.
+2:56:01
+Andrew Ippolito: What you see, is what you get in Community colleges because it's open access and anybody can register without the need of presenting things like evidence that they have prior learning all that.
+2:56:13
+Andrew Ippolito: You know you guys have to take placement tests, but that that's about it, you get what's called a by modal distribution, so you can you can't see my screen anymore by mono distribution.
+2:56:25
+Andrew Ippolito: And statistics that by modal distribution so here's your bell curve okay by modal looks like this.
+2:56:35
+Andrew Ippolito: Basically, when you do, and I see this a lot and most tests megabytes I can see that.
+2:56:43
+Andrew Ippolito: You have people that do really good or really bad and there's very few in between. Andrew Ippolito: And so, when you have by model distributions your averages sometimes get a little skewed because those bad scores are sometimes in the 30s or 20s.
+2:56:56
+Andrew Ippolito: Right you so when you see that average whatever it is, you have to keep in mind that that average is all all equal right, so the end people who zeros on it, because they didn't take it sometimes that gets averaged and depending on how I input it so.
+2:57:15
+Andrew Ippolito: What I have to do is, I have to go in with a fine tooth comb with these tests and I have to find the questions that, for whatever reason Warren.
+2:57:26
+Andrew Ippolito: Warren faithful to assessing you, in other words that question is not a fair way of me answering the question on my head did the student learn anything.
+2:57:36
+Andrew Ippolito: Right that's that's what tests are their assessments and assessment is did the students learn the outcome of the class or the outcome of whatever the lectures so.
+2:57:46
+Andrew Ippolito: No way of grading is perfect alright, so one on the way to do this is give you a bunch of multiple choice, and then a bunch of short answers or essays.
+2:57:54
+Andrew Ippolito: Right and when you do it that way, your essay questions tend to be higher scoring than the multiple choice and so those rescue the lower multiple choice.
+2:58:03
+Andrew Ippolito: Okay, when I was a freshman we were we were terrified we would have like hundred question multiple choice and it wasn't curved it wasn't adjusted, it was nothing.
+2:58:11
+Andrew Ippolito: And after your test, you would go up like two or three days later, you go over to the board and you'd see your social security number.
+2:58:19
+Andrew Ippolito: This is back in the 90s, and it would have a number next to it and that's what you got 8792 47 whatever.
+2:58:27
+Andrew Ippolito: And that was that, and so our freshman biology class we started all the students kept saying that freshman biology is the leading class it's so hard everybody's doing so badly when the reality is is there's so much to it it's so detailed and so.
+2:58:46
+Andrew Ippolito: We have to make these kinds of adjustments so you're not so tell you're doing fine you're not doing you stop looking at the raw score as what I want to say so, the adjusted score is what me the Professor says the student earn.
+2:59:04
+Andrew Ippolito: Okay, those aren't free points those aren't me giving you anything right what i'm giving a class for because of the pandemic is i'm bumping all your grades up that half letter grade.
+2:59:15
+Andrew Ippolito: That and that's because of the the chaos that this is, but those adjusted scores when you go and take bio to, for example.
+2:59:25
+Andrew Ippolito: And i've done this before I look at Joanne corns I actually I periodically asked her this, I have to ask her this again I haven't done in a while.
+2:59:33
+Andrew Ippolito: i'll see like So how are my students doing in your class, you know the ones that I like so you're going to go and take bio to at some point or some of you are, and some of you take her and so.
+2:59:43
+Andrew Ippolito: She she she always says they do fine and she grades completely differently it's a different class right my litmus test is Am I preparing you guys for the next step, which is bio two and the answer that is yes.
+2:59:57
+Andrew Ippolito: So. Andrew Ippolito: Does that answer your question. Taylor Campbell: yeah thanks okay yeah.
+3:00:04
+Andrew Ippolito: So chin up you're doing good. Taylor Campbell: You are just doesn't feel good. Andrew Ippolito: I know I know and that's so really what I would probably rather do, and this is what some people do is they hide your final grades you don't know how you did on the test until I give you that adjusted score.
+3:00:21
+Andrew Ippolito: yeah and I actually used to do that, so if we were in person right the way the way test would work if you take the test on Monday right and then on Wednesday you come in on hand you a piece of paper.
+3:00:30
+Andrew Ippolito: And that piece of paper would have a number at the top, you know at seven. Andrew Ippolito: And you'd be like immediately be done a seven that's pretty good and then you look at your raw i'd be like oh if if he didn't add points I would have gotten a seven YouTube or whatever, but you would have seen that second.
+3:00:44
+Andrew Ippolito: But because we're in zoom and we're in canvas land here you guys see that you see the raw score immediately I could hide that and maybe I should do that next semester.
+3:00:52
+Andrew Ippolito: for psychological reasons not logistical ones okay so imagine you saw your final grade before you're wrong grade, but you feel any different.
+3:01:05
+Taylor Campbell: Somewhat I mean there's still just not good, you know what I mean like i'm there okay it's just I don't know, I just wish.
+3:01:14
+Taylor Campbell: I don't know yes. Andrew Ippolito: Let me tell you another thing no not where I want to be like I just feel like.
+3:01:20
+Taylor Campbell: Remember what I do like a try so hard and it just reflects a little and it just makes me upset so I was just curious if.
+3:01:29
+Andrew Ippolito: This is the test. Specifically. Taylor Campbell: Obviously it is everything.
+3:01:36
+Andrew Ippolito: Then being recorded the quizzes. Taylor Campbell: Oh yeah I do terrible on. Andrew Ippolito: That are you talking about the homework can agree.
+3:01:42
+Taylor Campbell: The labs oh yeah well the labs to is different because at least I can do it again if I do bad, but like seriously that.
+3:01:50
+Andrew Ippolito: You can do the homework so again. Andrew Ippolito: You can we do the homework. Taylor Campbell: It takes me three hours to do that. Andrew Ippolito: yeah I wouldn't.
+3:01:55
+Andrew Ippolito: i'm not suggesting, you should do that. Taylor Campbell: I just have a lot of like there's just so much you know, like I try and write down the notes and study the notes, I read the textbook I try and study that.
+3:02:06
+Taylor Campbell: I do the homework, so I try and do that, and then I still do terrible and everything and it's discouraging it's just discouraging but.
+3:02:14
+Andrew Ippolito: guys, you know I feel I feel you and i'm sorry that it's been that way, Jordan, did you put your hand up there are you waving goodbye.
+3:02:20
+Jordan Russell: Oh no I was clapping because I was. Andrew Ippolito: Oh you're a great hotel you're not alone you're not you're not alone.
+3:02:26
+Taylor Campbell: And, and I think that's the biggest. Taylor Campbell: feel so alone because we can't even like. Taylor Campbell: You know interact with one another, like I have like a lab on campus for chemistry, and it was just so nice to like like work with another human being.
+3:02:39
+Taylor Campbell: and be like okay well like i'm not crazy you're feeling how I feel, because you do feel stupid and I just hate it, so I didn't know that was something that just happens or probably just another.
+3:02:51
+Andrew Ippolito: Terrible so well that's. Andrew Ippolito: Online that's a common feeling and all first year science courses science courses, especially the first ones, you know whether it's physics one calc one Chem one.
+3:03:07
+Andrew Ippolito: you're you're not used to thinking like this right, these are this is different than English and psychology and sociology and all that stuff it's it's.
+3:03:15
+Andrew Ippolito: Think of it like martial arts in some ways, think of it like you're taking your brain and you're hurting it and punching it and and training it.
+3:03:27
+Andrew Ippolito: Just think, like a scientist and that's not something you do in a day or a month or a year it's slow and it's it's painful think about it, if it was easy everybody would do it right.
+3:03:39
+Andrew Ippolito: So what you're feeling right now is the same way, somebody would feel when they first started training for something that's hard and their new right.
+3:03:48
+Andrew Ippolito: So okay there's a new show on netflix I just finished bingeing this weekend called shadow and bone have you watched it yet.
+3:03:55
+Alexis Micewski: I started it. Andrew Ippolito: is so good. Andrew Ippolito: I really, what do you think so far.
+3:04:00
+Alexis Micewski: it's really good I have it makes me want to read the books, because, like I know more detail than yeah show.
+3:04:07
+Andrew Ippolito: And so it turns out the the two plots for the two characters are actually two separate books and they merge them together for the TV show.
+3:04:13
+Andrew Ippolito: But before I go too far on that there's the main character in the show Taylor is this girl who discover she has this latent talent and she's then she has to be trained to use this magic and she's around all these people have been training, since they were like three years old.
+3:04:30
+Andrew Ippolito: Right and so they're all making them look super easy so she's you know she's like I can't do anything and she just just broke she's like i'm useless at this and then eventually she gets the hang of it.
+3:04:41
+Andrew Ippolito: Right so you're feeling growth pains are these are growing pains as a science person and it's totally normal I felt that way, I still remember the feeling I felt organic chemistry, I took that first test and it kicked my ass and I thought I knew it okay so.
+3:05:00
+Taylor Campbell: yeah I guess it just doesn't really feel like growing like I I see it, when i'm like.
+3:05:06
+Andrew Ippolito: I like you're learning see I. Taylor Campbell: I know I. Taylor Campbell: blacked it doesn't ever like reflect in my in my great you know, like in my knowledge, yes, but then I.
+3:05:18
+Taylor Campbell: But what she said. Andrew Ippolito: Oh yeah me, so I just want to be able to pass with 70 without a curse and it's like impossible, I agree with you tell.
+3:05:26
+Victoria Bloemker: Her yeah yeah. Andrew Ippolito: So well so first of all you're gonna you're gonna get your 70 i'm sure tori without again remember.
+3:05:36
+Victoria Bloemker: I studied constantly and I feel like I get absolutely nowhere. Andrew Ippolito: Like that's not true you're get you guys are all.
+3:05:43
+Taylor Campbell: feels like that. Victoria Bloemker: yeah the last exam that we just took I tried setting like a different way.
+3:05:48
+Taylor Campbell: To read about it. Taylor Campbell: And we're ready. Victoria Bloemker: we're squirt ever gotten so it was like okay that's like not a way to study.
+3:05:57
+Andrew Ippolito: there's a whole nother side to this and that is my side right I I have not perfected assessment, yet, and especially over zoom and teaching remotely and how to kind of do all this.
+3:06:11
+Andrew Ippolito: I don't think i'm doing it, the best way either so The thing is, is you guys don't know any of that right you guys come into a class there's a guy teaching it and these these Jonas thing and and he's holding you accountable to all this work and.
+3:06:23
+Andrew Ippolito: You know i'm figuring things out to write this is my third year teaching this class right there's people that have been teaching this class for 20 years so i'm still a new myself.
+3:06:38
+Andrew Ippolito: And I feel how you feel Taylor after I see those averages of raw scores I either get excited when they're high, and I feel I feel like I failed you.
+3:06:48
+Andrew Ippolito: When I see those very low scores like how what am I doing wrong it's My first question is, what did I where did I do wrong not, why are my students not working hard I know you're working hard.
+3:06:57
+Andrew Ippolito: Right that's not the question I have for myself is Am I asking the other questions too hard, and they might not giving them enough time.
+3:07:04
+Andrew Ippolito: Am I not teaching them well should I do more of this active learning so that's what i'm transitioning to I i'm trying my best to get to the point where instead of lecturing.
+3:07:14
+Andrew Ippolito: I do a little lecture and then a lot of puzzle solving the problem is a lot of this stuff is foundational like translation like just go through what we just did today transcription and translation.
+3:07:24
+Andrew Ippolito: How do we do a mini lecture on that and then ask you a bunch of questions I I don't know, maybe somebody else has an answer to that I.
+3:07:32
+Taylor Campbell: always the open thing is all of this takes time to understand so that's why, at least for me like when you ask certain questions and stuff i'm still like chewing on the definition of these things, and then you know.
+3:07:45
+Andrew Ippolito: Like it's just yeah. Taylor Campbell: it's just a lot and it's nothing like I personally don't think it's anything you're doing wrong it's just the material and it's how much there is and how.
+3:07:54
+Taylor Campbell: It is, and that in itself is discouraging because it's like how am I ever going to undo you know and then it's just like a whole like.
+3:08:02
+Taylor Campbell: yeah just. Andrew Ippolito: The other problem is is your earlier education failed us right like in an ideal setting i'm teaching you college level biology after you've learned high school level biology and like for real.
+3:08:16
+Andrew Ippolito: Like transcription and translation and gene expression and just the basics of metabolism what enzymes do and how things stick together and collision theory and that should already be there, but it's not in my experience.
+3:08:28
+Taylor Campbell: When I took two years of. Taylor Campbell: Biology I took bio one I took bio to I thought I would be prepared for something like always like honors Level two you know, like.
+3:08:37
+Taylor Campbell: yep graduated with like seven sciences and it's like I thought I was ready and it doesn't.
+3:08:43
+Andrew Ippolito: Like and now it's like i'm thinking can. Taylor Campbell: As well and it's just the same thing everywhere, I was top of my math class, and now I like can hardly do math like it's terrible so it's just it's not just this is.
+3:08:59
+Andrew Ippolito: Everything it's right. Taylor Campbell: Right every class I don't know what is, I want. Andrew Ippolito: One idea.
+3:09:05
+Taylor Campbell: But. Andrew Ippolito: You might have had an idea earlier remember how you said, like being around people. Andrew Ippolito: yeah so what, so this is a personality thing what, when I was in lab and I would get an experiment back.
+3:09:16
+Andrew Ippolito: I would get data back and I couldn't understand that that like this thing so sense I could sit there by myself, looking at it.
+3:09:22
+Andrew Ippolito: And, and you know, taking notes and just thinking about it and just getting nowhere, and the second. Andrew Ippolito: thing was alone in the lab and then one of my friends would come in and sit next to me and I said, can I show you this for a second, this is driving me nuts.
+3:09:32
+Andrew Ippolito: And i'd be like blah blah blah, and the second I started explaining it i'm like uh oh like I just needed another brain to bounce some ideas off.
+3:09:40
+Andrew Ippolito: No, you go. Taylor Campbell: see my my my lab notebook like I was working with this one kid that was next to me.
+3:09:47
+Taylor Campbell: Think I we didn't get yelled at for like sitting too close to actually see each other's notebooks but he was like oh my God you wrote so much i'm like I have to this is the only way I can understand anything, and he has two little until I was just so nice to talk to a.
+3:10:00
+Andrew Ippolito: person about so so maybe you guys should I mean. Alexis Micewski: The other thing, like my husband is taking your class next semester so.
+3:10:12
+Alexis Micewski: He watches me do like all my work and he's like oh my God you're doing so much, and I was like well I am online like you're going to be in person, probably probably going to be like a lot easier.
+3:10:26
+Andrew Ippolito: Not to get us hopes up. Alexis Micewski: For people to talk to you.
+3:10:31
+Andrew Ippolito: about it yeah yes, that that that part is absolutely true.
+3:10:36
+Andrew Ippolito: And it will see that what's his name, so I know when I go.
+3:10:42
+Andrew Ippolito: Okay. Andrew Ippolito: Is he William or a bill. Andrew Ippolito: Will well okay.
+3:10:47
+Alexis Micewski: he's in your like two to five class, I think. Andrew Ippolito: Okay, all right i'll keep that in mind, so yeah you guys could be meeting on zoom together, I don't know if that would help Taylor I mean, I know that, like alexa and an April well, you were you.
+3:11:03
+Andrew Ippolito: You were there. Andrew Ippolito: You were you did it too so. Jordan Russell: yeah it was me Julia. Andrew Ippolito: me yeah.
+3:11:09
+Jordan Russell: alexa April we all did like a miniature study group. Andrew Ippolito: So you guys.
+3:11:14
+Jordan Russell: come in for for like a second and then you left. Taylor Campbell: yeah is that my boyfriend's house and he had to go take a call, so I was like you know what i'm gonna join and see what we're doing and everyone was like cry you know, I was like I gotta go I can't do.
+3:11:25
+This. Jordan Russell: That was a fun day we were on that call until like 1am because.
+3:11:33
+Jordan Russell: I believe Okay, and then we just like it was a whole thing. Taylor Campbell: I just like with the zoom I just like I feel like definitely like the breakout rooms and stuff like that one on one with just another human being, like.
+3:11:48
+Taylor Campbell: Oh you're choosing you know, like when you're in a classroom and you're like hey I want to work with you and then like you guys work together on stuff and then like.
+3:11:54
+Taylor Campbell: You lean over to another group it's like hey like how are you guys doing like in zoom like literally only one person at a time can talk, or you don't understand what what's going on.
+3:12:02
+Taylor Campbell: So it's hard to work with other people over zoom it's hard to understand what other people are thinking, and if you do it takes forever for me to say what i'm thinking and and you to say what you're thinking it's just.
+3:12:14
+Taylor Campbell: I don't think it's you I just I just feel not good about and I just needed to stop.
+3:12:22
+Taylor Campbell: me this semester, to end it will end. Taylor Campbell: And I just cry a lot. Andrew Ippolito: I i'm burned out myself.
+3:12:29
+Andrew Ippolito: I understand the I I am definitely suffering from zoom fatigue, because you know I do this whole thing again right after this class.
+3:12:37
+Andrew Ippolito: And then tomorrow morning, I do it again and then Wednesday, I was today's Wednesday so so Monday and Wednesday it's eight hours of this basically Tuesday and Thursday it's half that so it's about 20 to 25 hours a week of zoom for me i'm just.
+3:12:51
+Andrew Ippolito: i'm so done. Great. Andrew Ippolito: there's a really does so, but so I don't so i've been with you guys now for a couple months, like, I know you guys pretty well I hear your questions, I see your work, I would say, all you guys are doing great.
+3:13:06
+Andrew Ippolito: You really I know you don't think it, but so i'm telling you as your you know, whatever you're Mr miyagi your.
+3:13:12
+Andrew Ippolito: trainer you guys are doing good you guys are meeting my expectations right, and particularly the questions you guys asked during class.
+3:13:21
+Andrew Ippolito: that's to me the most telling of how the learnings happening because your questions tell me where your brain is in relation to the material.
+3:13:29
+Andrew Ippolito: Right like so earlier when alexa ask me like what when you're like is it like this stupid question DNA or RNA like no I see where your brain is when you ask that question, and so I i'm able to then pivot and correct it.
+3:13:40
+Andrew Ippolito: Right like imagine it was martial arts and you're you're throwing a Punch with your you know your thumbs up here, instead of over here all you have to do is walk over and be like put your thumb here and boom there you go.
+3:13:50
+Andrew Ippolito: God alexa. Alexa Deprisco: I was just gonna say like sometimes with the lectures.
+3:13:59
+Alexa Deprisco: I feel like you can tell that like you know a lot about the subject, and I feel like you're teaching will reflect that and that like.
+3:14:07
+Alexa Deprisco: Like could you just like dumb it down a little honestly like. Jordan Russell: yeah I agree.
+3:14:15
+Alexis Micewski: With. Andrew Ippolito: Jordan. Alexis Micewski: Drugs fast, so I can't keep up when it moves like really fast i'm like wait, I was looking at that slide and then you changed it and i'm like oh.
+3:14:25
+Andrew Ippolito: Okay yeah actually that's that's. Andrew Ippolito: One bad habit, I have is if i'm in PowerPoint and i'm drawing in red and then I suddenly delete it and you guys like that yeah that that's hard for me in my flow to do so i'll i'll try to recalibrate that again.
+3:14:44
+Andrew Ippolito: It I mean. Taylor Campbell: I, and I went through an entire notebook. Taylor Campbell: Already like i'm on my second notebook right now.
+3:14:50
+Alexis Micewski: Just third. Taylor Campbell: yeah. Andrew Ippolito: yeah that's crazy, you know you tell people this and they look at you like you're insane like literally like my moms like when's the last time you left the House.
+3:14:58
+i'm just like. Taylor Campbell: Like Oh, I like so I like to write everything down to write everything down, so I can read it, and so I can read it out loud to myself, like.
+3:15:09
+Andrew Ippolito: That like a question to you. Andrew Ippolito: When you when you take your notes, do you write in full sentences. Andrew Ippolito: yeah don't that's the thing you can stop doing right now right right in sentence fragments.
+3:15:22
+Andrew Ippolito: Because here's what's happening, the learning isn't happening, when you go back and reread it the learning is happening, when you first read it.
+3:15:31
+Andrew Ippolito: Okay, let me here, let me show you some so I told you i'm learning Microbiology for the first time this semester. Andrew Ippolito: So one of the things that i'm having to do is like what you guys are doing is i'm taking notes already here, this is me learning Mike so there's the Microbiology textbook and then here are my notes.
+3:15:50
+Andrew Ippolito: Okay, so i'm not writing a full sentences i'm writing and fragments because what's happening is as i'm writing here i'm building the patterns in my brain.
+3:16:02
+Andrew Ippolito: And sometimes i'll go back and i'll just glance at this, or sometimes i'll rewrite it again that's how the learning happened for me when I was in your seat was I would take my lecture notes, which were chicken scratch.
+3:16:12
+Andrew Ippolito: Right after class I would take my textbook and whatever handouts, we had, and I would carefully rewrite it all.
+3:16:19
+Andrew Ippolito: And, in a way that made sense to my brain and then, when I was going to go back to take to study for the test, I would take those rewritten lecture notes and write them again.
+3:16:29
+Andrew Ippolito: Okay, the learning happening, when I was writing it, because when you're writing your little slow you're slowing down right, you are.
+3:16:39
+Andrew Ippolito: Putting them in your own words you're thinking about it and even better is talking out loud when you're saying it.
+3:16:46
+Andrew Ippolito: Right so so tori use those pieces of advice to maybe enhance your own studying like we were going to talk about earlier today.
+3:16:54
+Andrew Ippolito: yeah so read so i'd say outline the chapter in your own words, not full sentences that's.
+3:17:01
+Andrew Ippolito: This protein is like that you just wasted three seconds of your life right he to F equals positive regulator.
+3:17:11
+Andrew Ippolito: The transcription factor ETF is a positive regulator that right so just say it in the shortest way possible, because it's, the key is is what's the gold part of the information what's the important part of the information.
+3:17:23
+Andrew Ippolito: Okay, you also save notebooks. Taylor Campbell: yeah it's crazy, the amount of paper I go through.
+3:17:29
+Taylor Campbell: i've been through a lot of paper. Victoria Bloemker: i'm is it Okay, if I email you later tonight.
+3:17:34
+Taylor Campbell: I try my next call. Victoria Bloemker: yeah um. Victoria Bloemker: yeah let's go so.
+3:17:42
+Jordan Russell: This meeting has been recording the entire time we've been. Jordan Russell: Doing this. Whatever i'll stop recording.
+3:17:50
+Taylor Campbell: well.

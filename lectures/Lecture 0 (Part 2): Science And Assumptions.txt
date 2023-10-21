@@ -1,0 +1,1510 @@
+0:00
+Andrew Ippolito: We're just picking up where we left off last time. This is a Andrew Ippolito: Part two of lecture one, basically, and we we pretty much we covered these guys here. If you recall, we're talking about the kinds of
+0:14
+Andrew Ippolito: The methods by which humans acquire brand new knowledge okay and and by now. Hopefully you guys have read the handout I wrote that over the last few years.
+0:27
+Andrew Ippolito: Knowing that notable introductory textbooks give you this stuff. I think they should
+0:33
+Andrew Ippolito: A couple of the non majors biology books, give us the assumptions of science, which we'll talk about next, but none of them really do epistemology at all. And I think it's important, especially in this day and age when scientific literacy is pretty much like at an all time low.
+0:48
+Andrew Ippolito: You guys rate you. One of the things that Andrew Ippolito: You're going to become
+0:57
+Andrew Ippolito: Being a science major is you have this burden of responsibility of making sure that the people that you interact with
+1:05
+Andrew Ippolito: professionally, personally, socially, Andrew Ippolito: That that you're kind of a check on that for society. Now I'm not going to suggest that you should all become stem evangelists and start proselytizing the, you know,
+1:22
+Andrew Ippolito: The words of science, but you definitely need to be part of the quality control right and that so that includes things like your Facebook or Instagram you're sharing means you got stuff going on in your in your life.
+1:40
+Andrew Ippolito: Before sharing stuff. You got to kind of Andrew Ippolito: Make sure that there's a confidence there in it. Right.
+1:47
+Andrew Ippolito: That's one of the things that we don't have time for these days we'll see something on Facebook or Instagram and we'll get so mad. I can't believe that they did that thing. Oh my god, I'm sharing this and showing everybody
+1:58
+Andrew Ippolito: And then like three or four minutes later, somebody like that didn't happen.
+2:04
+Andrew Ippolito: That's a deep fake or, you know, that's a Photoshop Bernie Sanders can't flow and space in a chair. Come on.
+2:13
+Andrew Ippolito: We've all seen the memes. By now, I'm sure, to the point where everybody's already fatigued about them. It's kind of like, I think that's a record story arc for a meme. It started everybody at irritated by we're already not doing anymore. It was like three days I was like a record.
+2:28
+Andrew Ippolito: Some of them are really funny. Andrew Ippolito: But, uh, the point is, my point is, is that as budding scientific minds.
+2:39
+Andrew Ippolito: You have to get how this stuff works. Right. So one of the things I'm going to be teaching you this semester is how to think like a scientist.
+2:48
+Andrew Ippolito: Okay, and that when I see think like a scientist, you could replace that with the variations of this thinking like a lawyer.
+2:57
+Andrew Ippolito: Thinking like a journalist thinking like a medical doctor. Okay, you're basically a professional problem solver.
+3:06
+Andrew Ippolito: That's the secret when you eventually get your PhD is you're a professional problem solver. It doesn't matter what you get it in
+3:13
+Andrew Ippolito: The fact that you have it means that you did these horrible problem solving things for many years and you are now essentially a professional problem solver.
+3:22
+Andrew Ippolito: Okay. And so that's what we're going to learn about so all science is you have to keep this in mind science isn't a worldview. It is not a paradigm of thought. It is not a religion. It's a technique.
+3:34
+Andrew Ippolito: And it's designed to take into account human weakness and human fallacy and our and our logical fallacies in our emotional tendencies, because when it's done right. It's the most accurate way to get through to new knowledge. Okay. And so
+3:53
+Andrew Ippolito: Once we started doing this in the 1500s. Andrew Ippolito: I mean the the concept of scientific method has been around since about the mid 1200s but it wasn't really implemented.
+4:06
+Andrew Ippolito: Until about the 1500s, once we started doing it, though. Once the people who were inquiring nature investigating nature started doing it in a systematic way.
+4:17
+Andrew Ippolito: We started to really get going as as a civilization as a global civilization in terms of our knowledge and acquiring
+4:26
+Andrew Ippolito: Information on things like probably one of the most important things, science has given us his, uh, his germ theory.
+4:33
+Andrew Ippolito: The idea that that it's not bad air but microorganisms that kill us right epidemics and when we're dealing like what we're dealing with today.
+4:44
+Andrew Ippolito: The coven 19 pandemic has happened countless times throughout history. This is just the latest so science is giving us the tools in order to conquer these things and not have the same levels of mass devastation that swept through humanity and previous times
+5:06
+Andrew Ippolito: Okay, so what we're going to do. Now I'm going to skip through these these quotes for now. You can read those on your own. They're just good context to this stuff we're talking about science. Okay. Now, here's the thing. Before you can even start understanding how science works.
+5:23
+Andrew Ippolito: There are three things, three concepts that are not scientific that you have to assume are true before you even think about science.
+5:35
+Andrew Ippolito: These three things are not things that can be scientifically demonstrated. There's no way of proving these things or disproving these things and you don't have to believe in them but
+5:50
+Andrew Ippolito: You have to assume they're true when you start doing science and the human brain is exceptionally good at putting up walls and silos, so that people can have all sorts of this fun cognitive dissonance and hold two things that seem impossible in their head at the same time.
+6:11
+Andrew Ippolito: And that's okay because we're human, we're not robots. We're allowed to be a little irrational.
+6:17
+Andrew Ippolito: You have to give yourself license for that even as a science person you're allowed to hold thoughts that are not necessarily rational, so I'm not going to sit here and tell you that the first assumption of science, which is called natural causality.
+6:30
+Andrew Ippolito: The notion that all observable events are due to natural causes. This doesn't say therefore stop believing in God. That's nonsense.
+6:39
+Andrew Ippolito: This says that if you see something out in the real world. Andrew Ippolito: You have to accept the fact that whatever causes it, the underlying cause of it is something that can be discerned. And at least in theory, we might not have the technology but
+6:58
+Andrew Ippolito: Maybe someday we will Andrew Ippolito: Okay. And the thing is, is if you don't assume this to be true if you assume the opposite of natural causality, which supernatural causality, you could think of it as a God did it.
+7:13
+Andrew Ippolito: That's fine, but that's the end of the conversation then right i mean you just you just figured it all out. There's, there's no investigation to be had there might be moral complications or you know consequences but
+7:28
+Andrew Ippolito: Whereas the scientific view of natural causality as well hey let's let's figure out what the root cause of this is what causes the high tide to come in.
+7:37
+Andrew Ippolito: Why do we have a super high tide once a month, the springs tides. Why don't we have the nucleotides once a month, super low tides.
+7:46
+Andrew Ippolito: And it has to do with the moon's pulling gravitation and an elliptical orbit and is also going around the sun. Right. And it's sometimes it's a little more subtle.
+7:57
+Andrew Ippolito: And sometimes it's beyond the scope of our technology. Andrew Ippolito: The vast majority of the observable universe is still hidden from us. It is still unknown in right now unknowable dark matter.
+8:12
+Andrew Ippolito: 85% of the stare up at the sky 85% of the cosmos is something we don't even know what it is. It's not protons, neutrons and electrons we know it. We know it pulls gravity.
+8:24
+Andrew Ippolito: And that's right now. Probably the greatest mystery of our generation. Andrew Ippolito: It's what what what is that
+8:32
+Andrew Ippolito: People working on it. Right. But if we're just like, oh no it's maybe it's God Andrew Ippolito: Maybe dark matter is just like God's hands. Okay, that's the end of the story. Right. So you see, it's not about what you believe, or what you don't believe it's the idea of this is almost the driving force behind our inquisitorial nature's right
+8:53
+Andrew Ippolito: And again, science only concerns itself with the natural world. The, the stuff that we can directly observe or indirectly observe it has nothing to do it all with spirituality. What happens after life or death. None of that it has to do with what the tangible the concrete.
+9:10
+Andrew Ippolito: Okay. So what that tells you is that science doesn't have all the answers. It can't have all the answers.
+9:18
+Andrew Ippolito: Science can address questions of morality. Andrew Ippolito: Or aesthetics
+9:24
+Andrew Ippolito: Science can't tell us that it's right or wrong to do something, it can only arm us with knowledge and then being humans and having the context of our own cultures, can we make informed decisions.
+9:36
+Andrew Ippolito: Does this make sense. Good. Andrew Ippolito: Okay. The second assumption of sciences natural laws are universal, both in space and in time.
+9:47
+Andrew Ippolito: The laws of nature do not change. Andrew Ippolito: Maybe they do. That's exactly what we're talking about right now. Maybe they do but we have to assume they don't or we can do any of our work.
+10:02
+Andrew Ippolito: When we say things like the Earth is four and a half billion years old and the universe has been 14 point whatever billion years old. We're making those calculations based on the assumption that the data we're gathering and the trends we observe and the data.
+10:19
+Andrew Ippolito: Are extrapolated from the point where the numbers don't change the rate at which radiation happens radioactive decay of a half life you guys learn your chemistry classes. What a half life is right.
+10:33
+Andrew Ippolito: That doesn't change people do these experiments. If you take carbon 14 you heat it up really hot or you're cool it down or yeah change its pH.
+10:45
+Andrew Ippolito: You do whatever you can to it. We can't change the rate at which it deteriorates
+10:53
+To grades. Andrew Ippolito: And so in the same way. When we look at, say, the gravitational constant
+11:03
+Andrew Ippolito: Or the value of an electrons charge right in physics, there's all these constants, there's always things that we can measure
+11:11
+Andrew Ippolito: Right, how massive something is how much of a pull it has what is charged, blah, blah, blah. Okay, or even PIE NUMBER number first learning that pie is that ratio between circumference of the circle and its diameter and when you cut a circle. So if you take a circle right
+11:30
+Andrew Ippolito: And you kick a pair of scissors and cut it and then you extended if if the diameter from here to here was one unit of whatever you're measuring and this becomes 3.14 is always the same, no matter what that ratio between that never changes.
+11:48
+Andrew Ippolito: Okay. One of the fun things that you can start thinking about as well. What if there was a universe where the gravitational constant was 10% a little stronger or 10% a little weaker.
+11:59
+Andrew Ippolito: Right. And it turns out if you imagine the universe where the laws of physics were a little different.
+12:07
+Andrew Ippolito: We wouldn't have matter, we wouldn't have molecules gravity would crush everything together into the singularity. Again, it was just 10% stronger.
+12:15
+Andrew Ippolito: And it was 10% weaker, everything would fly apart and nothing would hold each other so so I universe is like the Goldilocks idea. It's just right for humanity.
+12:25
+Andrew Ippolito: This is called the anthropic principle, the idea that our universe seems to be
+12:33
+Andrew Ippolito: Designed to be exactly suitable for human habitation. Isn't that interesting.
+12:39
+Andrew Ippolito: Right. We don't know why. Andrew Ippolito: Everybody's got ideas. Here's my take on it. There's an infinite number of universes with an infinite set of these values of things like the
+12:49
+Andrew Ippolito: Value of an electrons charge and gravitational costs and yada yada yada. And that if you take all of those possible universes. They're just a small subset of them were matter could exist and wearing one of those. And that's why we're here.
+13:02
+Andrew Ippolito: Hmm. Andrew Ippolito: That makes sense. Then it also tells you what we're all the other universes.
+13:12
+Andrew Ippolito: Maybe we're sensing their poll and that's what dark matter is maybe the gravitation, we feel is that's us being able to somehow interact with the rest of the multiverse through one of the forces of nature.
+13:25
+Andrew Ippolito: That would also explain why gravity so weak. There's so many degrees of freedom of it that it's hardly felt. How cool is that
+13:33
+Andrew Ippolito: Doctor, I think you've been drinking a little bit this weekend. I don't know what you're talking about this a little crazy.
+13:40
+Andrew Ippolito: heavy drinking lots of water that Andrew Ippolito: These are things that keep me up at night.
+13:46
+Andrew Ippolito: The third assumption of science is called universal human perception. You got to put the observer in there right without humans. There's no science, but maybe there is but we wouldn't know because we wouldn't be here talking about it.
+13:59
+Andrew Ippolito: This is the one that distinguishes science and art or aesthetics, the idea that we all perceive the universe and the same way, basically.
+14:11
+Andrew Ippolito: And I want to say, basically, or in this case, fundamentally, because here. Well, what about you, you're definitely on here. You don't perceive sound the same way that is true, but that's a pathology.
+14:20
+Andrew Ippolito: I can poke your eyes out. And now you're blind. Now you would now you just violated that lot. Well, no, I'm talking about all things being equal,
+14:26
+Andrew Ippolito: You know, read, read. You guys look at my shirt. If I asked you if I pulled the class. What color is dr is shirt you guys and I just gave you three choices. We don't have to play games like that's more of a maroon
+14:38
+Andrew Ippolito: Red, green, or blue. If I said what color is my shirt. Is it red or green or blue you'd all say read right if I drew on the screen a sheet like this and ice and, you know, okay, let's make sure that, you know, oh, it's not exactly a square, but now it is
+14:54
+Andrew Ippolito: OK, you tell me that's a square. It's not a circle. Andrew Ippolito: Right. So the idea with sciences.
+15:03
+Andrew Ippolito: You have to assume that all of your fellow humanity is perceiving things in the same way you are.
+15:11
+Andrew Ippolito: Right. So look at the right hand side of the screen there. And you can see there's two pieces of art. On the left is like a dark background with some light colored geometrical they look like mostly rectangles.
+15:21
+Andrew Ippolito: And on the right hand side there's mostly white with like a red and a blue square. Okay, so watch this right everybody look at the screen by a quick show of hands, how many of you agree that what I just pointed to right here is a red square
+15:36
+Andrew Ippolito: Does anybody want to argue me on that. Andrew Ippolito: I'm open for debate.
+15:44
+Andrew Ippolito: Nobody's gonna right. So how about this. How many of you think that's a triangle.
+15:51
+Andrew Ippolito: Raise your hand. That's the triangle right okay these what we're examining now are called facts.
+16:01
+Andrew Ippolito: A fact is a statement that we accept is true. And you see that definition right there opens arguments up
+16:11
+Andrew Ippolito: Right in the last four years, the idea, like we can even agree on facts.
+16:18
+Andrew Ippolito: The word itself is up for grabs. I'll never forget the day I heard the phrase that's an alternative fact
+16:34
+Andrew Ippolito: Well, sure that those are your facts. These are my there's that is not a thing I just want to make that crystal clear here.
+16:42
+Andrew Ippolito: You're not. So here's the phrase, I want you to remember and learn, you can use this in arguments. If you want, you are entitled to your own opinions, you are not entitled to your own facts.
+16:55
+Andrew Ippolito: What my own, but you might triangles have four sides. No, no, that's called that's called a quadrilateral.
+17:02
+Andrew Ippolito: Whatever that I'm calling a triangle, then you're wrong. Well, that's just your perspective. No, no, that's not my perspective, this is affect
+17:12
+Andrew Ippolito: You guys see where I'm going with this, right. You can't. There's a baseline. The problem is, is we're all humans and the very definition of the word fat itself means we accept them as true.
+17:25
+Andrew Ippolito: Okay, so my example of a fact is always and I use this in every conversation. I have now a triangle has three sides. You can't argue that.
+17:35
+Andrew Ippolito: I've yet to hear somebody present a cogent argument that I am wrong, unless you want to start going into etymology and the derivation of words it but then you're just that summit that's literally semantics and we're not going there either. Okay, so you guys are getting this good
+17:50
+Andrew Ippolito: Now I'm gonna ask a different question. So let's call this art. A in this art be by a show of hands, how many of you think that a is more aesthetically pleasing then be you like a more than be, raise your hand.
+18:06
+Andrew Ippolito: Is it like 123456. Okay. How many of you like be more than a
+18:12
+Andrew Ippolito: Okay, it's about the other half of the class. That's interesting. All right, so everybody who likes be more you're wrong. Oh, what they know. You're not wrong. I'm just kidding. But that's the point there. And that right there is a difference between art and science.
+18:27
+Andrew Ippolito: You can't be wrong when it comes to aesthetics that no i can be wrong. That's a terrible haircut.
+18:37
+Andrew Ippolito: Right aesthetics has to do with your previous history and context and the way your eyes work and how you were raised, and the experiences you had
+18:47
+Andrew Ippolito: You can't tell somebody. They're wrong about art. That's the fun thing about art and that's why there's so much of it. And so different. Everybody's got their own stuff going on and they see beauty is in the eye of the beholder. That's a great phrase, because it's so true.
+19:01
+Andrew Ippolito: Everybody sees beauty differently. Andrew Ippolito: There's no such thing as objective beauty.
+19:08
+Andrew Ippolito: That's not what my philosophy professor said they're wrong. Oh.
+19:13
+Andrew Ippolito: Maybe that right. I don't know. Maybe there's objective beauty symmetry is supposedly objective beauty right
+19:20
+Alexa DePrisco: What about the golden ratio. Alexa DePrisco: We just say let's Alexa DePrisco: What about the golden ratio.
+19:26
+Andrew Ippolito: that's inherently that is objectively beautiful sure the Fibonacci sequence. There's another one. You guys know the Fibonacci yet you guys learn that quick show of hands Fibonacci.
+19:38
+Andrew Ippolito: Raise your hand if you've never heard of it Fibonacci what okay just very quickly take a number. Let's start with one you have to start with one. Okay. And then we're going to put another one. We're going to add those together. We're going to get it to
+19:50
+Andrew Ippolito: And then we're going to take this to. In this one, we're going to add those together and you get three, you see that I'm going to take the three and the two and we're going to get a five.
+19:58
+Andrew Ippolito: Or we're going to take the five and the three and we're going to get an eight, etc. That's the Fibonacci number sequence. And when we see that nature everywhere. It's kind of crazy.
+20:07
+Andrew Ippolito: If you look at things like the number of petals on a flower.
+20:13
+Andrew Ippolito: Things like that, though. Like if you count, like a like a triple digit number it's within the Fibonacci sequence usually
+20:21
+Andrew Ippolito: It's one of those natural things like pie or E. It's a sequence of numbers that we just happened to see over and over again. That's Fibonacci.
+20:30
+Andrew Ippolito: Right. Andrew Ippolito: And then the golden ratio, which I don't think I could do this. Why don't you take this, you start in the middle and you kind of
+20:38
+Andrew Ippolito: Know, I can't do the golden ratio. I can't start you make a spiral where it's always the same distance from itself. Ah.
+20:46
+Andrew Ippolito: And the ratios of the curves are symmetric like mathematically it's all perfect. So if you look at like the one famous picture I we see out when I was a photographer doing all this
+20:59
+Andrew Ippolito: Somebody was very long hair in a pool underwater coming up from the pool and whipping their hair back in the water makes this splash curve that curve is a golden ratio.
+21:12
+Andrew Ippolito: And has to do with the way acceleration and gravity works together with moving things it's it's it's so that is one of those. I think
+21:20
+Andrew Ippolito: So let's say that there are a few things that are generally by consensus accepted as aesthetically pleasing. But beyond that, you know, I like death metal. I like classical whoa okay you know right i mean that's that's what I'm talking about.
+21:36
+Okay. Andrew Ippolito: Alright, so we're going to do now is we're going to go through. So you guys learned all this probably like in third grade the scientific method.
+21:45
+Andrew Ippolito: observations and experiments. We're going to do the college version of this, you guys are going to look at the little details that were glossed over when you were in like third grade, and you're going to start to see some really cool stuff here.
+22:00
+Andrew Ippolito: So again, science itself is a blending
+22:05
+Andrew Ippolito: Of empiricism as a reminder, that's that actually observing directly personal experience using your eyes to get data.
+22:14
+Andrew Ippolito: Or you know your senses and then rationalism share logic it's blending those two things.
+22:20
+Andrew Ippolito: And it's not just not a squish them together. It uses the best parts of both right. Andrew Ippolito: And so when when it's done correctly, the scientific method accounts for humans fallacies are human fallacies. One of the fallacies. You have to always keep in mind is that humans, including yourself, including me, everybody, we're all humans, we will tend to believe what makes us feel good.
+22:46
+Andrew Ippolito: It just makes sense. That's that idea of tenacity. Andrew Ippolito: You know, but just doesn't make any sense that.dot.on the points we've all said that we've all thought that we feel it in our bones. Okay. This feeling leads us astray at times.
+23:05
+Andrew Ippolito: Science takes account of that. Okay.
+23:10
+Andrew Ippolito: Science requires communication. Okay, it's not science. If you can't communicate it
+23:20
+Andrew Ippolito: It's a social thing you do it, kind of in solitude, but then you have to share it or it's not science.
+23:28
+Andrew Ippolito: falsifiable. In other words, the ideas that come out of your methods have to be able
+23:36
+Andrew Ippolito: To be rendered false. We have to be able to destroy our ideas and be okay with that right there, that's another one of those human things we don't like being wrong.
+23:47
+Andrew Ippolito: Right. How many times have you pointed your finger at somebody looked him in the eyes and say you're wrong. And they said, wow, you're right. I totally agree with that. I'm sorry, said nobody ever
+24:03
+Right. Andrew Ippolito: But sometimes you're wrong.
+24:08
+Andrew Ippolito: Just saying that out loud as offensive. Nobody likes being wrong.
+24:14
+Andrew Ippolito: A scientist, therefore it's not beholden to their own ideas are not married to them.
+24:19
+Andrew Ippolito: I don't say my hypothesis. I say this hypothesis.
+24:26
+Andrew Ippolito: Because if this is wrong. That's fine. That's great. That means we don't know, something which is exciting. It is my hypothesis went out on the fool because I was wrong. You see the difference there. Right.
+24:39
+Andrew Ippolito: testable. Andrew Ippolito: When we say testable. That means you have to be able to design an experiment to try to prove it wrong. If the can't be tested not science.
+24:52
+Andrew Ippolito: And this is where we can get into the world of things like pseudoscience.
+24:58
+Andrew Ippolito: Like intelligent design and homeopathy and water crystals and the, the memory of water and all those fun things that we sometimes hear about
+25:10
+Andrew Ippolito: You can't test that stuff really Andrew Ippolito: Although to be fair, you can. And we've shown that there's nothing there but those aren't believers. Don't buy any of it. And so to them. It's not really testable.
+25:26
+Andrew Ippolito: reproducible. Andrew Ippolito: You do an experiment. Oh look, I was able to show fusion at room temperature fusion is when we take Adams and we mash them together and make new elements. And in that process energy comes out of them. So with the sun's doing. That's why it's always blowing up.
+25:45
+Andrew Ippolito: Doing that on Earth is a little harder. Andrew Ippolito: Because the only way we could do fusion is really hot situations, but if we can develop room temperature fusion will have unlimited energy forever and people are working on that.
+25:57
+Andrew Ippolito: And there was this guy back in the 80s. I still remember this. Actually, there was a front cover of, like, Popular Science magazine. It was cold fusion.
+26:05
+Andrew Ippolito: That's like the holy grail of energy physics. Andrew Ippolito: And nobody was able to repeat his experiments and he was shown to be, it was all a sham.
+26:18
+Andrew Ippolito: If you can't reproduce if others can't reproduce your work, it's not science.
+26:24
+Andrew Ippolito: Communicable and debatable scientists love to be
+26:30
+Andrew Ippolito: Scientists are not friends with each other. I mean, they are friends with each other, but scientists who work in the same field arrivals.
+26:41
+Andrew Ippolito: Sometimes Ark rivals. Sometimes they hate each other. There's all these stories of scientists when they go to these meetings. They're like, Oh no Bob showed up. Let's not put those guys in the same table at dinner tonight. They're just going to eat each other alive.
+26:56
+Andrew Ippolito: hate each other. Andrew Ippolito: Right. There's all sorts of these wonderful examples of scientists on the public forum, just getting you know going at it fighting
+27:08
+Andrew Ippolito: The we passed or was one of them. He his whole his famous experiments on spontaneous generation disruption disproving spontaneous generation.
+27:17
+Andrew Ippolito: That was due to a public debate, he had with the guy in charge of the the Science Museum, who said that, you know, spontaneous generations. True.
+27:27
+Andrew Ippolito: No, it's not. And so they they put up an award and said, Whoever can prove their scientific demonstration that they're right gets the prize and pastor one
+27:38
+Cool story. Andrew Ippolito: Okay, so here's, here's the take home there.
+27:43
+Andrew Ippolito: If the scientific community. These people who hate each other.
+27:48
+Andrew Ippolito: Comes to an agreement and says, yeah, this thing is probably right.
+27:54
+Andrew Ippolito: Like, like all of them except the one or two who are just ridiculous the outliers.
+28:00
+Andrew Ippolito: That's probably something that you should put some stuck in that. Notice how he said that I didn't say you should believe it to be true, like, No, you should
+28:08
+Andrew Ippolito: Like, all things being equal, I should probably be accepted as true for example climate science right now. The idea that the world's climate is changing in a very fundamental way very rapidly. There is nobody in a scientific community who disagrees with that.
+28:24
+Andrew Ippolito: And if there is somebody that you can come across still that disagrees with it. I can guarantee with their paycheck depends on it.
+28:35
+Andrew Ippolito: The scientific consensus is anthropogenic climate change is 99.99% probable and then we gotta do something about it.
+28:45
+Andrew Ippolito: We don't have to do anything about it. Hey, wait what we don't Andrew Ippolito: We're not is one of the things that climate size is
+28:54
+Andrew Ippolito: It's not going anywhere, guys. Andrew Ippolito: We are
+28:59
+Andrew Ippolito: We're screwed the Earth's looking at us probably me like, oh man, he's poor suckers. I mean, yeah, they even affected me like a virus and there's all this devastation. But you know what, I've had worse.
+29:11
+Andrew Ippolito: You guys remember the meteor that took out the dinosaurs. I do Yucatan Peninsula, I got the score right here.
+29:18
+Andrew Ippolito: That's the earth talking Andrew Ippolito: That you guys are nothing. This is just, I mean, I wish you'd get off me already, and just go to Mars or something but
+29:28
+Andrew Ippolito: But you guys are all having conversations like there's something going to happen to me know you guys are going to be dead. Not me.
+29:36
+Andrew Ippolito: It's our own quality of life that work that's up for grabs. Right now, the idea the crazy idea that our kids your kids and their grandkids.
+29:47
+Andrew Ippolito: Are gonna have a shitty or planet than you do. Andrew Ippolito: And they'll have a worst quality of life.
+29:55
+Andrew Ippolito: The water tastes a little gross and they'll probably get cancer. Andrew Ippolito: Or they'll starve.
+30:02
+Andrew Ippolito: You know, or there'll be some kind of, I don't know, a crazy emergent disease will pop out from somewhere and take over the planet. Oh wait too late for happened already right there's there's all sorts of things that it's all about us when it comes to that.
+30:19
+Andrew Ippolito: So to beatable Andrew Ippolito: Can it be wrong. I like this. My one of my fear ones. It can be wrong, of course, science can be wrong why we do it. And we're always wrong.
+30:34
+Andrew Ippolito: You guys watch scrubs. Anybody here ever watch scrubs the TV show scrubs. Yeah. Remember Dr. Cox wrong wrong wrong wrong.
+30:43
+Andrew Ippolito: It's one of my favorite little sticks. He's i mean he's a character is wonderful. But I miss him it's been it's been a while.
+30:50
+Andrew Ippolito: But yeah, of course we could be wrong because we're we're wrong and we're humans. We make mistakes and sometimes we have agendas. Right. We've all heard this, the story of vaccines, causing autism, that all stem from a human having nefarious purpose in forging data.
+31:10
+Andrew Ippolito: And then admitting it but Andrew Ippolito: That goes back to the whole idea of once it's out. It's hard to put back right
+31:18
+Andrew Ippolito: So that's why I told you earlier science can science is replaced by better science that's always true.
+31:27
+Andrew Ippolito: And when anybody ever lampoon science or poo poo science versus science is wrong. I don't trust science. So like, Well, what are you going to trust them, like if you can't trust science. Then there's there's nothing that's more trustworthy right so that doesn't mean
+31:42
+Andrew Ippolito: believe everything you read and believe and accepted all because it's science and you're, you're a fool. If you don't, it just means this is as good as a guess it's sometimes. Sometimes it's still not good enough.
+31:57
+Andrew Ippolito: I mean that's that's true, too. You know, there's so many things that alias and and hurt us, and we want to get better at. And we can't
+32:07
+Andrew Ippolito: Not yet anyway right Andrew Ippolito: So this last thing, this idea that science is the only acceptable method of acquiring the knowledge within scientific communities. Well, what's scientific communities, but honestly
+32:24
+Andrew Ippolito: Those are the companies that make everything Andrew Ippolito: You know, they're the ones that developed the technology and the new drugs and the new ways to build things. And the better you know materials, etc, etc.
+32:38
+Andrew Ippolito: Now, there's no you can't go to any meetings anymore. And somebody would get up there be like this just makes sense. And everyone's like, oh, all right let's all call it a day and go do that now because it just, you know, Bob said it made sense.
+32:50
+Andrew Ippolito: All right. Andrew Ippolito: This is a good slide to study. This is a good overview slide. This puts it all out there. Okay. Now, before we even dig into this, I want to say that that theories. Okay, here's how you say it.
+33:06
+Andrew Ippolito: A scientific theory is not part of the scientific method, a scientific theory is a product of the method. This is the deliverable.
+33:17
+Andrew Ippolito: This is the package. Subject to change.
+33:22
+Andrew Ippolito: Okay, it's outside of the method.
+33:28
+Andrew Ippolito: So here's how it works, humans find something worth talking about some phenomenon, something that makes this golden
+33:38
+Andrew Ippolito: Gate fun. So fundamentally, this is driven by curiosity.
+33:43
+Andrew Ippolito: To be fair, sometimes need. Why is everybody dying.
+33:51
+Andrew Ippolito: Okay, but the idea there is the human mind decides what that is.
+33:58
+Andrew Ippolito: So we, we make some kind of observation.
+34:03
+Andrew Ippolito: Okay, now this observation here. So here's the like college level version of this. Andrew Ippolito: The observation, you could think of.
+34:13
+Andrew Ippolito: As data from the last experiment. Andrew Ippolito: You're doing an experiment. And you're like, Hey, well that's interesting, the cells die, they weren't supposed to. I wonder why.
+34:24
+Andrew Ippolito: serendipity. Andrew Ippolito: Luck sometimes plays some very dramatic roles and these process. I can think of three science examples. And when that happened, I'll tell you them throughout the semester.
+34:39
+Andrew Ippolito: The guy that discovered Andrew Ippolito: Antibiotics, for example.
+34:44
+Andrew Ippolito: He was throwing a petri dish out and he noticed that there was this area of the petri dish, where
+34:50
+Andrew Ippolito: The contamination wasn't able to grow. There was a mold over there. The mold was somehow prevent protecting
+35:00
+Andrew Ippolito: The rest of the area and all that was preventing the best year from growing a
+35:05
+Andrew Ippolito: petri dish wasn't contaminated. To begin with, because he was being sloppy, he wouldn't have discovered that
+35:14
+Andrew Ippolito: So make sure your desk is a little messy all the time, not solid Andrew Ippolito: Hey, the point is is that this observation isn't always asked just going out in the world and walking for things. Sometimes they fall on our own map. Sometimes they're part of our last work.
+35:28
+Andrew Ippolito: Okay, and so we take that observation and our brain. We're storytellers. The human brain is a storyteller, by nature, what we do is we take
+35:38
+Andrew Ippolito: That observation and we immediately start trying to figure out what's going on. We see why. Right. One of the most fundamental questions of the universe. Why
+35:50
+Andrew Ippolito: And then, so this is now where the rationalism comes in. Andrew Ippolito: We say why we come up with a tentative explanation, a model.
+36:03
+Andrew Ippolito: This is the hypothesis. Andrew Ippolito: You are using reason here and you're not just generically using reason there's a specific kind of reasoning is called inductive reasoning and I need you need to know this.
+36:16
+Andrew Ippolito: The difference between inductive and deductive reasoning inductive reasoning is when you take something specific like this here observation. This is a what this is one data point this banana smells funny.
+36:30
+Andrew Ippolito: This one banana smells funny. Huh, I wonder if bananas that have been to have this thing happen to them start smelling funny all bananas. Right. So you're going from a specific thing to a general idea you're going up raise you can kind of draw like maybe like this.
+36:52
+Andrew Ippolito: You're going to a general concept. Andrew Ippolito: That and inductive reasoning.
+36:58
+Andrew Ippolito: And we're really good at it. Our brains are logical beasts, and in addition to their emotional centers, they have some really good logic circuits.
+37:06
+Okay. Andrew Ippolito: This plant is photosynthetic
+37:13
+Andrew Ippolito: I wonder if all plants are photos and that is the kind of basic idea. Okay, that that's inductive reasoning. Now here's the thing that ID you come up with that thought that. So there's a statement there. So that's another thing hypotheses are not questions.
+37:29
+Andrew Ippolito: Okay, the question is part of the process of developing it. The question comes from the phenomenon.
+37:35
+Andrew Ippolito: What's this thing. I wonder what that thing is this thing is a blank. That's the hypothesis. The statement there. Now here's the other thing that's the hypothesis. When you frame it you want to write it so that it sounds true
+37:50
+Andrew Ippolito: The sky is blue, because it reflects the ocean. tori bloemker: I have a quick question.
+37:57
+tori bloemker: Tom good tori bloemker: During the homework assignment. Um, you know how I know one of them has, like, it's like observation hypotheses.
+38:07
+tori bloemker: Prediction, and so forth. And you have to drag. Which one is correct, like to the box and I always thought like what I learned in high school like hypotheses are supposed to be like if then statements but
+38:21
+Andrew Ippolito: No, no, there that that is incorrect. Andrew Ippolito: So what you see, you see the next box prediction.
+38:29
+Andrew Ippolito: And deductive reasoning. That's the tori bloemker: Stuff. Okay. Yeah, because it said that. And I was like, I always thought it was like if then statements for hypotheses, like we were like forced to write them that way.
+38:41
+Andrew Ippolito: But yet again. Oh. Andrew Ippolito: Yeah, your Andrew Ippolito: Teacher. I mean, not everybody is this deep into the scientific methods that
+38:51
+Andrew Ippolito: If you were asked going gruff and dirty. You could do that because that kind of skip the step of the hypothesis itself.
+38:59
+Andrew Ippolito: Okay, you have to do that what you just said you have to do that next. And so sure. I bet you, you can just take these two and crush them together.
+39:09
+Andrew Ippolito: If you really want it to be like again at the high school level thinking just, you know, introducing these concepts to students, but so now that's why I said you're learning that college level version of this year.
+39:19
+Andrew Ippolito: We're going to go into a little bit more Andrew Ippolito: granular detail that's good, though. It's and thank you for telling me that I didn't realize that they were teaching at the high school
+39:27
+Andrew Ippolito: So yeah, we're going to take. We're going to take that idea and we're going to unpack it a little. We're going to expand it out into the into the detail. So the hypothesis itself is a statement.
+39:38
+Andrew Ippolito: It's not just any statement though God is dead. That's a statement that's not a scientific hypothesis. Okay, to make it the scientific hypothesis here. I want to skip ahead now to make it a scientific hypothesis.
+39:53
+Andrew Ippolito: It has to have a few characteristics. It has to be falsifiable
+40:00
+Andrew Ippolito: Able to be rendered false has to be testable and it has to have the power of prediction.
+40:09
+Andrew Ippolito: Here's another here's another you know if you're taking down my quotes here. So it's not science. If it's not predictive
+40:18
+Andrew Ippolito: Or here. Here's a better one, that the true power of science is in its predictive nature.
+40:25
+Andrew Ippolito: If it's not predictive it's not science.
+40:31
+Andrew Ippolito: Okay. For example, you discover a new species. Andrew Ippolito: You go, you're hiking along. And somewhere in the Southeast Asia. I did come across this extinct volcano that has a cave in it and walk inside of it, and you're in this like kind of weird Jurassic Park area.
+40:44
+Andrew Ippolito: It's been uncontaminated for millions of years right and and you see this little furry creature lumber and Georgia and it looks kind of like a mouse, but it's like on like a mouse, you've ever seen.
+40:59
+Andrew Ippolito: Okay, but this is a real thing. This happens it's rare but it happens we come across this on known creature and we look at it. We say, Oh, that's a mammal.
+41:11
+Andrew Ippolito: And then you immediately if you know your stuff you're rattling off and you must have four chambers heart. It's in the thermal it's got for it gives birth to live young. It has by an ocular vision or it's got stereoscopy or
+41:22
+Andrew Ippolito: If it's a predator. It'll have its you know eyes up front. If it's a pre species, it'll have its eyes on its side. There's all sorts of little things that you you know that like the word mammal comes along with
+41:36
+Andrew Ippolito: Now, I just saw this thing I've never seen him before. Right. Let's see you come across a dead one
+41:41
+Andrew Ippolito: So that you can do it, you know, so that we don't feel bad killing it to do experiments on we we find a deadline and we will open it up, we do an autopsy. We look it's anatomy and
+41:50
+Andrew Ippolito: Sure enough, it's got a fortunate heart and it's got the liver and it's got the kid. It's got all the stuff we predicted it would have that's that idea.
+41:59
+Andrew Ippolito: Okay, that's one example of how we do prediction. Andrew Ippolito: Another would be when when you know NASA engineers can launch a rocket ship and shoot a probe and land on a moon on like Titan.
+42:14
+Andrew Ippolito: Which is orbiting Jupiter. I'm sorry. Saturn. Andrew Ippolito: Right, you just think about it. Earth's doing this.
+42:20
+Andrew Ippolito: Right, we're doing this, actually we're spinning and we're moving through space. Andrew Ippolito: Saturn's doing the same thing Saturn's got a moon going around that while it's doing all that we're all moving in these crazy undulations are these these orbits and we throw something off our planet and we hit that planet bullseye.
+42:38
+Andrew Ippolito: That we are able to predict the trajectories based on what we know about science. And so we can land things on all sorts of places that are exotic
+42:48
+Andrew Ippolito: Okay, intelligent design. Andrew Ippolito: Let's talk about that for a second intelligent design.
+42:56
+Andrew Ippolito: Is a pseudo science. We can repeat it ID. Andrew Ippolito: Intelligent Design was postulated by a group of non denominational religious leaders and lawyers trying to challenge the law in New Jersey, years ago, to be able to teach creationism in the classroom, side by side with evolution theory.
+43:17
+Andrew Ippolito: Okay. And this was after they were told they're not allowed to teach creation in a science classroom next evolution theory. So like, All right, well, how about
+43:24
+Andrew Ippolito: How about we just get remove God from the equation and they came up with this thing called intelligent design the intelligent creator
+43:32
+Andrew Ippolito: There's this idea of the watchmaker analogy, where you're walking down the beach and you come across a watch, and the sand, you pick it up and you admire. It's complexities and the gears and all the engineering and you can't help but think about the person who made it
+43:48
+Andrew Ippolito: Somebody didn't just happen by chance the ocean didn't just, you know, Hawk up perfectly made watch
+43:56
+Andrew Ippolito: Right, that's the idea of intelligent design what comes out of intelligent design there. Nothing there are no predictions here.
+44:03
+Andrew Ippolito: Intelligent Design does not predict anything if intelligent design is real, then there's nothing. There's you can't come up with a testable hypothesis here.
+44:12
+Andrew Ippolito: That's why it's not so that's one of the reasons it's not science. The other reason is not sciences, you can't falsify it, you can always hand wave and explain why, whatever. And it's not
+44:24
+Andrew Ippolito: That that's enough. You can't falsify it and you doesn't make predictions. You can't test it to be true or not.
+44:31
+Andrew Ippolito: Right. Maybe it's true. I'm not. So I'm not saying intelligent design is false. I can't say that either. I can say it's not scientific. And that's all I can say.
+44:39
+Andrew Ippolito: This goes into the idea of pseudoscience. That's something else false science pseudoscience sounds like science people use the mystics and data and they sound confident in what they're saying and there's books on this stuff. And sometimes I have the word doctrine for their names.
+44:57
+Andrew Ippolito: Right. My favorite was reading a book called The force of evolution by Dr. So and so, and he was an astronomer. That's why he had a doctorate, and he was writing a book on why evolution wasn't true.
+45:10
+Andrew Ippolito: Not really sure what astronomy has to do with that. But yeah, the doctrine front of his name.
+45:16
+Andrew Ippolito: In the first chapter talks about him sitting in his library, smoking a pipe. Oh, he must be smart and I must trust him because he's in a library, smoking a pipe. It's kind of amazing how how this works. It takes advantage of the human brain, you know,
+45:29
+Andrew Ippolito: How we think about things. So anyway, that that's the hypothesis. Right. Andrew Ippolito: So even meets these criteria. It's a scientific hypothesis. Once you make this statement.
+45:42
+Andrew Ippolito: You can then use it to. It's a launch. Think of the hypothesis as a base of operations or base camp. This is where we're going to launch our adventure.
+45:52
+Andrew Ippolito: We're going to go off, we can go off into all these different directions. Okay, that hypothesis can make all of these different predictions.
+45:59
+Andrew Ippolito: Right, sometimes there's a fundamental one in there right these predictions are the if then statements that we were just talking about with Tori.
+46:07
+Andrew Ippolito: The idea that so so let's just go here, the sky is blue, right, you look up the sky is blue. Okay. And you're like, Oh, wow. I wonder why is the sky blue. There was a question.
+46:19
+Andrew Ippolito: The sky is blue, because it reflects the ocean. There's the steam.
+46:25
+Andrew Ippolito: If the sky is blue, because it reflects the water Andrew Ippolito: Then. And so somebody felt it in for me. Have fun. If the sky is blue, because it reflects the ocean, then make a prediction.
+46:43
+tori bloemker: Only half of the sky would be blue. Andrew Ippolito: Oh,
+46:48
+tori bloemker: That's an interesting one. Andrew Ippolito: And why is that because of it because you're like on land and
+46:53
+Do here. Andrew Ippolito: Okay. Okay, so, so can we can we test that. I mean, okay. Oh no, we can test it. We can look. No, the skies are blue.
+47:06
+Andrew Ippolito: So that's a load of hokey, can everybody has come up with a Andrew Ippolito: testable prediction here.
+47:14
+Andrew Ippolito: Another one. Andrew Ippolito: If the sky is blue, because it reflects the ocean. Then if
+47:28
+Angela Harbeck: Know, then you can bring in like the concept of sunsets and stuff and say them. What is the sky turn like pink and purple then
+47:35
+Andrew Ippolito: Okay, right. You could. That's good. So like Andrew Ippolito: If this guy was good because it reflected the Andrew Ippolito: Ocean, then why doesn't this guy change color the ocean, not changing color. I don't see a pink ocean or sometimes you do. I guess it's reflecting off, but then who's first to the who is the pink. The pink up from
+47:54
+Andrew Ippolito: Okay. My problem with that is, I just can't think of how to test that doesn't give me anything I can work with. I like it though.
+48:02
+Andrew Ippolito: But that doesn't give me the ability to do an experiment, which is what we're gonna do next year, but I like it. Anybody else or maybe you can take that idea and come up with a test for it. I can't, I'm not smart enough to like on the fly here to develop something like that.
+48:18
+Andrew Ippolito: But how about this, let's think about location. Andrew Ippolito: How about this one. If the sky is blue, because it reflects the ocean, then if we go into the middle of the continent.
+48:29
+Andrew Ippolito: Like Nevada or, you know, Ohio. Now they got the Great Lakes out there. Let's go somewhere like Arizona.
+48:38
+Andrew Ippolito: Right, if, if the sky is blue, because it reflects the ocean, then if I go to Arizona discussion. I'll be blue.
+48:46
+Andrew Ippolito: How's that Andrew Ippolito: Road Trip. Andrew Ippolito: So we go to Arizona.
+48:53
+Andrew Ippolito: We look up and the sky is gray haha check me
+49:00
+Andrew Ippolito: Right. Did we just prove it to be true. Andrew Ippolito: Or we just, no, no. Why not, why not, why not Jordan. You're shaking your head.
+49:08
+Andrew Ippolito: What's going on there.
+49:17
+Jordan Russell: putting me on the fly here. Jordan Russell: Probably wouldn't be true because you know you're automatically assuming that you know because this guy is grey, you're automatically correct that, you know,
+49:29
+Jordan Russell: That the ocean that the skies and reflecting the ocean. But did you take account to like whether, you know, it's just overcast, is that the reason why it's great. You got asked questions.
+49:42
+Andrew Ippolito: You got it exactly right. Right. So let's say you go to your scientific meeting and you're like, I just showed that this guy is not blue because our first word because it's gray out in Arizona.
+49:52
+Andrew Ippolito: And the audience member, raise your hand and say, well, that day. I mean, you're telling me you saw that January 27 2017 it was raining that day there was a storm going through the area.
+50:04
+Andrew Ippolito: Yeah. Right. Exactly. All right. Well, fine. All right. Well, so I'll go back to Arizona more road trip and now finding an excuse to travel and so you spend
+50:17
+Andrew Ippolito: A month, looking at the sky. And of course, you know, I think most places in Arizona. I'm sure that one of those days within the month is going to be blue.
+50:25
+Andrew Ippolito: Alright, so, so what did we just, what did we just do we just destroy the idea that the sky is blue, because it reflects the ocean. Right. There's no ocean out there.
+50:39
+Andrew Ippolito: Did I prove anything. Andrew Ippolito: No. And that's the secret to this science is not in the business of proving
+50:52
+Andrew Ippolito: All science can do is disproof Andrew Ippolito: And what's ever left standing. That's the most accurate thing, but that thing itself can be replaced by something else. Someday science is replaced by better science.
+51:06
+Andrew Ippolito: Okay, so we're not in the business of proving things. Well, you can prove that true that now. Now, you get it. That is not an argument you camp. Well, you can't prove us wrong either right like that's not what that's not what science does science doesn't prove
+51:24
+Andrew Ippolito: I just destroyed your idea come up with something better.
+51:30
+Andrew Ippolito: Or I just destroy my own idea. I have to come up with something better.
+51:35
+Andrew Ippolito: Okay, so this this if then statement. Okay, so you come up with this, you come up with a tentative statement that explains the thing. And from there, you come up with this if then logic that's deductive reasoning.
+51:49
+Andrew Ippolito: Deductive reasoning is when you start with a generality, and you've come up with a hypothetical specific already. So one way you can think of all this reasoning is we start with some single observation that gives rise
+52:04
+Andrew Ippolito: To this generality. Andrew Ippolito: And then from that generality, we can come up with another idea. And the cool thing is, is we can come up with a whole bunch of them.
+52:14
+Andrew Ippolito: Each one of these points represents a different prediction.
+52:19
+Okay. Andrew Ippolito: And that's, that's the, that's the rationalism and science.
+52:26
+Andrew Ippolito: I made this observation I came up with this generality. This generality leads to all sorts of these individual predictions.
+52:35
+Andrew Ippolito: Okay, so this is the inductive reasoning and this is the deductive reasoning.
+52:41
+Angela Harbeck: Have a question. Andrew Ippolito: Yeah, go ahead. Angela. Angela Harbeck: So the inductive reasoning. That's like more for hypothesis and then the deductive is for like prediction.
+52:51
+Andrew Ippolito: You got it. That is exactly right. Angela Harbeck: Good.
+52:57
+Andrew Ippolito: Okay, so. So here's a slide on that. Andrew Ippolito: So this idea of inductive reasoning specific ideas or specific you can say observations.
+53:07
+Andrew Ippolito: general concepts. Andrew Ippolito: Okay, we've all heard we all deal with stereotypes. Okay, a stereotype, the concept itself is a mental shortcut.
+53:21
+Andrew Ippolito: We evolved to survive. Right. Our job is to not die. That's you could think of it that your everyday life. You're just you're every moment to moment is just a moment of not die. That's, that's life. It's just not
+53:35
+Andrew Ippolito: Okay, and one of the reasons that we don't die. We're making decisions every moment of every day that lead us to not die.
+53:45
+Andrew Ippolito: Okay. And so one of the things that we do is when we're in situations that are sudden like you're driving your car and somebody you know
+53:53
+Andrew Ippolito: cuts you off, and you have to slam on the brakes right think that situations like that where we're given partial information and we have to make a decision. And it's a life or death situation or maybe it's an inconvenience. Let's, let's not go to extremes necessarily
+54:10
+Andrew Ippolito: What our brain does in these moments is very quickly builds a hypothesis and comes to a conclusion and then makes an action out of it. We have to do it to survive. Sometimes
+54:23
+Andrew Ippolito: And our brains are really good at at why they evolved to the point where I mean we're still around, right, our brains we inherited from our ancestors and ancestors and assets are the answers and and they all survived. So we're really good at this survival thing.
+54:36
+Andrew Ippolito: A stereotype. Andrew Ippolito: Is based on partial information. And that's exactly what inductive reasoning is
+54:45
+Andrew Ippolito: Stereotypes are not hard coded into our brains. Our brains are capable of making stereotypes, but we all start with a clean slate.
+54:54
+Andrew Ippolito: And so all the stereotypes, though we all hold our from our direct experiences or education or the culture that we surround ourselves with or the shows we watch whatever we come up with all these stereotypes.
+55:10
+Andrew Ippolito: So the reason why our brains are wired that way is for survival. But as humans we be we have the power of recognizing it for what it is, which is why we can overcome our stereotypes.
+55:21
+Andrew Ippolito: That make sense. Andrew Ippolito: That's part of being human. That's part of being scientifically literate.
+55:27
+Andrew Ippolito: Really just being educated is being aware of that stereotypes are there and being able to know that and being able to say, hey, that's just my brain, looking at that stereotype. Let's look at this and or more realistic way.
+55:41
+Andrew Ippolito: So that's inductive reasoning. Okay. Andrew Ippolito: This is how we use our brain to develop hypothesis deductive reasoning is we take these general take take the stereotype make a prediction and then test it.
+55:56
+Andrew Ippolito: Right. One of the fun ones I came up with. You're sitting Andrew Ippolito: What will we do systematics will do this to actually know what I'll say that story for a woman do taxonomy, nevermind.
+56:07
+Andrew Ippolito: So the, the idea here is, is it, it gives us a pool to work with these these various predictions, give us the ability to take them and go and test them.
+56:17
+Andrew Ippolito: We do that by developing experiments. We'll talk about that later. So here's, here's the ideas of these reasonings are some real examples are so Dr. I mean, I'm definitely right here. That's a specific observation. Okay, I'm a biology professor
+56:33
+Andrew Ippolito: So these are the premises. This is the major premise. This is a minor premise. And here's the inference all biology professors are definitely right here.
+56:44
+Silly Andrew Ippolito: Actually Dr Gospel is kind of definitely right here I should I should lift in this guy. He's just kind of death all around.
+56:55
+Andrew Ippolito: Including his left here though right here. Andrew Ippolito: I wonder, right. So you're like that read your brain to be curious about it. I wonder if all biology professors are somehow right definitely right here. That would be really bizarre.
+57:09
+Andrew Ippolito: Okay, but that's that's rationalism right there that and of course that's ridiculous.
+57:15
+Andrew Ippolito: But that's the conclusion that you draw. So, so, of course, what do you do, you have to go and test it. That's where the empiricism comes in.
+57:22
+Andrew Ippolito: In this case, all we have to do is send a bunch of emails to a bunch of biology professors and ask them a question if they're definitely right here and they write back and see why you harassing me
+57:30
+Andrew Ippolito: This is such a strange question. Andrew Ippolito: Just yes or no. It's a simple question, Dr.
+57:43
+Andrew Ippolito: Okay. All right. All people are mortal. Dr. Eyes, a person
+57:50
+Andrew Ippolito: Is mortal Andrew Ippolito: Right, we're going from a general concept here.
+57:59
+Andrew Ippolito: To a specific Andrew Ippolito: Rican test that to just trying to kill me.
+58:04
+Andrew Ippolito: Have at it.
+58:11
+Andrew Ippolito: You guys get the idea. Andrew Ippolito: Hi, I'm on this side of the screen. You can't try to kill me.
+58:22
+I was just about to make an Alexa Alexa, because after I
+58:31
+Andrew Ippolito: write tests testable prediction. Andrew Ippolito: So, Tori. Do you see the difference now between the hypothesis and the prediction.
+58:38
+And how they're actually different things. tori bloemker: Yeah, and I like I got confused like I do Quisling a lot and I wrote down like my definitions, um,
+58:49
+tori bloemker: And I think I mixed one of them which like really confused me as in like the hypothesis and the inductive reasoning. I think I switched the inductive and deductive
+58:58
+Andrew Ippolito: That like Andrew Ippolito: That's fine. tori bloemker: I did that. Andrew Ippolito: For so many years.
+59:03
+Andrew Ippolito: It takes a long time for your brain to finally settle on this. Andrew Ippolito: You can do index cards you can do examples, but then at the end of the day, you're sitting there on the quiz or the testing like deductive reasoning. Yeah. Trust me, I
+59:16
+Andrew Ippolito: Get it, it's this is something that you guys are going to price do over for the next 10 years of your life until you finally get it that or or you're like what I did. This doesn't make sense. A while the belief for you.
+59:30
+Andrew Ippolito: I did not get this. The first couple of times. Andrew Ippolito: Now here's the thing, this. So this is not in your book, but this is important. There is actually a third kind of reasoning and this reasoning relies on the idea that you don't always have
+59:43
+Andrew Ippolito: A full set of knowledge. In fact you frequently don't in fact you normally don't have inductive reasoning is the kind of reasoning, you do when you
+59:53
+Andrew Ippolito: Basically have an incomplete set of data. This is what doctors do this but detectives do with journalist.
+1:00:00
+Andrew Ippolito: Right, you go to the doctor and like I don't feel so well my throats read and I have a fever, you have typhoid i don't know i diphtheria or Calera no I don't cook. What does he have right well i need to do some tests here.
+1:00:15
+Andrew Ippolito: Right, that's abductor reasoning. Andrew Ippolito: inductive and deductive reasoning. That's hardcore logic that we assume again we're making an assumption here. The, the inferences and the premises, you're making are true that the
+1:00:28
+Andrew Ippolito: That the stuff you're working from is absolutely true. Their facts of deductive reasoning as well. That might not be true. Okay. Now, this, this won't be on the test. Just be aware of the fact there's more to this than you think.
+1:00:42
+Andrew Ippolito: Okay. Andrew Ippolito: Well, by the way, this is the kind of reasoning Sherlock Holmes users and all the books. If you ever hear
+1:00:50
+Andrew Ippolito: Did what did you say Jordan Russell: Deduction, my dear Watson.
+1:00:56
+Andrew Ippolito: Did but he says deduction. Andrew Ippolito: Yeah, it's funny. Like, I haven't. This stuff is contaminating my my social memory of all the fun stuff deduction deduction, but it's not deduction. He's not using the
+1:01:08
+Elementary. Andrew Ippolito: Elementary. Yeah, thank you. That's what is elementary Montana, Watson.
+1:01:16
+Give me a coffee. Andrew Ippolito: Medical Doctor, I'm not a man
+1:01:23
+Andrew Ippolito: There's a great show. You guys should you guys watched Sherlock. That's another good one. Yeah. Sherlock wasn't me. If you haven't watched Sherlock go to Netflix type Sherlock. It's got Dr. Strange in it.
+1:01:35
+Andrew Ippolito: Benjamin cummerbund Jordan Russell: Can never see his last Benedict Cumberbatch.
+1:01:41
+Yeah, that's it. Andrew Ippolito: He's really good. He's a, he's a wonderful Sherlock. He is the humor is on its you watch the show. It's great. Alright experiments, we're going to test the prediction.
+1:01:57
+Andrew Ippolito: Right, we're going to destroy it. We're gonna try this, try an experiment is a carefully.
+1:02:03
+Andrew Ippolito: Orchestrated test set up with the intent to destroy not to support
+1:02:12
+Andrew Ippolito: That's the key to this and that's what takes advantage again of the human minds. I want to be right, your experiment has to be able to destroy it.
+1:02:24
+Andrew Ippolito: And if it can destroy it. You got to try again. Andrew Ippolito: And again and again and again and again and right there. You're going to develop a whole body of literature, trying to destroy, you're not actually saying we're going to try to disprove this. I mean, we don't talk like that, but that's the intent behind it all.
+1:02:43
+Andrew Ippolito: Okay. Andrew Ippolito: And if it's well crafted
+1:02:49
+Andrew Ippolito: It will always give interpreted will data.
+1:02:55
+Andrew Ippolito: Right, no matter what you'll be able to pull something out of it.
+1:03:01
+Andrew Ippolito: Notice that the word proof is out of a lexicon. We're not using the word proof, proof is a math.
+1:03:11
+Andrew Ippolito: In hardcore science parlance its support or refute
+1:03:17
+Andrew Ippolito: You'll see people use the word prove Andrew Ippolito: But you have to understand that they're not proving it.
+1:03:27
+Andrew Ippolito: They're simply refuting the opposite hypothesis.
+1:03:33
+Andrew Ippolito: What do you mean the opposite hypothesis. So here's the thing. I'm getting this your book doesn't give you this, and I'm sorry, it should. When you learn this stuff, you should always get this ready I'm gonna, I'm gonna go back here for a second, so bear with me here. There's your hypothesis.
+1:03:52
+Andrew Ippolito: Hypothesis. Okay, that's your, you know, whatever that statement is
+1:03:59
+Andrew Ippolito: Every hypothesis has kind of a mirror to it called the null hypothesis.
+1:04:08
+Andrew Ippolito: And the null hypothesis. You can sometimes abbreviate that like that. No, no, empty set, the null hypothesis is the thing we're trying to destroy
+1:04:20
+Andrew Ippolito: If we can't destroy the null hypothesis.
+1:04:26
+Andrew Ippolito: Then our hypothesis or wrong. Andrew Ippolito: It's kind of like learning division. After learning of multiplication. It's not super intuitive.
+1:04:35
+Andrew Ippolito: Okay, so if you come up with the idea, like a elves exist ready cure elves.
+1:04:43
+Exist. Andrew Ippolito: That's my hypothesis.
+1:04:49
+Andrew Ippolito: So what's the null hypothesis. Andrew Ippolito: Elves Andrew Ippolito: Do not exist just it just, just flip it around and make it negative this drug kills cancer cells. This drug does not kill cancer cells, there's always two hypotheses.
+1:05:08
+Andrew Ippolito: Just like there's always a shadow. If there's like Andrew Ippolito: Which one of those statements here. Which one of these statements here.
+1:05:18
+Andrew Ippolito: Is really Andrew Ippolito: The testable one
+1:05:30
+Andrew Ippolito: You know what, this isn't a great example of a scientific. So first of all, this isn't a scientific iPod, you can't you can't prove this, right, I mean invisible elves holding our breath.
+1:05:43
+Andrew Ippolito: Which one of those though. Which one of those statements is more easily falsified.
+1:05:53
+Andrew Ippolito: This is hard to think about for the first time. And I'm sure that nobody's ever given consideration to these kinds of questions before forcing you to do this now. It hurts. Which one of those statements is more easily rendered wrong.
+1:06:08
+Alexa DePrisco: The hypothesis that Andrew Ippolito: The first one, this one,
+1:06:14
+Andrew Ippolito: Why do you think that Alexa DePrisco: Because there's probably a lot more evidence that they wouldn't exist. So that would be easier to disprove right
+1:06:26
+Andrew Ippolito: Okay. Andrew Ippolito: Okay, I'll buy that. But, so how about. Let me give you this take on it.
+1:06:33
+Andrew Ippolito: If I couldn't. So the elves exist. I can't show you an elf.
+1:06:39
+Andrew Ippolito: I don't have one handy. You just gotta trust me will go find one. I can't they're invisible.
+1:06:46
+Andrew Ippolito: Right, so that that's hard. Do we can know that that's a hard one to to try to destroy elves do not exist.
+1:06:53
+Here's an elf. Andrew Ippolito: Put me down. Andrew Ippolito: Yeah, I can give them to you. You could do tests on them. You can know his DNA has got sugar in it.
+1:07:04
+Andrew Ippolito: Right. The idea is x does not exist. Andrew Ippolito: Or x is false. Whatever this is, in other words you come up with a statement like that. That's the one that you're actually going after.
+1:07:23
+Andrew Ippolito: Because that's the easy one. You can just show it to be true, by presenting evidence for
+1:07:29
+Andrew Ippolito: This. So this right here, this is why the default state of a scientific mind is skepticism.
+1:07:39
+Andrew Ippolito: There is an infinite number of things that could exist.
+1:07:45
+Andrew Ippolito: Right, just make up something in your head. Andrew Ippolito: There's an infinite number of things that could exist.
+1:07:52
+It's irrational. Andrew Ippolito: To believe in. All right.
+1:07:57
+Andrew Ippolito: So then the question is, what of this infinite set of things that could Jordan Russell: Exist. Andrew Ippolito: A subset of that infinite set does exist, right, and then within that set of things. So here, let's just, like, think, think of it this way. There's this infinite set of things that could exist.
+1:08:15
+Andrew Ippolito: Like elves. Andrew Ippolito: And within that set Andrew Ippolito: There's a finite set of things that do exist. Right. And within that said there's actually two sets, there's a set of things that do exist and we have evidence for
+1:08:32
+Andrew Ippolito: And there's another set of things that do exist, that we don't have evidence for yet.
+1:08:38
+Andrew Ippolito: That makes sense. Andrew Ippolito: Right. So this right here, these are all the things we're meeting to be discovered by us.
+1:08:46
+Andrew Ippolito: What's dark matter. Andrew Ippolito: Okay, these are all the things that we have evidence for
+1:08:54
+Andrew Ippolito: Here's Advil Take it would take an Advil, if your back hurts.
+1:09:01
+Andrew Ippolito: Right, so, so there's, there's, there's all the things that exist.
+1:09:06
+Andrew Ippolito: Which is a subset of things that that could exist so right. So there's another set of things here. I guess you could argue this is infinite of things that don't exist.
+1:09:18
+Andrew Ippolito: They don't exist. The problem is, and so this is where skepticism plays a critical role, and this is why thinking like a scientist is so important. There is no way to distinguish between the things that do not exist and the things that do exist that we lack evidence of
+1:09:39
+Andrew Ippolito: These two things. Andrew Ippolito: To the casual observer look exactly the same.
+1:09:47
+Andrew Ippolito: Right.
+1:09:52
+Andrew Ippolito: And so Andrew Ippolito: If there's an infinite number of things that you could exist. Andrew Ippolito: That don't exist if there's an infinite number of things that could exist.
+1:10:03
+Andrew Ippolito: And there's only this small little fraction of things that we have evidence that exist.
+1:10:09
+Andrew Ippolito: Doesn't make sense that this is the only stuff that we accept as truth.
+1:10:15
+Andrew Ippolito: Because there's no way to distinguish between the stuff that doesn't exist, and the stuff that does exist, but we don't know it exists.
+1:10:24
+Andrew Ippolito: Because we can't be sure yet.
+1:10:32
+Jordan Russell: This is, this is like really out there but like Jordan Russell: Go ahead. What a good like hospital example would be like the mega Don how like it did exist, but there's no current or at least to my knowledge, that there's no actual proof that it still exists today because I know like that's a big like theory is that the mega Don sharks like
+1:10:55
+Andrew Ippolito: It could be busy. Andrew Ippolito: He's still out there hunting.
+1:11:01
+Waiting to kill us. Andrew Ippolito: Yeah, exactly. I mean, I didn't see the movie I saw the preview. I don't think I could stomach, the movie, honestly, after seeing the preview.
+1:11:11
+Andrew Ippolito: I saw the movie. It was a good I liked it. Andrew Ippolito: Okay, maybe I'll go see. Andrew Ippolito: Them away. I can't go anywhere to see it.
+1:11:17
+Andrew Ippolito: Maybe I'll go watch it on my Jordan Russell: It was on HBO or something. The other night. Jordan Russell: Okay. Andrew Ippolito: All right.
+1:11:23
+Andrew Ippolito: But yeah, so the idea is there are you know what terrorists are out there and the deep ocean.
+1:11:29
+Andrew Ippolito: Who knows. So yeah, that did that as a good example. We don't have any so the default says we don't accept it exists, but
+1:11:36
+Andrew Ippolito: Maybe it does. That's why we're going out to look right. That's why researchers go in and they're curious, we have these fossil evidence that it existed at some point.
+1:11:45
+Andrew Ippolito: Right horseshoe crabs still exist, we have evidence for those. And they're really old who maybe there's a shark out there that we haven't found yet. Exactly. Now let's say that you came out with
+1:11:55
+Andrew Ippolito: Let's say you came up with the idea of a drag dragons exist. Andrew Ippolito: Well, that's just silly. There's no, there's, there's no fossil evidence said dragons existed. Right. And in fact, the idea of the Dragon itself came from.
+1:12:08
+Andrew Ippolito: People who uncovered dinosaur fossils and we didn't know about dinosaurs didn't know anything about anything back in the dark. He does come up with it, you know, big, you know, trying to source or excellent that's dragging
+1:12:21
+Andrew Ippolito: Right. You guys know where the Cyclops came from. Andrew Ippolito: The idea of the Cyclops. If you look at an elephant skull. It looks like a Cyclops go. It's got one big horn, the center where
+1:12:32
+Andrew Ippolito: They used to think that's where the eye socket was for the Cyclops Yeah. Pretty cool.
+1:12:39
+Andrew Ippolito: Okay, so, so that's hopefully I'm starting to get through to you the idea that the scientific minds. Our default state is disbelief, because the alternative to that is accepting everything without evidence. And that
+1:12:55
+Andrew Ippolito: You're going to kill everybody with the drugs, you're developing Andrew Ippolito: Right here, stand on your head and say amen days, three times and you'll get rid of coven
+1:13:09
+Andrew Ippolito: That's ridiculous. Well, that Andrew Ippolito: That's somewhere in here right
+1:13:18
+Andrew Ippolito: I mean, you know, it's probably in here. Well, we don't know. We don't know.
+1:13:24
+Andrew Ippolito: But it just makes sense. That doesn't make any sense to anybody standing on your head and saying Amadeus three times. I just made that up.
+1:13:32
+Andrew Ippolito: So we have to test things and experiments are our best way of doing it. We designed the experiment with the intent to destroy. Okay. And so within experiments. And we're going to talk a little shop here you got variables.
+1:13:44
+Andrew Ippolito: Okay. The ideal experiment we're talking about here when you design your experiment, this is this is a skill. Andrew Ippolito: You know you had your labs or simulation where you do experimental design. If you've done it already, maybe go back and play with it again just to now that you're getting all this
+1:13:57
+Andrew Ippolito: The idea is, with an experiment is you want to isolate one variable, so that you can determine whether or not the system.
+1:14:09
+Andrew Ippolito: Say let me say it a different way. Andrew Ippolito: The, the best design experiment keeps everything the same except one thing
+1:14:17
+Andrew Ippolito: And that way you can isolate it and you can be confident about the results. That's the secret to a good experiment. It's the output of this is confidence.
+1:14:31
+Andrew Ippolito: You're either highly confident in the results or you are not confident at all and the results.
+1:14:37
+Andrew Ippolito: Many wasted your time to build confidence in an experiment, you have to make sure it's designed a sound and it is
+1:14:47
+Andrew Ippolito: It contains the proper controlled variables. Okay, so here's how it works.
+1:14:52
+Andrew Ippolito: I'm going to be able to, I'm sure that you've heard about the independent independent variables, your entire life when you learned about this stuff.
+1:14:58
+Andrew Ippolito: But like it was hard to figure out which is which. Here's how it works. The secret to this, all I'm going to jump to the blackboard here. The secret to it all is. There is some
+1:15:11
+System. Andrew Ippolito: Okay but system will learn about this more thermodynamics later a system is just a collection of matter within a defined space. It could be a test tube.
+1:15:25
+Andrew Ippolito: It can be a room. Andrew Ippolito: It could be a planet. Andrew Ippolito: Okay. You get to decide as the person designing experiment.
+1:15:34
+Andrew Ippolito: Okay, so there's there's some system. And I just close, close it. I didn't mean to draw a little over there.
+1:15:40
+Andrew Ippolito: Right, so it's just the end their stuff in the system, whatever it is, whether they're missing in cage or, you know, people out in the city. It doesn't matter. There's, there's, there's parts their constituents of the system.
+1:15:55
+Andrew Ippolito: Okay. And then, so there's the system. And then there's the environment.
+1:16:00
+Andrew Ippolito: Right, the outside of the system.
+1:16:05
+Andrew Ippolito: within that system. Andrew Ippolito: There's one thing that you care about some variable, I'm being a little abstract here that square just represents some variable, it might be the weight of the mice. It might be the
+1:16:21
+Andrew Ippolito: Life expectancy of the people, whatever it's, there's something in there. Andrew Ippolito: And then there is a variable that you're controlling
+1:16:32
+Okay. Andrew Ippolito: Let me say that differently. I'm sorry, guys, I'm doing kind of just off the cuff here that this is the variable that you're looking at, because it's important, whatever it is.
+1:16:48
+Andrew Ippolito: And there's another variable. Andrew Ippolito: Let's make it a triangle here. There's another variable. You're in control of as the as the experimenter. Notice I drove outside the system.
+1:17:00
+You get to decide that one. Andrew Ippolito: And this depends on this. So, here, let me give you a simple example to put up with an idea in your head. Let's say that we were asking that question. What is the impact of sugar on obesity in mice.
+1:17:20
+Andrew Ippolito: Okay, so here. Here's the observation. Hey, I had a pet a pet mouse named Bob and and I said, Bob, a lot of my candy from Halloween and they got really fat.
+1:17:35
+Andrew Ippolito: I wonder if sugar makes mice fat people people in America tend to be fatter than average. We have an obesity epidemic maybe has to do a sugary stuff or drinking. Right. So, so let's develop this hypothesis here like sugar.
+1:17:53
+Andrew Ippolito: Over. Over. Ingestion of sugar leads to obesity.
+1:17:58
+Andrew Ippolito: Okay, so how can we investigate that. So imagine I had you know 10 mice.
+1:18:05
+Andrew Ippolito: And all the mice are in these cages right I've said, I'm not going to try to keep this and so that cage is the same size has a similar amount of light, same temperature
+1:18:16
+Andrew Ippolito: I have a little you know i below the water bottle on them. They have the same amount of water coming in.
+1:18:22
+Andrew Ippolito: And I'm going to take these 10 mice, and I'm going to feed them different amount different amounts of sugar.
+1:18:29
+Andrew Ippolito: Okay, so let's think about the variables now. So you tell me in my little pretend system here.
+1:18:35
+Andrew Ippolito: What's the variable. Don't worry about dependent independent. What's the variable we care about that we're looking at in this experiment. What's the output.
+1:18:47
+Taylor Campbell: Which which variable. Andrew Ippolito: Is the important one.
+1:18:52
+Taylor Campbell: Like measuring their weight during Taylor Campbell: Their Andrew Ippolito: Good. The weight of the mouse.
+1:18:57
+Andrew Ippolito: Exactly. Okay. And then that variable mouse mass
+1:19:06
+Andrew Ippolito: There's an. What's the other variable that we get to control Taylor Campbell: How much sugar.
+1:19:12
+Andrew Ippolito: We're getting sugar. Exactly. And that's it. Everything else is details right and you can think of it that way. Everything else is just detail.
+1:19:19
+Andrew Ippolito: How big the cages how warm it is how much exercise. They get if they have letter mates or not, as long as all of those things are the same for all of them. It doesn't really matter which which
+1:19:32
+Andrew Ippolito: Which values do I pick, how big should I make the cage. What temperature to keep them at that's that's a whole nother conversation.
+1:19:39
+Andrew Ippolito: You know, optimizing experimental conditions or maybe we keep them all at room temperature. And, you know,
+1:19:45
+Andrew Ippolito: Well, how, how many cases are we allowed to buy with our budget, then you have to start worrying about money like should I buy a cage. So if you know one foot long. Well, how big is the room. We have the store these animals it right so
+1:19:54
+Andrew Ippolito: There's all these things you have to worry about. But let's just gloss over all that they're all the same. We got two variables, how much sugar how fat, they get or what their masses. Okay. So which one of those variables is the dependent and which one's the independent
+1:20:09
+Andrew Ippolito: Let's see if you guys can already do this without me, explaining that
+1:20:17
+Andrew Ippolito: Alright, so here's the key. Yeah, that's what I thought I had so much trouble with this for many years, here's the secret. This is why I taught it this way. See that
+1:20:25
+System. Andrew Ippolito: Okay that system has one of them in there.
+1:20:30
+Andrew Ippolito: And one of them out. Andrew Ippolito: Okay, so think about that. What's this triangle represent does that represent the mass of the mouse or does that represent the amount of sugar. I'm giving them.
+1:20:42
+Andrew Ippolito: Exactly branded Andrew Ippolito: It lives so ready that variable is independent of the system.
+1:20:50
+Andrew Ippolito: That's why we call it the independent variable. Branden Lane: The other one
+1:20:56
+Andrew Ippolito: Or the other one depends on that variable. Andrew Ippolito: That's the dependent variable.
+1:21:01
+Andrew Ippolito: There you go. So, picture all experiments. Andrew Ippolito: There's like a lever or a button or a dial controlling something
+1:21:14
+Andrew Ippolito: That's the one. The researcher gets to control. That's the independent variable.
+1:21:19
+Andrew Ippolito: And it's independent of the system. Andrew Ippolito: And then it's directly connected to some other variable.
+1:21:25
+Andrew Ippolito: You turn the dial and it gets brighter, are you turning the dial and it gets fatter, or you turn the dial and it gets sicker, whatever, whatever you're studying. There's, there's a direct relationship between these two things. And then everything else is detail.
+1:21:40
+Andrew Ippolito: A poorly designed experiment will have multiple variables that are dependent and independent
+1:21:49
+Andrew Ippolito: Right, let's say that you ran this experiment, and you were not a good researcher and you weren't thinking too much. And let's say that you use.
+1:21:57
+Andrew Ippolito: Some of your cages were bigger than others. Some of them included a little wheel, he can run on some of them had more water in it. Some of them, whatever. Some of them had litter meats in there. Some of them are isolated.
+1:22:08
+Andrew Ippolito: Right. And now your data is all over the place. Maybe the ones that are isolated without a wheel or depressed and they don't need as much
+1:22:14
+Andrew Ippolito: Or as the ones that have all their toys and a bunch of letter means to play. They're all more active and they're happier and they eat more.
+1:22:20
+Andrew Ippolito: Or maybe you have one that's near a refrigerator that makes a bunch of noise and that freaks them out and he's got a lot of stress. And so he loses more weight than he should. But he's the one that had more sugar right
+1:22:33
+Andrew Ippolito: Now, when you do the experiment, you're not confident and results.
+1:22:38
+Andrew Ippolito: If you go to present that at a national conference or Andrew Ippolito: Or your boss and you're like, look, the data is all over the place. I cannot show a relationship between sugar and wheat. Well, let me look at your experimental reason why do you have them all in different sized cages.
+1:22:53
+Andrew Ippolito: Oops. Andrew Ippolito: These are common conversations you have with first year grads students
+1:23:03
+Angela Harbeck: You know, you're, you're training somebody and they'll Andrew Ippolito: Go ahead, Angela. Angela Harbeck: So you're saying that the independent variable is the thing that um you change. And then the dependent variable, like I do, is the one that you don't touch.
+1:23:17
+Andrew Ippolito: It's the one you would measure Andrew Ippolito: But yeah, that's another way you can say that too. It's the one you don't Angela Harbeck: Touch
+1:23:23
+Andrew Ippolito: It's the one you're just looking at look but don't touch. Andrew Ippolito: Because then you're influencing it and now it's independent of the system.
+1:23:32
+Andrew Ippolito: Good. Andrew Ippolito: And I like that. I like the reflecting you're doing there, though the mirroring your you give me. I keep doing that. That's, that's a good that works that helps me because I'm sure that your, your statements are also a proxy for at least half the class.
+1:23:48
+Alexa DePrisco: And branching off of what Angela said them the independent would be the control because you're not. It's just like staying the same. And you're making sure
+1:23:57
+Andrew Ippolito: So the control is Andrew Ippolito: Everything else the control. Oh, hold on, hold on. Okay, I'm going to destroy this slide. Now I can't go back to the PowerPoint without losing this. That's why I use whiteboard, usually. Okay. Okay.
+1:24:11
+Andrew Ippolito: You see how this is controlled variables. Andrew Ippolito: controlled variables. So the control okay controls are different. We haven't gotten there yet. That has to do with the different cages themselves. Right now we're just talking about the stepping back at the whole experiment and we're looking at the things we're interested in.
+1:24:30
+Andrew Ippolito: Dependent independent. Okay, so now let's let's take what Alexa just said as a segue now. So here's the thing. We have let's see one, two roads can use. I want to make this quicker 1-234-567-8910 there are my 10 mice just pretend. Those are cages and setups and stuff. Okay.
+1:24:49
+Andrew Ippolito: And so we're asking the question, butter, sugar, do what impact sugar have on their mouth.
+1:24:55
+Okay. Andrew Ippolito: This first mouse. So we need a baseline right we need something to compare our data to this is what a control is all about.
+1:25:08
+Andrew Ippolito: The first control this. This first box I drew this control is going to be mice that get an ordinary amount of sugar in their diet, whatever, a mouse would normally eat. We'll call this the negative control.
+1:25:23
+Andrew Ippolito: The negative control of an experiment, not so less than not all experiments have to have multiple controls. Okay, some experiments might just have one control like this experiment would probably be fine with just that one control.
+1:25:38
+Andrew Ippolito: A mouse with a normal amount of show. So in other words, if we talk about supplemented sugar. Okay, let's. So let's say that we fed these mouse these mice, whatever they normally eat. Let's see that the two pallets, a day of their food.
+1:25:51
+Andrew Ippolito: So we give all of the mice two pallets of food. Okay, including that first one. Now that first one that's all we're going to get them. So let's say will say here pellets. We're going to give everybody two pallets of food.
+1:26:08
+Andrew Ippolito: Blah, blah, blah. Okay, the second mouse. We're gonna also let's say
+1:26:14
+Andrew Ippolito: Sugar. Andrew Ippolito: A supplement. So the first mouse, no sugar.
+1:26:20
+Andrew Ippolito: The second mouse, let's say one unit of sugar. Don't worry about the unit, sir.
+1:26:25
+Andrew Ippolito: Because you can see where I'm going here 2345678 up to nine units of sugar.
+1:26:34
+Andrew Ippolito: Okay, so each mouse is getting a progressively increasing the amount of sugar again and their diet.
+1:26:42
+Andrew Ippolito: So the negative control. The reason why this is so important is this lets us compare the rest of these to it.
+1:26:53
+Andrew Ippolito: Right. So if we weigh these guys every day for, let's say, three months.
+1:26:59
+Andrew Ippolito: Okay, so we we take them out every day we take our little mouse. We put them on a little scale and we get a number and we record that in our notebook.
+1:27:07
+Andrew Ippolito: And we just do that every day for all 10 mice at the exact. So what kind of controls. Can you imagine there. We have to make sure we do it at the same time.
+1:27:15
+Andrew Ippolito: We have to make sure do we decide to weigh them before after their bowel movements. They meet those little pellets that go all over right one mouse can make 75 pellets a day. That's a lot of poop.
+1:27:26
+Andrew Ippolito: How do you know that I have a mouse problem my basement. I've been dealing with. I know, that's why I'm kind of grumpy about this.
+1:27:34
+Too many mice in my house. Andrew Ippolito: So, Andrew Ippolito: You do everything the same you measure them in all the same way, right, because let's say that some of them. So, so here's where the experimenter can start fudging things if you are an unethical researcher or just a newbie.
+1:27:53
+Andrew Ippolito: Right, let's say so. So you guys based on what we've talked about this far. Which one on those mice that make your mental prediction which mouse would you predict would be the fattest
+1:28:06
+Angela Harbeck: Last one. Sure. Andrew Ippolito: Alright, so let's say Andrew Ippolito: That you're doing this experiment in the lab and you're weighing these guys every day and you really want to be convincing with your data.
+1:28:19
+Andrew Ippolito: And so the last, you know, my 789 you weigh them before they poop.
+1:28:28
+Andrew Ippolito: You weigh them you're watching them you weigh them just after they drink their water.
+1:28:33
+Andrew Ippolito: The others. Andrew Ippolito: You let them poop. Andrew Ippolito: And maybe you wait for them to pee.
+1:28:41
+Andrew Ippolito: And then you take them in your measure of them. Andrew Ippolito: Do you see how you're now introducing some some changes here, your, your, your data is gonna be different.
+1:28:53
+Andrew Ippolito: than somebody else doing the experiment. So what keeps you honest.
+1:29:00
+Andrew Ippolito: What what keeps you honest, what kinds of safeguards, do you think there are in place in the real world that prevent people from doing things like that.
+1:29:10
+Andrew Ippolito: Remember I told you that science has to be able to be reproduced
+1:29:16
+Andrew Ippolito: You have to share it. So you're showing the world here. Look at my chart.
+1:29:21
+Andrew Ippolito: Well you that it's clear that sugar makes mice fat.
+1:29:26
+Andrew Ippolito: Well, I repeated your experiment. And while I did see that trend. It was really not nearly as significant as what you're claiming it to be. I don't think that sugar plays as much of a role on obesity as you think it does.
+1:29:41
+Andrew Ippolito: And in fact, none of us found your data, you must have been, you know, and so people get after so so that's why right there, that idea that people are watching people are checking. Others are going to rerun your experiments, they're gonna they're going to rip you to shreds.
+1:29:59
+Andrew Ippolito: Right. And imagine you drew a picture or you wrote a poem or you practice a musical song you did something that you're proud of and you presented to a group of 50 people who also do that thing.
+1:30:15
+Andrew Ippolito: And all of them are criticizing you, That was terrible. That last note you hit was wrong and that was discord and blah, blah, blah, or that that his head's too big and they're just ripping like oh hey guys this terrible like stuff. I can't handle it.
+1:30:29
+Andrew Ippolito: Right, that's what science is it's ripping into shreds. So the strongest experiments, the most rigorous, the ones that are performed in the most precise careful ways are the only ones that make the cut.
+1:30:42
+Andrew Ippolito: And the only ones that your enemies, except because that's the thing about science is your enemies accepted. In fact, that's how peer review works.
+1:30:53
+Andrew Ippolito: You publish something you're you do all these experiments you write it on a piece of a manuscript and you submit it to an editor to some journal
+1:31:02
+Andrew Ippolito: That's how it works, that that editor gets your manuscript. Andrew Ippolito: And they have a board of editors. They have like 200 people that are, you know, senior scientists who have been in the field for years in various places. And so this editors job the senior editors job is to chunk that to a group of like five people.
+1:31:17
+Andrew Ippolito: Those are your enemies. Those your rivals your competitors your competitors. Review your work and they pick it apart and they send their report back to the editor.
+1:31:28
+Andrew Ippolito: And the thing is, is then this is how it works. If your enemies, like, all right, that's true, that's true, that's a good that's that's a good yeah yeah I would have done that too. Oh, that's a good control. That's really convincing. Okay, I can't do this thing is ironclad, you know, publish it.
+1:31:45
+Andrew Ippolito: Right. And there's five of them. Let's say there's three to five, you know, this one says it's garbage. This one says it's garbage. But these three. See, it's gold.
+1:31:53
+Andrew Ippolito: And so the senior editors job now is to take all that into account and then send something back to the guy who wants to publish it and say to them, either here. Here's a bunch of experiments, you have to do again before these guys accepted or they say we're going to publish
+1:32:09
+Andrew Ippolito: Write your enemies accepted your work now gets published that's peer review. That's what that means. That's what keeps us honest.
+1:32:19
+Andrew Ippolito: Ideally, Andrew Ippolito: Some scientific systems are a little more rigorous than others.
+1:32:25
+Andrew Ippolito: Okay, there are entire. So there's this thing called a retraction.
+1:32:31
+Andrew Ippolito: Okay, every scientific journal publishers retractions retraction is when something gets published and it might be out there for a year or two.
+1:32:40
+Andrew Ippolito: And then somebody else does some follow up experiments are shows the other people will feel full of do do
+1:32:46
+Andrew Ippolito: And the Andrew Ippolito: Publication has to ultimately issue a retraction. We're on publishing that paper.
+1:32:55
+Andrew Ippolito: And it happens more than you think. OK.
+1:33:00
+Andrew Ippolito: OK, so the control variables. Andrew Ippolito: Are the things like temperature and the space and the pellets. Right. But the control group.
+1:33:13
+Andrew Ippolito: We only in this case have one control group, the negative control here. Andrew Ippolito: OK, now a positive control. You could, let's say that we gave let's see that we gave this mouse over here.
+1:33:27
+Andrew Ippolito: Whatever we just gave them the stockpile of sugar. Andrew Ippolito: Have at it because we know so we know with certainty that this mouse is going to get fat. That would be the positive control.
+1:33:41
+Andrew Ippolito: If we wanted to run them positive control. Andrew Ippolito: Now let's say that we had a question and said, Well, what if
+1:33:50
+Andrew Ippolito: I'm trying to think of some here. What if the temperature of the cage also impacted this
+1:33:59
+Andrew Ippolito: What if mouth mice got even more obese is slightly cooler temperatures like 20 degrees Celsius, instead of let's say 15 degrees Celsius, instead of 25 degrees Celsius.
+1:34:12
+Andrew Ippolito: How could we do that, how can we take this experiment and also ask the question for for temperature
+1:34:25
+Jordan Russell: You would probably have to put the cages in separate rooms with different temperatures and probably monitor than using a baby monitor or something so you can keep
+1:34:37
+Andrew Ippolito: Like Andrew Ippolito: Sorry. Look, he's he's poopy Jordan Russell: Yeah. Andrew Ippolito: So here's the thing, we would have to take all 10 of these cages, right, we would have to replicate it, we would need 20 cages now.
+1:34:51
+Andrew Ippolito: Right. And you would put half in the cold and half of them warm and maybe 30 cages, you'd have to put 10 of them in a normal temperature that is like the controlled temperature
+1:35:00
+Andrew Ippolito: Another 10 would have to run in the cold and another 10 would have to run on the heat. Do you see how now. I mean, we've just
+1:35:09
+Andrew Ippolito: We've just made a really complicated experiment, haven't we, and that's why we always do one variable, there's a method here ready. You're going to have a principle that might be like this. It's called the KISS principle.
+1:35:21
+Andrew Ippolito: Keep it simple, stupid.
+1:35:28
+Andrew Ippolito: You know, on and I learned that back in the late 90s, maybe we have to get rid of that last us because it's not nice to talk call people stupid.
+1:35:38
+Andrew Ippolito: Keep it simple. Andrew Ippolito: keep it secret. Keep it safe. No way, that's, that's a different that's Lord of the Rings. We don't want the KISS principle, you have to abide by this. Keep it simple. The simplest experiments are the ones that yield the most confidence and the results.
+1:35:59
+Makes sense. Andrew Ippolito: Okay, so that's that's experiments. Now, so I just talked about all this. So that's the idea of the placebo.
+1:36:10
+Right. Andrew Ippolito: The placebo trigger so you. Let's say that we were delivering that sugar in a third palette. That was the sugar palette right for the control. It would just be a normal, it would be an empty palette that had no calories to it. Maybe it's just like, I don't know.
+1:36:28
+Gelatin or something. Andrew Ippolito: Petri atheros. So that's the idea.
+1:36:38
+Andrew Ippolito: So you can use. I'm not going to go through this. You can use this slide now and you can sit there and think through these examples and try to pull out the dependent independent. Give yourself some training there, get a little better at it. Okay.
+1:36:51
+Andrew Ippolito: All right, now let's talk about Andrew Ippolito: Let's call this
+1:36:57
+data literacy Andrew Ippolito: One of the things that I have to teach you this semester. And this is not something we're going to talk too much about every once in a while we're gonna look at data.
+1:37:09
+Andrew Ippolito: And I need you to be able to tell the story. Andrew Ippolito: They say that you can you can you can prove anything with statistics, they say.
+1:37:20
+Andrew Ippolito: The key really is what you might call a data visualization database that's a whole field, you can get your PhD in data visualization
+1:37:29
+Andrew Ippolito: The idea of conveying information through visual media is arguably more important than any other method of communicating science in this day and age.
+1:37:40
+Andrew Ippolito: Especially because we're all glued to screens and we look at things for two or three seconds, it is so important to present your information in a way that makes sense. That could be read very easily. So I'll teach you some of that stuff.
+1:37:55
+Andrew Ippolito: First thing is the simplest way to present data where there's a single, single simple relationship between the variables like we just described, where you have a single dependent independent variable.
+1:38:05
+Andrew Ippolito: And there's a relationship between those variables. We're going to show that relationship visually.
+1:38:11
+Andrew Ippolito: And the way we generally do it as well plot it on the axes that you learned about your math classes. Alright, so the independent variable, the one that you control or the one is outside of the system anyway is always on the x axis and the one that varies depending on it is on the Y axis.
+1:38:28
+Okay. Andrew Ippolito: So here I'm going to go to my black screen here. We got
+1:38:34
+Andrew Ippolito: There's basic kinds of relationships between things Andrew Ippolito: Okay, I'm just gonna do this.
+1:38:44
+Actually Let's just do three Andrew Ippolito: Alright, so let's say that we have, we have our independent variable and our dependent variable. Doesn't matter what they are. What we're looking at here, these visual relationships between them.
+1:38:59
+Okay. Andrew Ippolito: So let's let's go here. Let's lift. A, B and C.
+1:39:04
+Andrew Ippolito: So let's look at a for a second. So we see that within a as our independent variable increases in value.
+1:39:12
+Andrew Ippolito: The dependent variable decreases. Andrew Ippolito: See that as one goes up the other goes down. So what's the, what's the name of this one. What do we call this kind of relationship.
+1:39:32
+Andrew Ippolito: You might have, if you took some more advanced math classes, you might have that in there. Do you
+1:39:43
+Andrew Ippolito: Say that again, sorry. tori bloemker: I was gonna say we are you talking about like constant increasing, decreasing
+1:39:49
+Andrew Ippolito: No, no. I mean, we see a decrease in there. But so what we're looking at now there is a relationship here.
+1:39:57
+Andrew Ippolito: Okay, we're talking about relationships. Now, so like the relationship between sugar and obesity. We would say so. As one increases the other
+1:40:05
+Andrew Ippolito: Decreases Andrew Ippolito: This is called an inverse correlation
+1:40:13
+Andrew Ippolito: Correlation Andrew Ippolito: Correlation is a very important word at size, it is very easy to demonstrate correlations
+1:40:25
+Andrew Ippolito: You don't even get published. If you show correlation Julia Lakchin: Couldn't that be a negative correlation to
+1:40:31
+Andrew Ippolito: You can. Yes, that is correct. You can call it an inverse, you can call it a negative, that's fine. You can use either phrase either phrase is totally acceptable. There's a negative correlation between x and y.
+1:40:45
+Andrew Ippolito: So of course, this one therefore would be called a positive correlation or a direct correlation
+1:40:54
+Jordan Russell: Right. Oh, I didn't realize I was muted books. Andrew Ippolito: Said, again, Jordan.
+1:41:00
+Jordan Russell: No, I just like when I didn't realize that I was unmuted.
+1:41:05
+Jordan Russell: Got a hot mic. Sorry. Andrew Ippolito: That's fine. Jordan Russell: That's fine. Andrew Ippolito: As long as you didn't. You didn't say anything.
+1:41:12
+Andrew Ippolito: Embarrassing or something like I really have to go that path.
+1:41:18
+Andrew Ippolito: My Jordan your mics on Andrew Ippolito: So, Andrew Ippolito: I can't. Oh my, my side.
+1:41:28
+Andrew Ippolito: Right, so this idea and then what's this one. What's the one down here. Constant.
+1:41:35
+Andrew Ippolito: We just say, tell her. Taylor Campbell: It's like constant soon, nothing's happening.
+1:41:40
+Andrew Ippolito: Okay, okay. Andrew Ippolito: So we can say there is none. Andrew Ippolito: There's no correlation
+1:41:46
+Andrew Ippolito: Right. As I increase this nothing happens here.
+1:41:53
+Andrew Ippolito: I the relationship between Andrew Ippolito: how old you are and how bright that light bulb can get
+1:42:02
+Right. Andrew Ippolito: So what does that have to do with the price apples in China. Exactly.
+1:42:09
+Nothing. Andrew Ippolito: Okay. Andrew Ippolito: Now,
+1:42:16
+Andrew Ippolito: Correlation. What does this mean when we see a correlation and data.
+1:42:21
+Andrew Ippolito: We see Andrew Ippolito: A pattern.
+1:42:28
+Andrew Ippolito: That's all it is. It's a pattern and our brains are wildly good at finding
+1:42:35
+Andrew Ippolito: And seeing patterns. Andrew Ippolito: Our brains are highly evolved the pattern recognition.
+1:42:45
+Andrew Ippolito: All sorts of cool things. For example, you've all probably looked at some kind of weird random mosaic or you looked at like a pattern of wood green and you're like, Hey, that looks kind of like a face. We've all seen faces and things
+1:43:01
+Andrew Ippolito: Right. Raise your hand if you've experienced that at one point, your life or not. Andrew Ippolito: Yeah, exactly. We've all you see faces and things. That's because our brains are programmed to see faces because one more infants. We're looking for mom and dad.
+1:43:13
+Andrew Ippolito: That mom and dad we die, where the people Andrew Ippolito: We see faces and everything.
+1:43:21
+Andrew Ippolito: Pattern Recognition. We're also storytellers. One of the reasons why we survive is because we see cause effect relationships everywhere.
+1:43:30
+Andrew Ippolito: Right you here. So, have you, have you ever had that experience where let's say that you're working on the computer, right.
+1:43:35
+Andrew Ippolito: And you're clicking around on. So let's say you're not clicking on anything. And then finally, you click on something and at that exact moment in time, as you click that mouse somebody drops a pan in the kitchen and you have this immediate crazy thought, How did I do that.
+1:43:51
+Andrew Ippolito: I click the button, and I made a big bang. Andrew Ippolito: Right. Andrew Ippolito: That's correlation. Of course you didn't cause them to drop the mouse because you click them. I mean, let's you're like disabling some kind of
+1:44:03
+Andrew Ippolito: They have, I don't know, something connected to their brain and you're controlling their brain you click the button you meet them drop it. But no, of course not. It's ridiculous. It was just a coincidence. Right.
+1:44:12
+Andrew Ippolito: Or you're going, You're driving along in the car and you're seeing in your favorite song and you're singing the lyrics and as you see the word out loud, you know, dog. You look at a sign, and it has the word dog on it at the exact moment. You said the word. Yeah. Well that was weird.
+1:44:30
+Andrew Ippolito: We've all. How many of you experienced that in your life at some point or another. Those are called synchronicities
+1:44:36
+Andrew Ippolito: Okay. The reason why those experiences stick out in your mind to the point where you can remember them.
+1:44:46
+Andrew Ippolito: Is because your brain is really good at pattern recognition. Andrew Ippolito: The thing is,
+1:44:52
+Andrew Ippolito: Is how many times have you sung that song. You didn't see the word dog.
+1:44:58
+Andrew Ippolito: All the other times that you don't remember seeing the song, but that one time staff special. The only reason it was special is because two moments just a coincidence happened that synchronicity. Jordan You want to see some
+1:45:11
+Jordan Russell: That literally just happened to me the other night. Andrew Ippolito: That's crazy. Like
+1:45:17
+Jordan Russell: You're talking about it and I realized it was like, wait. Now there's another one happening right Andrew Ippolito: Yeah. Yeah. And then you're going to see them everywhere.
+1:45:25
+Andrew Ippolito: Because like attention to the more Jordan Russell: Yeah, because it was super if something super stupid like my, my best friend and I was a company in him on his door dash. And we were just talking about friendlies and we drove up the street and there was a friendlies right there. And it's really
+1:45:40
+Andrew Ippolito: there yet. Andrew Ippolito: Right. What are the chances Andrew Ippolito: Right. So these are, these are the little things that make being human, fun, right, we get to see we get to experience all these fun things. So that's a correlation. Right. So imagine I showed you a chart here. Imagine I plotted out
+1:45:56
+Andrew Ippolito: That you maybe you've heard a meme like this or like this. This is the plot of Nicolas Cage movies annual revenue generation. And this is a picture of a silhouette of the Grand Tetons.
+1:46:16
+Andrew Ippolito: Which is a mountain range mountain That was Andrew Ippolito: Wow.
+1:46:22
+Andrew Ippolito: Nicolas Cage's entire movie career can be predicted by looking at the Grand Tetons.
+1:46:31
+Andrew Ippolito: That's a correlation Andrew Ippolito: Okay, did the erosion over several million years of a mountain range actually impact the career of a single movie star.
+1:46:43
+Andrew Ippolito: Probably not. That's called causation.
+1:46:51
+Andrew Ippolito: A causes be to happen. Andrew Ippolito: That is a very different thing. And that is much harder to prove
+1:47:01
+To demonstrate can't prove it. Andrew Ippolito: Okay, so here's the saying I'm going to teach you. This is a great one.
+1:47:10
+Andrew Ippolito: Correlation Andrew Ippolito: Does not imply
+1:47:19
+Causation Andrew Ippolito: Just because two things are correlated doesn't matter not tell you that there is a direct causation relationship between
+1:47:32
+Andrew Ippolito: And so my graduate advisor. I love this term is used to say this, Well, that might be true, true.
+1:47:41
+And unrelated. Andrew Ippolito: Those as true and B is true, but they might have nothing to do each other.
+1:47:49
+Andrew Ippolito: Just because you added some chemical to those cells and killed them doesn't mean that chemical kill the cells.
+1:47:57
+Maybe something else going on.
+1:48:02
+Andrew Ippolito: Make sense Good. Andrew Ippolito: Alright.
+1:48:08
+Andrew Ippolito: So here's some fun ones, right. So there is a inverse correlation between how happy I am with my food and how happy I am with my weight.
+1:48:21
+Andrew Ippolito: There is a direct correlation between how much time you spend in school and what your salary expectation is notice that's not your actual salary.
+1:48:35
+Andrew Ippolito: That's what I went to school for 17 years I expect a lot of money yeah well with expectations were wishes. Right.
+1:48:46
+Andrew Ippolito: Her dollars, I'd be rich. Okay, so we do all this work we get all this data. Okay, what's data. Data effects. That's another way to think of it. You can't argue the data. You can't argue facts triangles have three sides.
+1:49:03
+Andrew Ippolito: That mouse ways 17.3 grams that mouse ingested two grams of sugar every day for three months straight. Those are facts that's data. You can't argue that.
+1:49:14
+Andrew Ippolito: Now the word itself data is a plural word. Most people use this incorrectly when they write him and they talk. It's data are not data is
+1:49:24
+Andrew Ippolito: The singular for data is the word datum. And we never use that word.
+1:49:30
+Andrew Ippolito: I've never come across the word datum in any of my reading, writing, or watching anything. Nope. Nobody uses that word because there's never just one point of datum.
+1:49:42
+Right. Andrew Ippolito: I mean the mouse ingested 3.2 grams of sugar that day. That's a datum, I guess, but it's like, well, how much of the way
+1:49:54
+Andrew Ippolito: There's always something that comes along with it. So it's always data and it's always plural.
+1:49:59
+Andrew Ippolito: So you'd say these data support, not this data supports, it's a it's a plural word
+1:50:07
+Andrew Ippolito: And data are only as good as the experimental design allows it to be. Andrew Ippolito: Okay, and that's how I do get enough confidence.
+1:50:18
+Andrew Ippolito: collecting the data must be an act of dispassionate in human activity.
+1:50:28
+Andrew Ippolito: This is the part that counts in the objective stuff.
+1:50:34
+Andrew Ippolito: We talked earlier about weighing the mouse, you know, just after he ate.
+1:50:39
+Andrew Ippolito: If anything, Andrew Ippolito: You would do your best to weigh the mouse when he would be the least massive because then if you still see a correlation than the data you would be even more confident in it.
+1:50:56
+Okay. Andrew Ippolito: Once we collected the interpretation and the analysis, that's when we can have fun with it. That's when we can start extrapolating our wild ideas.
+1:51:07
+Andrew Ippolito: But we need to make sure that the data collection is faithful and accurate and consistent and highly confident, so that others who will appear under your work and dig it.
+1:51:18
+Andrew Ippolito: Dig through it and break it apart and they look at how you collected your data. You don't want them to be able to question it, you're always thinking about the criticism.
+1:51:29
+Andrew Ippolito: That's one of the unfortunate side effects of becoming a good scientist and becoming scientifically literate is you're suddenly everybody's critic, you can't turn it off. I mean, you can but it's there, it's always there.
+1:51:46
+Andrew Ippolito: My wife. She teaches a positive psychology class in her and the high schools and elective for seniors.
+1:51:53
+Andrew Ippolito: And I get to learn all sorts of cool stuff about positive psychology. One of the things is when two people are communicating
+1:52:00
+Andrew Ippolito: Take any two people having a talk to friends chatting about some there's four ways that people communicate and one of those ways and have these fun descriptions. One of them is called the joy thief.
+1:52:13
+Andrew Ippolito: Has anybody learn this stuff yet. I'm still learning this stuff myself. This is the brother of positive psychology, a joy thief is somebody who, when somebody sharing something with you and they, you know, trying to connect with you.
+1:52:25
+Andrew Ippolito: you criticize it. You poke holes in it. Yeah. You know, like, wow, I don't think that you maybe you shouldn't have done that, you know, your joy, see if
+1:52:33
+Andrew Ippolito: You can use that against people if you want. They did Google that later joy. See, there's three other things. There's there. So that's like a dysfunctional way of communicating and then there's other ways that are more functional. So, but really being a scientist is being enjoyed it.
+1:52:48
+Andrew Ippolito: You have to question everything in the world of science. That doesn't mean you get to go home and when you're, you know, having dinner with everybody after work, you're continuing that
+1:52:58
+Yet to be able to turn it off. Right.
+1:53:04
+Andrew Ippolito: So, Andrew Ippolito: The data, then they only do one of two things. They'll either support the hypothesis or the refute hypothesis. And that's it. You can't prove it. You can disprove it
+1:53:19
+Andrew Ippolito: You absolutely can destroy it. Angela Harbeck: What's the difference between this support and fruit that is it that like like just helping your hypothesis to make it true.
+1:53:33
+Andrew Ippolito: No, so the careful not to make it true. Andrew Ippolito: You're supporting our hypothesis to put more confidence in it. It's all about the confidence.
+1:53:45
+Andrew Ippolito: Okay. So as we begin to conduct scientific research on a new idea, and we start to gather preliminary data.
+1:53:53
+Andrew Ippolito: We would do at that point when it's all new all you can say is this is very promising. This supports our ideas are going to continue our work.
+1:54:02
+Andrew Ippolito: Others will read about it, it will excite them. They'll also start doing this work and they'll start doing other experiments and they'll start going off in different different branches of it all. They'll repeat what we do.
+1:54:13
+Andrew Ippolito: Right. And we all start feeding off of each other.
+1:54:19
+Andrew Ippolito: And that's how science works. It's, it's communal it's it's socialism, you have to share everything you have to put it all out there.
+1:54:27
+Andrew Ippolito: If I'm doing a, let's say that I'm doing experiments on a particular kind of cancer and I publish, you know, something on it. Others will ask me, they'll send me an email and say, hey, I need some of those cells I have to give it to them now.
+1:54:41
+Andrew Ippolito: I need some of that region in me to kill the cells. I haven't going to have to share that with you. Now that's academic research. I'm not talking about. I'm not talking about the pharmaceutical world I'm talking about academic research.
+1:54:54
+Andrew Ippolito: It's an open book. Andrew Ippolito: Doesn't mean it's convenient. I had to wait two years for a woman in France to send me a piece of paper with six little piece of DNA on it.
+1:55:06
+Andrew Ippolito: They made the DNA and they take a pen, they put on a piece of paper just normal piece of filter paper and they dry it they put it in the mail. They mail it to you and you take it, you cut it out. You put it on to rehydrate. It's kind of cool.
+1:55:17
+Andrew Ippolito: Took a freakin years to send it to me. I couldn't do any of my work without that stuff.
+1:55:23
+Andrew Ippolito: She wasn't bound by law to send it to me. But she's a busy woman.
+1:55:32
+Andrew Ippolito: I still remember the day I got that in the mail. You know, I had to international stamps everywhere from France, I guys talk
+1:55:45
+Andrew Ippolito: In the interest of time, I'm going to gloss over this, this, this is just a way of looking at an experiment. So here we go. Here's a real experiment that happened.
+1:55:54
+Andrew Ippolito: And probably should. I didn't put this together. But in retrospect, they should use different colors, instead of different shades of green that are kind of hard to distinguish
+1:56:03
+Andrew Ippolito: But you have your growing plants. Over the course of 14 days you're looking at the little germination is happening.
+1:56:14
+Andrew Ippolito: And you're measuring the rate of growth and not the right you're measuring the height of the stem in millimeters over time. And you can see that if you so there's the controls you that control. That's just plain old water.
+1:56:25
+Andrew Ippolito: Right. And you can see here's the control. So the plant grew over 14 days to a height of about what like 230 millimeters
+1:56:35
+Andrew Ippolito: If you supplement the water with sugar. Andrew Ippolito: You can see it doesn't grow as high.
+1:56:42
+Andrew Ippolito: If you supplement it with tea. You can see it grows even worse. And if you put some salt in there. And you can see it hardly gross.
+1:56:52
+Okay. Andrew Ippolito: So let's say that your tea company and you're trying to find a new market and you wanna, you want to sell your tea as as a supplement for people watering your plants.
+1:57:05
+Andrew Ippolito: Herbal tea makes your plants better Andrew Ippolito: And so the CEO, the company TELLS US scientists, go do an experiment, show me that the tea makes plants grow better. What's the problem with that.
+1:57:19
+Andrew Ippolito: Sure. Show me to make some better. Go ahead. tori bloemker: Just have no proof because the data that they collect disprove that like idea.
+1:57:29
+Andrew Ippolito: Yes. So, more importantly, I just told you to go and prove something that we don't know is true or not.
+1:57:38
+Andrew Ippolito: Right. Go show me that T makes plants better Andrew Ippolito: As opposed to show me the effect it has on plant growth.
+1:57:47
+Andrew Ippolito: You see the difference. Andrew Ippolito: Okay, so let's say that I was the research scientist and I came to the CEO and I showed him this he'd be like your fire. Get out.
+1:57:57
+Andrew Ippolito: Bob. Get in here, make this data show me what I want it to with Bob going to do, let's get rid of the song.
+1:58:05
+Andrew Ippolito: Oh no, let's keep the song. Let's get really control. Andrew Ippolito: Let's get rid of the sugar.
+1:58:12
+Andrew Ippolito: Okay, so now we have a new chart that looks pretty much like I got T and salt. There we go. That shows that team makes it grow. Go ahead, Bob, go take that to marketing and marketing takes the data makes this poster. It says herbal tea makes your plants grow, look at the data.
+1:58:33
+Andrew Ippolito: Do you see how important it is now to have an informed public
+1:58:39
+Andrew Ippolito: Do you see now that when you are looking at an advertisement.
+1:58:45
+Andrew Ippolito: Here's the thing, the people on the other side of that they know, science, they just don't necessarily have scruples
+1:58:53
+Andrew Ippolito: They take advantage of the fact that the American public is scientifically illiterate. In fact, all companies do they have to their marketing relies on the fact that people aren't going to check up on them.
+1:59:08
+Andrew Ippolito: I'm not saying everybody's nefarious and evil. I'm saying that Andrew Ippolito: They, they just know nobody's chicken. Now he's looking, I just gotta show you a little even if they show you a bar chart right you can show the general American public, like, Hey, here's a bar chart of like are the enemies products and our products. Oh, they're better clearly
+1:59:27
+Andrew Ippolito: What are we looking at, I have no idea that charts big that one's bigger than the other.
+1:59:34
+Andrew Ippolito: Right. Andrew Ippolito: Our detergent queens things better than the leading competitors detergents. How do you know well look at this commercial and I'm going to not use special effects it on show any of this.
+1:59:47
+Andrew Ippolito: Okay, you know you've all heard this the same information is power.
+1:59:53
+Andrew Ippolito: It's such a cliche, but God is. It's true.
+1:59:58
+Andrew Ippolito: He who knows. Most their seed, who knows. Most controls most
+2:00:04
+Andrew Ippolito: The more you know Andrew Ippolito: The more power you got
+2:00:12
+Andrew Ippolito: The more you know, the less power. Others have over you.
+2:00:20
+Andrew Ippolito: This is why when you look at history. Andrew Ippolito: And you look at how
+2:00:28
+Andrew Ippolito: Dispose takeover countries. Andrew Ippolito: How fascists rise and power.
+2:00:35
+Andrew Ippolito: How Mussolini and Hitler and mouse a tongue like how can these things happen.
+2:00:43
+Andrew Ippolito: They go after the people whose job is knowledge. Think about it. When mouse a tongue took over China BACK IN THE 50s, who were the first people he executed from your history classes. You guys know this stuff yet.
+2:01:00
+Andrew Ippolito: Who did mouse a tongue kill
+2:01:05
+Andrew Ippolito: All of the college professors Andrew Ippolito: Murder ma. Oh, dead firing squads kill the teachers.
+2:01:17
+Andrew Ippolito: And then teach everybody what you want them to know Andrew Ippolito: That was a red revolution in China.
+2:01:23
+Andrew Ippolito: Think of the people in our country who propagandists go after
+2:01:28
+Andrew Ippolito: Journalists education. Andrew Ippolito: Scientists the three people whose job is knowledge that's that's literally their job facts.
+2:01:41
+Andrew Ippolito: If you can convince people that they're wrong. You can tell them, whatever you want. That's how fascism rises, you have to control the messaging knowledge is power, literally.
+2:01:54
+Andrew Ippolito: That phrase we have fake news. Andrew Ippolito: We've all heard that by now.
+2:02:01
+Andrew Ippolito: That's propaganda. Andrew Ippolito: By by eroding the trust in science and eroding the trust in journalism by getting people to believe that those things are not highly confident sources of information allows you the power to put whatever you want in those people's minds.
+2:02:21
+And they'll believe you. Andrew Ippolito: That's the power of propaganda. Andrew Ippolito: It takes advantage of human fallacies just like science does, but in the opposite direction we want to believe what makes sense to us.
+2:02:36
+Right, okay. Andrew Ippolito: So once we do all this work. We go back and we do kind of a retrospective.
+2:02:46
+Andrew Ippolito: Does my data support the hypothesis, does my data refute the hypothesis. It's one or the other. If it supports the hypothesis. This increases the confidence of what everybody accepts additional experiments continue looking for cracks.
+2:03:02
+Andrew Ippolito: Additional predictions are tested over and over and over and over and over and over and over and over. Anytime an experiment destroys a hypothesis we adjusted. This is the difference between science and something called dogma.
+2:03:18
+Andrew Ippolito: Dogmatic thinking is when you start with the belief and work back to the evidence.
+2:03:28
+Andrew Ippolito: Right. That's the opposite of how science works. Andrew Ippolito: We don't believe things and that's another thing. You don't have to even say I believe in evolution.
+2:03:38
+Andrew Ippolito: Ready, I accept the evidence of evolution. That's a very different conversation you have now instead of saying, why don't you believe evolution.
+2:03:49
+Andrew Ippolito: You see, why don't you accept the facts or why don't you accept, let me say that differently. Why don't you accept the evidence that evolution is true.
+2:03:58
+Andrew Ippolito: What's your rationale for for rejecting the evidence.
+2:04:04
+Andrew Ippolito: Okay, so when you do all this over and over and over and over and over and over. Finally, at the end of it all.
+2:04:12
+Andrew Ippolito: You can start to call that thing a theory.
+2:04:17
+Andrew Ippolito: And that's where the word comes from Andrew Ippolito: A theory is a broad framework.
+2:04:24
+Andrew Ippolito: That consists of a whole bunch of hypotheses that have been tested and tested and tested and tested and never refuted.
+2:04:35
+Andrew Ippolito: Right. That's what we call a theory. That's just a theory. Now you can see why that makes no sense. Everything's just a theory.
+2:04:45
+Andrew Ippolito: There's nothing greater. What about principles or laws. Yeah. That's semantics. We can call it a principal or a lot, you want
+2:04:52
+Andrew Ippolito: The word, the word theory, though, is using read this last part here, scientists use this word to remain humble, it reminds us that we're continually open to new challenges to our ideas.
+2:05:07
+Andrew Ippolito: And we're okay revising them or expanding them. Andrew Ippolito: So I'll say it again. Science is replaced by better science.
+2:05:20
+Andrew Ippolito: The end that sides. Alright, so I'm going to skip through the rest of this stuff.
+2:05:28
+Andrew Ippolito: Okay, so here's, here's how I end my scientific method lecture. Here's the analogy. Let's say that you have this. We've all gotten to play with these at one point or another, maybe you get a god, you take the hammer and you can crack it open and look at the gems inside. Read the crystals.
+2:05:45
+Andrew Ippolito: So we have this universal God in the dead center of that God is the true universal truth, whatever it is.
+2:05:54
+Andrew Ippolito: And we have to try to get to it. And so what do we do, we start off with this god Andrew Ippolito: You know we smash it with our bare hands. No crack it open as well. And we keep hitting it and hitting it and hitting until it's at a point where we can't use our hands to break it anymore. And so what do we do, we take a hammer. We start cracking with a hammer.
+2:06:12
+Andrew Ippolito: Sledgehammer jackhammer we get really, really aggressive with it, we get a smaller, smaller until no matter how much we hit it with the hammer. It's just ricocheting off.
+2:06:21
+Andrew Ippolito: And so then we get out our got a jackhammer then we start blowing it up, we get some teen t
+2:06:27
+Andrew Ippolito: We just keep blowing it up again and again and again we get this little nugget. And then we go out into the Nevada desert we stick it out there and we just nuke it
+2:06:34
+Andrew Ippolito: And then we spend a year, finding it after whatever fell, and we do that again. And we finally get this little grain of truth, we think, right, then what do we do from there.
+2:06:44
+Andrew Ippolito: I mean, I guess the only thing you could do. After that, like, throw it into the sun.
+2:06:50
+Andrew Ippolito: And then it's gone forever. You know, we can't go into the sun.
+2:06:55
+Andrew Ippolito: So we have to just stop. Andrew Ippolito: And say that we're never going to see that beautiful little shiny glowing thing inside. We're never going to get there. We're just human.
+2:07:08
+Andrew Ippolito: And so we have to go back a step, we have to accept that this is as close to the truth is we're gonna get
+2:07:17
+Andrew Ippolito: But we can never know for sure because we're limited Andrew Ippolito: In this ties back to my perspective concepts, the methods of acquiring knowledge. And so hopefully I made a compelling case here.
+2:07:37
+That science. Andrew Ippolito: Now, why is the sky blue
+2:07:43
+Andrew Ippolito: Anybody here ever learned this before will learn about the electromagnetic spectrum later when we do photosynthesis.
+2:07:50
+Andrew Ippolito: The idea here is that the different colors you perceive are driven by the different frequencies of photons and the wavelength of a photon correlates to how much you can bend
+2:08:01
+Andrew Ippolito: In but when it changes its environments, you go into a prism right but it also
+2:08:07
+Andrew Ippolito: Is what determines whether or not it gets absorbed by molecules or ricochets off of them. It goes right through them.
+2:08:14
+Andrew Ippolito: And so it turns out Andrew Ippolito: That. So here the sun's up here and here's earth and there's our atmosphere, the different colors of light coming from the sun.
+2:08:25
+Andrew Ippolito: And the reds and yellows and greens there because of their wavelengths and because of the molecules are atmosphere. They just make it right through.
+2:08:33
+Andrew Ippolito: The Blues because of their wavelength. They're the highest and energy they spend some time ricocheting up there until they basically they take their sweet time and eventually make the way to your eye.
+2:08:46
+Andrew Ippolito: That's why when you look up the sky's blue
+2:08:52
+Andrew Ippolito: Okay, I'm gonna you can watch this on your own. Well, watch this. We do cell biology. CHAPTER I want to get through this. So, and then these are just fun. If you want to click through these the powers of 10 videos. My inspiration from my perspective lecture.
+2:09:04
+Andrew Ippolito: There was double the Hubble Deep Field explanation for that. That's it. That's, that's
+2:09:11
+Andrew Ippolito: That's the end of the stuff that doesn't out of the book directly
+2:09:20
+Andrew Ippolito: And so I'm gonna, I'm going to stop the video so that you guys can pull that apart. That's stop recording

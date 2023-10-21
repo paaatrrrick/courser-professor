@@ -1,0 +1,898 @@
+0:03
+Andrew Ippolito: This is our lecture on gene expression.
+0:09
+Andrew Ippolito: Gene expression, this is chapter 17 in your textbook.
+0:15
+Andrew Ippolito: And this is. Andrew Ippolito: This is what it means to be a molecular biologist and a lot of ways molecular biology, is not the study of biochemistry that's biochemistry it's not the study of microbes that's Microbiology molecular biology at its heart is really studying the molecular mechanisms of genes.
+0:36
+Andrew Ippolito: and protein interactions Okay, so what you're about to embark on here is the core truth of biology, this is what makes biology biology, this is what distinguishes it from really the other sciences, and this is the core of understanding life.
+0:55
+Andrew Ippolito: By understanding jeans we can understand everything that follows from that Okay, or I should say I don't want to say that it's if you think about.
+1:05
+Andrew Ippolito: What we talked about reductionism right you what I just said was wrong saying like we're starting with a break by understanding the break, we can understand the buildings know.
+1:13
+Andrew Ippolito: But what we can say is an order to understand the buildings right if we understand everything we can, about the brick that helps inform everything about the building.
+1:23
+Andrew Ippolito: Okay, so. Andrew Ippolito: everything in life. Andrew Ippolito: Every interaction between organisms.
+1:31
+Andrew Ippolito: Every pathological state every disease every everything will have at least some relationship to the underlying genes and so by understanding how genes work will help you understand so much more.
+1:49
+Andrew Ippolito: And this is my wheelhouse as a molecular biologist I studied gene expression I studied protein interactions transcription mostly transcription so what you're seeing here this really cool animation.
+2:03
+Andrew Ippolito: This is a molecule of DNA being fit in from the left here, as you can see, double stranded DNA there it's being fit into this machine here this machine is RNA polymerase.
+2:21
+To. Andrew Ippolito: You can abbreviate that are an A P Roman numeral two.
+2:28
+Andrew Ippolito: Okay, what RNA polymerase to does is it takes a double stranded DNA coming in.
+2:35
+Andrew Ippolito: And like DNA polymerase it's going to open up those strands.
+2:41
+Andrew Ippolito: And that's going to read, one of them. Andrew Ippolito: Depending on it don't worry about which one gets to pick but basically it just reads one of those strands let's see this one here.
+2:52
+Andrew Ippolito: And what it's going to do is it's going to add RNA to this and RNA DNA doesn't like each other too much an issue falls off, and so what you're seeing coming out on this side here.
+3:04
+Andrew Ippolito: There that's RNA. Andrew Ippolito: A single stranded RNA and then over here, you can see that the double strand that helix is basically being stuck back together again.
+3:16
+Andrew Ippolito: Right, so the DNA basically journeys its way through this way. Andrew Ippolito: And out this side you get a piece of RNA, so this is called transcription.
+3:30
+Andrew Ippolito: that's what this act is transcription is taking a DNA template.
+3:35
+Andrew Ippolito: and making an RNA molecule called a transcript.
+3:42
+Andrew Ippolito: Okay, all. Andrew Ippolito: All all RNA.
+3:50
+Andrew Ippolito: is made. Andrew Ippolito: This way.
+3:57
+Andrew Ippolito: Okay, so we learned about different kinds of RNA in the past we've learned about Mr T RNA and RNA there's a whole ocean of RNA is, but those are the big three they're all made this way and they each get their own memories.
+4:11
+Andrew Ippolito: The one we're going to learn about, and the only one we're really going to focus on is the one that makes messenger RNA.
+4:18
+Andrew Ippolito: Okay. Andrew Ippolito: I can never keep the street, one of these is 40 RNA and the other is for RNA.
+4:31
+Andrew Ippolito: And you know this, this might be, I might have swap these numbers around I don't I never RNA polymerase one makes one of those RNA polymerase three makes the other RNA polymerase two is the important one that's the one that makes messenger RNA.
+4:43
+Andrew Ippolito: that's what's important for us, today I should say. Andrew Ippolito: Why because remember that messenger RNA and codes information to make proteins.
+4:52
+Right. Andrew Ippolito: So the genes that we're going to talk about today are called coding jeans.
+5:00
+Andrew Ippolito: jeans that code, the information to make a protein. Andrew Ippolito: All the other genes, the ones that deal with the T RNA the RNA and all the other RNA is Those are just called non coding jeans.
+5:15
+Andrew Ippolito: And those are things you'd learn about and you're more advanced molecular course.
+5:20
+Andrew Ippolito: The reason why we're going to learn just RNA polymerase to is well for two reasons, one is to introduce the concept here in to its to really help tie it all together back to enzymes and metabolism okay.
+5:36
+Andrew Ippolito: So, like the DNA story there's a historic perspective, here and there are some key experiments.
+5:44
+Andrew Ippolito: The first connection made between the metabolism.
+5:52
+Andrew Ippolito: which at the time we understand consisted of things like enzymes.
+5:58
+Andrew Ippolito: The first connection between that in jeans. Andrew Ippolito: was made around the time that Morgan was mapping his chromosomes on flies or I should say mapping his flight chromosomes.
+6:12
+Andrew Ippolito: There was a gentleman named Gareth. Andrew Ippolito: He was a can today he play be the equivalent of an md PhD somebody who, who was a clinician who also did research.
+6:25
+Andrew Ippolito: Okay, so he was a doctor, he was a medical doctor, but he was also somebody who liked researching things and he read Mendel and he read all the the modern versions of genetics and he noted something very interesting he noted that, in the families that he dealt with.
+6:47
+Andrew Ippolito: Where you had. Andrew Ippolito: You know, think go back to the idea of the pedigree.
+6:53
+Andrew Ippolito: Somebody had a disease. Andrew Ippolito: And they noticed that they were inherited.
+7:07
+Andrew Ippolito: He noticed men dalian patterns of inheritance and the disease, he studied called El capitan urea El CAP toe nuria, which is a very alarming but non lethal disease, where certain.
+7:26
+Andrew Ippolito: Parts of your body and so your urine when you pee turns black when it gets oxidized.
+7:34
+Andrew Ippolito: Which is very alarming to people i'm sure you know you start peeing you see black in the toilet you're like I must be sick that's right and and some people with their the square of their eyes the white part of their eyes will turn black.
+7:49
+Andrew Ippolito: Okay, so he studied that disease and he knew that the reason that the underlying cause of it was there was some kind of metabolic disorder, there was a problem with the metabolism.
+8:01
+Andrew Ippolito: And so the idea that somebody who had a problem with the metabolism, was able to inherit to pass that on to their children, he called those inborn errors of metabolism.
+8:13
+Andrew Ippolito: This was the first way of describing a genetic disease.
+8:20
+Andrew Ippolito: As opposed to an infectious one. Andrew Ippolito: Like malaria.
+8:25
+Okay. Andrew Ippolito: And now we're going to skip all the way the 1940s, because here's here's what happens between the 1900s early 1900s of the 1940s right so in between here people just thought it was too complicated.
+8:40
+Andrew Ippolito: This was the advent of quantum mechanics and physics, this was the beginning of realizing that the universe was way more complicated than we imagined it was in the early 1800s in the mid 1800s we used to think at the end of the 1800s.
+8:55
+Andrew Ippolito: Like the 1890s we used to think that we had solved everything that the world in the universe was mechanical.
+9:03
+Andrew Ippolito: steam powered the orbits of the earth and the sun and gravity basic newtonian mechanics we thought everything was just that, and then we started getting glimmers of a deeper truth things like radioactivity didn't make sense.
+9:21
+Andrew Ippolito: Okay, the spectral lines coming off of stars and various things that we burned didn't make sense and so physics started.
+9:30
+Andrew Ippolito: Accelerating and they started looking at genetics and molecular biology and enzymes and realizing that the way to understand this was probably it was probably quantum mechanical and crazy too, and so there wasn't a lot of work being done on it.
+9:48
+Andrew Ippolito: I should say the work was slow. Andrew Ippolito: One of the landmark.
+9:53
+Andrew Ippolito: Studies though tap into the 1940s. Andrew Ippolito: And this was the beginning of the first gene theory.
+10:03
+Andrew Ippolito: The idea that a gene encodes the information somehow to make an ends up and we call this the one gene one enzyme hypothesis.
+10:14
+Andrew Ippolito: So we're going to walk through how we don't take them to their work.
+10:20
+Andrew Ippolito: By the 1950s really the late 40s early 50s. Andrew Ippolito: there's Linus Pauling again remember he's the one that was racing with Watson and Crick and he's doing at the same time, I mean this is this is around the time when he was working on his double stranded he'll a triple stranded helix model, he was also working with a tomato.
+10:41
+Andrew Ippolito: and studying hemoglobin. Andrew Ippolito: He was trying to understand the molecular basis of sickle cell disease.
+10:51
+Andrew Ippolito: And one of the things that they realized was that an enzyme this idea of an enzyme isn't one thing all the time, the idea that enzymes can actually have subunits in the case of hemoglobin hemoglobin has two alphas into beta Globe ins.
+11:13
+Andrew Ippolito: And what they discovered and realized was that each one of these came from a separate gene.
+11:21
+Andrew Ippolito: So Pauling and autonomy basically refined.
+11:28
+Andrew Ippolito: The one gene one enzyme hypothesis into one gene one poly peptide.
+11:35
+Andrew Ippolito: Right, so, if you remember your protein structure stuff remember that our protein can have some kind of tertiary structure right remember the tertiary structure.
+11:45
+Andrew Ippolito: But then, sometimes proteins can bind together to form higher order structures, a question or a structure.
+11:51
+Andrew Ippolito: And so that's what they realized. Andrew Ippolito: In that genes don't code for the whole enzyme genes just code for a poly peptide basically a chain of amino acids.
+12:06
+Andrew Ippolito: Okay, and again I want to remind you, this is before we understood the DNA helix right, this is pre Watson and Crick pre discovery.
+12:15
+Andrew Ippolito: So we're still working on it. Andrew Ippolito: And, incidentally 1957 ingram showed why hemoglobin was mutated but the structural basis of it which i'll show you at some point.
+12:32
+Andrew Ippolito: Okay, so so that's the walkthrough of the history here. Andrew Ippolito: So, in the early days with Garrett, the evidence that genes and enzymes were related came from the idea of metabolic defects right this, this was the key the ideas as look for.
+12:50
+Andrew Ippolito: mutations and organisms that related to their metabolism, and particular okay Why did I flies are great and all but that has nothing to do with how they metabolize things.
+13:05
+Andrew Ippolito: Instead, we want to capture this information within a metabolic pathway.
+13:12
+Andrew Ippolito: Alright, so this concept here we have a metabolite we'll call it a what's a metabolite make sure we know what that is when I say metabolite what does that mean.
+13:28
+Andrew Ippolito: Anybody. Andrew Ippolito: No idea okay so here's a cell there's random stuff in the cell that you build things with that's a metabolite metabolites or just the molecules in this high in energy vitamins.
+13:41
+Andrew Ippolito: Organic molecules right just just part of the metabolic pool so ages represents something in this cell that we're going to use to build something right so we're gonna we're gonna make be whatever be is.
+13:55
+Andrew Ippolito: And we're going to mediate that enzyme or we're going to mediate that reaction with an enzyme enzyme one.
+14:03
+Andrew Ippolito: Okay, so you guys still with me it doesn't make sense, we got something in the cell and we're gonna use it in a reaction metabolic reaction and in order to use it to make it, we need it ends up when we call it ends on one.
+14:19
+Andrew Ippolito: And then be in turn has acted upon by enzyme to to make see.
+14:25
+We could just keep doing.
+14:31
+Andrew Ippolito: enzyme three enzyme for enzyme five so.
+14:36
+Andrew Ippolito: In the early 1900s the early 20th century.
+14:41
+Andrew Ippolito: There was a lot of work being done on metabolism. Andrew Ippolito: And chemically purifying these building blocks these intermediates these starting points these metabolites.
+14:56
+Andrew Ippolito: and learning that all of these reactions are mediated by these enzymes.
+15:03
+Andrew Ippolito: Okay, so we're we're building the circuit maps of metabolism, and it turns out for a lot of this stuff in Microbiology you know you got a petri dish year.
+15:17
+Andrew Ippolito: And we add. Andrew Ippolito: some kind of media to it, the media, contains metabolites.
+15:34
+Andrew Ippolito: Right, the media, contains metabolites that allow the thing, so we have bread mold that's what we're going to use here bread mold we're going to grow mold on petri dishes we're going to watch it grow little fuzzy stuff right the mycelium network.
+15:50
+Andrew Ippolito: And so, by by just doing a lot of work, a lot of elbow grease.
+15:56
+Andrew Ippolito: There were a lot of research researchers are able to basically. Andrew Ippolito: characterize exactly what bread mold needed to grow.
+16:06
+Andrew Ippolito: Okay, so very they were able to very specifically.
+16:12
+Andrew Ippolito: pull apart the needed material for it to grow.
+16:17
+Andrew Ippolito: Okay, and it turns out. Andrew Ippolito: The way bread mold works.
+16:23
+Andrew Ippolito: Is it can manufacture everything it needs from some basic components, we can't do that right, so one simple example one thing we need, in our diet.
+16:33
+Andrew Ippolito: Right so so pregnant women have to take in a whole lot of folic acid that's one of the supplements, you want to take when you're pregnant folic acid is something that we need and it's something that we can't make, and so we have to steal it from our food basically.
+16:50
+Andrew Ippolito: All right, so bacteria can make folic acid. Andrew Ippolito: plants can make folic acid bread mold can make folic acid we can't, we have to either okay so that's just one example for gas, who would be one of the products of a metabolic pathway.
+17:07
+Andrew Ippolito: Okay, so. Andrew Ippolito: that's the setup here for beetle and data so let's go to the slides now here.
+17:17
+Andrew Ippolito: Connecting this idea to genetics now okay so each step is catalyzed by an enzyme and that pathway gives rise to a phenotype.
+17:29
+Andrew Ippolito: Right, so the idea here is that whole genome type phenotype connection. Andrew Ippolito: So the idea is that the genes encode information to make enzymes that give us the phenotype that's the intermediate point.
+17:42
+Andrew Ippolito: So you can think about like albinism right, the failure to make. Andrew Ippolito: mela and.
+17:49
+Andrew Ippolito: Then we find albinism throughout the entire animal kingdom. Andrew Ippolito: From vertebrates and invertebrates and mammals and birds everywhere every animal that you can think of there's there's an albino version of it out there somewhere there's an albino lady bug there was an old vinyl peacock there's an old vinyl black bear.
+18:06
+Andrew Ippolito: So a white black bear or is that a black white bear right is that a polar bear that's not a polar bear right i'm sure that if you put that bear and the polar bears, to be very confused.
+18:22
+Andrew Ippolito: There is there's beatle himself, he won he was on the cover of Time Magazine.
+18:28
+Andrew Ippolito: This is 1958. Andrew Ippolito: So serious doesn't he or maybe that's imperious I don't know what that expression is, but he he was this was a big thing this was a huge breakthrough we're starting to understand life.
+18:45
+Andrew Ippolito: In a really big way. Andrew Ippolito: So this is the quote from from his work genes may control or regulate specific reactions in the system chemical reactions either acting directly as enzymes and then here's the key or determining the specificities of enzymes.
+19:10
+Andrew Ippolito: He said this during a period of time, when we still wasn't what we still weren't sure that DNA was the genetic material there, he is talking to you see this acting directly is enzymes, you see that, because they really wanted protein to be the genetic material.
+19:27
+Andrew Ippolito: They just couldn't let that bone go.
+19:33
+Andrew Ippolito: Okay, so this this hypothesis outlived the incorrect genes are made of proteins hypothesis.
+19:40
+Taylor Campbell: And like this, the main reason for that, because of the variation like you were talking about how DNA only had.
+19:48
+Andrew Ippolito: Like, though, yes, yes. Taylor Campbell: Okay, so that that whole. Andrew Ippolito: that's why they still they really wanted genes to be.
+19:54
+Andrew Ippolito: proteins because there's 20 amino acids that can be put together in any combination alexa.
+20:00
+Alexa Deprisco: Okay, so like his whole like big picture thing was just that genes determine the specificity of enzymes right.
+20:07
+Andrew Ippolito: thing the Code, the information to make them as opposed to being it themselves like there's an indirect thing versus a direct thing exactly.
+20:16
+Andrew Ippolito: Exactly. Andrew Ippolito: Now what i'm going to do now is i'm gonna walk you through his experiment.
+20:22
+Andrew Ippolito: And I want to do this kind of quickly because I want to get to the actual mechanisms of genes, so what they did.
+20:30
+Andrew Ippolito: Was let me, let me explain this. Andrew Ippolito: in a simple way, so we have.
+20:40
+Andrew Ippolito: I want to use the same terminology, they use here.
+20:47
+Andrew Ippolito: Okay, so there's two kinds of media there's complete media.
+20:53
+Andrew Ippolito: And there's minimal media.
+20:59
+Andrew Ippolito: First of all, the reason they using bread mold let's just be clear on this bread mold is hapless.
+21:04
+Andrew Ippolito: it's a fungus their their multicellular state is half later number, which means if they have a mutation occur you're going to see that effective it's there.
+21:15
+Andrew Ippolito: that's the power of using a half but organism for genetic research right if it's deployed, and you make a mutation you still it your mutations going to have to have a dominant phenotype.
+21:25
+Andrew Ippolito: or it's going to be hidden and recessive state and which is not good, whereas halfway cells, what you see, is what you get.
+21:32
+Andrew Ippolito: Also, by the 1940s, we had finally understood the relationship between radiation radioactivity DNA damage well they didn't always DNA damage, but the idea of bombarding cells with radiation allowed them to get me to.
+21:46
+Andrew Ippolito: Remember that Morgan had to figure out he had to find his fruit flies in the wild, so to speak, he had to find his mutations naturally occurring once.
+21:57
+Andrew Ippolito: beetle and hate them basically irradiated 2000 petri dishes of bread.
+22:05
+Andrew Ippolito: Okay, they went into a gentleman's arrangement, but there was a gentleman's bet not a bet but a gentleman's agreement between the two of them, that said.
+22:14
+Andrew Ippolito: we're about to embark on finding a needle in a haystack and we're gonna do this 2000 times they probably calculate the number, based on their budget and their lab and if we don't find the mutation that we need within 2000 we're going to call it a wash.
+22:32
+Andrew Ippolito: And in the 2000 they did they found three. Andrew Ippolito: Okay, so that's it gives you an idea of how hard they literally found three needles in the haystack.
+22:42
+Andrew Ippolito: Alright, so complete media what complete media contains.
+22:48
+Andrew Ippolito: All the nutrients that are healthy bread mold needs Okay, the idea is.
+22:56
+Andrew Ippolito: The parts are fully assembled.
+23:06
+Andrew Ippolito: The molecules are already intact, so the vitamins are already there we don't have to make them their their.
+23:12
+Andrew Ippolito: Minimum media contains. Andrew Ippolito: Only the basic components.
+23:21
+Andrew Ippolito: To build. Andrew Ippolito: needed.
+23:28
+Andrew Ippolito: molecules. Andrew Ippolito: So, in other words the salts the phosphates, the basic sugars, but nothing complicated guy likes it.
+23:39
+Andrew Ippolito: Oh, you like okay right so complete media now so all bread mold all wild type.
+23:48
+Andrew Ippolito: Why i'll tell you bread mold could grow just great in either media.
+23:55
+Andrew Ippolito: Okay. Andrew Ippolito: In other words, bread molds capable when it needs to right so here's the key when it needs to make things.
+24:05
+Andrew Ippolito: It will manufacture them from the building blocks. Andrew Ippolito: Okay, or you can just hand it all this stuff so this would be like you coming home from work after a long busy day and seeing either a whole bunch of.
+24:22
+Andrew Ippolito: Fresh groceries that you can use to make a new meal from, and you know it's going to take you like 40 minutes to cook it all or there's a sack there with some fast food in it.
+24:35
+Andrew Ippolito: we're going to go for the fast food if we're hungry, because we don't want to spend 40 minutes, making our food right and so all organisms, if you give them the prefabricated stuff they're going to use that first that's just a truism in life it's more efficient.
+24:53
+Andrew Ippolito: You guys still with me this making sense. Okay.
+24:59
+Andrew Ippolito: Alright, so, so what we're gonna do is we're gonna take imagine there's a machine here.
+25:05
+Andrew Ippolito: That looks kind of like those fast food pizza manufacture, you know those ovens where they'll have the conveyor belt they'll slowly put the pieces into them and then warm them up and they come out the other side they're done okay so imagine something like that.
+25:16
+Andrew Ippolito: we're going to put a bunch of petri dishes here, and this is going to radiate them and they're going to come out the other side.
+25:23
+Andrew Ippolito: Alright, so they're all they've all been fried they've all been irradiated.
+25:28
+Andrew Ippolito: Okay. Andrew Ippolito: So here's the way we're going to do the experiment here's a peach let's say we had a petri dish.
+25:35
+Andrew Ippolito: All right, and let's say that we had previously inoculated it with.
+25:42
+Andrew Ippolito: let's let's do let me do this 12345 let's see I put six colonies there it's all the same thing all wild type bread mold Okay, and I fed this through the the radiator and i'm growing this on complete media.
+26:04
+Andrew Ippolito: Right. Andrew Ippolito: So here let's go to the slide you can see here step one place cells on complete media step to subject them to X rays.
+26:15
+Andrew Ippolito: OK, and now what we're gonna do. Andrew Ippolito: Is we're going to so there's a couple things you can do at this point.
+26:25
+Andrew Ippolito: So this is called replica plating what we're gonna do is we're going to take another petri dish a fresh petri dish that contains minimal media.
+26:37
+Andrew Ippolito: Okay. Let me.
+26:43
+Andrew Ippolito: yeah yeah so before this so this, this is the step that is skipped in that slide so what you can do is it's kind of neat you take a piece of filter paper that's cut perfectly the size of the petri dish okay you gently place that you press it into the culture okay so imagine a.
+27:02
+Andrew Ippolito: Imagine a piece of paper that's like this right we press it on there, and while it's on there we we write whoops.
+27:12
+Andrew Ippolito: We write 123456 we right numbers on in pencil or whatever, and then we take that piece of paper out.
+27:24
+Andrew Ippolito: Okay, and let's see if I can grab this here, we take that piece of paper out no, I think the whole thing Oh well here.
+27:32
+Andrew Ippolito: Okay, so let's just pretend that I took the paper out here, it is, and I press it down onto this petri dish.
+27:40
+Andrew Ippolito: You know, finally, my fingers Mike like gloved sterile fingers right, and then I toss the piece of paper.
+27:48
+Andrew Ippolito: And then I incubate that. Andrew Ippolito: You know 37 degrees overnight, for you know 24 hours.
+27:56
+Andrew Ippolito: and the next day I come in. Andrew Ippolito: And I look. Andrew Ippolito: And I see i'm just making this up right now, I see this.
+28:09
+Andrew Ippolito: Right and let's say I also because I was smart I marked my petri dish.
+28:16
+Andrew Ippolito: And what's more I even drew little circles. Andrew Ippolito: Around where I will expect those things to grow, so that I know exactly what's there.
+28:30
+Andrew Ippolito: Okay, so I know. Andrew Ippolito: they're see that.
+28:40
+Andrew Ippolito: So, so I say that that 12345 6am I in my lab notebook I would say that in minimal media mmm in minimum media one grew to didn't three didn't for did five did 16.
+29:03
+Right. Andrew Ippolito: So somebody interpret that for me think like a scientist what happened.
+29:18
+Julia Lakchin: What happened and it went over. Andrew Ippolito: Go ahead Julia. Julia Lakchin: happened it went over.
+29:25
+Andrew Ippolito: To talk about tequila your your MIC your little soft you enter your lina far away. Julia Lakchin: Half of it went over.
+29:31
+Andrew Ippolito: Half of it went over. Julia Lakchin: What do you mean like like half. Andrew Ippolito: Oh no, no, no, no let's they all went over so so it's like you look under the microscope you'd see cells there.
+29:40
+Andrew Ippolito: there's there's material that you're you're really thinking like a scientist you like, you must the experiment.
+29:46
+Andrew Ippolito: You didn't roll out the piece of paper analysis okay so let's say that you think that you repeat the experiment you take another replica plating and you're like extra super careful this time and you get the same pattern of growth.
+30:01
+Andrew Ippolito: Now what happened. Andrew Ippolito: So, remember, we took this petri dish we irradiated it it came out the other side, and now we see that some of the colonies grew and some of them didn't.
+30:18
+Taylor Campbell: So, like the thing that went through was it heated. Andrew Ippolito: No it's just X rays.
+30:27
+Andrew Ippolito: We randomly. Andrew Ippolito: hit all these cells with X rays.
+30:34
+Julia Lakchin: Of the cells to handle the extra radiation or the other ones put in.
+30:41
+Andrew Ippolito: Okay okay so but they're all the same cells right.
+30:46
+Andrew Ippolito: That no no you're onto it you're on to it, like some of the self seemed to be okay, with it, and some didn't so what's, what do you think the differences between what's the difference between the ones that grew in the ones that didn't.
+30:58
+Alexis Micewski: mutation. Andrew Ippolito: Exactly. Andrew Ippolito: Okay it's just luck, of the draw.
+31:05
+Andrew Ippolito: it's like this is a game of Russian roulette. Andrew Ippolito: Some some of the cells that didn't grow right, so we can trace them back, we got this original player right so somebody think of an experiment here, what can I do.
+31:19
+Andrew Ippolito: To further investigate the to the three in the sticks here the ones that didn't grow.
+31:25
+Andrew Ippolito: What can I do what's the what's what what's an experiment, I could.
+31:32
+Taylor Campbell: You could have a. Taylor Campbell: Control.
+31:38
+Taylor Campbell: Okay. Taylor Campbell: So when out without putting it through an x Ray. Andrew Ippolito: So we already did that right so here's the dish that went through the X Ray machine, I have my colonies on there they're still there, you still have them to play with in the lab.
+31:51
+Andrew Ippolito: Okay, so what we've just done is we've taken them and they remember they grew and complete Media we transfer them to minimum media and they fail to grow.
+32:03
+Andrew Ippolito: So while another thing we go ahead. Taylor Campbell: All of them failed to grow. Andrew Ippolito: know just just the three.
+32:11
+Right so. Andrew Ippolito: So when we first replica play to them, remember, we put them in the incubator we let them go for 3737 degrees or 24 hours and so colony one colony four and Connie five all grew up.
+32:26
+Andrew Ippolito: In minimal media. Andrew Ippolito: But two, three and six fail to grow.
+32:33
+Andrew Ippolito: So here, these didn't grow. Taylor Campbell: Now, what about the X rayed ones.
+32:38
+Andrew Ippolito: So, so that, so we took this whole plate this first plate right here, right. Andrew Ippolito: We took that the whole plate went through.
+32:45
+Andrew Ippolito: Every single cell on that please go ahead with that trees. Andrew Ippolito: So every single cell is alexa said every single cell does some kind of they got hit with radiation they got randomly mutated.
+32:56
+Andrew Ippolito: Okay, on the other side of it so they're still there they're still in the petri dish we're then going to take some we're going to inoculate another plate with those same colonies, but that plate contains minimum media.
+33:13
+Andrew Ippolito: and three of those six failed to grow in minimal media so what's the next what's the next experiment, we could do.
+33:20
+Alexis Micewski: To further and resume you could try tuning it incomplete media. Andrew Ippolito: Excellent that's exactly right.
+33:27
+Andrew Ippolito: Okay, so watch this if I then took these irradiated plate, and I transferred this if I did, another replica plate incomplete media.
+33:39
+Andrew Ippolito: Okay, and so again let's let's make sure we carefully do this 123456 alright, so now so let's look so here's the results of minimal media one grew so we would expect one to grow.
+33:54
+Andrew Ippolito: We would expect expect five to grow and expect for to grow, of course, and those do grow, of course, but now for the three that didn't grow let's say that this grew and Miss grew.
+34:10
+Andrew Ippolito: Okay, and this one fail to grow. Andrew Ippolito: So what conclusion can we draw from that one.
+34:16
+Andrew Ippolito: So right, this is 123456 what happened with to their what, how do we interpret this experimental outcome.
+34:31
+Andrew Ippolito: How would you describe colony to there.
+34:37
+Andrew Ippolito: Is it like like reproduce or something or. Andrew Ippolito: No just simple like.
+34:44
+it's dead. Andrew Ippolito: it's that simple, you were reading and now dead.
+34:53
+Andrew Ippolito: So we don't care about to anymore right we don't care to choose choose not interesting to us anymore Tuesday.
+35:02
+Andrew Ippolito: Okay, but look at six and look at three. Andrew Ippolito: hmm so both six and three there.
+35:11
+Andrew Ippolito: can't grow a minimum media. Andrew Ippolito: But they they grow completely finding complete media they look just as good as wild type here they're not like deficient they're not slower growing they are 100% okay.
+35:28
+Andrew Ippolito: Now we just did six like this, they did 2000 and they found three like this, so this is not realistic way of looking at this experiment, but the point is this, we found what we're going to call ready we're gonna call them a nutritional mutant.
+35:49
+Andrew Ippolito: Okay that's the description of this kind of mutation now remember the white I flies imagine we did this for fruit flies and they came out the other side, and they had kids and their kids had all sorts of defects, like some of them had legs growing out otherwise.
+36:01
+Andrew Ippolito: We would call that you know, a leg I immune defect that you're supposed to have an eye there, why do you have a leg there instead they i'm not making that up that's one of the mutations that happens in fruit flies they'll have legs coming out of their head.
+36:16
+Andrew Ippolito: that's what we learned about hawks jeans that's another story for another time, so these kinds of meetings are nutritional defects because watch this watch this so this one right here, you see this one right here.
+36:28
+Andrew Ippolito: And so i'm going to just interpret this slide for you now, so they took this little colony and notice that they put it into minimum media and it did not grow.
+36:40
+Andrew Ippolito: Okay, as a control, they can put it see here's the control they take well that's wild type so so another control that they're not showing here is, we can put this over here in this to appear that has completed media and it'll grow just fun.
+36:56
+Andrew Ippolito: So we know it's alive that's the key there we know it's alive, but we know it can't grow a minimum me so here's what we're gonna do.
+37:03
+Andrew Ippolito: You see this V lean lysine Argentine stuff. Andrew Ippolito: that's like a B and C.
+37:10
+Andrew Ippolito: Okay, so viewing lysine an Argentine. Andrew Ippolito: Those are amino acids.
+37:18
+Andrew Ippolito: Okay, and so we can see here that, if we supplement the minimum media with the amino acid between we still don't get growth if we supplement that with lysine we still don't get growth but interestingly, if we supplement it with Argentine.
+37:34
+Andrew Ippolito: It grows just fine it grows, just as good as wild type.
+37:41
+Andrew Ippolito: So this tells us. Andrew Ippolito: That it can't make.
+37:46
+Andrew Ippolito: The amino acid Argentine.
+37:52
+Andrew Ippolito: Okay, so that's the beginning of this is unable to survive on minimum media, but you can supplement, so this would be an Argentine nutrition on mute right, you can abbreviate that minus park.
+38:11
+Andrew Ippolito: Now this is the actual. Andrew Ippolito: metabolic pathway okay so let's let's study this, so we have some precursor this is simple salts or sugars.
+38:21
+Andrew Ippolito: Okay, this enzyme here. Andrew Ippolito: Manufacturers the product called or nothing.
+38:33
+Andrew Ippolito: Or, nothing is then converted to sizzling by enzyme be here.
+38:40
+Andrew Ippolito: And then sizzling is muted is converted to the mean I was an Argentine.
+38:50
+Andrew Ippolito: Okay.
+38:56
+Andrew Ippolito: So they isolated mutants that require the amino acid art. Andrew Ippolito: So wild type version of the bread mold can manufacture or nothing so you can minimum media, which is what this would give us, and then the wild type can do all this.
+39:18
+Andrew Ippolito: So you can imagine, now so subsequent experiments from beetle and take them.
+39:26
+Andrew Ippolito: Further pulled apart those Argentina deficient mutations right why couldn't they make our journey.
+39:35
+Andrew Ippolito: Right, and so you can imagine, now.
+39:40
+Andrew Ippolito: Okay, so this this table is easily interpreted if you follow, along with me talking to you if you just I mean Maybe you can interpret it quickly on your own, but let me walk you through this.
+39:51
+Andrew Ippolito: Okay So here we go. Andrew Ippolito: let's look at the wild type column first, this is our control.
+39:58
+Andrew Ippolito: All right, we're gonna grow the wild type in just plain old minimal media and we can see it growing right.
+40:08
+Andrew Ippolito: We can grow it in any of these, in fact, and it should grow just fine so, in other words, we take minimum media and we supplement it with on a theme.
+40:16
+Andrew Ippolito: We take minimum media and we supplement it with sizzling we take minimum unit, we supplemented with rj which that would really be the control right so again, remember, we have.
+40:30
+Andrew Ippolito: We have the precursor. Andrew Ippolito: Then we're going to make or nothing.
+40:37
+Andrew Ippolito: Then we're going to make sertraline. we're going to make our journey.
+40:42
+Andrew Ippolito: just keep this arjun keep that in the back your mind right. Andrew Ippolito: Alright, so let's look at this they're calling class one you the class one you can't grow in minimal media.
+40:56
+Andrew Ippolito: darn it i'll tell you, let me just steal this.
+41:01
+I can't do that either.
+41:08
+Andrew Ippolito: Oh well just looking at this, you can learn a theme literally Nardini there's there's the pathway.
+41:15
+Andrew Ippolito: Sorry, so the class communes notice that the class one muting fails to grow, a minimum media but it grows just fine in order to see.
+41:24
+Andrew Ippolito: How do you interpret that.
+41:34
+Andrew Ippolito: explain that mutation to me.
+41:48
+Andrew Ippolito: Okay, remember precursor. Andrew Ippolito: To or nothing.
+41:53
+Andrew Ippolito: To signaling. Andrew Ippolito: To our journey. Andrew Ippolito: And we have enzyme one enzyme to an enzyme three.
+42:03
+Andrew Ippolito: explain the circled. Andrew Ippolito: growth.
+42:21
+Andrew Ippolito: Are you guys did I not explain this well enough maybe.
+42:29
+Andrew Ippolito: How many of your lesson. Andrew Ippolito: Okay okay.
+42:41
+Andrew Ippolito: For those of you who are visual you gotta sell. Andrew Ippolito: Okay, let me use a whiteboard any colors here.
+42:53
+Andrew Ippolito: You gotta sell these.
+42:58
+Andrew Ippolito: This cell needs the amino acid Argentina right remember the Argentine is one of the 20 amino acids, that we use to make proteins, so we need, we need a lot of that stuff right so let's say Argentine is here in blue, this is our gene.
+43:12
+Andrew Ippolito: Okay, minimum media i'm sorry complete media is going to give us a bunch of Argentina.
+43:18
+Andrew Ippolito: Right and so that sells happy.
+43:27
+Andrew Ippolito: here's some precursor molecule.
+43:33
+Andrew Ippolito: And we haven't enzyme.
+43:38
+Andrew Ippolito: enzyme one. Andrew Ippolito: That is going to grab that precursor molecule and produce a bunch of these little triangle things i'm going to use a color is green the.
+43:49
+Julia Lakchin: Green as i'm one is green great. Andrew Ippolito: The products are great. Julia Lakchin: precursor molecule is that just the order theme situation and the arguing or not.
+43:59
+Andrew Ippolito: No, no, no, so the pre crusher molecules are things like. Julia Lakchin: phosphate.
+44:06
+Andrew Ippolito: sugars like glucose. Maybe maybe some ammonia.
+44:14
+Andrew Ippolito: ammonium Ion right so like the really broad building blocks. Andrew Ippolito: that's what the precursors are.
+44:25
+Andrew Ippolito: Okay, so I just do to those little red dots here, and so what ends on one's going to do is take some of those building blocks and it's going to manufacturer or nothing.
+44:36
+Okay. Andrew Ippolito: And then another enzyme.
+44:44
+Andrew Ippolito: let's let's make it yellow here. Andrew Ippolito: enzyme to.
+44:51
+Andrew Ippolito: is going to take that order. Andrew Ippolito: And it's going to manufacture.
+44:58
+Andrew Ippolito: let's use. let's use purple let's use let's use orange.
+45:06
+Andrew Ippolito: that's red. Andrew Ippolito: it's going to manufacture.
+45:13
+Andrew Ippolito: let's call this literally.
+45:19
+Okay. Andrew Ippolito: And then there's a last enzyme.
+45:26
+Andrew Ippolito: call this enzyme three. Andrew Ippolito: an enzyme three is going to take that situation and produce.
+45:36
+Andrew Ippolito: Some rg. Andrew Ippolito: which the cell will then use.
+45:44
+Andrew Ippolito: To make proteins. Andrew Ippolito: Okay, because i'll let me know this, making sense.
+45:52
+Andrew Ippolito: So imagine you sprinkled in some r&d into a cell and he's already happy.
+45:58
+Andrew Ippolito: That would be complete media. Andrew Ippolito: Okay, but what happened, what would happen imagine if you sprinkle then just some of this these building blocks and then you push the timer and you started measuring the products that came out right so imagine a time point here.
+46:17
+Andrew Ippolito: Alright, so red would represent we added the precursor molecules and we would watch them go away because the cell would use them.
+46:25
+Andrew Ippolito: We would then see or anything come up and go because it meets the morn a theme, but then it usually on a theme, to make some situation, and then it used the situation to make some money.
+46:39
+Andrew Ippolito: or really I should just say it makes them money.
+46:45
+Andrew Ippolito: that's how we would see a metabolic.
+46:50
+Andrew Ippolito: pathway mapped out in the kinetics of it.
+46:55
+Andrew Ippolito: Does that does that chart make sense to you guys. Andrew Ippolito: raise your hand if you need me to explain that a little differently.
+47:05
+Andrew Ippolito: Okay, good so so, in other words you sprinkle in some of this red and then a few hours later, you see Argentine pop up.
+47:14
+Andrew Ippolito: Or you don't. Andrew Ippolito: Okay, so now let's go back to the slide.
+47:19
+Andrew Ippolito: explain that red circle now. Andrew Ippolito: Alright, so we bombard them what radiation.
+47:26
+Andrew Ippolito: We isolated a mutant that is on able to grow in minimal media.
+47:33
+Andrew Ippolito: So, in other words you sprinkle some red in there and it doesn't grow.
+47:39
+Andrew Ippolito: Okay, but watch this now so here let's go back to my little cartoony version of this, so I sprinkle it with a whole bunch of red stuff and I gave it.
+47:48
+Andrew Ippolito: Some or nothing, and then a few hours later, we see Argentine.
+47:57
+Andrew Ippolito: What couldn't that mutant do.
+48:02
+Andrew Ippolito: that's the million dollar question now. Andrew Ippolito: what's wrong with the class one mute.
+48:15
+Julia Lakchin: It couldn't produce the situation. Andrew Ippolito: It couldn't not so if you give it on a scene.
+48:23
+Andrew Ippolito: Right, you can see it grows. Andrew Ippolito: That tells us that it can take that on a scene and convert it to sit choline and convert to Argentina needs arjun yeah at the end of the day, right remember that's the end of the pathway or nothing doesn't do anything all or nothing does is it helps us make rg.
+48:40
+Taylor Campbell: But what about the the minimum medium. Andrew Ippolito: What about it. Taylor Campbell: It can't do that.
+48:45
+Andrew Ippolito: It can't do what. Taylor Campbell: It can't grow it can't produce.
+48:51
+Andrew Ippolito: Right right, so it can't grow a minimum media, which means it can't do what.
+48:57
+Andrew Ippolito: we've, we know that we understand this pathway now what can't the class one Newton do.
+49:08
+April Neeld: Is it produced our. Andrew Ippolito: say that again. April Neeld: Or is it can't produce the origami.
+49:15
+Andrew Ippolito: margin archie. Andrew Ippolito: Sorry, no it in the. Andrew Ippolito: In the. Andrew Ippolito: absence of anything right in the in minimum media you're correct it cannot produce Argentinian that's why you see it can grow in the minimum media when we take that minimum media and we sprinkle in some morphine.
+49:33
+Andrew Ippolito: You can see that it grows just fine it grows, just as good as wild type does.
+49:42
+Andrew Ippolito: So what can't the class one mutant do what's its deficiency.
+49:54
+Taylor Campbell: Like it needs it needs help. Andrew Ippolito: It doesn't, why does it need help, what does it need help doing.
+50:04
+crawling. Alexis Micewski: Now, creating or or nothing.
+50:10
+Andrew Ippolito: So you can access. Alexis Micewski: It needs help creating or nothing. Andrew Ippolito: Yes, okay it's not not even that, but it is why so it needs it needs help you gave it or nothing now it's like thank you, I can I can take it from here.
+50:26
+Andrew Ippolito: Right so What can it do it's an easy answer now What can it do.
+50:33
+Alexis Micewski: It can't make the enzyme. Andrew Ippolito: Yes, that way which hands on.
+50:39
+Alexis Micewski: One or two sorry I. Andrew Ippolito: don't have the chart that's okay it's Okay, there you go there you go.
+50:45
+Andrew Ippolito: The classroom you and can't do what. Andrew Ippolito: Are which one's wrong and. Alexis Micewski: can't meet enzyme a.
+50:52
+Andrew Ippolito: You got it you got it. Andrew Ippolito: right we knock this out. Andrew Ippolito: that's the insight i'm glad you got there and I, so I could have just told you that right.
+51:02
+Andrew Ippolito: that's one technique to teach just explain it to you, and then you go all that just makes sense, but for you struggling what you just did right now, and you finally got that now you're not going to forget it.
+51:11
+Andrew Ippolito: Okay, so, so let me recap, now that the spoilers out all right, we take some some bread mold we radiate it.
+51:20
+Andrew Ippolito: We note that it needs Argentina in order to grow now it didn't used to now it does so it's defective in the ability to make rg.
+51:30
+Andrew Ippolito: So we dig into the pathway to make originated, and we see that it needs three enzymes, to make origin.
+51:36
+Andrew Ippolito: And he's an enzyme a to make the precursor molecules into or nothing, and then it needs enzyme be to make that order thing into situation and the need, see to make in the central into the rg right, so it makes sense that if I just give it originated can grow just fine.
+51:51
+Andrew Ippolito: right and it also makes sense if I give it the precursor it can't grow.
+51:57
+Andrew Ippolito: But if I give it on a theme, it can, the only way to explain that is if the mutation if the radio at if the X rays mutated the gene that encoded for enzyme it.
+52:13
+Andrew Ippolito: So we make up for its defect, by giving it the thing it can't manufacture and then, once you give it that it can do everything else enzyme these just fine enzyme see is just fine.
+52:25
+Andrew Ippolito: Okay that's the class woman, now the class to muni.
+52:32
+Andrew Ippolito: We, so the for a different class immune it can't grow a minimum Media we gave us some order theme it's still can't grow how about some situation now it grows just fine, so what defect is that one half the class to me.
+52:46
+Julia Lakchin: And i'm be. Andrew Ippolito: Good okay. Andrew Ippolito: And by the way, do you notice that the classroom you can grow in any of these right that makes sense to right because it has been see so it can do everything.
+52:59
+Andrew Ippolito: notice this one can grow in either Argentina or situation, and then the last Class three mute and can only grow an Argentine and so where's his mutation.
+53:12
+Alexis Micewski: And i'm seeing. Andrew Ippolito: Good and now you're in so that this is what they did this is how they conducted this right and that's what led them to ultimately saying the one gene one enzyme hypothesis Okay, so they already understood that changing the genome type change the phenotype right Morgan did that.
+53:35
+Andrew Ippolito: But more more morgan's work really showed that right, and so what they're showing here is by mutating the genome type they traced this to specific enzymes.
+53:46
+Andrew Ippolito: And this led them to develop the first hypothesis about genes actually work and that's the one gene one ends on hypothesis that a gene dictates the production of an excellent.
+53:57
+Andrew Ippolito: Good. Andrew Ippolito: So that's beetle indeed.
+54:03
+Andrew Ippolito: And I think I think that's the last experiment that you guys will have to learn and the names have been all that, like hershey and chase and a brief mccarty, this is the last one.
+54:12
+Okay. Andrew Ippolito: So we're pulling a tunnel and N gram you just have to know that what they showed was that enzymes can sometimes also be multiple building blocks, they can have multiple poly peptides.
+54:29
+Andrew Ippolito: Okay, so they discovered that hemoglobin was the root cause of sickle cell. Andrew Ippolito: And they further showed that it was the beta globe in gene that was mutated the mutation was only ever found in the beta globe and.
+54:43
+Andrew Ippolito: When I say chain, I mean the pie peptide. Andrew Ippolito: And you can see here, I want to zoom in on this, this is really cool this is kind of amazing so that's oh I can't show the animation when zoom that stinks nevermind hopefully you guys can see that I want you to pay attention to right here.
+55:03
+Andrew Ippolito: Okay, so what you're seeing there the animation it's almost like it's breathing that's a human Globe that's the beta chain of hemoglobin.
+55:12
+Andrew Ippolito: When it's bound to or not bound to oxygen right So if you look carefully right here in the middle, you can see that light blue that's that's oh.
+55:22
+Andrew Ippolito: And if you look carefully that little red thing here that's the hint chain. Andrew Ippolito: So it's basically like a little platter that oxygen sits on.
+55:31
+Andrew Ippolito: And there's this groove in beta globe and alpha Bowman, where it's like a little cave that you can slide it the plate into so think of it like a little cupboard.
+55:38
+Andrew Ippolito: That you would have played into and then oxygen comes over there, like a magnet and sticks to the iron in the middle Okay, this is why we need to eat iron right the iron sits in the middle there the heat.
+55:49
+Andrew Ippolito: So notice that the protein itself changes shape when the oxygen is bound.
+55:55
+Andrew Ippolito: Okay, and so notice, I want you to pay attention here oxy oxy oxy oxy oxy oxy notice what it looks like in the D oxy state, and I want you to look right here.
+56:08
+Andrew Ippolito: Do you see how on its deoxygenated. Andrew Ippolito: This amino acid right here emerges, I was like you're sticking your tongue out you see that every single time it isn't a deoxygenated state.
+56:25
+Andrew Ippolito: And it turns out that amino acid in people who suffer from sickle cell is a hydrophobic amino acid.
+56:35
+Andrew Ippolito: Instead of a hydrophobic one. Andrew Ippolito: And that's what causes the entire disease of sickle cell anemia.
+56:42
+Andrew Ippolito: Because when there's no oxygen they're.
+56:48
+Andrew Ippolito: All the hemoglobin molecule that have that mutation will start to aggregate they'll basically high that hydrophobic charge.
+56:56
+Andrew Ippolito: and causes filaments to form and then in the cell. Andrew Ippolito: Okay, so.
+57:02
+Andrew Ippolito: So the bottom line here is that all this research that was done in the late 40s early 50s showed that enzyme that it showed that genes encode the information to make a poly peptide.
+57:17
+Andrew Ippolito: Okay, and so this is where we really started to take off, remember that a poly peptide chain.
+57:24
+Andrew Ippolito: Is a series of amino acids. Andrew Ippolito: So we can now start to hypothesize how genes actually encode the information right somehow we have these letters in code for the 20 amino acids.
+57:42
+Andrew Ippolito: So now in the 1960s, it was kind of like a space race, but less exciting of cracking the code.
+57:50
+Andrew Ippolito: cracking the genetic code. Andrew Ippolito: Okay, so here's here's what we call the central paradigm of the central dogma of molecular biology.
+58:02
+Andrew Ippolito: A gene is a sequence of DNA that encodes information to make a piece of art and really that's the modern definition of edgy.
+58:11
+Andrew Ippolito: notice the word proteins not there okay genes in code information to make RNA that's at the core of it, what a genius.
+58:22
+Andrew Ippolito: The process of making that RNA from a DNA template is called transcription.
+58:29
+Andrew Ippolito: The word in English transcription means copying information in the same language from one format to another format so, for example, you're transcribing right now.
+58:40
+Andrew Ippolito: You are taking notes from the screen and my voice, and you are transcribing it into your notebook your notebook now contains the same information as that slide.
+58:51
+Andrew Ippolito: it's the same language. Andrew Ippolito: Now let's say that you spoke a second language, better than English and your notes in front of you right now I wouldn't recommend this because the books in English, but let's say that you were writing it in a different language, right now, you would be translating it.
+59:07
+Andrew Ippolito: Okay now let's see that you took your notes right now you're transcribed notes and you gave it to your friend that doesn't speak English and they translated it and that's really that's the idea here so first we're going to transcribe the information into a piece of RNA.
+59:26
+Andrew Ippolito: And so, some of those rnas are called messenger. Andrew Ippolito: messenger RNA.
+59:32
+Andrew Ippolito: Okay, so genes that encode messenger RNA these are called coding jeans and really all other genes, you could just call non-coding jeans.
+59:41
+Andrew Ippolito: For our purposes that's all we're going to say about. Andrew Ippolito: The other two rnas that we're going to need to understand or T RNA.
+59:51
+Andrew Ippolito: RNA and rob is normal RNA RNA. Andrew Ippolito: we're not going to talk about their transcription that just understand they get there are genes, there are to RNA jeans there are any jeans.
+1:00:04
+Andrew Ippolito: Okay, and you can even though the riders on the RNA jeans those are in the nucleus.
+1:00:11
+Andrew Ippolito: that's what the nucleus is at the core of the nucleus is the transcription of RNA going on there.
+1:00:21
+Andrew Ippolito: Okay.
+1:00:27
+Andrew Ippolito: So we're gonna take a piece of double stranded DNA.
+1:00:32
+Andrew Ippolito: We are going to transcribe it into a piece of em RNA.
+1:00:41
+Andrew Ippolito: We are then going. Andrew Ippolito: To let's say modify.
+1:00:49
+Andrew Ippolito: Actually modifies it don't modify let's say process.
+1:00:55
+Andrew Ippolito: Dr RNA we're gonna put a cap on it to protect it. Andrew Ippolito: And then we're going to put a big long tail of a's at the end here.
+1:01:06
+Andrew Ippolito: This is called the poly a tail this is going to protect it from PAC man.
+1:01:13
+Andrew Ippolito: There are enzymes in the cell that will eat RNA from the outside, like that. Andrew Ippolito: These are called Expo nuclear bases.
+1:01:24
+Andrew Ippolito: And they will eat that polly tail so think of that polly like a bomb fuse.
+1:01:30
+Andrew Ippolito: that's what we call this.
+1:01:36
+Andrew Ippolito: A temporary message. Andrew Ippolito: It is born to die.
+1:01:44
+Andrew Ippolito: Go ahead alexa. Alexa Deprisco: Is that kind of like a telomere or to them or. Andrew Ippolito: No, no, no, no, this is, this is a I mean it.
+1:01:54
+Andrew Ippolito: it's analogous to the telomere in that it is the end of a molecule and it has a repeating unit, but that's pretty much the only I actually that's.
+1:02:02
+Andrew Ippolito: that's kind of a brilliant insight, I never thought of that analogy before, but you know there's a repeat there it's at the end, but that's where the knowledge, yes.
+1:02:10
+Andrew Ippolito: Okay there's no artificial lengthening of it, it just the idea is is that a messenger RNA has to be temporary, because.
+1:02:19
+Andrew Ippolito: it's kind of like you want to turn your faucet off again once you turn it on again once you turn on something you want to turn it off again right, so we shut the gene off if that arnie stay forever, we would have problems right okay.
+1:02:32
+Andrew Ippolito: So we. Andrew Ippolito: call this thing here yeah go ahead guys. Julia Lakchin: So the poly a tail that's just like kind of dealing the axon nucleus is from getting to that message.
+1:02:44
+Julia Lakchin: Exactly okay. It delays the inevitable.
+1:02:49
+Andrew Ippolito: Okay, and so we call this So the first piece of RNA here we call this the primary transcript.
+1:03:00
+Andrew Ippolito: That first piece of RNA hot off the press, the primary transcript We then process it into something we call the mature transcript.
+1:03:14
+Andrew Ippolito: And that mature transcript is then translated.
+1:03:21
+Andrew Ippolito: To a poly peptide. Andrew Ippolito: notice i'm not calling that a protein, you should know why, at this point, we talked about proteins and versus a pilot peptide is just a chain of amino acids protein is a folded up poly peptide it could have one or more, and it has a function.
+1:03:39
+Andrew Ippolito: Okay, this is called transcription.
+1:03:45
+Andrew Ippolito: This is called translation. Andrew Ippolito: Now you are going to mix these up.
+1:03:55
+Andrew Ippolito: Because you just learn this. Andrew Ippolito: Okay, come up with.
+1:04:01
+Andrew Ippolito: a shortcut in your head right now to remember this okay for for me what got me was I would translate makes sense to me translate isn't obvious where we use that.
+1:04:14
+Andrew Ippolito: Right, so the insight here is we're going to go from the language of RNA to the language of proteins.
+1:04:21
+Andrew Ippolito: The four letters to the 20 letters that's a translation of it. Andrew Ippolito: So that's how I read, so I when I was younger and I was first learning this stuff translate made sense, so I would think of that one, so if I was ever talking or thinking or reading a question.
+1:04:33
+Andrew Ippolito: And I, and I was mixing them up, I would first think OK, so the translation is the RNA to the proteins and what am I looking at here is this that or is this the DNA to the Arctic, which would be transcription.
+1:04:46
+Andrew Ippolito: Okay, be careful, this is the most that it's a large pothole that you're going to fall on if you're not careful.
+1:04:55
+All right. Andrew Ippolito: Any questions at this point again this is broad brushstrokes right now.
+1:05:04
+Andrew Ippolito: Making sense. Andrew Ippolito: Okay, so you can simplify this even more by doing this DNA.
+1:05:12
+Andrew Ippolito: RNA. Andrew Ippolito: Protein.
+1:05:18
+Andrew Ippolito: transcription I abbreviate lowercase tx translation is lowercase T.
+1:05:40
+Andrew Ippolito: So this is a slot I put together, I think I put this back. Andrew Ippolito: I think I put this together in Grad school this lie you're about to look at like 1999 it's old it's older than some of you.
+1:05:55
+Andrew Ippolito: don't know anybody here under 20. Andrew Ippolito: I don't think we got occasionally i'll have.
+1:06:02
+Andrew Ippolito: He can roads, but it's kind of rare alright, so this slide is about your.
+1:06:09
+Andrew Ippolito: The cell number the cell I dropped in the top there that's from the old slide so we got DNA in the nucleus, and we got the at seasons us on the DNA and we're going to transcribe.
+1:06:18
+Andrew Ippolito: That DNA into a single strand of RNA so this immediately calls into notion, the idea that one is only one of those strengths, so we have a template strand.
+1:06:29
+Andrew Ippolito: And we have the other one or you're just going to call it the non template stamp.
+1:06:36
+Andrew Ippolito: we're going to call the template strand.
+1:06:42
+Andrew Ippolito: Not we're not gonna i'm just gonna leave it that we're going to call the template from the template stream. Andrew Ippolito: Okay well and it's like so which one is it, it depends there's proteins that Palace that don't worry about it.
+1:06:54
+Andrew Ippolito: Okay, so we're still within the same language here now there's using set a tease but it's the same language right, so this is the language of nucleic acids.
+1:07:04
+Andrew Ippolito: And so transcription is taking it from one media format within the same language to another medium format a permanent record to a temporary message.
+1:07:16
+Andrew Ippolito: And men we're going to take that temporary message and we're going to read it now notice that these two processes.
+1:07:24
+Andrew Ippolito: Are conceptually similar, we have a polymer that contains a bunch of letters and a machine that reads along that and reads it and produces the product as a result, I say it ticker tapes along to get the old ticker tape machine.
+1:07:43
+Andrew Ippolito: So you can see here the emerging RNA you can see here the emerging peptide peptide.
+1:07:50
+Andrew Ippolito: So here we translate it. Andrew Ippolito: From the language of nucleic acid into the language of amino acid.
+1:07:59
+Andrew Ippolito: Go ahead alexa. Alexa Deprisco: So for this are really I guess zooming in on the process during like DNA replication of when it's like split into single strands or is this like an independent process.
+1:08:11
+Andrew Ippolito: This is a totally independent process. Andrew Ippolito: yeah DNA replication occurs during s phase this happens everywhere, all the time to genes that are off.
+1:08:22
+Andrew Ippolito: And all cells like this is part of being a living cell means you have genes that are active.
+1:08:29
+Andrew Ippolito: there's never a moment in the cells life, where genes aren't at least one or two G i'm just dozens of genes that are always on even dorman cells.
+1:08:38
+Andrew Ippolito: there's something going on right it's like leaky faucet at the very least.
+1:08:43
+Okay. Andrew Ippolito: And then, of course, those polyps does fold up and you get some kind of three dimensional.
+1:08:49
+Andrew Ippolito: shape and so that's when we call it a protein. All right, good.
+1:08:55
+Andrew Ippolito: So the first fundamental difference here is procures versus your carrier's okay so as you study this stuff be aware of the differences.
+1:09:03
+Andrew Ippolito: In prokaryotes these two processes transcription than translation occur essentially simultaneously in tandem right the DNA is getting transcribed and that RNA before it's even off the presses getting translated.
+1:09:19
+Andrew Ippolito: So it's all happening at the same time.
+1:09:25
+Andrew Ippolito: Some of those transcripts will actually contain multiple proteins multiple probably peptides This is called poly.
+1:09:34
+Andrew Ippolito: sister chronic polycystic chronic Mr Nick this is unique to pro carriers.
+1:09:42
+Andrew Ippolito: Okay multiple genes multiple poly peptide genes.
+1:09:47
+Andrew Ippolito: In eukaryotes transcription occurs in the nucleus translation occurs in the cytoplasm, and that is one of the things that you can say always about there are never, never, never exceptions to that rule there is never a moment in a normal cells life eukaryotic cells life, where RNA is made.
+1:10:09
+Andrew Ippolito: In the cytoplasm and proteins are never made in the nucleus.
+1:10:16
+Andrew Ippolito: they're imported in. Andrew Ippolito: So every protein I send a nucleus was born out in the cytoplasm and then brought in through the nucleus through the nuclear force.
+1:10:27
+Okay. Andrew Ippolito: There are, as I said earlier, there are three important rnas there's the Mr name the RNA the tea party.
+1:10:38
+Andrew Ippolito: The rub is almost rnas structural in that it is part of the building block component of the rhizome itself recall the rhizome makes the poly peptides.
+1:10:48
+Andrew Ippolito: To RNA is a functional RNA tra brings the amino acid to the rhizome so that I can build upon a peptide with it so it's a helper molecule.
+1:10:59
+Andrew Ippolito: And the T RNA is the adapter the T RNA is the ability to translate watch this this tra has a three letter word down here.
+1:11:09
+Andrew Ippolito: And it has the amino acid attached. Andrew Ippolito: And so, this is how we link up the languages and it's almost one o'clock i'll teach you how the language works on Wednesday.
+1:11:20
+Andrew Ippolito: Okay, I want to try to give you guys a little, I have one more minute Just to give you what you can before you go do your homework and all that.
+1:11:26
+Andrew Ippolito: Okay, so here's here's the quick spoiler alert the way the genetic code works is there are three letter words they're called code ons and each word corresponds to either i'm going to show you the simple version of this here hold on.
+1:11:41
+Andrew Ippolito: This is, this is the way that you read it, the first basis here so like let's say that we had a huge.
+1:11:49
+Andrew Ippolito: Okay, so you'd read it like this, a. Andrew Ippolito: You. Andrew Ippolito: g a g.
+1:11:56
+Andrew Ippolito: Okay, and so this is this right here, this is the genetic code, there are 64 code ons why 64 because there are three letter words and each word corresponds to one of the four letters and you can have duplicates you can have two ways in a row, or three a's.
+1:12:14
+Andrew Ippolito: And there's three kinds of codes, there are those that code for amino acids, or there are ones that are is the one that encodes start translation.
+1:12:24
+Andrew Ippolito: Okay, so that's the one I want you to actually there's a code on don't want you to memorize org which looks like augment which is like a good word start thing so stuff org is the star coat on, and then I call it, I think you'll appreciate this This is called the caveman code on burger.
+1:12:44
+Andrew Ippolito: Okay, so Olga in caveman means stop translation oh good.
+1:12:49
+Andrew Ippolito: All right now, it turns out there's there's three stop caught on, you have to know all of them just know so no org.
+1:12:55
+Andrew Ippolito: to occur. Andrew Ippolito: And anyone In between there just means one of the 20 amino acids notice that some of the amino acids have multiple code on.
+1:13:05
+Andrew Ippolito: The ones that do have multiple codes, this is a look at leucine here notice that the first two letters of leucine are all the same, see you later classes over.
+1:13:16
+Andrew Ippolito: Now is still i'm intent anyway notice that the last letter here. Andrew Ippolito: Can wobble it's called the wobble effect, the idea that a random mutation that occurs in that last amino acid doesn't matter.
+1:13:29
+Andrew Ippolito: You still get Lucy. Andrew Ippolito: Okay, you, you do not have to memorize this nobody memorize this last of working in the field Okay, even as a molecular biologist working with sequences every day I had this printed out and put in my cubicle pin there, so I can reference it because I never memorized this.
+1:13:48
+Andrew Ippolito: Okay, so you don't have to memorize this, you have to know how to read it. Andrew Ippolito: Okay that's the idea.
+1:13:57
+Andrew Ippolito: This is just to make polly peptide so we're going to call these this sort so a sequence of DNA a sequence of DNA that contains code on.
+1:14:10
+Andrew Ippolito: we're gonna call this an open. Andrew Ippolito: Reading frame.
+1:14:20
+Andrew Ippolito: or an order. Okay. Andrew Ippolito: If you go right now and you'll get the coronavirus.
+1:14:28
+Andrew Ippolito: Genetic sequence you'll see or, if you look at a lifecycle slide of coronavirus now you'll see offs in there that's what that means open reading frame, there are the parts that make the proteins okay your book will call this something more generic it's called a transcription unit.
+1:14:46
+Andrew Ippolito: The reason why there are these two different words is remember not all jeans code for protein.
+1:14:53
+Andrew Ippolito: Okay, so are our new jeans T RNA jeans they don't have morphs, but they do have a transcription unit they don't have code ons.
+1:15:01
+Andrew Ippolito: But they have a sequence that gets transcribed to distinguish the transcription unit from the part that regulates the gene, and this is where we're going to end today, this part here is called the promoter region.
+1:15:13
+Andrew Ippolito: as its name suggests, the promoter promotes the genes activation, this is the control switch and i'll teach you the details of how that work next time.
+1:15:23
+Andrew Ippolito: Okay, so we're three minutes over here's what we're going to end on on Wednesday we're going to hit the ground running there's not going to be a quiz Okay, I need you guys to be hyper focus, between now and then.
+1:15:33
+Andrew Ippolito: learning what you can there's no rush here it's just focus, we have time, but no time for dilly dally.
+1:15:40
+Andrew Ippolito: Okay, so i'm Wednesday i'm going to start we're going to learn the details of transcription post transcription of processing and translation and then we're going to jump in and start regulation okay and we're going to just keep going, and this, this is an interesting stuff.
+1:15:57
+Andrew Ippolito: You have to be able to draw it out okay that's how I would learn this stuff lots of drawing not just writing but but to pictures Okay, if you want to play with toys come up with you know strings and in in clay, or something if you want, but a lot of this stuff is very is very concrete.
+1:16:19
+Okay. Andrew Ippolito: Alright, so i'm going to leave it that. Andrew Ippolito: And i'm.
+1:16:25
+Andrew Ippolito: going to stop the share. Andrew Ippolito: And i'll see you next time on the recording i'm going to stop the recording.

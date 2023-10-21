@@ -1,0 +1,1004 @@
+0:01
+Andrew Ippolito: Okay, so this is the first lecture on organic molecules and what what you're going to see here your book splits this up into basic organic chemistry talking about.
+0:13
+Andrew Ippolito: The nature of carbon and carbon backbones and functional groups, and then the next chapter, we begin to the four major classes of organic molecule that's important to biology.
+0:26
+Andrew Ippolito: Right so up to this point let's just kind of think about where we've come we've talked about all matter.
+0:32
+Andrew Ippolito: Which is made out of these things, these protons and neutrons and electrons that together form these atoms that define the various elements that combine to form these molecules and these compounds.
+0:43
+Andrew Ippolito: Right and the molecules and compounds include a subset. Andrew Ippolito: That will call the organic compound alright, the ones that include that are made out of both carbon and hydrogen.
+0:54
+Andrew Ippolito: And we're going to learn about the four classes and the next presentation The carbohydrates, the lipids the nucleic acids and proteins these make up life.
+1:04
+Andrew Ippolito: So what are these molecules made out of they're made from a combination of some carbon backbone.
+1:13
+Andrew Ippolito: and associated functional groups like on the bells and the whistles.
+1:18
+Andrew Ippolito: Okay, so we'll learn about things like the hydroxyl group the car bottle group the amino group, etc.
+1:24
+Andrew Ippolito: And the combination between the backbone, and these functional groups gives rise to the various chemical properties of the various molecules.
+1:33
+Andrew Ippolito: Things like being hydrophobic or hide your affiliate are acidic or alkaline or polar nonpolar and some things are just structural functional so really this should say chemical where's my mouse.
+1:45
+Andrew Ippolito: Chemical physical properties right hydrophobic I feel like as in chemical that's a physical property.
+1:52
+Andrew Ippolito: Right chemical properties deal with breaking bonds and changing physical properties, you would see changes.
+1:58
+Andrew Ippolito: Okay, all right, so we go all the way back to the here's anybody who, that is.
+2:06
+Sami Jordan: What screen, or you share something on the screen. Sami Jordan: it's all black screen.
+2:12
+Andrew Ippolito: Oh wait, how long has it been like that. Sami Jordan: Since you.
+2:19
+Andrew Ippolito: Just went through a whole slow okay hold on.
+2:25
+Andrew Ippolito: Sorry guys. Andrew Ippolito: Can you see that now. Andrew Ippolito: i'm gonna start this over.
+2:32
+Andrew Ippolito: Now if you're watching in the future, my apologies for just talking to a black screen so here's what I just talked about I went through this matters made out of these of item lot, but I have to do, but up it up that includes the data there we go.
+2:47
+Andrew Ippolito: Okay, this is just a fun slide to talk through to get to the point where we're going to talk about organic chemistry.
+2:53
+Okay. Andrew Ippolito: This guy. Andrew Ippolito: Anybody know who, that is.
+3:02
+Andrew Ippolito: That is, do we pester the father of Microbiology.
+3:07
+Andrew Ippolito: he's the one that definitively disproved the theory of spontaneous generation, the idea that life can come from an organic material like flies can arise spontaneously from rotting meat or mice arise from discarded garbage.
+3:25
+Andrew Ippolito: Okay, however, he was a vital list What that means is. Andrew Ippolito: We used to think that there was another force of nature, we talked about you know electromagnetism and gravity the strong and weak force, well, we used to think there was this scientific model that there was a life force.
+3:45
+Andrew Ippolito: Like in Star Wars. Andrew Ippolito: Star Wars, the force is this life force that permeates all life.
+3:52
+Andrew Ippolito: And we call that the vital force the living force. Andrew Ippolito: And louie pesto, was a proponent of this now outmoded theory.
+4:02
+Andrew Ippolito: So we came up with this kind of bifurcation and chemistry between the living chemistry and the dead chemistry organic chemistry and inorganic chemistry.
+4:12
+Andrew Ippolito: It turns out that organic molecules. Andrew Ippolito: don't have any.
+4:20
+Andrew Ippolito: That we can detect any way forced to them that's any different than any other molecule.
+4:25
+Andrew Ippolito: So today, when we define organic compounds it's not that they came from a living cells so much as they have a lot of carbon and nitrogen they're made out of carbon and nitrogen so any molecule at all.
+4:37
+Andrew Ippolito: That has both carbon and hydrogen is considered an organic molecule and, yes, these are the most abundant life specific elements.
+4:47
+Andrew Ippolito: Okay, so organic molecules are things that lack one or the other, or both Okay, they don't contain both of them, so you have to have both of them, not one or the other.
+5:00
+Andrew Ippolito: Okay, so things like sodium chloride ammonia and phosphoric acid are in organic molecules.
+5:08
+Andrew Ippolito: Okay, so ammonia, despite the fact that has a hydrogen and it doesn't have carbon in it, so we don't classify that as an organic molecule.
+5:17
+Andrew Ippolito: Okay, so there's two I like to call them honorary Members of the organic family that has carbon dioxide and water, because without either of these molecules there is no organic chemistry of life.
+5:30
+Andrew Ippolito: Right carbon dioxide is technically inorganic because it doesn't have hydrogen and water is definitely interesting because it likes carbon you put them together and you get sugar.
+5:40
+Right. Andrew Ippolito: So I like to say as a biologist not a chemist informally, we will honor we will induct them as honorary Members in the organic chemistry family, because you really can't do much without them.
+5:57
+Andrew Ippolito: Okay, but at the College level here understand organic doesn't mean carbon it means carbon and hydrogen.
+6:05
+Okay. Andrew Ippolito: Alright, so carbon let's talk about our friend carbon now like really talk about carbon carbon at atomic number six.
+6:16
+Andrew Ippolito: Has a Valence of floor, which means it has four electrons in his village show and the electron configuration gives carbon a lot of varied a lot of diversity and it shapes.
+6:30
+Andrew Ippolito: All right, and I can, I have a little picture up here i'm never gonna hold you to any of this, this is not a chemistry class, this is a biology class, but it is useful to think about these all right, if you take the one s orbital.
+6:47
+Andrew Ippolito: And all three of the different pi orbitals in that second show the X y&z X, Y amp Z axis ones, you get this what's called tetrahedron.
+7:01
+Andrew Ippolito: Okay, this is the shape of forums right, so it just picture you're squishing all these electrons together in these various orbitals and they hate each other, and so they form this brand new.
+7:14
+Andrew Ippolito: dance we call a hybrid orbital. Andrew Ippolito: Okay, and so, instead of having.
+7:22
+Andrew Ippolito: A one s orbital and a to px orbital an.
+7:28
+Andrew Ippolito: or but i'll instead carbon has. Andrew Ippolito: 12342468 SP three orbitals.
+7:37
+Okay. Andrew Ippolito: This is part of what's called vesper which you'll learn about in chemistry vesper theory is the modern version, the modern take on the most accurate.
+7:49
+Andrew Ippolito: vespers the most accurate way of predicting.
+7:55
+molecular shapes. and interactions.
+8:01
+Andrew Ippolito: Its balance balance electron I forgot what the stands for.
+8:08
+Andrew Ippolito: Basically, the concept of hybrid orbitals you have these things together, and you get in your shapes okay.
+8:15
+Andrew Ippolito: Now, sometimes carbon depending on how many bonds it's forming can form different hybrid orbitals right, so the SP two is when we take.
+8:25
+Andrew Ippolito: Two pi orbitals and that gives us this planar it looks like a three leaf clover.
+8:31
+Andrew Ippolito: And that is planar it's flat Okay, the tetrahedron is three dimensional.
+8:41
+Andrew Ippolito: This is planar and then Lastly, you can just do an SP orbital this is how you would do the triple bond.
+8:54
+Which is rare. Andrew Ippolito: And that's just forums linear just connection.
+9:01
+Okay. Andrew Ippolito: So, because carbon has.
+9:09
+Andrew Ippolito: This electron configuration, it can form, all of these different shapes, this is why carbon is the source of all of this molecular diversity.
+9:18
+Andrew Ippolito: Alright, so carbon has a few unique properties that make carbon carbon it can form.
+9:27
+Andrew Ippolito: If you look on the right hand side here single bonds.
+9:32
+It can form chains. Andrew Ippolito: Double bonds.
+9:38
+rings. branches. Okay, it can form all these different shapes.
+9:45
+Andrew Ippolito: And what makes carbon really special is it can form bonds with itself as chance it can make itself into a cheap that's called Cantonese.
+9:57
+Cantonese. Cantonese means to put into.
+10:05
+Andrew Ippolito: Put into chance if you've ever heard the word concatenate.
+10:11
+Andrew Ippolito: or concatenation that means put things all put it put them all together by took your my first name Andrew my second name it believe Oh, and I concatenate them I would get one word Andrew pulido.
+10:21
+Andrew Ippolito: that's what concatenate okay sounds county. Andrew Ippolito: And form follows function we've talked about that, so far, a lot, the idea that carbons form allows it to have all these various functions varying forms bearing functions okay.
+10:37
+Andrew Ippolito: Alright, so in 3D we can even go 3D so karmin can form. Andrew Ippolito: A dizzying array of structures, it can form these complex soccer ball shapes called figurines.
+10:52
+Andrew Ippolito: The first one of these discovered was a guy named buckminster Dr buckminster, and so we call these things.
+11:00
+bucky balls. Andrew Ippolito: We can form tubes of carbon.
+11:09
+Andrew Ippolito: We can form single molecular sheets of carbon this stuff right here graphene, this is the future of.
+11:19
+Andrew Ippolito: Material science graphene has amazing properties, it is.
+11:29
+Andrew Ippolito: From what I remember reading anyway it's a superconductor at room temperature.
+11:35
+Andrew Ippolito: It has a tensile strength of about that of steel.
+11:41
+Andrew Ippolito: It sheds he really fast, and now I just read the other day.
+11:47
+they're able to use it in. Andrew Ippolito: some kind of sense that, like a sensor technology that's going to revolutionize.
+11:59
+Andrew Ippolito: The sensing radio waves, they were doing something with oh 5g networks, so this is going to change them.
+12:07
+Andrew Ippolito: you're going to make your wi fi better i'll just leave it at that, so graphene is a magic it's this magic material it's amazing.
+12:15
+Andrew Ippolito: diamond. Andrew Ippolito: Okay, so so structures of diamond and graphite Okay, so if you're using a pencil think of the different in a pencil on a diamond The only difference between them is the configuration on the carbon atoms.
+12:29
+Right. Angela Harbeck: Or we can do these like the structures and.
+12:35
+Andrew Ippolito: i'm not going to have a lineup like. Angela Harbeck: match the name to the shape now.
+12:41
+Andrew Ippolito: We have more important things to put in our heads right now. Like the functional groups you'll have to know those.
+12:49
+Andrew Ippolito: So so here if we look at this that's that's an animation that doesn't work anymore it's just it just plays a video that shows all this anyway.
+12:59
+Andrew Ippolito: Alright, so when we talk about organic compounds now we're gonna see that these four major classes, that we talked about the proteins carbohydrates, the lipids nucleic acids as different as they are from each other, they are all built from the same basic schematic a carbon skeleton.
+13:22
+Andrew Ippolito: So a carbon skeleton is a chain or a ring or branches or whatever carbon skeleton and associated what we're called functional groups which we're going to learn that.
+13:31
+Andrew Ippolito: And the combination of those gives us an incredible array of structure, and this is what ultimately gives rise to the diversity we see in life, the differences in the starfish and the jellyfish and the bald eagle and everything in between.
+13:48
+Okay. Andrew Ippolito: And we name organic compounds between both the functional groups and their chemical properties and sometimes our corporate skeleton really.
+13:58
+Andrew Ippolito: Right so there's this thing called are you pack nomenclature.
+14:05
+Andrew Ippolito: I pack nomenclature, is to chemistry what taxonomy is.
+14:11
+Andrew Ippolito: To biology it's a way of classifying things and naming them so in binomial nomenclature.
+14:20
+Andrew Ippolito: Actually yeah let's say the Cross out the word taxonomy or notes it's really it's closer to buy binomial nomenclature I a peck stands for the International Union of pure and applied chemistry.
+14:32
+Andrew Ippolito: And you'll probably see that in your chemistry class to this is why, how you get things like one to die bends a week sodium di sulfate whenever I was making them look at the back of your shampoo bottle.
+14:43
+Andrew Ippolito: All those words that's from audio pack nomenclature somebody who is fluent in Arabic nomenclature can read that word and draw structure of it.
+14:53
+Okay. Andrew Ippolito: All right, here we go functional groups.
+14:59
+Andrew Ippolito: The concept here is that it is a part of a molecule that has a distinct set of chemical properties, independent of the rest of the molecule and I.
+15:09
+Andrew Ippolito: you'll see here I capitalized our rest on purpose we're going to write it like this are here let's give you one do each group that are could be anything.
+15:20
+Andrew Ippolito: It could be a whole big long chain of carbon, it could be you it doesn't matter it just means it's what we're talking about it's independent of the rest of the molecule it brings to the table its own sense of identity.
+15:31
+Andrew Ippolito: It defines itself into the strong personality.
+15:37
+Andrew Ippolito: Okay So here we go. Andrew Ippolito: These are the things that are directly involved in chemical reactions, so you can see that's why they're important.
+15:46
+Andrew Ippolito: And it's not considered a functional group until it's patched to the molecule.
+15:52
+Andrew Ippolito: Otherwise it's just an eye on or something. Andrew Ippolito: Okay, and when it is attached whatever it's attached to that thing its name is driven in part by this function.
+16:06
+Okay. Andrew Ippolito: So you should have heard of ethane hydrocarbon that's explosive an ethanol, which is an alcoholic some people drink.
+16:17
+Andrew Ippolito: Okay, these names are different because of different functional groups.
+16:22
+Alexa DePrisco: I like to think of functional groups like. Andrew Ippolito: legos go ahead Angela. Angela Harbeck: You were just because I didn't say anything.
+16:29
+Andrew Ippolito: Oh, your MIC one hot really quickly. Alexa DePrisco: Sorry that's me. Alexa DePrisco: I had a question about functional groups, could you liken that to like when you have a chemical reaction, you have like the net reaction, which is like where stuff actually happens versus like the entire thing the um the complete.
+16:47
+Andrew Ippolito: hey I feel like you're focusing on a specific. Andrew Ippolito: Part of the molecule and that thing happens right here, yes that's yeah it's like when you look at the detailed formula.
+16:55
+Andrew Ippolito: And you see like the like you've heard of hydrophobic attack or whatever you know you have some molecule and there's an O each group on it and some other molecule and that's got an H, and the reaction happens here.
+17:06
+Alexa DePrisco: that's what we're talking about you'll. Andrew Ippolito: it'll it'll become more clear and then the. Andrew Ippolito: Forthcoming slides to but yes that's the idea, instead of just generically we're talking about where the actual chemistry happens.
+17:17
+Alexa DePrisco: So I like to think of functional groups is this specific different legos. Andrew Ippolito: Right, if you have a Lego pilot arm and you play with legos you take a bunch of tires out of the now, you can make something that rolls.
+17:29
+Andrew Ippolito: Right or put this on top of it now you have a door, or you can make some other kind of moving part right or a door hinge or you know or or sometimes they're just structural pieces.
+17:43
+Andrew Ippolito: Right, and so the idea here is we're going to add these components to a molecule to make them do specific things.
+17:52
+Andrew Ippolito: Right and so here's we're going to go through them one by one, now, this is, these are detailed.
+17:58
+Andrew Ippolito: descriptions of things, the first one we're going to talk about it's called the hydroxyl functional group which is just an O H, so you would write like this always don't don't forget the are because it's not a functional group, otherwise our O h.
+18:11
+Andrew Ippolito: And just as a point of interest if I just wrote oh ah what's that we already met him in the last chapter that's the hydrox as the hydroxide.
+18:22
+Andrew Ippolito: Right, so the hydroxide Ion when attached to a carbon scaffold becomes the hydroxyl functional group.
+18:32
+see that. Andrew Ippolito: And these are the functional groups we associate with alcohols.
+18:40
+Andrew Ippolito: Right, so if you take. Andrew Ippolito: A carbon molecule.
+18:46
+Andrew Ippolito: Like just let's just take let's start with I didn't teach you the basics of naming things with carbon so let's do that so here's carbon and let's just give carbon for hydrogens.
+18:59
+Andrew Ippolito: Alright, so let's call that ch for. Andrew Ippolito: because those are all single bonded hydrogens that's that's the default.
+19:06
+Andrew Ippolito: Carbon backbone. This is methane, a any.
+19:15
+Andrew Ippolito: Okay, so math when you see math that's one carbon if I took two carbons and I put them together and I gave the rest of them hydrogens there.
+19:26
+Andrew Ippolito: that's effing. Andrew Ippolito: Okay, three would be propane.
+19:39
+Andrew Ippolito: Forest butane. Andrew Ippolito: Okay, so you can do this, you can do math.
+19:45
+Andrew Ippolito: s. Pro. beauty.
+19:53
+hacks. Have.
+19:58
+Andrew Ippolito: known and deck that's your first 10 methane same propane butane pentium hexane obtain octane no name decade and you can just keep going from there.
+20:09
+Andrew Ippolito: Okay, you don't have to memorize these for this class but knowing, this will help you understand, other things in this class and will obviously help you in your chemistry.
+20:18
+OK. Andrew Ippolito: So the eight me at the end of it when you see a hydrocarbon with eight and he that just means its simplest form a single bonds of hydrogen.
+20:29
+Andrew Ippolito: Okay, so here over here here's effing.
+20:35
+Okay, which is what we're talking about now. Andrew Ippolito: And let's introduce some short hand drawing now watch this if I draw just this you see how I do this it looks like an upside down be okay, what I want you to see that, as is three carbons, each with their hydrogens.
+20:57
+So that would be what see three H 368.
+21:03
+Andrew Ippolito: Okay, so watch this I can this zigzag zigzag zigzag right now I can draw carbon jeans or I can draw a carbon ring.
+21:13
+Andrew Ippolito: Or, I can draw something that's branched Okay, the lines represent fully.
+21:20
+Andrew Ippolito: saturated carbons with hydrogen when I say saturated I mean unless it says otherwise you can assume that when you see this doodle there are all of the hydrogens air and remember that carbon forms for bonds total right so just fill the space with hydrogen.
+21:40
+Andrew Ippolito: Okay, so anything in this format would just be a straight line right to carbon with nothing else on it.
+21:49
+Andrew Ippolito: Okay, this is the chemical shorthand we're going to use all semester how we're going to do to everything and you'll use that in your chemistry classes do Okay, so when there are functional groups attached.
+22:01
+Andrew Ippolito: First of all, save the screen if you need to write all that stuff down, otherwise you can come back to the video but i'm going to clear this right now 321 clear.
+22:13
+Andrew Ippolito: Alright, so watch this methane i've seen pro there's propane.
+22:18
+Andrew Ippolito: Okay, and here is propanol.
+22:23
+Andrew Ippolito: I just put a hydroxyl group. Andrew Ippolito: Okay here's us at all.
+22:31
+Andrew Ippolito: that's that makes sense. Angela Harbeck: Yes or no um, how do you know if it's a functional group or not.
+22:39
+Andrew Ippolito: If it's attached to an organic molecule. Andrew Ippolito: Otherwise, if you just see it floating around like this that's just an eye on right.
+22:49
+Andrew Ippolito: So we'll see you know this is phosphoric acid. And that's the phosphate group.
+22:58
+Andrew Ippolito: Okay alright, so the next group Okay, so what what properties does this give us this makes everything that is attached to it polar that's the key here and that's why essien.
+23:11
+Andrew Ippolito: nonpolar gas at room temperature ethanol, with its extra polarity liquid at room temperature.
+23:21
+Okay. Andrew Ippolito: So it's polar, so this is how you can make things more polar take him away less polar okay so that's what I want you to associate hydroxyl groups with polarity.
+23:32
+Andrew Ippolito: Things that have hydroxyl groups can engage in bonding with water and a whole bunch of other things that's, this is what makes things useful.
+23:41
+Andrew Ippolito: OK, the next function on group is called a car bottle functional group the car bonnell functional group is a double bond oxygen just by itself.
+23:53
+Andrew Ippolito: Okay, and so I just doodled a chain of carbon there and I just put it notice, I put it at the end of the chain do you see that I put the double bond Oh, at the end I couldn't put it on the other end I could have put it here.
+24:05
+Andrew Ippolito: Right, but I put it at the end okay now watch this here's another carbon chain i'm going to put the double bond oh somewhere in the middle, you see the difference.
+24:16
+Andrew Ippolito: Okay, the double bond oh is, at the end of the chain or somewhere in the middle of that chain, and that leads into two classes of organic compounds.
+24:25
+Andrew Ippolito: You know you're out the highs and your ketones and Al to hide is an organic compound where the car bonnell functional group sits as a chain it's called a chain terminator.
+24:40
+that's not the end of a chain. Okay.
+24:45
+Andrew Ippolito: A ketone is when the core bottle group is within the carbon chain.
+24:57
+Andrew Ippolito: The two classic examples would be formaldehyde and acetone.
+25:06
+Andrew Ippolito: And, like the hydroxyl group car bottling groups also give us a polar.
+25:12
+Andrew Ippolito: molecule because oxygen loves electrons.
+25:19
+Andrew Ippolito: Okay, so that's the car bottle so so don't make this mistake there's no such thing as an Alto hide functional group there's no such thing as a ketone functional group.
+25:30
+Andrew Ippolito: No more as there's no such thing as an alcohol functional group, these are the names of families of molecules there are the Alpha hides and the ketones.
+25:40
+Andrew Ippolito: And what distinguishes them is where their function on group the car bonnell function on group is located, you see there at the end or somewhere in the middle.
+25:48
+Taylor Campbell: so, which ones. Taylor Campbell: In the middle. Taylor Campbell: The keto.
+25:54
+Andrew Ippolito: So here, let me draw them neater for you. Andrew Ippolito: Okay right this, so the simplest keep ketone you can draw looks like this and here's how you remember it, this is my silly way of remembering it this kind of looks like a key if you put a line here.
+26:11
+Andrew Ippolito: Thank you, that there, it looks kind of like a key now is a terrible key granted, but.
+26:17
+Andrew Ippolito: Maybe that'll make you remember it and then the owl to hide. Andrew Ippolito: would be.
+26:23
+At the end of the molecule. Andrew Ippolito: So if I wanted to make this alcohol I just draw a ketone right here, let me so here, I have this out to hide right here watch this if I add a carbon here now.
+26:38
+Andrew Ippolito: Now it's a keto. see that so it's in the middle.
+26:46
+Andrew Ippolito: Okay i'm gonna move on now, we got a lot more to cover here. Andrew Ippolito: Car box or.
+26:52
+Andrew Ippolito: You can write it like this co each. Andrew Ippolito: But that's less than formative and that's it's hard to see it, so this is how I want you to write it on your notebook in your notebook okay start with a carbon.
+27:05
+Andrew Ippolito: Okay, so that carbon is actually part of the function.
+27:13
+Andrew Ippolito: And i'm a top here at an angle we're going to put a double bond Oh, just like we did in the car bomb on group.
+27:19
+Andrew Ippolito: But that fourth bond that carbon is attached to. Andrew Ippolito: Is the hydroxyl group here, and so this whole system.
+27:30
+Andrew Ippolito: Is has a defined function itself think of it like a compound word fire and you got man and yeah fire man right, this is like a compound word in that sense.
+27:46
+Andrew Ippolito: And the reason why we have this one thing and we call it the car boxful functional group is because it acts like an acid look at it it's got this hydrogen right here, just like we talked about H2 co three earlier.
+28:00
+Andrew Ippolito: This confers acidity. Andrew Ippolito: To whatever it's attached to.
+28:07
+Andrew Ippolito: And in fact so let's learn our first organic molecule here we'll talk about even more later draw a chain and carbon and then at the very end of it draw that put a double bondo.
+28:17
+Andrew Ippolito: In a single bond oh ah here, and this thing is called a fatty.
+28:24
+Andrew Ippolito: acid you've heard of fatty acids before that's a fatty acid just take the car box look group at the end.
+28:32
+Andrew Ippolito: And the reason mind this is acidic is because oxygen loves electrons these this this oxygen here, and this oxygen here all contribute to pulling away the electrons from this hydrogen leading it to tend to fall off and solution.
+28:49
+Andrew Ippolito: Okay, so the Ionized version of this would look like this. whoops do that better.
+29:00
+Andrew Ippolito: see that I just put a negative there that's what it would do in water now it's an eye on.
+29:07
+Andrew Ippolito: And so we find carb oxalic groups in the family of things well the carb oxalic acids.
+29:13
+Andrew Ippolito: me so vinegar is a scenic acid that's entered vinegar is acidic acid and acidic acid is basically.
+29:23
+Two carbons with a.
+29:30
+Andrew Ippolito: functional riveters there's acid or i'm sorry there's there's vinegar it's an organic acid.
+29:36
+Andrew Ippolito: Okay, and will also learn about amino acid shortly.
+29:41
+Okay. Andrew Ippolito: The next one. Andrew Ippolito: The amino group this one's easy take ammonia and stick it on to a molecule and you get the amino group alright so remember ammonia is nh three.
+29:55
+Andrew Ippolito: And so, if you remove one of the hydrogens from it right so here and ha Ha ha right that's ammonia get rid of one of these leeches so that we can attach it to a carbon.
+30:08
+Andrew Ippolito: And now we're nh two. Andrew Ippolito: Okay, but it still has that lone pair of electrons and it's still basic so the ammonia group i'm sorry the amino group contributes to making things more alkaline.
+30:20
+Andrew Ippolito: And the family of molecules that have these are called the Amiens.
+30:26
+Right like maybe you've heard of glucose me. Andrew Ippolito: Right or maybe you've heard something called a vitamin you have to take your vitamins right the word itself vitamin is derived from saying the phrase out loud, these are your vital.
+30:42
+means. Andrew Ippolito: Okay, in other words, you need them to live and they are within the class of molecule called the mean so you're the vitamins vitamin B vitamin K vitamin A vitamin D, you know they're all vital amines if you look at their structures you'll see that they have it means that means.
+30:58
+Okay. All right, so you mean okay. Andrew Ippolito: So, think of the amino group as the rival of the carb oxalic group they're like oil and water their their red and orange there there's always at each other's throats like Harry Potter and both the barn they're just they're always opposite sides of the of the fence.
+31:22
+Andrew Ippolito: Okay alright, the next one is called the soul hydro group. I call this the quiet one.
+31:31
+Andrew Ippolito: Okay, we don't say much about the soul fighter, other than they form a family and mark is called the files.
+31:38
+Andrew Ippolito: And they are involved in helping proteins maintain their 3D structure, and I will teach you that later when we do proteins so that's all i'll say about so far the only place you find them.
+31:51
+In terms of something interesting in biology is within the proteins.
+31:57
+Andrew Ippolito: Okay, the next one is called the phosphate group, this is arguably one of the most important we'll talk about all semester when it comes to energy, think of phosphate as the.
+32:10
+workhorse. Andrew Ippolito: Of the elements phosphate is a really strong element look at look at it for a second it's got four oxygens and it's holding on to them Kobe violently, what did I tell you, but oxygen loves electrons and yet we have this phosphate Adam in between, for oxygens.
+32:37
+Andrew Ippolito: Right it's like Arnold Schwarzenegger holding for horses trying to drag away from him and he can hold on and not be ripped apart right you all her there's this medieval torture called being drawn and quartered.
+32:52
+Andrew Ippolito: You tie a rope to some poor person's arms and legs and tie each of those ropes to a horse and then smack the horses on the rump.
+33:00
+Andrew Ippolito: quartered. Andrew Ippolito: Imagine somebody in some conan movie trying to draw on quarter Arnold Schwarzenegger and instead he, like pulls the horses to him and, like the oakland kids and fall unconscious and then he runs away.
+33:16
+Andrew Ippolito: Right that's philosophy philosophy it's really strong. Andrew Ippolito: And we'll see phosphate everywhere, this semester, particularly within the molecule ATP.
+33:27
+Andrew Ippolito: Okay, so instead of there being a family of molecules called something we're gonna think of this as a.
+33:38
+Andrew Ippolito: As a hat. Andrew Ippolito: or as a. Andrew Ippolito: As an experiment I don't know if that's a word that as a.
+33:52
+Andrew Ippolito: modification. Andrew Ippolito: Okay, and so we're going to see that if something has a phosphate group on it we're gonna say that it just got phosphor elated.
+34:03
+Andrew Ippolito: In a process called appropriately phosphorylation and we're going to talk about this all Semester to so get that into your head, so you would see that something gets phosphor deleted, that means that it got a phosphate group attached to it.
+34:17
+Andrew Ippolito: And so we'll see later we'll take adenosine di phosphate and we will phosphor elated.
+34:24
+Andrew Ippolito: Let me actually make it a chemical reaction here, we will make just as a cartoony version of it to adenosine triphosphate, and so we will say we phosphor ELISE EDP to make ATP the D is die and the T is try to phosphates become three.
+34:43
+Andrew Ippolito: Okay, and that's all i'll say about that, for now, and then the last one here on the slide the methyl group the methyl group is probably the most boring it's just adding another carbon.
+34:53
+Andrew Ippolito: Hydrogen right and and we call this like phosphate we can think of this as an attachment as a modification, and so we will call that methylation.
+35:05
+Andrew Ippolito: methylation so there's phosphorylation there's methylation.
+35:11
+Andrew Ippolito: And as you can imagine, by adding a methyl group to a molecule you're making it more hydrophobic because that's a non polar function right the key here is this is non polar.
+35:27
+Andrew Ippolito: And so you can put this against the hydroxide. Andrew Ippolito: Right, I told you, the amino group counters the carb oxalic group, you can see that the method group.
+35:38
+Andrew Ippolito: counters the hydroxide hydroxyl group.
+35:43
+Andrew Ippolito: Okay, really, so you have hydrophobic hydrophobic and you have acidic and basic that's that's what I meant when i'm talking about countering each other.
+35:53
+Andrew Ippolito: Okay, and I said, those are the main those are so listen, those are the functional groups we're going to talk about.
+35:59
+Andrew Ippolito: There are many others that you're not going to hear the names of just be aware of the fact that we've taken a subset of the functional groups Okay, the whole world here, and I promise you that knowing these will also very, very dramatically help you in your both in your Chem.
+36:17
+and your organic classes. Andrew Ippolito: Okay, and so here's a slide That summarizes it all for you.
+36:25
+Andrew Ippolito: All right, and so let's just look at the examples that I didn't invoke so far, we talked about ethanol.
+36:32
+Andrew Ippolito: All right, but here, you can see, the structure of acetone now So you see acetone ketone and notice the car bano Group is in the middle of the chain right so really when I when I did this simple one over here that's acetone.
+36:46
+Okay. Andrew Ippolito: Whereas propane now now proven all proven now is an alcohol, because it has it at the end right, so there that would be proven now versus acetone we're just changing where the oxygen is.
+37:04
+Andrew Ippolito: Very acidic acid. Andrew Ippolito: You can see is just a single carbon.
+37:12
+Andrew Ippolito: Within with with the carb oxalic group which remember that includes the carbon.
+37:17
+Andrew Ippolito: And you can see here that it associates that there's that word again to associate the hydrogen falls off and becomes a proton This, in turn, will go and bind to a water molecule which will then give us a hydro nehemiah on hydrogen Ion which will lower the pH.
+37:34
+Right. Andrew Ippolito: Okay, the amino group so we got glycine glycine is just.
+37:42
+Andrew Ippolito: You can see glycine is vinegar right that's vinegar and then added them, you know grew up on it, and I have glycine.
+37:52
+Andrew Ippolito: Sistine is one of the 20 amino acids.
+37:58
+which will learn about shortly that's just one example of one of the 20.
+38:06
+Andrew Ippolito: I saw that Alexis was really funny your dogs like love me.
+38:13
+Andrew Ippolito: that's why I, my door shut they'll distract me to know it. Andrew Ippolito: Okay, and then you have the phosphate group so you can call them organic philosophy it's if they're attached the phosphate group I generally don't use that term but whatever So you can see here's cholesterol.
+38:29
+Andrew Ippolito: Alright, so let's learn let's learn cholesterol, which is another out call, because this is we're going to see this all semester do. Andrew Ippolito: The reason why the name of glycerol isn't something technical that lets you see what it is it's a very old molecule that had a name before we standardized naming so cholesterol is just three carbons where each carbon has hydroxide or hydroxyl functional group right there that's glycerol.
+38:54
+Andrew Ippolito: Right and so we'll see that as a building block for various other things. Andrew Ippolito: If we fast formulated right, so if we if we got a phosphate group here now that's cholesterol phosphate.
+39:06
+Andrew Ippolito: Which is the example they use here. Andrew Ippolito: Okay, and then, lastly, for the methyl group, you can see, this molecule here we're going to learn, when we do nucleic acids later the DNA and the RNA that one of them is called cytosine.
+39:20
+Andrew Ippolito: that's the sea and the etc and G of DNA and if we take a methyl group and add it right here to the fifth carbon.
+39:30
+Andrew Ippolito: And all the carbons have a number to them the fifth the fifth position we call that five methyl cytosine.
+39:37
+Andrew Ippolito: Okay, so these are just examples you don't have to memorize all this this just gives you a context of where you would see these various functional groups.
+39:45
+All right. Andrew Ippolito: Now we're going to get into this concept called ice summers, and this is going to be very silly so brace yourself we're going to take this sentence here board and I let.
+40:03
+Andrew Ippolito: You think of like somebody in jail. Andrew Ippolito: And there was a terrible smell coming from their.
+40:10
+Andrew Ippolito: brim and the warden comes up to them and what have you done, I said board and I let.
+40:16
+Andrew Ippolito: That is just disgusting and, unfortunately, if, if you look at my name Andrew pulido word in islet poop is the only way, you can rearrange those that set of letters and still get something else in English.
+40:33
+Andrew Ippolito: It is a very unfortunate anagram as it's called.
+40:39
+Andrew Ippolito: Now you get it yeah I put my name into an anagram generator just if you go to Google and type anagram generator and put your name in there, maybe you'll get a couple maybe you put my name in there there's only one that makes sense in English and that's it.
+40:53
+Andrew Ippolito: Okay So what does this have to do with chemistry.
+41:00
+Andrew Ippolito: All an ice summer is is a chemical version of an anagram, in other words, it has the same chemical formula, but it has a different structural formula.
+41:13
+Andrew Ippolito: Okay, so there's an example of two of them right here, you just take see three i'm sorry for carbons.
+41:20
+Andrew Ippolito: Right, you can see, the law on the left there they form a chain, the on the right we're just going to rip one of the carbons off the end here.
+41:28
+Andrew Ippolito: And we're gonna put it in the middle instead right so just imagine some late goes, you can do this right So here we can make that line of four or we can take three of them, then put the fourth one here.
+41:41
+Andrew Ippolito: Okay, so these are called structural barriers in this case. Andrew Ippolito: And because the form of something files its function that makes sense that the different shapes are going to have different functional implications.
+41:56
+Andrew Ippolito: There are three types of ice summers and do you have to learn these This is something this is a good summary slide to study for your tester your quizzes Okay, well, we just went through is called a structural I summer.
+42:09
+Andrew Ippolito: Where you defer the arrangement of the carbons themselves.
+42:14
+Okay.
+42:20
+Andrew Ippolito: The next one is called a SIS trans is summer, and these are sets of eyes summer so there's pairs.
+42:28
+Andrew Ippolito: And in order to understand these cysts trans ice summers, we have to look at carbons ability to form double bonds here so that's why I have these orbitals on the left.
+42:40
+Andrew Ippolito: Okay, so the SP to orbitals. Andrew Ippolito: Right, so that this is taking carbon and forming a double bond with itself.
+42:50
+Andrew Ippolito: And, as a result, this removes the tetrahedron we're not talking about that triangle shape anymore we're now in a plane.
+42:59
+Carbon forms this plane. Andrew Ippolito: and
+43:05
+Andrew Ippolito: I just realized, I could draw this and windows windows has a 3D paint program I just use the other day to build something for Microbiology I can probably make a 3D.
+43:16
+Andrew Ippolito: version of this and then just open up that program and move it around and show you i'll do that some other time, in the meantime understand that.
+43:24
+I want you to see this shape here in 3D. Andrew Ippolito: Okay, literally just like take imagine taking a.
+43:33
+Andrew Ippolito: Oh man some paper clips and just making a structure that looks like this that's flat that's totally flat.
+43:41
+Andrew Ippolito: Okay, this is the double bond carbon that's what it does, it forms this flat.
+43:47
+structure. Andrew Ippolito: Okay, and actually let me get let me get my toys, I have car.
+43:56
+Andrew Ippolito: Models here, let me find it.
+44:27
+box.
+44:50
+It is important to understand everyone's looking at me now.
+45:04
+that's even more. Andrew Ippolito: yeah This is why I got my Green screen, I can actually show so okay so.
+45:11
+let's think of a very simple. Your three carbons.
+45:18
+single bond, and the idea is this, this is real, this is what happens at the atomic level.
+45:25
+Carbon can swivel around these bonds fully in 3D Okay, we would call these degrees of freedom, remember, we we introduced that idea of degrees of freedom.
+45:34
+Last week, like entropy and all that so so carbon has the ability to rotate freely around these bonds Okay, so if I put a chain of these together.
+45:52
+So this is a methane, I think. This is.
+46:00
+You can now see why we draw.
+46:05
+A single car. One car.
+46:11
+When you. Andrew Ippolito: Just build a single carbon over here.
+46:18
+Andrew Ippolito: By the way, one thing you could do is go on Amazon and type molecular model and get a kid of organic chemistry later anyway now.
+46:31
+Andrew Ippolito: marley's from Brian feeling bugs, but if you want to get these I mean, even if you don't get this exact kid.
+46:43
+It comes with a whole bunch of little. Andrew Ippolito: colors are all standardized so black is usually carbon.
+46:52
+Andrew Ippolito: Hydrogen and see the size difference so it's kind of realistic semi realistic.
+46:58
+Read would be oxygen.
+47:04
+Nitrogen and you can see there's only three bonds here.
+47:10
+chlorine. sodium.
+47:15
+sulfur. Andrew Ippolito: So you get all that so anyway. here's here's carbon and it's SP three hybrid orbitals you can see that there's a tetrahedron.
+47:28
+So when you put them together that's why it says exact. Andrew Ippolito: Now what i've done here is i've ignored the CEO of ignore the hydrogen is completely I mean I could sit here and I could spend time putting hydrogen.
+47:42
+Andrew Ippolito: i'll do one carbon just so you can get an idea what it looks like.
+47:52
+So hydrogen that So you can see, you can still see the tetrahedron now right this central carbon right right here, you can see it's got four things attached to it and it still has that pyramid shape.
+48:04
+Okay, so when you when you draw thing simply. You ignore the hydrogens.
+48:10
+Andrew Ippolito: You assume they're there okay. Andrew Ippolito: Alright, so this thing here watch this I could I could do whatever I want with this.
+48:19
+Andrew Ippolito: That, and this was happening in solution, water, this is juggling and doing this okay it's going to tend to fall into its lowest energy configuration, which tends to be.
+48:29
+Andrew Ippolito: That shape why the electrons hate each other, so they push away from each other, as far as possible, and they preach this shape.
+48:37
+Now watch this here's a double bond carbon. Okay notice that this double bond and current can rotate freely around those double bonds their constraints they have lower degrees of freedom.
+48:50
+Okay, so watch this i'm going to take this. open it up.
+48:55
+And i'm going to put this double bonded carbon in the middle layer Andrew Ippolito: There see that So what does that do forms a kink in the chain I, so I can rotate around let's say this carbon I can rotate here right, but if I grab this carbon, all I can do is a wobble wobble.
+49:15
+Right I I can bend a little bit, but not much all right, but So you see how this is a plane now right that's a plane okay so here's where SIS trans comes in now.
+49:28
+Andrew Ippolito: let's start with just a double bonded carbon. Okay, do you see my options now I can form, I can put something up here or I could put something below it right, in other words drawn invisible plane that cuts this across like here.
+49:43
+Right and then add here. let's take here's a hydrogen the hydrogen here.
+49:51
+let's.
+50:00
+See I put them on the same side. You see that, so this hydrogen and this corner on the same side of this plane here let's do it this way, instead of think of it like this okay they're on this side.
+50:13
+Okay now contrast this to if I took this hydrogen here.
+50:20
+Okay, which was normally here now i'm going to put it on the other side underneath.
+50:26
+see that. You see how Now this is on opposite sides Okay, so this would be the Trans trans different opposite and.
+50:40
+This would be SIS same. Okay.
+50:46
+Andrew Ippolito: One way to remember it perhaps is in today's day and age we're talking a lot in society about system transgenderism.
+50:52
+Andrew Ippolito: Right what that means now is SIS gender means that your sex and gender are the same, so your sexes male in your gender is now transgender will be your sex is now and you're generous female.
+51:04
+Andrew Ippolito: system trans okay so both are the same or both their differences sister, both on the same side trans one or the others, on the other it now look at the PowerPoint you.
+51:15
+can see here we have this wrong. Right, so the left hand side.
+51:21
+Because they're on to draw a line like this they're on the same side so that's six draw that like this they're on opposite sides as.
+51:34
+Okay. This will lead us into understanding the difference between system trans fats later.
+51:41
+And my trans fats are bad for us. Okay nod your head if that made sense.
+51:50
+Take questions. All right, the last phrase here the last slide here.
+51:57
+Last summer type here is called an enhanced.
+52:02
+An anti murs are literal mirror images of each other. Okay, and so we have what are called El confirmations and T confirmations are all types and.
+52:15
+The only way, you can get these is, if you have a single carbon that is bound to four different things.
+52:30
+And attach it to four different.
+52:56
+here's a carbon.
+53:05
+Carbon that has four different things bound to right.
+53:12
+And if I took another car and I built exactly the same molecule but.
+53:21
+Okay, so here's the role you're learning this organic chemistry later take the lowest one the hydrogen most boring when I put that in the back.
+53:28
+see that in our range of them in order of importance and there's a pecking order you'll earn your organic class let's say this is more important, and this is second more important this is third more important, and so you arrange them in a clockwise configuration so like 123.
+53:46
+And so, if I spin it that way. That would be the left hand that one.
+53:51
+Okay, so watch this. This one off. And this one off and I rearranged.
+54:02
+I now go right. Andrew Ippolito: Okay there's nothing I can do to this molecule to make it look like the one I just have I can rotate this in 3D space anymore go ahead, everybody hold up your hands.
+54:17
+Okay hold on show me your hands everybody do this try to make one hand look like the other hand, can you do that.
+54:24
+How can you make both of your hands the same hand.
+54:30
+Good I see a page did it Okay, and maybe some other people didn't watch this.
+54:35
+right but are those really the same hand. No, because if you look in this plane here right your finger your knuckles are the wrong way there's nothing you can do to your hands to make them the same they're different, these are mirror images of each other right.
+54:51
+And so that's what an 18% is there's there's left hand the most molecules and it turns out most of biology is.
+55:03
+Andrew Ippolito: One of the. Most.
+55:19
+Most naturally occurring amino acids this carbon, yes, I was right yeah so um well occasionally find like in bacteria the.
+55:28
+The cell wall has an unusual configuration where they'll have a combination of Allah Andy which one makes it hard to eat, which is why they can survive our immune systems.
+55:39
+So that's an Anti or if you ever go to the store and you buy a supplement and you see l dash something that's why it's there.
+55:48
+Because the l forms tend to be the biologically active forums that tends to be.
+55:55
+Andrew Ippolito: Alright, so this slide just give you some examples of all these you can study these.
+56:03
+and notice there are named differently, this is why I you pack nomenclature exists apart, so that we can name these things differently depending on whether.
+56:16
+here's how we can. See, where it says one broken off to the one.
+56:22
+That tells us the position. April Neeld: question.
+56:29
+April Neeld: Is anybody else here like static from his end or is it just me. Taylor Campbell: yeah it's staticky and quiet.
+56:36
+Eric Mathew: Okay yeah I got really quiet. Andrew Ippolito: that's because my microphone fell off.
+56:43
+Andrew Ippolito: And it was laying off to the side and I. Taylor Campbell: lost my little funny thing. Andrew Ippolito: And I have no idea how any of that happen Oh, you know why, because when I got up oh How long have I been that terrible has it been like this for like.
+56:54
+10 minutes. Danuta Despagne: yeah it was just.
+56:59
+Andrew Ippolito: Okay, so I have two. Other.
+57:05
+i'm a little fuzzy. Andrew Ippolito: And thank you for telling me that yeah again when you guys meet here immediate difference, but something definitely let me know thanks April all right, you guys hear me now okay alright.
+57:23
+Andrew Ippolito: Okay alright so um. Andrew Ippolito: The reason why we have to pack nomenclature is so that we can name these things differently so, for example, when you see one probe and all the one tells us the position of where the functional group is, you can see.
+57:40
+Andrew Ippolito: So carbon carbon carbon we're going to put the hydroxyl group on the first carbon think well that's the last carbon.
+57:51
+Now it's the first. Andrew Ippolito: race 3D space So the important thing is, as the end so make sure you understand that, too, sometimes we're gonna you're sometimes you're going to see pictures of things where they're upside down or you know.
+58:04
+Andrew Ippolito: rotated you have to still be able to see that. Andrew Ippolito: Okay, to propanol we're not going to put the hydraulic group on a second carbon.
+58:13
+Andrew Ippolito: Right, so one looks kind of like a caterpillar one looks kind of like little battle tank.
+58:18
+Andrew Ippolito: form follows function. Okay.
+58:24
+Andrew Ippolito: that's that that this this I i've explained this to you several times now, this is just a slide on the date of coupon bond again you're not the know that.
+58:32
+Andrew Ippolito: You will impress your chemistry Professor by knowing this, though. Andrew Ippolito: Wait you learn that your biology class how's that even possible.
+58:46
+Okay.
+58:55
+Andrew Ippolito: So now, so this is that's why I called that lecture for a we're gonna start for being now, which is really I parse that out only because your book does.
+59:04
+Andrew Ippolito: Most biology textbooks will have that what we just covered as like it was Chapter four before point one and now we're in 4.2 but instead your book decides to split it out a little bit more.
+59:18
+Which is fine. it's all fine.
+59:25
+Here we go. Andrew Ippolito: So now we're going to dig into the actual families that we're going to spend the rest of the Semester with.
+59:35
+Andrew Ippolito: we're going to start building macro molecules so here's the concept we're gonna take some modern Omer and we're going to build it into chains of polymers Okay, so this is generic.
+59:45
+Andrew Ippolito: we're going to see particularly there's three families of things where we're going to learn three different kinds of monomers and three different kinds of polymers okay we're going to learn limits which are set unto themselves.
+59:59
+Andrew Ippolito: The idea here is, we got to build and break these right. Andrew Ippolito: Go back to the idea of metabolism and nationalism and building them breaking things in our metabolism.
+1:00:10
+Andrew Ippolito: And so we're going to see we're going to put these monomers together to form them, you could say, you could say mom or you could say dimer let's learn these words now timer.
+1:00:21
+You can see touch from her. Andrew Ippolito: You can say a latecomer which means up to about 12 things and then polymer.
+1:00:33
+Okay. Andrew Ippolito: Well, refer to some things occasionally as diametric.
+1:00:40
+or try merrick. Andrew Ippolito: Okay understand what that means they just means there's two or three of these things Tetra merrick.
+1:00:49
+Andrew Ippolito: And then, sometimes we'll see the word homo or header row in front of it. Andrew Ippolito: So a hormone dimer.
+1:00:57
+would be. Andrew Ippolito: Two things that are exactly the same.
+1:01:03
+Andrew Ippolito: Okay hetero dimer two things that are different.
+1:01:10
+Andrew Ippolito: This would be a header old timer three things.
+1:01:17
+This would be. Andrew Ippolito: A homework. Andrew Ippolito: Okay, so humble and hetero diametric chimeric polymer.
+1:01:30
+Andrew Ippolito: And so we can put these into four major classes. Andrew Ippolito: We build proteins from amino acids, we build nucleic acids from nucleotides and we build limits from various building blocks that don't really fit into this molecule paradigm, and then carbohydrates, are formed from model, saturates.
+1:01:51
+Andrew Ippolito: Okay, so this would be the polymer this would be the monitor.
+1:01:56
+Andrew Ippolito: And, really, what I want to do here is, I want to clarify this would be a poly peptide.
+1:02:03
+Andrew Ippolito: we're going to see later that the word protein signifies a function. Andrew Ippolito: Of a folded up poly peptide and really have one or more of them so for now just understand that amino acids form poly peptides.
+1:02:18
+Andrew Ippolito: And then we'll go off and do some more stuff there okay also take note that a nucleic acid is not like hydrochloric acid, I want you, in your head right now so English counts against us sometimes.
+1:02:30
+Andrew Ippolito: Right, when I say hydrochloric acid you're thinking of liquid that's very dangerous and acidic a nucleic acid is a bio polymer it's a polymer okay it's a big long it like this is a nucleic acid.
+1:02:44
+As well see. Okay. Andrew Ippolito: And so what we're going to do now is we're going to spend some time with each of these individually and dig into the weeds, so to speak.
+1:02:55
+Andrew Ippolito: But before we do that we're going to learn, these two reactions and there's two reactions of building in the breaking reactions, and these are going to be universal to all of the building and breaking.
+1:03:09
+Andrew Ippolito: So the first reaction is the building reaction we're going to take two things that are separate and we're going to build a bond between the Michael Vaillant bond.
+1:03:21
+Andrew Ippolito: And to do this, one molecule has to have a free and available hydroxyl functional group and the other just has to have a hydrogen somewhere.
+1:03:33
+Andrew Ippolito: And what we're gonna do is we're gonna rip we're going to break this bond we're going to break this bond we're going to take this out and make water.
+1:03:44
+Andrew Ippolito: In other words, we're going to take this whole system, remember, we learned about systems earlier we're going to take that system and dehydrated we're going to remove a watermark it from the system.
+1:03:53
+Andrew Ippolito: So we're going to call out a dehydration reaction and because we're building something we're going to call that a synthesis reaction and so that's why it's called dehydration synthesis.
+1:04:04
+alright. Andrew Ippolito: So this creates bonds between two molecules to monomers.
+1:04:13
+Andrew Ippolito: And we're going to call these kinds of reactions anabolic reactions remember anabolic reactions are the ones that build things they require energy.
+1:04:23
+Andrew Ippolito: And so we call them mentor Conakry actions start tying these words together into groups they're all they're all related anabolic reactions are undergone reactions and their dehydration synthesis reactions.
+1:04:40
+Okay. Andrew Ippolito: So you can think here are sub one so that are it could be another polymer it doesn't matter but there's a free hydrogen at the end of it, and the other has this free hydroxyl group.
+1:04:55
+Andrew Ippolito: And what we're gonna do is we're going to make a water molecule and we're going to connect it to.
+1:05:01
+Okay. Andrew Ippolito: So we're going to see we're going to take your glucose we're going to take two sugars and put them together we're going to take two amino acids and put them together we're going to take two.
+1:05:12
+Andrew Ippolito: nucleotides and put them together in the same exact reaction there's an O each on one side and an H, on the other.
+1:05:20
+Andrew Ippolito: Okay, so here's an example of making the dye saccharine mall toes which consists of two individual glucose monomers one of the glucose is has a hydroxyl i'm sorry hydrogen.
+1:05:34
+Andrew Ippolito: And the other one so we're going to consider one of the hydrogens Yes, this is eyedrops.
+1:05:39
+Andrew Ippolito: we're going to just look at this hydrogen there and we're going to take this whole hydroxyl Group, on the other one we're going to take these out and make water and in the process where the.
+1:05:51
+Andrew Ippolito: The free electrons that are there is we're going to forge a bond between that carbon and that oxygen this oxygen and this carbon and you can see that, right here, and so this now becomes a dissect right.
+1:06:05
+Andrew Ippolito: Alright, so dehydration synthesis and a bollock you need energy to do this it's put energy into the system.
+1:06:13
+Andrew Ippolito: it's important to understand that this isn't just something that happens between two monomers that you can take an existing polymer and continue adding things to it right.
+1:06:26
+Andrew Ippolito: The opposite is called hydrolysis hydrolysis the root of this water and break Okay, the Greek word for break is lice, this is an important word, you should write this down l y se.
+1:06:44
+Andrew Ippolito: various versions of this, you might see logic.
+1:06:50
+Andrew Ippolito: You might see like ISIS might see lies Okay, and so in this case we have hydrolysis break with water.
+1:07:00
+Andrew Ippolito: Basically it's the reverse of the dehydration reaction just add water we're going to take a water molecule we're gonna mix it with this dimer and we're going to break this bond right here so basically water is going to attack that bump.
+1:07:15
+Andrew Ippolito: that's going to dive into it and break it in half of the water is going to go one way and half the water is going to go the other way.
+1:07:23
+Andrew Ippolito: And I want you to stop at this moment and consider pH again, you can start to understand how how the pH environment of the surrounding area will influence these kinds of reactions right.
+1:07:39
+Andrew Ippolito: Okay, so that's it Those are the two reactions, so this reaction that breaks the bonds between molecules will call these catabolic reactions.
+1:07:50
+Andrew Ippolito: So the hydraulic reaction is a catabolic reaction and these reactions.
+1:07:56
+Andrew Ippolito: Give off more energy than they take in and so they're called extra ganache reactions.
+1:08:02
+Andrew Ippolito: And these are the reactions that will drive the anabolic ones.
+1:08:08
+Okay. Andrew Ippolito: So an example would be let's take the die saccharine lactose now.
+1:08:16
+Victoria Bloemker: You go back just really quick sure.
+1:08:22
+sure. Andrew Ippolito: So let's take lactose, which is a di saccharine between the two mono saccharine glucose and galactose and we're going to take that same bond we made in the last slide we're going to break it with water and so we're just going backwards okay so hydrolysis.
+1:08:44
+Andrew Ippolito: And again, just like the condensate dehydration reaction we can break this in a serious, you can basically picture somebody plucking pedals off a flower, you know she loves me she loves me he loves me she loves me not you're plucking out of your plucking off the individual monomers.
+1:09:01
+Andrew Ippolito: Okay, each one of those being a hydro allergic reaction. Andrew Ippolito: And so you can also get this in your head now there are things, called hydro ludeke enzymes and these are the enzymes, we used to break our food down to eat.
+1:09:16
+Andrew Ippolito: Right, these are the things that this is what's happening in our stomach when we eat food, we want to bring her food down right, you need hydro let against on for that.
+1:09:27
+Andrew Ippolito: Alright, this you can run you probably have to. Andrew Ippolito: run the PowerPoint differently than I have it now, but this is just something you can run on your own It just shows you the same basic concepts and that's it so now we're going to actually build some stuff.
+1:09:41
+Andrew Ippolito: Okay, and so this first family we're going to go through are the sugars The carbohydrates.
+1:09:48
+Andrew Ippolito: The next one, and so this is just a laundry list summary you don't have to write this down yet we're going to dig into the weeds here but i'm just going to give you the overview so we're going to go through the sugars.
+1:09:59
+Andrew Ippolito: are going to go through the lipids next and that's where we're going to stop today, and then on Wednesday we're going to do the proteins and the nucleic acid.
+1:10:11
+Andrew Ippolito: So, starting with the sugars carbohydrates, just think of the word for a second it's kind of clever carbo hydrate.
+1:10:20
+Andrew Ippolito: Right take water and make it organic haha there we go.
+1:10:25
+Andrew Ippolito: Right so just take water h2o and then put a carbon on it, and now you can understand that a carbohydrate is any class it's a class of molecule in which the ratio of carbon hydrogen to oxygen is 122211 to one that's what makes things a carb so it's kind of a operational definition.
+1:10:50
+Andrew Ippolito: And there are simple carbohydrates and complex carbohydrates, and yes, this is all nutrition stuff we're not going to go into the nutrition side of things now we're learning the chemistry of it or that really the the general stuff.
+1:11:07
+Andrew Ippolito: So when we say simple carbohydrate. Andrew Ippolito: we're talking about Mano so the monitor here is a mono saccharine sack right how's it to season, it has a cch SEC chloride ar saccharine.
+1:11:25
+Andrew Ippolito: OK, so the mono saccharine. Andrew Ippolito: And then we can take two of those and make a di saccharine.
+1:11:34
+Andrew Ippolito: Okay, not technically right di sacra is not a monitor, but we still consider this a simple carbohydrate why because this concept here is a functional concept simple carbs have a job to do.
+1:11:48
+Andrew Ippolito: And we'll learn about that in the next slide. Andrew Ippolito: All right, then, when we make palmer's of these.
+1:11:55
+Andrew Ippolito: And really for our purposes it's always going to be glucose polymers of glucose will see that we arrange into what I call the poly sacraments.
+1:12:05
+Andrew Ippolito: Okay, and so, when we when we name a sugar it ends and osb.
+1:12:12
+that's how you know it's a sugar cellulose glucose galactose.
+1:12:18
+Andrew Ippolito: All right, and so one thing that you can see right here is remember ketones if we have a ketone.
+1:12:26
+Andrew Ippolito: And we have a sugar, so, in other words, we have a sugar that as a ketone example fructose turns out to be that will call those ketosis sugars right as opposed to our dose sugars so we'll see combinations of these words right so glucose is an l dose of sugar.
+1:12:49
+Andrew Ippolito: fructose is a keto stripper you'll see all this alright, so the various mono saccharine ads there's there's they're.
+1:12:59
+Andrew Ippolito: defined by the number of carbons that they composed of so there's the trio's sugars that have three Trios there's the pintos sugar.
+1:13:09
+Andrew Ippolito: The five carbon sugars and the Texas sugars, the six carbon ones we're going to spend most of the time here, but I want to just give a little bit of the trial sugars and the Pinto sugars.
+1:13:21
+Andrew Ippolito: Alright, so that there's less around to hide, which is. Andrew Ippolito: An hour to hide right it's got the car bottom group at the end there.
+1:13:31
+Andrew Ippolito: And then notice the other carbons have hydroxyl groups on them. Andrew Ippolito: Okay, and the ratio the carbon and hydrogen oxygen all this is the one to two to one, which is why it's a sugar.
+1:13:45
+Andrew Ippolito: Whereas I suppose, if I remove this hydrogen hydroxyl group and I just made this hydrogen that might be an alcohol.
+1:13:52
+Andrew Ippolito: Okay, so glycerol the hide and then, if we if we take this car bond on group and we just move it here, instead, so that it's in the middle instead that's di hydrox the acetone.
+1:14:06
+Andrew Ippolito: And the reason why these are important for us as we're going to see these are metabolic intermediates.
+1:14:15
+which will learn later than this semester.
+1:14:20
+Andrew Ippolito: The Pinto sugars there's two that are important for us ribosome, which is the RNA RNA and rob you Los okay so notice that ribosome is an alpha hide and rob yellows is a key.
+1:14:36
+Andrew Ippolito: So you got your ketones sugar in your elder elder sugar.
+1:14:41
+Andrew Ippolito: Right below so we're going to see in photosynthesis.
+1:14:46
+Andrew Ippolito: When really we're going to see right below some bisphosphonate we're going to see.
+1:14:53
+Andrew Ippolito: This in the dark reactions or the light independent reactions.
+1:14:59
+Andrew Ippolito: Right most we're going to see when we do with DNA and RNA. Andrew Ippolito: And that's it that's all you can kind of draw on there so we're gonna talk about any of this again today.
+1:15:09
+Andrew Ippolito: we're going to spend the rest of the time here on the heck social workers and so these three sugars here, these are your three summers of X.
+1:15:18
+Andrew Ippolito: So hex os itself does not exist. Andrew Ippolito: Just like carbon doesn't exist, the isotope carbon 14 exists right which carbon is it just like right when I say hey here's a carbon atom.
+1:15:34
+Andrew Ippolito: right here, your question is. Andrew Ippolito: Which isotopes of carbon which isotope and i'd say carbon 12 or carbon 14 right likewise if I say hey look here's the heck Sosa sugar you'll say which I summer is it oh that's glucose.
+1:15:53
+Andrew Ippolito: fructose and galactose and so there's three that you have to know glucose galactose and fruit you don't have to know that fructose down here is a ketones.
+1:16:04
+Andrew Ippolito: And glucose is and how those you're not didn't know that level just know the names glucose galactose fruit does and they all have three letter abbreviations to there's glue Gao and fruit.
+1:16:17
+Okay. Andrew Ippolito: And you can see, if you look at glucose and galactose The only difference between them is.
+1:16:25
+Andrew Ippolito: The position of that one hydroxyl group swiveled around that third quarter fourth quarter.
+1:16:32
+Andrew Ippolito: Okay, so they're kind of the same molecule you'll also notice that the way these are drawn here they're in a chain.
+1:16:40
+Andrew Ippolito: right there there, we will call this they're open configuration, they also close up and form rings, which is how we're going to see them most of the time actually but understand that sugars do that so.
+1:16:52
+Andrew Ippolito: The one structure that you're going to get used to looking at here 123456 this idea of carbon so here's here's just a big launch in a carbon we.
+1:17:02
+Andrew Ippolito: learned about earlier right, you know zigzag it here right, so this would be the chain form the open forum and then the close form would be if I just take the last two and I linked them together now and I get this very elegant hexagonal ring of carbon, this is a very important sheep.
+1:17:20
+Andrew Ippolito: And you can see here that have forums this Chair.
+1:17:26
+Andrew Ippolito: There you go in 3D space of forms that chair that's it stable form. Right, sometimes it does this, and forms a boat.
+1:17:36
+This is unstable why because things attached to your don't like each other they'll push away from each other so we're going to move this guy down over here.
+1:17:43
+Andrew Ippolito: All right, so this, so this is why, when you see the the pictures in the book or whatever, this is what they're going for.
+1:17:49
+Andrew Ippolito: they're going for a sheet that looks like this in 2d if you were to draw like this that's why there's a little ankles but understand that 3D space is because.
+1:17:58
+Andrew Ippolito: Of this confirmation, this is the most stable way to play with this toy right if you, if I gave this to you and held it, you would you would kind of bend it around and stuff and that would naturally be.
+1:18:10
+Andrew Ippolito: The best way to arrange this the feel that it's it's the most stable way of pushing all this together, whereas if I forced it to be.
+1:18:21
+Andrew Ippolito: flat. Andrew Ippolito: This is a very this is unstable right, if I remember everything's always juggling right So if I was to just mush this together to make it stable it always falls into that that chair and that's why we draw it that way.
+1:18:37
+Andrew Ippolito: Or we break it. Andrew Ippolito: that's important there's a there's always going to be an oxygen in there.
+1:18:47
+Andrew Ippolito: When we do sugars so really. Andrew Ippolito: The actual ring looks like this we're gonna make the oxygen part of that six Member ring, and I just lost the carbon.
+1:19:04
+Andrew Ippolito: So, in reality. Andrew Ippolito: The six Member rings.
+1:19:14
+Andrew Ippolito: have an oxygen in there, see that. Andrew Ippolito: And so where's the other carbon it's sticking up see that.
+1:19:22
+It looks like a duck now. Andrew Ippolito: So he's going crazy okay or it's upside down.
+1:19:30
+Andrew Ippolito: Right, so that this right here is the carbon USA, this is the carbon backbone of exodus.
+1:19:40
+Andrew Ippolito: or really of glucose and galactose you'll see here fructose has a five carbon ring.
+1:19:48
+For some reason, this is telling me to close PowerPoint i'm going to have to re share my screen, my apologies.
+1:19:54
+I hit the wrong button. Andrew Ippolito: Wait can you still see it.
+1:19:59
+Eric Mathew: No, no okay. Eric Mathew: yeah that's what I figure what happened there we go.
+1:20:08
+Andrew Ippolito: Now you can see right. Eric Mathew: yeah yeah okay.
+1:20:14
+Andrew Ippolito: So these mono saccharine have two functions. Andrew Ippolito: The first function is they serve as an immediate storage of energy for cells cells bring this in and break it down and generate ATP from it.
+1:20:30
+Andrew Ippolito: Okay, when you were a kid or when you were in high school, you probably burn this into your head see six 812 oh six one of your first you know micah forms yeah bring anybody have a burden to your head from school yeah that's not glucose.
+1:20:45
+Andrew Ippolito: that's Texas, because that could depending on how we put the legos together we can build galactose or glucose or fruit Okay, so the best we can say to this.
+1:20:58
+Andrew Ippolito: Is, we can see that Texas right there's nothing in the molecular formula tells you how the atoms are a ring that's why we have structural formulas.
+1:21:08
+Andrew Ippolito: right if I gave you this now, you can say oh that's glucose now, by the way, I will never give you a question on the tests which one of these is glucose.
+1:21:16
+Andrew Ippolito: Okay, the level of detail, I want you at is for you to be able to look at that and say that's that's a sugar.
+1:21:23
+Andrew Ippolito: As opposed to a lip it or an amino acid, like all the stuff we learn, and this series of lectures, you can imagine, on the test will be you know, a picture of 17 different shapes and then it'll be like which One of those is the whatever Okay, so they won't be specific to this level of depth.
+1:21:44
+Andrew Ippolito: Okay, so function one and you need energy storage function to it's a building block for even more complicated things and poly sacraments and the dissect grows.
+1:21:55
+Andrew Ippolito: Right, so there, they are there are the carbon backbones of the three major Texas I summers you can see fruit toast is fundamentally different right, you can see it's got a pantanal ring.
+1:22:08
+Andrew Ippolito: As opposed to a hex I can all right. Andrew Ippolito: All right, this is metabolized fundamentally different when you eat glucose.
+1:22:19
+Andrew Ippolito: Whatever your body doesn't need actually just gets paid out. Andrew Ippolito: When you eat fruit toasts, it has to pass into your liver first and get turned into a fatty acid chain which can then be used a storage.
+1:22:33
+Andrew Ippolito: it's one o'clock oh it's already one o'clock it's one o'clock alright, so let me wrap this up.
+1:22:41
+Andrew Ippolito: Let me just wrap up this last slide here.
+1:22:47
+Andrew Ippolito: XO sugars yeah Okay, there was there I bows sugars, you know we already talked about those Okay, I wanted to get to dissect grace so.
+1:22:57
+Andrew Ippolito: Each one of the four families of molecules we're going to learn is forming a bond and there's four specially named bonds that you have to know.
+1:23:06
+Andrew Ippolito: The first one, and one on one will cover today here is called the like a cynic linkage, or like like a cynic bond i'd like acidic bond is the result of a dehydration reaction between to mono saccharine so this right here is like like acidic link, you can do to it like this.
+1:23:27
+Andrew Ippolito: it's got just a picture oxygen hanging in between two carbons holding on to each one.
+1:23:32
+Okay. Andrew Ippolito: And so that dissect writes this thing here that dissect rides like the mono saccharine their job is to also serve as an energy storage and the short term, and this is how plants store and transport their sugar so like tree SAP maple syrup, this is it.
+1:23:55
+Andrew Ippolito: Okay they're also serve as metabolic intermediates will see them as things get broken down.
+1:24:00
+Andrew Ippolito: And so here are their names, and this is where we're going to end today there's multiple.
+1:24:07
+Andrew Ippolito: sucrose and lactose Okay, and the way to remember this is there's glucose with something they'll have glucose so you can your brain can not have to memorize this side of it's always glucose alright so think of altos as just another glucose.
+1:24:22
+Andrew Ippolito: sucrose which is table sugar has fructose in there.
+1:24:28
+Andrew Ippolito: And then lactose mother's milk has galactose. Andrew Ippolito: Okay, and so people who are lactose intolerant lack the enzyme.
+1:24:38
+Andrew Ippolito: lactase so there's three enzymes you just put an ASC at the end of the word, and you get an enzyme.
+1:24:45
+Andrew Ippolito: So lactose is idolized by lactase.
+1:24:50
+sucrose marty's right. Andrew Ippolito: So one thing you can do one little fun thing you could do if you're going to eat lunch now if you have any bread.
+1:24:59
+Andrew Ippolito: I mean white bread or wheat bread whatever take a little ball, the bread put in your mouth chew on it don't swallow it, but your saliva attack it a bit.
+1:25:08
+Andrew Ippolito: And if you let let it last long enough, it will start to tease a little sweet, and the reason for that is we'll see you next time cellulose is this polymer i'm sorry i'm sorry starch, which is what Brett has in it is a polymer of glucose and you have an enzyme called salivary amylase.
+1:25:28
+Andrew Ippolito: That will break that bond and the byproduct of that is monitors which tastes sweet.
+1:25:36
+Andrew Ippolito: So you start digesting. Andrew Ippolito: starches in your mouth before you even get to your stomach.
+1:25:43
+Andrew Ippolito: Okay, and so that's what will end today I will stop the recording.
+1:25:50
+Stop recording.

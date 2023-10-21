@@ -1,0 +1,892 @@
+0:00
+Andrew Ippolito: Alright, this is lecture whatever three we're doing chemistry today and nobody's ever seen this joke before once I told the chemistry joke, there was no reaction.
+0:11
+Andrew Ippolito: You just said, oh I forgot to record Okay, whatever anyway.
+0:16
+Andrew Ippolito: What is chemistry, is it what is this chemistry stuff.
+0:21
+Andrew Ippolito: you're like well, we already we already took a class in so we already kind of know it. Andrew Ippolito: it's the study of matter in the forces that impact and we talked about force a little bit last time, the idea that for supplies acceleration makes it to work right energies, the capacity to do work and all that stuff.
+0:40
+Andrew Ippolito: But now you're really in order to understand chemistry, you have to mention like fundamentally what's matter.
+0:46
+Andrew Ippolito: Only can say about matter so listen, this is actually something that I learned much later life i'm going to give you now that I really wish I had as a budding scientific student ready there's two kinds of definitions to things okay like definitions themselves.
+1:02
+Andrew Ippolito: They are are what we call. Andrew Ippolito: operational definition, which is what that definition of matter is notice that it doesn't tell you what it's made out of.
+1:13
+Andrew Ippolito: Okay, so we would say that the the definitions of matter, the definition of time, these are these things have operational definitions.
+1:24
+Andrew Ippolito: Because here's what you have to be able to do as a person studying this kind of stuff you have to be able to say, nobody understands it and that's okay.
+1:34
+Andrew Ippolito: So, given our lack of understanding of the fundamental nature of things, what can we do with what we have that's that's where we are right, where are with you have to meet the work where we're at.
+1:48
+Andrew Ippolito: Okay don't stress yourself over Oh, what is it like I don't know my first day of physics class.
+1:55
+Andrew Ippolito: was a nightmare, because I asked my instructor what's the definite can before we move on, can you just give me a simple definition of matter and time.
+2:06
+Andrew Ippolito: And he just started laughing at me. Andrew Ippolito: He knows what those things are.
+2:14
+Andrew Ippolito: And I was like well, that was the end of my physics career. Andrew Ippolito: Right it's just I need to as a reductionist which apparently I am I have to be able to understand, like the little like the depth deep part and then I come up from there.
+2:28
+Andrew Ippolito: Right, so I keep asking the questions and I go into the rabbit hole and I don't ever get out and it's frustrating.
+2:35
+Andrew Ippolito: And if you're like that to here's so here's my advice for those of you who do that you have to be able to live in ambiguity, you have to be able to live.
+2:44
+Andrew Ippolito: without knowing everything and and with the knowledge that you're never going to know everything and so all you can do is work with what you got okay So there you go.
+2:55
+Andrew Ippolito: Right so energy capacity to do work, but what is it exactly it's just an operational definition right energy is the capacity to work.
+3:05
+Andrew Ippolito: Okay, so we're going to learn all about energy and it's transformations which.
+3:12
+Andrew Ippolito: is involved within the study of thermodynamics we'll do that later.
+3:18
+Andrew Ippolito: Just way later Chapter eight through 10. Andrew Ippolito: Okay, and.
+3:25
+Andrew Ippolito: Last semester, let me. Andrew Ippolito: Let me delete all that sorry.
+3:30
+Andrew Ippolito: i'm channeling a little bit too much of rick right now I feel like come on morty.
+3:35
+Andrew Ippolito: Duffy. Andrew Ippolito: message messing with my style. Video panelists share the screen you share.
+3:46
+Andrew Ippolito: My other monitor one off that's really weird.
+3:54
+Here we go. Andrew Ippolito: My second monitor. Andrew Ippolito: Maybe I had to reboot my computer.
+4:02
+let's all do. Andrew Ippolito: At some point, there we go it's back you're back we're all back all right here we go so back to the regular scheduled chemistry lecture.
+4:12
+Andrew Ippolito: Make sure I can do it here we go states of matter all right so. Andrew Ippolito: here's how I want you to see this that you've seen this your whole life, you know what solids liquids and gases are that's not what we're doing here we're not learning about that.
+4:23
+Andrew Ippolito: But I want you to do is take what you know, and now I want you to apply this concept to it as we go this way I want you to see that as increasing energy.
+4:35
+Andrew Ippolito: Okay, and i'm going to now teach you something that we're going to talk about for the rest of the Semester i'm going to invoke this concept constantly everything is always moving.
+4:46
+Andrew Ippolito: everything's always juggling. Andrew Ippolito: Everything Okay, a single atom has its own what you would call.
+4:55
+Andrew Ippolito: intrinsic energy. Andrew Ippolito: Okay, sometimes we refer to this intrinsic energy as its heat.
+5:04
+Okay. Andrew Ippolito: that's a problem because usually the working definition of heat is the transfer of energy from one system to another.
+5:13
+Andrew Ippolito: Right warming something up like right now, your butts warming up your seat so there's heat there that's transferring Okay, but you have to keep this in mind, if this is a single atom it's always moving a little bit a never stop that's just a.
+5:31
+Andrew Ippolito: fundamental concept of it all right so there's a little bit of energy and everything always.
+5:38
+Okay. Andrew Ippolito: Now, when you consider matter when you consider. Andrew Ippolito: any system of atoms.
+5:49
+Andrew Ippolito: like this triangle, it was like a bunch of pool balls right, and you can imagine, like they're stuck together, you know they're all each one of these has you know bond they're all stuck together somehow or another.
+6:01
+Andrew Ippolito: Okay, the other concept here is that there are always multiple.
+6:07
+forces. Andrew Ippolito: at work on any system.
+6:17
+might just miss. system on any system.
+6:22
+Andrew Ippolito: Okay, so the ideas you know there's there's different forces, some of them are positive, some of them are negative but everything's got all these things happening and what we see in the outside world, are our perception of it.
+6:38
+Andrew Ippolito: is due to the summation of all those forces you add it all together and what he.
+6:44
+Andrew Ippolito: Okay, and that's and that's reality right our reality is the sum total of all these different fields of different subatomic.
+6:52
+Andrew Ippolito: particles interacting with each other Okay, and so a solid is a solid, because the forces that hold together those atoms is stronger than those atoms intrinsic energy that wants to fly apart okay so maybe they're cold right so when we talk about temperature now.
+7:13
+Andrew Ippolito: Think about temperature. Andrew Ippolito: The temperature of a system is the average velocity of its molecules right because everything's always moving and so within a solid the temperature is going to be low enough.
+7:27
+Andrew Ippolito: Such that the intrinsic energy isn't strong enough to push them apart, but they're all going to just kind of sit there like this.
+7:35
+Andrew Ippolito: Right so like your desk right now, your pen right now, your glasses, the solids doing well they're not moving if we zoomed all the way in at the atomic level, yes, they would be they'd be doing this.
+7:47
+Andrew Ippolito: But they'd be juggling and and also stuck together okay so let's eat it up let's start heating it up a liquid is when you get to a point where this where the individual atoms or molecules are able to roll around each other okay there's a little bit more freedom there.
+8:07
+Andrew Ippolito: Okay, so here's another concept of an introduced now, and this idea is called.
+8:16
+degrees of freedom. Andrew Ippolito: Okay, all systems have.
+8:23
+Andrew Ippolito: A degree of freedom or some degrees of freedom it's a number okay. Andrew Ippolito: And what that just represents is how many different states that the system can be in and still be the system right so let's take these little pool balls here.
+8:35
+Andrew Ippolito: let's see this is A and B just put am being different places right pick up a swap it would be or pick up and swap it over there with another one, as long as they're on that triangle shape it's the same system right.
+8:47
+Andrew Ippolito: And so, if we counted up the number of different combinations of ways, you can mix all that, together, that would be called that systems number of degrees of freedom.
+8:55
+Andrew Ippolito: Okay, so a solid is constrained. Andrew Ippolito: You could say it like this, therefore solids have.
+9:04
+Andrew Ippolito: Fewer degrees of freedoms and liquids right, because now now let's make it a liquid less heated up with let's let's let those balls move all over the place, little Adams bop around they're still touching each other.
+9:14
+Andrew Ippolito: Right so think of your glass of water right the watermark because we're all sticking together a little bit. Andrew Ippolito: Okay there's more degrees of freedom now, though right.
+9:23
+Andrew Ippolito: So degrees of freedom are going up this way. Andrew Ippolito: Do you also see how the system is more chaotic.
+9:33
+Right. Andrew Ippolito: Do you also see that this would be the natural tendency of any system over time.
+9:40
+Andrew Ippolito: It would just tend to become more and more chaotic that measure is called entropy.
+9:46
+Andrew Ippolito: which will learn about when we do thermodynamics in Chapter 689 10, but I want to introduce these concepts to you now because remember, I told you, you gotta chew on things for a while before they start to make a lot of sense okay so entropy.
+10:00
+Is. Andrew Ippolito: A measure of how far along a system is before it reaches its equilibrium point before it just stops doing.
+10:12
+Andrew Ippolito: And it just stays there so where such that all the items are still doing this they're all jiggling around but there, but the system doesn't change over time at that point that's when we say we reached a state of equilibrium okay.
+10:25
+Andrew Ippolito: Alright, so let's add some more energy let's take that liquid and keep adding energy and what happens.
+10:30
+Andrew Ippolito: Now those atoms. Andrew Ippolito: have so much energy and then they can break apart from each other, and they can be in this space around them, such that they will fill up the volume of space they're in they will take up the entire bottom of the container they're in.
+10:47
+Andrew Ippolito: Right Okay, so this let's hear solids are these organized they have stable bonds, they have a defined shape.
+10:58
+Andrew Ippolito: Whereas a liquid, we would describe is amorphous meaning it doesn't have a defined shape instead you would say that a liquid.
+11:07
+Andrew Ippolito: takes. Andrew Ippolito: The shape.
+11:14
+Andrew Ippolito: Of its container. Andrew Ippolito: Okay, and, of course, like the way my brain would work you're like well what if it's What if there isn't a container.
+11:23
+Andrew Ippolito: Well it's not going to have a shape. Andrew Ippolito: is going to lose all over the place right and start spilling and moving until it does have a container.
+11:35
+Andrew Ippolito: Okay gases are the same, you would say both of these are the same, the difference is the gas will continue to expand until it occupies the entire Chamber.
+11:48
+Andrew Ippolito: Think of a balloon. Andrew Ippolito: Right imagine taking a water balloon imagine taking a balloon and blowing it up.
+11:55
+Andrew Ippolito: So that it's like this. Andrew Ippolito: Okay now imagine you have the ability to put some water in there.
+12:01
+Okay. Andrew Ippolito: So it's filled with two things right, so when we say if I showed you, you know the old adage is the class here's a glass.
+12:11
+Andrew Ippolito: You guys are gonna like this because it's gonna this is going to change a little bit of your perspective on life, maybe here's a glass of water is the glass of water half full or half empty, you know the pessimists would say it's half empty, and the optimist would say it's helpful.
+12:26
+Andrew Ippolito: But the scientists would see it's full. Andrew Ippolito: Half with water were there.
+12:33
+Andrew Ippolito: huh. Andrew Ippolito: yeah I like that, when I first left forgot how I learned I didn't obviously make that out myself somebody else told it to me and i'm telling you, but once they said that i'm like okay like everything's everything's fine.
+12:48
+Andrew Ippolito: OK, so the difference here now is this water will take the shape of the balloon right it's got this hemispherical sheet, but the bottom here was not going to fill up the entire.
+12:57
+Andrew Ippolito: Space the gas, on the other hand, is going to occupy the whole space that's the difference being the liquid and the gas.
+13:04
+Okay. Andrew Ippolito: So in gas the atoms are not bound to each other, they collide like pool balls on a table, but in 3D okay everybody's bopping around so you would say their intrinsic energy is pretty high right.
+13:22
+Andrew Ippolito: If you think about just take water you just just friendly water to all these right solid water is ice is cold add some heat to that now becomes a liquid yeah it's a more heat to that becomes a vapor.
+13:33
+Andrew Ippolito: What happens if you keep going. Andrew Ippolito: what's this stuff Okay, this is stuff you generally don't learn about when you're when you're a kid.
+13:41
+Andrew Ippolito: And you're in elementary school, but if you are a kid and listening in right now here's a secret to the universe, that your friends might not know, and that is when Adams get hot enough they end up falling apart, a little bit.
+13:55
+Andrew Ippolito: Okay, so if this isn't Adam and it's got its electrons flowing around it, when you heat this up, so much the electrons end up leaving and you end up getting it's kind of like a guess except the guest isn't made up of atoms the gas is made up of free.
+14:13
+Andrew Ippolito: Free electrons. Andrew Ippolito: And this is called a plasma like your plasma TV or ready lightning if you've ever seen lightning before.
+14:23
+Andrew Ippolito: Just all straight that that bolt that is made out of something called plasma It is pure free electron.
+14:32
+Andrew Ippolito: And it only lasts a moment why because electrons hate being free they're very clingy things, and so they will find items and they will get onto those items as fast as they can and that's why lightning only last that brief moment.
+14:46
+Andrew Ippolito: Okay, and then what happened to the air in that area. Andrew Ippolito: Because vaporized that air disappeared, essentially, and so now there's a there's a hole in the atmosphere, and so the rest of the air around it collapses in on that hall that's your thunder.
+15:03
+Okay. Andrew Ippolito: Then there's more exotic states. Victoria Bloemker: Of matter.
+15:09
+Andrew Ippolito: If you take a plasma and you keep eating it. Andrew Ippolito: You get something called a quark.
+15:16
+Andrew Ippolito: glue on plasma. Andrew Ippolito: And we learned about quarks and gluons a little bit right, so the basically the nucleus falls apart.
+15:26
+Andrew Ippolito: So now you have quarks and electrons floating around right, this is what happens in the heart of certain kinds of stars like neutron stars, you have to have an incredible amount of gravity and mass in order to see this stuff.
+15:42
+Andrew Ippolito: I think we've recreated in the lab to briefly. Victoria Bloemker: Can you see that definition again for the core.
+15:50
+Andrew Ippolito: workflow it's good it's when the nucleus itself falls apart and listen i'm never going to ask you a question about this stuff.
+15:57
+Andrew Ippolito: But yeah so don't worry about tests and quizzes for for quark gluon plasmas, but what is it so if this is the nucleus rate the nucleus has your protons and neutrons remember that these things themselves are made out of quirks.
+16:11
+Andrew Ippolito: Right. Andrew Ippolito: And so, when you get so. Andrew Ippolito: Hot the courts, though the protons and neutrons are flying apart.
+16:18
+Andrew Ippolito: And so you sometimes get you get double corks I forgot what those things are called there's a weird exotic things here that I don't understand at all.
+16:26
+Andrew Ippolito: I just know the name and kind of what it's about if you go the other way if you're free So if you make something so cold you get something called a boasts Einstein.
+16:40
+Andrew Ippolito: condense it and what this stuff does this is crazy systems of atoms end up acting like a single atom.
+16:52
+You get like super atoms. Andrew Ippolito: atoms himself gets so slow, that the end up moving in sync with each other, where they kind of act like a.
+17:02
+Andrew Ippolito: single atom like not not a molecule but like an item itself with its it and that's about as, all I can understand what that right, so the point here is, is that the stuff that we learn about in everyday life, the stuff that we interact with and everyday life.
+17:18
+Andrew Ippolito: go back to that perspective lecture there's a continuum weirder things okay our everyday lives don't touch it, but I want you to just be aware of their existence.
+17:31
+Andrew Ippolito: Okay now these movies, I want you to watch on your own if you can I want to just click on journey and just deal here.
+17:40
+let's see if I can do this. looks like there we go I gotta share my screen with you here.
+17:53
+Okay. What kind of volume down.
+17:59
+The narrator, this is a little. Andrew Ippolito: he's this British guy and kind of pouring alright so we're this this came out years and years ago to journey into steel so that's like you know i'm just a normal colleague of steel.
+18:15
+Andrew Ippolito: Okay broken tooth gear conventional steel.
+18:21
+Andrew Ippolito: Right so iron in a little carbon.
+18:26
+Andrew Ippolito: And so. Andrew Ippolito: i'm gonna cut to the chase here we're going to keep them not you know what i'll just let set your back and.
+18:33
+Andrew Ippolito: let's just watch this So if you see at the bottom, you see it's three x four X five X right so we're talking about the atomic or the the microscopic resolution so about 10 X it's like a magnifying glass.
+18:48
+Andrew Ippolito: Right, the average microscope the average light microscope gets to about 40 X, will be the scanning right there that's the scanning objective and then at about 100 X would be the next level.
+19:02
+Andrew Ippolito: About there. Andrew Ippolito: And then 400 X would be about, as you know that that's a really good place to be with a with a microscope so we're still getting there or 300 400 around here.
+19:16
+Andrew Ippolito: that's that's the best you get with a light microscope all right, and then you can use the oil immersion lens and get up to 1000 X, which is about here and that's the limit of light.
+19:28
+Andrew Ippolito: So now we're well beyond the limits of what photons can reveal, and so what we're using now is something called an electron microscope.
+19:35
+Andrew Ippolito: electrons have much shorter wavelength, and so we can resolve things theoretically that are down to the single atom.
+19:43
+Andrew Ippolito: rates were 5000 magnification, and now it starts to look like I don't know a key you've got an alien planet.
+19:51
+Andrew Ippolito: keep going in now we're within the shadows of this little crevice. Andrew Ippolito: And you'll see that there's like this weird black scoring that's the carbon that's a little piece of carbon there's a special name for that, if we were listening to the video it would tell us, but we're gonna keep going here we're at 40,000 X.
+20:10
+Andrew Ippolito: And by the way this isn't computer simulation these are actual pictures that scientists have taken this is not computer this isn't cgi this is electron microscopy.
+20:20
+Andrew Ippolito: Okay we're now at 150,000 next. Andrew Ippolito: are still going how deep this rabbit hole go all the way and now you're gonna start to get a little creeped out and see faces everywhere.
+20:32
+Andrew Ippolito: This is hell no i'm just kidding and sorry if you have children lesson and now, this is our brain naturally sees patterns in noise okay we're now at 1,000,001.5 million to 1,000,002 and a half million you're going to start to see.
+20:50
+Andrew Ippolito: What looks like. The individual items.
+20:57
+Andrew Ippolito: Okay, now the reason why we can do this with metal is because metals, which are Ionic have very regular patterns of their atoms being laid out.
+21:11
+Andrew Ippolito: Okay, and so, at this point now you're going to be, are we really gonna go look in quarks now this we're not, this is it.
+21:18
+Andrew Ippolito: The at this point, this is kind of like taking your camera on your phone and just zooming and what your fingers and getting a digital maximum right so that's the limits of what we can directly visualize at this point.
+21:30
+Andrew Ippolito: So, yes, we can directly visualize individual items now and we're going to go all the way out.
+21:38
+Andrew Ippolito: boom. Andrew Ippolito: little bit mind bending okay.
+21:44
+Andrew Ippolito: Now i'm not gonna pay the rest of these for you, but if you like that. Andrew Ippolito: Get get my PowerPoint open on your own when you do some studying and watch the skin and the leaf and actually if you dig around on the Internet, you can find an entire series of these kinds of videos they've they've made many since.
+21:58
+Andrew Ippolito: This i've been showing that they started on seven that's all that is so, since then they've made some other ones that are pretty cool the skin was a little creepy.
+22:09
+Andrew Ippolito: You know if you if you have a good imagination can translate it like it's a. Andrew Ippolito: It starts out with a person in the grass on their hand and then it's resuming into their hand and you see the skin cells and then you're like oh that's kind of gross Okay, you know if you get if you're like a German patient and watch that one.
+22:27
+Andrew Ippolito: All right. Andrew Ippolito: Now, remember, we learned to biology we learn about systematic so we learned about how we can name species, and we can classify species right all the sciences have.
+22:42
+Andrew Ippolito: A system, a systematics have a have a sword in chemistry.
+22:47
+Andrew Ippolito: We have two ways that we do things we name the elements right and we use a single.
+22:56
+Andrew Ippolito: Either a single letter or a two letter abbreviation and that represents their name right, and then we have a whole nother system.
+23:05
+Andrew Ippolito: To name the molecules the compounds and i'll teach you that later that's the aipac nomenclature system Okay, so we have a way of naming things.
+23:15
+Andrew Ippolito: And then we have a way of classifying them, so what you're looking at here the analogy in biology we'd be like the tree of life.
+23:24
+Right. Andrew Ippolito: The the three domains system that we came up with the periodic table of elements those two things are ways that we classify and order.
+23:34
+Andrew Ippolito: The individual constituents of the system that we're studying Okay, the reason we call it the periodic table well does anybody know did they teach you that in your chemistry class why don't we call it the periodic table.
+23:48
+Andrew Ippolito: So it turns out, when we were first putting this together, there was this Russian guys name escapes me who.
+23:57
+Andrew Ippolito: He was this Russian aristocrat riding on trains over long distances and a lot of time to think and he had.
+24:05
+Andrew Ippolito: You can think of, like a deck of. Andrew Ippolito: cards okay each card, though, would have the name and it would have some properties listed, they were like baseball cards for the elements that's kind of how you could think think of the pokemon cards, I guess, then you guys link up.
+24:18
+Andrew Ippolito: or magic the gathering cards whatever so like the cards had you know some descriptions and stuff on it, and what he was doing.
+24:26
+Andrew Ippolito: Like most people do is there's gotta be some kind of hidden deeper relationship here.
+24:33
+Andrew Ippolito: You can only figure it out, and so what he did was he would i'm going to go to the black screen now he would lay them out like here's hydrogen.
+24:41
+Andrew Ippolito: And then here's helium and then here's lithium then here's boron etc right, so he would lay them out according to Barry he was just trying to figure out the pattern there, and he noticed that, when he laid them out according to the number of protons in the nucleus, the atomic number.
+24:58
+Andrew Ippolito: That, as he did that right so here let's just pretend that to make this simpler for me I don't want to see here and waste your time drawing things let's see each dot represents one of my cards.
+25:08
+Andrew Ippolito: Okay, so he lays them out on the table, he noticed that, as he started just counting up he noticed that there was this period, this city or this repeating pattern of physical and chemical properties.
+25:24
+Andrew Ippolito: That he would see like Oh, this one is a metal oh so is this one oh so is that one oh this one's good at making salts also is this one also is that one oh this one doesn't react with anything.
+25:35
+Andrew Ippolito: We call this a noble gas oh so is this one, so is that one they saw these same patterns popping up again and again, and such that, when he took them and he arranged them in a way.
+25:48
+Andrew Ippolito: where he put them on top of each other if they had the same physical properties, the same chemical properties, he was able to build the periodic table and here's the cool part back then we didn't know all the elements right there were all these elements.
+26:05
+Andrew Ippolito: That were hidden from us. Andrew Ippolito: Right lots of them back then, if you read the history of chemistry here you'll see that you know there's i'm just i'm crossing out ones we didn't know existed back then.
+26:17
+Andrew Ippolito: But because we can put the table together, each one of the hidden theoretical elements.
+26:24
+Andrew Ippolito: was able to be predicted as a real thing, remember, I told you that one of the powers of Sciences, the power of prediction.
+26:29
+Andrew Ippolito: Being able to predict things well there you go each one of those elements that we didn't know existed people started hunting for there has to be an element here that has the same chemical properties, as this one, and this one and Sure enough, they found them and Sure enough, they did.
+26:45
+Andrew Ippolito: And I mentioned, we established this periodic table okay now one of the oddities of this one of the reasons why this look so ugly.
+26:54
+Andrew Ippolito: And weird in terms of like, why do we go from hydrogen helium and then beryllium to boy I said bar on I meant beryllium sorry I got that wrong number four is beryllium.
+27:05
+Andrew Ippolito: Number four is bar on and then copper nitrogen, but like what's all this gap here, the reason why, in my opinion is that this is humanity in our two dimensional writing trying to impose order to something that has a higher order structure.
+27:21
+Andrew Ippolito: That, if we were able to create a periodic table in a three dimensional shape that they were probably be some kind of elegant I don't know what it is, I don't know if anybody's ever tried to do this before Okay, but here's the thing see these guys here.
+27:37
+Andrew Ippolito: This took me years to figure it out to like rationalize this in my head. Andrew Ippolito: here's how it works, you see number, you see lithium or platinum I can't remember at La is link below this is like the Latin Latin Latin length of mind series and the atomized series all right, the reason why these exist is atomic number 57 has for the most part, exactly the same chemistry.
+28:04
+Andrew Ippolito: As. Andrew Ippolito: they're all essentially the same element in terms of how they react in terms of their electron configuration and the reason for that price to do with the fact that, as you get so far out there, the electrons are doing all sorts of weird things that kind of average out together.
+28:23
+Andrew Ippolito: Okay, and then, finally, the pattern breaks at 72 and it keeps going until it gets 89 and then it happens again.
+28:30
+Andrew Ippolito: Okay, so you have an active active minds, or something like that, and so you get 93 130 alright so that's why those exist down there, those are like little little footnotes to the table.
+28:42
+Andrew Ippolito: Okay, and you finally get all the 118 and it just ends. Andrew Ippolito: What where's 119 19 exists 120 that's the crazy part is their numbers and we you know numbers are infinite so in theory.
+28:57
+Andrew Ippolito: there's an infinite number of elements right and so scientists do create new elements in the lab they last for a very small amount of time they're very unstable beasts.
+29:06
+Andrew Ippolito: Now, will crash too heavy elements together to heavy atoms together and they'll create a big new one and then i'll just decay it's radioactive and just know it exists for like one times 10 to the negative second seconds.
+29:19
+Andrew Ippolito: Negative seven seconds Okay, but there's a theory there's I don't even call it theory, there is an idea that somewhere down the road we don't know what number, it is we can't predict it there's why i'm saying it's not really hypothesis that there's something we call the.
+29:36
+Andrew Ippolito: island. Andrew Ippolito: of stability. Andrew Ippolito: The idea that somewhere there's a number, where the atom months we created stays put.
+29:49
+Andrew Ippolito: It doesn't decay it just stays and it doesn't go anywhere and it's got who knows what kind of physical properties, maybe it's invisible maybe it's anti gravity maybe it's a you know something that lets us do heavy duty electromagnetism at room temperature, who knows okay.
+30:08
+Andrew Ippolito: The idea, there is it's a mystery that's one of the cool little mysteries of the universe right, well, we see out in nature, right now, is there are only.
+30:19
+Andrew Ippolito: Where is it, there are 92 naturally occurring elements.
+30:26
+Andrew Ippolito: That we find out in the universe right now. Andrew Ippolito: We only see naturally occurring they came from stars all the atoms in existence came from stars Okay, the idea is is when the universe first came into existence through some unknown mechanism.
+30:43
+Andrew Ippolito: It came along with a tremendous amount of energy and matter and as it started cooling down the matter start coalescing into stars.
+30:53
+Andrew Ippolito: And then eventually they ignited from their own gravitational pulls and eventually they burn themselves out and exploded sending jets of gas everywhere and those jets of guests would interact with each other igniting new stars.
+31:08
+Andrew Ippolito: And in the star because of the incredible gravity you'd have all these. Andrew Ippolito: Fusion events you'd have hydrogen merging together to form helium helium forming all the heavier elements.
+31:18
+Andrew Ippolito: OK, so the carbon and nitrogen and the oxygen the phosphorus and that golden to knock them the land all the crazy elements, they all came from stars so much and stuff together and then blowing up and our stars a third generation star.
+31:34
+Andrew Ippolito: So the second generation stars gave us all the carbon and nitrogen oxygen system okay.
+31:39
+Andrew Ippolito: So you're mean out of star stuff you are made out of things that once we're in the very deep parts of stars you're mean and star stuff and your solar powered you're like all little stars.
+31:53
+Andrew Ippolito: that's a fun thing to think about it's true that's. Okay, so.
+32:02
+Andrew Ippolito: When we talk about it, you know what before even progress you there's some constant your brain really struggles with these words element.
+32:11
+Andrew Ippolito: Adam. I said. Andrew Ippolito: Okay, before we leave this slide I want you to understand what these things are right, you can't hold an element.
+32:22
+Andrew Ippolito: You can't hold them idea you can't hold a species.
+32:27
+Andrew Ippolito: Right you're not a species you're an individual of a species right you're a specific so here's what I want you to do I want you to think I know does anybody here code in any computer language at all does anybody know what object oriented computer languages.
+32:41
+Andrew Ippolito: Most biology students don't yeah that's fine that's fine okay here's how it works, you have something you call an object.
+32:50
+Andrew Ippolito: Okay, and that object has a set of characters.
+32:55
+Andrew Ippolito: or parameters let's calm characteristics characteristics. Okay.
+33:03
+Andrew Ippolito: So far, makes sense right so like, for example, human. Andrew Ippolito: Is an object, or the characteristic.
+33:12
+Andrew Ippolito: arm number. Andrew Ippolito: Right, most of our our numbers are set to to to arms, you have you know I number, you have two eyes, etc, and so you build up this object called human with a set of characters right.
+33:31
+Andrew Ippolito: So now, if I take if I take that object. Andrew Ippolito: Which is theoretical it's just an idea I want to create a real version of it that's called an instance.
+33:43
+Andrew Ippolito: Okay you're all instances of human.
+33:49
+Andrew Ippolito: Right, this makes perfect sense this is how how computer programmers live in brief and that's the very soup that's the simple basics of object oriented computer language.
+33:59
+Andrew Ippolito: You have this object as a concept and we're going to take that concept we're going to bring it down into the real world and we're going to make an instance of it, we can make multiple instances of it right does this make sense to you raise your hand that made sense.
+34:11
+Andrew Ippolito: raise your hand if you need me to clarify that. Andrew Ippolito: Okay. Andrew Ippolito: So forget computers let's just think about.
+34:23
+Andrew Ippolito: i'm thirsty right now so i'm gonna drink out of this thing. Andrew Ippolito: What is this thing we call this a thermos okay this thermos has its round right so it's got its got a diameter here it's got a height.
+34:38
+Andrew Ippolito: You know it's got a volume. Andrew Ippolito: Right so, so this is, whereas I see Taylor drinking right so tell her hold yourself for a second hold up to the camera everybody that's got something like this hold it up right now.
+34:51
+Andrew Ippolito: We have the periodic table of cylinders right, we all have something we all have an instance of the object.
+35:00
+Andrew Ippolito: Drinking vessel okay mine's a thermos yours might be a little glass Cup, some of us might have colors that are different somehow color right there's this array this diversity of different kinds right So if I said to you what's the ideal perfect version of a cup.
+35:18
+Andrew Ippolito: There is no one perfect ideal version of it. Andrew Ippolito: there's a whole so so in the real world there is no cup there's mind cup there's this thing exists there's the concept cup and then there's the actual instance of it.
+35:36
+Andrew Ippolito: Does that make sense that better okay good good good so now now, I can tell you this there's no such thing as an atom.
+35:44
+Andrew Ippolito: They oh that's not a no no go with me here let's take carbon because we're gonna learn about carbon a lot this semester carbon has an atomic number six What that means is holistic the the element carbon is an object carbon Okay, it has.
+36:01
+Andrew Ippolito: An atomic number. Andrew Ippolito: set to six with that meeting, that means that six protons and is nucleus.
+36:09
+Andrew Ippolito: Okay, and right there that's it everything else about carbon is driven by that think that single fact.
+36:18
+Andrew Ippolito: The number of electrons it has is informed by the number of protons it has because the protons are positively charged, and so we can bring along with them some negative electrons right.
+36:33
+Andrew Ippolito: Okay, see you later man, good luck be safe.
+36:38
+Andrew Ippolito: Okay, this this making sense. Andrew Ippolito: Right it's carbons got six protons always always it's not carbon if that number is different right if that number was seven.
+36:51
+Andrew Ippolito: that's nitrogen now and it's eight it's oxygen if it's one it's hydrogen right, so this is the defining marker of that object Okay, now the number of protons i'm sorry, the number of neutrons now let's see.
+37:08
+Andrew Ippolito: let's say it has six. Andrew Ippolito: Six protons six neutrons all right as a reminder, a proton, this is a proton which is positively charged.
+37:20
+Andrew Ippolito: doesn't like being too close to other protons which are also positively charged right they will repel each other from the electromagnetic force.
+37:30
+Andrew Ippolito: Despite that repulsion carbons got six of these and it's nucleus right so here 123456 i'm just super imposing this on a two dimensional environment so those six protons hate each other, they want to explode and yet here we are we're not exploding.
+37:51
+Andrew Ippolito: Yet. Andrew Ippolito: And so, why because we have these neutrons in here that are helping to glue them together and it just so happens that carbon has six of them and six of them generally so if we add those two things up, we get a total number of 12 we're gonna call this its mass number.
+38:17
+Okay. Andrew Ippolito: And so.
+38:23
+Andrew Ippolito: For this instance of carbon. Andrew Ippolito: With this massive 12 i'm going to name this carbon 12.
+38:33
+or usually it's. Andrew Ippolito: I think it actually I think it's 12 see.
+38:39
+Andrew Ippolito: Carbon 12. Andrew Ippolito: Which is stable now there are other atoms, of course, so if we go around the world and we just pluck carbon out of the air and we look at it, we pretend, you can count these things.
+38:50
+Andrew Ippolito: This carbons got six and six, this cars got six and six, this carbons got six and 690 9% of the carbon that you come across as six protons six neutrons but then about 1% of them blow this one's got this one's got eight neutrons.
+39:06
+Andrew Ippolito: Right so so I have another one, where I have, I have six protons and I have eight neutrons for a total of 14.
+39:18
+Andrew Ippolito: So that's carbon 14. Andrew Ippolito: But they're both carbon right they're both carbon So how do I reconcile this.
+39:26
+Andrew Ippolito: When I have the periodic table, I want to take so here let's say this is the periodic table and there's there's carbon right here.
+39:34
+Andrew Ippolito: i'm going to put carbon 12 on that shelf and I want to put carbon 14 on that shelf.
+39:42
+Andrew Ippolito: same. Andrew Ippolito: place that's literally what the word isotope me.
+39:50
+Andrew Ippolito: You would call carbon. Andrew Ippolito: One of the common is it you would call carbon 12 the most common isotopes of carbon carbon 14 is the second most common isotope of carbon.
+40:02
+Andrew Ippolito: Okay, so if I show you an atom hey look here's carbon here's an atom of carbon your first question is which isotope is it.
+40:10
+Andrew Ippolito: Now this is 12, it has to have. Andrew Ippolito: Some number associated with it there's no such thing as just an atom Okay, so you would say, this is the isotopes of carbon and that's the relationship so so an element Okay, we use the word element to describe a family of isotopes that all have the same atomic number.
+40:33
+Andrew Ippolito: So we can talk about the element carbon in this respective physical and chemical properties, but I can't hold something up and say hey look at this element.
+40:44
+Andrew Ippolito: That doesn't make sense in English, look at this isotope, we could say look at this item, but then as well, which I said toba which I which kind of Adam is it which isotope is it okay so just like there's no such thing as the ideal cup there's my cup.
+41:02
+Andrew Ippolito: there's no such thing as the perfect carbon there's this carbon.
+41:07
+Andrew Ippolito: Okay there's the most common carbon, just like there's the most common soft drink and the most common material to make shirts out of whatever okay so carbon 12 is the most common so when you look at the periodic table now.
+41:20
+Andrew Ippolito: And you see this number here, and this is very simple atomic periodic table.
+41:26
+Andrew Ippolito: that number is the mass number right, so you can see 123456 etc okay.
+41:36
+Andrew Ippolito: When you see a decimal point, if you look at a more advanced periodic table and you see something like 12.01 okay we've all seen this you can't have a fractional proton.
+41:49
+Andrew Ippolito: You have one proton or no protons so the reason why this number exists is because, when we go out in the world and we say 90% of the carbon we find is carbon 12 and tempers are really it's more like 99%.
+42:03
+Andrew Ippolito: And then you know 1% is carbon 14 take a weighted average of all that that's what those numbers are and we call that atomic weight.
+42:14
+Andrew Ippolito: The atomic weight of an element. Andrew Ippolito: Is the average of the masses of all the respective isotopes we've come across this an empirical number that we determined through experimentation.
+42:28
+Andrew Ippolito: We don't we don't discover the atomic weight, we we calculate.
+42:36
+Andrew Ippolito: Okay, so so theoretically imagine we were on the moon, and we took all these samples of carbon that we find on the moon, and it turns out that those ratios are different.
+42:47
+Andrew Ippolito: Then moon carbon would have a different atomic weight. Andrew Ippolito: And i'm not a chemist so I can't tell you, if this is something that we've already done in determine that it's always the same everywhere that the universe is filled with 99% carbon 12.
+43:01
+Andrew Ippolito: And 1% carbon 14 and you know earth's got the same exact ratio, or if those ratios differ I don't know I don't have the answer that's something you can ask Dr feely or you know, whoever else's you're teaching chemistry with.
+43:13
+Okay alright. Andrew Ippolito: So, now that we understand us forget the red line.
+43:20
+Andrew Ippolito: For now. Andrew Ippolito: i'm not going to delete this and i'm not going to cancel out of this and erase it I just got to remember to do that later so forget forget this arrow.
+43:31
+Andrew Ippolito: When we look at life. Andrew Ippolito: We take imagine taking the bio massive earth every single thing that's ever been alive on earth and pulling it into a ball machine it up and then asking the question how much of that ball is carbon or oxygen and nitrogen it turns out that there's only four elements.
+43:53
+Andrew Ippolito: that make up way more than 95% of the biomass, you get carbon nitrogen oxygen carbon.
+44:01
+Andrew Ippolito: Hydrogen oxygen and nitrogen.
+44:09
+Andrew Ippolito: And then there's two others. Andrew Ippolito: phosphorus and sulfur that some books will actually lumped together here so here, let me don't write this down, let me give you the word that I usually give people.
+44:21
+Andrew Ippolito: turnips. Andrew Ippolito: These are the six most common elements to life.
+44:29
+Andrew Ippolito: I say life these numbers that you're looking at are probably human. Andrew Ippolito: Which is you know, we very like we have we have skeletons that have calcium in them, so you can see, calcium is at 1.5% here, which is more than phosphorus that's not typical of life.
+44:43
+Andrew Ippolito: Right there's plenty of life that doesn't have much calcium so So these are the six most abundant elements of life, and these are the ones that we're going to learn the chemistry of the most.
+44:53
+Andrew Ippolito: Okay, but understand that there are others that are abundant calcium potassium sodium chlorine and magnesium.
+45:07
+Andrew Ippolito: Okay, calcium plays roles in our neural signaling and our bones.
+45:13
+Andrew Ippolito: potassium and sodium. Andrew Ippolito: and chlorine.
+45:19
+Andrew Ippolito: play roles and our ability to establish gradients so we pump things out of the cell, so that the inside the House that are different and we'll learn all about that later.
+45:31
+Andrew Ippolito: Okay, and then magnesium is generally. Andrew Ippolito: Important an enzyme reactions it's a Co factor and many enzymes, so, in other words if magnesium is not there, your enzymes can't do their job.
+45:45
+Okay. Andrew Ippolito: And i'm just rattling this off to give you some flavor you have to memorize all that okay that's The thing that I want you to know is.
+45:55
+Andrew Ippolito: Those six right carbon nitrogen oxygen phosphorus. Andrew Ippolito: sulfur.
+46:03
+schnapps. Andrew Ippolito: Then you have the trace elements.
+46:10
+Andrew Ippolito: And you'll see that I saw a trace element is essential for life but there's not much needed just need a dash of it.
+46:20
+Andrew Ippolito: less is more. Andrew Ippolito: and put a little bit of little bit of vanilla extract in that cookie batch but not too much or it's going to taste terrible into little little bit boring just enough tiny bit.
+46:33
+Andrew Ippolito: chromium and copper flooring and so here's why I have this arrow here now does anybody know how to pronounce this.
+46:42
+Andrew Ippolito: hat, how do you hear. Taylor Campbell: Oh studying that one's hard. Andrew Ippolito: Had anybody want to give a give a try for this one, I could not pronounce this word.
+46:53
+Andrew Ippolito: Until my late 30s. Because I think. Danuta Despagne: I think it's my lead them then them.
+46:59
+Andrew Ippolito: molybdenum. Andrew Ippolito: that's it molybdenum. Andrew Ippolito: molybdenum.
+47:06
+Jordan Russell: that's. Andrew Ippolito: way to say Jordan. Jordan Russell: I sit in molybdenum.
+47:12
+Andrew Ippolito: molybdenum you got it. Jordan Russell: it's not molly bend interesting. We.
+47:17
+Alexa Deprisco: Are I had called it molly be denim. Andrew Ippolito: yeah it's not. Andrew Ippolito: I I pronounce it as a kid molly molly Ben diem.
+47:26
+Andrew Ippolito: Words so I was gonna say it that's how I was uh I was gonna say just. Andrew Ippolito: He just wants to be said, like that, but no it's molybdenum.
+47:35
+Danuta Despagne: yeah my chemistry teacher like had to like go over and over and over again till we got it.
+47:43
+Andrew Ippolito: So why what do we do with molybdenum in our bodies, I don't know.
+47:49
+Andrew Ippolito: Most of these elements have multiple roles that are still remaining to be. Julia Lakchin: clarified. Andrew Ippolito: You see boron you see how there's a hyperlink on bar on that's because when I first put this slide together a few years back i'm like all right.
+47:59
+Andrew Ippolito: i'm going to go through each one of these, and just give kind of a little flavor of each one I started digging into barn it has like 20 different things it's known to do i'm like i'm done that's the only one, I did I just hear the trace elements, what do we do with them everything.
+48:15
+Andrew Ippolito: what's that mean with who's the actor that. Andrew Ippolito: Gary oldman you know that one Gary oldman meanwhile he's like everything like that's what we do with these.
+48:27
+Andrew Ippolito: Okay, and that's it that's I want to move on here Okay, and where are we with time. yeah.
+48:34
+Andrew Ippolito: it's what makes the elements different from each other, why is carbon carbon Why is carbon you know, a solid at room temperature.
+48:40
+Andrew Ippolito: And helium and gas things like that right so here on the left, here we got sodium it turned out pure sodium is a metal and you can cut it with a knife that's also made a metal.
+48:55
+Andrew Ippolito: Okay, and and notice that the person that's holding this is wearing gloves you see the gloves there that's because if you touch this stuff with your naked hand it will burn.
+49:05
+Andrew Ippolito: sodium is ridiculously reactive it's explosive to if you took after he shaves this little thing off if you take this and throws it into a lake.
+49:16
+Andrew Ippolito: bow you can go on YouTube if you want and type sodium thrown into the lake and you'll see all sorts of countless you professors, giving a little demos, of the explosive nature sodium don't do it right now.
+49:28
+Victoria Bloemker: pay attention to me. Andrew Ippolito: And I you want to do it. Victoria Bloemker: I thought sodium was just salt.
+49:34
+Andrew Ippolito: Ah, no it's sodium so watch this on the other side of the screen. Victoria Bloemker: We got chlorine.
+49:41
+Andrew Ippolito: chlorine. Jordan Russell: Gas at room temperature is. Andrew Ippolito: kind of yellowy and if you breathe this in it will destroy your lungs.
+49:47
+Andrew Ippolito: it's also severely reactive Okay, we used to using chemical warfare and World War one we used to have explosive that would have chlorine gas in them.
+49:57
+Jordan Russell: Like mustard guests. Andrew Ippolito: mustard gas is a chemical I don't think mustard gas as core I.
+50:05
+Andrew Ippolito: mustard gas is a chemical that's like is it maybe it also has Korea I can't speak to that. Andrew Ippolito: I do know that we used chemical warfare World War one also and and chlorine was in there.
+50:16
+Andrew Ippolito: I don't remember the details anymore, the point is is both sodium and chlorine are highly reactive what's that me.
+50:23
+Andrew Ippolito: reactivity the propensity of engaging in a chemical reaction what's a chemical reaction well we'll get to that here's the thing when you take these two very, very dangerous materials and you put them together.
+50:35
+Andrew Ippolito: Okay, let me skip ahead here. Andrew Ippolito: Oh man that was anti climactic I have another slide you know what when we do Ionic bonds i'll go further here, but basically sodium and chlorine when you put them together.
+50:46
+Julia Lakchin: You get salt. Andrew Ippolito: So salt isn't sodium. Andrew Ippolito: or chlorine it's sodium chloride.
+50:55
+Andrew Ippolito: Because when you put these two together they interact with each other and the thing they make is not reactive anymore it's settled down.
+51:04
+Andrew Ippolito: Okay, so the item itself is the absolutely teeny tiny a smallest unit of matter that still retains the physical and chemical properties of an element, so you can you can call this thing and Adam of the element carbon.
+51:24
+Andrew Ippolito: Anything smaller than that it ceases to be carbon now it's an electron or a proton neutron.
+51:32
+Okay. Andrew Ippolito: And so the elements are different, because their atoms are different.
+51:43
+Andrew Ippolito: That begs the question what's in Adam Adams or systems of subatomic particles.
+51:49
+Andrew Ippolito: protons neutrons and electrons. Andrew Ippolito: Okay, the protons are positively charged.
+51:55
+Andrew Ippolito: The neutrons aren't charged and the electrons are negatively charged, despite the fact that they're in this laundry list and they're all English words understand that electrons.
+52:04
+Andrew Ippolito: are fundamentally different things they are elementary particles that don't have substructure, whereas the protons and neutrons are in turn made of quirks.
+52:15
+Andrew Ippolito: And held together by the strong force which is mediated by the glue on.
+52:20
+Andrew Ippolito: Okay, so they're they're not pure they're not fundamental particles are you say elementary particles yeah man hurry.
+52:31
+particles. Andrew Ippolito: Okay, the electron is an elementary particle.
+52:38
+Andrew Ippolito: And so the relative size difference between if this is a proton.
+52:44
+Andrew Ippolito: This would be an electron. Andrew Ippolito: or a Speck of dust compared to the proton and neutron In fact the neutron mommy mommy accurately measured a neutrons mass it turns out that at neutrons mass is equal to the protons mass plus an electron.
+53:08
+Andrew Ippolito: minus a teeny tiny little difference that can be explained by things i'm not going to get into.
+53:13
+Okay. Now. Andrew Ippolito: So, think of the nucleus, therefore, as the mass Center of an atom that's where most of the masses concentrated right so it's like a little by analogy it's like think of a little marble with a dust cloud around it.
+53:35
+Okay. Andrew Ippolito: So you can see her on the right, this is a an example picture of uranium atoms held together in a solution of urinal assa tea.
+53:46
+Okay, eight year olds. Andrew Ippolito: awesome that's great I love it.
+53:55
+Andrew Ippolito: My youngest Joe he wants to be a chemist. he likes mixing potions and.
+54:00
+Andrew Ippolito: he's been saying this for like three or four years now, which is kind of that's an that's an it's like a century and seven year old terms right.
+54:10
+alright. Andrew Ippolito: So here we go Adams himself, you can measure the the mass we use instead of grams right we use things, called dalton's.
+54:21
+Andrew Ippolito: or atomic mass units am us. Andrew Ippolito: We have this number that corresponds to the number of protons.
+54:30
+Andrew Ippolito: And we have another number. Andrew Ippolito: that's broken and i'll just leave it here, so the the atomic number tells us, the number of protons, which in turn informs us to what element is the mass number adds the number of protons and neutrons together okay.
+54:50
+Andrew Ippolito: And then we said this earlier isotopes our families of atoms that all share the same number of protons.
+55:01
+Andrew Ippolito: Okay, so on the right there, you can see, these are the three common isotopes of the element hydrogen.
+55:09
+Andrew Ippolito: So you can imagine that there's three different atoms. Andrew Ippolito: The first Adam has a single proton and this nucleus, the second has both a proton and neutron and the third has proton in two neutrons right, so you can see here this one's heavier than this one, and this one is heavier than this one, so this is one, two and three right.
+55:34
+Andrew Ippolito: And they all have their own names, so the one with to hear that's deuterium that's how you see this word here deuterium.
+55:45
+Andrew Ippolito: And when we make water with deuterium we call it heavy water.
+55:51
+Andrew Ippolito: and heavy waters, what we use a nuclear reactors to help cool them. Andrew Ippolito: One of the fun facts that heavy water is, if you drink it.
+56:00
+Andrew Ippolito: Your cells can't let it it doesn't pass through your cell membranes because it's too big.
+56:06
+Andrew Ippolito: And so, if you just drink heavy water, you would die of thirst.
+56:12
+Andrew Ippolito: I don't know if I call that a fun fact. Andrew Ippolito: fun fact you die oh that's not fun.
+56:20
+dark fact. Andrew Ippolito: Heavy fact Okay, and then a. Alexa Deprisco: Third one's called tritium.
+56:29
+Andrew Ippolito: Okay, so these are, this is just an example of an element it's three isotopes not all elements have the names like this, like carbon 14 we just go carbon 14 I don't think there's any special name for that, if there is I don't know i've never heard it.
+56:41
+Andrew Ippolito: Okay, so here's the thing. Andrew Ippolito: This oh go ahead, oh, I see you got a. Alexa Deprisco: Question No Okay, so you can't drink it because it won't pass through your cells what, if you like, audit on your hands, would you still get like.
+56:52
+Andrew Ippolito: Oh yeah, no, no, I mean you can drink it it's just it'll just go right through your body, though actually I don't even know that might get I don't know if you have severe indigestion from it or not, I don't know I never really dug into it much deeper than that little tidbit.
+57:06
+Andrew Ippolito: But yeah I mean if you get on your hands nothing if you have a you know if you have a little. Andrew Ippolito: tube of it you'll know you'll feel it's a little heavier there's another song called cesium chloride I played with in lab.
+57:17
+Andrew Ippolito: cesium chloride cesium is a heavy element cesium chloride, we use when we're doing DNA extractions in the lab.
+57:23
+Andrew Ippolito: And you make a solution of it and i'll never forget the first time I ever used that I had it in a 50 mil tube and I was shaking it, you know, I was mixing it and I noticed it was like.
+57:34
+Andrew Ippolito: way heavier than normal saw it was just it was like lead water, it was kind of crazy how heavy it was.
+57:40
+Andrew Ippolito: And we use it to help centrifuge DNA and settle in a particular band but yes, I also accidentally injected some a bit of my arm ones that's another story for another time I thought I was gonna die, it turns out it's harmless I didn't know that.
+57:55
+Andrew Ippolito: I freaked out, I went to the health Center I went to my my advisors office and i'm like I just I just injected a little bit of cesium clear into my arm she's like you should go to the health Center i'm like is this dangerous I don't know go to the health Center i'm like oh crap.
+58:09
+Andrew Ippolito: i'll see that story for later in the Semester when we're when it's more relevant. Andrew Ippolito: Okay okay so so radiation let's talk about radiation here.
+58:18
+Andrew Ippolito: I want you to picture that nucleus, and then nucleus, remember, I said everything that was chicly everything's always moving right.
+58:24
+Andrew Ippolito: So those protons and neutrons are always moving to. Andrew Ippolito: And they're pushing against each other and their race or the protons want to get away from each other, then you travel on the stick together.
+58:35
+Andrew Ippolito: And so, so long as that when you add up all of those different forces, if it comes out to a number that makes sense to the atom and it's stable that's great we call it a stable Adam but sometimes when you add too much in there, you get this kind of disharmony.
+58:54
+Andrew Ippolito: there's a it's like it's like imagine listening to a symphony and they're playing some beautiful song in every randomly every 30 seconds somebody squeals their violin or something.
+59:05
+Andrew Ippolito: Like data, the data dada dada oh what was that it's like this terrible they stopped doing that, what do you do eventually you kick the person out.
+59:15
+Andrew Ippolito: just go. Andrew Ippolito: hey I can't help it I it doesn't matter this terrible you're ruining everything every 30 seconds or so maybe go that's radiation so basically what happens is is the atom attempts to stabilize itself, where every once in a while again from the quantum fluctuations of things just.
+59:35
+Andrew Ippolito: Something shoots and when it shoots out what's left is more stable okay so so radioactivity is essentially the atomic nucleus attempting to stabilize itself.
+59:47
+Andrew Ippolito: it's falling downhill, it can never be predicted exactly when it has an event we can never say okay this Adam right here in 30 seconds is going to have an event Instead, what we can do is we take populations of atoms and say on average over time every two hours, one of them happens.
+1:00:09
+Andrew Ippolito: Okay, and so that's that idea of the half life and all radioactive isotopes of an element, have a corresponding half life of their decay.
+1:00:21
+Andrew Ippolito: And that read is an intrinsic property of that isotope we can't change.
+1:00:27
+Andrew Ippolito: No more than you can change the value of pie. Andrew Ippolito: Or the electromagnetic Constance okay it's it's a it's a number and it never changes.
+1:00:35
+Andrew Ippolito: If you heat it up, if you cool it down if you put it under pressure, if you put it in space, if you speed it up there's just nothing you can do to change the rate of radioactive decay and so this is one of the most important tools we have as humanity that helps us gauge the age of things.
+1:00:53
+Andrew Ippolito: And so, using radioactive isotopes to estimate the ages of things is collectively called reveal metric dating.
+1:01:06
+Andrew Ippolito: I mean like carbon dating that's one version of it okay carbon dating isn't, the only way we use it's not the only radio metric dating we use we use lots of Radio metric data.
+1:01:18
+Andrew Ippolito: So when people are like evolutions not true because you can't carbon date dinosaur bones.
+1:01:25
+Andrew Ippolito: hate that one that's true, that is true i'll give you that you can't carbon date dinosaur bones.
+1:01:31
+Andrew Ippolito: We don't carbon date dinosaur bones we use an argon potassium clock but for me to explain that to you if you're going to sit here and make fun of me that evolution not true i'm not going to teach you.
+1:01:40
+Andrew Ippolito: How these conversations sometimes they're just in my head actually I just pretend to have these conversations with naysayers.
+1:01:48
+Andrew Ippolito: Why do you do that i've read so many accounts of scientists having arguments with people who don't believe in evolution and all these things come out, you can be books about this stuff so carbon dating.
+1:01:59
+Andrew Ippolito: can only go back about 75,000 years or so past that you got to use other things i'll explain why.
+1:02:06
+Andrew Ippolito: Okay, before I do that, though let's talk about radiation, a little bit there's there's different kinds of things it gets spit out of a nucleus.
+1:02:13
+Andrew Ippolito: It depends on the radioactive isotope in question, and these are not things you have to memorize or learn for this class, this is firmly in the realm of chemistry.
+1:02:21
+Andrew Ippolito: Okay, the only thing that you really need to understand is that there's week radiation that's kind of stuff that's safe that's 100% safe.
+1:02:28
+Andrew Ippolito: Okay, and they're strong radiation, that is 100% nazif. Andrew Ippolito: All right, and there's basically there's three kinds and this learn this alpha.
+1:02:38
+Andrew Ippolito: beta. And gamma. Andrew Ippolito: Okay, so you call it alpha decay and beta decay and gamma decay.
+1:02:49
+Andrew Ippolito: A substance will be called an alpha emitter. Andrew Ippolito: or a beta emitter or a gamma emitter.
+1:02:56
+Andrew Ippolito: Okay, if something admits it shoots it out and what what it's going through is a decay, what kind of decay alpha decay, this is an alpha emitter because it goes to alpha decay.
+1:03:07
+Andrew Ippolito: Okay, so you can picture like whatever this thing is Pew it shoots out an alpha particle or a beta particle or a gamma particles.
+1:03:18
+alpha looks more like a fish. Andrew Ippolito: So here alpha would look like this.
+1:03:25
+beta and then gamma is kind of like.
+1:03:30
+Andrew Ippolito: All right, ready here here are the knowledge is just to keep it simple alpha decay, would be the equivalent of me rolling a Bowling ball your feet slowly and you would just stop it with your foot alpha decay get stopped by piece of paper.
+1:03:42
+Andrew Ippolito: Right, an example of an alpha man would be potassium. Andrew Ippolito: In your banana if you take a Geiger counter, which is a machine that measures radioactive decay is, and you can hear the little ticks of it, that means that there's a radioactive particle hitting the sensor York.
+1:03:58
+Andrew Ippolito: The yellow box and a little little handheld you know, basically, it looks like it's something about the size of like a miniature toaster.
+1:04:06
+Andrew Ippolito: And then usually there's a cord attached to it and then there's a tiny little cylinder looks like a microphone like a microphone.
+1:04:12
+Andrew Ippolito: And if you hold that thick microphone up to things and you turn the machine on you'll hear from the speaker coming out of it little cliques and if something's been very radioactive there's a threshold where else are beeping and that's when you go away.
+1:04:25
+Andrew Ippolito: That means it's dangerous. Andrew Ippolito: Or it means there's an overwhelming amount of it, so if you hold a banana up to this thing it'll click and you might scare you if you don't have you're doing but it's just alpha.
+1:04:38
+Andrew Ippolito: Okay beta decay, would be the equivalent of going to a batting cage like let's say you're practicing your baseball swing and you have one of those automatic.
+1:04:48
+Andrew Ippolito: Those machines that shoot the baseball's gotcha right but imagine that the mission got hacked.
+1:04:54
+Andrew Ippolito: And so they crank the speed up to the fastball and started shooting you out there, and you got hit with one Okay, that would hurt it's not going to kill you.
+1:05:03
+Andrew Ippolito: it's gonna hurt that was going to leave a pretty big wealth right, and if you stood there.
+1:05:08
+Andrew Ippolito: Or if you were tied to the chain link fence and somebody was shooting you with the balls over and over and over again that will eventually kill you right so beta the case not really I wouldn't describe it as safe.
+1:05:19
+Andrew Ippolito: But in small doses as harmless. Andrew Ippolito: And this is the most common and mentor we use in the lab.
+1:05:25
+Andrew Ippolito: So the common radioactive isotopes would be P 32.
+1:05:31
+Andrew Ippolito: And 35 and we'll talk about these actually later in the Semester will may look at a hershey and cheese experiment.
+1:05:39
+Andrew Ippolito: Right, and so the reason we use those is okay so Tyler wrote in general, things that are harmful or rightfully so because they reached the deal yeah yeah that's a that's a good way of thinking of it actually so when we describe things that are harmful for us.
+1:05:53
+Andrew Ippolito: like this, this level of stuff like really radiation that's bad that's because the radiation is strong enough were here at this one of our cells.
+1:06:02
+Andrew Ippolito: We got our DNA in there if the radiation can penetrate in there and actually hit the DNA and do damage to the DNA that's where things start getting dangerous.
+1:06:09
+Andrew Ippolito: Okay, so alpha mentors are harmless, because they literally get absorbed by our skin, which is dead, the surface of your skin is dead, so we don't care about those cells.
+1:06:17
+Andrew Ippolito: Okay beta decay penetrates in a few millimeters and so that will get that all that i'll expose your blood vessels and then eat so like you can think of like chronic exposure to a beta mentor would give you something like leukemia right.
+1:06:30
+It gets into bonds a little bit. Andrew Ippolito: gamma gamma would be the equivalent of a bullet from a gun.
+1:06:39
+Andrew Ippolito: Enough gamma rays will kill you that's this That just goes right through your body, this is what X rays or.
+1:06:45
+Andrew Ippolito: I should say X rays are. Andrew Ippolito: A little weaker than gamma rays, yes, actually know so.
+1:06:53
+Andrew Ippolito: it's like an x rays X rays or photons I just want to make sure we're clarified here.
+1:06:58
+Andrew Ippolito: Okay X rays are electromagnetic radiation that are just high in energy they're just they have a very tight wavelength so think of like the color red okay X rays are like the color red except there's a different wavelength so they're photons gamma decay or gamma particle is a nucleus.
+1:07:16
+Andrew Ippolito: Actually, technically yeah that's something I never got my head.
+1:07:21
+gamma is.
+1:07:27
+Andrew Ippolito: Well, here here's a good website just gives you a good visual here i'll post this into the chat i'll post this into our class chat actually so you can I can't do that, right now, now post this into zoom chat.
+1:08:06
+Andrew Ippolito: Oh gamma Ray photon Oh, they are photons okay i'm wrong i'm glad I looked this up gamma Ray okay so they're just as strong as they're just.
+1:08:16
+Andrew Ippolito: they're a little stronger than X rays okay so so the atomics here's the thing when you when you have radioactive decay there's many different things that can happen in the nucleus, one of the things that happens, for example, carbon 14 one of the neutrons.
+1:08:36
+Andrew Ippolito: One of the neutrons decays into a proton.
+1:08:42
+Andrew Ippolito: And I want to see a neutrino that's where neutrinos coming, by the way, neutrinos are kind of like the the mass placeholders of all these changes, they just shoot out they don't they're not part of the atom they're just.
+1:08:54
+Andrew Ippolito: they're kind of like taxes on the universe, or something but, but the idea here is the neutron proton the neutron Dickies into a proton so the carbon 14 transistor nitrogen you just added a proton to the nucleus right, but sometimes when you have these changes photons get admitted.
+1:09:11
+Andrew Ippolito: And so gamma emission is a high part it's a high energy photo. Andrew Ippolito: So I was right initially by equating them to X rays.
+1:09:19
+Andrew Ippolito: Okay, and so they are high enough in energy will they will shred your DNA they'll just keep it up break those Kobe and bonds and they will lead to damage that then sometimes if it's bad enough won't get fixed and you end up getting permanent permanent damage in there.
+1:09:35
+Andrew Ippolito: Okay alright so that's that's radiation, in a nutshell.
+1:09:40
+Andrew Ippolito: And so the question here, why does hair fall out and the stomach give us trouble after this, how do you have to this should be radiotherapy not chemotherapy.
+1:09:50
+Andrew Ippolito: When when a cancer patient is treated with with with.
+1:09:56
+With radiation therapy. Andrew Ippolito: The reason why their hair falls out after that.
+1:10:02
+Andrew Ippolito: Really, I mean during chemotherapy too, but we're talking about radiation here is because.
+1:10:09
+Andrew Ippolito: So cancer is something i'll teach you this semester, as we get through it slowly in bits and pieces, because you can't just learn cancer, you have to learn biology, for it, but the ideas of the cells are growing and they're not supposed to be.
+1:10:22
+Andrew Ippolito: When they're not dying when they're supposed to be, and so, most of the cells in your body as an adult aren't going through division there in the state of arrest.
+1:10:34
+Andrew Ippolito: The cancer cells aren't okay now some your cells are going through cell division your skin cells basically any cell that's in touch with the environment so think of the the lining of your stomach think of your hair think of your skin.
+1:10:48
+Andrew Ippolito: Right you're constantly producing yourself So those are the ones that are going to get nailed from radiation therapy because they're cycling.
+1:10:57
+Andrew Ippolito: they're going through cell division so they're going to die, and so you'll lose your hair and you'll have skin issues also a UV light labs strong it so you so ultraviolet radiation is called ionizing radiation it's not strong enough to.
+1:11:13
+Andrew Ippolito: cleave bonds, instead, what they do is they make the electrons high enough energy where they start bouncing around a bit so they'll they'll.
+1:11:23
+Andrew Ippolito: UV is well Ionized things it'll cause them to gain or lose charge, so it dangerous to it's not as dangerous as gamma Ray and our bodies have evolved under a son that provides us with a lot of UV light that's why we can, for example.
+1:11:43
+Andrew Ippolito: So so ultraviolet radiation is like too much of it for too much exposure over very long periods of time will also lead to cancer, particularly skin cancer.
+1:11:55
+Andrew Ippolito: The the vast majority of the damage you do to yourself from the sun happens up until the age of about 12.
+1:12:02
+Andrew Ippolito: So if you're older than 12 which most of you are. Andrew Ippolito: And you did not get out much as a kid and get sunburned all the time at the beach.
+1:12:13
+Andrew Ippolito: You can probably go enjoy the sun now because the reason is is as you're growing right your skin's growing too, and so all those cells are rapidly growing so from the age zero to 12 is when most of that growth happens.
+1:12:25
+Andrew Ippolito: And so, if you're exposing that person that kid to the sun chronically that's going to lead down the road to a higher likelihood of skin cancer right don't but you know not 100% it's just more likely.
+1:12:38
+Taylor Campbell: I have a question. Andrew Ippolito: yeah go ahead killer. Taylor Campbell: How about like how scars like and and like with sons so like scars supposedly like a darker if there.
+1:12:50
+Andrew Ippolito: yeah oh so so scars. Andrew Ippolito: Are when we have our skin damage to deeply scar tissue is just.
+1:13:01
+Andrew Ippolito: dense connective fibers it's not all the old stuff that used to be there, and so a scar is fundamentally different tissue it's a different tissue type and it's denser.
+1:13:11
+Andrew Ippolito: And it resides just underneath the surface of your skin and that's what you can see it that's what the score is and so that will have a lower density of mulana sites in there.
+1:13:19
+Andrew Ippolito: The mulana Center the cells that respond to the radiation that that elicit the production of the melanin and so you're going to have a discoloration in that area nationally.
+1:13:28
+Andrew Ippolito: it's finally gone now, when I was like 12 I have a line right here, and it was just kind of a deep simple slice from a tree branch, but I was very pan.
+1:13:39
+Andrew Ippolito: At the time, and I had that scar there, it was always discolored to my skin until probably.
+1:13:46
+Andrew Ippolito: My late 30s I started I just noticed it was gone like was just part of my identity, I just had this line here.
+1:13:53
+Andrew Ippolito: And then one day was just gone finally so so yeah, it has to do with the fact that it's.
+1:13:59
+Andrew Ippolito: When we won't heal our skin and it's too deep it never comes back exactly as I was there's just a little bit of connective tissue damage or its connective tissue not muscle and neuron and and mulana sites and all that.
+1:14:14
+Taylor Campbell: But don't they change color in the sun. Taylor Campbell: Like feeling like I just like.
+1:14:20
+Andrew Ippolito: They will pan differently. Taylor Campbell: yeah like I work with this girl, she was in a horrible motorcycle accident so she's like covered right and like scars and she doesn't like to go out in the sun, because it makes her scars darker.
+1:14:32
+Andrew Ippolito: So then, during the wound healing there she had more Milan so it's different so.
+1:14:39
+Taylor Campbell: it's a different composition of cells, at that point understood.
+1:14:45
+Taylor Campbell: Okay. Andrew Ippolito: Alright So what do we use it, for we use it for a lot of things, and this is more of the health science area stuff so I don't want to spend too much time on this.
+1:14:54
+Andrew Ippolito: But there's plenty of medical diagnostics that use some kind of radiation and other way, you have to swallow a whole bunch of liquid so they can light up your intestinal tracts and look for blockages.
+1:15:03
+Andrew Ippolito: or they'll use radioactive glucose, which is an indicator of metabolic activity and so cancers because they're constantly dividing will use more sugar than other tissues and you'll see hotspots like like in this picture over here this pet scan.
+1:15:20
+Okay. Andrew Ippolito: we'll we'll we'll see that we use radiation for various ways of tracing things through systems so like imagine a radioactive virus particle or radioactive protein and we can track where that protein.
+1:15:37
+Andrew Ippolito: or even a radioactive element let's say that you were trying to understand something about DNA itself, and if you use radioactive phosphorus.
+1:15:45
+Andrew Ippolito: You put put radioactive phosphorus with a bunch of bacteria and you just let them use it they'll take that radioactive phosphorus and put it into their DNA and now you have radioactive DNA.
+1:15:56
+Andrew Ippolito: And you can do purification and you can watch them go through division and you can track where the radiation goes, and you can answer questions that way that's actually the technology we use to determine how DNA.
+1:16:07
+Andrew Ippolito: replicates through semi conservative replication i'll teach you that later in the Semester to.
+1:16:14
+Andrew Ippolito: This is just this is just fun, I had to get an MRI a couple years back, because of my ear issues and i've never seen them, you can you a desk and you can basically cruise through your entire.
+1:16:26
+Andrew Ippolito: head in 4d. Andrew Ippolito: And it's one o'clock thanks Julia Thank you, I appreciate that because i'm not looking at the clock so anyway that's just that's just cool it's really weird and creepy looking at your own head and being able to scroll the mouse wheel and go in and out.
+1:16:44
+Andrew Ippolito: The bird's eye view I was able to see my deviated septum look at the top down on my nose instead of like you're supposed to have this like wow that just separates the two rate minds like this.
+1:16:55
+Andrew Ippolito: And it's just I was like Oh, it was like dramatic it was like okay that's not we were there for but still.
+1:17:02
+Andrew Ippolito: Anyway, it's your brain so i'll end it's one o'clock will end here and i'll say that if we have a quiz on Wednesday, it will cover basic chemistry up to.
+1:17:15
+Andrew Ippolito: Radio metric dating. Andrew Ippolito: As a concept we already talked about this, we use it to date i'm not going to ask you, you know what what does potassium decay to.
+1:17:25
+Andrew Ippolito: You know, lead to a six lead to I won't do that to you ever i'll see that, for your chemistry right, but the potassium potassium are gone that's the one we use for a lot of this is the common one, we use for measuring rocks because look at the half life 1.2 billion years.
+1:17:45
+Andrew Ippolito: It takes one if you have one gram of potassium 40 it will take 1.2 billion years for half of that to go down into are gone 40.
+1:17:54
+Andrew Ippolito: Okay, and so here's one of the crazy things if you look at the half life here. Andrew Ippolito: you'll notice that they're either really, really old.
+1:18:05
+Right. Andrew Ippolito: or. Andrew Ippolito: But actually let's even include aluminum there or they're almost really oh they're super young carbon 14 as a radioactive decay rate of 5730 years there's no observable radioactive isotopes on earth.
+1:18:26
+Andrew Ippolito: Between 740,000 years and 5730 years they exist, we can find them, we can do things in the lab to make them, I think I think that's how we do it, but there's none observed, and the only explanation that we have is that Earth is so old.
+1:18:47
+Andrew Ippolito: That all traces of those radioactive isotopes have since the kid past the point of being able to detect them.
+1:18:57
+Andrew Ippolito: A young earth would have a whole bunch of different isotopes of all different.
+1:19:05
+Andrew Ippolito: Years right we'd have isotopes with 10,000 years and 20,000 years and 70,000 years instead we just have these ancient ones or ones that are renewed in the atmosphere regularly, which is exactly what carbon 14 is when carbon 14 when carbon 12 gets hit by I think.
+1:19:23
+Andrew Ippolito: cosmic rays, it turns into carbon 14. Andrew Ippolito: So there's this constant refreshing have it in the atmosphere so, otherwise we just don't see them.
+1:19:36
+Andrew Ippolito: you're gone and here's, the last thing i'll leave you on this note rubidium 87 has a half life actually.
+1:19:44
+Andrew Ippolito: And rainy and maybe even thorium look at their half lives these half lives are older than the universe itself.
+1:19:54
+Andrew Ippolito: mats old. Andrew Ippolito: Okay, so i'll stay after class here i'll stop the recording this will pick up on Wednesday.
+1:20:04
+Stop recording.

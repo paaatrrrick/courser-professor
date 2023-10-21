@@ -1,0 +1,794 @@
+0:02
+Andrew Ippolito: This lecture corresponds to Chapter nine alright, so we just finished up to 10 photos, and this is we're going back now and doing chapter nine.
+0:11
+Andrew Ippolito: And when you go through the book linearly. Andrew Ippolito: This chapter is coming hot off of the heels of the energy chapter so they're going to talk about some of the concepts there that we've already covered so it's a little backwards, the way the way we're telling the story here in class.
+0:29
+Andrew Ippolito: and Andrew Ippolito: start off with a little joke here in case of loss of cabin pressure oxygen masks will drop down automatically and you see the fern sitting there going on crazy.
+0:44
+Andrew Ippolito: know if you don't get this joke you haven't studied. Andrew Ippolito: This is a joke quiz So the idea, there is a you know the reason why the ferns not happy.
+0:58
+Andrew Ippolito: Is because they don't breathe oxygen right they they give off the oxygen.
+1:04
+Andrew Ippolito: Anyway, i've already given you this one i'll skip that one there's here's the beginning of today, one does not simply breakdown glucose, it is not a simple process by any stretch of the imagination.
+1:18
+Andrew Ippolito: If you don't get that reference you haven't watched Lord of the Rings and really this meme is like 10 years old now actually it's it's 10 years old, now I rewatch this movie recently and I realized it came out 10 years ago.
+1:30
+Andrew Ippolito: I felt so old. Andrew Ippolito: I still remember opening night anyway well this one once I told a chemistry joke, there was no reaction.
+1:43
+Andrew Ippolito: yeah I got some smarts that's good enough all right, and what if I told you this citric acid cycle happens in the matrix.
+1:52
+Andrew Ippolito: that's where that's where happens remember the mitochondria the inside of the mitochondria called the matrix and that's where.
+1:59
+Andrew Ippolito: It happens anyway alright, so this is we're not going to go through this, this is what we're going to do today, or at least we're going to get through, about half of this today and we're going to finish it on Wednesday.
+2:12
+Andrew Ippolito: And just as a perspective here you the average human adult requires about 2200 kilocalories of energy, a day, just to maintain the status quo and about three quarters of that energy goes to just being you can be in bed all day you're still going to burn 75% of the energy.
+2:36
+Andrew Ippolito: 25% gets used for physical. activity. Andrew Ippolito: Right, just think about that for a second right, so one of the most common fallacies of people who think they have to go on a diet to lose weight.
+2:48
+Andrew Ippolito: Or rather, that they have to exercise a lot to lose weight it turns out exercise doesn't contribute so much to weight loss as opposed to diet diet is everything.
+3:00
+Andrew Ippolito: exercise is essential for this for for our brains health.
+3:05
+Andrew Ippolito: And it's good for our immune system and getting our lymphatic systems moving and stuff but as so from purely from our perspective of losing weight as as Americans who are sit entry and we eat terribly high calorie foods.
+3:21
+Andrew Ippolito: The strategy needs to focus more on the dietary aspects and less on the exercise aspects, it turns out, in other words, you can do all the exercise in the world, but if your diet sucks you're still going to be overweight.
+3:36
+Andrew Ippolito: And there's a whole bunch of psychology there too, as you exercise more your metabolism goes up you get hungrier and so we've all for those of us who exercise we all feel like oh I just ran five miles i'm going to reward myself and eat all this pizza.
+3:51
+Andrew Ippolito: Okay right and i've been there myself many times right the trick is just don't eat so much Andrew and you won't have your bumble it.
+4:03
+Andrew Ippolito: As like my friend Scott called it, that he go he called his bumble it, and so the bumble it is due to too much pizza basically.
+4:15
+Andrew Ippolito: I saw that Julie. Andrew Ippolito: Alright, so what's a killer killer we've already talked about this, but here's the slide on it kilocalories 1000 calories what's the calories calories the amount of energy, it takes to keep one gram of pure water up by one degree Celsius.
+4:32
+Andrew Ippolito: Right liquid water. Andrew Ippolito: And the reason why we have calories versus kilocalories right so there's capital C calorie versus lower case calorie the capital C calorie we call food calorie, and this is just to convert it's the same reason why we don't measure.
+4:53
+Andrew Ippolito: car efficiency in inches per gallon. Andrew Ippolito: Right, I mean how how fuel efficient or car Oh, I get 200 billion inches per gallon but you mean.
+5:05
+Andrew Ippolito: 30 miles per gallon that makes more sense right it's just our brains uncomprehending thing so.
+5:10
+Andrew Ippolito: we measure the food calories is thousands of calories because everything has hundreds of thousands of calories.
+5:15
+Andrew Ippolito: So it's just scaling it up and instead of saying kilocalories because apparently the American public isn't equipped to handle the metric system in any way we just call it a calorie again but make it get a capital C.
+5:28
+Andrew Ippolito: it's funny. Taylor Campbell: Like tell people who are like complete health nuts.
+5:33
+Taylor Campbell: That and that's how many calories you eat like yeah like that's how much you need point it's just my one friend like he's like always counting and counting calories like complete like nut job and like I told him that he, like lost his mind.
+5:48
+Andrew Ippolito: yeah most people don't realize that your brain needs a tremendous amount of energy to do this every day work, and so, if you're starving yourself you're actually going to if you're particularly starving yourself you're going to suffer mental consequences, it is important to realize that.
+6:05
+Andrew Ippolito: There are more States are doing remember science replaced by better science right, so the current science very suggests that when when you go into starvation mode when you live in a calorie restricted lifestyle that seems, at least in mouse models to really extend longevity.
+6:25
+Andrew Ippolito: So. Andrew Ippolito: mice on diets that are calorie restricted live much longer than mice that are not calorie restricted, which is really interesting, so I guess feeding all these blueberries to the ball is just speeding up the inevitable demise.
+6:41
+Andrew Ippolito: Are you doing there you still there yep there is, I put a towel over him, so I don't see him during the day, because I figured i'm going to get distracted otherwise he lives right next to me and I was.
+6:52
+Taylor Campbell: wondering why you put that on there about there is a good reason. Andrew Ippolito: yeah yeah it's because of. Andrew Ippolito: My own add if I saw him just costing moving around.
+7:00
+Andrew Ippolito: to teach you guys. Andrew Ippolito: But also, I think he you know they're borrowing. Andrew Ippolito: mammals, so I have a feeling that by keeping that on there he's a he feels like he's underground and safe.
+7:11
+Andrew Ippolito: Whereas I put them in the sink is terrified you know when I clean, I was cage I go and put them in the sink and he's got he does is cocked head, I think.
+7:19
+Andrew Ippolito: he's looking up at me with just was like runs around, and I think he's looking for hawks and now's because you know they everything eats them and so they're just terrified out in the open right.
+7:31
+Andrew Ippolito: Like being in a war zone we're both going everywhere, as far as he's concerned, so I think he's he's feeling less anxious and i'm not being distracted until just now.
+7:39
+Julia Lakchin: Are you gonna take him to the vet. Andrew Ippolito: uh well again I caught him he's probably at the end of his life, to begin with i'm just kind of it's like a hospice situation, I think.
+7:51
+Andrew Ippolito: Because again their lifespan is three months and he's an adult so he's probably at least one to two months old so he's already a geriatric patient, so to speak.
+8:03
+Andrew Ippolito: Although he's getting better and the other thing is yeah I looked this up you can't do anything for the textbook as Moses Gandhi, or whatever it's called.
+8:12
+Andrew Ippolito: they're in they're not going to do anything for a bowl i'm going to hand it to them and they're going to say thank you and then just anesthetize them, I mean he's it's evolved it's or the film to a snake, you know they're.
+8:24
+Andrew Ippolito: These are not high priority animals but they're not endangered their their pest creatures, if you have a garden at home, these these would be things you hate.
+8:34
+Andrew Ippolito: Because they'll eat they basically they eat the roots of any succulent plan or any little baby plant, they will just destroy your garden, and they multiply really, really quickly so.
+8:45
+Andrew Ippolito: yeah so now i'm not taking into a bit, but he's he's he's okay he's just he just wanted to start close.
+8:55
+Andrew Ippolito: Anyway, all right good calories. Andrew Ippolito: here's the next level up for you guys, when we talk about respiration we normally think about breathing in and out right we talked about us responding.
+9:07
+Andrew Ippolito: We breathe in oxygen and carbon dioxide, you can now classify that as organism all level respiration right so that's the idea of you, your lungs and your cells in the cycles of gas exchange here on the Left well we're talking about today, when we say cellular respiration.
+9:26
+Andrew Ippolito: Excuse me we're talking about what goes on inside the cell itself.
+9:31
+Andrew Ippolito: And so what's important to remember is that cell respiration can be aerobic meaning, it requires oxygen, but there are also anaerobic respiration mechanisms we don't do these humans are not able to do anaerobic respiration we do fermentation when we have to.
+9:53
+Andrew Ippolito: There are prokaryotes that undergo what's called anaerobic respiration so they have electron transport chain, the key is.
+10:03
+Andrew Ippolito: There is another final electron acceptor besides oxygen and we'll talk about that at the end of the Semester, at the end of the at the end of the lecture.
+10:16
+Andrew Ippolito: So what cellular respiration is. Andrew Ippolito: This this idea of taking some organic compound that has free energy in it that's the key here, it has to have some free energy.
+10:32
+Andrew Ippolito: And we're gonna. Andrew Ippolito: You can think of it like a combustion, in the presence of oxygen.
+10:38
+Andrew Ippolito: we're going to oxidize it. Andrew Ippolito: And we're going to break it down into carbon dioxide and water and we're going to pull that energy out in the process.
+10:54
+Andrew Ippolito: So, think of it as a series of redux reactions.
+10:59
+Andrew Ippolito: Now for sugar for glucose, in particular the number, you might want to burn into your head is the release of free energy from a single glucose molecules equal to 686 kilocalories per mole of glucose so it's a delta g of negative 686 it's negative because glucose is losing that energy.
+11:23
+Right. Andrew Ippolito: So, here it is and a couple of different ways, your book and some other books, but the idea is the same we're going to take a high energy molecule.
+11:36
+Andrew Ippolito: And we're gonna oxidize it to low energy molecules and what we're gonna do is we're going to use glucose as an example.
+11:45
+Andrew Ippolito: glucose so you can do this to amino acids, you can do this, the fatty acids, you can do this too fast Phillip is in theory Okay, the only thing we don't generally use as a fuel source or nucleic acids, because they're they're toxic they have all that nitrogen and.
+12:01
+Andrew Ippolito: So we don't eat DNA and RNA I mean we do there in our foods, but we don't extract the energy from them, we have to deal with them, in contrast, the proteins, the lipids and the sugars.
+12:14
+Andrew Ippolito: We extract energy, out of all those, and there is a pecking order and the pecking order is from sugars to fats or lipids to proteins your body, the mammalian anatomy prefers it in this order.
+12:34
+Andrew Ippolito: Okay, so everyday life is all about sugar in the blood when we go into starvation mode we start tapping into our fat reserves, if there are no fat reserves, we start cutting into our muscle.
+12:45
+Andrew Ippolito: So the human that is starving somebody who has gone weeks and weeks and weeks, but now nutrition and that doesn't get enough calories routinely.
+12:53
+Andrew Ippolito: They will be literal skin and bones, they will have just muscle no fat and then, then what happens is they start getting a guest build up in their stomach and that's why they have that inflamed stomach.
+13:08
+Andrew Ippolito: that's gas that's not. Andrew Ippolito: fat. Andrew Ippolito: that's when you know you're on the last legs of approaching a lethal situation you can go about a month, without eating food, you can only go a few days without water.
+13:24
+Andrew Ippolito: know, though, if you do go a month, without food you'll probably suffer permanent neurological damage and liver damage it does all sorts of really, really nasty things that happens in the process of long term starvation.
+13:35
+Angela Harbeck: isn't it like if you don't eat like a pretty sure I learned this with like the Holocaust and when they started to try to eat again like you can like your body's not used to it, so you have to work yourself up to it.
+13:47
+Andrew Ippolito: Again yeah yeah if you take somebody. Andrew Ippolito: That is true, if you take somebody who's starving, for a long period of time you give them like a big MAC.
+13:55
+Andrew Ippolito: they'll just bombing it right up they can't they're there because the enzymes are all shut off they their bodies are conserving their energy right so.
+14:01
+Andrew Ippolito: Because they've gone so long without breaking anything remember we haven't. Andrew Ippolito: Seen remember the lack operand I covered that my micro class there's this idea of controlling gene regulation right so.
+14:12
+Andrew Ippolito: When there's nothing there to break down, it would waste energy to make the enzymes to break them down so we stopped making the enzymes yeah so you so you gear it up slowly over a period of days.
+14:24
+Andrew Ippolito: Water first simple sugars i'm by no means an expert in any of this but that's.
+14:30
+Taylor Campbell: A hunger cues turn off to. Andrew Ippolito: say again. Taylor Campbell: Your hunger cues.
+14:36
+Andrew Ippolito: But. Taylor Campbell: Your brain like telling you like i'm hungry. Taylor Campbell: Oh yeah yeah yeah hunger cues they turn off because it's a waste of energy, since you're not.
+14:43
+Taylor Campbell: lydia right your body like well he's that. Andrew Ippolito: yeah yeah sure I learned about when I was teaching the anatomy class last semester, I learned about your primary and secondary insulin response.
+14:53
+Andrew Ippolito: So insulin is a hormone that takes sugars out of your blood and puts them into your liver that's how we, you know so when you eat a lot the insulin takes that sugar and stores it for you right that's a good thing.
+15:05
+Andrew Ippolito: And so, people who are diabetic their either their type one they don't make insulin or Type two they're they're basically so addicted to insulin that they're not responsive to the normal amounts of it anymore.
+15:16
+Andrew Ippolito: So, but when you smell something good right we've all had that we salivate and it turns out, we also have an insulin response we kick in our insulin levels, and so one of the issues with diet soda This is something i've learned empirically I used to be addicted to diet coke or diet Pepsi.
+15:37
+Andrew Ippolito: I noticed that diet sodas would make me sleepy and I think what was happening was the sweetness of it would trigger my primary.
+15:45
+Andrew Ippolito: insulin response and so insulin start getting kicked on but then there's no sugars that are flooding my blood because that's a diet soda, and so the insulin would take what sugars are in the blood and pull them out, and then I would get sleepy.
+15:59
+Andrew Ippolito: almost like a sugar crash. Andrew Ippolito: So I stopped drinking so much soda and when I do drink soda drink normal soda which isn't healthy either, but you know everybody's got their thing right.
+16:11
+Andrew Ippolito: But I do notice that the lethargic part one away. Andrew Ippolito: Anyway, yeah So if you like this stuff This is all the realm of physiology if you want to you know dig into that from an academic perspective, you take a MP, one and a MP and you'll learn all this stuff and then nutrition there's a nutrition class, you can take to.
+16:31
+Andrew Ippolito: Alright, so here's the 60,000 foot version of this we're going to take glucose and oxygen.
+16:38
+Andrew Ippolito: And we're going to break them down into carbon dioxide and water and notice that there's multiple paths to see the multiple arrows it's not one hour.
+16:45
+Andrew Ippolito: there's multiple hours and then, on the other side right we're going to couple this breakdown of sugar to the generation of ATP, which is the middleman to go over to the various work of the nationalism, to build everything we need.
+16:59
+Andrew Ippolito: Right, so this is us eating our foods to building everything we want.
+17:05
+Andrew Ippolito: And so, collectively, we talked about our metabolism right.
+17:12
+Andrew Ippolito: And it's important to realize again plants do this to they just make their own glucose they're not getting it from external so the whole point is is Where are you getting this that's what makes you in the otter trophy or the header a trophy.
+17:24
+Andrew Ippolito: Right audit trails make their own sugar head archos eat somebody else's sugar.
+17:30
+Andrew Ippolito: Thank you for your service i'm not know.
+17:37
+Andrew Ippolito: I love this slide is one of my favorite slides there so like Why are there so many steps to the process right Why is this so damn complicated.
+17:47
+Andrew Ippolito: The reason is very simple, if you have an energy reserve like a gas tank or a chicken wing or a chocolate chip cookie.
+18:00
+Andrew Ippolito: If you take all of the energy within that reserve and release it all at once, think of the second law of thermodynamics right think think back when we talked about that pool ball example.
+18:15
+Andrew Ippolito: Right, if you have a reserve of energy in the pool ball.
+18:24
+Andrew Ippolito: When you hit another ball to go forward remember all the secondary consequences of that.
+18:31
+Andrew Ippolito: Right you hear the clock sound you're keeping up the carpet of the pool table with some heat you're you're warming things up a little bit you're pushing the air out of the way right there's all these things that also happen, besides what you want.
+18:47
+Andrew Ippolito: So for the keys of a car, what you want is for the car to drive forward in a linear motion right.
+18:53
+Andrew Ippolito: If you take all the guests in a car at once, and then combusted all at once, instead of the little bits you get the car moves maybe a few feet in one direction, and all the energy gets us doing other things like breaking the car and fastly heating up the environment.
+19:11
+Andrew Ippolito: Okay that's really Mr bean chicken we example here. Andrew Ippolito: I use the chicken wing as a really good example for this so so I want you to imagine, I want you to imagine you go out to your friends pre pandemic, or maybe next year, whenever you're able to get your friends again.
+19:25
+Andrew Ippolito: And you already had a big lunch, but you know you're doing a social thing, so you go out to dinner and somebody orders a big thing a wings.
+19:32
+Andrew Ippolito: And you love wings just pretend if you don't love wings you love wings in this example and but you're not really not hungry, but you take a wing anyway, you know So what do you do, you probably take a bite or two of it and I sat.
+19:44
+Andrew Ippolito: Right, so I want you to think about what's left over that wing that you took a few bites out of has plenty of energy left in it.
+19:52
+Andrew Ippolito: Right somebody else could eat that. Andrew Ippolito: Now let's imagine.
+19:58
+Andrew Ippolito: That you haven't eaten in weeks. Andrew Ippolito: you're lost in the woods and you just didn't eat anything you didn't forage for berries or anything you're just too stressed right, so you get out of the woods, you get rescued, and they put you in the nearest diner and they stick a single chicken wing in front of you.
+20:18
+Andrew Ippolito: crispy and hot. Andrew Ippolito: A little side of blue cheese and, of course, you start salivating you haven't eaten weeks right, and you can imagine how you're going to eat that chicken wing, even if you don't like chicken wings you're going to eat the chicken wing.
+20:31
+Andrew Ippolito: Even if it's like diametrically opposed your philosophies on life you're starving and this is food.
+20:36
+Andrew Ippolito: Right so you're going to eat all of the skin all the bone not all the bonds you're gonna eat all the meat off the bus, and you know it gets the point where you are going to eat all the little weird ligament stuff that usually nobody pays attention to.
+20:47
+Andrew Ippolito: Your you get to the point where you have that bone you're going to crack it in half, then you're going to suck the marrow out of the bugs know you you've never been starving.
+20:57
+Andrew Ippolito: You don't know no I don't either by but the idea is is there is untapped energy reserves.
+21:07
+Andrew Ippolito: it's hard and hard to get to it. Andrew Ippolito: right that first bites the easiest.
+21:13
+Andrew Ippolito: You know a few bites and then again if you're in a land of plenty and you're just you have 1000 wings you're not that hungry, you might take a bite or two and throw man, because you just like the good parts.
+21:24
+Andrew Ippolito: right but let's say you only have three wings because you're sharing now you're gonna eat you're going to take time to get to all that little harder to get me.
+21:34
+Andrew Ippolito: Right and if you're truly starving you're going to start to access to stuff deep that's hard to get to.
+21:42
+Andrew Ippolito: And so what we're going to see here is there's a quick burn like costs, this is easy and fast everybody does it the products of that are like a chicken bone.
+21:52
+Andrew Ippolito: Okay, for bacteria that don't go through cell respiration.
+21:58
+Andrew Ippolito: For bacteria that just do great causes that's the end of their story they don't get a lot of energy out of the original glucose molecule the only like 2% of it.
+22:10
+Andrew Ippolito: In the presence of oxygen we're going to tap into that bone marrow and we're going to see that that's where the good stuff is it turns out.
+22:18
+Andrew Ippolito: And that's the end of the analogy bone marrow doesn't have any particular green energy reserve in real life it's not like you should really.
+22:25
+Andrew Ippolito: You know it's not encouraging you to use bone marrow but that's that's the analogy here that's the untapped potential is for glucose as energy.
+22:34
+Andrew Ippolito: we're going to see that, in the presence of oxygen when we take that by product by rho V we're going to be able to get up to 30% of the energy out instead of a measly to that translates to instead of to ATP 30 ATP.
+22:52
+Andrew Ippolito: Okay. Andrew Ippolito: And so the idea here is if we're inefficient if there are metabolic process, so the reason why metabolic process multiple steps is to maximize the efficiency of the energy extraction.
+23:08
+Andrew Ippolito: And the same way, our car is fuel efficient and we just were that. Andrew Ippolito: That little buzz of the spark plug blows up just a little bit of the gas in your tank at a time that's in the cylinder of your engine, and that is what allows us to drive forward and instead of getting a foot out of 30 gallons we can get 300 miles out of it.
+23:31
+Andrew Ippolito: or more. Andrew Ippolito: Okay, and of course cookie monster is the least efficient of these.
+23:39
+Andrew Ippolito: Why. Andrew Ippolito: Because he's a muppet you don't actually eat anything zero.
+23:50
+Andrew Ippolito: All that all that foods going to waste every cookie that that woman's putting in front of him 100% i'm going to waste.
+23:58
+Andrew Ippolito: All right. Andrew Ippolito: Then another reason to think about is that you can't really do anything useful with a large energy reserve.
+24:09
+Andrew Ippolito: Right Imagine going to CVs and all you want is like a bottle of water and a pack of gum.
+24:20
+Andrew Ippolito: It costs, a total of like $4 and 75 cents and you give them $1,000 bill.
+24:27
+Andrew Ippolito: kind of look at you, I can happen, a brick of gold right, you can exchange that.
+24:36
+Andrew Ippolito: yeah. Andrew Ippolito: Would you say. Jordan Russell: This is the cashier probably would have quit right then in there. Andrew Ippolito: right there just like I don't know what to do with this, this is more than I make in a month.
+24:49
+Andrew Ippolito: yeah I mean some people that's that's why we're all going to school right get higher paying salaries.
+24:56
+Andrew Ippolito: So the idea here is glucose itself one molecule of glucose 686 kilocalories think of that like $1,000 bill versus a molecule of ATP seven kilocalories 7.3 okay this becomes this becomes the useful energy exchanger right, it has enough free energy in it to get common tasks done.
+25:19
+Andrew Ippolito: And if you need more of it, you know what you have dollar bills right oh here 123 I need seven ATP to do this process, I need to eat up to that process that's why we use ATP.
+25:31
+Andrew Ippolito: it's the it's an efficiency issue.
+25:39
+Andrew Ippolito: Now the key player for cell respiration we're going to see is the mitochondria so it pays to know a little bit about the mitochondria so go ahead and review your.
+25:52
+Andrew Ippolito: anatomy back from Chapter six that's your self chapter. Andrew Ippolito: In remembering remembering the matrix the space all that remember there's a chromosome in there that's producing its own dedicated rive isms and all that they.
+26:08
+Andrew Ippolito: divide by binary vision, so the idea is is they used to be very long ago free living microbes probiotic cells that are now part of our own metabolism right but profoundly I want to go to the blackboard here for a second if this is your cell.
+26:28
+Andrew Ippolito: This is the mitochondria. Andrew Ippolito: Okay.
+26:33
+Andrew Ippolito: If you remember. Andrew Ippolito: The idea here of endo remember endo symbiotic theory so pre end or somebody theory, we were still living we had cells right and so glad calluses the idea here.
+26:51
+Andrew Ippolito: that's always been happening in the cytoplasm so that's what causes occurs cytoplasm nothing's changed.
+26:58
+Andrew Ippolito: All the fancy stuffs happening in here. Andrew Ippolito: This is where we're going to need the oxygen and so technically your cells are still anaerobic the only place we're going to use oxygen is in the heart of the mitochondria.
+27:15
+Andrew Ippolito: so glad causes turned out to be one of the, if not the most ancient metabolic processes on the planet it's still going on, you know 2.5 billion years later, after it evolved and it's never stopped.
+27:32
+Andrew Ippolito: it's one of the most continuously running metabolic processes on the planet every cell type on earth uses like causes our cans and bacteria and fungus and proteins some plants and animals everybody.
+27:46
+Andrew Ippolito: all walks of life can use like causes. routinely.
+27:54
+Andrew Ippolito: we've already covered the key players of electron carriers we've talked about this before so i'm just going to very briefly review this idea.
+28:01
+Andrew Ippolito: We need a way of taking high energy electrons and physically transporting them into the other parts of the cell and so that's what these dine nucleotides job is unlike plants that use any the p the phosphor latest version of any D.
+28:21
+Andrew Ippolito: The mitochondria and everything else that we're talking about today is just an ad and then we'll see in the Krebs cycle there's F ED.
+28:30
+Andrew Ippolito: i'm really you could just reduce that to fit to you're getting mad in fact nicki.
+28:35
+Andrew Ippolito: done if you're tired. Andrew Ippolito: i'm sorry add any This is one thing I frequently make a mistake about that's added mean it's Nintendo might add any nucleotide not adenosine up, then, if it had.
+28:48
+Andrew Ippolito: The smaller the words. Andrew Ippolito: And this is fleeting admin type.
+28:54
+Andrew Ippolito: So you got Nikitina might have flavin are the two new ones. Andrew Ippolito: But these are at the end of the day, they're just two nucleotides stuck together.
+29:05
+Andrew Ippolito: Okay. Andrew Ippolito: All right now what we're going to do here this i'm going to whiteboard the beginnings of this and then on Wednesday we'll do the PowerPoint for this i'm going to give you an overview here.
+29:21
+Andrew Ippolito: The first let's talk about the goal of it all we're gonna have this red hot molecule glucose 123456 or help us do it linearly let's do this, what is it 123456 there's glucose.
+29:46
+Andrew Ippolito: Three we're going to start with right So where do you come from Member photosynthesis we had two molecules of GDP sticking together and glucose so glucose gets into the cell here's the cell membrane glucose gets into the cell through a transporter.
+30:02
+Andrew Ippolito: it's called the glucose transporter.
+30:08
+Andrew Ippolito: And then ourselves that's mediated by insulin insulin helps glucose get into cells.
+30:17
+Andrew Ippolito: there's also an enzyme produced by our thyroid the rock scene that helps regulate the speed of this, this is what helps keep our basal metabolic rate in sync.
+30:32
+Andrew Ippolito: Right so we're going to take glucose throwing a stick it inside the cell.
+30:46
+Andrew Ippolito: We don't want glucose to leave. Andrew Ippolito: But you know what let's let's stick with the 30,000 foot view first what we're going to do here is we're going to see an enzymatic series of reactions 10 reactions to be precise, that are going to culminate.
+31:04
+Andrew Ippolito: In a splitting of the glucose and basically see the Calvin cycle running and reverse here, if you look at the detail mechanisms of it and we're going to get.
+31:15
+Andrew Ippolito: Three i'm sorry two three carbon molecules that are still pretty high in energy, this is pi Rubik.
+31:28
+Andrew Ippolito: So this is a downhill reaction, this is spontaneous this is extra ganache all that good stuff we talked about base in the basics of metabolism, and in the process here.
+31:40
+Andrew Ippolito: we're gonna see. Andrew Ippolito: we're gonna need to put in to ATP.
+31:48
+Andrew Ippolito: To get the ball rolling. Andrew Ippolito: we're going to get out of it.
+31:53
+Andrew Ippolito: For ATP. Andrew Ippolito: And so we're going to say we net.
+32:00
+Andrew Ippolito: To ATP. Andrew Ippolito: We used to to get for it's a good investment right.
+32:11
+Andrew Ippolito: In addition. Andrew Ippolito: we're going to take here to think of this as an empty electron carrier think of like an empty bucket.
+32:22
+Andrew Ippolito: And we're gonna take two empty buckets.
+32:28
+Andrew Ippolito: And we're gonna fill them filled with energy.
+32:42
+Andrew Ippolito: Oh boy. Andrew Ippolito: let's try this again.
+32:50
+Andrew Ippolito: This bucket of courses and add any D plus. Andrew Ippolito: need each, and the reason why I want to show you that bucket, and the reason why it took so much trouble to draw that.
+33:01
+Andrew Ippolito: I want you to really get the idea that we need that empty bucket to do this reaction if the buckets are full.
+33:11
+Andrew Ippolito: We can't keep going. Andrew Ippolito: So we're gonna have to we're going to see at some point we're gonna have to dump those buckets to come back here to keep this process going.
+33:24
+Andrew Ippolito: That makes sense. Andrew Ippolito: From a conceptual standpoint right so, so this is required.
+33:33
+Andrew Ippolito: In the absence of that we can't do this job. Andrew Ippolito: Okay, we need a place to put the energy if we don't have a place to put the energy we don't do this.
+33:46
+Andrew Ippolito: Okay, so this is like causes. Andrew Ippolito: glycol sugar license break break and sugar.
+33:56
+Andrew Ippolito: that's what I just mapped out in a very simple way that's the concept of glucose that I person the cytoplasm.
+34:03
+Andrew Ippolito: It is an anaerobic and aerobic process, in other words, it does not require.
+34:15
+Andrew Ippolito: oxygen. Andrew Ippolito: This just happens.
+34:21
+Andrew Ippolito: Okay. Andrew Ippolito: And so, by the way, the other two of these and there's two of these for each one molecule of glucose we will produce two molecules of nadh and to net molecule the ATP.
+34:43
+Andrew Ippolito: And so, think of the products now there's three products. Andrew Ippolito: i'll just highlight them, there are the two Pirate Bay don't forget that there's the two pirates there's the to eat CPS there's into an ad age's those are the products of like causes.
+34:59
+Andrew Ippolito: And yes, there's some water in there don't worry about the water. Andrew Ippolito: Water just gets made everywhere.
+35:11
+Andrew Ippolito: Okay, so with me still making sense. Alexa Deprisco: I have a question. Alexa Deprisco: Good are you talking like I guess just generally like an ad plus is going in and then any ad age is going out, or is there, like a I guess a specific step in which.
+35:29
+Andrew Ippolito: Oh yeah yeah there's definitely two specific steps that. Andrew Ippolito: happens it actually if you look. Andrew Ippolito: At sellers photosynthesis Calvin cycle, where we made the nav i'm sorry what remember we use the nadh to make teeth up it's the same chemical reactions in reverse.
+35:44
+Andrew Ippolito: Those are the two same two steps. Andrew Ippolito: Alright, so ready i'm going to now redo this in a summary summarized way here let's try this again here so 123456 glucose.
+36:01
+Andrew Ippolito: All right, here we go there's So the first few chemical reactions, we collectively call the energy.
+36:09
+Andrew Ippolito: Investment phase. Andrew Ippolito: or just energy investment right so that that would be phase one of like causes, it is a series of three chemical reactions that you don't have to know the details of.
+36:25
+Okay. Andrew Ippolito: And again don't worry about the names of the intermediates right now.
+36:32
+Andrew Ippolito: that's phase one and so that's going to use up. Andrew Ippolito: To ATP.
+36:40
+Andrew Ippolito: So we're spending money right now. Andrew Ippolito: Alright, so there's glucose don't worry about the name.
+36:53
+Andrew Ippolito: The second they know what i'm drawing this i'll tell you what and i'm my apologies, I want to make this clear, I want to make this as clear as possible, I didn't make any there's no mistakes there but i'm going to do this i'm going to exaggerate that first arrow before we break anything.
+37:11
+Andrew Ippolito: 123456 so think of it here, here are some phosphates.
+37:19
+Andrew Ippolito: And then so let's step one that's the phase one three reactions or, then the second step is what we call the cleavage fields that's where we break it in half.
+37:35
+lefton twine.
+37:40
+Andrew Ippolito: And of course there's some phosphates here.
+37:50
+Andrew Ippolito: And then the third step is the payoff. Andrew Ippolito: We call this the energy.
+37:57
+Andrew Ippolito: Different books called different things let's call it the energy liberation fees.
+38:04
+Andrew Ippolito: And what we're going to do here. Andrew Ippolito: And another series of I think those are three reactions, this is when we're going to take our nav.
+38:14
+Andrew Ippolito: there's two of them. Andrew Ippolito: are going to pick up that energy here.
+38:21
+Andrew Ippolito: we're also going to make ATP in a way we've never made it before the last time you've seen making ATP we used a proton gradient and ATP synthesis and cranked it out.
+38:31
+Andrew Ippolito: What we're going to do here is we're going to use this molecules of substrate phosphorylation so this called substrate level phosphorylation we're going to take a dp.
+38:41
+Andrew Ippolito: and make ATP and we're going to make four of those in this process here. Andrew Ippolito: Rather than you some in organophosphates but we're going to basically rip those phosphates off.
+38:51
+Andrew Ippolito: So that's a source of phosphate until we call this substrate.
+38:57
+Andrew Ippolito: level. Andrew Ippolito: Fast for relation Okay, so this is a unique way to make ATP that you haven't seen yet through for metabolic pathway basically instead of a proton gradient.
+39:12
+Andrew Ippolito: Again we call number the file acquired we fill up the protons and then we have the ATP synthesis and these flow downhill, and we make ATP this is different than that.
+39:22
+Andrew Ippolito: That was the only way you've made up before we're not doing it that way we're doing instead using enzymes and substitutes so it's called substrate level phosphorylation.
+39:32
+Andrew Ippolito: And we don't make that much of it we're just making we're making, for we use to so we we say we net to right we used to in the first phase above we made for for a total of two.
+39:50
+Andrew Ippolito: Okay, and so the final product here of the energy liberation phase. Andrew Ippolito: muscle tension penultimate product is P P you've seen that before remember see for plans and then, finally, we make that last phosphorylation event and we get pirate.
+40:11
+Andrew Ippolito: You can also call that pie Rubik acid it's it's in solution it's an acid so it'll dissociate.
+40:21
+Andrew Ippolito: pizza let's click causes that all occurs in the cytoplasm. Andrew Ippolito: Right so to start again to summarize the products there you got your two pyro visits your net to https and your to an ad.
+40:41
+Alexa Deprisco: Excuse me you're excused. Andrew Ippolito: What was your question. Alexa Deprisco: Okay, so look for ATP that our input and then they're related to ATP so the energy that is needed to do that is that coupled when the na de turns in na de you.
+40:58
+Andrew Ippolito: know the energy. Andrew Ippolito: To create the CPS. Andrew Ippolito: comes from the free energy within the GDP molecule itself and the BP G so there's.
+41:10
+Andrew Ippolito: You have. Andrew Ippolito: And then you have be P G that's bisphosphonate glossary and then you have the fast food goes around behind or the three PG.
+41:22
+Andrew Ippolito: Right, so that the energy, those are high energy to low energy molecules so we're giving up each one of those conversions as an extra ganache reaction and we capture some of that energy in the ATP.
+41:34
+Alexa Deprisco: So and i'm. Alexa Deprisco: So again, so I was gonna say so, like that's all happening like that breakdown is happening it's releasing energy, which is like forcing the phosphorylation.
+41:44
+Andrew Ippolito: yeah you got it. Andrew Ippolito: yeah so there's enzymes, the enzymes take that free energy and staple the phosphate group on to the dp you've got it.
+41:57
+Andrew Ippolito: And again, all of this is happening in the absence of oxygen.
+42:02
+Andrew Ippolito: Any other questions.
+42:09
+Andrew Ippolito: Okay. let's. Andrew Ippolito: Now look so i'm going to just summarize that again i'm just going to doodle the the carbons oh and go to the next step here 123456123123 art So here we are in the cytoplasm now over here there's a mitochondrial membrane.
+42:40
+Andrew Ippolito: And here's the inner membrane and the outer membrane.
+42:48
+Andrew Ippolito: let's think about oxygen Now this is where we we fork into two parallel universes here we're either going to do something without oxygen when you do something without oxygen.
+42:59
+Andrew Ippolito: Okay, in the presence of oxygen plus two.
+43:04
+Andrew Ippolito: we're going to see the pirates. Andrew Ippolito: Get pumped.
+43:11
+Andrew Ippolito: into the mitochondrial matrix.
+43:22
+Andrew Ippolito: In the presence of oxygen.
+43:30
+Andrew Ippolito: we're also going to see you remember the ncd page that we made.
+43:35
+Andrew Ippolito: i'm sorry any do. Andrew Ippolito: The two of them again and the presence of oxygen we're gonna see don't worry about any of the details here, this is going to come into the matrix now because that's where we're going to use it later.
+43:50
+Andrew Ippolito: And it and it has two possible feats either when everything is said and done, it remains as nadh.
+44:01
+Andrew Ippolito: or. Andrew Ippolito: In some. Andrew Ippolito: overly complicated process we're not going to learn about it ends up as F ED.
+44:14
+Andrew Ippolito: So the electrons find themselves in the matrix one way or another, from the cytoplasm they're useless Alma cytoplasm there's nothing we can do with them in the cytoplasm useful because we're going to see.
+44:26
+Andrew Ippolito: I want you to recall now in this way I teach photosynthesis First I want you to think of photo system to grabbing the sunlight.
+44:32
+Andrew Ippolito: pumping that electrons full of energy and then handing those energies off or handing those electrodes off to the electron transport chain right high energy electrons being handed to achieve.
+44:43
+Andrew Ippolito: These things do the same thing that the photo system does it hands those high energy love to change.
+44:50
+Andrew Ippolito: Okay, and so that changes in the matrix but it's really it's it's in the Christine membrane here.
+44:57
+Andrew Ippolito: But we're not we're not focusing on that detail just yet, I just want you to show in your notes and in your brains right now we're going to put those things to work, the only place, they can go to useful work is here in the matrix and you can only get there in the presence of oxygen.
+45:16
+Andrew Ippolito: In the absence of oxygen. Andrew Ippolito: In instead, what happens is we're just going to dump that energy we're going to waste it by dumping it into magically of course onto this movie.
+45:30
+Andrew Ippolito: So that we can regenerate. Andrew Ippolito: That any D.
+45:38
+Andrew Ippolito: that's what fermentation is. Andrew Ippolito: So fermentation think of fermentation as an extension of glide calluses that only occurs in the absence of oxygen and its goal is to regenerate that free any D, so that I can keep like calls is going in empties the bucket.
+46:09
+Andrew Ippolito: And the products of that depend on say products.
+46:14
+Andrew Ippolito: depend. Andrew Ippolito: On.
+46:20
+Andrew Ippolito: The genetics. Andrew Ippolito: depends on which enzymes are present so we're going to learn about lactic acid fermentation or ethanol fermentation you don't have to know the details just yet.
+46:33
+Andrew Ippolito: Not all happens in the absence of oxygen. Andrew Ippolito: And again there's no new energy formed there's no more efficiencies there's no additionally tps all it does is it frees up that nadh to go and continue the work of like cutlasses.
+46:51
+Andrew Ippolito: So that's a sustainable cycle. Andrew Ippolito: So, in other words that any dh is wasted.
+46:59
+Andrew Ippolito: it's a waste of energy. Andrew Ippolito: it's a chicken wing with one bite taken out of it that you're throwing away.
+47:07
+Andrew Ippolito: it's horribly inefficient fermentation is is an inefficient process but it keeps the cell a lot.
+47:20
+Andrew Ippolito: Now let's pick up that story with the presence of oxygen let's go into the mitochondria here. Andrew Ippolito: The first thing we're going to do to these three carbon molecules is we're going to get them ready for their final death and the Krebs cycle i'm going to prep them this is literally called the preparatory reaction.
+47:45
+Andrew Ippolito: Your book does not list this as a formal step in the process, I do in my notes in my lectures my powerpoints this is formally my step two.
+47:54
+Andrew Ippolito: But it's just a single but it's a simple enough thing where your book just kind of sees it as a middle layer between glycol assists and the Krebs cycle.
+48:06
+Andrew Ippolito: that's semantics, you have to worry about it, the thing here is we're going to oxidize this pirate movie.
+48:14
+Andrew Ippolito: So you can also think of this step as pie rouvier veit oxidation.
+48:26
+Andrew Ippolito: And the enzymes name appropriately is called pi Ruby.
+48:33
+Andrew Ippolito: dehydrogenase.
+48:39
+Andrew Ippolito: Your book teaches you this and i'll say it out loud now a dehydrogenase enzyme is an enzyme that oxidizes things.
+48:48
+Andrew Ippolito: So whenever you see the word dehydrogenase you're thinking redux.
+48:54
+Andrew Ippolito: And what we're gonna do is we're going to pop off one of those carbons So here we have a two carbon molecule now and a free carbon and that free carbon that's carbon dioxide.
+49:07
+Andrew Ippolito: And, of course, this happens twice right, we have to have these molecules.
+49:15
+Andrew Ippolito: And these are a gas. Andrew Ippolito: And these diffuse.
+49:22
+Andrew Ippolito: away and we breathe them out that's the carbon dioxide you're exhaling right now, this is one of the places we generate the carbon dioxide.
+49:32
+Andrew Ippolito: And I want you to consider the carbon accounting Now we have this initial six carbon molecule that broke down into two three carbon molecules and now we have liberated, to have the original six, we still have four of the original six to deal with.
+49:57
+Andrew Ippolito: These turn out to be that's that's vinegar that's acidic acid.
+50:04
+Andrew Ippolito: And, of course, if that's that's not the end of the story with these we're going to take those those are now the chicken bone with the bone marrow trapped inside this is the last vestiges of energy we're going to grab.
+50:18
+Andrew Ippolito: And so what we're gonna do is we're going to attach these molecules to a Co enzyme with the most boring name on the planet.
+50:26
+Andrew Ippolito: it's called co enzyme a. Andrew Ippolito: that's co a, and so this collectively this molecule here with an acidic acid attached to a Co enzyme that acidic gas that is now technically a functional group, and so we can call this.
+50:43
+Andrew Ippolito: A seagull co a. Andrew Ippolito: mouse with this molecule is.
+50:49
+Andrew Ippolito: So we make tool molecules of a pseudo code here to pirates came in.
+50:57
+Andrew Ippolito: To acetylcholine leave. Andrew Ippolito: And in the liberation of that energy that dehydrogenase is able to manufacture for each one of those a total of two nadh.
+51:16
+Andrew Ippolito: So we're trapped more of the energy of glucose now.
+51:22
+Andrew Ippolito: Right, so the product, here we got to any ditches.
+51:27
+Andrew Ippolito: We got to a seagull co a's and to carbon dioxide's what came in, or the two pirates.
+51:38
+Andrew Ippolito: Okay, so this three molecule this three carbon molecule has a carbon popped off and in that process releases energy and that energy is put into an eth molecule.
+51:52
+Andrew Ippolito: and the resulting product of that is stapled to a Co enzyme.
+52:00
+Andrew Ippolito: questions. Andrew Ippolito: Go ahead alexa. Alexa Deprisco: Where did the na de plus come from and where did like the electrons that reduced it come from.
+52:11
+Andrew Ippolito: Okay, so the any so. Andrew Ippolito: Any D plus is everywhere in the cell there's not a lot of it it's an expensive molecule, but I want you to think of it as just floating around.
+52:21
+Andrew Ippolito: That that's a great question because that that's something, most of us don't really think about where all these things coming from you can think of the cell is filled with this very rich very lush thing called the metabolic pool.
+52:36
+Andrew Ippolito: there's all these metabolites floating around and end as a metabolite and it's it's a rare one though it's kind of like you're rummaging through your Lego been looking for the one cool piece that takes forever to find.
+52:49
+Andrew Ippolito: Okay that's why out in the cytoplasm we needed fermentation there's not a lot of this stuff.
+52:56
+Okay. Andrew Ippolito: Oh that's a great question Tyler how fast these processes occur billions of times a second.
+53:05
+Andrew Ippolito: crazy fast. Andrew Ippolito: so fast that it, I mean yeah things happen at the molecular level that we would have to slow things down we couldn't film this let's put it that way, instead, what we do to study these things is we use.
+53:24
+Andrew Ippolito: Lots of it that's one way to do it, and then we can also inhibit processes and then watch what builds up as a result of the inhibition.
+53:34
+Andrew Ippolito: yeah so we're we're we're coming to the table here after decades of other people doing all this work to Paul this apart this this was insanely complicated to figure out right so yeah it's happening by Ruby dehydrogenase enzyme can process millions of molecules a second.
+53:52
+Andrew Ippolito: it's actually really if you look at the PowerPoint there's this amazing picture of it it's a it's a sphere, within a sphere.
+53:59
+Andrew Ippolito: That rotates inside. Andrew Ippolito: And so you can think of. Andrew Ippolito: Think of a whole bunch of like a swarm of bees coming in on one side and leaving, on the other side is co it just all at once.
+54:13
+Andrew Ippolito: Sorry, more questions oh so we alexa the second part of your question, where the electrons coming from Paraguay.
+54:21
+Andrew Ippolito: Right we're ripping it apart so we're taking a pair of electrons from Nairobi and depositing them in nadh and so we're breaking a bond and i'm the carbon dioxide gets liberated, and we still have that to carbon a seal group.
+54:34
+Andrew Ippolito: Right, so the electrons are being ripped out of here.
+54:42
+Andrew Ippolito: Breaking some right, these are high energy bots right piru it's a high energy molecules so the high energy electrons are going to take the high energy pair of electrons and stick it into an ad.
+54:51
+Andrew Ippolito: i'm gonna grab a proton from the environment and create a bond. Andrew Ippolito: you're still confused.
+55:00
+Andrew Ippolito: Go ahead pass your follow up question. Alexa Deprisco: So it's broken into like four things i'm because, like a CO2 to have it's going to see you a and then to have it's going to the nh T plus.
+55:15
+Alexa Deprisco: let's. Andrew Ippolito: see this movie.
+55:21
+Andrew Ippolito: Better, so we need Kobe here, and then we need an ad.
+55:31
+Andrew Ippolito: that's your you there. Andrew Ippolito: I think that's everything.
+55:36
+Andrew Ippolito: Here I have a slide on this.
+55:43
+Andrew Ippolito: Here we go. Andrew Ippolito: here's here is the pirate oxidation so you start out with a three car molecule you pop off one of the carbons right and your deposit that energy into the nav plus to make the beach, and you bring coins ma in here, and you attach the remaining bits of the molecule to it.
+56:04
+Andrew Ippolito: Right so think of this pair of energy high energy electrons is being deposited here.
+56:12
+Andrew Ippolito: And the remaining bit here finds its way onto Kelly.
+56:23
+Andrew Ippolito: Okay. Andrew Ippolito: And so you know there's an enzyme that's mediation all this.
+56:41
+Andrew Ippolito: That makes sense. Andrew Ippolito: yeah Okay, and again we're because we're simplifying things we're not looking at the detailed mechanisms they're still going to be some unaccounted for things like where are the other electrons come from this let's not worry about that.
+56:58
+Andrew Ippolito: Okay, for everybody, the key to this is, we now have some useful energy deposited into this bucket.
+57:07
+Andrew Ippolito: And we still have this relatively high energy molecule acetylcholine that we can continue to mine for energy.
+57:20
+Andrew Ippolito: Okay, and that carbon dioxide is a guessing that is a byproduct, this is a waste product, and it goes away it diffusers downhill out of the cell small uncharged.
+57:35
+Andrew Ippolito: All right. Andrew Ippolito: it's 1215 or 10 minutes to get to the end of this, I want to do it, I wanted to do this, one pass.
+57:43
+Andrew Ippolito: So let's go back here and again we are in the mitochondrial matrix and we have just made in a co co a.
+57:53
+Andrew Ippolito: Some sad. Andrew Ippolito: What we're gonna do is we're going to take that a cto co a we're going to transport it here to the Krebs cycle.
+58:02
+Andrew Ippolito: So now i'm going to give you the simple version of the Krebs cycle, this is probably one of the most famous things that all students have to deal with one time or another in their biology career the Krebs cycle.
+58:16
+Andrew Ippolito: i'll give it to you in the simplest way I can to start with. Andrew Ippolito: So it's a cycle, like the Calvin cycle we're gonna end where we started we're going to start where we end right.
+58:27
+Andrew Ippolito: We start with this relatively high energy pair of carbons right covertly linked that's your seal group of the co a.
+58:36
+Andrew Ippolito: it's bound to Kobe here so there's your acetylcholine.
+58:47
+Andrew Ippolito: And and let's draw this is a blue, so this is a cold molecule one oops to choose 1234 let me think for a minute, for that is our old friend mal eight.
+59:06
+Andrew Ippolito: Number from the sea for plants. Andrew Ippolito: Know we're going to do a mallet, though, and I here i'm gonna give you i'm going to put him a little down here i'm going to give you the end story here the very last reaction here the 10th reaction is to take malley 1234 and oxidize it.
+59:23
+Andrew Ippolito: So that we can have this name here ready ox low oxalic awake say hello Alex Hello acetate.
+59:35
+Andrew Ippolito: acetate is the oxidized form of molly molly is the reduced form of bucks Lol.
+59:42
+Andrew Ippolito: And that's the very last step of the Krebs cycle. Andrew Ippolito: we're not talking about products at all when I feel like there's an any beach there we're not going to worry about any of that.
+59:51
+Andrew Ippolito: Because here's what we're going to do here's the first part of the Krebs cycle we're going to take this for carbon molecule and this to carbon molecule and we're going to staple them together.
+1:00:03
+Andrew Ippolito: In the very first step and we're going to get let's make it orange it's hot but not super hot 123456 so, in other words the super hot molecule touch as a cold molecule and evenly distribute the heat throughout and you get this water molecule that's citric acid or citrate.
+1:00:27
+Andrew Ippolito: The eponymous citrate the citric acid cycle.
+1:00:34
+Andrew Ippolito: Great like piru beat and I Rubik acid citrate citric acid.
+1:00:42
+Andrew Ippolito: And then in a series of again it's another 10 chemical reactions we're not going to do the details i'm just going to summarize this ready we're going to go through i'm just going to doodle some circles, or some some arrows like this.
+1:00:57
+Andrew Ippolito: And I just want to get back here. Andrew Ippolito: And in that process we're going to degrade this six carbon molecule to a 12345 carbon molecule plus a cold carbon dioxide.
+1:01:20
+Andrew Ippolito: And we're going to do that a second time. Andrew Ippolito: 12345 pop up and other CO2.
+1:01:30
+Andrew Ippolito: So there it is those are the original two carbons that came in, are now liberated as carbon dioxide So those are the last vestiges of the original glucose.
+1:01:41
+Andrew Ippolito: And now we have this relatively warm for carbon molecule we're going to further oxidized down to maui.
+1:01:51
+Andrew Ippolito: So we go from a six to a five to a four i've made that a five, this is a 41234 and we're going to take that warm for mount carbon molecule to a cold for carbon molecule.
+1:02:11
+Andrew Ippolito: So now let's talk about you know we're getting energy out of this right, so where's the energy we're going to get out of this a summary we're going to get.
+1:02:21
+Andrew Ippolito: A total out of all this, of three nadh is.
+1:02:29
+Andrew Ippolito: one. Andrew Ippolito: F EE D H two. And one ATP.
+1:02:40
+Andrew Ippolito: In various exit points that we don't have to worry about right now.
+1:02:46
+Andrew Ippolito: that's the summary of what comes out. Andrew Ippolito: And of course the byproducts of to carbon dioxide.
+1:02:52
+Andrew Ippolito: So this this mapping here, this is her acetylcholine.
+1:03:01
+Andrew Ippolito: But remember, there are two a cto co is per original glucose molecule.
+1:03:08
+Andrew Ippolito: So the Krebs cycle runs twice per glucose molecule just like everything else has been happening twice, and so the the accounting for a single glucose molecule one.
+1:03:23
+Andrew Ippolito: glucose molecule yields, a total of six just doubling all that six nadh to.
+1:03:33
+Andrew Ippolito: add two. Andrew Ippolito: To ATP. Andrew Ippolito: And then of course the for CO2.
+1:03:42
+Andrew Ippolito: And that for CO2 should make sense, because that's the original form carbons that came in.
+1:03:50
+Andrew Ippolito: So one thing you should do and you're studying of this is trace the feet of the carbons Where do they get lost you six come in and six have to leave.
+1:04:01
+Andrew Ippolito: you'll see that two of them get lost during the Peruvian oxidation step and the remaining four get lost in the Krebs cycle.
+1:04:13
+Andrew Ippolito: Okay. Andrew Ippolito: And then bear with me here's the last the swan song of the entire process we have four minutes left i'm just going to give you the summary of what happens after all this, this is the end game.
+1:04:28
+Andrew Ippolito: right if you ever watched your vendors end game after Tony stark dies there's still story that happens, nobody cares about it because Tony stark's to it.
+1:04:37
+Andrew Ippolito: Right so. Andrew Ippolito: Would you say. Jordan Russell: I said I beg to differ.
+1:04:43
+Andrew Ippolito: yeah so there's all the stuff that happens after glucose as long dead.
+1:04:50
+Andrew Ippolito: So let's think about it, we have number glycol says we made we had those two nadh is right and let's say that or there to F ED teachers.
+1:05:01
+Andrew Ippolito: And then in Peruvian oxidation we made to any ditches.
+1:05:07
+Andrew Ippolito: And then the Krebs cycle, we made six nadh is and to F ED tues.
+1:05:17
+Andrew Ippolito: Right, so what I just track there was all those electron carriers forget the tps we made some ATP to but we're just focusing on these electronic characters.
+1:05:25
+Andrew Ippolito: Because here, here we have all these filled energy buckets with nothing to do with them yet.
+1:05:32
+Andrew Ippolito: Right, so this right here, this is where we've trapped, the vast majority of the glucose is free energy, and so we got to do something with it.
+1:05:43
+Andrew Ippolito: And so the very last thing we're gonna do is we're going to take these super duper high energy electron carriers we're gonna dump them into an electron transport chain.
+1:05:52
+Andrew Ippolito: So ready here's the outer mitochondrial membrane. Andrew Ippolito: And here are the Chris day.
+1:06:01
+Andrew Ippolito: Okay, and I want to draw the Christie simply like this right now just just for this diagram here.
+1:06:08
+Andrew Ippolito: And what i'm gonna do is i'm going to show you there are, let me draw this really thick.
+1:06:15
+Andrew Ippolito: 1234 and their Roman numerals 1234, this is the electron transport chain in the mitochondrial inner membrane This is where your side of chrome's our side of whimsy and all that stuff.
+1:06:36
+Andrew Ippolito: This isn't an electron transport chain, this is a proton pump. Andrew Ippolito: And what we're gonna do is we're gonna pump protons from the matrix.
+1:06:47
+Andrew Ippolito: into what we call there's different names for this place, this is usually called the lumen of the mitochondria you can also call this the inner membrane space.
+1:07:00
+Andrew Ippolito: And we're going to fill it with protons, just like the thigh liquid space we're going to increase the concentration and protons and we're building a gradient.
+1:07:10
+Andrew Ippolito: Just like the photo systems did except instead of a photo system and sunlight donating high energy electrons we're going to take this nadh and we're going to hand those high energy electrons off.
+1:07:24
+Andrew Ippolito: To system one over here. Andrew Ippolito: And then system to is going to steal them that system three is going to steal them that system for is going to steal them at the end of it all is is greedy little gollum creature call oxygen.
+1:07:37
+Andrew Ippolito: that's going to steal the electrons, and this is the whole point of breathing.
+1:07:42
+Andrew Ippolito: right here this oxygen and these electrons Jenner and the protons everywhere generate water.
+1:07:52
+Andrew Ippolito: And so we see here that oxygen is the final. Andrew Ippolito: electron acceptor, this is what makes us Arabs that's what makes this aerobic cellular respiration this chain is sometimes referred to as a respiratory chain.
+1:08:12
+Andrew Ippolito: Now, did you see how nadh hands us electrons to number one. Andrew Ippolito: Well here's what led to think of F ED to as an ED his little brother he wants to emulate everything nadh does but he's not as strong and so he's going to donate his electrons to, but he can't get them up to one, so he has them to to instead.
+1:08:38
+Andrew Ippolito: Okay, and then here's the final payoff and here's where we'll end today somewhere else on that membrane is are familiar ATP synthesis.
+1:08:51
+Andrew Ippolito: And, just like the one that happens in the mitochondria i'm sorry in the earth and the liquid membrane.
+1:09:03
+Andrew Ippolito: This is also going to generate ATP in exactly the same way, we learned last time.
+1:09:09
+Andrew Ippolito: right but here's what i'm going to be able to do for you, we can actually account for how many ATP we make per nadh, and this is where we do with think of it like a currency exchange like how many euros can I make with $1 that kind of idea, so how many https Can I make with an STD.
+1:09:30
+Andrew Ippolito: So nadh is handing its electrons off to the pump the pump pumping protons and then ATP synthesis using that proton pump energy using the proton gradient.
+1:09:42
+Andrew Ippolito: To make some ATP and so very one nadh you can convert that to 2.5 https.
+1:09:51
+Andrew Ippolito: For every one FA da H two. Andrew Ippolito: You can generate 1.5 at peace.
+1:10:04
+Andrew Ippolito: These are averages that's why they're decimals.
+1:10:17
+Andrew Ippolito: And so, because there's one or two, I want to cut this short i'm going to just tell you this right now, when you add everything up you get about 30 ATP generated her molecule or mall let's say of glucose.
+1:10:38
+Andrew Ippolito: molecule molecules not mo. Andrew Ippolito: per molecule glucose.
+1:10:45
+Andrew Ippolito: And the reason why we can't be more specific.
+1:10:50
+Andrew Ippolito: there's two reasons that we'll get to later. Andrew Ippolito: On Wednesday, but i'll tell you quickly now but it doesn't make sense will explain them are later, the first is is the.
+1:10:59
+Andrew Ippolito: In any dh is from like calluses remember, they can come in as either any D or F ED so there's the variability there.
+1:11:07
+Andrew Ippolito: If they come in as any DHS there's two of them that gives you five ATP right 2.5 times two or is that they come in as a PDF tues that's only three ATP.
+1:11:17
+Andrew Ippolito: Does a difference, too, so there's the variability of to https depending on what's going on what the cause was any deal and then the second is the fact that pi Ruby needs to get pumped into the matrix, if you remember.
+1:11:31
+Andrew Ippolito: The reason. Andrew Ippolito: Or rather, the mechanism of that pumping is driven by protons so this proton concentration that we're building up actually does at least two jobs for our purposes make ATP and also pump Peruvian across the memory.
+1:11:52
+Andrew Ippolito: And that pumping is variable there's not a precise amount of ATP so.
+1:12:00
+Andrew Ippolito: it's about 30 at the end of the day, that's the best, most accurate thing we can say.
+1:12:07
+Andrew Ippolito: which turns out to be about 29% of the original 686 kilocalories when you do the math there if you do 30 ATP time 7.3 kilocalories per mole.
+1:12:22
+Andrew Ippolito: And you get that answer, and you divide 686 by that answer because that's the total amount of energy and a glucose molecule you get about 30% or so of the original energy out so here's my question to you, and this is mobile and today where's the other 70%.
+1:12:46
+Andrew Ippolito: What do you think. Andrew Ippolito: By stick a thermometer in your mouth.
+1:12:54
+Andrew Ippolito: And we read that after a couple minutes.
+1:13:00
+Andrew Ippolito: 70% is wasted as heat.
+1:13:05
+Andrew Ippolito: You give off the amount of heat that is equivalent to a 60 Watt tungsten light bulb.
+1:13:12
+Andrew Ippolito: that's why, when there's a bunch of people in a room it gets hot.
+1:13:18
+Andrew Ippolito: Imagine walking into a room with 2020 lamps all the traditional 60 Watt tungsten lamp light bulbs, without any other hoods on them they're just burning hot up oh that's a hot room that's about as how it is when you walk into a room with 25 people without certification.
+1:13:39
+Andrew Ippolito: So that's that's chapter nine in a nutshell. Andrew Ippolito: We have a whole nother day to do this.
+1:13:48
+Andrew Ippolito: Okay, so on Wednesday we'll go through the slides this time and i'll give you, you know the the more but more finesse and more detail.
+1:13:57
+Andrew Ippolito: And, and then time permitting we'll do a little mini review session connecting the photosynthesis to this, and so come on Wednesday, armed with some review questions to on everything from the membrane chapter and the thermodynamic stuff and photosynthesis right.
+1:14:19
+Andrew Ippolito: And then, on Friday, we will have our test our second test.
+1:14:24
+Andrew Ippolito: Please don't cram for this this this, this is the stuff you this is you can't cram for this.
+1:14:31
+Andrew Ippolito: You really I mean i'm sure you can it's just I would not recommend it you do a little bit of work at this point do a bunch of work every day.
+1:14:42
+Andrew Ippolito: For this stuff. If you can.
+1:14:49
+Andrew Ippolito: Never we get just one day, but all we're saying is I, but I want the fire under your feet right now for Friday don't delay this until Wednesday, Thursday you're going to have a panic attack.
+1:15:00
+Andrew Ippolito: Okay, all right i'll stop the recording.
+1:15:07
+Andrew Ippolito: I have a question. Andrew Ippolito: Oh yeah i'll keep the recording then let's hear your question. Alexis Micewski: If we have a quiz Wednesday will it be on both photosynthesis and cellular respiration.
+1:15:16
+Alexis Micewski: Yes, okay. Good question.
+1:15:22
+Andrew Ippolito: Any other questions. Andrew Ippolito: All right, I will stop.
+1:15:30
+Andrew Ippolito: The recording.

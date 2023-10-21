@@ -1,0 +1,1168 @@
+0:01
+Andrew Ippolito: This is the lecture on Chapter eight, this is Chapter eight on energy and enzymes right energy metabolism, you can see why you could replace enzyme and metabolism, because our metabolism is just a series of.
+0:15
+Julia Lakchin: chemical reactions mediated by enzymes are we supposed to be looking at the PowerPoint yes, and if you're not that's because i'm not sharing the screen properly.
+0:25
+Julia Lakchin: Which i'm going to do right now there you go. Okay.
+0:30
+Andrew Ippolito: Energy metabolism. Good stuff.
+0:38
+Andrew Ippolito: So i'm going to start with a joke set the mood here so. Andrew Ippolito: there's Joe he's in hell, welcome to hell name, please Joe well Joe there are seven layers of hell, since you're only sin was cheating on a science test in third grade, that means you go to the first level.
+0:57
+Andrew Ippolito: Well, I guess, it could be worse that's the hottest level because he rises, you know that if you study for your test Joe.
+1:12
+Andrew Ippolito: Cyanide didn't happiness, is one of the best web comics. Andrew Ippolito: All right.
+1:23
+Andrew Ippolito: Remember that energy is all about work right moving things.
+1:29
+Andrew Ippolito: and Andrew Ippolito: What we do right we eat our food, food has both the energy of life and the material to build stuff right.
+1:45
+Andrew Ippolito: So we're going to take some generic high energy molecule that we eat.
+1:51
+Andrew Ippolito: And we're gonna watch it fall down hill. Andrew Ippolito: Through some chemical reaction that shuffles the carbons and hydrogen and oxygen and nitrogen is around until we get these lower energy molecules.
+2:10
+Andrew Ippolito: So well think of this as a breakdown reaction. Andrew Ippolito: The key is it's giving off energy.
+2:20
+Andrew Ippolito: We could call this a hydrostatic reaction, most of these kinds of reactions in our metabolism or hydraulic there hydrolysis re.
+2:30
+Andrew Ippolito: engineer don't worry about it, I just saw your text about your camera no worries.
+2:36
+Andrew Ippolito: we're going to please cut a Bach kind of Bach reactions, the breakdown.
+2:42
+Andrew Ippolito: And here's a new word for you extra.
+2:50
+Andrew Ippolito: Okay, for those of you who took a little bit of chemistry before you might have seen the word excellent ceramic.
+2:56
+Andrew Ippolito: i'm going to teach you the difference here OK, so the difference well so what's the shorter the long is XO thermal just says, giving off energy.
+3:06
+Andrew Ippolito: Right your child like view of energy from a kid kinetic potential something you've had in your head for a very long time.
+3:16
+Andrew Ippolito: What I want you to start to do now is look at energy in a new way they say the College level version of it you're going to cut energy into two parts, now.
+3:29
+Andrew Ippolito: As useful energy. Andrew Ippolito: or usable energy and unusable energy useless energy I like to call it.
+3:38
+Andrew Ippolito: Right, for example, right now in your room where you're sitting whether you're hot or cold, the air around you with some temperature.
+3:46
+Andrew Ippolito: So you, you could very accurately see that the air around you has some energy to it.
+3:52
+but can you do anything with that energy. Know it's useless.
+4:01
+Andrew Ippolito: Whereas the battery is in your cell phone.
+4:06
+Andrew Ippolito: that's totally usable right you use that to drive your phone to do all sorts of the wizard species stuff ourselves can their phones can do now.
+4:15
+Andrew Ippolito: So extra ganache means the reaction gives off useful energy.
+4:23
+Andrew Ippolito: Whereas XO thermal just means it gives off energy.
+4:29
+Andrew Ippolito: It could be useful or not useful and so now, you can understand the concept of info P, which i'll come a little while later from now well in therapy is is the total amount of energy system as.
+4:45
+Andrew Ippolito: They call that the heat of the system, but really it includes the useful energy and they're not useful energy.
+4:52
+Andrew Ippolito: And we'll build our way there today as we get there for now let's keep it simple here right, so this side of the slide here, this is your this is Chapter eight i'm sorry this is chapter nine, this is cell respiration as we'll get to it later okay.
+5:09
+Andrew Ippolito: We can describe this reaction is a spontaneous. Andrew Ippolito: spontaneous chemical reaction is a reaction that will go to completion, without the input of external energy.
+5:23
+Andrew Ippolito: Okay, it doesn't mean it happens fast spontaneous doesn't mean fast it just means downhill.
+5:33
+Okay. Andrew Ippolito: And now we're gonna start to introduce this concept called cubes free energy gibbs.
+5:43
+Andrew Ippolito: Free. Energy. Andrew Ippolito: And i'll teach you more, I have a whole slide on this later for now we'll just we'll just say that gives free energy.
+5:54
+Andrew Ippolito: We can describe in this kind of downhill reaction, the system is losing it and so it's a negative number, because the system is losing it.
+6:04
+Andrew Ippolito: And that little triangle. Andrew Ippolito: There that's Delta, that means change.
+6:09
+Andrew Ippolito: Right you remember you guys remember this from your basic geometry classes change my change in next it's that triangle again Okay, but now we're changing g.
+6:20
+Andrew Ippolito: OK so G is gives free energy. Andrew Ippolito: we're changing it.
+6:26
+Andrew Ippolito: And in this case we're making it lower so it's negative.
+6:31
+Andrew Ippolito: Okay, so you can think of this really you can think of this thing as the system.
+6:39
+Andrew Ippolito: And that's state, one of the system, as the initial state of the system.
+6:46
+Andrew Ippolito: And then, this is the same system. and Steve to.
+6:53
+Andrew Ippolito: And you would say that state to is in a state of lower energy.
+6:59
+Andrew Ippolito: And so, when we go from a state of higher energy to lower energy we've lost some energy Okay, so this delta G stuff.
+7:10
+Andrew Ippolito: The negative or the positive sign is driven by the state of the system, as opposed to its environment, and this is the most common source of confusion you'll run into as you think about this stuff Okay, the environment is gaining the energy.
+7:28
+Andrew Ippolito: So from the environments perspective, it has gained some free energy.
+7:34
+Andrew Ippolito: Right so so it's important to understand that when we talk about G, when we talk about the change in G we're talking about it with respect to the system, not the environment.
+7:48
+Andrew Ippolito: Okay, all right. Andrew Ippolito: On the other side of the equation here, on the other side of the slide we're going to start with some low energy molecules and they're different colors to signify, these are not necessarily the same exact molecules on the left hand side.
+8:07
+Andrew Ippolito: we're going to go up Hill and you can kind of feel that we're gonna have to do some work to raise it.
+8:14
+Andrew Ippolito: So these are our building reactions, these are the reaction that require energy.
+8:21
+Andrew Ippolito: For example, the dehydration synthesis reactions, we already learned about.
+8:26
+Andrew Ippolito: Right remember building the peptide bond or building the like acidic linkage are building the ester bonds building building building.
+8:34
+Andrew Ippolito: These around a Bach reactions.
+8:39
+Andrew Ippolito: There Andrew gone. Andrew Ippolito: In other words, they will absorb more energy than they release.
+8:49
+Andrew Ippolito: And, did you see how I said that they absorb more energy than they release we so they're releasing energy.
+8:59
+Andrew Ippolito: And if we go back to the other side, there when we say extra ganache it gives off more energy than it absorbs oh wait they're absorbing energy, so one of the fundamental key concepts to understanding thermodynamics and chemistry and biology is understand the concept.
+9:17
+Andrew Ippolito: That any bond any bond any any any bond ever in order to break a bond, you have to put energy in.
+9:32
+Andrew Ippolito: Okay chemical bonds require energy to break them think of them like magnets.
+9:42
+Andrew Ippolito: In order to pull a pair of magnets apart. Andrew Ippolito: You have to pull them apart you got to put energy right.
+9:50
+Andrew Ippolito: And so, when you break that bond so here's carbon and carbon separated now.
+9:58
+Andrew Ippolito: When they make the bond.
+10:03
+Andrew Ippolito: The release energy. Andrew Ippolito: And that right there, my friends, is the most intuitive heart hard part.
+10:13
+Andrew Ippolito: But here's what you do what happens to a pair of my teeth let's say you had a pair of strong magnets and I have I usually have a couple of magnets on hand here.
+10:27
+Taylor Campbell: And I have a question yeah. Taylor Campbell: Go ahead is there, another component to low energy to high energy or is that the end Okay, no it's.
+10:35
+Taylor Campbell: Not spontaneous. Andrew Ippolito: And yeah I just haven't got three I just. Andrew Ippolito: just go with me.
+10:41
+Andrew Ippolito: yeah. Andrew Ippolito: Here we go. here. Andrew Ippolito: My little grab bag here.
+10:47
+Andrew Ippolito: they're like. Andrew Ippolito: Okay, I have this little pair of rare earth metal or.
+10:53
+Andrew Ippolito: Little man okay so here. Andrew Ippolito: here's a pair of magnets. Andrew Ippolito: Okay little button magnets there's currently stuck together, so this represents any chemical bond Okay, I have to put energy in to break it and watch this i'm going to put i'm going to do is close to my microphone ready i'm gonna let the Magnus come together.
+11:16
+Andrew Ippolito: Would you hear your to click Oh, it sounds sounds energy.
+11:21
+Andrew Ippolito: Right and so when the magnets come together they released energy.
+11:29
+Andrew Ippolito: Okay, when a ball falls down hill it gives up energy right, you can imagine a boulder rolling down a hill and putting taking out some trees along the way there's energy there that can be used to do work right anytime we have some system falling down hill.
+11:48
+Andrew Ippolito: As it's falling it can do some work along the way, until it comes to an equilibrium point right these magnets are not stable right, this is this isn't going anywhere anytime soon, I have to put energy into disrupt this.
+12:02
+Andrew Ippolito: Okay, so that's what I mean by the by. Andrew Ippolito: breaking a bond, you have to put energy in.
+12:10
+Andrew Ippolito: and releasing and making a bond releases energy. Andrew Ippolito: OK, so now that you understand that.
+12:19
+Andrew Ippolito: Okay, so let's just look at a hydrogen hydrogen bond and Compare that to say carbon hydrogen carbon oxygen oxygen hydrogen nitrogen hydrogen or carbon nitrogen right you see all these different bonds.
+12:35
+Andrew Ippolito: Think of the elements is different different strength magnets.
+12:40
+Andrew Ippolito: that's that's the simplest way to think of it. Andrew Ippolito: Remember electro negativity there's your strength.
+12:47
+Andrew Ippolito: Remember oxygen loves electrons oxygens the strongest magnet here.
+12:52
+Andrew Ippolito: Okay, and in fact you can kind of put this on a continuum here. Andrew Ippolito: like that.
+13:04
+Andrew Ippolito: So watch this. Andrew Ippolito: I want you to think of water now.
+13:10
+Andrew Ippolito: What do you think what do you know about water if we just leave water hanging around what happens to it.
+13:16
+Andrew Ippolito: don't overthink it don't think pH just think water would it's kind of a trick question.
+13:23
+Andrew Ippolito: It doesn't doesn't do much. Andrew Ippolito: waters, a very, very, very stable molecule it doesn't just spontaneously break down remember pH is all about the breaking this apart occasionally let's put it back together again Okay, in other words, these bonds here, these oh each bonds.
+13:43
+Andrew Ippolito: are very strong bonds. Andrew Ippolito: Okay, so this bond right here is a strong bond it's like a pair of really strong magnets.
+13:53
+Andrew Ippolito: Okay, so what's that mean. Andrew Ippolito: whenever you break that bond, you have to put a lot of energy into it.
+14:01
+Andrew Ippolito: What it also means and here's the Epiphany I want you to have is that when you make that bond it gives off a lot of energy.
+14:13
+Right. Andrew Ippolito: Because here's the thing the amount of energy that you need to put into the bond to break it is equal to the amount of energy that will be released by it.
+14:24
+Andrew Ippolito: it's kind of like. Andrew Ippolito: It almost according to the simplistic views of this violates the laws of the universe, where there's no net change in the amount of energy there okay so so in order for me to break this bond let's see, I have to put in one unit of energy.
+14:43
+Andrew Ippolito: Okay, if I want to make that bond. Andrew Ippolito: it's going to release one unit of energy.
+14:50
+Andrew Ippolito: Okay, so so now that you get that concept. Andrew Ippolito: let's go back to the slide now.
+14:56
+Andrew Ippolito: And let's consider this molecule here. Andrew Ippolito: and bringing it down to the steep so we have to break all these bonds.
+15:05
+Andrew Ippolito: break the bonds. Andrew Ippolito: Right and then new bonds are going to form.
+15:13
+Andrew Ippolito: And that's a chemical reaction that's the simple thought process behind any chemical reaction a chemical reaction is nothing more and nothing less than breaking some bonds and we making some new bonds.
+15:25
+Andrew Ippolito: Okay, so if we take see six 812 oh six.
+15:31
+Andrew Ippolito: plus some oxygen gas.
+15:37
+Andrew Ippolito: And we break that down. Andrew Ippolito: into six molecules of carbon dioxide six molecules of water.
+15:47
+Andrew Ippolito: Plus. Andrew Ippolito: Energy.
+15:52
+Andrew Ippolito: and other words we've pulled energy out. Andrew Ippolito: Okay, so so these bonds here, those are new bonds right there's six molecules of carbon dioxide, which remember it looks kind of like this, all right there six molecules of water, which looks kind of like this.
+16:09
+Andrew Ippolito: And then, this thing over here remember there's some ring structure and some carbons blah blah blah hi oh each groups so there's some this highly ordered molecule right.
+16:21
+Andrew Ippolito: And so we we take these bonds and we break them all and then and so that requires a little bit of energy and those bonds are weak bonds, those are low, those bonds are easy to break.
+16:33
+Andrew Ippolito: And then these bonds here when they form Those are all thunder claps boom boom boom, because those are strong bonds.
+16:43
+Andrew Ippolito: And that energy that is released when those bonds are made that's the energy that drives life.
+16:51
+Andrew Ippolito: So it's almost a misnomer to say glucose is a high energy molecule.
+16:58
+Andrew Ippolito: Instead, I want you to start realizing it's not that glucose is a high energy molecule it's not like a coiled up mouse trap that's going to spring out and do some work.
+17:07
+Andrew Ippolito: it's the reaction, the glucose being brought down to the carbon dioxide on the opposite and the hydrogen sorry in the water glucose down to the water and the carbon dioxide it's the process that gives off the energy.
+17:22
+Andrew Ippolito: So you would say that the metabolism of glucose is high energy not glucose itself.
+17:30
+Andrew Ippolito: Okay, just like think of 1000 pound we think of a car on the edge of a cliff think of you have this cliff here here's the ocean and there's a car up here.
+17:45
+Andrew Ippolito: That car all by itself doesn't it's not gonna do anything right it's not dangerous just resting there, but if you push the car over the cliff.
+17:58
+Andrew Ippolito: Right and you washed it hit the rock stone here that's gonna explode right because that car in that freefall as a gains, you know the acceleration from gravity.
+18:09
+Andrew Ippolito: that's a massive amount of energy and so it's the impact right it's the system that has high energy it's that whole story of the car falling off the cliff and landing with a big boom.
+18:20
+Andrew Ippolito: And it's gasoline tank catching on fire right so it's not the car has a lot of energy.
+18:28
+Andrew Ippolito: The car driving off the cliff and crashing into the rocks has a lot of energy right and even even more so let's let's change that situation let's say that the car instead is on something like this, no, no, you just took all this energy away didn't you but you didn't change the car.
+18:43
+Andrew Ippolito: You change this environment you change the situation. Andrew Ippolito: Okay, raise your hand this making any sense.
+18:51
+Andrew Ippolito: All right. Andrew Ippolito: that's all say about that.
+18:56
+Andrew Ippolito: So go back to the last little bits of words here, so when we build things that is not spontaneous.
+19:02
+Right. Andrew Ippolito: Your work isn't going to do itself. Andrew Ippolito: Your room isn't going to clean itself.
+19:10
+Andrew Ippolito: You got to put the work in. Andrew Ippolito: So these are the reactions that absorb energy they're going to gain it this system here is in a state of higher energy than when it started.
+19:24
+Andrew Ippolito: And ready here's the last connecting point we're going to take these two seemingly independent processes and we're going to couple them together.
+19:35
+Andrew Ippolito: right because you're thinking yourself well where's this energy coming from was coming from over here.
+19:40
+Andrew Ippolito: You eat your food you break your food down and you use the energy as a consequence of that reaction to build whatever you need in the cell and that's where we get our energy from.
+19:50
+Andrew Ippolito: that's how we build our DNA and our proteins and our liquids, and we transport things and move things all driven by the breakdown of the catabolic reactions or the the breakdown of the high energy molecule.
+20:06
+Okay. Andrew Ippolito: Any questions.
+20:15
+alright. Andrew Ippolito: So now we can properly remind ourselves metabolism is nothing more than the metabolism, and the cannibalism something together.
+20:28
+Andrew Ippolito: The building in the breaking it's all perfect beautiful cycle.
+20:36
+Andrew Ippolito: it's far from perfect and it's not very beautiful. Andrew Ippolito: it's kind of messy.
+20:42
+Alexa Deprisco: Easy yeah. Alexa Deprisco: This might be kind of silly those are the kind of like an extra ganache reaction you're breaking down the molecules it's like when you're going down a roller coaster and you scream like you're letting out energy, but like if you're going up your life and you're like.
+21:00
+Andrew Ippolito: yeah you're. Andrew Ippolito: you're building up that anxiety until. Andrew Ippolito: It gets released that's a great analogy, I love that I like so yeah you.
+21:09
+Andrew Ippolito: know I miss roller coasters I haven't been on one in a while it's been a while. Alexa Deprisco: I have it's a bummer.
+21:17
+Andrew Ippolito: All right, let's let's remind ourselves now, we talked about energy at one point in the Semester um let's remind ourselves also energy is the potential to do work, you can also say, I think your book defines it like this, to cause change.
+21:30
+Andrew Ippolito: It kind of changed we causing here. Andrew Ippolito: It means some mass some matter.
+21:39
+Andrew Ippolito: Is displaced. Andrew Ippolito: Okay, if you want to look at the purest definition of this, we have some matter and at T equals zero was here and it equals ones it's not there anymore, and so we performed work on the system okay work is all about moving things in space and time.
+22:00
+Andrew Ippolito: So, energy is the potential to do that it doesn't mean you have done that it means you can do that.
+22:07
+Andrew Ippolito: Okay. Andrew Ippolito: And so, energy is the currency of work.
+22:15
+Andrew Ippolito: Right, the more energy, you have, the more you can get done. Andrew Ippolito: But this is, I don't know what it's going on there, I have to fix that not right now, you can cash it in an exchange for affecting the object in question.
+22:31
+Andrew Ippolito: Right and we've all said this before right I just don't have the energy to work right now.
+22:37
+Andrew Ippolito: Right sometimes you do, and you just don't want to wake up on Sunday refreshed happy you call your boss be like i'm not coming in today.
+22:45
+Andrew Ippolito: You have potential energy. Andrew Ippolito: But you're not using it.
+22:51
+Okay, good. Andrew Ippolito: So this work stuff here's another level of that useful energy exchange so when we see that when we talk about useful work.
+23:05
+Andrew Ippolito: Think of it as directional work. Andrew Ippolito: Okay, and what I want you to start to do now is put it in your head of the opposite of that kind of energy that kind of movement that molecules do that's random remember Brownian motion.
+23:21
+Andrew Ippolito: Number how objects are just always juggling randomly remember that just Durban video I showed you, the other day, the other proteins in the cell kind of doing this that's not useful energy.
+23:34
+Andrew Ippolito: that's the opposite of useful energy. Andrew Ippolito: That chaotic movement.
+23:40
+Andrew Ippolito: Okay, so work is a useful energy exchange.
+23:46
+Right. Andrew Ippolito: So doing work on a system so notice how I say that work on a system you're not just doing work, what are you doing the work on.
+23:59
+Andrew Ippolito: Right, you always have to consider the substance or the system and question that you're doing the work on so doing the work changes the kinetic or pencil energy of the thing you're doing the work on that's what's changing.
+24:18
+Andrew Ippolito: Alright, so we learned this a long time ago potential energy so energy that's not currently doing the work that could do work that isn't doing work so So these are broad categories.
+24:29
+Andrew Ippolito: potential energy okay so examples of potential energy chemical energy that example potential energy so when we see this carbon bond here.
+24:38
+Andrew Ippolito: We talked about that bond having energy in it. Andrew Ippolito: That is called chemical energy.
+24:47
+Andrew Ippolito: A battery has potential energy right so so um.
+24:54
+Andrew Ippolito: We talk about voltage gradients. Andrew Ippolito: That would be an example of potential energy.
+25:01
+Andrew Ippolito: If you take a spring and coil it tightly if you set a mouse trap.
+25:08
+Andrew Ippolito: And you let it sit there and it's very unstable state but it's not snapped yet that's a coiled spring that's an example of having some energy inside of it.
+25:20
+Andrew Ippolito: And then kinetic energy is the act of doing the work so thermal energy, the energy that molecules have inside them that make them move we we call the thermal energy we I like to refer to that as intrinsic energy.
+25:36
+Andrew Ippolito: Because that's what the chemists call it, people who are working in this field, people who study thermodynamics refer to that as the intrinsic or sometimes you'll see internal energy.
+25:49
+Andrew Ippolito: No, no, an intrinsic it's not internal that's a different thing okay so so when we say intrinsic it's it's within the molecule itself.
+26:00
+Andrew Ippolito: So, like when you heat a bunch of water up and you make the water molecules jiggle faster that's thermal energy Okay, so, in other words the thermal energy is the mark is punching each other.
+26:12
+Andrew Ippolito: Right. Andrew Ippolito: And that's random remember Brownian motion that's just it's random you you're not doing useful energy with that it's still kinetic, though.
+26:23
+Andrew Ippolito: Okay, that that's an important distinction there a glass of water has energy in it, because the water is moving.
+26:30
+Andrew Ippolito: It just doesn't have usable energy in it, you can't drive your car with a glass of water.
+26:38
+Andrew Ippolito: Because it can't do work why because the amount of energy, it would take to break those bonds is much, much higher than the amount of energy that will come out of the resulting.
+26:53
+Andrew Ippolito: mechanical energy. Andrew Ippolito: Right what Julie, is doing right now. Andrew Ippolito: Right anytime we're doing any kind of movement.
+27:02
+Andrew Ippolito: Okay, so a cell moving through an amoeba crawling your muscles contracting.
+27:10
+Andrew Ippolito: The filaments in during mitosis moving chromosomes around that's mechanical as simple.
+27:17
+Andrew Ippolito: electrical energy that's that's the idea of voltage gradients building remember the sodium potassium pump builds up that gradient and then imagine so here here's a cell and we have that negative charge on the inside them positive on the outside, imagine, I had a.
+27:31
+Andrew Ippolito: Protein here in the membrane that when I pushed the button it allowed the sudden flooding in of the positive charges okay so so ready, the key to life is the establishment and maintaining of those gradients.
+27:46
+Andrew Ippolito: Because we can do work with that. Andrew Ippolito: All of life is driven by the analogy of water behind it down.
+27:53
+Andrew Ippolito: we're gonna pump some stuff across a membrane and keep it there it's like charging a battery.
+27:59
+Andrew Ippolito: And then, when the time is appropriate we're going to release the hounds we're gonna let the flood happen we're going to crack the damn open and we're going to put that energy to work.
+28:11
+OK. Andrew Ippolito: And then let's not forget light photons are literally energy, it is the carrier of the electromagnetic force which i'm not going to my SA explains force versus energy but.
+28:25
+Andrew Ippolito: It basically forces accelerating an object right in or in order to move something you got to accelerate it.
+28:32
+Andrew Ippolito: Right, I mean you're you don't realize this, but your every time you move so like i'm moving my pen around you're accelerating it.
+28:38
+Andrew Ippolito: what's acceleration is just changing the velocity over time right, so it goes from not moving to moving so i've accelerated that.
+28:45
+Andrew Ippolito: that's what a forces of force, a lot of force is accelerating an object, and so you need energy to exert the force right so think of force, as the the manifestation of the energy and the real world.
+29:00
+Andrew Ippolito: The water behind the dam isn't a force right the water pushing on the walls, the forces what's pushing on the wall and you need energy to do a force so that's the relationship.
+29:14
+Okay. Andrew Ippolito: So your book has this very simple diagram in it, you can see a bunch of people playing by the ocean at sunset good times I miss summer now to.
+29:27
+Andrew Ippolito: Standing up there, looking over the water about you know 10 feet up.
+29:33
+Andrew Ippolito: Rest probably like 15 feet that's kind of far I don't know if i'd actually like that, I mean I probably do it because it's exciting, but I would definitely not think of that as a relaxing thing to do.
+29:44
+Andrew Ippolito: So that person standing right here let's think of this is, this is the car on the cliff I just got done talking about right so because of their position Okay, the key here is their position.
+30:01
+Andrew Ippolito: There their position is what gives them the energy. Andrew Ippolito: Right not not being a person, but being a person standing on top of a cliff.
+30:11
+Andrew Ippolito: Right so like glucose itself is useless, you have to put it in the right context.
+30:19
+Andrew Ippolito: Okay, and then that person in midair as a photographer took that picture.
+30:26
+Andrew Ippolito: frozen in time, that person has had had a force act upon them, this is the force of gravity leading to their acceleration and they're falling downhill now literally until what until they hit the water.
+30:43
+Andrew Ippolito: may cause some kind of reaction, where they exchanged, the energy with the water.
+30:49
+Andrew Ippolito: and the resulting exchange leads to the dispersion of that energy into the system, so the water goes crazy you hear a big splashing sound.
+31:01
+Andrew Ippolito: And now let's think about this for a moment let's let's say that they were going to do a belly flop.
+31:07
+Andrew Ippolito: No, no let's not let's say that say they were going to do a cannonball let's do a cannonball that hurts less alright so here's my question.
+31:20
+Andrew Ippolito: So what's the point of a cannibal. Andrew Ippolito: let's have a little fun right now so it's summertime you're playing by the.
+31:27
+pool. what's the point of accountable. April Neeld: Most.
+31:32
+Andrew Ippolito: To splash people. Andrew Ippolito: it's kind of a trick move, but everybody loves doing cannonballs like look at me everybody I missed him he sings look at me.
+31:44
+Andrew Ippolito: that's a reference to rick and morty if you haven't watched rick and morty you should watch rick and morty Mr mistakes.
+31:51
+Andrew Ippolito: We some investor meetings to do a job right anyway i'm not getting into that so so the goal of the cannonball so we, we all agree that the goal the cannibal isn't to make a loud noise right it's to make the maximum amount of splash.
+32:05
+Andrew Ippolito: Okay, can you do a cannonball silently.
+32:17
+Andrew Ippolito: No you're right that's like we have you can see, you can see there's some wizardry here a silent cannonball.
+32:24
+Andrew Ippolito: Obviously not why why can't you do a silent cannonball.
+32:33
+Alexa Deprisco: cuz you gotta jump into something. Andrew Ippolito: It hitting the water makes noise. Andrew Ippolito: it's just you can't avoid that.
+32:40
+Andrew Ippolito: But we don't want to make noise, we want to make a splash.
+32:46
+Andrew Ippolito: Right and that right there that's why no energy conversion can be 100% efficient.
+32:59
+Andrew Ippolito: Okay, when we talk about efficiency we're thinking about the goal of using that energy we want to make the maximum amount of splash What if you wanted instead to make the maximum amount of noise, what would you do.
+33:14
+Alexa Deprisco: belly flop. Andrew Ippolito: We don't mean to do those most of the time, I want to do a somersault no that's a belly flop, I heard that that sounded very painful right that's smacking on the water does a belly flop, give a big splash.
+33:33
+Andrew Ippolito: Oh. Andrew Ippolito: Can you make, can you do a belly flop, without making a. Andrew Ippolito: Big splash of any kind, a splash list belly flop.
+33:43
+Andrew Ippolito: I suppose, if you froze the pool first.
+33:50
+Andrew Ippolito: that's his belly flop, I mean you could do by flip under pavement I suppose.
+33:57
+Andrew Ippolito: that's gonna hurt a lot. Andrew Ippolito: You get the point, though right you can't there's no there's no situation in the universe, where we can make energy go from one kind to another and make all of that energy go to just one kind of energy there's always going to be ramifications.
+34:19
+Andrew Ippolito: Think of playing pool you want to put the pool ball in the corner pocket.
+34:24
+Andrew Ippolito: And so you crack the pool ball just think of a pool bond pieces here here's the ball and here's another ball and what do you do you hit this ball, so you hit this ball that makes a light little noise.
+34:37
+Andrew Ippolito: Right, the ball starts rolling forward the friction on the little carpet heats up the carpet, a little bit you heated you heat up the ball, a little bit when you hit it.
+34:46
+Andrew Ippolito: When the ball hits this ball, it makes a claque it gives off a bunch of sound it probably also changes the ball just a little bit of bends it just a little bit and also makes it a little.
+34:58
+Andrew Ippolito: hotter and then this ball gets accelerated and now let's start moving and it also starts using friction to warm up the surface and there's all these air molecules here you're pushing away you're just placing the air molecules.
+35:09
+Andrew Ippolito: Think of all of the chemistry trying to think of all the energy transformation and something as simple as playing pool.
+35:20
+Andrew Ippolito: Right. Andrew Ippolito: there's nothing you can do about it, if the goal of this is to hit this ball in this direction, you have to also all the other stuff has to happen.
+35:33
+Andrew Ippolito: And that's the concept of the second law of thermodynamics everything is eventually going to even out over time.
+35:40
+Andrew Ippolito: Because you can't control it, you can't control everything alright that's enough of that.
+35:47
+Andrew Ippolito: So thermal energy. Andrew Ippolito: Is kinetic energy associate with the random movement that's that's where the Brownian motion, so the consequence of thermal energy is Brownian motion.
+35:59
+Andrew Ippolito: The transfer of thermal energy from one object to another, we generally call heat. Andrew Ippolito: The heat of a system that's the amount of energy that I can move, so this can occur through radiation conduction or convection you don't study these things just.
+36:12
+Andrew Ippolito: Just you remember those from your old like ABC physics stuff from high school radiation is the one we're going to use the most that's like moving through air are moving through space.
+36:22
+Andrew Ippolito: doesn't have to be air there right conduction is absorbing it like if you put your like right now, your butt is conducting heat into the seat you're in.
+36:30
+Andrew Ippolito: right if you got up and somebody else sat down they'd say thanks for keeping the seat warm.
+36:35
+Andrew Ippolito: And you're like can I have my seat back. Andrew Ippolito: five minute rule you didn't call it raw that ridiculousness I grew up with there were five or so my family so.
+36:48
+Andrew Ippolito: All that stuff was there was constant conflict. Andrew Ippolito: Alright, so conduction right and then conviction conviction is that idea of.
+36:58
+Andrew Ippolito: In any system where they are can move around freely or any any molecules can move around freely.
+37:04
+Andrew Ippolito: As things get hotter they get less dense. Andrew Ippolito: They tend to rise Okay, and so they're going to push the air and the air that they're pushing away is going to go away and it's going to get cold and it's going to sink.
+37:15
+Andrew Ippolito: And so, this idea of this is a room yeah this idea of a convection current right so so energy can be transferred through convection to all right.
+37:26
+All right. Andrew Ippolito: You can't do you generally can't do work with this kind of energy.
+37:34
+Andrew Ippolito: Okay, just random movement, you can use directed energy to build up a gradient of this stuff and then do work with it like a steam engine.
+37:45
+Andrew Ippolito: But in and of itself, you can do any work with it. Andrew Ippolito: In a nutshell, what temperature is temperature is just a measure of the average amount of energy each member of the system as individual Members can have more or less than the average energy.
+38:01
+Andrew Ippolito: Right, so you can't talk about the temperature of a molecule of water.
+38:07
+Andrew Ippolito: You can talk about its velocity. Andrew Ippolito: Okay, so temperature is an emergent property of a collection of system, a collection of substance.
+38:17
+Collection of matter. Okay.
+38:23
+Andrew Ippolito: All right, so I already explained, all this to you i'm going to skip through this, but here here so so every chemical reaction, you can think of as an energy transformation, we break bonds and then we make bonds.
+38:40
+Andrew Ippolito: I want you to remember the rules of chemistry Valence shells and reactivity and all that.
+38:48
+Andrew Ippolito: When you break bonds. Andrew Ippolito: So the thing I want you to have in your mind here is when you break bonds.
+38:56
+Andrew Ippolito: The consequence of that. Andrew Ippolito: Is a state that is very unstable.
+39:03
+Andrew Ippolito: Right those unbound electrons those empty Valence shells Those are all going to fight and push and jostle their way down into a stable state again.
+39:16
+Andrew Ippolito: Right and so whatever state they land in. Andrew Ippolito: that's going to be the lower energy state so they've gone from high to low in that case.
+39:25
+Andrew Ippolito: from stable to from unstable the stable. Andrew Ippolito: So you can think of it this way, the chemical bonds that chemical energy is potential energy we're going to break those bonds so we're basically going to now have some kinetic energy going on and then we're going to result back into a potential state again.
+39:42
+Andrew Ippolito: we're going to settle down. Andrew Ippolito: When the reaction goes to completion, so you see we're going for potential the kinetic the potential to connect the potential the kinetic we're just we're constantly changing this date of the system, constant changing the energy and so.
+39:55
+Andrew Ippolito: These transformations that's that's what thermodynamics is all about.
+40:03
+Andrew Ippolito: Is is this this arrow here that that we're transforming the energy from one kind to another.
+40:12
+Andrew Ippolito: And then, transforming it back again so you can think of transforming chemical energy to mechanical energy to thermal energy.
+40:23
+Andrew Ippolito: Right we're cotton that's what makes the world go round that's life is this changing the energy so that's what thermodynamics is thermo he dynamics change, and so there are these principles that our universe has to use.
+40:39
+Andrew Ippolito: These call these the laws of thermodynamics Where do they come from, they are the university itself that's why I like teaching this stuff, this is the core of reality, right here.
+40:49
+Andrew Ippolito: If you can't ask questions like why can't we make new energy. Andrew Ippolito: That that's just because the universe said so.
+40:59
+Andrew Ippolito: that's that's that's you're digging a hole in the ground you're looking at how deep the rabbit hole goes, this is the end of the rabbit hole you've hit you hit bedrock.
+41:10
+Andrew Ippolito: And you can't ship your way through it. Andrew Ippolito: it's the end of the line and your scientific inquiry.
+41:17
+Andrew Ippolito: That so we we i'm okay calling this that's what we call laws, these are theories, these are invaluable.
+41:29
+Andrew Ippolito: Okay, so now we're going to start to build up our knowledge on what systems are.
+41:34
+Andrew Ippolito: Because thermodynamics at the end of the day is the study of these transformations within systems.
+41:43
+Andrew Ippolito: So the simplest definition of a system is just it's a collection of matter.
+41:50
+Andrew Ippolito: Just a collection of matter and it has a boundary.
+41:56
+Andrew Ippolito: And so obviously outside that boundary is still other stuff will call that the surroundings, or the environment.
+42:06
+Andrew Ippolito: The rest of the universe. Andrew Ippolito: We pick what the system is when we're thinking right, this is all about us, this is all about us thinking.
+42:16
+Andrew Ippolito: about trying to do, science and I was considering the consequences of the situation at hand, and so a system is what we want it to be whether it's a cell or it's a tissue or a person or a room or the university itself.
+42:30
+Andrew Ippolito: We draw that line around it. Andrew Ippolito: and call it a system.
+42:38
+Andrew Ippolito: there's two kinds of systems there's closed systems. Andrew Ippolito: Where the matter that's within that boundary cannot ever gain new energy and it cannot ever leave.
+42:51
+Andrew Ippolito: So, so you can think of, let me try this, let me draw a better picture here's a system of stuff energy can't get in.
+43:01
+Andrew Ippolito: and energy can't get out that's the closest. Andrew Ippolito: it's very rare to have a truly closed system on earth.
+43:13
+Andrew Ippolito: And then obviously an open system is one that can exchange energy with its environment.
+43:21
+Andrew Ippolito: My side. Andrew Ippolito: So here's my question to you now let's have a little discussion here is earth considered an open or closed system.
+43:33
+Angela Harbeck: be like a closed one will like technically like we can get out of it but it's kind of like were secluded to the one planet.
+43:45
+Angela Harbeck: So so like we could travel that far away from. Andrew Ippolito: It true we can't really get all that.
+43:51
+Andrew Ippolito: Far not yet anyway, but I liked how you said that enter the like technically technically technically What was it open or closed.
+44:02
+Angela Harbeck: it's probably more open than closed yeah and you're right. Andrew Ippolito: And so that whole technically part where you're like yeah but it's hard to get out of that's exactly why there's life here.
+44:16
+Andrew Ippolito: Right we're an open system we're leaky. Andrew Ippolito: But because we have an atmosphere, we have a blanket that slows down the openness compares to the moon, the moon doesn't have an atmosphere moons cold and dark.
+44:37
+Andrew Ippolito: Right it can't keep the heat so here's how things work.
+44:44
+Andrew Ippolito: well. Andrew Ippolito: here's how things work here's the sun.
+44:50
+Andrew Ippolito: And here's the earth. Andrew Ippolito: i'll tell you what i'll say, well, let me do some whiteboard.
+44:57
+there's something. Andrew Ippolito: I can do a little bit more here alright so there's the sun.
+45:04
+And here's Earth. Andrew Ippolito: Okay, and if we zoom into earth here.
+45:11
+Andrew Ippolito: We can see that earth has. Andrew Ippolito: This atmosphere right.
+45:19
+Andrew Ippolito: So the energy of the sun here as the photons hit the earth.
+45:27
+Andrew Ippolito: It warms up the earth, a little bit. Andrew Ippolito: All right, and then, on the other side.
+45:34
+Andrew Ippolito: Well, here let's do it this way. Andrew Ippolito: there's a massive amount of energy coming from the sun.
+45:41
+Andrew Ippolito: And then we use it. Unless leaves.
+45:50
+Andrew Ippolito: So here's the analogy it's really let's say that it's dead of winter and your temper in your.
+45:57
+Andrew Ippolito: Your heat is broken and you're in your bedroom and your bed on the surface of your bed.
+46:06
+Andrew Ippolito: you're freezing So what do you do you put your sheet on.
+46:11
+Right. Andrew Ippolito: you're still cold. Andrew Ippolito: And so you put your blanket on.
+46:18
+Andrew Ippolito: you're still calling you put your your down comforter on so now you got three layers, why are you warm now.
+46:26
+Andrew Ippolito: How does that work. Alexa Deprisco: Because you're tracking your own energy that you're producing exactly right.
+46:32
+Andrew Ippolito: So, if this is your bed. Andrew Ippolito: here's your pillow. Andrew Ippolito: here's your head here's your stick figure body.
+46:41
+Andrew Ippolito: I don't know what you're doing there you're just doing a push up the terrible picture here that's here you're just you're laying down there is your feet okay.
+46:52
+Andrew Ippolito: And you're warm you're alive you're metabolizes it's not efficient you're giving off some energy right and it's going into the air around you and that's where you get cold and So what do you do you put your blankets, on.
+47:07
+Andrew Ippolito: heat still in here, but now the air that's in between the blanket in you gets warmer and warmer and warmer but what's happening right it's still leaking energy out you've just slowed it down.
+47:20
+Andrew Ippolito: Right that's why you know plenty of people i'm sure that or you know somebody at least that when they get in bed they put 1000 blankets, on themselves because they're a cold and they fall asleep that way.
+47:35
+Andrew Ippolito: You might be one of these people. Andrew Ippolito: And then you wake up at three o'clock in the morning and you're insanely hot and you're sweating you throw your blankets off and go back to sleep and you wake up an hour later you're freezing you put all the blankets back on, and you have this wonderful little dance at night yeah.
+47:47
+Andrew Ippolito: And the reason why you do that, of course, is when you first put the first blanket on you're still cold.
+47:54
+Andrew Ippolito: Right, if you have the thought, I have to give it time for my own body to heat up the environment.
+48:00
+Andrew Ippolito: And then i'll be comfortable eventually right instead we all want to be warm now, and so we put all the blankets, on.
+48:08
+Andrew Ippolito: But, but the rate so it's a great thing it's a flood it's called flux, the rate at which the energy is leaving is not equal to the rate at which is building up.
+48:18
+Andrew Ippolito: Right, and so the more blankets, the more the sorceress and now let's go back to earth shall we the earth's atmosphere is a sheet.
+48:25
+Andrew Ippolito: And the sun hits it and it makes it a little warmer and then it's more slowly radiates the energy back down to the earth into the space around it and so earth has some set temperature that is dictated by how thick the atmosphere is.
+48:39
+Andrew Ippolito: You can start to see where this is going because here's the analogy let's say that you're in bed, and you have that sheet on and how that blanket on and you're still cold and you're down comforter is in the closet.
+48:50
+Andrew Ippolito: At a play so you get up you go to the closet you take the comforter out you put it on your bed.
+48:58
+Andrew Ippolito: Okay, we have a bunch of blankets, would you rather always be cold or hot oh that's a deep question i'd rather always be a little hot.
+49:08
+that's just me. Andrew Ippolito: I associate heat with life and cold with death.
+49:15
+Andrew Ippolito: hundred degrees no I don't want 100 degrees what's the what's the cold alternative it's either 100 or what.
+49:21
+Julia Lakchin: Like really cold like. Andrew Ippolito: Like like zero degrees, or like for.
+49:27
+Andrew Ippolito: Like a cold like what. Julia Lakchin: Wait yeah like Antarctica cold.
+49:34
+Andrew Ippolito: i'd rather be hundred degrees. Andrew Ippolito: And just SIP lemonade on my porch rockin in my chair.
+49:43
+Andrew Ippolito: So. Danuta Despagne: Nice you won't get frostbite. Danuta Despagne: that's fair. Andrew Ippolito: yeah I had a cold I hate cold I just some people love it not me.
+49:51
+Andrew Ippolito: So here's how we do it right, we go to the. Andrew Ippolito: closet and we pop the comforter earth has a down comforter trapped in the rocks.
+50:03
+Andrew Ippolito: Right millions and millions of years ago, when the earth was filled with ferns.
+50:09
+Andrew Ippolito: And this is before the organisms we're evolving that could break down plant matter, and so, when a fern died when a tree fell in the forest and nobody was on to hear it, and it made no noise.
+50:23
+Andrew Ippolito: It just stayed there nothing broke it down the whole earth was just piled high with all this deadwood.
+50:31
+Andrew Ippolito: And slowly over time, that would got covered and buried and long story short that's what coal is that's why we call it a fossil fuel.
+50:40
+Andrew Ippolito: Okay, and then oil is the same story, but with animals like dinosaurs so oil is dead dinosaurs and call this dead burn this is back from the carboniferous period carboniferous period.
+50:55
+Andrew Ippolito: About I think three or 400 million years ago. Alexa Deprisco: Is there any reason why, like oil, then as a liquid and cold solid.
+51:04
+Andrew Ippolito: I don't know the details of that, but there has to do with the way they broke down. Andrew Ippolito: So coal is dead plant and oil is dead animal.
+51:13
+Andrew Ippolito: Okay, so so, in other words, we have sequestered all of that extra carbon dioxide from the atmosphere attracted into the earth, and so what we're doing now is we're taking it back out we're taking it out of the closet and we're putting it back in the atmosphere.
+51:26
+Andrew Ippolito: This is an example of thermal energy yeah yeah, so this is an example of. Andrew Ippolito: So the sun warming up the earth that's thermal energy and so we're making the air molecules vibrate more and more.
+51:38
+Alexis Micewski: And more good so um the earth's atmosphere, I know, like has like a hole in it, so how does this affect.
+51:47
+Andrew Ippolito: This. Andrew Ippolito: If this is the. Andrew Ippolito: earth that when we talk about the hole in the ozone layer. Andrew Ippolito: This it's not a hole in the atmosphere it's not like a vacuum it's it's a whole of it's a lower concentration of those and that's, not even a thing anymore there the ozone layer has been pretty much restored the 1970s.
+52:07
+Andrew Ippolito: We were using a whole bunch of aerosols that had chlorofluorocarbon carp floral coral coral Florida carbons which basically went through a chemical reaction destroy ozone.
+52:19
+Andrew Ippolito: Ozone protects us from UV light and because the Earth is rotating we would concentrate the ozone and the two hemispheres.
+52:28
+Andrew Ippolito: But in the 1980s, when we pass legislation that ban the use of these things they're called each fcs slowly over time, the ozone layer grew back.
+52:37
+Andrew Ippolito: And so the ozone layer was actually restored we don't have we don't have that problem anymore, which is a good thing it's a great thing as an example of how we can affect positive change in our environment, when we pass laws that restrict the use of things that are hurtful for the environment.
+52:52
+Andrew Ippolito: So what we're doing today is we're releasing we're basically going to the closet and we're pulling out all of our comforters.
+53:01
+Andrew Ippolito: Okay it's easy to pull it out, but you guys all know this, when you want to put it back again you got a folded and you gotta do all this and put it back again right, in other words it's harder to put the carbon back into the ground, it takes millions of years.
+53:14
+Andrew Ippolito: Okay, it takes the blink of an eye to light it on fire and put it into the atmosphere. Andrew Ippolito: Okay, now a tree you burn a tree.
+53:22
+Andrew Ippolito: The carbon goes into the atmosphere and then the other trees around it breathe in the carbon dioxide, to make more trees that's sustainable.
+53:28
+Andrew Ippolito: Okay what's not sustainable, is tapping into the rocks and pulling out the carbon and then burning that because that doesn't eat there's no we're just adding to the cycle now.
+53:37
+Andrew Ippolito: And that's what the greenhouse effect is the idea that we're taking our atmosphere and making it go from a sheet to a blanket, and so the whole earth overall is going to affect be affected by that.
+53:48
+Andrew Ippolito: Okay, this is not complex science this isn't rocket science, this is climate science.
+53:56
+Andrew Ippolito: Right and, as far as science is concerned, today, this is a near certainty that it's anthropogenic meaning we're doing it.
+54:05
+Andrew Ippolito: Yes, there are natural processes, yes, the sun goes through 14 year cycles, yes, there are sunspots and there is cooling of the sun and hating on the sun.
+54:14
+Andrew Ippolito: But we in our scientific investigations have systematically eliminated all of the other variables right we've disproven a and disproven be and disproven see and the only thing left is us.
+54:27
+Andrew Ippolito: Right, we talked earlier in the Semester about not being able to prove things we haven't proven that we're doing it, we have this proven that the natural things are doing it, and the only thing that's left to consider is our activity.
+54:41
+Andrew Ippolito: And the data is overwhelming at this point there's just as much data of anthropogenic climate change, as there is for evolution by natural selection and gravity.
+54:50
+Andrew Ippolito: there's no scientists don't argue this stuff anymore, the only arguments come from people whose livelihoods depend on it not being there.
+55:02
+Andrew Ippolito: The big oil companies knew about this back in the 70s and they sat on it.
+55:08
+Andrew Ippolito: yeah it's all coming to light now they've had some of some of the most brilliant scientists in the corporate world have been sat in front of Congress in the last two years and they've admitted it all.
+55:19
+Andrew Ippolito: This is just just making big headline news anymore, because there's other things going on in the world there are more important like viruses and stuff.
+55:31
+Andrew Ippolito: right but there's other things happening it's just it's out of the mainstream media because it's just it's just there's a lot to.
+55:38
+Andrew Ippolito: Think about and talk about, and do so, yes, the the oil companies had all of this data.
+55:43
+Andrew Ippolito: All of these data showing that their work was going to eventually lead and they actually their climate models were spot on they predicted everything that's happened so far from their their models from the 1980s predicted everything that's happening today.
+55:59
+Andrew Ippolito: So, but now. Alexa Deprisco: Excuse me. Andrew Ippolito: yeah go ahead. Alexa Deprisco: Do you think there's any correlation between how like like super bacterial one and then coronavirus to in relation to how we have affected the climate and how it's like I guess like overall hotter.
+56:18
+Andrew Ippolito: I mean, things do move faster and hotter pair but I don't think there's necessary correlation between the temperature of the air and the speed at which the buyers is being disseminated.
+56:28
+Andrew Ippolito: I think that, instead, so the reason we have the pandemic is because we can move from point A to Point B on this planet, like we never were able to before.
+56:39
+Andrew Ippolito: And a lot of buyers with their incubation periods and they're shorter incubation period, so we can you know we can be in ruin China, and we can be in southern California.
+56:47
+Andrew Ippolito: In the time span it takes for the virus to just started not regulating was that was never possible before right, I mean, even in the last in the flu, the flu pandemic the.
+56:56
+Andrew Ippolito: Spanish flu back in the 19th century early 1900s the reason why there was such a thing as people were getting affected and then going home for World War one and all the troops were coming home on the ships and that's how it spread.
+57:10
+Andrew Ippolito: So there's a lot of it's all about us being able to move fast and that's how it spreads so so amazingly fast and it's ridiculously variable and buyers.
+57:21
+Andrew Ippolito: it's it's are not is extremely high compared to other viruses.
+57:27
+Andrew Ippolito: So we'll talk more about that at the end of semester, if we have time i'll teach you guys a little bit about virology but let's get back to this here okay.
+57:36
+Andrew Ippolito: So here are the laws of thermodynamics right the first law is very simple, you can't make or break energy you can't create or destroy energy all you can do a shuffling around so we see energy is conserved.
+57:49
+Andrew Ippolito: The, this is a universe thing not a system thing. Andrew Ippolito: So, so, in other words, you could say simply that the universe, is the closest.
+58:00
+Andrew Ippolito: what's outside of the universe I don't know but we'll just call that part of the universe, then shall we.
+58:07
+Andrew Ippolito: Alright what's outside that I don't know, but whatever it is, is part of reality too so we're just we're just we use this word universe to describe.
+58:16
+Andrew Ippolito: existence, you know and as far as science is concerned, the universe is infinite in three dimensions, if you just start flying in one direction, and just never stop you'll never reach in that.
+58:29
+Andrew Ippolito: In that hurts our puny little in our puny little finite minds. Andrew Ippolito: I know it hurts mine i'll just speak for myself.
+58:39
+Andrew Ippolito: Alright, so you can't make energy that's that's The bottom line you can't make energy.
+58:48
+Andrew Ippolito: You can't destroy energy. Andrew Ippolito: You can't destroy a photon.
+58:59
+Andrew Ippolito: Alright, so I like to say, you can only use what you have, there is no more.
+59:06
+Andrew Ippolito: that's the first law. Andrew Ippolito: The second law of thermodynamics is that's the famous one, this is the one everybody likes to use when they're fighting evolution evolution violates the laws of physics i'll explain why that's ridiculous in a second.
+59:22
+Andrew Ippolito: Right, so the simplest way to put the second law is everything goes downhill.
+59:29
+Andrew Ippolito: I mean, think of a ball think under normal conditions normal gravity normal physics, a ball will never roll up hill.
+59:41
+Andrew Ippolito: Your ice will never get even colder when you put it in the water, you can't ever heat up a system using ice.
+59:51
+Andrew Ippolito: Why, because I said so that's just that's the universe that's that's our bedrock.
+1:00:00
+Andrew Ippolito: Okay, another way to say it systems tend to even out over time.
+1:00:08
+Andrew Ippolito: gradients vanish. Andrew Ippolito: diffusion happens until you reach an equilibrium point.
+1:00:16
+Andrew Ippolito: So, in a lot of ways, the second law is just obvious and intuitive if you just observe anything and you let some time pass you'll determine the second law empirically.
+1:00:28
+Andrew Ippolito: here's the joke nice try evolutionist but the second law of thermodynamics disproves evolution, the second law of thermodynamics life on Earth can't get more complex, because that would require energy and the sun doesn't exist.
+1:00:45
+Andrew Ippolito: Right, this is the actual argument that you will read about in a book on creationism, this is an actual argument that somebody might approach you with, or at least may have approached you with in the past and people still arguing this stuff I lived through it all.
+1:01:03
+Andrew Ippolito: We had famous debates between creationists and scientists bill Nye the science guy and Neil Tyson and.
+1:01:10
+Andrew Ippolito: This is a little bit now you guys your generation, this is kind of your short term history now, instead of being live stuff but.
+1:01:20
+Andrew Ippolito: People don't have debates anymore on public forums between creationists and evolutionists because.
+1:01:26
+Andrew Ippolito: The creationists don't actually debate, they obfuscate and they use disinformation and they just blatantly lie and they'll cherry pick they use all the classical logical fallacies that any argument would do.
+1:01:37
+Andrew Ippolito: The obvious they put in, so this is their classic one that How on earth can we go up hill.
+1:01:46
+Andrew Ippolito: and make life spontaneously if physics tells us that everything goes downhill, and from a third grade ignorant perspective that actually makes sense, there is a logic there Okay, and the reason why it's a failure is because the second law only describes what happens in a closed system.
+1:02:06
+Andrew Ippolito: that's the key closed system and earth is an open system.
+1:02:12
+Andrew Ippolito: We have a constant input of energy every moment of every day, the sun is exploding and giving us energy and it's going to keep doing it for another few billion years.
+1:02:24
+Andrew Ippolito: We have no shortage of energy on this planet if we went solar, we would just need the equivalent of this is earth and we went full on solar power everything that we ever do we even need about.
+1:02:37
+Andrew Ippolito: Not even that big we even need about this, much of the planet as solar panel to power, all of humanity forever.
+1:02:47
+Andrew Ippolito: Okay. Andrew Ippolito: Do we're not doing that yet, but probably get there, and then the wind well the sun's road of the earth rotating.
+1:02:55
+Andrew Ippolito: That causes winds to happen and that when bumping into things less turbines churn so as long as Earth is spinning.
+1:03:04
+Andrew Ippolito: And the sun is shining down and differentially heating, the atmosphere, so that we have convection currents we're always going to have wind.
+1:03:12
+Andrew Ippolito: And therefore, will always have waves and will always have the heat coming from the sun, there is zero reason why we don't have fully sustainable energy it's just a matter of converting or economy.
+1:03:24
+Andrew Ippolito: that's why we talked about the new green deal. Andrew Ippolito: Okay, because here's here's the reality of it.
+1:03:30
+Andrew Ippolito: The other side of it is, we have to have a quality of life. Andrew Ippolito: The economy and the environment are the two great weeds balancing in the bottom in the baseball if we go too far in one direction society collapses, as we know it, which some people will be fine with and others won't.
+1:03:49
+Andrew Ippolito: And if you go too far on the other direction, the environment, collapses, and if that happens nobody's going to be around the bother talking about it because we're all going to be dead.
+1:03:58
+Andrew Ippolito: So it's inevitable we're gonna have to go one way, the green deal as we're calling it has to happen that is inevitable, the question isn't is it going to happen, the question is how fast, is it going to accelerate to that point, and right now it's moving at a glacial speed.
+1:04:15
+Andrew Ippolito: and glaciers are not going to be here anymore, by the time it happens. Andrew Ippolito: So there's a terrible joke in there somewhere.
+1:04:23
+Andrew Ippolito: Right our kids your kids are going to learn about glaciers, and the history books, because glaciers are going to not be here anymore.
+1:04:31
+Andrew Ippolito: let's say sad but that's the fact that I think we're at the we're past the tipping point enclosures glaciers are all going away probably that's My guess at this point.
+1:04:42
+Alexa Deprisco: Alright, so I. Andrew Ippolito: Would. Alexa Deprisco: Say like there's an argument, like my dad brings it up was so hilarious but like that, when you make a solar panel, or you make.
+1:04:53
+A wind. Andrew Ippolito: Energy, to do everything costs energy everything costs energy to do.
+1:05:01
+Andrew Ippolito: Right, so the question is what's the more sustainable way of doing it so.
+1:05:06
+Andrew Ippolito: Is there so they're they're doing research on sustainable solar panels they're using cellulose and like plants figure this out billions of years ago.
+1:05:14
+Andrew Ippolito: So by studying for it so that's why, when you guys study photosynthesis this time around, when you guys learn photosynthesis in Chapter 10 a lot of students hate photosynthesis like what I care about plants well One reason is, this is the master plan on how to capture solar energy.
+1:05:30
+Andrew Ippolito: Right plants do a really plants do it way more efficiently than any of the most efficient solar panels do right now.
+1:05:38
+Andrew Ippolito: right they capture energy about 30% efficiency, where it like 2%. Andrew Ippolito: that's the difference between a pro carry on and you carry out right there.
+1:05:46
+Andrew Ippolito: Do PR perspective. Andrew Ippolito: Okay, all right so here's my picture I drew this in photoshop years ago I forgot, I have this so there's the earth and its atmosphere, the atmosphere traps, the sun long enough.
+1:06:01
+Andrew Ippolito: So that we can gain energy and ready, what I want you to do in your head now a super impose an imaginary graph here of energy so.
+1:06:12
+Andrew Ippolito: So here, if this is energy over by space, as I get at the sun, I have this amount of energy and, as I go further away from the song I go down in energy so i'm losing energy it's getting colder in space and then I hit earth, because I have an atmosphere, I can go up.
+1:06:33
+Andrew Ippolito: And then I go down again. Andrew Ippolito: into the cold in the dark.
+1:06:39
+Andrew Ippolito: And so you see this right here. Andrew Ippolito: that's the roller coaster of life.
+1:06:47
+Andrew Ippolito: Literally and if I zoomed into that. Andrew Ippolito: hold on where's my yeah if I zoomed into that.
+1:06:56
+Andrew Ippolito: it's literally the roller coaster. Andrew Ippolito: Right, you can see you're going uphill we're going to take this carbon dioxide and water we're going to go up hill make some sugars we're going to break that sugar down and make some ATP ATP until we go back to hear again and the rides over.
+1:07:12
+Andrew Ippolito: And life's dead. Andrew Ippolito: that's the end of the game that inevitably ends with the death.
+1:07:18
+Andrew Ippolito: Right and it's like it's it's all cycle.
+1:07:24
+Andrew Ippolito: So we don't see that energy cycles through things there's no energy cycle there's the carbon cycle and the nitrogen cycle on the water cycle and there's no energy cycle.
+1:07:35
+Andrew Ippolito: energy flows. Andrew Ippolito: You can't ever go back.
+1:07:44
+Andrew Ippolito: Okay rivers don't eventually start going in reverse. Andrew Ippolito: They follow gravity until they hit the ocean.
+1:07:55
+Okay.
+1:08:00
+Andrew Ippolito: All right, so another analogy is take the take a faucet turn it on wash the water flow and then stick a sponge there.
+1:08:09
+Andrew Ippolito: And washes the water gets absorbed by the sponge and the sponge takes on the water then eventually what happens the sponge gets saturated and then the water starts leaking out of the bottom, the sponge.
+1:08:19
+Andrew Ippolito: OK, so the sponge isn't trapping the water, the sponges just just slowing it down for a spell.
+1:08:29
+Andrew Ippolito: that's what our atmosphere is doing with the energy. Andrew Ippolito: The thicker the sponge the more water or retain the thicker the atmosphere, the more energy, I will retain.
+1:08:38
+Andrew Ippolito: Take the sponge away. Andrew Ippolito: And there goes life.
+1:08:44
+Okay. Andrew Ippolito: And so now here is the technical stuff and here's where the here's where you're going to now understand entropy.
+1:08:54
+Andrew Ippolito: In a closed system, the differences in temperature, so you got temperature T you have pressure P, you have density D, they tend to even out over time.
+1:09:10
+Andrew Ippolito: And so the measure of how far along this process is is called entropy.
+1:09:19
+Andrew Ippolito: entropy is the amount of disorder in a system.
+1:09:26
+it's the opposite of entropy.
+1:09:32
+Andrew Ippolito: You tell me anybody want to what what word, would you use just got the opposite of entropy.
+1:09:37
+Andrew Ippolito: order.
+1:09:43
+Andrew Ippolito: Okay, so now we're going to revisit the idea we talked about called degrees of freedom.
+1:09:50
+Andrew Ippolito: You guys remember that they talked a little bit about degrees of freedom your book doesn't give you this here, which is sad because degrees of freedom will help you understand everything.
+1:10:04
+Andrew Ippolito: And so what I usually do in class at this point in time is, I have a deck of cards.
+1:10:12
+Andrew Ippolito: let's go to the wipe here deck of cards. Andrew Ippolito: So I have this deck of cards.
+1:10:20
+Andrew Ippolito: Has anybody ever played the game 52 card pickup. Andrew Ippolito: raise your hand if you've ever played this game before raise your hand if you have yet to play this game.
+1:10:31
+Jordan Russell: It was not a fun game. Andrew Ippolito: No it's not and so people like Alexis and Sammy and who else has not played 52.
+1:10:36
+Andrew Ippolito: card pickup besides you to anybody Angela and risa Okay, so this is a really mean game I finally taught my kids this but for many years, I taught, as I kept saying I should teach my kids this before it's too late.
+1:10:53
+Andrew Ippolito: And now i've taught them that so jack would get jack would totally be the victim in this case and joey would totally be the instigator in this case.
+1:11:03
+Andrew Ippolito: that's my kids it's all about 52 card pickup so the way you play the game is you walk up to somebody and you say hey we're the deck of cards, you see how would you like to play 52 card pickup and you're like.
+1:11:14
+Andrew Ippolito: Okay sure, and what they do is they throw the cards on the ground and say all right go pick them up and they walk away it's a really mean game it's like a bullying tactic.
+1:11:28
+Andrew Ippolito: So I want you to think about the state, so we have a system now the system that we're going to play with is this deck of cards okay so here let's call this state one.
+1:11:41
+Andrew Ippolito: And then we throw it on the ground. Andrew Ippolito: And here they are let's call it Steve.
+1:11:52
+Andrew Ippolito: Now let's say I took that deck of cards and instead of just throwing it on the ground, like a jerk I decided to spend a whole bunch of time very carefully, building a card castle.
+1:12:15
+Andrew Ippolito: This is so much easier to build in whiteboard than it is in real life, because I basically get as far in the classroom as this.
+1:12:26
+Andrew Ippolito: i've never gotten further in the classroom there's too much pressure and time and the desks are slippery and the cards, I have heard like teflon coated so so much easier so let's call this D three.
+1:12:41
+Andrew Ippolito: Alright, so we're gonna consider a couple of concepts, now we got entropy.
+1:12:49
+Andrew Ippolito: We have stability. Andrew Ippolito: Much just consider those two for now.
+1:12:58
+Andrew Ippolito: So what I want you to do is make sure that you can translate this to molecules now so by analogy Okay, this would be carbon dioxide and water okay we're going to use sugar as an example here, this would be glucose.
+1:13:16
+Andrew Ippolito: And I don't know what this would be I just i'm the analogy only goes so far for some things that would be some intermediate.
+1:13:24
+Andrew Ippolito: You know here let's. Andrew Ippolito: call this.
+1:13:30
+Andrew Ippolito: don't worry about what that is yes it's an intermediate of the process.
+1:13:37
+Andrew Ippolito: Alright, so we have Stage one stage two and Stage Three. Andrew Ippolito: The first thing I want you to realize here let's say that the temperature is the same for all of them see you later good luck.
+1:13:49
+Andrew Ippolito: The temperatures, the same for all of them okay so so there's no difference in temperature here there's no difference in Brownian motion there's no difference in how fast they're moving there's no difference in their density or their concentration.
+1:14:07
+Andrew Ippolito: Well, maybe density yeah. Andrew Ippolito: But the point is, is what I want you to start to do is think that the difference in these states now is more abstract.
+1:14:21
+Andrew Ippolito: Okay, and this is what degrees of freedom is all about right, so let me, let me introduce the concept to you again what I want you to do is think about this date of this system here, this is a neatly stacked deck of cards.
+1:14:32
+Andrew Ippolito: you're holding this deck of cards in your hand all the cards are face down, so that when you hold it up the top, you know the back of the cards they're all showing they're all in that kind of thing but they're not in any particular order, this is a shuffle deck of cards.
+1:14:47
+Andrew Ippolito: Okay. Andrew Ippolito: I want you to now imagine. Andrew Ippolito: The kinds of things you can do with this deck of cards and I have, I have the deck you know what let me get my deck of cards I literally have a deck of cards hold.
+1:15:20
+Andrew Ippolito: cards Okay, so they have. Andrew Ippolito: Great just normal deck of cards.
+1:15:28
+Andrew Ippolito: I want you to consider this this, so this is step one. Andrew Ippolito: And I want you to imagine the kinds of things you can do to the cards.
+1:15:36
+Andrew Ippolito: The ways, you can move the cards and still. Andrew Ippolito: Keep the system essentially unchanged watch this i'm going to take this card here or here i'll show you here.
+1:15:50
+Andrew Ippolito: it's already here here's a magic trick here's a seven here's the seven a heart okay i'm going to take this seven our hearts watch this watch carefully i'm going to put it on the top of the deck.
+1:16:01
+Andrew Ippolito: i'm going to take it i'm going to put it somewhere in the middle here.
+1:16:08
+Andrew Ippolito: And i'm going to tap it here really hard and abracadabra and all that jazz.
+1:16:13
+Andrew Ippolito: There it is again. Andrew Ippolito: magic we had you do, that I musician or reveals the secrets, and now, but you know what you guys are my class i'll teach it to you ready you take two cards.
+1:16:28
+Andrew Ippolito: You put them really closely stuck together so they look like one card.
+1:16:33
+Andrew Ippolito: You put it on here, and then we should the top cards a fake card you don't show the audience right because that's not your card.
+1:16:40
+Andrew Ippolito: And you hide it in the middle somewhere and your cards still there on top that's the that's the secret the trick okay so but here's the thing I can shuffle this right, I can shuffle this deck right now, like this.
+1:16:53
+Andrew Ippolito: And it still looks the same right. Andrew Ippolito: This is still the same system, so I want you to now imagine a number, the number of different.
+1:17:03
+Andrew Ippolito: states, the number of different physical locations each card could be in and still the system will be the same so like this card right here just consider this one card, I can have it like this, I can rotate it like this right or I can put it in one of any of these spots.
+1:17:22
+Andrew Ippolito: Okay, so this card can be in all those different States I can't this this card here I can't do this to it right.
+1:17:32
+Andrew Ippolito: that's not the same system anymore, it has to be parallel to all the other cards so, in other words, if I consider this card, and I consider the number of states, it can be in your state one.
+1:17:45
+Andrew Ippolito: Two Okay, I can flip it upside down right that's that's also a difference NASA different system to.
+1:17:52
+Andrew Ippolito: So one or two and then let's say there's 50 positions here and each one could be up or down so let's say 100 positions.
+1:18:00
+Andrew Ippolito: Right, so, in other words, this system, while we that's 100 right and then there's how many cards there's 52 cards and then each one of those cards can be in 100 different States.
+1:18:10
+Andrew Ippolito: And in each one of those hundred states could be in that state with all the other hundred seats so there's there's a couple of probably hundred million states this this can be in.
+1:18:19
+Andrew Ippolito: Okay, but there's a number there don't worry about what it is that's the number of degrees of freedom, this system can be in and that right, there is a measure of entropy.
+1:18:30
+Andrew Ippolito: Because now we're going to take let's look at so their state one okay let's let's just make up a number let's say it's one times 10 to the third i'm just making that up.
+1:18:41
+Andrew Ippolito: Okay now let's look at Steve to these are the chaos cards on the floor, they can be in any they can be in any angle, they could be upside down.
+1:18:53
+Andrew Ippolito: In any angle and they could be in any so in all those different angles and flips they could be in any one of those positions within whatever that constraint of the circle bird's eye view let's say that you know the the cards occupy this space here.
+1:19:09
+Andrew Ippolito: Right so they're not out here, but beyond that, when they're inside that that boundary of the system, they can literally be in any position.
+1:19:20
+Andrew Ippolito: How big is that number gonna be. Andrew Ippolito: that's gonna be like.
+1:19:26
+Andrew Ippolito: A huge number. Andrew Ippolito: Right. Andrew Ippolito: The system will still look the same it will still be this disorganized mess of cards on the ground they're not puppies they're not catch their cards and they're within that circle there outside the circle.
+1:19:41
+Andrew Ippolito: Right so they're not complete chaos, but they're pretty chaotic.
+1:19:46
+Andrew Ippolito: OK now let's consider this third one. Andrew Ippolito: We can all agree, those cards are very constrained, there are very few degrees of freedom that a given card and that card Castle can be in, for example, for one thing, their angle, has to be precise.
+1:20:05
+Andrew Ippolito: Right just one degree off and the whole car collapses, the whole Castle collapses.
+1:20:10
+Andrew Ippolito: They have to be in not just this angle right but they they also have this angle, there so they're constrained in those two dimensions, the only thing you can do with this card is you can flip it upside down like this.
+1:20:23
+Andrew Ippolito: or flip it upside down like that and that's it so, in other words, this is a very small number let's just say this is one times 10 well here let's give this a 30 and make that a three.
+1:20:37
+Andrew Ippolito: Did that make sense. Okay. Andrew Ippolito: So now, you can associate you can quantitative let's pretend quantity, the concept of entropy with a number.
+1:20:50
+Andrew Ippolito: Okay, because that number. Is entropy.
+1:20:56
+Andrew Ippolito: The bigger than number. The bigger the entropy. Andrew Ippolito: The more degrees of freedom a stick a system can be in.
+1:21:05
+Andrew Ippolito: The more entropy that system has. Right.
+1:21:11
+Andrew Ippolito: That makes sense. Andrew Ippolito: raise your hands that made sense.
+1:21:17
+Andrew Ippolito: Okay, ask me questions if it didn't. Andrew Ippolito: This is the hardest concept, possibly in the course.
+1:21:26
+Sami Jordan: So what is see like exact definition of entropy. Andrew Ippolito: The, it is a measure of disorder of assist.
+1:21:36
+Andrew Ippolito: that's the simplest definition that's the textbook definition and by disorder what we mean.
+1:21:43
+Andrew Ippolito: is how. Andrew Ippolito: How close the system is to equilibrium.
+1:21:51
+Andrew Ippolito: You can think of the card mess on the floor as a state of equilibrium right any movement on those cards will result in nothing new.
+1:22:01
+Andrew Ippolito: Those are that this this state here state to the state of equilibrium would be like a glass of water.
+1:22:09
+Andrew Ippolito: or some air, you know just Brownian motion bopping around.
+1:22:16
+Andrew Ippolito: OK, so now now so here, so if you're still not getting in or you're starting to get it ready here's the next game which one of these systems.
+1:22:24
+Andrew Ippolito: So we just did entropy if I said to you which system has the highest amount of entropy Sammy What would you answer system one, two or three highest entropy.
+1:22:36
+Andrew Ippolito: Yes, okay you got it right that's high entropy maximum chaos. Andrew Ippolito: Alright, so here's my next question which system is the most stable.
+1:22:53
+Andrew Ippolito: The moat so let's see that we were in the classroom here. Andrew Ippolito: and Andrew Ippolito: I had three decks of cards set up like this, I had a deck of cards neatly stacked on the desk in front of me I had a deck that I threw on the ground, and then I have a deck that i've spent two hours, making this card castle.
+1:23:08
+Andrew Ippolito: And then I said this let's play an experiment let's we're all going to leave the classroom and i'm going to bring my son's into the classroom and i'm going to tell them they can do whatever they want for 10 minutes and we're going to place bets.
+1:23:21
+Andrew Ippolito: Which one of those systems is going to look exactly the same when we come back in.
+1:23:28
+The second one right. Andrew Ippolito: That second system is the most stable.
+1:23:35
+Andrew Ippolito: That glass of water is not going anywhere. Andrew Ippolito: That broken a leg isn't going to clean itself up.
+1:23:43
+Andrew Ippolito: Okay, so what I want you to now draw a line in the stability and entropy and systems, which is the most unstable.
+1:23:59
+Alexa Deprisco: Three three right. Andrew Ippolito: The second jackets in the classroom you. Andrew Ippolito: know this is a cool oops.
+1:24:05
+Andrew Ippolito: he's just going to touch it once he's probably just the wind from his movement of rapid running towards it will be enough to knock it off.
+1:24:14
+Andrew Ippolito: Right, this is going to very rapidly convert to that stick.
+1:24:21
+Andrew Ippolito: Right I almost don't even need the state here for this analogy right, this is just this is a transition sort of right that's so that's reasonably stable, but if you knocked it off the ground Oh, if you knock that off the desk that will turn into a mess right.
+1:24:39
+Andrew Ippolito: But it's more stable than that card castle. Andrew Ippolito: Alright, so any system and biology now in chemistry, what I want you to now do is translate this.
+1:24:52
+Andrew Ippolito: This is what we're gonna be spending a lot of time with soon, so we might as well get used to it, this is let's see this is glucose that's one molecule of glucose plus one plus six molecules of oxygen guests.
+1:25:08
+Andrew Ippolito: And we are going to convert this to six molecules of carbon dioxide plus six molecules of ot gas plus some energy.
+1:25:20
+Andrew Ippolito: These are stoking symmetrically balanced there's the same number on each side. Andrew Ippolito: Okay right if we have carbon hydrogen and oxygen there are six carbons here there are six plus.
+1:25:34
+Andrew Ippolito: oxygens there are 12 hydrogens and just to verify this we got ch and Oh, we got six of these we got I got too many over here and why do I do this, all the time.
+1:25:49
+Andrew Ippolito: there's 12 there's 24 there. Andrew Ippolito: So where Am I missing 24. Andrew Ippolito: Water Thank you Thank you that's what I was missing water water is over here.
+1:26:03
+Alexa Deprisco: Thank you wouldn't do to be with the glucose and the oxygen be with the like.
+1:26:10
+Andrew Ippolito: yeah yeah hold on hold on I, yes, this i'm trying to do is off the top of my head quickly I think that's right there we go the paws energy.
+1:26:19
+Andrew Ippolito: Alright, so. Andrew Ippolito: And then that's 12 and there we go stoking metric this is stoke geometry For those of you who are be vaguely remember chemistry that's the idea of making sure that everything on one side of the equation is the same as, on the other.
+1:26:37
+Andrew Ippolito: Okay, so this goes back to the first law of thermodynamics you can't create or destroy things.
+1:26:42
+Andrew Ippolito: You can chemistry is just basically shuffling things around. Andrew Ippolito: Like those that deck of cards on the ground, or just shuffling them around.
+1:26:51
+Andrew Ippolito: Okay alright so let's consider this now glucose here, this is a high, this is the card castle.
+1:26:58
+Andrew Ippolito: This is a highly structured molecule. Andrew Ippolito: oxygen guests is just oxygen guess that's not very structured right and watch this we're have one molecule here, plus six markets, we got seven things on the left side, and we have 12 things on the right side.
+1:27:20
+Andrew Ippolito: If I had a Lego car and I dropped it pretty hard on the ground and it shattered.
+1:27:26
+Andrew Ippolito: Right I started out with one thing, and now I have many things.
+1:27:31
+Andrew Ippolito: So another quick and dirty way of calculating entropy is which side has more things on it.
+1:27:38
+Andrew Ippolito: there's one card Castle well there's 52 cards on the ground.
+1:27:44
+Andrew Ippolito: Okay that's it again just rough and dirty because because here's the reason why we have to do all this, the reason why this is so important.
+1:27:53
+Andrew Ippolito: Is when we consider any biological system we're always asking the question which way are things flowing.
+1:28:01
+Andrew Ippolito: Which direction is this reaction going, is it going from the left to the right or for the right to the left is it a spontaneous reaction, is it not spontaneous.
+1:28:13
+Andrew Ippolito: Okay, so the analogy here is, we have this fancy ring of carbons and the oxygens.
+1:28:26
+Andrew Ippolito: Right. Andrew Ippolito: Oh ah here and always here and then over here we just have a bunch.
+1:28:34
+Andrew Ippolito: of carbon dioxide and water so think of this as like the shattered Lego car and think of this as the intact Lego car.
+1:28:42
+Andrew Ippolito: Okay, so the temperatures, the same The difference is just in the organization in the order in in the positioning.
+1:28:53
+Andrew Ippolito: Of the items. Andrew Ippolito: Okay, so so when we consider the total energy in a system now right i'm going to finally give you the equation here with entropy in it we're gonna say ah that's all the energy of this system.
+1:29:08
+Andrew Ippolito: is equal. Andrew Ippolito: To the free energy of this system.
+1:29:14
+Andrew Ippolito: minus. Andrew Ippolito: You have Ts the temperature of the system, how fast, things are moving around and the entropy of a system how order how disordered is, and so, if you think about this component here the disorder and the thermal energy collectively think of this as the unusable energy of a system.
+1:29:40
+And this is the usable energy. Andrew Ippolito: Right, so the simplest way to do it is think the total energy of a system.
+1:29:48
+Andrew Ippolito: is equal to the useful energy minus the useless energy.
+1:29:58
+Andrew Ippolito: i'm sorry i'm sorry plus plus plus plus that's the total energy i'm teaching us for the first time you have the useless, energy and the useful energy all mixed up together that's the total energy.
+1:30:13
+Andrew Ippolito: Okay, so entropy entropy. Andrew Ippolito: is equal to the gives free energy, plus the product of the temperature and entropy or Ts.
+1:30:28
+Andrew Ippolito: and therapy is h. Andrew Ippolito: So in the book you'll see H equals G plus Ts.
+1:30:37
+Andrew Ippolito: really, really, what the books doing is it's telling you about gives free energy So if you just use the algebra and software G there.
+1:30:45
+You get that. Andrew Ippolito: And then, if you're looking at the change.
+1:30:53
+Andrew Ippolito: And that's, this is the equation you'll see in your book. Andrew Ippolito: So i'm teaching how to derive that.
+1:31:01
+And it's one o'clock. Thank you. Thank you, thank you dad.
+1:31:09
+Andrew Ippolito: Okay, so back to the PowerPoint here to end this.
+1:31:18
+Andrew Ippolito: This is where we just jumped hold on go right here here's your each engine that right there there's your free total energy is equal to the gifts energy plus Ts and then.
+1:31:32
+Andrew Ippolito: This is the, this is what you're going to see in your book. Okay.
+1:31:39
+Andrew Ippolito: So i've given you enough of the conceptual stuff where you can go into the home right now.
+1:31:44
+Andrew Ippolito: And you can outline the chapter, and you can read through it yourself, and you can teach you can fill in the holes on your own, and then on Wednesday we'll revisit this and and and we'll finish this up we'll do most of the part two of this is enzymes once we understand how energy works.
+1:32:03
+Okay. Andrew Ippolito: And i'll take the time to go through the here this idea here right there's there's your card Castle plus your oxygen and then here's the chaos that comes out of that so you could say that this is the system at state one, and this is the system at state to.
+1:32:24
+Andrew Ippolito: that's how you can start thinking about this. Andrew Ippolito: So we have all those little arrows here, these are all the bonds, we have to break.
+1:32:32
+Andrew Ippolito: And we add all that together and we get some amount of energy that we put into this system to break those bonds and then we consider all these bonds that we made.
+1:32:40
+Andrew Ippolito: And so you can think of each of these just releasing energy and we add all that up and so when you add the energy that you put in and the energy that you got that got given off you add all that together if the Net is a positive number.
+1:32:55
+Andrew Ippolito: that's a spontaneous reaction because it's given off more energy than it's put in.
+1:33:02
+Okay. Andrew Ippolito: And i'll leave it at that that's when today. Victoria Bloemker: are changing free energy um what is it it's like changing free energy equals change in total energy and then subtract what.
+1:33:16
+Andrew Ippolito: So this says that the change and free energy is equal to the change in the systems total amount of energy minus.
+1:33:26
+Andrew Ippolito: The change of its entropy okay So you see this tea notice how the tea doesn't have a delta in front of it yeah that's because your book here.
+1:33:38
+Andrew Ippolito: In the systems in biology so inside the cell, which is where we are, in reality, the inside of the cell generally doesn't change temperature too much from one moment to the next, so we're assuming this so this equation assumes temperature is a constant.
+1:33:56
+Andrew Ippolito: Okay, so all things being equal, the temperature being equal, that delta s that's that changing the degrees of freedom we were talking about this is the hardest thing to understand and the entire.
+1:34:08
+Andrew Ippolito: Book I would say, for for me anyways for maybe for some of you this just makes intuitive sense I don't know does anybody doesn't make intuitive sense to anybody, they just say Oh, of course, yeah I mean either so So the idea that Delta, so that is a change in the disorder of a system.
+1:34:28
+Andrew Ippolito: don't even worry about the. Julia Lakchin: Units go ahead Julie. Julia Lakchin: So when you were writing it on the blackboard you did H equals G plus Th but there it says G equals at minus.
+1:34:43
+Andrew Ippolito: Okay, so what I want you to do. Andrew Ippolito: Okay, so so this here, this is like here. Andrew Ippolito: here's the system.
+1:34:49
+Andrew Ippolito: Okay it's a total system, you can think of the system cut it in half and think some component of the total amount of so the total circles, if this is a pie chart.
+1:34:59
+Andrew Ippolito: Okay, the entirety of it 100% that would be ah OK that's the envelope of the system that's a total amount of energy, this system as we can cut it in half between the useful amount and the useless amount.
+1:35:15
+Andrew Ippolito: The useful amount we're going to call this G that gives free energy that's the energy available to do work on the system.
+1:35:24
+Andrew Ippolito: The other part there's two characteristics of the system that feed that how fast everything's moving and we're called that temperature.
+1:35:34
+Andrew Ippolito: Right, so the faster everything's juggling the more energy it has right you eat something up it's got more energy. Andrew Ippolito: doesn't mean you can do anything more with it now you've just heated up so it's useless OK, and then how order disorders, is a card Castle, or is it a mess on the ground will call that ass.
+1:35:49
+Andrew Ippolito: And you just multiply those two things together, and you get that half of the pie pie chart.
+1:35:54
+Andrew Ippolito: Okay, and so you would say that the free the total energy of this system so let's just write this again as i'm saying it out loud, the total amount of energy, a system has is equal to the amount of free energy, plus the amount of useless energy, which is the temperature times the entropy.
+1:36:12
+Andrew Ippolito: OK, so now, the question isn't how much total energy does the system have we're interested to know how much free energy system as because that's going to tell us whether or not so spontaneous reaction.
+1:36:27
+Andrew Ippolito: Okay, because you in order to work, we can we do work or can't we do work right if if we say like if I take water if I drink some water will I get energy out of that.
+1:36:39
+Andrew Ippolito: Yes or no well, it depends, if I mean So the answer is no, you can't drink water to survive right, but why can you because there's not enough free energy in there, in other words, if I take water.
+1:36:51
+Andrew Ippolito: Right what we've talked about there's like two molecules of water break down into what an H3 Oh, plus plus and minus right that goes rapidly back and forth there it can't get any energy out of that.
+1:37:03
+Andrew Ippolito: Okay glucose, though, when we take see 6206 and we break that down.
+1:37:09
+Andrew Ippolito: that's gonna stay down once you break it right, once you bring would it stays is charcoal it doesn't go back to being one spontaneously that's kind of a one way chemical reaction.
+1:37:19
+Andrew Ippolito: And so it all has to do with how much free energy, the system has so we have to solve for that mathematically so just use your basic algebra and and take this equation and software g.
+1:37:30
+Andrew Ippolito: Right so so we want to isolate G on the left hand side well how do we do that well, so the other side's got an h.
+1:37:38
+Andrew Ippolito: And then we have this plus Ts let's move this over here and I will say minus Ts.
+1:37:43
+Andrew Ippolito: Okay, and so this is the beginning of that equation, and now we're just going to say we want to see, we want to try to calculate the change in it.
+1:37:52
+Andrew Ippolito: So the change in gives free energy is equal to the change in entropy minus we're going to save temperatures constant but we're going to change the entropy.
+1:38:03
+Andrew Ippolito: And that's and that's where your book starts. Andrew Ippolito: Your book doesn't drive this for you, I did, because when you first look at this in the book abstractly you're like Why is what is this equation, where does it come from.
+1:38:19
+Andrew Ippolito: I personally hated it when I would read science textbook and we just hit me with some equation that was abstract and it didn't explain where it came from.
+1:38:30
+Andrew Ippolito: I always so so in your math when you guys do more physics and chemistry.
+1:38:35
+Andrew Ippolito: always be able to derive the equations are using from first principles.
+1:38:42
+Andrew Ippolito: that's how you truly master a concept. Andrew Ippolito: To be able to to drive the equation you guys have done derivations in your math well when you take calculus you'll do a lot of derivatives.
+1:38:52
+Andrew Ippolito: or they're really they're called proofs. Andrew Ippolito: proofs or when you start with some equations like you'll do those in.
+1:39:03
+Oh, my gosh. Andrew Ippolito: cosine tangent trigonometry.
+1:39:08
+Julia Lakchin: Thank you yeah. Andrew Ippolito: You have to prove centric like Why is you know the, why is the cosine of 90 degrees, whatever the coast on a 90 degrees is like I don't have a burned in my head anymore.
+1:39:21
+Andrew Ippolito: Right, the unit circle and all that jazz. Andrew Ippolito: So that's my philosophy on understanding the math behind things.
+1:39:29
+Andrew Ippolito: Okay did that help. Okay.
+1:39:35
+Andrew Ippolito: So we'll get more into this next time and it's so it's okay if you're walking away from today with a partial understanding that's totally okay you got to read the book.
+1:39:42
+Andrew Ippolito: You got to do the homework you got to chew on it for a few days, this i've been thinking about this stuff since I started teaching in 2007 and every time I teach it, I still get little explosions of insight into all this.
+1:39:56
+Andrew Ippolito: So so give yourself license to be a little confused by this it's okay your brain has to spend time with it.
+1:40:06
+Andrew Ippolito: And all and that's where i'll end today i'm going to stop the recording here.

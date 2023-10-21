@@ -1,0 +1,704 @@
+0:02
+all right we're going we're just doing a
+0:03
+little brief review on gpcrs we were
+0:05
+asked to map out the gpcr pathway
+0:07
+basically and so i'll step out here
+0:10
+where we're at this point
+0:12
+this is the filming technique called in
+0:14
+media race
+0:16
+which means in the middle of things
+0:18
+this is how someone we start just right
+0:20
+in the action like the beginning of the
+0:21
+first star wars pew pew pew what's going
+0:23
+on we don't know that's just what kind
+0:24
+of how you started watching this right
+0:26
+now so what's going on we don't know so
+0:28
+the first thing we drew here was the
+0:30
+growth factor versus the protein hormone
+0:31
+and we asked what the difference was
+0:33
+between them
+0:34
+what the relevant difference is and
+0:36
+we were um
+0:38
+brought to the idea that growth factors
+0:40
+act locally and hormones act over longer
+0:43
+distances and so we have the paracrine
+0:45
+signaling idea versus the paracrine and
+0:49
+i'm sorry paracrine signaling being
+0:51
+local and endocrine being added distance
+0:54
+then we talked about the first
+0:55
+constituent here this is the
+0:56
+g-protein-coupled receptor it goes
+0:58
+across the membrane seven times
+1:01
+they're highly conserved in their
+1:02
+structures
+1:03
+and they bind to some hormone
+1:06
+the g protein coupled receptor will then
+1:08
+activate a g protein
+1:10
+the next player here
+1:12
+by default the g protein is bound to gdp
+1:16
+guanosine diphosphate
+1:18
+which renders it inert it is not
+1:20
+biologically active here
+1:21
+and upon being stimulated by the gpcr
+1:25
+the gdp dissociates and the gtp comes in
+1:28
+and binds once the g protein is bound to
+1:30
+gtp it's activated
+1:34
+it then goes over here and it
+1:36
+activates the enzyme adenylyl cyclase ac
+1:40
+which in turn takes
+1:41
+adenosine triphosphate and converts it
+1:44
+into cyclic amp here's the bonus
+1:46
+question when it does this conversion
+1:48
+from atp to cyclic amp what's one of the
+1:51
+byproducts here what's the key byproduct
+1:58
+it's like a
+1:59
+kpa
+2:03
+no that's not correct
+2:11
+okay well particularly what kind of
+2:12
+phosphate is it just plain old
+2:14
+p
+2:16
+i don't like the pi they usually do know
+2:18
+okay so it's so this is an instance
+2:21
+where it's not just one so right that's
+2:23
+just one phosphate we're going from a
+2:24
+triphosphate
+2:26
+to a monophosphate right so how many
+2:29
+phosphates would have had to come off
+2:31
+and two
+2:32
+two okay so there's a there's a word we
+2:34
+use to describe this this double
+2:36
+phosphate
+2:37
+this molecule is called pyrophosphate
+2:40
+or pyrophosphate depending on who's
+2:42
+saying it
+2:45
+i guess pyrophosphate
+2:48
+does that have an h in it i always yeah
+2:50
+you know what i'm not not important
+2:52
+enough for me right now
+2:56
+all right
+2:57
+um so now we have uh this molecule
+3:00
+cyclic amp diffusing throughout the cell
+3:02
+what class of molecule is cyclic amp
+3:06
+in this case what's it being used as
+3:08
+here going julia
+3:11
+oh that looks you look like you're
+3:12
+raising your hand
+3:14
+you're just lounging
+3:26
+when i read to my kids at night joey
+3:27
+sits there on the couch like this
+3:31
+i'm not exaggerating and so i look up
+3:33
+i'm like do you have a question buddy
+3:34
+and he's like
+3:37
+but it's like my all my teacher
+3:38
+instincts are there i'm like you you
+3:40
+have to you put your hand down then i
+3:42
+can't handle this
+3:44
+i don't even know what he's doing like
+3:45
+he's stretching or something
+3:49
+cyclic amp
+3:52
+is a
+3:53
+secondary secondary yeah you got good so
+3:56
+let's all say it together secondary
+3:58
+messenger good and you can abbreviate
+4:00
+secondary like this
+4:02
+remember primary secondary tertiary
+4:04
+quadrature you could a little degree
+4:05
+sign secondary secondary messenger
+4:09
+good
+4:10
+what's cyclic amp do
+4:19
+last step
+4:40
+it makes the
+4:42
+kpa
+4:45
+i'm just doodling until you get yeah
+4:47
+what'd you say it makes what
+4:49
+the kpa like i forget the actual word of
+4:51
+it oh oh you got the right letters
+4:53
+they're in the wrong order though you
+4:55
+almost got it there
+4:58
+like pka like the acid one
+5:02
+oh oh oh pka like yeah so protein kinase
+5:07
+a
+5:08
+pka
+5:11
+zack i like that that's how you can
+5:12
+remember the like peak i think pka
+5:17
+so protein kinase a good so this is the
+5:20
+kinase activated voice that they can't
+5:21
+be and then what does it do it or
+5:23
+whatever it does it
+5:25
+that's that's the door that's closed
+5:26
+where you hear all the noise behind it
+5:28
+it's okay
+5:33
+right so this this
+5:35
+when you step back and look at this now
+5:36
+right here so ready i'll draw it one
+5:37
+more time in a succinct way we got
+5:41
+one two three four five six seven
+5:43
+we have a g p c r
+5:47
+we have a peripheral
+5:49
+g protein
+5:54
+we have
+5:57
+adenylyl cyclase
+6:04
+and we have protein kinase a
+6:14
+there
+6:15
+and then the little key players here we
+6:17
+have our primary messenger our hormone
+6:20
+our signaling molecule our ligand
+6:23
+whatever you want to call it
+6:24
+we have our gdp
+6:28
+and our gtp
+6:30
+and our
+6:32
+atp
+6:34
+and our cyclic amp
+6:37
+and then our
+6:39
+pyrophosphate
+6:41
+okay so the way you do this is you just
+6:44
+literally you just draw it out a few
+6:46
+times while being mindful about it
+6:49
+and once you have it in your head
+6:52
+it almost never leaves
+6:54
+once it's there
+6:56
+okay try writing it backwards and
+6:58
+forwards
+6:59
+starting with protein kinase say in
+7:01
+reverse go back
+7:02
+right it's kind of like can if you can
+7:04
+see the alphabet backwards you know your
+7:05
+alphabet
+7:07
+i cannot say the alphabet backwards
+7:10
+without thinking through it very very
+7:12
+slowly but i've heard people just be
+7:13
+able to rattle it off like the forward
+7:15
+way and that just bothers me
+7:19
+like z
+7:21
+y
+7:23
+alright that's how i do it that's the
+7:24
+only way i could do it
+7:26
+but right i have that in my head so this
+7:28
+is the same thing this is an alphabet
+7:33
+this is a self-contained
+7:36
+module
+7:38
+that's how i want you to see this
+7:40
+this
+7:41
+this is all
+7:43
+together
+7:44
+not physically functionally this is a
+7:47
+functional self-contained unit in other
+7:48
+words we can pop this out
+7:50
+in theory
+7:52
+and put it over here
+7:53
+in a different cell for a different
+7:55
+purpose
+7:58
+right this is
+7:59
+a basic functionality of higher level
+8:01
+eukaryotic cells remember that's the
+8:03
+first time i've said this to higher
+8:04
+level cells
+8:06
+not superior
+8:08
+way more evolved
+8:11
+okay
+8:12
+when we it it's it's a dangerous word
+8:15
+it's a dangerous phrase to say higher
+8:17
+order animals or higher order plants
+8:20
+because it suggests that they're
+8:24
+superior
+8:26
+okay they're not
+8:28
+and if you think they are
+8:30
+try living without oxygen for a little
+8:32
+while and see how you do and compare
+8:33
+yourself to an anaerobic bacteria
+8:35
+right
+8:37
+it depends on the environment
+8:40
+okay
+8:42
+and that's all i'll say about that
+8:43
+that's that's our chapter 11 song and
+8:45
+dance
+8:47
+now my question to you guys is do you
+8:48
+want me to stop this video do you want
+8:50
+to keep this as a little chunk and then
+8:52
+have a bigger video yeah so okay you
+8:54
+guys
+8:54
+let's do that so i'm going to stop this
+8:56
+video now or any other questions on this
+8:58
+topic before i stop it anything else
+8:59
+worth
+9:01
+digging into
+9:03
+all right here's so here here will be my
+9:04
+last question then
+9:06
+what are the other two common
+9:08
+eukaryotic
+9:10
+signal transduction pathway strategies
+9:13
+this was gpcrs what are the other two
+9:19
+just their names
+9:30
+signal transduction and cellular
+9:33
+response okay so that's that's the topic
+9:36
+signal transduction
+9:38
+so so gpcrs the gcpr pathway would be
+9:41
+one way that we can do signal
+9:43
+transduction to elicit a cellular
+9:44
+response what are the other two ways
+9:46
+i see a chat bubble pop up here we got
+9:49
+okay good april said ion channel
+9:51
+receptor excellent that's one of them
+9:54
+i'm trying to write with a highlighter
+9:57
+ion
+9:59
+channel
+10:01
+the other one is like thai
+10:03
+tyron something
+10:07
+our buddy tyron
+10:11
+you got that word's in there sort of a
+10:14
+word that sounds almost like that so the
+10:15
+word the word that you're thinking of is
+10:17
+tyrosine
+10:21
+what is tyrosine
+10:22
+tori
+10:25
+um
+10:27
+isn't it like an enzyme
+10:30
+nope the thing we're talking about here
+10:34
+has enzyme activity tyrosine itself
+10:37
+is
+10:39
+one of 20
+10:40
+[Music]
+10:41
+amino acids amino acids sorry so
+10:43
+tyrosine is a specific amino acid within
+10:45
+the chain of a polypeptide
+10:48
+okay and so what are the other two words
+10:50
+i put two blanks there
+10:52
+blank tyrosine blank
+10:57
+taken tailor
+10:59
+kinase
+11:00
+okay where's that
+11:01
+at the end
+11:03
+okay good kinase
+11:05
+and what's the first word
+11:06
+receptor excellent
+11:09
+right so we got receptor tyrosine
+11:10
+kinases otherwise known as rtks
+11:15
+we got ion channel receptors and gpcrs
+11:20
+there are others but these are the three
+11:23
+biggest groupings
+11:25
+that we come across when we study this
+11:27
+stuff
+11:28
+okay
+11:33
+very good
+11:34
+so when we talk about like
+11:37
+the um signal transduction and cellular
+11:40
+response
+11:41
+you said those are like top broader
+11:43
+topics
+11:46
+i said what
+11:47
+didn't you say there were like broader
+11:49
+topics of like
+11:53
+yeah yeah so so signal
+11:57
+transduction
+12:00
+pathways
+12:02
+include
+12:04
+rtks
+12:06
+ion channel
+12:08
+receptors and g-protein-coupled
+12:10
+receptors so these are three broad
+12:12
+categories of signal transduction
+12:14
+pathways within each of those are
+12:16
+specific pathways for example there's
+12:19
+the estrogen pathway which is a steroid
+12:21
+hormone which isn't one of these three
+12:23
+there's the beta and
+12:25
+beta
+12:26
+andronergic pathway which is one of the
+12:29
+gpcr pathways
+12:30
+okay there's the insulin response
+12:32
+there's so there's there's literally
+12:34
+thousands of these different
+12:36
+signal transaction pathways and so what
+12:39
+we're doing
+12:40
+not we but researchers are are
+12:43
+picking them apart to understand how
+12:45
+they work so we can see how they play
+12:48
+roles in various pathologies
+12:50
+one of the most common pathologies that
+12:52
+these things are affected with is is
+12:54
+cancer
+12:55
+but
+12:57
+many many many diseases
+13:00
+can ultimately be traced to problems in
+13:03
+one of the players in a signal
+13:04
+translation pathway
+13:07
+whether it's a non-functional receptor
+13:09
+or a hyper functional receptor
+13:12
+or
+13:13
+protein kinase mutations in these
+13:15
+various molecules that can cause
+13:18
+problems right so the more complex the
+13:20
+system
+13:21
+the more complex your problems are
+13:24
+all right there's a saying that we
+13:26
+parents have that i learned a couple
+13:27
+years ago where you talked so like when
+13:29
+my kids were little and i would talk to
+13:32
+parents of children uh that were
+13:33
+teenagers the parents had the saying
+13:36
+little kids little problems big kids big
+13:39
+problems
+13:41
+like be thankful that the biggest
+13:42
+problem you have is your kids are
+13:43
+fighting over the nintendo switch
+13:46
+you know it's not oh i have to go to
+13:47
+jail and pick my kid up whatever
+13:50
+big problems so complex systems complex
+13:53
+problems simple systems simple problems
+13:56
+good
+13:58
+all right i think that that's milk in
+14:00
+chapter 11
+14:01
+for all it's worth at that point
+14:03
+i'm gonna um
+14:05
+i'm gonna stop the recording here

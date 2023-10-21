@@ -1,0 +1,1296 @@
+0:01
+Andrew Ippolito: All right, here we are, this is a Chapter six lecture five part two right we Oh, we did talk about this on.
+0:10
+April Neeld: I think you showed us the video is the one with like the weird thing. Andrew Ippolito: about the at the Walker.
+0:17
+Andrew Ippolito: yeah you guys do everybody remembers a Walker when they see this yeah Okay, we did so today right we finished bacteria, we got up to back to your prokaryotes really.
+0:27
+Andrew Ippolito: yeah so keep just keep in the back of your mind when I see prokaryotes. Andrew Ippolito: prokaryotes is a type of cell it's not a formal name of attacks on.
+0:41
+Andrew Ippolito: Some people use it that way, I do, I consider the prokaryotes.
+0:48
+Andrew Ippolito: And then you carrier it's. super domains.
+0:54
+Andrew Ippolito: But really as i'm thinking, the reason i'm pausing and my. Andrew Ippolito: Some thinking out loud to.
+1:02
+Andrew Ippolito: Do you care is came from the pro carriers that's we're gonna learn today with the set theory that Tony was talking about earlier today.
+1:11
+Andrew Ippolito: Life started out as a pro periodic cell Luca Luca the last universe of common ancestor Luca was appropriate.
+1:19
+Andrew Ippolito: And we'll see today and set theory that we're gonna make you carry us out of that so I guess we'll start with that.
+1:27
+Andrew Ippolito: And then, once we once we elect this little lecture on set theory we're going to go to the whiteboard and we're gonna start doodling cells that'd be fun so here's what happened that you know what let's go to the go to the whiteboard.
+1:43
+Andrew Ippolito: When I do that do you guys see the whiteboard now. Andrew Ippolito: yeah cool and then we buy click this do you now see PowerPoint.
+1:51
+Taylor Campbell: know. Taylor Campbell: How about. Andrew Ippolito: Oh, I see what I gotta do okay i'm just trying to figure it all back and forth how about now.
+2:00
+Andrew Ippolito: PowerPoint. Taylor Campbell: No, no.
+2:05
+Andrew Ippolito: Oh, it says drag to other screen to share, how do I do that that's not I can't do i'm gonna stop the share guys i'm taking my ball and going home.
+2:18
+Andrew Ippolito: Now i'm gonna have to do slide show setup slide show PIC monitor primary monitor there we go oh boy what a pan of botox that was let's do this okay share screen.
+2:36
+Andrew Ippolito: All right, and put you guys over here all right, you guys see the slide right, and now you see the whiteboard.
+2:47
+Andrew Ippolito: Right OK there's my gotta be able to switch back and forth it alright so here's step three.
+2:53
+Their story time. Andrew Ippolito: Once upon a time, we had a planet.
+3:02
+Andrew Ippolito: So when earth was first formed. Andrew Ippolito: It was like a pie in the oven the Center of the planet, was really, really molten this was all hot goopy mess.
+3:17
+Andrew Ippolito: and Andrew Ippolito: The way the chemistry worked was it would burp up gases from the Interior and that's how our atmosphere first came to be.
+3:28
+Andrew Ippolito: Okay, so we we establish this atmosphere around the planet from the gases from within, and then gravity kept it there okay simultaneously for 500 million years asteroids pummeled the surface.
+3:45
+Andrew Ippolito: 500 million years of nuclear war.
+3:51
+Andrew Ippolito: right if life tried to evolve during that time it had no chance the hey look at me boom oh look at me boom hey i'm here boom right I missed to me seems like to me boom you guys ever watched.
+4:05
+Andrew Ippolito: yeah you know i'm talking about if you know who Mr Mrs anybody know Mr Mrs I must me seems like to me yeah that's one of my favorite cartoons ever I binge watched it over break oh my God.
+4:21
+Andrew Ippolito: that's rick and morty For those of you who, if you haven't watched rick and morty rick and morty.
+4:26
+Andrew Ippolito: Go see if you can stomach it some of us to me it's a cartoon but the way they draw things in there is not so comfortable, but the comedy.
+4:34
+Andrew Ippolito: Man I channel rick sometimes by accident anyway earth 500 years nuclear war.
+4:40
+Andrew Ippolito: Okay, and the idea here is these asteroids probably brought the seeds of life, they probably brought some pre assembled building blocks, like some sugars like rainbows which we found out there, we found rainbows out in in asteroids.
+4:54
+Andrew Ippolito: And amino acids, we found those two ribosome amino acids are everywhere in the cosmos it turns out, which is kind of crazy.
+5:03
+Andrew Ippolito: Recently I read that i'm phosphate is rare in the cosmos and that the only way to get phosphate a certain supernova.
+5:12
+Andrew Ippolito: That created and they spread out their their gas and so only the stars in that vicinity would get the phosphate so so life might not be as common as we think out in the cosmos but, in any case here on earth we got it, this is why so.
+5:27
+Andrew Ippolito: Eventually the planet started cooling down enough so that the core of the planet, was small enough so we still have a molten core Earth is still cooling down to this day, we have a.
+5:39
+Andrew Ippolito: slag the molten nickel core down here all the dense stuff fell to the bottom, basically, and this, as it spins, this is what gives rise to our magnetic field that protects us from all those crazy.
+5:53
+Andrew Ippolito: cosmic rays, that would otherwise kill us right we got this fancy magnetic.
+6:00
+Andrew Ippolito: field around us that help steer away those charged particles, so we don't die, which is kind of cool Mars doesn't have one of those that's part of the reason why life on Mars isn't really a good idea there's no magnet magnet magnetic sphere.
+6:15
+Andrew Ippolito: So anyway. Andrew Ippolito: The early atmosphere of earth was anoxic anoxic meaning it had no oxygen.
+6:24
+Andrew Ippolito: Okay, and it was a highly reducing environment. Andrew Ippolito: will learn about what reduction is later in the Semester, but the idea is is it has.
+6:34
+Andrew Ippolito: The ability to push electrons on to things. yeah.
+6:40
+Andrew Ippolito: I should say it's it yeah pushed into it favors the electrons moving, so it favors favors chemistry and favors the movement of the chemistry.
+6:49
+Andrew Ippolito: Okay, the first things that probably evolved more RNA RNA molecules are probably the first bio polymer on the planet.
+6:57
+Andrew Ippolito: poly peptides are probably also assembling this was all just on the surface two dimensional the ocean Oh well, that's great so then it ring for another couple I think 10s of millions of years it rain.
+7:12
+Andrew Ippolito: It rained a lot so as earth was cooling. Andrew Ippolito: The water vapor would condense forming clouds and then it rained.
+7:23
+Andrew Ippolito: Okay, and that water was probably also carried along by these comments that held down on us and some of the water from the inside, so we've got we got an atmosphere.
+7:36
+Andrew Ippolito: i'm sorry we got we got water and it rained for so many years that eventually the oceans came to be.
+7:43
+Andrew Ippolito: And so now, we had the earth spinning. Andrew Ippolito: We have the sun shining down on it, and we have water, and so this creates this very dynamic environment.
+7:55
+Andrew Ippolito: where you have wave splashing against the shore, you have the the waves being on the brake and make things over and over again, if you ever stood by the ocean and you felt the waves right there's a lot of energy there and so RNA comes to be the self replicating polymer.
+8:14
+Andrew Ippolito: And from there. Andrew Ippolito: Either the one of the one of the current models is this this called the oil droplet hypothesis, the idea that fossil lipids and and all the other building blocks, instead of having a membrane.
+8:30
+Andrew Ippolito: The first promo cells were probably little droplets of oily stuff that had RNA in it and they were able to replicate and some of the experiments they've done with this show like, if you take an oil droplet.
+8:41
+Andrew Ippolito: And the. Andrew Ippolito: They get too big, they eventually start to disperse them break apart, and so it turns out the sizes of these droplets are about the same size as a bacterial cell so there's something in the physics of all these systems that get you that size.
+8:59
+Andrew Ippolito: And then eventually they get encapsulated by this festival goodbye. Andrew Ippolito: So we're not sure which came first the droplet part, like the cytoplasm or the plasma membrane right in any case Luca comes out of all this.
+9:13
+Andrew Ippolito: This is our last universal common ancestor right now, there were probably other cells, there was another competition there was something going on and Luca one.
+9:21
+Andrew Ippolito: And that that whole epoch of time before Luca is hidden from us and we'll never know anything about it because there's zero trace of any of it, there is no chemical evidence there's definitely no fossils right and earth was wiping itself out over and over again, from all the meteors.
+9:40
+Andrew Ippolito: So, all we can do is conjecture at this point so everything I just told you, is conjecture based on data that we have and and experiments, we ran the lab there's a Uri geller experiment which you'll learn about someday in another class next semester.
+9:54
+Andrew Ippolito: Okay, and so the first cells on earth, as they started waking up we're basking in the sunlight.
+10:03
+Andrew Ippolito: And they give rise to really two kinds of cells.
+10:09
+Andrew Ippolito: The head or a trophy.
+10:14
+Andrew Ippolito: By hetero truth, this is a cell it eats other cells. Andrew Ippolito: They eat each other.
+10:20
+Andrew Ippolito: So you can picture. Andrew Ippolito: PAC man in this palette.
+10:26
+Andrew Ippolito: All right, and you had. Andrew Ippolito: The Auto troughs.
+10:34
+Andrew Ippolito: which were photo synthesizers. Andrew Ippolito: They need their own food.
+10:40
+Okay. Andrew Ippolito: Now, once these auto troves started figuring out.
+10:47
+Andrew Ippolito: what they were doing once photo system to a rose, which will learn about photosynthesis later this started spewing this very toxic very toxic molecule into the atmosphere.
+11:01
+Andrew Ippolito: This molecule was oxygen. Andrew Ippolito: And oxygen gas accumulated in early earth and it moved from this reducing anoxic environment into this very polluted oxygen environment oxygen.
+11:15
+Andrew Ippolito: oxidizes and other words it steals electrons from things.
+11:21
+Andrew Ippolito: And so the life on Earth that had that is around at this point.
+11:27
+Andrew Ippolito: This is a toxin to that life. Andrew Ippolito: Okay.
+11:33
+Andrew Ippolito: So i'm going to do this now and it's going to move over here. Andrew Ippolito: So we have this doggy dog world here where cells are eating each other and, in parallel to that we have these photos synthesizers spewing their garbage into the atmosphere.
+11:50
+Andrew Ippolito: The other thing that early earth's atmosphere heading in was iron. Andrew Ippolito: iron ions.
+11:57
+Andrew Ippolito: Ionized iron and when iron and oxygen interact with each other, what do you get.
+12:04
+Andrew Ippolito: Oh chemists among yeah. Andrew Ippolito: yeah I can lip read, I saw let's say rust right yeah that's being deaf has his measures are moments I should say rust so get this ready it rained rust from millions of years.
+12:23
+Andrew Ippolito: And if you think of the ocean Okay, if this is the ocean, and you have these little iron ions in the ocean and as the photo synthesizers are hanging out here in the photo trophy zone, making their garbage oxygen the oxygen gets the iron and the iron and the rust.
+12:41
+Andrew Ippolito: descends on to the surface of the ocean on the benthic later accumulating.
+12:49
+Andrew Ippolito: And how do we know this, that we can see. Andrew Ippolito: geologists see this crust that permeates the entire planet that's rust belt.
+13:03
+Andrew Ippolito: And that is what we associate with what we call the oxygen revolution.
+13:09
+Andrew Ippolito: The oxygen revolution is when the oxygen just kept coming from the photo synthesizers and all the iron got used up.
+13:20
+Andrew Ippolito: Right it's think about it i'm spewing oxygen it's interacting with the iron it's trapping them and rust it goes down.
+13:26
+Andrew Ippolito: And so it's taking it out of play right, so, in other words the atmosphere is still safe for everything else on until the rust is used up until the iron is used up that's when we start seeing a very rapid increase in oxygen levels.
+13:44
+Andrew Ippolito: And this probably triggered some kind of mass extinction of all the anaerobic life on the planet.
+13:53
+Andrew Ippolito: But life finds a way right. Andrew Ippolito: As Malcolm said in Jurassic Park life life finds a way.
+14:03
+Andrew Ippolito: And, and so. Andrew Ippolito: There were some cells that figured out the secrets of oxygen.
+14:12
+Andrew Ippolito: They can use it to their advantage now here's the thing we learned about oxygen at the chemical level, and we know that oxygen has those fancy pair of loan electrons.
+14:22
+Andrew Ippolito: And all i'm going to tell you is that weird electron configuration of oxygen is what allows oxygen to be used.
+14:32
+Andrew Ippolito: As. Andrew Ippolito: A very potent driver of chemistry.
+14:38
+Andrew Ippolito: And in the realm of energy dynamics, in other words the cells, were able to harness the power of oxygen to use it in their chemistry.
+14:47
+Andrew Ippolito: Okay, what oxygens capable of doing. Andrew Ippolito: is very strongly.
+14:54
+Andrew Ippolito: attract electrons to it. Andrew Ippolito: So just imagine you have this like crazy strong magnet.
+15:02
+Andrew Ippolito: And a piece of paper. Andrew Ippolito: And then, on the other side of the paper you put some iron filings on it, you can imagine the magnet pushing all those iron filings onto the paper and applying a force to it.
+15:15
+Andrew Ippolito: Pulling on it that's kind of how you can see oxygen doing it's heavy lifting it's capable of sucking electrons downhill, and in that process it's able to do work.
+15:27
+Andrew Ippolito: Okay, and so these first cells that figured out how to use oxygen the first Arabs.
+15:38
+Andrew Ippolito: roebuck life arose.
+15:44
+Andrew Ippolito: Alright, so let's say that this guy right here he's happy because he's making all this money.
+15:57
+Andrew Ippolito: Right, he figured out he got lucky, and he didn't just go to school and work hard, but he got lucky and got a job that makes him pay a lot of money right and this guy over here.
+16:10
+Andrew Ippolito: doesn't have a lot of money.
+16:16
+Andrew Ippolito: And we know that, whenever you set up a story where there's two guys next to each other and one's got more money than the other, he is going to try to steal his money.
+16:25
+Andrew Ippolito: Right that's just how it goes so translate that to the cellular story here you got cells that can't make a lot of energy.
+16:35
+Andrew Ippolito: Okay, so these an aerobic bacteria or whatever they're called back then they can take a glucose molecule.
+16:47
+Andrew Ippolito: And when they eat glucose they get they can make two ATP molecules.
+16:53
+Andrew Ippolito: Which is about 2% of the energy trapped in glucose okay so think of this as sustenance living.
+17:02
+Andrew Ippolito: This guy he was able to figure out oxygen with that same single glucose molecule he's able to produce about 30 ATP.
+17:16
+Andrew Ippolito: which represents about 30% of the energy and glucose.
+17:23
+Andrew Ippolito: Okay. Andrew Ippolito: And so. Andrew Ippolito: And so, what do you think's going to happen, imagine there's there's somebody walking down this dark alleyway in the bad part of New York City.
+17:36
+Andrew Ippolito: yelling at the top of his lungs i'm rich and just throwing hundred dollar bills around.
+17:42
+Andrew Ippolito: Right and everybody around him the ones that aren't so rich are going to come out and be like what's going on here and sure they might pick up some of the money but they're going to realize let's just capture this guy.
+17:52
+Andrew Ippolito: let's go put them in a warehouse and just keep throwing this money out at us and that's pretty much what happened so watch this sells beat each other, this is a very normal thing cells each other through a process will call Figo psychosis Vigo means eat or food psychosis.
+18:12
+Andrew Ippolito: finger psychosis, which is a specialized form of what we call endo psychosis cellular so basically if this is a cell, and this is a thing in the environment that cell will.
+18:31
+Andrew Ippolito: Imagine it's membrane this thing will come in and eventually encapsulated and close it off, so that the thing is now trapped inside the cell in something called the finger zoom.
+18:43
+Andrew Ippolito: Okay, so it basically it's like take some part of the membrane and blab it off and track things.
+18:49
+Andrew Ippolito: Okay, and so that's how cells eat things like just them, and so here's a cell, that is an Anna robe and here is a cell, that is an Arab let's draw him and blue okay he's the rich guy.
+19:07
+Andrew Ippolito: So the header a trophy normally eat each other, he eats him. Andrew Ippolito: Alright, so let's bring him in how would that look well here's the membrane component.
+19:18
+Andrew Ippolito: And then here, he is. Andrew Ippolito: Okay, and here's the thing he doesn't die.
+19:27
+Andrew Ippolito: He doesn't get digested. He stays there.
+19:32
+Andrew Ippolito: And he realizes hey you know what it's kind of safe in here.
+19:37
+Andrew Ippolito: i'm not out not harsh environment. Andrew Ippolito: But i'm in this warm warm cozy environment.
+19:45
+Andrew Ippolito: And i'm going to keep producing all my money. Andrew Ippolito: Okay, the cell that eat them says, you know I could either kill them and eat them now, or I just let them sit there and he's producing all this energy for me and on the horse, this is the first instance of domestication.
+20:05
+Andrew Ippolito: Right, instead of killing the cow and eaten it he put the count of penalties milking it.
+20:12
+Andrew Ippolito: And right there that thing here that I just drew that's essentially the mitochondria.
+20:18
+Andrew Ippolito: The mitochondria has to membranes that outer membrane and the inner membrane that has all those imaginations will explain why those are there later, but there you go there's a cell inside of a thing that's why it's got to membranes.
+20:34
+Andrew Ippolito: And right remember DNA right everything's got a genome so let's throw this in yellow here, so this cell came whether it's a pro periodic cell it's got a circular DNA genome.
+20:46
+Andrew Ippolito: Right so it's still in there and guess what the mitochondria has it's got a little circular DNA genome that looks just like a pro carry out excel.
+20:54
+Andrew Ippolito: And it produces its own rhizomes. Andrew Ippolito: Alright, so let's just put this list here, so we got we got a circular circular DNA.
+21:07
+Andrew Ippolito: And we got probiotic Dr isms. Andrew Ippolito: Your mitochondria have rhizomes in them that are small, like bacterial rob ISM.
+21:20
+Andrew Ippolito: Okay, and so we call this endo Sim oops endo.
+21:28
+Andrew Ippolito: symbiotic theory. Andrew Ippolito: endo inside symbiotic mutual relationship mutually beneficial relationship.
+21:38
+Andrew Ippolito: Okay, and here's the thing this happens. Andrew Ippolito: Again and again and again, so this cell here, the one that eat this mitochondria of the cell that eat this, and now we will say it's got a what we'll call mitochondria in it.
+21:52
+Andrew Ippolito: All right, let's do this now. Andrew Ippolito: Okay, think about for a minute, if you had a person that earned $100 a week imagine that person's lifestyle and in in Philadelphia right how big would their apartment be.
+22:09
+Andrew Ippolito: What would they what would they be eating for dinner right they probably don't have a car MAC and cheese, or maybe ramen noodles ramen noodles and they have an apartment that's the size of like my office.
+22:23
+Andrew Ippolito: Right so so there's your prob carrier there's the one up here that was earning to https for glucose molecule that's your hundred dollars a day or $100 a week.
+22:36
+Andrew Ippolito: Now, give that same sell a sudden constant supply of energy right somebody scratches off and wins the lottery now they have $10,000 a week.
+22:48
+Andrew Ippolito: The question no longer is what they're eating for dinner that's a question for chef.
+22:54
+Andrew Ippolito: The question isn't do they have a car, not their question is is how many cars, do they have right, in other words, when somebody gets rich quick and they have all this money coming in their life gets very complicated.
+23:08
+Andrew Ippolito: The complexity of their life increases. Andrew Ippolito: that's why you carry out some more complicated because they can be they have all this extra energy.
+23:18
+Andrew Ippolito: Okay, so this is the rise of the eukaryotic cell. Andrew Ippolito: This is how you carry its evolved through this into somebody else's now this cell here there's another pro charismatic cell over here.
+23:33
+Andrew Ippolito: That learned how to make their own sugar. Andrew Ippolito: Okay, so this thing is producing glucose.
+23:43
+Andrew Ippolito: And so, he gets eaten to. Andrew Ippolito: nom nom nom.
+23:52
+Andrew Ippolito: Okay, so you see how that happened twice now, so this is what we call it cereal and oh symbiotic theory and that's why it's called set theory.
+24:02
+Andrew Ippolito: So this all right here here's your plan. Andrew Ippolito: Really there's there's your let's call him analogy right now that's algae because that's a protest, you probably still swims around.
+24:16
+Andrew Ippolito: That algae gave rise to the plants.
+24:22
+Andrew Ippolito: Okay. Angela Harbeck: So set theory is just to sell eating a bunch of other.
+24:28
+Andrew Ippolito: Yes, you can just tell it to that basic yeah. Andrew Ippolito: It is selling other cells and the cells not dying.
+24:35
+Andrew Ippolito: Are you so let's go look at the slide now let's go to the slide over here alright so here is the first where's my little here's the first promo cell right there for it not produce all the first pro eukaryotic cell so it's it notice has a nucleus.
+24:51
+Andrew Ippolito: Right so, so this is something new, this isn't approved carry oh it's not really there's no mitochondria there's no license zones there's there's just there's just a nucleus, and the er.
+25:03
+Andrew Ippolito: This cell eats another cell and, by the way the graphic artist who drew this got this wrong you see how this mitochondria right here.
+25:14
+Andrew Ippolito: This, this is an example of a lazy graphic artist he drew mitochondria or she drew mitochondria they drew mitochondria and.
+25:24
+Andrew Ippolito: They copy and pasted it and used it twice there, but really that second membrane the outermost membrane doesn't exist, yet this is how I want you to think of it here's the original cell here's the original setup eat it.
+25:39
+Andrew Ippolito: Okay, when this comes in here, and this bulbs off and traps it that outer membrane comes from the membrane of the cell, so this outer membrane here comes from this memory.
+25:54
+Andrew Ippolito: So this is wrong, the way they drew it, but whatever details details, so this cell here eats the cell here and there's your mitochondria.
+26:03
+Andrew Ippolito: And then that so goes along and so some of those cells not wasn't just one cell right there's billions of cells here, so the next thing that happens is this cell here that's got a mitochondria goes and eats another cell this photosynthetic pro carrier.
+26:18
+Andrew Ippolito: And now you give birth now you give rise to the photosynthetic eukaryotes Okay, and so this will be classified as the beginning of the algae.
+26:27
+Andrew Ippolito: This would be giving rise to the beginnings of the proto zones.
+26:34
+Andrew Ippolito: And they go and then they are all these things diversify there's different kinds of algae there's different kinds of proto zones and one lineage of those protozoa goes and gives rise to the episode the cons.
+26:47
+Andrew Ippolito: In other words, they figure out multicellular charity and the pistol cons, then in turn give rise to the fungus and the animals.
+26:56
+Andrew Ippolito: The algae some of them figure things out and give rise to the plants.
+27:02
+Andrew Ippolito: Okay, so so that's the basic story of life. Andrew Ippolito: You carry us or procure us keep eating each other that gives rise to the algae and the proto zones which then give rise to the multicellular kingdoms that we know today.
+27:15
+Alexa DePrisco: Excuse me, yes, so this is not necessarily observed today this is like a cell evolution theory.
+27:24
+Andrew Ippolito: yeah we so what we do observe today. Andrew Ippolito: And, and we see numerous pieces of evidence that this continues to happen is this idea of endo symbiosis so, for example, if you look at coral.
+27:37
+Andrew Ippolito: Okay i've been those coral reefs the animal coral has that lives with inside of it a symbiotic that photo synthesizes, which is what gives called the beautiful colors and when Carl gets bleached when you talk about coral bleaching.
+27:55
+Andrew Ippolito: When the pH or the temperature of the environment for a coral reef gets on favorable the coral basically the animal rejects it's symbiotic.
+28:08
+Andrew Ippolito: it's called the zoo's Anthony I believe it says there's actually get out you're not welcome here anymore you're not you know you're not doing your part you're not photosynthesizing you're just a waste of space go.
+28:18
+Andrew Ippolito: And so, those are the actually kind of drips his head walks away like Charlie Brown and and so what's left is this white, but still living coral.
+28:27
+Andrew Ippolito: Depending on if the environment very rapidly gets back to a happy place the coral might bring back that Suzanne saline and keep living, but the problem is if it stays out too long.
+28:38
+Andrew Ippolito: That coral can't survive too long, without it, because what the corals doing during the day when the sun's out is it's eating the food from those whose Anthony and then nighttime when it's dark it's eating things.
+28:49
+Andrew Ippolito: Okay, so coral does, both because of the symbiotic so we see the symbiosis everywhere in nature, and we see it, numerous times there's there's also eukaryotes that have eaten other you carriers.
+29:01
+Andrew Ippolito: And we can see these weird specialized organelles that are essentially shriveled up reasons of former eukaryotic cells.
+29:10
+Andrew Ippolito: one place, you see those in the golden algae. Andrew Ippolito: If you want to study this stuff.
+29:17
+Andrew Ippolito: Okay, all right, so I just wrote I lectured too long there I do it again, but hopefully it was that story interesting at least.
+29:23
+Andrew Ippolito: Okay, all right i'm done blabbing let's let's draw let's doodles themselves now or any any questions are there any questions on Saturday.
+29:32
+Julia Lakchin: I have a quick question, and maybe the question but. Julia Lakchin: i'm hetero tropes, you said that was cells eating cells.
+29:41
+Julia Lakchin: So. Andrew Ippolito: The word itself a header a trophy is an organism that acquires its energy from outside of itself.
+29:50
+Andrew Ippolito: As opposed to an auditor growth that acquires this. Andrew Ippolito: Energy when I say acquire let me refine that.
+29:57
+Andrew Ippolito: So there's food right and there's energy so there's the building blocks, you know you need carbon and hydrogen and all that, and then you also need the energy to put them together right so there's there's energy and resources.
+30:10
+Andrew Ippolito: So an otter troth versus a header a truth that trophy ISM that's where do we get our high.
+30:19
+Energy. Andrew Ippolito: molecules.
+30:24
+Andrew Ippolito: We either make them we either make our own food like what a plant those right, so they take the energy from the sun.
+30:30
+Julia Lakchin: And they. Andrew Ippolito: pump it into a molecule, so now we can make sugars right or.
+30:38
+Andrew Ippolito: As a header trophy I need to acquire that molecule from the environment.
+30:43
+Andrew Ippolito: Right, so you can distill it all as a simple thought, where do we get my sugar.
+30:49
+Andrew Ippolito: I either make it myself or I go and I hunted. Andrew Ippolito: or.
+30:54
+Andrew Ippolito: find it in the environment, so the head retrofit acquire their their food from the environment, the audit trails make their own food.
+31:04
+Julia Lakchin: Okay got it okay. Andrew Ippolito: You can think of food, as both the energy and the material.
+31:14
+Andrew Ippolito: And then vitamins when when we talk about nutrients right, so you don't just eat food we think about food and nutrients right, so the nutrients are things like the phosphate or the.
+31:28
+Andrew Ippolito: iron that kind of stuff right vitamins vitamins aren't you don't we don't take vitamins your body to with the intent to break them down and get energy out of them Okay, we use vitamins to do other work in the metabolism, so we need food nutrients and the food comes along with it energy.
+31:52
+Andrew Ippolito: Okay, so audit trump's make their own food, but still need to acquire nutrients from the Environment that's why you have to put plants in soil right they need to get the nitrogen and phosphorus out of it.
+32:02
+Andrew Ippolito: And then we get all of it from our food the plants just get their nutrients they make their own food from the sun and the carbon dioxide in the water okay.
+32:11
+Andrew Ippolito: That makes sense. Andrew Ippolito: Alright, so let's let's gear up to the point we're gonna start drawing eukaryotic cell okay so there's a couple concepts here, the first is, is the reason why do you carry on so big.
+32:29
+Andrew Ippolito: And so, therefore, if you just think of the volume of space that takes up compared to the volume inside of it.
+32:35
+Andrew Ippolito: Alright, so the surface area to volume ratio, remember that the surface area bomb ratio is not so great right it's a low ratio, but that's Okay, because inside that volume there's a whole bunch of memory.
+32:49
+Andrew Ippolito: Right, and so this concept here of when you ever you have this enclosed buying less space in biology.
+32:56
+Andrew Ippolito: And you need surfaces, so you need to run chemical reactions of some kind or your lungs and to exchange oxygen with the environment and the carbon dioxide we're going to see inside those volumes of spaces lots and lots of surface area.
+33:13
+Andrew Ippolito: This is why your gut looks like that this is why your lungs look like that this is why the mitochondria and the chloroplasts look like this, this way trees have all those branches and roots.
+33:23
+Andrew Ippolito: Okay, it maximizes the amount of surface within a constrained volume of space real estate's at a premium right.
+33:32
+Andrew Ippolito: I mean if you ever tried to rent an apartment in a city and you're like 20 $500 for a shoe box.
+33:40
+Andrew Ippolito: Right, so you we all you guys all have a room right now, just think of your room for a second right all of us would be like I wish I had a bigger room.
+33:48
+Andrew Ippolito: I wish I had a bigger office I wish I had a bigger house or maybe you're like no I wish I had a smaller one I don't know then you're lucky.
+33:53
+Andrew Ippolito: right but So what do we do in the spaces, that we have let's say you have a closet and you're like I don't have enough room my closet for all my shoes, are all my clothes, or whatever, what do we do we buy organizers.
+34:06
+Andrew Ippolito: What organizers surface area. Andrew Ippolito: you're doing until we maximize our surface area.
+34:13
+Andrew Ippolito: Okay, and so that's why the inside of the eukaryotic cell so crazy complicated all the surfaces.
+34:20
+Okay. Andrew Ippolito: All right now, some of the cell wall on the outside it turns out all of life, except animals.
+34:27
+Andrew Ippolito: All of life, except animals and and some proteins have a strong exterior wall that protects them the plants have cell walls, the fungus have cell walls, a lot of the algae have cell walls all the bacteria have cell walls, we don't have cell walls.
+34:46
+Andrew Ippolito: What is going on there, but it turns out the Meta zones, the animals treated the safety of the cell wall for flexibility and movement alright, we move, we can move like no other organism on the planet that's one of the things that animals can do some better than others.
+35:10
+Andrew Ippolito: Ever watched a penguin try to run. Right.
+35:15
+it's good enough. Andrew Ippolito: never run that cheetah.
+35:21
+Andrew Ippolito: swim. Andrew Ippolito: The cheetah. Andrew Ippolito: But anyway, so we treated strength for flexibility for mobility.
+35:33
+Andrew Ippolito: All right, we're gonna we're drawing this we're going to think of two key components, where they're really there's there's a third here, you can add this here there's a membrane.
+35:44
+Andrew Ippolito: there's three components to the cell there's the membrane the nucleus, and the cytoplasm we have an entire chapter devoted to the membrane so we're just going to talk a little bit about that, today, but not too much.
+35:55
+Andrew Ippolito: What I want you to focus most on in this chapter are the organelles and the processes that they drive.
+36:07
+Andrew Ippolito: So i'll say you're so most of the work of life is done in the cytoplasm. Andrew Ippolito: And the key to the nucleus is that the nucleus is so it's not the brain of the cell get that out of your head get that out of your brain that the new pieces of brain, I mean it's a it's a fun analogy.
+36:22
+Andrew Ippolito: there's no thought processes here the nucleus is like Fort Knox the nucleus is a protective Shell around the genome.
+36:33
+Andrew Ippolito: Bacteria don't have to worry too much about protecting their genome, because the way that bacteria evolve is they make sure their genome has to undergo reason random changes so they're okay mutating and they don't have multiple types of cells.
+36:51
+Andrew Ippolito: And not multicellular they don't have neurons and bone cells and heart cells etc they're just that.
+36:59
+Andrew Ippolito: Okay. Andrew Ippolito: Thanks for multicellular good. Alexa DePrisco: I was gonna say is that way like bacteria can evolve so quickly, why we have like super whatever's yes.
+37:08
+Andrew Ippolito: That is exactly why they grow fast and they have a very high level of very high rate of mutation at their peak bacteria can divide every 20 minutes.
+37:18
+Andrew Ippolito: yeah that's why in the morning you wake up with the scratchy throat and by the afternoon you're just a mess.
+37:23
+Andrew Ippolito: By then it's taken over your it's just overwhelming your immune system yeah it's called log fees growth ourselves the fastest that you carry us grow is 24 hours.
+37:35
+Andrew Ippolito: It takes 24 hours for the for the typical mammalian cells just I just all I know i'm just gonna speak about what I know that the million cells good the mammalian cells cycles 24 hours.
+37:48
+Andrew Ippolito: And i'm sure there's no coincidence that the earth goes around its axis 24 hours to. Andrew Ippolito: there's probably an alignment there somehow yeah it is it's kind of cool, this is our cells divide every 24 hours and the earth goes around the sun every 24 on its axis every 24 hours.
+38:03
+Andrew Ippolito: Anyway, anyway, so the nucleus is Fort Knox it houses, the genome that protected, you know.
+38:08
+Andrew Ippolito: that's that's, the most important thing in your life is protecting your genome, because if cells start getting a damaged genome and they start mutating when you have a very complicated organism like an animal all sorts of things can mock up.
+38:25
+Andrew Ippolito: That don't happen in the unicellular. Andrew Ippolito: So the nucleus is super important.
+38:32
+Andrew Ippolito: The nucleus is where all that RNA we learned about is made. Andrew Ippolito: Okay, the only place in the world that RNA is manufactured in a cell i'm not talking about viruses i'm not talking about pathology i'm talking about the proper way things run is in the nucleus okay RNA is made in the nucleus.
+38:54
+Andrew Ippolito: proteins are made in the. cytoplasm. Andrew Ippolito: And then the proteins that hold on one second and the proteins that are needed.
+39:00
+Andrew Ippolito: In the nucleus to do stuff get imported back alright guys.
+39:06
+Taylor Campbell: Oh i'm. Andrew Ippolito: Sorry Hello. Taylor Campbell: yeah it's okay I just had a question so then then like I know so we're not really going to get into the membrane right now, but that is like.
+39:16
+Taylor Campbell: Like trance transfer and protection. Andrew Ippolito: know.
+39:22
+Taylor Campbell: Like How would like we are we not going to talk about that much at all right now. Taylor Campbell: Sagan or we're not going to talk much about them and bring it all right now, like it's.
+39:31
+Andrew Ippolito: Also, the medical kit. Andrew Ippolito: So your question is really, really cancer in the membrane.
+39:36
+Taylor Campbell: Not cancer, I said transfer. Andrew Ippolito: I said what. transfer.
+39:41
+Taylor Campbell: Because things change transfer. Andrew Ippolito: Transfer transfer. Andrew Ippolito: yeah sorry I heard cancer I don't know why.
+39:49
+Andrew Ippolito: Transfer yeah we're yeah well we're going to learn all about this in the next chapter, the beginning of the next unit is all about transferring things.
+39:56
+Taylor Campbell: Okay, so all we need to know is that it's one of the main compartments yes. Andrew Ippolito: Okay now yeah.
+40:02
+got it. Andrew Ippolito: I mean what will learn a little bit more than that, here, but but yeah chapter chapter sevens all the memory.
+40:11
+Andrew Ippolito: Okay alright, so the other thing that's housing the nucleus, the only thing that's made in the nucleus, are the large and small subunits of the riders.
+40:21
+Andrew Ippolito: Okay, so here i'm going to read the word aren't here, you see this dark corner, right here. Andrew Ippolito: that's called the nucleus new clearly you'll notice the nucleus is the birthplace of ripe isms the small and large subunits the ripe isms get made here, and then they get export it out and we'll talk more about that later.
+40:43
+Andrew Ippolito: Okay, but I just wanted to give context to the nucleus, I want you to visit a very different place than the cytoplasm.
+40:49
+Andrew Ippolito: And then all the gunk in there is chromatin we learned about chromatin and the last chapter chromatin is that combination of DNA and protein.
+41:03
+Andrew Ippolito: Okay, all right let's doodle. For it.
+41:10
+Andrew Ippolito: Okay, actually, I want to the whiteboard now and i'm going to just teach you so go ahead and draw along with me let's be like a Bob Ross session.
+41:18
+Andrew Ippolito: Happy little tree all right i'm going to zoom out as far as I can this we're gonna make this entry, I know you can't do this but i'm going to do this, how would you do this just start with a single piece of paper.
+41:30
+Andrew Ippolito: as big as you can and i'm going to. Andrew Ippolito: maximize this okay so we're going to draw an animal so animal cells in a petri dish kind of splat out they don't naturally look like this and what i'm what I mean by that as this kind of shape here the splat it looks almost like a spider web sort of.
+41:47
+Andrew Ippolito: In terms of it, cheap so let's say you start drawing. Andrew Ippolito: How thick is that going to be all right i'm gonna do this i'm going to kind of just randomly.
+41:56
+Andrew Ippolito: draw these arcs.
+42:02
+Andrew Ippolito: And that is my plasma membrane.
+42:12
+Andrew Ippolito: that's the phosphor lifted by layer Andrew Ippolito: that's all Chapter seven.
+42:18
+Andrew Ippolito: This is the boundary of life.
+42:24
+Andrew Ippolito: And hey I want to free form this okay i'm not gonna go in the order of the slides i'm just going to kind of do this and what comes to mind.
+42:30
+Andrew Ippolito: And all make sense So the first thing that you notice when you draw this is like little spider web be things all those are points.
+42:37
+Andrew Ippolito: So the question is like well why does it so have that sheep right, so it turns out all cells there seep is driven by the site oh skeleton and not just any part of this out of skelton, though, in particular, something called the microbial network micro to be will network.
+42:59
+Andrew Ippolito: Okay, and the microbiome network, which is a filament this network don't start drawing things, yet the microbiome is originates at a single point in the cell called so it's an Oregon now it's called the centrism centrism.
+43:19
+Andrew Ippolito: Okay, so let's draw the central zone it somewhere in the Center of the cell and what i'm going to do here is i'm going to zoom all the way and now just for fun.
+43:29
+Andrew Ippolito: And i'm going to draw. Andrew Ippolito: want to make this smaller Now I want to do this on a draw.
+43:36
+Andrew Ippolito: Just as kind of a blobby circle. Andrew Ippolito: it's it think of it like jello or not I mean it's a goopy stuff there's no membrane around it it's just this highly concentrated.
+43:50
+Andrew Ippolito: sludge a protein. Andrew Ippolito: And in animals, but not in plants inside of this.
+43:58
+Andrew Ippolito: are housed a pair of cylinders.
+44:04
+Andrew Ippolito: That sit at 90 degrees to each other. Andrew Ippolito: Inexplicably.
+44:12
+Andrew Ippolito: nice things here. Andrew Ippolito: are called central's.
+44:22
+Andrew Ippolito: there's always a pair of them. Andrew Ippolito: And they're made from micro tutorials.
+44:32
+Andrew Ippolito: The other thing that is so, the goofiness of this is driven by a diametric protein.
+44:39
+Complex. Andrew Ippolito: yeah a dimer have a protein called turbulence and so there's alpha.
+44:50
+Andrew Ippolito: And beta. Two below.
+44:55
+Andrew Ippolito: And that right there to you sorry to be led alpha beta to Berlin.
+45:03
+Andrew Ippolito: Is the building block to micro to build and so actually my little magnets here are perfect.
+45:10
+Andrew Ippolito: A perfect toy for showing you micro tutorials.
+45:15
+Andrew Ippolito: Just gonna pull out a bunch of Okay, so if you imagine to the camera here, which is a pair of Magnus Okay, this would be alpha beta two.
+45:25
+Andrew Ippolito: Okay, what i'm going to do here is i'm going to have a Palmer of it and then i'm going to form.
+45:34
+A cylinder. And of these magnets.
+45:55
+There we go. Andrew Ippolito: You can actually see it spontaneous spontaneously form once I see the structure here watch this I can just kind of rotate this and it's going to just find these beautiful.
+46:10
+Andrew Ippolito: regularly spaced cylinders like this see that.
+46:17
+Like a little candy now. Andrew Ippolito: And so, these just go that's a micro tutorial Okay, and so now i'm going to zoom out here watch this i'm going to zoom all the way out.
+46:28
+Andrew Ippolito: So you can barely see that stuff and i'm going to draw the microbial network, I want to make this just as big here i'll draw this in i'll make a dark purple because I don't want this to be too obvious.
+46:40
+Andrew Ippolito: But here's how i'm going to draw you see this point, right here, see, I have a point there I draw these little points I want to start at a point i'm going to go down to this centrism.
+46:51
+Andrew Ippolito: And that gives you the idea. Andrew Ippolito: Of.
+46:56
+Andrew Ippolito: How the cell gets a cheap, because those micro two guys are pushing against the membrane.
+47:03
+Andrew Ippolito: and giving it that spidery shape again on a petri dish alright so in actuality cells have all sorts of shapes there are cells that are to boil or column there.
+47:16
+Andrew Ippolito: There are cells that are reticulated there are cells that are elongated there's all sorts of shapes of cells and they're all fundamentally scaffolding by these micro cubicles.
+47:31
+Okay. Andrew Ippolito: So so so so lets me OK, so the micro to network I drunk purple i'll put a little purple dot there just so you can see that.
+47:44
+Andrew Ippolito: Okay, so let's also write the name underneath centers almost put central centralized.
+47:52
+Andrew Ippolito: And we're going to say, animals or we're going to say not in plan.
+47:58
+Andrew Ippolito: Okay now here's the key the central oils are not on plants, the plants still has a centrism.
+48:05
+Andrew Ippolito: it's just doesn't have these weird double little cylinders.
+48:13
+OK. Angela Harbeck: So the cylinders inside of this century, make the shape of the cell.
+48:23
+Andrew Ippolito: know this centrism makes the shape of the cell the centuries we actually and i'm sorry Angela I didn't I wasn't clear about this.
+48:31
+Andrew Ippolito: We don't fully understand what the. Angela Harbeck: centuries, or even doing there. Andrew Ippolito: it's one of the kind of current mysteries in biology.
+48:37
+Andrew Ippolito: I have some ideas but i'm not going to get into them yet until i'd have to explain how genes are regulated first that's at the end of the Semester and the meantime just see them as these little mysterious curiosities.
+48:49
+Andrew Ippolito: Okay, one little interesting blurb about them is what, if we take a century and pop it out and we put it in the membrane over here.
+49:00
+Andrew Ippolito: When I teach you flagella later and cilia we're gonna see that this bottom thing here is called the diesel body.
+49:11
+Andrew Ippolito: So let's draw flagellum since we're here i'm doing this free forum and i'm trying to make this not a formal lecture just like an article session here.
+49:17
+Andrew Ippolito: I just drew a flagella flagella flagella flagella gel alum and not all cells have them, but those that do it looks like that, and the flagellum has two basic parts it's got the filament.
+49:35
+Andrew Ippolito: Which is flexible and with like, and a basal body, which is what anchors it into the membrane.
+49:42
+Andrew Ippolito: and, interestingly, the basal body and the century will have exactly the same structure.
+49:55
+Andrew Ippolito: And let's look at that if I go over here now i'm going to zoom all the way in here and i'm going to show you that cylinder again i'm just going to oops that's way too thick here let's try this here.
+50:11
+Andrew Ippolito: zoom out just a little bit a little bigger. Andrew Ippolito: Alright, so here's here's the century old slash.
+50:22
+body.
+50:29
+Andrew Ippolito: Okay it's got a different name depending on its function. Andrew Ippolito: Right.
+50:35
+Andrew Ippolito: If you take a pair of scissors and you break them in half, you could call one of those pairs of the scissors a knife if you wanted to write these are just words.
+50:45
+Andrew Ippolito: Okay, so here's how we build a central i'm sorry, a century old or Ibiza body when we look at a cross section of this if we were to take.
+50:56
+Andrew Ippolito: A cross section of this. Andrew Ippolito: And look down on it.
+51:05
+Andrew Ippolito: We would see. Andrew Ippolito: These triplets. Andrew Ippolito: Micro tutorials arranged, let me, let me draw this a little bit better.
+51:19
+Andrew Ippolito: How am I going to do this well they're they're hollows i'll just okay so 123 what this is is I want you to picture like mcdonald's plastic straws glued together.
+51:34
+Three of them. Andrew Ippolito: Okay that's going to be the sub unit we're gonna build with here from a bird's eye view looking down at it.
+51:42
+Andrew Ippolito: 123123123123 1-231-234-5678 there's nine of them.
+52:12
+Andrew Ippolito: And i'm going to go here and i'm going to go all the way to the end of the PowerPoint where I show you this more closely, there we go Okay, so this right here.
+52:23
+Andrew Ippolito: You see, the triplet there's three straws there, and there are arranged in this ring of nine we call this the nine plus zero configuration of migrants.
+52:34
+Andrew Ippolito: Why just think in the middle here that that looks like it's microbial it's not there's just other proteins in there, so think of that as just something else OK, so the inside of this is empty of micro tutorials, and so we have this nine plus zero configuration nine plus zero configuration.
+52:54
+Okay. Andrew Ippolito: So I want to go back now don't worry about the rest of the stuff on the side, I just wanted to give you the visual of that better because my my art stinks okay so nine plus zero.
+53:05
+Andrew Ippolito: This makes a strong cylinder This gives strength.
+53:15
+strength. Andrew Ippolito: Okay. Andrew Ippolito: So that's the basal body i'm going to DEMO and the central now now I look at the filament you see the film in here if we were to zoom in and look at the filaments composition.
+53:30
+Andrew Ippolito: Instead of seeing triplets we would see doublets. Andrew Ippolito: And there were still be nine of them 2345678 there'd be nine and then there'd be two in the middle.
+53:52
+Andrew Ippolito: Or rather, one doublet in the middle. Andrew Ippolito: Okay, this is called the nine plus two configuration.
+54:01
+Andrew Ippolito: And this gives flexibility.
+54:06
+Andrew Ippolito: In other words, that filament. can act like a whip.
+54:13
+Andrew Ippolito: How does it work well it's really cool, let me see if I can do this here, look at me for a second here are a pair of mom.
+54:21
+Andrew Ippolito: let's let's say this represents a pair of them okay i'm going to put a motor protein in between them like this watch this this is cool this actually works really well because of the rubberized tip on this too okay so watch this.
+54:38
+too heavy. Andrew Ippolito: This is one way, I definitely need to. I can 3D print this someday.
+54:51
+Andrew Ippolito: i'll just up here let's just use the pen CAP. Andrew Ippolito: Work yeah okay this works or watch this so i'm just going to put a cylinder between the cylinders and i'm going to i'm going to be able to do this to them, you see i'm going to slide them along there we go.
+55:05
+Andrew Ippolito: Okay, you see this i'm sliding along each other Okay, so that thing in the middle, is one of those Walker proteins that you saw on the video.
+55:13
+Andrew Ippolito: All right. Andrew Ippolito: So, so now imagine this in the middle So these are sliding along each other, like this, but what would happen if I put these in anchored spot so there's the basal body.
+55:25
+Andrew Ippolito: And there's the filament. Andrew Ippolito: But I still have these two markers let me protect this now, so I don't accidentally right all over the place Okay, if these two markers console slide along each other, like this, but they're fixed here, this is what's going to happen watch this.
+55:44
+Andrew Ippolito: there's your whip. Andrew Ippolito: Okay, so without the bs a body, these would just do this and be useless.
+55:51
+Andrew Ippolito: Okay anchor them in place and now they're going to be forced to move against their access like that and you're going to get the whip and that's how we get locomotion.
+56:02
+Andrew Ippolito: Okay, so cells that have these things are called mo tile.
+56:08
+Andrew Ippolito: A motel sells a cell that can move on its own accord.
+56:13
+Does it need to have the latch on them. Andrew Ippolito: So no. Andrew Ippolito: there's the flagellum so portal flagella and some cells will have multiple for della.
+56:24
+Andrew Ippolito: or i'm going to do all the way out again now. Andrew Ippolito: that's the flagellum sometimes we'll find a structure.
+56:37
+Andrew Ippolito: That looks like a fun job basal body but it's a much shorter filament that's a silly.
+56:47
+Andrew Ippolito: I can't remember the double l's for which these words like you think, by now, I would have it down silly yeah I did it right haha flagella has two l's cilia has one oh the smaller one has the fewer letters.
+57:01
+Andrew Ippolito: But structurally, they are the same there's a filament Ibiza body, the filament has the nine plus oh configure i'm sorry the nine plus two configuration.
+57:12
+Andrew Ippolito: The bees, the body has an iron plus Oh, this still you. Andrew Ippolito: Is we've lived in the differences that, beyond the size is a cell that has a cilia has many silly in fact there's an entire protozoa and phylum called.
+57:29
+Andrew Ippolito: The ciliates or silly yada.
+57:36
+Andrew Ippolito: The funny ones they're silly silly okay you guys remember pair museum talk about pyramid scheme occasionally apparent museum is a silly silly offer oh that's right there so become silly offerings silly offer think that's their formal name.
+57:53
+Andrew Ippolito: There, a group of silly gated protozoa.
+57:58
+Andrew Ippolito: They have a common ancestor that's completely different from say the amoeba is.
+58:04
+Andrew Ippolito: that's why we can't call the protests their own kingdom. Many common ancestors.
+58:11
+Andrew Ippolito: Okay, so there's that's the CEO flagella good all right is this working for you guys.
+58:18
+Andrew Ippolito: I mean if it's not I but here's the thing like. Andrew Ippolito: I don't care. Andrew Ippolito: About negative feedback I need to hear it is, if this is going okay i'm gonna keep doing it if I want to pivot to doing it more the old way or I can just send you off on your own and maybe make and build your own cell.
+58:34
+Victoria Bloemker: For me it's like a yes and no because i'm getting like the same information, but like, if I were to miss, something I can't just be like Oh, I can look at the sliding down.
+58:44
+Andrew Ippolito: Right okay. Andrew Ippolito: yeah i'm trying to.
+58:50
+Andrew Ippolito: give you guys, something that you will just look up in the book i'm trying to draw the connections to things that the book is an obvious about but um alright so that's that that's the membrane okay let's do the nucleus now Austin.
+59:01
+Julia Lakchin: yeah you said. Julia Lakchin: That motel is a cell that can move on what.
+59:07
+Andrew Ippolito: on its own. Julia Lakchin: I said on its own accord, but that sounds a little. Angela Harbeck: We just the membrane.
+59:14
+Andrew Ippolito: what's just the membrane. Angela Harbeck: And what we just went over like. Andrew Ippolito: No that's Okay, so we covered right through the membrane the plasma membrane we went over the centrism with it central's yeah we went over the microbial network and we went over the flagellum and the cilia.
+59:37
+Andrew Ippolito: Okay alright, so now we're going to get to the classic stuff so i'm gonna i'm gonna take my eraser here.
+59:43
+Andrew Ippolito: And i'm just going to open up a little swath for myself and i'm going to do it right next to the centrism so here's the the love bit of insight.
+59:51
+Andrew Ippolito: That the book is an obvious about, and that is that the nucleus is right next to the centrism there's the centrism anchors the nucleus in place so that it doesn't just wobble around the wholesale.
+1:00:02
+Andrew Ippolito: And I want to zoom all the way in here again to about here and i'm gonna draw the nucleus.
+1:00:08
+Andrew Ippolito: So here's, the key to the nucleus nucleus, we we see it has this envelope we don't call it a membrane we call it an envelope, and the reason is, is that envelope actually has two membranes.
+1:00:17
+Andrew Ippolito: So there's the inner nuclear membrane and the outer nuclear membrane and both membranes have.
+1:00:23
+Andrew Ippolito: Their fossella by layer so they both have a leaflet right and so i'm just going to draw the inner membrane i'm going to start out by drawing a circle that's too thick want to go a little thinner here.
+1:00:40
+Andrew Ippolito: Okay, so that's the inner nuclear Member that's an easy one to draw just a circle.
+1:00:46
+Andrew Ippolito: i'll tell you what let's take that membrane now. Andrew Ippolito: And we're gonna put some holes in it.
+1:00:57
+Andrew Ippolito: we're going to see that these are called as we'll see nuclear force.
+1:01:03
+Andrew Ippolito: Right, because we need a doorway to get out of this thing right. Andrew Ippolito: So we're gonna we're paving the groundwork for drawing us we haven't finished it yet so that's that's the inner membrane.
+1:01:20
+Andrew Ippolito: The inner membrane is scaffold is strengthened through a protein network that laminated you guys know what llama nation is when you select something to protect it right you put a layer of thin film on it you've laminated things right.
+1:01:38
+Andrew Ippolito: If you look at the back of your social security card it'll say, do not lie many.
+1:01:44
+Andrew Ippolito: And some people will laminated anyway, yes to stick it to the man I don't know so when you laminate so there's there's this protein network here just underneath this membrane you can draw like this.
+1:01:59
+Andrew Ippolito: And this is called the nuclear lamanna.
+1:02:06
+Andrew Ippolito: that's it's a protein network made out of our second side oh skeletal filament called intermediate filament.
+1:02:17
+Andrew Ippolito: If you want to cross hatchet go ahead. Andrew Ippolito: This, this is the it's not just a set layer of proteins it's it's a whole complex.
+1:02:27
+Victoria Bloemker: what's the red part. Andrew Ippolito: yeah i'll write down the words, this is called.
+1:02:34
+Andrew Ippolito: The nuclear lamanna. Nuclear.
+1:02:40
+Andrew Ippolito: plant and it's made out of approach well they're called lamin proteins, but let's not worry about that they're they're a class of things will micro intermediate filaments.
+1:02:52
+Inter immediate. April Neeld: So then. April Neeld: The whole thing.
+1:02:58
+Andrew Ippolito: yeah yeah it's like it's like take. Andrew Ippolito: Take a balloon and Sherlock the entire interior of it.
+1:03:08
+Andrew Ippolito: This also serves as the scaffolding, upon which we can put the chromosomes.
+1:03:17
+Andrew Ippolito: Alright, so i'm going to do this and light blue and dark blue. Andrew Ippolito: dark blue yes.
+1:03:24
+Alexa DePrisco: So, again that's the outer nucleus, the light. Andrew Ippolito: No, no, so that's still we're still inside the.
+1:03:29
+Andrew Ippolito: nucleus that's the inner membrane I haven't even drawn the outside, yet. Andrew Ippolito: Okay, so with dark blue what i'm going to do here is i'm going to draw some squiggles some random squiggles here in the heart of the nucleus, and I want to call this the nucleus, we covered that earlier new oops new Clio less.
+1:04:03
+And I suppose. Andrew Ippolito: i'm just going to redo it a lot again.
+1:04:09
+Andrew Ippolito: But i'll draw the arrow in a different color so it's a little more obvious.
+1:04:17
+Nuclear list. Andrew Ippolito: Okay, this is the birth sight of ribosomes.
+1:04:24
+Andrew Ippolito: ribosome synthesis. Andrew Ippolito: And really what it is, is a tangled ball of yarn of different chromosomes we take someone chromosome seven and someone chromosome 14 and some a chromosome three and we pull it together, and for this structure.
+1:04:48
+Andrew Ippolito: I wish I had a wish I had the ability to make slight different slightly different shades of color here the palace to be sick.
+1:04:57
+Andrew Ippolito: or whatever alright so that's the nucleus, and now now what i'm going to do is i'm going to start at the nuclear lamanna and i'm just kind of kind of doodle the occasional little this is, this is the DNA is our genome i'm just doodling like this the idea here is that.
+1:05:13
+Andrew Ippolito: it's scaffold that against the lamanna.
+1:05:23
+Andrew Ippolito: Okay, and these you can think of these like continents, these are called chromatin territories each chromosome that we have in our cell has its own distinct region that it occupies it's not just this random flailing mass there's actually a higher level of order here.
+1:05:47
+Andrew Ippolito: And now i'm going to do the same thing i'm just going to add some light colors and i'll explain that, in a second why there's different there's dark and there's light.
+1:05:57
+Okay. Andrew Ippolito: And so the light areas I want you to think of that as chromatin that's open.
+1:06:05
+Andrew Ippolito: Open chromatin. Andrew Ippolito: In other words, it's available for gene expression there's genes that are activated in the light stuff and there's a special name for this stuff it's called the chromatin.
+1:06:24
+Andrew Ippolito: And then the darker stuff not including the nucleus, but I don't have too many colors to available here, but the darker stuff is more compacted chromatin we can call this closed chroma.
+1:06:39
+Andrew Ippolito: And this is called hetero chromatin.
+1:06:48
+Okay. Andrew Ippolito: And that's that's as complicated as we're going to get right now with the inside of the nucleus.
+1:06:57
+Andrew Ippolito: So the recap, that the inside of the nucleus is laminated with a nuclear lamanna which serves as a scaffold upon which the chromatin is placed an organized.
+1:07:09
+Andrew Ippolito: The chromatin is in some places crumpled up and somebody has opened up you chrome it didn't hetero chromatin and somewhere in the nucleus is this core this very dense core of chromatin called the nuclear.
+1:07:22
+The nuclear do this. Angela Harbeck: Okay, so these like little squiggles that go outside and go on the new killer lamanna they're like DNA strands yes.
+1:07:36
+Angela Harbeck: well. Andrew Ippolito: He made their their chromosome strands there they're made out let's say chromosomes.
+1:07:43
+Andrew Ippolito: Okay, so all a chromosome is. Andrew Ippolito: Is the linear of really big.
+1:07:49
+Andrew Ippolito: piece of double stranded DNA. Andrew Ippolito: And we'll get into the structures of chromosomes later in the Semester just for now, you can understand that these are linear chromosomes, meaning that they are a really big double stranded DNA that's got two ends.
+1:08:11
+Andrew Ippolito: And they're highly organized with these proteins called histones but that's that's too much right now for you, I want you to focus instead on cell structures, not the molecular biology of the chromosome.
+1:08:22
+Andrew Ippolito: Okay, but yeah so that's the default state of a cell so let's just hanging out the chromosomes or are these big blobby.
+1:08:32
+territories. Andrew Ippolito: Are humans have. Andrew Ippolito: We have 23 pairs.
+1:08:40
+Andrew Ippolito: 46 total. In a typical humans.
+1:08:47
+Andrew Ippolito: Okay, all right now what i'm going to do here is i'm going to take all that writing, particularly for the DNA stuff.
+1:08:58
+Andrew Ippolito: And i'm just going to move that out of the cell. Because I want to draw more stuff in so I want to take the nucleus put this over here and nuclear lamanna take this right here.
+1:09:13
+Get rid of that arrow. Andrew Ippolito: Right you guys already saw that you see all that now now I can keep drawing here.
+1:09:22
+Andrew Ippolito: Alright, so let's draw the outer membrane here's why I was saving this the outer membrane of the nucleus is continuous.
+1:09:31
+Andrew Ippolito: With the endoplasmic reticulum. Andrew Ippolito: And this is how you draw that.
+1:09:37
+Let me see where I need to make sure i'm in the same level of. thickness here, so it looks right, I guess it's the it's too thick.
+1:09:49
+Andrew Ippolito: All right, that's good all right watch this i'm going to start it and one of those holes and i'm going to do this, I want to work out.
+1:09:56
+like that. Andrew Ippolito: And then i'm just going to kind of draw some squiggles.
+1:10:07
+Andrew Ippolito: like that. Andrew Ippolito: And i'm going to do that, for all the holes that I drew earlier that I poked holes in the inner membrane i'm now going to.
+1:10:17
+do this. Andrew Ippolito: For all the various holes.
+1:10:57
+there. Andrew Ippolito: it's kind of fun it's kind of meditative. Andrew Ippolito: To do that, so there's the outer membrane.
+1:11:07
+Andrew Ippolito: And so you can think of the nuclear envelope now as just really a region of space, more than a distinct boundary that i'll highlight here.
+1:11:17
+Andrew Ippolito: Okay, so the nuclear envelope includes the inner membrane and the outer membrane.
+1:11:23
+Andrew Ippolito: And the outer membrane would just be that part of the memory that's really close to the nucleus. OK.
+1:11:29
+Andrew Ippolito: Now let's let's write this word and dope cosmic particular for a minute and oh.
+1:11:34
+plasma. reticulum.
+1:11:41
+Andrew Ippolito: And domains inside plasmid refers to the membrane part, so no so no platinum would just be membrane inside the cell.
+1:11:53
+Andrew Ippolito: Okay, so endoplasmic is an adjective it's a descriptor of something or reticulum what's a reticulum well the word reticulated when something is reticulated that is a geometric word, meaning that it looks met like so think of a spider Web.
+1:12:12
+Andrew Ippolito: that's a reticulated network of strands Okay, so this is a net like.
+1:12:19
+Andrew Ippolito: membrane system inside the cell. Andrew Ippolito: This is where we get our maximum surface area to volume ratio stuff.
+1:12:29
+This thing is huge. Andrew Ippolito: So that's what I call it the endoplasmic reticulum you can abbreviate as the.
+1:12:37
+Angela Harbeck: So all these squiggly squiggly, these are the endoplasmic reticulum you got it.
+1:12:42
+Angela Harbeck: And this is the outermost layer of the new colors. Angela Harbeck: Yes, it's continuous with the. Angela Harbeck: outer most.
+1:12:48
+Andrew Ippolito: let's say instead of saying layer let's say it's continuous with the outer most memory.
+1:12:56
+Andrew Ippolito: Okay, so from from US side a side view if you were i'm going to delete this but i'll just do this for now, from a side view, if this is too thick here, if this is the inner membrane.
+1:13:09
+Andrew Ippolito: And this is the outer membrane. Andrew Ippolito: we're gonna read the middle here and call that the nuclear poor.
+1:13:16
+Andrew Ippolito: Okay, so watch this i'm going to connect these now like this.
+1:13:22
+Okay. Andrew Ippolito: And then the other thing I want to do.
+1:13:27
+Is. made the comment to draw this.
+1:13:33
+down when I do this. Andrew Ippolito: Let me, let me try that again there we go alright so i'm going to bring this out first and just do it all.
+1:13:46
+And then do this. Okay. So.
+1:13:55
+Andrew Ippolito: And then, what i'm going to do here, and this is new Now this is new i'm going to put this yellow on a cylinder here, and when I call this.
+1:14:05
+Andrew Ippolito: The nuclear. Andrew Ippolito: Poor. Complex.
+1:14:11
+Andrew Ippolito: And the reason that's a complex is not just one protein there's a whole scaffolding here.
+1:14:17
+Andrew Ippolito: We abbreviate that n P, see the nuclear poor complex.
+1:14:28
+Andrew Ippolito: Not non player character that's a D amp D term.
+1:14:34
+Okay. Andrew Ippolito: So if we go to the PowerPoint.
+1:14:40
+Andrew Ippolito: I have a slide here, where I drew this an awful adobe photoshop many years ago, let me see if I can find it for you.
+1:14:47
+Andrew Ippolito: Here okay so there's I put the poor off to the side in this picture, but you can see there the dark blue.
+1:14:55
+Andrew Ippolito: represents where's my mouse the dark blue represents the inner membrane the light blue represents the outer membrane.
+1:15:04
+Andrew Ippolito: And you can see that the outer membrane is continuous with this region that I drew in green, which is the er doctor about ruffin Smith yet just make sure you understand the membrane system.
+1:15:15
+Okay. Andrew Ippolito: And then there's a nuclear poor complex, it does look kind of like a hot air balloon.
+1:15:22
+it's a very strange structure.
+1:15:28
+Okay. Andrew Ippolito: Now let's talk rough and smooth. i'm gonna go back to my picture.
+1:15:35
+Andrew Ippolito: Remember the nucleus, and how it makes right. Andrew Ippolito: Well, those rive isms are slowly marching out of the nucleus like traffic coming out of a city right, so it turns out, this is a metropolis there's things coming in and out of those pores all the time to a traffic, and so one of the things that comes out of here.
+1:15:57
+Andrew Ippolito: And I just realized the way I drew this.
+1:16:02
+doesn't give me access. Andrew Ippolito: You guys your drawings are fine my drawings messed up I might delete one of these.
+1:16:13
+Andrew Ippolito: Actually i'm going to delete all this for a second. Andrew Ippolito: And here's what I want to do.
+1:16:20
+I draw this in a thinner. Andrew Ippolito: simpler way now as you see this, I want to make sure that I have access to the outside of the cytoplasm from the pores.
+1:16:34
+they're. Andrew Ippolito: Here let's let's focus in on just this side, right here, right here.
+1:16:41
+Andrew Ippolito: and watch this here's the rub isms coming up.
+1:16:47
+Okay. Andrew Ippolito: Some of the ripe isms but not all of the ripe isms, of which there are 10s of thousands of these some of the rob isms are going to continue and they're going to be found in the cytoplasm.
+1:17:05
+Andrew Ippolito: These are called free rhizomes.
+1:17:16
+Andrew Ippolito: Some of the rhizomes are going to be targeted.
+1:17:22
+Andrew Ippolito: to attach themselves to the er.
+1:17:27
+Andrew Ippolito: But not all of them, and so that region on the er that surrounds the nucleus that contains all these rhizomes coming out and sticking there is called the rough year.
+1:17:39
+Andrew Ippolito: As you get further and further out of the cell out of the nucleus, the er is smooth because the ripe isms that aren't bound or the rhizomes that would have bound bound already.
+1:17:50
+Andrew Ippolito: And so, as you keep getting further and further away it's kind of like driving out to the country from the city Okay, so the smoothie are lacks right.
+1:17:59
+Andrew Ippolito: Okay, so it's all continuous you go from the nuclear membrane to the rough er to the smoothie or.
+1:18:08
+Andrew Ippolito: Does that make sense. Okay.
+1:18:18
+Andrew Ippolito: So let's talk about proteins now because that's what rob was make.
+1:18:27
+Andrew Ippolito: And, before I talk about this, I wanted i'll feel questions as you guys are drawing this stuff.
+1:18:34
+Any questions so far.
+1:18:40
+Andrew Ippolito: All right, there are proteins that.
+1:18:45
+are destined. Andrew Ippolito: For secretion.
+1:18:52
+Andrew Ippolito: Think about a B cell making antibodies and spewing the antibodies into the environment, and there are proteins destined for.
+1:19:01
+Andrew Ippolito: membranes. Andrew Ippolito: will say membrane integration.
+1:19:13
+Andrew Ippolito: I just got a notification rush limbaugh died. Andrew Ippolito: wow.
+1:19:21
+anyway. you're already here first folks.
+1:19:30
+Jordan Russell: So. Andrew Ippolito: there's proteins that are destined for secretion. Andrew Ippolito: there's proteins that are destined to get stitched into the membrane so.
+1:19:36
+Jordan Russell: You can see it there's mixed into the membrane Jordan you got a question.
+1:19:44
+Jordan Russell: who died and in here who's. Andrew Ippolito: rush limbaugh died.
+1:19:49
+The conservative talk show host. Andrew Ippolito: If you're not here yet maybe not.
+1:19:55
+Jordan Russell: Your dad he sounds good yeah he's he's from he's old school.
+1:20:02
+He was he's just sorry. Andrew Ippolito: Sorry 70 it wasn't even that old.
+1:20:12
+Andrew Ippolito: The guy that I do might be our stuff with Larry he's uh he's 77 and he's coding vr is that's a whole nother story for another time he has pretty cool.
+1:20:23
+Andrew Ippolito: Is a great guy anyway proteins destined for secretion. Andrew Ippolito: proteins destined for membrane insertion I like to say they're stitched into the membrane you can do to low protein that's in the membrane like this, if this is the membrane.
+1:20:34
+Andrew Ippolito: You can literally do this there's there's proteins that are threaded into the memory we'll talk about them in the next chapter mark.
+1:20:41
+Andrew Ippolito: There was 1237. Andrew Ippolito: So, in the time we have remaining I realized that this this maybe this wasn't.
+1:20:51
+Andrew Ippolito: The best way to do this, I know this worked I guess up to this point right it's just it's taking too long.
+1:20:56
+Andrew Ippolito: But you guys are learning yeah alright so then there's one so there's there's three classes of proteins here are the four really so there's there's the ones destined for secretion.
+1:21:05
+Andrew Ippolito: there's the ones destined for membrane insertion Okay, these are the proteins that are produced by the rough er.
+1:21:12
+Andrew Ippolito: Okay, the rhizomes that are stuck to the er are the ones that make ones that ultimately go out or ultimately get inserted into the memory.
+1:21:20
+Andrew Ippolito: Okay, then their site is all proteins side to salt lake proteins right those the ones made by the free right because.
+1:21:28
+Andrew Ippolito: they're using and then Lastly, I don't usually talk about these and this is the last time I mentioned them the their mitochondria my toe con dream driel proteins and chloroplasts proteins.
+1:21:45
+Andrew Ippolito: And they're made inside the chloroplasts in the mitochondria respectively by rob isms House there okay so there's three places for for ripe isms there in the rough er there in the side is all or there in the mitochondria car bus.
+1:22:03
+Okay. Andrew Ippolito: Alright, so we're going to speed things up now, because the rest of this stuff is a little less tricky.
+1:22:10
+Andrew Ippolito: And I see there's a chat message, why is there a way for you to save and post Australia yeah I can do that.
+1:22:17
+I can do. Alexa DePrisco: So the site is solid protein is produced by the rivals zooms in the cytoplasm and what does that these guys.
+1:22:27
+Andrew Ippolito: And what is what. Alexa DePrisco: What is that proteins purpose the site is on protein. Andrew Ippolito: Oh okay.
+1:22:33
+Alexa DePrisco: Like everything. Andrew Ippolito: All the metabolic pathways and you're all the anabolic pathways and metabolic catabolic pathways you like Carlos is.
+1:22:42
+Andrew Ippolito: The Krebs cycle building nucleotides they're all of the you know the DNA polymerase RNA polymerase transcription factors like everything that the cell uses that's not in a membrane are getting spit up.
+1:22:57
+Alexa DePrisco: So then, like the er right like those proteins produced by those zones on the endoplasmic reticulum whatever that is more of like a structure, I guess, and then like this side is all it is more of like a function because you're saying it's like kind of all.
+1:23:12
+Andrew Ippolito: wall and no, no, there they all have structural and functional role so, for example, the act and filament the microbial filaments and the intermediate filaments are also produced by free ripe isms.
+1:23:22
+Andrew Ippolito: Because they're inside the cell they're just not integrated so so just think of it this way, if it's not getting spit out and it's not getting stitched into a membrane.
+1:23:32
+Andrew Ippolito: it's everything else, and that which is the bulk of this proteins in the cell and those are the ones made by the free riders.
+1:23:39
+Andrew Ippolito: they're the most common thing that's happening. Good.
+1:23:46
+Andrew Ippolito: alright. Andrew Ippolito: The smoothie or i'll just call the outside of this here s er for smooth er the smoothie or has a lot of functions to it, but for us for our purposes for like to stick this into your head is a thing let's give it two functions lipid.
+1:24:06
+Andrew Ippolito: Bio genesis it makes lipids bio.
+1:24:11
+Andrew Ippolito: genesis or Cynthia you want to write limpid synthesis right limpid synthesis and the second is calcium.
+1:24:20
+storage. Andrew Ippolito: It has other functions we're not getting into it i'm keeping things simple.
+1:24:28
+Andrew Ippolito: that's the smooth and depositing particular OK, so the rough er makes proteins, the smoothie are makes lipids and also houses calcium.
+1:24:40
+Andrew Ippolito: Okay, and so, if we were to rip the nucleus, out of a cell all this would come along for the ride okay and that's it there's nothing else that's continuous here, so the next thing we're going to learn is separate from this i'm going to draw this up here, I want to go to north.
+1:24:56
+Andrew Ippolito: i'm going to add a little bit more. Andrew Ippolito: refined smoothie are here so here i'll add some pores here here's a nuclear force.
+1:25:12
+Andrew Ippolito: Okay, the npc. Andrew Ippolito: And again, this is.
+1:25:17
+Angela Harbeck: Controlling the traffic. Andrew Ippolito: in and out of the nucleus. Think of it like a.
+1:25:24
+checkpoint. Andrew Ippolito: or. Andrew Ippolito: Whatever right, and then we got the rough in this movie are.
+1:25:34
+Andrew Ippolito: out here the next closest thing is called the gold G apparatus which i'm sure you've seen that a couple times now koji it's called the golden the gold G is a system of pancake like samuels, and this is how you doodle it.
+1:25:51
+Andrew Ippolito: When I draw this a little bit bigger than that, so let me go to about here i'm gonna make my pen a little bit big i'll make this i'll keep it on white signifies memory.
+1:26:03
+I guess the second one. All right, here we go.
+1:26:09
+Andrew Ippolito: The first sack you'll we're going to draw like this and bend it a little bit towards the nucleus, we draw that again a little bit more exaggerated bend it towards the nucleus.
+1:26:20
+Andrew Ippolito: The second one, a little less bend a little bigger.
+1:26:25
+Andrew Ippolito: The third one, will make straight. Andrew Ippolito: ish the fourth one we're just we're just going to do a mirror image of the other side now this one's a little bit better gone this way, and this one's a little bit more going on.
+1:26:42
+Andrew Ippolito: There so it's a system of these pancakes. Andrew Ippolito: And this site here.
+1:26:50
+Andrew Ippolito: we're going to call this SIS face.
+1:26:55
+Andrew Ippolito: it's the closest one to the nucleus. Andrew Ippolito: And on the other side we're going to call this the Trans face.
+1:27:09
+Andrew Ippolito: And to understand what this thing does, we have to understand the flow of traffic from the rough er So if I zoom all the way in here.
+1:27:21
+Andrew Ippolito: And I think about arrived zone sitting here. Andrew Ippolito: Not rive is on make some proteins.
+1:27:29
+Andrew Ippolito: This is what happens the er blurbs off little chunks of itself.
+1:27:37
+Andrew Ippolito: And these little chunks are called vessels.
+1:27:45
+Andrew Ippolito: And you can just draw them in random places in the southern everywhere.
+1:27:51
+Andrew Ippolito: And those vessels this flow traffic some of those vessels will find themselves fusing with the SIS face of the goji.
+1:28:04
+Andrew Ippolito: So here in green. Andrew Ippolito: i'm going to signify a protein that's in the membrane.
+1:28:11
+Andrew Ippolito: This was stitched into the membrane from the rough er and now notice it's in the membrane of the goal gee.
+1:28:21
+Andrew Ippolito: I want to come up here. Andrew Ippolito: And i'm going to blab off of bicycle from the gold G now and you're going to see that there's this traffic that moves through the goal of G samuels.
+1:28:36
+And what's happening. Andrew Ippolito: Is you can think of this as either a sorting facility and an assembly facility at the same time, so proteins are getting modified they're having sugars attached to them they're getting cut in half there's all sorts of things going on and the goji think of it, like the ups sorting facility.
+1:29:00
+Andrew Ippolito: And so i'm tracking. Andrew Ippolito: Just a single. Andrew Ippolito: Protein right now that's in the membrane.
+1:29:05
+Andrew Ippolito: OK and i'm going to give you one thing that happens in the golden one thing that happens i'm going to draw that thing right here.
+1:29:15
+Andrew Ippolito: This, as far as I can go i'm going to add a little.
+1:29:20
+Andrew Ippolito: Oh boy that's too big i'm going to add a little bell and whistle on to this, this is a sugar change.
+1:29:27
+Andrew Ippolito: This is called glide consolation July costs so elation and it only happens in the lumen of the gold g.
+1:29:40
+The lumen has just a little region of space in there.
+1:29:46
+Andrew Ippolito: Okay, and so, with that little sugar sticking off of it now, you can imagine, on this side of the goji when it emerges let's draw this a little bigger now, so we can see it better so here's the vessel.
+1:29:58
+Andrew Ippolito: let's say here's the protein. Andrew Ippolito: And here is the sugar grip on it.
+1:30:07
+Okay. Andrew Ippolito: what's gonna happen is. Andrew Ippolito: That vessel.
+1:30:14
+Andrew Ippolito: want to zoom let's see where are we here yeah that vessel is going to move over to the plasma membrane.
+1:30:22
+And that's going to fuse with it.
+1:30:28
+Andrew Ippolito: And that protein. Andrew Ippolito: that's in there. Like so.
+1:30:35
+Andrew Ippolito: is going to eventually find itself on the surface of the cell.
+1:30:43
+Andrew Ippolito: With sugar sticking up. Andrew Ippolito: And so, this thing here will be called a glencoe protein, because it has a sugar on it.
+1:30:55
+Andrew Ippolito: Some liquids are also like costs related and so those would be called glycol limits.
+1:31:05
+Andrew Ippolito: And they are only found on the outside of the cell.
+1:31:12
+Andrew Ippolito: And the reason for that. Angela Harbeck: Is. Andrew Ippolito: The sugars are attached and then. goji.
+1:31:18
+Andrew Ippolito: And so, because that's happening inside the goji that region of space inside the goji you can imagine, this region of space on do this in yellow here this region of space.
+1:31:31
+Andrew Ippolito: is continuous or represents what will eventually be the outside of the cell.
+1:31:38
+Andrew Ippolito: When you fuse it with the membrane whatever inside the software on the inside surface of that gold G bicycle will be represented on the outside of the cell.
+1:31:48
+Andrew Ippolito: Okay, and so collectively here step back now and consider this whole system here i'm going to do one more organelles now.
+1:31:58
+Andrew Ippolito: Sometimes, what will Bud off of the goji apparatus or other membrane bound organelles the principal one being something called the license.
+1:32:13
+Andrew Ippolito: A lice ISM is essentially. Andrew Ippolito: A sack of enzymes that break things down and there is something there's there could be dozens of different kinds of proteins in here.
+1:32:25
+Angela Harbeck: And there the goji. Andrew Ippolito: It will, but so the license home is borne by biting off of the goji.
+1:32:34
+Andrew Ippolito: And the license is filled with enzymes that should make sense to you now hydraulic enzymes.
+1:32:44
+Andrew Ippolito: And you can imagine, this is the kind of thing that fused with the original mitochondria and fail to kill it.
+1:32:55
+Andrew Ippolito: Okay, so cells are filled with these various organelles called license and what the license them does is it fuses with various things.
+1:33:09
+And breaks them down. Andrew Ippolito: So, think of it as a potential to help break food down think of it as having the potential to recycle old organelles that need to be shredded and have the parts reuse for scrap.
+1:33:26
+Andrew Ippolito: Okay that's the license. Andrew Ippolito: And so that's it when it comes to this one big mega system that we're gonna call collectively.
+1:33:37
+Andrew Ippolito: The endo membranes system, the endo membrane system.
+1:33:46
+Andrew Ippolito: and membrane.
+1:33:55
+system. Andrew Ippolito: And the and no memory system includes.
+1:34:02
+Andrew Ippolito: A highlight it and bright green here. Andrew Ippolito: At the end of memory and system includes the nucleus, the er the gold g.
+1:34:14
+Andrew Ippolito: The plasma membrane and the license. Andrew Ippolito: We collectively call that whole system.
+1:34:22
+The membrane system. Angela Harbeck: Okay, can you name off again what is in part of it sure the nucleus.
+1:34:31
+Andrew Ippolito: Here temporarily draws in red and then i'll race this the nucleus, the er the goji.
+1:34:40
+Andrew Ippolito: The plasma membrane. Andrew Ippolito: And the license. Andrew Ippolito: that's all.
+1:34:47
+Andrew Ippolito: Part of one big mega system we call the end of membrane system.
+1:34:54
+Alexis Micewski: So that doesn't include the central zone or the central's exactly.
+1:35:00
+Andrew Ippolito: Nor does it include the mitochondria nor does it include the paroxysms nor does it include vacuum rules, all the other stuff that we're going to talk about.
+1:35:10
+Andrew Ippolito: Okay, all right now listen in the interest of time it's 1251 I want to hop over to PowerPoint.
+1:35:17
+Andrew Ippolito: Okay, whatever you're drawing you keep drawing i'm going to stop drawing and i'm just going to show you the slides for the rest of the organelles that we haven't explicitly talked about yet.
+1:35:27
+Andrew Ippolito: Okay, we talked about all this already we talked about this. Andrew Ippolito: Oh so here over here, you can see.
+1:35:35
+Andrew Ippolito: In this slide here, so you can see the rough er you can see the Poc marking on the ripe isms you can see, this Green thing here is the goal g.
+1:35:43
+Andrew Ippolito: You can see that the gold G is budding off vessels, and you can see these vessels in this case, these are secretion proteins proteins destined for secretion and you can see that as the goji bicycle binds to the plasma membrane it releases its contents into the environment.
+1:36:02
+Andrew Ippolito: Okay, you can also see on this slide the smoothie are looks like a system of pipes.
+1:36:09
+Okay. Andrew Ippolito: All right, rob isms largest small sub unit.
+1:36:14
+Andrew Ippolito: we'll talk about all that later in the Semester, but understand that their job is to make proteins.
+1:36:20
+Andrew Ippolito: By using the T RNA and the Mr nay, but again, this is this is stuff you don't have to know for this level you don't know this level of detail for the test just understand what represents do they make proteins and they use T M and our r&d.
+1:36:37
+Andrew Ippolito: stuff you already learned about what the DNA stuff or the the nucleic acids. Okay.
+1:36:43
+Andrew Ippolito: All right here so here's here's a summary there's the membrane system, you can see the smoothie or the rough er the goji the system, the transport, so the goal gee.
+1:36:49
+Andrew Ippolito: what's lacking in this particular slide the name itself uses has purple that's the license them it's just not named here for some reason you want to put that there and go ahead, the license zoom.
+1:37:02
+Andrew Ippolito: Okay here's another I love this picture I just kept this I forgot, where I found this but that's a gorgeous picture of representing the reticulated network of the er.
+1:37:12
+Alexis Micewski: um so for the endo plasma curriculum are the smooth in the rough kind of separate or they mixed in together.
+1:37:20
+Alexis Micewski: Which one this month. Andrew Ippolito: The wrong lessons. Alexis Micewski: yeah because it's. Alexis Micewski: All part of it yeah imagine, I.
+1:37:27
+Andrew Ippolito: I took imagine, I took my kid and I dipped him half into a VAT of tar and then I put them in some rocks, and so the bottom, half of them are just filled with rocks in the top half of it is not.
+1:37:39
+Andrew Ippolito: Right and then I get arrested shortly after for child abuse, there you go now you never forget this, the rough and the smoothie or one thing.
+1:37:50
+picture. Jordan Russell: Tar and feathering like. Jordan Russell: that's why yeah.
+1:37:56
+Andrew Ippolito: But that's me but, but that would hurt I don't want to hurt, I just want to. Andrew Ippolito: I just want to use an analogy. Andrew Ippolito: For the er.
+1:38:02
+Andrew Ippolito: Okay alright, so the smoothie smoothie are a goal is you, he goes he likes zones, we talked about.
+1:38:11
+Andrew Ippolito: thing is yeah license license you can see here here's a license on a killing a.
+1:38:20
+Andrew Ippolito: mitochondria Okay, the problem we'll talk about paroxysms next that's where I want to get to you don't have to worry about what we'll talk about Vegas psychosis and all Fiji and other parts of the class you don't know that for this test.
+1:38:35
+Andrew Ippolito: Okay approximate, this is the next there's there's two tomorrow organelles the vacuums and then paroxysms so the peroxide zone, think of the proxy zoom as the bomb squad the paroxysms job is to take dangerous molecules.
+1:38:54
+Andrew Ippolito: and make them less dangerous. Andrew Ippolito: Okay, so if we have toxins if we have high energy by products coming off of our mitochondria if we're metabolizes things that are dangerous like nucleotides.
+1:39:09
+Andrew Ippolito: we're going to use the paroxysms to diffuse those high energy dangerous molecules into lower energy molecules and one of the most common things that comes out of this is hydrogen peroxide.
+1:39:20
+Andrew Ippolito: Which, then I should say doesn't come out of it, the most common byproduct of these processes is h2o to which then there's the very last step of all the complexity is a simple process where we take a jumper oxide and we use an enzyme called catalysts which is everywhere.
+1:39:38
+Andrew Ippolito: And we agreed to molecules that into water and oxygen guests, and this, the reason why I tell you that is when you have a cut and you pour peroxide on it and a bubbles.
+1:39:49
+Andrew Ippolito: That doesn't mean it's infected all that means is is exposed to your blood which is filled with Catalina, and so the bubbles are oxygen gifts being produced by this chemical reaction.
+1:40:01
+Okay. Andrew Ippolito: So it's approximately the paroxysms not part of the end of memory system it's independent of it we don't fully understand their derivation in or their the way they divide, we know that they generally they go to like a binary efficient kind of thing when cells are dividing.
+1:40:21
+Andrew Ippolito: And that's that they're there the bumps was let's leave it at that okay vacuum vacuum rules are generically they're just a membrane bound.
+1:40:31
+Andrew Ippolito: hollow space that can be used for storage and generally is for storage okay so there's all different kinds in plant cells, the biggest one is called appropriately enough, the Central Bank cool.
+1:40:46
+Andrew Ippolito: And what plants do is they put a bunch of stuff in there it's like a garbage dump they just dump everything in there.
+1:40:52
+Andrew Ippolito: And what that does is it encourages the water to flow in through us Moses swelling it up into this big thing.
+1:41:00
+Andrew Ippolito: That, as a result pushes pressure on to the cells wall and it gives the plant, the ability to stay rigid and that's the adaptation that allow plants to stand up and get to the sun is from this central vacuum.
+1:41:16
+Andrew Ippolito: In addition. Andrew Ippolito: It is also used in host Defense if you've ever you know tried to eat a poison Barry before the poison poison berries house in here safe away from the everyday life of the cell, but of an herbivore eats it it'll break it and get poisoned so that's where the poison is hidden in plants.
+1:41:38
+April Neeld: So the vacuums and that so they pretty much like regulate the pressure with inside the cell.
+1:41:45
+April Neeld: So I like soccer and it will that's what's happening, it doesn't have enough water to keep itself up right.
+1:41:52
+Andrew Ippolito: yep to keep so like the reason why a plant like a piece of grass a blade of grass can stand up is because of that osmotic pressure.
+1:42:00
+Andrew Ippolito: That will learn about us Moses, and the next chapter you don't understand the mechanism there just understand water can push on things.
+1:42:07
+Andrew Ippolito: We can we get another plants. Andrew Ippolito: See again Angela we oh yeah so the central vacuum is only found in plants.
+1:42:14
+Andrew Ippolito: Okay okay all their vacuum is like so here's the second kind is called the water expulsion back you'll or the web.
+1:42:21
+Andrew Ippolito: In parent museum the ciliate we talked about earlier and parent nexium this exists to help prevent the cell from otherwise blowing up because they live in fresh water.
+1:42:31
+Andrew Ippolito: The water is going to be constantly flowing into the cell and so without a mechanism of getting rid of that water, the cell will keep swelling until it blows up like a balloon.
+1:42:42
+Andrew Ippolito: And so, these contracts, sometimes they're called contractile vacuums they look like little stars.
+1:42:48
+Andrew Ippolito: and think of them like the surrounded by what you can imagine, as a muscle like structure and they just pump the water, so the water slowly builds up in them and they pump they slowly build up and they pump and there's a little hole in them.
+1:43:01
+Andrew Ippolito: Little little hole that lets it inject the water out.
+1:43:06
+Andrew Ippolito: Okay, so that's you could say that that's involved in what's called asthma regulation being able to regulate the amount of water coming in.
+1:43:14
+Andrew Ippolito: Right plastic lids you could say plastics are like specialized vacuums I guess.
+1:43:21
+Andrew Ippolito: plastic store things that are useful and there's different kinds of plastics some books will even refer to the chloroplasts placid.
+1:43:31
+Andrew Ippolito: Unless familiar with that usage, but that's what I see when I read things, so the chloroplasts doors sugar, it also makes it but it's doors in.
+1:43:40
+Andrew Ippolito: The chroma blasts show the colored rainbow colored storage chroma plas store pigments so when a when a flower looks pretty those colors are stored the pigments of those flowers are stored in the coma plus.
+1:43:53
+Andrew Ippolito: And then Luca plants or animals class, we saw a picture of those earlier in the Semester when we looked at starch those little grains of starch Okay, thank you tori you got oh yeah if you gotta go you gotta go i'm gonna.
+1:44:08
+Andrew Ippolito: we're almost we're on the homestretch here. Andrew Ippolito: called plus mitochondria are all about the next unit, the next unit chapter nine is.
+1:44:20
+Andrew Ippolito: Basically, the mitochondria in Chapter 10 is a chloroplasts we're going to learn about photosynthesis since our respiration.
+1:44:25
+Andrew Ippolito: For now, just understand their basic structures and you can read that on your own i'll just skip that for now inside outside and all that this is basically the building up of the next unit, it will skip that, for now, you don't have to know this.
+1:44:41
+Andrew Ippolito: So just briefly the stacks of things collectively that's that stack is called the ground them and the individual thing is called the file liquid.
+1:44:53
+Okay. Andrew Ippolito: Whereas in the mitochondria.
+1:44:58
+Andrew Ippolito: They increase their surface area, but these little finger like projections called the Christie.
+1:45:04
+Andrew Ippolito: So they both have increased surface area. Andrew Ippolito: They do it in different ways.
+1:45:10
+Andrew Ippolito: You can worry about that we'll talk about this later. Andrew Ippolito: Okay, the sonos can only covered already so i'm going to the only model add to this is the acting filaments we also close the micro filaments they're the smallest they're made out of a protein called actin and they sit just underneath the cell membrane.
+1:45:28
+Andrew Ippolito: So if I was to go over here and doodling the act and filaments would be here.
+1:45:34
+Andrew Ippolito: That would be the active network. Andrew Ippolito: You can call the stress fibers.
+1:45:43
+Andrew Ippolito: When a cell has to respond to mechanical stress in the environment, this is the first thing that works with it, so we can mean to keep the stress inside this.
+1:45:52
+Andrew Ippolito: Okay, and you can do that, in the same way, drew the lemon the lemon and proteins underlie the nuclear envelope they act and filament underlie the the plasma membrane.
+1:46:03
+Okay. Andrew Ippolito: So there's acting you don't have to know any details here act in, we can see pretty pictures of them, they look kind of like muscles themselves that that's Those are all skin cells fibroblasts.
+1:46:15
+Andrew Ippolito: intermediate filaments are a little bit bigger their job, and so this is what you have to know about these their job is strength your skin cells are filled with this stuff called keratin keratin is an intermediate film.
+1:46:30
+Andrew Ippolito: Your hair and your nails are also made of keratin OK, we have characterized Armor essentially and so that's that's where this falls into that.
+1:46:40
+Andrew Ippolito: You can see them they look like fibrous strong proteins, if you look at this picture, right here.
+1:46:47
+Okay. Andrew Ippolito: And so here's an electron immuno fluorescent image of a cell that has been steamed with antibodies that are fluorescent that bind to intermediate filaments.
+1:46:59
+Andrew Ippolito: And you can see that these are care tena sites in your skin, you can see the nucleus is black because it doesn't have any other.
+1:47:05
+Andrew Ippolito: Right, so the whole cytoplasm is filled with this stuff This gives it super strength this, this is why you can grab your skin and pull apart and it's not going to do anything to it because of this stuff.
+1:47:17
+Andrew Ippolito: Right hair nails feathers. Andrew Ippolito: Okay, and then we've already talked about my bills there's your alpha beta 2 billion right there's a microbial network.
+1:47:29
+Andrew Ippolito: That micro to visit also used in mommy do mitosis later it will form the spindle will call it that's just all more micro trivial like or to do microbial and we covered all this already.
+1:47:40
+Andrew Ippolito: covered this, the only thing I didn't talk about our the microbiome so ready all the microbiome is in some cells, we have these finger like projections like this.
+1:47:52
+Andrew Ippolito: And, just like in the mitochondria they increase the surface area Okay, the difference is is the side of skeleton pushes up into them that's where they come from.
+1:48:01
+Andrew Ippolito: Okay, so there's there's act and filament that push up into them with a base of micro tutorials I think I should have a picture of them.
+1:48:11
+As my better picture of. Andrew Ippolito: There there we go yeah there it is, and these are microbiome you can see there's intermediate filaments and act and filament right, so the enemy films give you this basement and then the active film was push up, and so you get the the micro beauty.
+1:48:33
+Andrew Ippolito: Okay, other than this we've already talked about all this feel free to click on this link of your board the tunnel friends or the there are these animals that look like jellyfish.
+1:48:42
+Andrew Ippolito: And they're known as the largest animal that propels themselves with cilia they have these little combs these huge long.
+1:48:53
+Andrew Ippolito: runs of columns of cilia and they use them to locomotive and and they're iridescent and beautiful so i'll tell you what when classes over i'll come back and actually look pretty video that.
+1:49:05
+Andrew Ippolito: let's see yes that's the beauty of my community, and then the motor proteins you got myosin.
+1:49:13
+Andrew Ippolito: myosin so a motor protein changes its shape when it uses ATP that's what makes it a motor protein, these are the walkers.
+1:49:20
+Andrew Ippolito: Okay, and so, when you attach a Walker to another thing, and you move it you get all sorts of cool stuff happening so like the way our muscles work this head will bend forward this way and they'll all do it at the same time, moving the act and filament and so your muscles work.
+1:49:39
+Andrew Ippolito: Okay there's the Walker there's a molecular view of the Walker and so a vessel and the cell like one merging from the goji apparatus.
+1:49:47
+Andrew Ippolito: it's not just floating around in space, it is anchored to a micro he will not work and that's how they're moved that's that's how the traffic moves it's these motor proteins.
+1:49:58
+Okay. Andrew Ippolito: there's a Walker.
+1:50:03
+Andrew Ippolito: So the big its head is a bicycle. Andrew Ippolito: And the road is a microchip.
+1:50:10
+Andrew Ippolito: And there's two there's kind neeson and dining that's just one goes away and one goes towards and you don't have to know any of the details that cell biology level stuff and that's that so what i'm seven minutes over, but we were 10 minutes late so we'll call it even.
+1:50:28
+Andrew Ippolito: And sorry I was late this morning. Andrew Ippolito: Okay, all right now title wanted me to save this here's what i'll do here.
+1:50:39
+inked export send email, now we export.
+1:50:45
+Andrew Ippolito: High quality svg i'll do both i'll come back and do a PNG too.
+1:50:52
+But. See. Andrew Ippolito: I want to stop the recording here, so I said you gotta test on two days from now on everything up to this point in time, good luck studying and i'll see you next time.

@@ -1,0 +1,1272 @@
+0:02
+Andrew Ippolito: Okay, well, I started with okay Julia. Andrew Ippolito: just said okay I haven't done that in a while we're going to cover this essentially chapter 13 in your book alright meiosis is the other half is the other variation of cell division.
+0:19
+Andrew Ippolito: that we see in higher you carriers that are sexually reproducing so think of meiosis as a specific.
+0:28
+Andrew Ippolito: or a customized. Andrew Ippolito: Think of it as a customized version of mitosis okay so So the idea is it's still nuclear it's a nuclear division cytoplasm MC division also occurs during mitosis and in fact I can't think of any normal.
+0:46
+Andrew Ippolito: situation where. Andrew Ippolito: You will have meiosis occur without cell division right so, but despite that it's still a nuclear division it's called biotic cell division alright.
+1:00
+Andrew Ippolito: and Andrew Ippolito: meiosis is the underlying mechanism by which we increase the diversity of the gene pool that's what this is all about.
+1:13
+Andrew Ippolito: Think about what mitosis does mitosis gives us to equal cells to equivalent cells to clones right we don't want the genome, of the daughter cells to deviate in any way, shape or form for the parents right we never want that mitosis is all about giving us the exact same cells.
+1:36
+Andrew Ippolito: And so, if you think about it over evolutionary time we have to have some way to change our genes right, we need change but but as multicellular creatures we can't have change or will get cancer right, so what what evolution is given us is is.
+1:55
+Andrew Ippolito: we've divided these tasks in in different regions of cells are we partitioned it so there's really there's two kinds of cells in your body, there are some matic cells.
+2:10
+Andrew Ippolito: Okay, and so, when I say somatic these are body cells.
+2:16
+Andrew Ippolito: Alright, so my, if you remember, so ma. Andrew Ippolito: Is the Greek word for body.
+2:22
+Andrew Ippolito: chromosome paroxysm license zone, whatever zone. Andrew Ippolito: Right there's a cellular body, so your cells now if you step up outside the cell and look at your body there's body cells somatic cells okay somatic cells are deployed.
+2:42
+Andrew Ippolito: In sexually reproducing organisms that are really let's say in that let's just stick to animals it's just easier that way, so in animals somatic cells are deployed.
+2:52
+Andrew Ippolito: Okay, and fungus somatic cells are happy what.
+2:59
+Andrew Ippolito: we're going to see this at the end of the chapter these all the different strategies, the three major classes have you carry us have the plants, the animals and the fungus have different life cycles.
+3:10
+Andrew Ippolito: now get we'll get to that the end of this alright so deployed simply means you got right two copies of the chromosomes.
+3:17
+Andrew Ippolito: The opposite of a Cinematic self has a couple different words, sometimes we call them sex sells.
+3:23
+Andrew Ippolito: Sometimes we call them germ cells.
+3:30
+Andrew Ippolito: and whatever we call them, these are always in again in an animal's halfway.
+3:37
+Andrew Ippolito: halfway, it is the opposite of deploy to like stop the opposite it's one set of chromosomes.
+3:43
+Andrew Ippolito: There isn't a hesitancy opposite is true deployed in tetraploid and we can just say polly floyd plants or poly.
+3:52
+Andrew Ippolito: OK, but so at the end of the day, there's only two kinds of cells in your body, you can do mark them that way so every single cell you've ever heard about neurons and.
+4:02
+Andrew Ippolito: asked your class and red blood cells white blood cells and every fields are all deployed.
+4:09
+Andrew Ippolito: The only cells in your body that are half Lloyd are your eggs and sperm and their and their immediate progenitors that makes them.
+4:21
+Andrew Ippolito: Any questions up to this point.
+4:30
+Andrew Ippolito: All right, there's a lot of lingo you can think think of this as a manager vocabulary list if you want for for helping with your study but, really, this is the sequence of topics alright well we'll cover this right and cover all this right now.
+4:44
+Andrew Ippolito: So for humans. Andrew Ippolito: This number here this 46 I want you to see that.
+4:53
+Andrew Ippolito: As n equals 23 and so to n equals 46.
+5:01
+Andrew Ippolito: All right, we will and will study the human genome, a little bit i'll show you a little bit more after that so so right now, the idea is.
+5:09
+Andrew Ippolito: recall that we have individual chromosomes right we learned about this idea.
+5:17
+Andrew Ippolito: Of a chromosome map, so to speak, right, we have the arms, we have the p arm and then qr because that's the bigger one.
+5:26
+Andrew Ippolito: Right, we have the telomere the centromere.
+5:32
+Andrew Ippolito: there's bands. Andrew Ippolito: And then less already here let's say that I just doodle the female the month the maternal copy.
+5:47
+Andrew Ippolito: Of chromosome number one. Andrew Ippolito: So there's a paternal copy in a deployed so that's exactly the same shape at this level, as the same bands got the same location on the centromere, and so this would be the male.
+6:06
+Andrew Ippolito: chromosome one, this would be a set.
+6:12
+Andrew Ippolito: Of hallmarks. Andrew Ippolito: Okay.
+6:18
+Andrew Ippolito: So that's one pair of Homer logs more calling that chromosome one let's look at chromosome to let's say it's a little smaller and the central here's a little higher, so we have a shorter P arm.
+6:30
+Andrew Ippolito: And a longer Q So you see how the central years not always in the middle.
+6:42
+Andrew Ippolito: Okay, so let's say that this is the maternal copy, and this is the paternal copy.
+6:47
+Andrew Ippolito: And let's say this is chromosome number two.
+6:55
+Andrew Ippolito: Okay, so you have to be able to see this visually and a couple different ways, what I just drew was I you see four chromosomes.
+7:06
+Andrew Ippolito: You see two homologous pairs.
+7:11
+Andrew Ippolito: ready, you see there's two genomes here there's the maternal genome and the paternal genome.
+7:19
+Andrew Ippolito: So the other way, you can lump these together ready watch this is to take this chromosome one from mom and this chromosome one i'm sorry chromosome two from mom that's the maternal genome right there.
+7:34
+Andrew Ippolito: Okay, so that's a set of chromosomes.
+7:39
+Andrew Ippolito: that's a unique set of chromosomes. Andrew Ippolito: And now i'm going to give you an analogy that we're going to use a bunch and you're going to like this because it's going to make perfect sense for the most part.
+7:50
+Andrew Ippolito: Imagine you had your see you're standing in your kitchen in your parents House and you open the cupboard and there's a pair of cookbooks.
+8:00
+Andrew Ippolito: Your mom's mom gave her her cookbook that she's inherited from her mother's mother's mother's mother, all the way back in time and your dad inherited.
+8:11
+Andrew Ippolito: His mother's cookbook going all the way back into. Andrew Ippolito: Okay, so we're going to take those two cookbooks out of the cupboard.
+8:21
+Andrew Ippolito: And we're going to associate each of those with a genome. Andrew Ippolito: Okay, so you can imagine, now I flip to a huge you know let's say the chapter on wizards actually you know what instead of saying genome let's just see each one of them, represents a chromosome this will be somewhere Okay, so you have a pair of cookbooks right and they give them to you.
+8:44
+Andrew Ippolito: So you have two cookbooks and you realize oddly the cookbooks.
+8:50
+Andrew Ippolito: have exactly the same number of pages, they have the same chapters there's a chapter on desserts and the chapter on reviews and a chapter on dinners and a chapter in all different different chapters, and so you turn to page 432 and both of them have a brownie recipe.
+9:10
+Andrew Ippolito: And you notice that your mom's copy of the brownie recipe your desk copy the brownie recipe are pretty much the same except one of them has walnuts in it.
+9:23
+Andrew Ippolito: which of course is the worst one. Andrew Ippolito: brand like walnuts make everything worse like I don't know why people put wallets and things and I know that some of you are like I like walmart's I don't care I hate them they stink.
+9:37
+Andrew Ippolito: Chocolate chips and put chocolate chips, in place of oneness on you put one that in a brownie it might as well just get yourself.
+9:46
+Andrew Ippolito: Thank you, I work so hard to make these for you, but they have one less than nothing, I don't actually do this, this is me just being stupid.
+9:55
+Andrew Ippolito: I had somebody make some banana bread once I also don't like banana bread. Andrew Ippolito: did have one that's in it that was like a double whammy but I eat it anyway, and I smiled and I said this is delicious because i've learned how to be polite.
+10:11
+Andrew Ippolito: want a second piece on for. Andrew Ippolito: was really rich wow I hate.
+10:19
+Taylor Campbell: Banana bread without one that. Taylor Campbell: You don't like bananas.
+10:24
+Andrew Ippolito: I mean I i'll tolerate bananas, I don't love them i'd rather eat an apple if I had to eat a piece of fruit, but i'll eat a banana.
+10:32
+Andrew Ippolito: Slightly spoil bananas in a bread man. Andrew Ippolito: Another not spoil their just like she.
+10:41
+Andrew Ippolito: But no, I. Andrew Ippolito: carrots to cook character fine i'm okay with cooked carrots I don't like the.
+10:51
+Andrew Ippolito: And it's the aftertaste I just don't like the attributes of carrot and when you cook them they don't they have a completely different aftertaste and I love that that's good.
+11:00
+Andrew Ippolito: Of course, little butter and salt doesn't hurt. Andrew Ippolito: What kind of diet, to have it's not a good one it's not a good one that's Okay, I agree.
+11:11
+Andrew Ippolito: So branding recipes okay that recipe is a gene that's the analogy, the chapter it's in would be one on the little the the low side.
+11:24
+Andrew Ippolito: And the book it's in is the chromosome. Andrew Ippolito: Okay, and you got to have them.
+11:30
+Andrew Ippolito: they're both browning recipes but they're ll different that's, the key to having variations of a gene so that it's the brownie gene and there's either the wall knowledge or the know walmart version of it.
+11:44
+Andrew Ippolito: Okay, so versions of jeans we call those illegals that's what an old deal is so I have the no one not illegal or so so right I got a mom and a dad version of it right.
+11:59
+Andrew Ippolito: They could have both given me the know walmart version. Andrew Ippolito: or they could have each give me one.
+12:06
+Andrew Ippolito: So I can either have both the same or they can be different. Andrew Ippolito: Right that's that's the beginning of men delay in genetics and we're not going to continue down that path, right now, right now, what I want you to do is really just understand this idea that we have.
+12:19
+Andrew Ippolito: pairs of chromosomes and we have sets of chromosomes all right any given random number chromosome seven you got moms and dads that's a that's a pair of chromosomes right.
+12:29
+Andrew Ippolito: chromosomes one through 22 that are all your mother's or all your father's those are sets of chromosomes those are copies of your genome.
+12:38
+Andrew Ippolito: And every cell in your body has exactly the same gene.
+12:43
+Andrew Ippolito: Despite the fact that they're different cells.
+12:48
+Andrew Ippolito: Okay, the key there is right so imagine you open you imagine that the two cookbooks went to open some restaurants, remember, he had some siblings and they opened, restaurants and they decided to make completely different restaurants and use different parts of the cookbook.
+13:02
+Andrew Ippolito: Okay, so like your neurons and your B cells totally different cells right there reading different parts of the book there's different genes on for those that's what makes different cells different you called difference of gene expression.
+13:21
+Andrew Ippolito: Okay, so we got this basic idea here. Andrew Ippolito: Your somatic cells maintain you great you can think of it like this generation.
+13:34
+Andrew Ippolito: The sex sells guarantee future generations.
+13:40
+Andrew Ippolito: This is how we make sure we don't get cancer during our lifetime we live long enough, we have a healthy body, because our somatic cells are not trying to change their gene.
+13:53
+Andrew Ippolito: In the meantime, every single one of your eggs or every single one of your sperm has a unique gene.
+14:01
+Andrew Ippolito: Completely unique. Andrew Ippolito: Okay, in the course of a mouse life, where he's generating millions of sperm every day, just think about this for a second for 60 years let's say.
+14:13
+Andrew Ippolito: Millions a day, every day 60 years, no to one of those cells will have exactly the same you know that's the power of sexual reproduction is that cut that sheer number of diversity.
+14:28
+Andrew Ippolito: And what this does is it ensures that that next generation has a shuffle deck of cards, so to speak, so that they can survive any potential change in the environment.
+14:41
+Andrew Ippolito: it's a buffer against change we're hedging our bets.
+14:46
+Andrew Ippolito: Oh yeah I can do that I didn't realize it was boring.
+14:53
+Andrew Ippolito: I can disable the optimized for video.
+14:59
+Andrew Ippolito: Okay, give it a second or two, and I should make it better so. Taylor Campbell: Everything you just explained, about sex sells that has to do with everything that sexually reproduces.
+15:10
+Andrew Ippolito: OK, so the sex cell. Andrew Ippolito: Is here. Andrew Ippolito: At the at the end of the day, any social recruiting organism donate one halfway itself so say.
+15:22
+Andrew Ippolito: And another one and. Andrew Ippolito: And what they do is fuse together and a process we call.
+15:31
+Andrew Ippolito: single me. Andrew Ippolito: single me means cell fusion.
+15:39
+Andrew Ippolito: And this so here is to it we're gonna call this the zygote.
+15:47
+Andrew Ippolito: Right so here look for all our examples we're going to have a long chromosome and a short chromosome and yeah.
+15:55
+Andrew Ippolito: You can think of one of squares at this point sure. Andrew Ippolito: planet square area we'll get to that when we do the next chapter um but the idea here right now is so here, you see how about a long one, a short one.
+16:08
+Andrew Ippolito: Think of those as that that's for him all my examples that's The easiest way to just without colors or anything to chromosomes right, so what I just drew there was a half life itself.
+16:18
+Andrew Ippolito: Right so here's another halfway sell the same species, they each have long or short long short short long and then this cell will have to logs into short.
+16:29
+Andrew Ippolito: to that.
+16:35
+Andrew Ippolito: You also notice there's another little hidden point here, and that is each team has a backup copy.
+16:43
+Andrew Ippolito: You see, that so like let's say there's a gene right here, right so that team will also be right here and let's see that this team here has a mutation in that the breaks it, but this one's fine.
+16:54
+Andrew Ippolito: You inherited a broken one and a good one. Andrew Ippolito: chances are you'll be fine.
+17:02
+Andrew Ippolito: Right. Andrew Ippolito: However, if down the line that broken, one gets past long enough and it's common enough in the population if both people have a broken copy of it.
+17:14
+Andrew Ippolito: And you inherit two broken copies of it that's not fine, but again we're getting more into genetics, right now, you cannot at this point.
+17:21
+Andrew Ippolito: i'll stop talking about that right you what we need to do right now is, we need to understand how cells reproduce to develop these unique capitalized cells that's what meiosis is all about how do I get this so.
+17:37
+Andrew Ippolito: So meiosis itself is basically mitosis into the to my to sell them to sell so here the cells will start.
+17:50
+Andrew Ippolito: And they will divide they'll start meiosis still divided into two.
+17:57
+Andrew Ippolito: And then they'll go buy it again so here let's just develop the roadmap of meiosis.
+18:06
+Andrew Ippolito: Alright, so the goal of meiosis is for so. Andrew Ippolito: This is a normal deployed so.
+18:14
+Andrew Ippolito: that's to me. Andrew Ippolito: These are halfway.
+18:21
+Andrew Ippolito: So do you see how we go from two into one. Andrew Ippolito: Right and by, by the way, this would be meiosis one, this would be meiosis to right so just the First Division second division, the first division, we call a reductive division because we're going from two to one.
+18:43
+Andrew Ippolito: reductive. Andrew Ippolito: Okay, any cell division that ends with a fewer number of fewer sets of chromosomes is called a reduction of division.
+18:56
+Andrew Ippolito: So it definitely still becoming a half points that will be reductive until that happens at my house this one.
+19:04
+Okay. Andrew Ippolito: Otherwise, no excuse for the same as mitosis so here's the rule if you see one on these words without a clarifying Roman numeral like a by just if you just say profane.
+19:19
+Andrew Ippolito: that's mitosis you've already learned that if you see a Roman numeral after it, that is always meiosis so we'll say Meta phase two or phase one and phase one and phase two and.
+19:32
+Andrew Ippolito: that's how we distinguish between these. Okay.
+19:41
+Andrew Ippolito: And the easiest way to really master this is to just track a single set of homologous chromosome so ready let's just do this let's take us out so really these are nuclei.
+19:53
+Andrew Ippolito: chromosome one chromosome one I was just just do one set of chromosomes.
+19:59
+Andrew Ippolito: Okay, up to this point preceding meiosis the cell cycle is the same.
+20:06
+Andrew Ippolito: You got your Gilan your ass and your GT and really so m is just meiosis now.
+20:17
+Andrew Ippolito: The same. Andrew Ippolito: Right, so the key here the key here is G is s phase we're going to draw these duplicated chromosomes.
+20:31
+Andrew Ippolito: So there you go there is a pair of Homer logs in g.
+20:42
+Andrew Ippolito: OK now we're not going to go for this first act here for this first pass we're going to do this really simply.
+20:50
+Andrew Ippolito: Okay, so watch this we're going to go pro phase one metaphors metaphors metaphors one, how would that look what we're going to do it manifests here is, instead, and so in mitosis we would have just line them up like this on the medifast plate right.
+21:07
+Andrew Ippolito: We would have pulled these apart, that would have been mitosis so here's the first difference in meiosis instead of these lining up vertically we're going to pair the hormones like this.
+21:21
+Andrew Ippolito: they're going to line up next to each other, in other words the hormones are going to find each other.
+21:27
+Andrew Ippolito: And what we'll see is this thing happens go crossing over they exchanged chunks of DNA we're not going to do that here just yet.
+21:35
+Andrew Ippolito: Okay, so that's Meta phase one they lined up. Andrew Ippolito: And then everything that happened after this and mitosis happens again we have the silo canisius begins.
+21:47
+Andrew Ippolito: Right all that stuff but here's the key that the sisters don't separate instead the houma logs separate.
+21:55
+Andrew Ippolito: see that the sisters are still together, so what we're doing is we're grabbing each entire chromosome this time.
+22:04
+Andrew Ippolito: And pulling them apart, so these daughter cells, these two daughter cells here each now only have one copy of the chromosome.
+22:14
+Andrew Ippolito: Remember those sisters should be identical right. Andrew Ippolito: So this cell here is now one in are happily.
+22:24
+Andrew Ippolito: So that's the reduction there we go from this so here, this is to win because it has two copies, and now, each one of those daughter cells has one, and they have one copy and that's the concept of meiosis one.
+22:38
+Andrew Ippolito: Okay, the key to understanding this is what happens during trophies trophies is the most important one to study.
+22:49
+Andrew Ippolito: And metaphors. Andrew Ippolito: metaphors is easy to understand, but pro feasible, all the complexity half of the crossing over and all that and we'll dig into that in a bit, but right now i'm giving you the roadmap.
+23:04
+Andrew Ippolito: Now the good news is. Andrew Ippolito: meiosis to. Andrew Ippolito: is essentially mitosis there's nothing new in meiosis to other than you just have one set of chromosomes that's the unique part but otherwise.
+23:21
+Andrew Ippolito: They line up with the Meta fees plate. Andrew Ippolito: The sister separate.
+23:27
+Andrew Ippolito: And so now you have four because that happens twice, you have four cells that each have a single set of chromosomes.
+23:46
+Andrew Ippolito: Excuse me. Andrew Ippolito: And instead of psycho analysis after the first met of meiosis after the first telephone is we have something we just call inter cases like intermission in the movies.
+24:06
+Andrew Ippolito: Because here's the thing. Andrew Ippolito: This is your first lesson in.
+24:13
+Andrew Ippolito: molecular mechanisms evolve, they are not designed, there was no intelligent designer for this and here's here's where you can finally see the secrets of of the lack of proper design tell a phase one.
+24:28
+Andrew Ippolito: The chromosomes condense the nucleus reforms. Andrew Ippolito: And there's no good reason for that, because the cell kind of hangs out there and then the nucleus fragments and a D condenses again and you go into pro phase one i'm sorry you're going to proceed to.
+24:46
+Andrew Ippolito: The reason why it happens is because meiosis evolved, by taking mitosis and then modify it.
+24:54
+Andrew Ippolito: And so, tell a phase comes along with the instructions for mitosis. Andrew Ippolito: And so it just kind of spins its wheels and goes through the motions, so it D condenses and then it condenses they get the chromosomes condense and condense that's a big fat waste of time energy alexa God.
+25:14
+Alexa Deprisco: So then, after my meiosis two and there's four daughter cells, do they do those four daughters each have a pair of homologous chromosomes or did they.
+25:24
+Andrew Ippolito: know what they each have exactly they each have one home a lot.
+25:29
+Andrew Ippolito: And therefore they're all different.
+25:36
+Andrew Ippolito: And we'll see there's there's two basic methods of generating diversity we'll get to let me do this in more detail alright so that's that's that's the thumbnail sketch.
+25:49
+Andrew Ippolito: Also here here's interface interface, do you want SG to right we go through s phase we duplicate so now you have you go from one chromosome to one duplicated chromosome right that's how you think about that this is still one thing, it has now a pair of sister chromatin right.
+26:10
+Andrew Ippolito: So you think of this as G one this is s.
+26:20
+Andrew Ippolito: During meiosis one we would say that the whole monologue separate. Andrew Ippolito: And then during meiosis to we would say that the sisters separate home Oleg separate sister separate.
+26:39
+Andrew Ippolito: And so the result here, these daughter cells they're half blood and each chromosome is on duplicate.
+26:53
+Andrew Ippolito: And they're just step back and put it all together and that's what your book has.
+27:00
+Andrew Ippolito: All right now we do. Andrew Ippolito: Let me teach you about crossing over now.
+27:06
+Andrew Ippolito: Though before that are there any questions you really need to make sure you have the basics down before you can understand crossing over so that now is the time they asked me conceptual questions that you're struggling with.
+27:23
+Alexa Deprisco: So when the home the logs separate and meiosis one is it still like one maternal and paternal.
+27:31
+Andrew Ippolito: Or is it all yeah it's always one maternal or paternal. Andrew Ippolito: that's how we track them, so to speak.
+27:42
+Andrew Ippolito: Right, so let me, let me start introducing you now to so here here's.
+27:47
+Andrew Ippolito: let's do anything.
+27:53
+Andrew Ippolito: All right, I want to draw a simplified version of a chromosome is just gonna be a straight line.
+27:58
+Andrew Ippolito: nope so forget the the centrum years that's both arms much together it doesn't matter as here's what we're going to start to understand now.
+28:06
+Andrew Ippolito: I want to tell you there's a gene right here. Andrew Ippolito: Okay, and so light blue let's say light blue corresponds to mom.
+28:15
+Andrew Ippolito: And i'll do read here. Andrew Ippolito: corresponds to that.
+28:23
+Andrew Ippolito: Okay, so what I just drew was one. Andrew Ippolito: unduplicated chromosome and the nucleus right so so random somatic cell nucleus there's chromosome one one copy of moms one copy of deaths right and there's a gene there, what makes them houma logs again as they they carry the same genes.
+28:44
+Okay. Andrew Ippolito: we're going to call this gene a just for simple simplicity sake right we're going to see there's a gene gene.
+28:55
+Andrew Ippolito: mom carries a capital a copy of it.
+29:01
+Andrew Ippolito: Okay, so mom you would say, has the capital.
+29:06
+Andrew Ippolito: A legal. Andrew Ippolito: Okay, the idea is is there's a specific sequence of DNA there at T GG GG CT whatever there's a sequence of DNA that represents the ability to make a protein of some kind, like an enzyme.
+29:24
+Andrew Ippolito: And I say that dad has a slightly different version of it will call our cases.
+29:33
+Andrew Ippolito: So there are different, this is like the brownie recipe, with or without walls.
+29:40
+Andrew Ippolito: OK, so the key is it makes the same basic thing they're just two different versions of it, two different flavors of it.
+29:47
+Andrew Ippolito: This is an iPhone, and this is an android or this is Pepsi and coke both right that's the that's the idea here.
+29:56
+Andrew Ippolito: And now, what i'm gonna do is i'm going to show you there's a couple of jeans so let's say that this is gene for B.
+30:04
+Andrew Ippolito: C. Andrew Ippolito: D. E and F.
+30:12
+Andrew Ippolito: Now there's no reason why the maternal chromosome the light blue, one has to have all capital letters i'm giving them all capital letters just to simplify you being able to understand these concepts is hard enough.
+30:25
+Andrew Ippolito: i'm not gonna like you know, in your math classes, when you first start learning and cost of the math and they throw like big numbers with decimals at you when you're like why can't I just be Andre.
+30:33
+Andrew Ippolito: Why did you have to give me 7032 i'm just learning the concept there that also i'm giving you 100 all right i'm over over simplifying this so you can see the patterns so dad's gonna have all lowercase versions here.
+30:55
+Andrew Ippolito: Okay. Andrew Ippolito: So again, this is like a chunk of a recipe book with six different recipes and each recipe comes in two different versions.
+31:12
+Andrew Ippolito: So you would say dad has the lowercase G audio and mom has a capital deal we'll.
+31:18
+Andrew Ippolito: Get you guys are still with me. Andrew Ippolito: Okay. Andrew Ippolito: So, you could say this or that right, this is a single individuals nucleus right.
+31:30
+Andrew Ippolito: You see, that now right that that's that's your mom and dad copy in your nucleus so that's comes on one we are humans, we have 22 other.
+31:38
+Andrew Ippolito: chromosomes like this and then the next and the wire next in the next. Andrew Ippolito: Okay Okay, so you would say your gmail type ready for gina your genome type would be a capital a and a lower case say that would be your genome type your genome type is just what illegals you have.
+32:01
+Andrew Ippolito: Or what illegals are present.
+32:08
+What does that say.
+32:14
+Andrew Ippolito: What.
+32:22
+Andrew Ippolito: i'm not going to teach you Mendel here i'm not teaching you homozygous dominant assess and all that right, I just because again we're doing meiosis right now.
+32:30
+Andrew Ippolito: Okay, so it's enough for you at this point, just to understand that there are six different genes on these chromosomes that there a pair of houma logs once a month from dead and there are different levels okay.
+32:46
+Andrew Ippolito: So you could write if you wrote capital a B, C D E, F, you could say that this is the maternal genome right, you are the maternal set of genes right and this a B, C D E, F, this would be the paternal set of genes, you can also say.
+33:07
+Andrew Ippolito: That you have these various. Andrew Ippolito: genome types.
+33:17
+Andrew Ippolito: there's different lenses you can apply to these concepts, depending on what you're thinking about what the problem at hand is.
+33:27
+Andrew Ippolito: OK. Andrew Ippolito: Still with me.
+33:33
+Andrew Ippolito: Okay now imagine imagine each one of the products of these jeans right so watch this I give you this, this is not going to be hard, but this is going to be different than what this like i'm not covering what the book is i'm mixing a couple of chapters together Just to give you this.
+33:52
+Andrew Ippolito: This will make sense, this makes us here so here's chromosome one from all right i'm just turning it on its side and we're going to do this, a.
+34:01
+Andrew Ippolito: B, C D E.
+34:06
+Andrew Ippolito: and whatever let's just Center in. there.
+34:12
+Andrew Ippolito: Right So those are just so this is a DNA.
+34:19
+Andrew Ippolito: We introduced the concept of jeans right i've given you like your DNA to RNA protein is that vaguely familiar to you a little bit just.
+34:28
+Andrew Ippolito: OK, so the idea of like what makes it gina gina is each one of these is going to get read and we're going to create this little temporary message of art right, we have the messenger RNA.
+34:44
+Andrew Ippolito: And then each of these messenger RNA gets read by rhizome. Andrew Ippolito: And we make a protein out of it.
+34:52
+Right, this is gene expression. Andrew Ippolito: Do you need RNA to party.
+35:04
+Andrew Ippolito: So the key here is there's gma and there's protein a gene be there's protein right so now, you can understand if I change the gene for a i'm going to change the protein right change the sequence of the DNA change the machine.
+35:17
+Andrew Ippolito: That makes sense. Andrew Ippolito: Okay, so imagine, I did the same thing with the red chromosome and the lowercase.
+35:24
+Andrew Ippolito: Alright, because now, what I want to do is I want you to show so go back to we learned about enzymes so imagine there is probably some substrate one that gets converted into something substrate to buy a in a represents enzyme one.
+35:44
+Andrew Ippolito: OK, and then to gets converted into three by enzyme be three gets converted into four by enzyme C.
+35:53
+D. Andrew Ippolito: E, I really that this point of me this unnecessarily long, but I just wanted to get all these here there so like seven is a product of the pathway, but you see that we have all these genes involved in now, I can tell you this here's the next analogy, this is like an assembly line.
+36:14
+Andrew Ippolito: At a at a machine plan or at a factory okay so each one of these represents a machine and you put a product in on one side and it comes out as you put a starting material in on the left and it comes out as a product on the right.
+36:32
+Andrew Ippolito: Right does this make sense, and so you can see how each machine gives a product that then goes into the next machine and eventually you make a final product.
+36:43
+Andrew Ippolito: raise your hand that made sense. Andrew Ippolito: Okay, give me questions.
+36:51
+Andrew Ippolito: or any other any questions is this Hopefully, this is still. Andrew Ippolito: Clear, because now i'm going to give you the power of meiosis here imagine we had the lowercase a B, C D E and K so remember dad's illegals have these.
+37:08
+Andrew Ippolito: Different machine products these stories So these are all different versions of the enzyme there's enzyme a and there's the big capital letter on the lowercase.
+37:18
+Andrew Ippolito: And they're slightly different so they're going to produce slightly different products right.
+37:24
+Andrew Ippolito: they'll just there there's a difference between.
+37:34
+Andrew Ippolito: Imagine I swap. Andrew Ippolito: Some chunk of the chromosomes.
+37:43
+Andrew Ippolito: hold on I heard a knock again, but that could be. Andrew Ippolito: come in Oh, here we go what's up Joe.
+37:53
+Andrew Ippolito: Foods you can't have there's no breakfast. Andrew Ippolito: we're out of waffles.
+38:00
+Andrew Ippolito: not out of bread bread. Andrew Ippolito: Okay, how about cereal.
+38:14
+Andrew Ippolito: You don't have any help, so the bread is in the bottom i'll tell you what guys give me one second I gotta go out my son's hungry i'm just gonna go find like he can make his own toes but you can't find the bread, give me a second.
+39:27
+Andrew Ippolito: Are not deciding. Andrew Ippolito: ariana, by the way it looks like you have antlers.
+39:37
+Andrew Ippolito: position yourself perfectly yeah there you go. Andrew Ippolito: Nice.
+39:44
+Andrew Ippolito: Alright, so here let's go back up, if you look at this picture again with fresh eyes and I see this red the red and the Green blue imagine imagine, I took.
+39:56
+Andrew Ippolito: let's say this chunk of chromosome here. Andrew Ippolito: And I swapped it.
+40:12
+like that. Andrew Ippolito: let's just put the letters over here.
+40:20
+Andrew Ippolito: All right, you see that. Andrew Ippolito: No mutations right I haven't changed a single a to a D or e to a D to C or D.
+40:32
+Andrew Ippolito: ctg right all i've done was swap leaders around.
+40:39
+Andrew Ippolito: Can you imagine this new sequence of those enzymes right, so, in other words, if we go back down here now.
+40:50
+Andrew Ippolito: Right what we're doing is we're taking the products, the product of the capital, a enzyme and we're feeding it to the lowercase B, which is then giving it to see which isn't giving it back to.
+41:05
+Andrew Ippolito: Can you see how we might get a completely different product.
+41:14
+Andrew Ippolito: raise your hand if you can get that. Andrew Ippolito: Okay.
+41:20
+Andrew Ippolito: So so imagine let's let's simplify this let's see there's three machines okay machine a gives a product commission be a machine be gives a product machine to see.
+41:31
+Andrew Ippolito: And all I did was I swap out.
+41:36
+Andrew Ippolito: The capital B for a lowercase B, in other words, I put let's say it's a car plan let's say this is a tesla assembly facility and machine be is the one that makes the dough this is really just butchering this but, like makes the doors.
+41:54
+Andrew Ippolito: And we go to a Ford manufacturing facility and we take the machine that makes four doors and we put it in the tesla machine factory so now are making tesla's but they have doors made out of the Ford version.
+42:08
+Andrew Ippolito: totally different car now right, I mean not really it's it's the same car but it's just got just done different completely different doors.
+42:20
+Andrew Ippolito: variation that's The key to this.
+42:26
+Andrew Ippolito: We are able to vary. Andrew Ippolito: Our our deal combinations.
+42:40
+Andrew Ippolito: Okay. Andrew Ippolito: So how. Andrew Ippolito: Does this happen and that's.
+42:46
+Andrew Ippolito: that's the whole bottom line here the school crossing over so now i'm going to show it to you I will show you the mechanism, without the letters unless about your book oh see that's what you see in the book rather alright so here so here's the blue chromosome.
+42:58
+Andrew Ippolito: here's a red chromosome. Andrew Ippolito: Now of course it's kind of inappropriate to just talk about chromosomes let's let's go back to the idea of the sister chromatin.
+43:13
+Andrew Ippolito: Right So here we have, at some point. Andrew Ippolito: In time we have.
+43:22
+Andrew Ippolito: There they are there are the duplicated criticisms rate pairs of sister chrome and kids.
+43:27
+Andrew Ippolito: So that happens in s phase now here we are we're in pro phase or i'm pro.
+43:37
+Andrew Ippolito: Pro phase one. Andrew Ippolito: What happens in pro phase one.
+43:43
+Andrew Ippolito: So. Andrew Ippolito: could anyone know Sammy I heard like a robotic voice for a split second but I didn't hear I thought that was Jordans microphone bug and again, but then I rushed Jordan wasn't trying to talk.
+43:55
+Jordan Russell: I knew it I knew you're gonna call me out. Andrew Ippolito: Well, I mean when we hear robot. Jordan Russell: voices.
+44:01
+Andrew Ippolito: that's kind of your reputation at this point. Jordan Russell: Oh, my God, we need to terminate.
+44:08
+Andrew Ippolito: i'll be back. Andrew Ippolito: Sammy were you trying to talk.
+44:14
+Andrew Ippolito: But we did you do there. Andrew Ippolito: yeah we'd I see your MIC off, but your there's your microphone is not working.
+44:23
+Andrew Ippolito: you're off mute I should say, but there's no sound.
+44:33
+Andrew Ippolito: If you can um. Andrew Ippolito: You want to type, you have a question, or you just.
+44:39
+Andrew Ippolito: You can type it in chat. Andrew Ippolito: Alex I see that tell walking around don't think I don't see that it looks like.
+44:48
+Andrew Ippolito: it's like a shark fin. Andrew Ippolito: Yes, changes anything when you swap oh that's a great question Okay, does it change anything so.
+45:00
+Andrew Ippolito: i'll tell you what instead of this being like an assembly line Imagine you had a gene for i'm just making this up.
+45:09
+Andrew Ippolito: Red hair or has brown hair Okay, and the and freckles.
+45:16
+Andrew Ippolito: Right so red hair and freckles are usually associated with each other. Andrew Ippolito: Occasionally, those two traits can be separated so Imagine you had here imagine how the gene for read here is a capital ours red hair.
+45:29
+Andrew Ippolito: Okay, and capital F is freckles so this would be a genotype they give somebody the phenotype right here in freckles.
+45:38
+Andrew Ippolito: Okay, and let's see that this is brown hair and smooth skin.
+45:45
+Okay. Andrew Ippolito: So you can imagine, of crossing over happens here.
+45:51
+Andrew Ippolito: Such that you now have the capital our next to the lowercase F and the lowercase or next to the capital F, you can see that this would be red hair with smooth skin.
+46:03
+Andrew Ippolito: And this will be brown hair with freckles. Andrew Ippolito: Okay, so the idea of swapping out the capital for the lower case, the idea of swapping all deals for a given gene what you're doing now is you're just taking.
+46:18
+Andrew Ippolito: Different you're creating different combinations of traits.
+46:26
+Andrew Ippolito: that's the way to think about. Andrew Ippolito: Alexis do you have a question.
+46:33
+Alexis Micewski: Understand like the dominant recessive thing because I remember from my old biology classes, but like for the like enzyme chain So is there a change specifically specifically for dominant and then one specifically.
+46:46
+Alexis Micewski: No so so the. Andrew Ippolito: So the idea of dominant versus recessive I won't get to this a mental.
+46:53
+Andrew Ippolito: Is adopt a dominant trait means that you just have to have one version, yet you have to one copy of the dominant deal which we usually signify with a capital letter if we're talking about a simple men deal entry.
+47:08
+Andrew Ippolito: Like COP like Okay, so we all have here lobes that are either attached or detached right your ear lobe is either.
+47:16
+Andrew Ippolito: detached or it's attached right we this is dominant and this is recessive and so let's use a to represent this so if somebody has just one Capital a doesn't matter what the second one is their ear would look like this.
+47:34
+Andrew Ippolito: Okay, the only way, you can have the recessive trait is, if you have two copies of the lowercase.
+47:41
+Andrew Ippolito: Okay, so this could be capital a capital a, for it could be capital a lowercase a the fact that you just have one copy of this that's what makes it dominant that solo and so usually, when you have these kinds of simple relationships.
+47:55
+Andrew Ippolito: The molecular mechanism is. Andrew Ippolito: There are some enzyme that's doing a job and so long as you have one functional copy of it, you can do the job.
+48:06
+Andrew Ippolito: Right yeah I got a hammer, or I don't have a hammer right, so if this is a gene for hammer right, if I have one hammer I can do all the hammering I need.
+48:14
+Andrew Ippolito: Right and I have a backup hammer that's great I have two hammers I just need one I need the presence of hammer right So if I have one mutated hammer I will I got this one, I guess, to do my job, if I have two broken ones, now I can't do my job.
+48:27
+Andrew Ippolito: Okay that's the concept of recessive versus dominant in genetics. Andrew Ippolito: Okay, so most treats are not that simple and and that's why it took us so long to figure this stuff out Mendel it's a great story i'll tell you that when we do men for now let's get get get this idea.
+48:47
+Andrew Ippolito: In our heads that we can take a pair of homologous chromosomes and we're allowed to only during this one moment in time.
+48:56
+Andrew Ippolito: swap part it's like two decks of cards and we're just going to shuffle them now imagine at a red deck of cards in our blue deck of cards and we can now take a suddenly shuffling it's imagine taking a chunk randomly from the middle of the deck somewhere and just walk me know.
+49:08
+Andrew Ippolito: Okay, so here's how it works ready so here, here we are, this is pro phase one.
+49:14
+Andrew Ippolito: Alright, so the chromosomes have condensed this isn't the Meta face plate Okay, but in that pool of chromosomes the pairs find each other the homologous pairs find each other and they pair up okay in a process called synopsis.
+49:38
+Andrew Ippolito: So i'll say that again synopsis occurs in pro phase one synopsis is when the pairs of Palma logs pair.
+49:46
+Andrew Ippolito: You would say. Andrew Ippolito: Oh, my God bear.
+50:03
+Andrew Ippolito: And they do all this, using proteins everything's proteins right so i'm going to refresh your memory now remember when we talked about the sisters.
+50:13
+Andrew Ippolito: They were held together by proteins i'm using use a different color host is yellow.
+50:20
+Andrew Ippolito: Anybody remember the name of these yellow proteins that held two sisters together.
+50:27
+Andrew Ippolito: answer this see.
+50:33
+Branden Lane: zones send us an email saying the right. Branden Lane: thing and Mitchell sounds.
+50:39
+Andrew Ippolito: Okay, now, so the the the the Center so the Center isms if this is a cell.
+50:45
+Andrew Ippolito: And that's the nucleus remember the central isms. Are those. Andrew Ippolito: Those structures that allow us to make the.
+50:52
+Andrew Ippolito: spindle right the central mirrors are the things in the middle of the chromosome Okay, these are cohesive.
+51:02
+Andrew Ippolito: My apologies my my allergies into the acting up a little bit. Andrew Ippolito: So cohesive proteins hold the sisters together.
+51:13
+Andrew Ippolito: And now we're going to take. Andrew Ippolito: The other chromatic that are also held together by cohesive.
+51:21
+Andrew Ippolito: But he's yeah we pair them up, and so there is a complex of proteins here let's do these and let's do purple to make or what's worse fuchsia.
+51:32
+Andrew Ippolito: i'm just going to draw a doodle in between here, this is called, so the process of finding them is called synopsis This is called the synaptic any more complex.
+51:42
+Andrew Ippolito: sin nap to me mole complex.
+51:50
+Andrew Ippolito: And you can imagine, this as an alignment of the DNA down to the a's and t's and c's and geez down to the molecular level, this is like a molecular zipper.
+52:02
+Andrew Ippolito: Whereas if you're zoomed into that you would literally see a crystal Ian lattice.
+52:07
+Andrew Ippolito: Okay.
+52:13
+Andrew Ippolito: Now here's what happens okay well actually before I tell you what happened let's make sure we understand our terminology we're going to call these right, those are sister chrome antipodes.
+52:28
+Andrew Ippolito: As are these. Andrew Ippolito: Right so that's two sets subsist requirements.
+52:37
+Andrew Ippolito: And the relationship therefore between this chrome minted and this chrome and.
+52:45
+Andrew Ippolito: These are called non sister chromatic.
+52:54
+Andrew Ippolito: And those are the ones that will engage and crossing over. Andrew Ippolito: Can you see it makes no sense for sisters to cross over there all genetically the same right swap pieces it's the same same sequence.
+53:05
+Andrew Ippolito: Maybe it happens and we just don't notice it because it doesn't do anything, maybe this is just fully random in any case, what I want to do now is i'm going to redraw just a pair of non sister primitives for clarification.
+53:18
+Andrew Ippolito: So here's one sister from the maternal again remember the the maternal and then here's the system, not the non sister from the paternal.
+53:34
+Andrew Ippolito: And what we're gonna do is we're gonna pick a random location somewhere, does it doesn't matter so that's The key to this, this is random what we're about to show you here this crossing over.
+53:45
+Andrew Ippolito: This is random and that's what makes it important in evolution we're just we're just rolling dice This is just random chance.
+53:56
+Andrew Ippolito: So i'm just going to pick right here. Andrew Ippolito: Just randomly alright, so I want to zoom in now physically, I want to literally zoom in here, so you can see, this now and here's what happens we're going to make a cut across these chromosomes.
+54:15
+Andrew Ippolito: Right so here i'm actually gonna i'll do this in real time, I want to take the eraser.
+54:21
+Andrew Ippolito: And i'm going to cut them like that. Andrew Ippolito: All right now, just so I can manipulate this i'm going to zoom out for a moment here.
+54:31
+Andrew Ippolito: And I want you to watch me carefully i'm going to animate this so i'm going to take will hear me when i'm just gonna bring this up, I want to bring this up.
+54:52
+Andrew Ippolito: Right here's what happens well there's so there's a complex that does is a proteins you don't have to worry about any of that just the concept here is we're going to do this.
+55:03
+we're going to do this.
+55:08
+Andrew Ippolito: that's literally so that right there this this physical shape is called.
+55:17
+Andrew Ippolito: A Chi asthma. Andrew Ippolito: plural.
+55:24
+Andrew Ippolito: Chi is Mata because crossing over can happen multiple times on one chrome ISM but i'm going to just show it to you on just one just to show you at once right, so what we'll see you can actually see that, under the microscope you'll see this.
+55:39
+Andrew Ippolito: you'll see chaos you'll see a class. Taylor Campbell: And so the question.
+55:44
+Taylor Campbell: yeah, so this is going to happen with.
+55:50
+Taylor Campbell: sections like letters that we need for that are the same just different maybe due to like uppercase lowercase.
+56:00
+Andrew Ippolito: There so here let's look. Taylor Campbell: At some letters back in. Andrew Ippolito: Here i'll just keep let's do a B and C.
+56:05
+Andrew Ippolito: Alright, so I picked a place for crossing over to occur that happened to sit in between gene a mgb.
+56:14
+Andrew Ippolito: You see that. Taylor Campbell: Okay, but it's not like it's not a it's not.
+56:20
+Taylor Campbell: Like uppercase a going into bread. Taylor Campbell: And hey going into blue.
+56:28
+Andrew Ippolito: yeah yeah that's exactly what's happened because watch this. Andrew Ippolito: Now that i've. Andrew Ippolito: done that. Andrew Ippolito: But that's untangle them now.
+56:34
+Andrew Ippolito: watch this if I if I untangled all that I went to get.
+56:47
+Andrew Ippolito: This chromosome.
+56:52
+Andrew Ippolito: And this crop is, and so, if you put the letters back right, this is lowercase a capital B capital C, this is capital a lowercase B or Casey.
+57:02
+Taylor Campbell: Okay, thank you. Andrew Ippolito: make sense, your. Andrew Ippolito: Yes, so, so the so the original chromosome.
+57:08
+Andrew Ippolito: Alright, so here let's let's now so here's the before.
+57:13
+Andrew Ippolito: Right, so this would be like step one. Step two.
+57:22
+Step three. Andrew Ippolito: So the ideas, before, during after.
+57:27
+Andrew Ippolito: we're gonna we're gonna be able to refer to these as the parental.
+57:34
+Andrew Ippolito: The parental promise.
+57:39
+Andrew Ippolito: We can refer to this so again, if this is the capital, a capital B capital C lowercase a lowercase B, etc, we can also let me get rid of the word, random here.
+57:50
+Andrew Ippolito: We can also call these. Andrew Ippolito: The parental gino types.
+57:58
+Andrew Ippolito: Right capital a capital D capital C lowercase a lowercase be lowercase those would be the parental unit types right what mom and dad.
+58:06
+Andrew Ippolito: After recombination we now have lowercase a capital B capital C or capital a lowercase B lowercase E we're gonna call these so these chromosomes these are parental chromosomes these are called recombinant from isms.
+58:29
+Andrew Ippolito: want to call these recombinant.
+58:35
+genotypes. Andrew Ippolito: And what you've just witnessed here this idea of being able to take different sequences of DNA and swap them and rearrange them the generic concept here is called DNA recombination.
+58:57
+Andrew Ippolito: And that's a phrase will use, we could, so we can just as easily replaced the phrase crossing over for read combine.
+59:05
+Andrew Ippolito: The reason why we have these two words is recombination can happen in many different.
+59:13
+Andrew Ippolito: situations. Andrew Ippolito: Okay, so like, for example, retroviruses like HIV, the way they work is they will copy their genome and then we combine it into hours they will put it into our genome.
+59:29
+Andrew Ippolito: During B cell development of antibodies there's a particular kind of recombination that occurs so country combination is a is a process that can be used in different ways.
+59:41
+Andrew Ippolito: Within meiosis recombination is used in order to shuffle the illegals together and we just call that specific version of it.
+59:50
+Taylor Campbell: crossing over. Taylor Campbell: um so in HIV it changes your DNA.
+59:58
+Andrew Ippolito: It know it. Andrew Ippolito: integrates into our genome. Andrew Ippolito: So, like if this is your. Taylor Campbell: chromosome.
+1:00:03
+Andrew Ippolito: And this is the viral genome, what happens is it will literally insert itself like that, and so anytime you manipulate DNA like that we can consider that recombination okay.
+1:00:17
+Taylor Campbell: and Andrew Ippolito: That that's a specific version of it, we would call that integration, but again we're getting.
+1:00:24
+Andrew Ippolito: And in fact I never really thought about.
+1:00:30
+That question for me. Andrew Ippolito: yeah it's just it's generic it's the form one definition here within Springer, which is a biology databases.
+1:00:42
+Andrew Ippolito: Specialized proteins interact with the need to create molecules with altered based sequence content so there's just there's just it's a generic catch all concept of just here's some DNA here some DNA and we're going to.
+1:00:56
+Andrew Ippolito: Now here's some different DNA. Andrew Ippolito: there's all sorts of things we can do what you just learned was one version of this crossing over or you take the pair of non sister chrome mittens and you just swap it jumped on it.
+1:01:09
+Julia Lakchin: And that happens in pro phase one. Andrew Ippolito: Right, yes, you got it.
+1:01:15
+Andrew Ippolito: Now here's the. Andrew Ippolito: here's the cool part here's now that you get this this happens randomly about seven times for every chromosome.
+1:01:23
+Andrew Ippolito: So, in other words, in reality, we look like this 12345 except right there, so, in other words the real chromosome would look kind of.
+1:01:36
+Andrew Ippolito: like this. Andrew Ippolito: And then, this this chromosome would find itself in a final.
+1:01:45
+Andrew Ippolito: germ cell the egg or the spur. Andrew Ippolito: And so you can see.
+1:01:51
+Andrew Ippolito: We have 23 different chromosomes and that's happening seven times on every set of chromosomes you can now start to understand why every single egg and sperm is completely different from each other.
+1:02:03
+Andrew Ippolito: Okay. Andrew Ippolito: So that's crossing over that happens in meiosis.
+1:02:13
+Andrew Ippolito: And so now so let's let's go back let's go back to the PowerPoint now let's look at this.
+1:02:19
+Andrew Ippolito: You can see us happy now, you can see synopsis occurs, you can see, so in this case, you can see there's two pi asthma so there's kai's Mata that's why I support all their archives motos portal.
+1:02:31
+Andrew Ippolito: And you can see, on this set of chromosomes it happened. Andrew Ippolito: twice.
+1:02:38
+Andrew Ippolito: So it went like this. Right.
+1:02:45
+Andrew Ippolito: And so that's why, if you look at the result that's why you see just the the end is different right so like if this is capital a capital B capital C lowercase a lowercase B lowercase C, so you can see that the tips.
+1:03:04
+Andrew Ippolito: are the same.
+1:03:10
+Andrew Ippolito: As you can see, you can actually you know if you're careful and you look at this very carefully, you can see how the different chromosomes.
+1:03:18
+Andrew Ippolito: look different at the end of this.
+1:03:24
+Andrew Ippolito: So that's perfectly okay now look at Meta fees one. Andrew Ippolito: Okay, so here's the next big difference, do you see how all of those those pairs of chromosomes those paired up houma logs we're gonna call these things in name.
+1:03:37
+Andrew Ippolito: Alright, so here watch this here's chromosome one for mom here's chromosome one from dad so there's there's This is one thing.
+1:03:45
+Andrew Ippolito: Right we're going to call this thing there's two words for it, I don't know why sometimes it's called a tetrad.
+1:03:51
+Andrew Ippolito: Sometimes it's called a by Vaillant.
+1:03:58
+Andrew Ippolito: Okay, so uh tetrad or by Vaillant is a pair of Homer logs that have paired up during pro phase one.
+1:04:08
+Andrew Ippolito: And so, now that you have that word, you can say this. Andrew Ippolito: The by Valence line up on the medifast play.
+1:04:17
+Andrew Ippolito: Right so here's a by valid here's a by Vaillant and here's a bike.
+1:04:25
+Andrew Ippolito: Right so so during phase one of meiosis one the Homer logs the tetrad the by Valence lineup bother metaphors plate.
+1:04:36
+Andrew Ippolito: And so during Anna phase one you would say that the by Valence separate.
+1:04:42
+Andrew Ippolito: Right so each one of these now is a separate pair a separate chromosome of the pair.
+1:04:49
+Andrew Ippolito: And so here's where the second key to diversity occurs. Andrew Ippolito: I want you to note that this pair of home allows your notice that the Blue one so every I know you guys, some of you are we're we're out of sync right now, some of you are writing and some of you are thinking of some you're listening to me.
+1:05:03
+Andrew Ippolito: i'm going to wait everybody can listen to me this is super duper important, and I want to be able to it's simple, but you have to hear it and see it so just just give me a second to finish copying down whatever you're doing.
+1:05:13
+Andrew Ippolito: i'm at a coffee what is. Andrew Ippolito: OK ready look at the screen and notice that this pair of homelessness the red ones on the top in the blue ones on the bottom.
+1:05:25
+Andrew Ippolito: It didn't have to be that way Okay, the graphic designer could have made the blue one on the top and the red button on the bottom it's random OK notice the second pair notice the red ones on the top in the blue ones on the bottom you.
+1:05:39
+Andrew Ippolito: Know it's the third one, the blue ones on the top and the red ones on the bottom, you see that.
+1:05:44
+Andrew Ippolito: Okay, so eat for each given pair of houma logs.
+1:05:50
+Andrew Ippolito: It is random which direction the maternal and paternal are going to separate.
+1:05:57
+Andrew Ippolito: The key is, if you think about these three right here, those three are going to find their way into than yourself right so that's the new genome.
+1:06:08
+Andrew Ippolito: The daughter cells genome, is going to be either this or this.
+1:06:15
+Andrew Ippolito: Okay, so let me draw that out for you visually here so let's say we got chromosome let's use three colors okay here's blue.
+1:06:22
+Andrew Ippolito: Alright, so here's chromosome one from mom here's chromosome one from dad were lined up on the manifest plate.
+1:06:30
+Andrew Ippolito: here's chromosome to from mom. Andrew Ippolito: And two from dad.
+1:06:39
+Andrew Ippolito: i'll just do two pairs just so you can see, as visually. Andrew Ippolito: So one possibility is this blue one, and this yellow one go right here, right and I here, I can animate this here, I can just do this right, these are going to separate here, and these are separate over here whoops.
+1:06:58
+Andrew Ippolito: Right, so that that's Anna phase one. Andrew Ippolito: And then you can imagine, during Anna fees to.
+1:07:06
+Andrew Ippolito: Right, I can separate. That.
+1:07:13
+see if I can do this. Taylor Campbell: So that first separation during may assist one making pitches don't see how those to be are identical.
+1:07:29
+Andrew Ippolito: So they're not identical they're homologous. Andrew Ippolito: Okay read, so this this blue one here let's say.
+1:07:35
+Taylor Campbell: again. let's see. Andrew Ippolito: Okay, so let's say that this is mom.
+1:07:44
+Andrew Ippolito: This is mom. Andrew Ippolito: This is.
+1:07:51
+Andrew Ippolito: This is there that's a really okay so just just everybody just stare at the screen and just really process that that's two pairs of chromosomes.
+1:08:01
+Andrew Ippolito: they're lined up and pro phase one phase one, so this is the say this, and that phase one no we haven't done any crossing over okay we're just ignore ignore crossing over right now we're pure and basic right now.
+1:08:13
+Andrew Ippolito: You have. Andrew Ippolito: You have chromosome.
+1:08:19
+Andrew Ippolito: chromosome one in chromosome to. Andrew Ippolito: This genome has an end up to.
+1:08:27
+Andrew Ippolito: The diploid cells will have to enter for.
+1:08:35
+Andrew Ippolito: Alright, so here, this would be the central years.
+1:08:41
+Andrew Ippolito: Okay, so you can see here at the men face plate chromosome one is lined up and you would call this thing here, because you know hey let's make them even closer together, because technically.
+1:08:55
+Andrew Ippolito: I mean.
+1:09:04
+Andrew Ippolito: Technically it'd be like this Okay, so now, you can see this.
+1:09:10
+Andrew Ippolito: This is a tetrad or Bible.
+1:09:18
+Andrew Ippolito: Right, so let me go back now, so we can separate these.
+1:09:24
+Okay. Andrew Ippolito: So I did not have to draw the light blue one on the left and the red one on the right, I could have just as easily.
+1:09:35
+Andrew Ippolito: drawn it. Andrew Ippolito: like this.
+1:09:42
+Andrew Ippolito: doesn't matter Okay, they just randomly lineup. Andrew Ippolito: Because here's what i'm going to do now.
+1:09:49
+Andrew Ippolito: i'm going to separate them right, this is what happens in Anna phase one. Andrew Ippolito: These go this way.
+1:09:56
+Andrew Ippolito: And these go that way. Andrew Ippolito: right for each pair I can flip a coin.
+1:10:05
+Andrew Ippolito: You see, that so, so this is one said let's let's give these let's give these.
+1:10:10
+Andrew Ippolito: Labels just so I can do so, like this is red, yellow blue and fuchsia just so I can watch this one possibility is you would get a red and a yellow in a cell and you would get the blue and the future.
+1:10:27
+Andrew Ippolito: or in some parallel universe, I could have gotten a blue one and a yellow one.
+1:10:34
+Andrew Ippolito: And, therefore, that would have been a red and a fuchsia.
+1:10:42
+Andrew Ippolito: Right.
+1:10:47
+Andrew Ippolito: or. Andrew Ippolito: I could well, I mean really that's because they're just too there's just two chromosomes that's really the only possibility is mathematically.
+1:11:02
+Andrew Ippolito: read it, the red and the yellow one are on one side or the blue and the yellow water or one side.
+1:11:12
+Andrew Ippolito: So this is called in, so you would say the chromosomes a sort independently of each other, and so this is called independent assortment.
+1:11:35
+Andrew Ippolito: Which is the second way.
+1:11:42
+Andrew Ippolito: To increase diversity.
+1:11:49
+genomic diversity.
+1:11:54
+Andrew Ippolito: So if you combine this concept with crossing over. Andrew Ippolito: You can now see.
+1:12:01
+Andrew Ippolito: and understand how sex, sexual reproduction yields the greatest amount of diversity in the subsequent population, and this is why no two siblings look alike, and I know, two people look like.
+1:12:17
+Andrew Ippolito: And are who has kids those kids will always look different than the parents.
+1:12:22
+Andrew Ippolito: were just constantly shuffling the maternal so basically you your genome your unique genome.
+1:12:32
+Andrew Ippolito: When you do the math behind this This is where it gets truly mind boggling Okay, we so Sammy so the colors that pair up always Yes, they will always be random.
+1:12:49
+Andrew Ippolito: Right, so we have 23 chromosomes pairs right and.
+1:12:56
+Andrew Ippolito: So that would be 23 squared. Andrew Ippolito: In terms of the amount of different actually wait.
+1:13:08
+Andrew Ippolito: To to the 23rd because we have 23 chromosomes.
+1:13:14
+Andrew Ippolito: Right each pair of chromosomes.
+1:13:19
+Andrew Ippolito: Has. Andrew Ippolito: Two different ways to represent so actually so it'd be 23 now it is 23 squared isn't me my public math skills are terrible, so we have 23 chromosomes.
+1:13:33
+Andrew Ippolito: That we're if we're trying to come up with the total number of different combinations that we can mix and match right so like chromosome one I got mom mom mom dad dad my mom dad dad mom dad about right 23 right there's 23 you can either get monster so it's 23 to the second power.
+1:13:50
+Right. So.
+1:13:59
+Andrew Ippolito: So that alone that's 25 or 25. Andrew Ippolito: Right, but now, if you do crossing over seven how to do the math of this like to the seventh power.
+1:14:18
+Alexa Deprisco: This is like kind of off topic, but is this right here like. yeah.
+1:14:23
+Andrew Ippolito: yeah.
+1:14:43
+arson.
+1:15:15
+Andrew Ippolito: yeah No, it is to to the 23rd it's not 23 to the second.
+1:15:21
+Andrew Ippolito: To the end. Andrew Ippolito: wow i'm so sorry guys again I can't I I have these like weird disability if i'm talking out loud and i'm teaching I can't go into my math mind that's why I teach biology not mathematics teaching math that would be terrible if I was teaching to nobody I could do it.
+1:15:40
+Andrew Ippolito: So the idea here, and this my brains not able to.
+1:16:11
+Andrew Ippolito: Okay, I got it. Andrew Ippolito: So, or if there were if there were three different versions, that would be three to the next, so we got we got two pairs so it's two to the end where, as a number of chromosomes.
+1:16:28
+Andrew Ippolito: Right, so we have because we're human we're to the 23rd. Andrew Ippolito: Which is a ridiculously high not married so what's.
+1:16:35
+Andrew Ippolito: Scientific calculator you guys know if you have the iPhone but I don't know if you guys all know us if you have the calculator simple basic calculator if you just turn the side, I have a scientific calculator and some people don't know that two doors to the.
+1:17:07
+Andrew Ippolito: Words just two to the power.
+1:17:13
+Andrew Ippolito: And all there we go to the why I found it oh i'm sorry. Julia Lakchin: hold on to oops.
+1:17:18
+Andrew Ippolito: never done this on this particular to the power of 23 there we go yet 8 million, this is 8,380,608 that's how many different combinations are are assuming know crossing over.
+1:17:34
+Andrew Ippolito: All right, go ahead, what are we gonna say.
+1:17:41
+Andrew Ippolito: It was talking. Julia Lakchin: I said that I don't think iPhone has that but I was wrong.
+1:17:49
+So. Andrew Ippolito: So now so take that 8 million. Andrew Ippolito: And for each pair of chromosomes.
+1:17:59
+Andrew Ippolito: Do the random swapping seven times.
+1:18:04
+Andrew Ippolito: Alright, so we now have to to the seventh her chromosome and i'm not doing this math So this is the joke I accidentally came up with this number so big the exponent of exponent.
+1:18:22
+Andrew Ippolito: And another way of thinking of it is, if you take your genome your unique genome.
+1:18:28
+Andrew Ippolito: That unique sequence of DNA has never existed before.
+1:18:33
+Andrew Ippolito: And it will probably never exist again in the history of the universe given when you do the math and how long the universe is supposed to last that's how big the numbers, you are truly unique in the universe.
+1:18:49
+Taylor Campbell: So you don't believe in doppelgangers. Andrew Ippolito: I don't believe in what. Andrew Ippolito: doppelgangers stop okay Well, no, no, so the doppelganger idea is there's only so many ways, you can create a face.
+1:19:03
+Andrew Ippolito: Right you don't have a fully random patient and I, like you, putting your eyes up here and your cheeks over here right it's not like a Picasso so there's a limited constraint of the actors physical limitations and so there's so many combinations and, on top of that.
+1:19:18
+Andrew Ippolito: All modern humans come from a population of about 50,000 starter people in Africa about somewhere around 300 to 200 to 500,000 years ago.
+1:19:32
+Andrew Ippolito: So. Andrew Ippolito: physically there's only so many different versions of it, so the differences between us.
+1:19:42
+Andrew Ippolito: are very mild right, it turns out like when we actually look at our sequence information and t's and c's geez.
+1:19:52
+Andrew Ippolito: there's only about 2% difference between people.
+1:19:57
+Andrew Ippolito: They said that and that's about 40,000 be speakers and it depends on what kind of analysis, you do some some is as much as 40% different if you're doing a whole jumpsuit chromosomes but.
+1:20:10
+Andrew Ippolito: A lot of our genes are identical like my acting gene and you're acting gene or the same. Andrew Ippolito: there's no variations and active there's no variations inside of chrome see there's no variations in turbulent these are gold standards that evolution is given us to the variations are in the you know.
+1:20:27
+Andrew Ippolito: The subtler things and our biochemistry and and really superficial differences.
+1:20:35
+Andrew Ippolito: is only skin deep, so to speak. Andrew Ippolito: Right and that's why the concept of race doesn't exist in biology race is not a biological thing races a sociological thing.
+1:20:48
+Andrew Ippolito: Right and so just as a way of illustrating that point, if you take earth and you take just two random people from anywhere on the planet.
+1:20:55
+Andrew Ippolito: And you sequence their genomes and you compare them the differences between them would be the same as to any other people close by or nearby or far apart.
+1:21:05
+Andrew Ippolito: That are not related by blood, so if you go like four generations removed like think of like your fifth cousin take two random fifth cousins on the planet.
+1:21:13
+Andrew Ippolito: And they will have just as many differences between them as two people of different races, so, in other words you can't see race when you do comparative genomics it's not a thing.
+1:21:28
+Andrew Ippolito: And there's been a lot of subsequent studies showing that the differences between what we call the races are superficial differences.
+1:21:37
+Andrew Ippolito: It really literally skin morphology of the face the hair is all external our our livers and our brains and our endocrine systems and our immune systems if there's no significant differences between the races races purely sociological.
+1:21:57
+Taylor Campbell: and Taylor Campbell: I just like saying all that, like how we're different, but the same.
+1:22:04
+Taylor Campbell: No matter where we are. Andrew Ippolito: You know it's a great way of putting it. Andrew Ippolito: we're different, but the same.
+1:22:09
+Andrew Ippolito: We have way more in common than we have different. Taylor Campbell: So what about like like when things are bred to close in there and lying like and they go like animals like what if they're bred to close or like people like in the olden days like that, like the how the royal families or want to keep everything close.
+1:22:30
+Taylor Campbell: And when you see close you're talking genetically in interbreeding. Taylor Campbell: Yes, so like like How does How does that cause all those problems.
+1:22:39
+Andrew Ippolito: And that's a. Andrew Ippolito: that's a wonderful question to understand that you'll. Andrew Ippolito: will have to first understand, going back to the dominant recessive stuff right, the key is is having the two lowercase illegals having the two broken o'neill's together at the same time.
+1:22:54
+Andrew Ippolito: that's when you generally get bad treats and the chances of that happening are rare within random selection of the population, but as you get bloodlines closer and closer together.
+1:23:04
+Andrew Ippolito: Right so like, for example, Darwin married his first cousin because that was you know, keep like the Royal bloodlines he was from an old family.
+1:23:12
+Andrew Ippolito: And when you marry somebody that close to you any of your reset like everybody's carries a couple of accessible eels.
+1:23:18
+Andrew Ippolito: But the chances that you married somebody that has the same accessibility is is pretty low. Andrew Ippolito: But if it's within the family, you have the same sets of recessive Beatles right so that's why in readings bear that's why.
+1:23:29
+Andrew Ippolito: families that have close blood pies tend to have a lot of bad things pop out over the generations that's why dogs have modern dogs have all these problems.
+1:23:39
+Andrew Ippolito: You know, like last OPS is have kidney problems and dalmatians are deaf and that's because of all the inbreeding and that's why we have all these new products coming out like things like snicker doodles.
+1:23:48
+Andrew Ippolito: Right that's why we say months are better right diversity wins every time the more diverse your genome, is the more your chances of having offspring that will survive.
+1:24:00
+Andrew Ippolito: to the point where there's a lot of the I don't get I haven't read about this recently, but the idea of two people, the reason why two people tend to be attracted to each other.
+1:24:09
+Andrew Ippolito: there's apparently some level of ability to sense our immune systems being different from each other and so people that tend to have very strong attraction have children tend to have very different immune systems, which is how we survive like our immune systems are highly evolved and.
+1:24:29
+Andrew Ippolito: allows us to not die from all the various diseases right. Andrew Ippolito: So so marrying a compliment to me your immune system your kids are gonna have really robust immune system.
+1:24:42
+Andrew Ippolito: And there's even ideas of that Tele pheromones work like the inexplicably attraction, some people have to each other.
+1:24:49
+Andrew Ippolito: is driven by some kind of biochemistry of fairmont. Andrew Ippolito: Sorry, I don't mean to ruin love for you.
+1:24:58
+Andrew Ippolito: it's all chemical. Andrew Ippolito: we're all robots no that's not what i'm that's not the implication of the implication is is how we feel and.
+1:25:10
+Andrew Ippolito: Our thought patterns are fundamentally driven obviously by our brain chemistry, which can be controlled by several different things, and one of those things is other people's chemistry.
+1:25:21
+Andrew Ippolito: lemon wait what, why do you randomly right lemons oh lemon oh Okay, thank you Julia.
+1:25:33
+Andrew Ippolito: Alright, so i'm going back to the PowerPoint here. Andrew Ippolito: there's you're crossing over alright so so the tetrad separate the Bible is separate, you now have this as the reductive division right this cell here is now one.
+1:25:52
+Andrew Ippolito: So we obviously so, is it so So this was to end this one out and reduction.
+1:25:59
+Andrew Ippolito: it's less that's that's the hard that's the meat of today meiosis what my ios two is details here's meiosis to each one of those cells has our chromosomes lineup on the manifest played the sister separate and you get a pair daughter cells that are now.
+1:26:15
+Andrew Ippolito: So, so you can see here. Andrew Ippolito: You can see here, these two cells and these two cells, if you look at them carefully, those are four different cells.
+1:26:26
+Andrew Ippolito: They have completely different genomes. Andrew Ippolito: OK, so the goal of mitosis is to produce to genetically identical daughter cells, the goal of meiosis is to generate for completely diverse daughter cells.
+1:26:41
+Andrew Ippolito: And I said that's meiosis. Andrew Ippolito: Okay, so you can use the rest of the slides to see all the different possibilities and probabilities whatever here's here's an electron micro graph of the Chi asthma, you can see, the actual crossing over the microscope.
+1:26:58
+Andrew Ippolito: Okay. Andrew Ippolito: i'm gonna slide This gives you a simple version of everything.
+1:27:07
+Andrew Ippolito: We did crossing over Okay, so you can see here, this is an electron micro graph of two cells that have underwent synopsis.
+1:27:14
+Andrew Ippolito: And you can see the synaptic a more complex here is made out of proteins, the nucleus nucleus, protein and then a lattice just means a highly order structure our scaffold.
+1:27:27
+Andrew Ippolito: Okay, like you can see, I mean look at that you can see lines in there, you can see the lining up here at the molecular level it's crazy how precise this is.
+1:27:39
+Andrew Ippolito: So this slide gives you here's your alphabet soup and the ability of the different combinations of vocals.
+1:27:47
+Andrew Ippolito: This is from I want to say this from your book, I honestly can't quite remember. Andrew Ippolito: If the storage from your book or not, but this gives you this is a level of detail, I expect you to have your cohesive hold the sisters together the synopsis any more complex holds the Bible as together.
+1:28:04
+Andrew Ippolito: So you can picture this in class, we were in class I would take two meters sticks stick them together, you know just slapping together and then put a bunch of rubber bands on.
+1:28:12
+Andrew Ippolito: And that would be a pair sisters and the cohesion complex. Andrew Ippolito: And it will make another one, just like that right so pair meter sticks with rubber bands pair meter system rubber bands and I know we take the two of those together and put them together, and then I take bigger rubber bands, but those and that's the tetrad.
+1:28:31
+Andrew Ippolito: Okay. Andrew Ippolito: And you can see that that crossing over randomly happens somewhere within that setting up any more complex, and you can see the crossing over occur.
+1:28:47
+Okay. Andrew Ippolito: So these are just bigger versions of those pictures.
+1:28:56
+Andrew Ippolito: Okay, this I need to get rid of this slide this is. Andrew Ippolito: This is not something that occurs during meiosis This is called a holiday junction.
+1:29:09
+Andrew Ippolito: This is something DNA can do, but this is not what occurs during crossing over I actually a couple years ago I mixed up two concepts because of.
+1:29:19
+Andrew Ippolito: A more complicated version of crossing over so, but this isn't me, you can see the DNA does the form these occasional so it's like like a crossroads, but that's you don't study this slide I should delete this.
+1:29:31
+Andrew Ippolito: All right, and then these are from my older book simple versions of these you can just use these for your studying here's your crossing over your tie asthma kai's Mata.
+1:29:40
+Andrew Ippolito: blah blah blah and that's it that's it that's my house so when you study this stuff, this is a good slide here, you want to make sure you can compare and contrast mitosis and meiosis.
+1:29:49
+Andrew Ippolito: If I didn't give essay questions that would totally be an essay question compare and contrast the processes of mitosis the meiosis.
+1:29:55
+Andrew Ippolito: So if you want, in your own studying go ahead and answer that question as an essay and that could be something you like, when you guys meet to do your study group sessions that's the question you want to talk about what's the similarities and the differences between the two mechanisms.
+1:30:10
+Andrew Ippolito: into what you got the biggest visual differences metaphors right, you can see here mitosis you have everything's lined up vertically randomly right it doesn't matter where you put the chromosomes there.
+1:30:20
+Andrew Ippolito: Whereas in meiosis one metaphors you can see that very much matters there's your independent assortment.
+1:30:34
+Andrew Ippolito: All right, and there's a summary comparing and contrasting again. Andrew Ippolito: that's not.
+1:30:41
+Andrew Ippolito: Compare contrast compare contrast so now that this little end part here sorry so import here we're going to talk about animals we're going to talk about the specific instances of meiosis so in in all animals that produce sperm, we have something called spur matter genesis.
+1:31:00
+Andrew Ippolito: genesis is when we take, we can understand the concept of a stem cell now.
+1:31:06
+Andrew Ippolito: Okay, so a stem cell in general is a cell. Andrew Ippolito: That goes through mitosis and it produces ready you got this so here you go this so here, those are identical this cell then goes and passive has an interesting life.
+1:31:25
+Andrew Ippolito: It can differentiate into a different kind of sell it can go through meiosis whatever this cell will just divide it again.
+1:31:36
+Andrew Ippolito: And then, this one will have that, whatever that field is right, so you see that that's the idea of a stem cell it always freshly divides into two cells one cell is kind of like the keeper of the torch and the other one goes off and does something.
+1:31:51
+Andrew Ippolito: Right so like your skin cells are costly renewing themselves because you have stem cells that are constantly renewing yourself.
+1:31:57
+Andrew Ippolito: Right one cell always becomes two cells and one of the still stays there and the other starts differentiating into a carrot Tennessee.
+1:32:06
+Andrew Ippolito: Right, you have stem cells in your blood marrow okay so Superman genesis is the creation of a spark.
+1:32:12
+Andrew Ippolito: whenever you see genesis right, just like in the Bible genesis is the creation story it's formatted genesis is the creation of a sperm cell.
+1:32:20
+Andrew Ippolito: And here's how it works in in in in a nutshell sperm at a primary site you do one stem cell going into two cells, these are called So the first one is called the primary spur Madison the primary Superman aside as a stem cell it's to me it's undifferentiated OK, so the idea of differentiated.
+1:32:45
+Andrew Ippolito: Is the cell takes on morphological morphologically distinct appearance, think of the difference between the generic version of like a neuron.
+1:32:55
+Andrew Ippolito: which has the axon and you know the dendrites and all that versus say a skin cell, which is a kind of like you can have a plate like cell or you can have like a tall columnar like cell right So these are differentiated cells, they take on distinct appearances or shapes.
+1:33:18
+Andrew Ippolito: So stem cells are not differentiated. Andrew Ippolito: And there's a so that sells going to go through mitosis and then you now so really, really there's another cell up here you been that makes that.
+1:33:31
+Andrew Ippolito: And now we have the primary. Andrew Ippolito: The primary sperm at a site is the cell that interest meiosis.
+1:33:40
+Andrew Ippolito: And so the primary romanticized generates secondary sites and that's the reductive division right that's the to end to the one.
+1:33:51
+Andrew Ippolito: Right so each one of these has a duplicated chromosome minute that's random it had crossing over occur with.
+1:33:57
+Andrew Ippolito: The secondary sites, then become they go through meiosis to and they become what are called sperm intense it's permitted.
+1:34:06
+Andrew Ippolito: And you can see, they now have this flagellum. Andrew Ippolito: And they go through this process, it takes about 40 days for them to grow up into a mature sperm.
+1:34:19
+Andrew Ippolito: All right, and so, if you take a cross section of where this occurs i'm not going to teach you the the anatomy really but think of it like this, think of a garden hose with a thick wall.
+1:34:30
+Andrew Ippolito: Okay, so the inside here is hollow. Andrew Ippolito: The stem cells live on the periphery and they go through their these various phases until they sit in the.
+1:34:44
+Andrew Ippolito: interior here the anterior and the think of them like being parked in the garage backwards, so they have to back out.
+1:34:52
+Andrew Ippolito: And then eventually they'll pop out and they'll go down in the flow down into the tube and they'll travel throughout the testicle and up into the best difference into the.
+1:35:02
+Andrew Ippolito: And it takes about 40 days for it to grow Okay, and once puberty hits This is just happening 24 seven.
+1:35:11
+All right. Andrew Ippolito: For the female we have this process called oh genesis it's one of the only words in the English language you'll see double oh.
+1:35:24
+Andrew Ippolito: Yes, oh genesis genesis. Andrew Ippolito: And what you're seeing here is here's the egg sell so here's a primary so an oversight is an excel or an or sometimes called an Obama.
+1:35:38
+Andrew Ippolito: it's a big sell it's the largest selling the human body. Andrew Ippolito: So there's this and there's a nucleus it's surrounded.
+1:35:46
+Andrew Ippolito: By what are called follicle cells, you can see, those in this picture here zoom in a little bit better, you can see right so those teeny tiny those are cells they're just much smaller cells and it's a three dimensional think of it like a balloon a little balloon Okay, the ovary.
+1:36:05
+Andrew Ippolito: The ovary like the testicle has this oval shape and it is filled with these follicles that's what the ovary is is just fill follicles and connective tissue all right, and so, when a human female is born she's born with about 300,000.
+1:36:24
+Andrew Ippolito: follicles. Andrew Ippolito: no shortage of of sex sells and by the time they hit puberty.
+1:36:32
+Andrew Ippolito: The cells big so So these are generated during jenna during development.
+1:36:41
+Andrew Ippolito: So a female human is born with all of her eggs already there.
+1:36:51
+Andrew Ippolito: And the primary oversight goes through meiosis one, and this is where things get really interesting you don't get to cells.
+1:37:01
+Andrew Ippolito: This one style instead of it becoming two cells. Andrew Ippolito: You get one big cell.
+1:37:09
+Andrew Ippolito: And one little cell and the big eats the little stuff so that you get essentially what so so this thing here is called a polar body.
+1:37:20
+Andrew Ippolito: The purpose of this ready, the purpose of this is to ensure that when we're done with this, we have the biggest sell possible.
+1:37:28
+Andrew Ippolito: it's the strongest sell it could be, it has the most energy so it's taken that one cell and it's concentrated all of its strength into one cell, but at the same time reducing its nucleus down to being hapless.
+1:37:43
+Andrew Ippolito: Okay, so this shriveled up husk of a cell is basically the leftovers, the cast the the the garbage dump, of the other half of the genome.
+1:37:56
+Andrew Ippolito: And the reason why we do this is the reason why the oversight.
+1:38:02
+Andrew Ippolito: is so big. Andrew Ippolito: is so that it can produce chemicals.
+1:38:09
+Andrew Ippolito: That end up here let's go here here so here's the ovary.
+1:38:14
+Andrew Ippolito: Okay, and then there's a pie remember learning about.
+1:38:21
+Andrew Ippolito: This in high school i'm just gonna draw half of it here. Andrew Ippolito: Right what's the name of this remember.
+1:38:32
+Andrew Ippolito: might have learned as a Philippine tube. Andrew Ippolito: Right, so what happens the egg so so first of all, this isn't connected, this is this is kind of like.
+1:38:44
+Andrew Ippolito: We just had Easter eggs, so I mentioned, I was holding an Easter egg on my hand like this the Easter eggs, the ovaries like this, so they're not physically connected.
+1:38:52
+Andrew Ippolito: All right, instead, these have a bunch of cilia and the ideas when the egg bursts, when you get that little egg spit out the ideas, these things are flowing fluid in to hopefully suck it into the fallopian tube but sometimes get lost and the platinum.
+1:39:09
+Andrew Ippolito: And so, some people are actually sterile because their eggs never make their way into the into the uterine.
+1:39:18
+Andrew Ippolito: Okay, so here's the egg and at this point the egg starts to produce a massive amount of chemicals that are basically like an air Horn for the sperm.
+1:39:28
+Andrew Ippolito: Okay, and so they will produce this trail of chemicals that when the sperm comes in, it can sense those and it finds its way up there for fertilization to occur.
+1:39:40
+Andrew Ippolito: Okay, if the egg was small it wouldn't be able to produce as many chemicals and the chances of a sperm finding it would be low okay so it's basically it's a heightened go seeking that evolution is given us.
+1:39:51
+Andrew Ippolito: it's a survival tactic, so, in other words let's here's the analogy let's say you were going hiking in the woods with somebody there was just two of you, before you went out to the woods you agreed that, if we got separated one of us would stand still.
+1:40:04
+Andrew Ippolito: And just start yelling at the top of their lungs, the other would go get as many people as possible in calm the forest for you and listening for the sound of your voice Okay, so that one one of our cell stays put and yells and the other comments with the whole armada looking for it.
+1:40:22
+Andrew Ippolito: All sexual reproduction does that some most of the time they said mammals and other higher animals.
+1:40:29
+Andrew Ippolito: The female is the one with the big sell that stays put in the mail is the one that comes up with the little cells that are their massive amounts of there are occasions where those sex that sex is different, where the mail has the one and the females a bunch.
+1:40:44
+Andrew Ippolito: But that's the basic strategy. Andrew Ippolito: Okay, and this is generally called sexual Marxism.
+1:40:54
+Andrew Ippolito: diamorphine to shapes. Andrew Ippolito: Alright, so we are a sexually die morphic species.
+1:41:04
+Andrew Ippolito: notice i'm not using the word gender. Andrew Ippolito: Okay, about 20 years ago those words would have been interchangeable but as we're understanding the psychology of gender, more and more gender is a different thing gender is a psychological thing.
+1:41:19
+Andrew Ippolito: sex is the physical thing, so a cell has you know X, we would call that's the sex of that cell female and the sex of the ex wife's that would be male.
+1:41:31
+Andrew Ippolito: what's the gender of SL cells don't have gender. Andrew Ippolito: Gender is a higher order thing that happens psychological basically what gender is is your view it's self perception within the context of Community.
+1:41:46
+Andrew Ippolito: So when you have these arguments online with your with your buddies on Facebook there's only two sexes like two genders, there are two sexes, that is.
+1:41:56
+Andrew Ippolito: kind of true, I mean there are variations, even here there's X oh that's called Turner syndrome there's X, Y Y or X X, Y there's variations or two.
+1:42:06
+Andrew Ippolito: But the people who are like gung Ho firmly there's the it's a binary system they're not open to reason and listen to this stuff at this point.
+1:42:16
+Andrew Ippolito: that's been my experience anyway, trying to teach them the science behind this is is it's like talking to a creationist about evolution, they just don't want to believe it and there's nothing you can say.
+1:42:26
+Andrew Ippolito: here's a litmus test if you're ever having these conversations is there anything that I can present to you that would change your mind.
+1:42:33
+Andrew Ippolito: If they say no smile and say, have a nice day they don't want to have a discussion, they want to fight.
+1:42:40
+Andrew Ippolito: they're they're drawing from their emotional Center and not their their logic circuits if they say yeah sure make a case i'm curious, then they could talk.
+1:42:51
+Andrew Ippolito: All right, we're still working on it, but I can tell you right now that the science behind you know the concept of gender and and it being a spectrum is being validated more and more within the science.
+1:43:03
+Andrew Ippolito: Right, the idea of being transgender versus system right you're born with this sex and this gender and the majority of people are born with them being the same SIS.
+1:43:13
+Andrew Ippolito: Number system trance it's the same that we use those two words so most of us are SIS gender and some of us are transgender and all that just means is they, in their head their psychology their perception of themselves within society is the opposite of what their body says.
+1:43:29
+Andrew Ippolito: They call it sexual dysphoria still which implies it's some kind of pathological state the way I see it, and the way, I think it should be seen as it's it's it's just another.
+1:43:39
+Andrew Ippolito: One of those beautiful things of diversity within a population we're a very complex species more complex sociologically or complex psychologically our relationships are complex and makes perfect sense that our self identity is your complex to.
+1:43:53
+Andrew Ippolito: that's what evolution gives us. Andrew Ippolito: So and notice I didn't even talk about homosexuality there's three axes, and this is how you really have to start seeing as it as a science student as a biologist you have sex gender and sexuality it's.
+1:44:12
+Andrew Ippolito: You can be anywhere in that cube most of us cluster towards one side or another, some of us kind of spread there's bisexuality i've learned the phrase pan sexual.
+1:44:22
+Andrew Ippolito: that's the new one for me i'm like an old fossil learning this stuff so I have some younger friends who teach me the latest lingo and one of the new ones, I had being pan sexual that's not bisexual pants sexual includes everybody identifying with everything.
+1:44:38
+Andrew Ippolito: So I guess that's the most liberal sexuality, you could have been pan sexual. Andrew Ippolito: Now of course there's a sexual people who are not attract anybody.
+1:44:50
+Andrew Ippolito: I call them misanthropes now. Andrew Ippolito: Anyway, this this can be a rabbit hole so i'll say lemon to myself now.
+1:44:59
+Andrew Ippolito: This that's their code word meaning we're going off on a tangent. Andrew Ippolito: Alright, so so here's the thing.
+1:45:07
+Andrew Ippolito: Only upon fertilization does meiosis to kick him alright, so all of your eggs are locked or arrest number cell cycle arrest here, it is your your your own sites your secondary oh sites are arrested in meiosis one.
+1:45:23
+Andrew Ippolito: As I like to say, waiting for their gentlemen color. Andrew Ippolito: The Jane up the bar from Jane austen.
+1:45:33
+Andrew Ippolito: Upon fertilization, the female egg will go immediately through meiosis to producing a second polar body.
+1:45:41
+Andrew Ippolito: And then single me occurs. Andrew Ippolito: single me is that fusion, I talked about at the beginning of class.
+1:45:49
+Andrew Ippolito: The egg and the sperm nuclei fused together to produce the zip code we're really produced the nucleus of the zygote so the zygote the i'm sorry the zygote is the cell.
+1:46:02
+Andrew Ippolito: And this is where you come from. Andrew Ippolito: That one cell becomes you got alexa.
+1:46:09
+Alexa Deprisco: So, then, is this is oh genesis. Alexa Deprisco: Yes, so this is the. Andrew Ippolito: Well, technically, this is all genesis and fertilization, this is both of those yeah so oh genesis is the creation of man, I never really got that question before it's oh genesis is getting up to the point where you have a secondary oversight.
+1:46:28
+Andrew Ippolito: Because, technically, this is the egg I mean you see, I think they officially the called the egg now versus a secondary Okay, so the egg is fertilized.
+1:46:43
+Alexa Deprisco: So. Alexa Deprisco: This isn't necessarily depicting like the formation of an egg per se like this is the picture.
+1:46:51
+Andrew Ippolito: Without on. Andrew Ippolito: So oh genesis is the development of the ovum let's just make like that word oh genesis does not include us for the egg is fertilized right so oh genesis occurs, you have these fertile cells and then.
+1:47:09
+Andrew Ippolito: They get released on a monthly cycle. Andrew Ippolito: And you know. Andrew Ippolito: Most of the time, nothing happens and so there's the whole I mean if you're if you're curious about this level of physiology take the there's a bio class bio 115 basic human anatomy I teach all the stuff.
+1:47:26
+Andrew Ippolito: I talked about a couple times, which is why I know a little bit about this it's not wanting anyone that's the majors level.
+1:47:32
+Andrew Ippolito: anatomy physiology so I don't know the super grotesque molecular details here, but just enough to be dangerous, so I say oh genesis is the development of the ovum the ovum is fertilized within the fallopian tube or the uterine tube and if the sponsor and then you get this like.
+1:47:51
+Alexa Deprisco: So then, could you say that, like sexual dime work isn't formation of psycho and fertilization, are all kind of interchangeable.
+1:48:00
+Andrew Ippolito: No, no, sexual die morph ISM is what is a phrase, we would use to describe the species in which the male and the female sex is look different.
+1:48:10
+Andrew Ippolito: Like you know in some animals, like the female will be really big in them i'll be like like angle anglerfish you probably heard about the English those really scary fish that live deep in the ocean.
+1:48:19
+Jordan Russell: Or to copy. Andrew Ippolito: What. Jordan Russell: or peacocks. Andrew Ippolito: or or picasa I mean really most birds have sexual Marxism but, but this is the most extreme example oh God yeah here i'll share my screen with you and scare you a little bit these, these are the scariest fishel ever see a call.
+1:48:37
+Jordan Russell: angler anglerfish i've seen. Andrew Ippolito: yeah not everybody seeing these yet. Andrew Ippolito: There can you see.
+1:48:43
+Alexis Micewski: Did you say that your. Andrew Ippolito: dad is.
+1:48:48
+Andrew Ippolito: Just. Alexis Micewski: terrified creature. Andrew Ippolito: that's the female the male here let's hear the anglerfish.
+1:48:58
+Jordan Russell: So. Jordan Russell: he'll be safe to say that the England fish from finding nema would be a male anglerfish because.
+1:49:04
+yeah. Andrew Ippolito: So we know something they'll fight.
+1:49:09
+Ask that again. Jordan Russell: So, like the anger efficient finding Nemo when they're be when dorian marlin are being chased in the.
+1:49:17
+Andrew Ippolito: Oh yeah. That was a. Jordan Russell: That was a fee, I thought I thought it was a male. Andrew Ippolito: So here in the mail.
+1:49:24
+Andrew Ippolito: What this is what happens that this is the game plays out in the deep parts of the ocean where there's very little nutrients or anything big and slow small and fast.
+1:49:34
+Andrew Ippolito: And most males when they're born into the darkness and they just die, but some of them if a male anglerfish finds a female anglerfish you see how he latches on.
+1:49:43
+Andrew Ippolito: And then they eventually merged their physiology is such that here, you see, right here that's the mail.
+1:49:52
+Andrew Ippolito: he's basically becomes an appendage of the female and he just a pot he responds to her hormone systems and will produce the sperm when she tells them to and then they'll develop eggs yeah it's.
+1:50:04
+Jordan Russell: This is what bothers the food grows well. Andrew Ippolito: don't be so judging.
+1:50:12
+Jordan Russell: So so like somehow I this is gonna sound really weird to say like so like in a way, they basically become enjoy twins.
+1:50:21
+Andrew Ippolito: yeah and one female can actually accumulate several miles over her lifetime.
+1:50:27
+Alexa Deprisco: Is this endless meiosis. Andrew Ippolito: he'll so no, no, no, the so after the fuse together, he while he.
+1:50:35
+Andrew Ippolito: Has sperm, and he provides to go there's meiosis occurring, and he just injects like wherever that there's probably inside of her there's probably some specialized.
+1:50:45
+Andrew Ippolito: Oregon that develops as a result of this right, because it's random where he latches on I don't think that he latches on in one place well I could be wrong again the anatomy of all this is here, so in this case he's on her back.
+1:51:02
+Andrew Ippolito: yeah I mean these you. Andrew Ippolito: it's a male parasite that he's literally a parasite he lashes on their vascular I forgot about this third there vascular surgery vascular systems merge so he's basically his blood is provided by her her blood.
+1:51:19
+Andrew Ippolito: And yeah that's that's how you reproduce it the bottom of the ocean where there's no food.
+1:51:25
+Andrew Ippolito: So that's that sexual die morph ISM and the most extreme example.
+1:51:31
+Alexis Micewski: So we. Alexis Micewski: see yourself as being like an example of sexual time. Alexis Micewski: Marxism to see male is the pregnant.
+1:51:39
+Andrew Ippolito: One out of that so see for. Andrew Ippolito: The question is simply do they look different, and so, if the answer is yes.
+1:51:49
+Jordan Russell: soon. Andrew Ippolito: As I mean they have the birthday, because, like they're the same size, the same.
+1:51:55
+Andrew Ippolito: shape they but I mean there they look different I mean so again i'm more when you see more if you're thinking sheep.
+1:52:04
+Andrew Ippolito: you're not the physiology is can be completely different, but if you look alike so. Andrew Ippolito: Here, a lack of sexual dime or must see if there's a species, we did pop up there.
+1:52:19
+Andrew Ippolito: yeah This is just all going to open up a can of worms for sex versus gender with humans, but let's see how they're.
+1:52:26
+Andrew Ippolito: There there's the right sexual Marxism. Andrew Ippolito: Right, there are some species that aren't I can't think of an example of one that's not so i'll refrain from it.
+1:52:40
+Andrew Ippolito: Alright, so what we're gonna do we're gonna wait, let me just so because I just raspberry model for here. Andrew Ippolito: We will pick up right here, this will we're drawing the line right here life cycles, I will teach you the life cycles here that really is this slide here this well we'll start with next time and then we'll jump right into mental.
+1:52:55
+Taylor Campbell: I can't see the slide. Andrew Ippolito: Of course, not because I forgot I shared the chrome and I didn't share.
+1:53:02
+Andrew Ippolito: Is there alright So here we were stopped today here right we stopped here, so the next thing is is lily there's one slide.
+1:53:10
+Andrew Ippolito: I will explain the basics of the life cycles of sexually reproducing organisms and i'll teach you the difference between animals fungus and plans and then from there we'll go into mental.
+1:53:22
+Andrew Ippolito: yeah this This is where things start to get fun. Andrew Ippolito: Alright, so i'll say classes officially dismissed, I will stop this recording.
+1:53:32
+Okay.

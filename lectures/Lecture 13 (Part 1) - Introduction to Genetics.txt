@@ -1,0 +1,1154 @@
+0:00
+Andrew Ippolito: Welcome to genetics, this is lecture for of the unit, and this is going to cover chapters 14 and 15 OK, so the key is is the first chapter.
+0:13
+Andrew Ippolito: Is is all about mental. Andrew Ippolito: Mental. Taylor Campbell: um it's still not.
+0:19
+Taylor Campbell: Just I thought I shared my screen here.
+0:29
+Andrew Ippolito: How about now. Taylor Campbell: Much better. Andrew Ippolito: All right, there we go. Andrew Ippolito: genetics, so the first part here is all about mental.
+0:42
+Andrew Ippolito: And what he discovered the idea here is we're going to look at invisible inheritance like physicality we were going to look at plants or we're going to look at the traits of the people who were then going to learn.
+0:56
+Andrew Ippolito: we're going to go to Morgan. Andrew Ippolito: And he is all about crumbs.
+1:02
+Andrew Ippolito: we're gonna learn about chromosomal patterns of inheritance. Andrew Ippolito: And then eventually we're going to go all the way to we're going to look at avery and his head and we're gonna look at Watson and Crick that's gonna be the next one that's all about DNA itself we'd say molecular.
+1:22
+Andrew Ippolito: Alright, so we go from the visible patterns of inheritance, the chromosomes and then from chromosomes to the molecular mechanisms that that's gonna be the story.
+1:30
+Andrew Ippolito: And so, from this point on, really, for the rest of the Semester.
+1:36
+Andrew Ippolito: with very few exceptions we're going to now use these scientific discoveries as case studies for how science works we're going to look at their experiments to there's going to be some names and.
+1:47
+Andrew Ippolito: How they set their experiments up and how they did their work Okay, so this is gonna be a little bit different than, then what we've been doing all semesters learning the mechanisms of things.
+1:58
+Andrew Ippolito: And i'm so there's gonna be a little bit of historical concepts, here too, so there's a little history, you get to learn about this.
+2:06
+Andrew Ippolito: In a broader context. Andrew Ippolito: So, first of all.
+2:12
+Andrew Ippolito: I want you to go back in time in your imagination to like pre 1800s and think about the way humans raised animals, think about horses and pigs and cows and sheep hundreds of years ago, thousands of years ago.
+2:30
+Andrew Ippolito: Right and imagine we took two animals and.
+2:37
+Andrew Ippolito: So we took a.
+2:42
+Andrew Ippolito: let's take pigs pigs in the Middle Ages were were pretty thin animals, they weren't the huge pigs, we have today.
+2:52
+Andrew Ippolito: And so, by then, if you took a a medium to medium size pigs. Andrew Ippolito: You put them together, you get a medium sized pig if you produce guinea pigs together, you get too skinny pigs, if you take a medium sized pig and a skinny pig you would get you know something in the middle, the idea here is that when you took animals and plants.
+3:12
+Andrew Ippolito: And you had them go through sexual reproduction, the offspring seem to be a blending of the two parents and so it's called blending.
+3:23
+Andrew Ippolito: Think of the way you you plan paints right you take a little bit of you know, yellow and a little bit of blue and mushroom together and get green right yellow blue.
+3:36
+Andrew Ippolito: Right, so if you think about that. Andrew Ippolito: don't take some yellow and take some blue, and those are paints, we would see some green pop out of that right.
+3:48
+Andrew Ippolito: No now imagine, though, we took so let's get some green now.
+3:54
+Andrew Ippolito: Right, so we were able to make some green. Andrew Ippolito: there's nothing we can do with that green.
+4:00
+Andrew Ippolito: To bring it back. To. Andrew Ippolito: separate them again right, we can never separate those out again right once you got green that's it forever.
+4:11
+Andrew Ippolito: Or take some coffee you got hot black coffee and cold milk.
+4:17
+Andrew Ippolito: Right so let's say you had some coffee here and some milk here, and you had an empty cup right here, and you pour it half the coffee in here and half the milk in there, and you get Beige lukewarm liquid.
+4:28
+Andrew Ippolito: there's nothing we can do with that liquid there's no amount of pouring that will ever give us black coffee again or white milk again.
+4:38
+Andrew Ippolito: Okay. Andrew Ippolito: So, even though we saw things blending over time.
+4:47
+Andrew Ippolito: Occasionally we would see offspring that presented with the same appearance as their grandparents alright, so the ridiculous example would be take take a fat pig.
+5:07
+Andrew Ippolito: And a skinny guinea pig.
+5:12
+Andrew Ippolito: Right and have babies and the babies are like medium sized pig.
+5:18
+Andrew Ippolito: And then take to medium sized pigs.
+5:25
+Andrew Ippolito: And you would think the offspring would all be medium sized. Andrew Ippolito: But sometimes.
+5:32
+Andrew Ippolito: you'll get the fat pig just like grandpa was or this guinea pig just like grandma was.
+5:38
+Andrew Ippolito: and other words you would see the occasional.
+5:46
+Andrew Ippolito: reoccurrence of. Andrew Ippolito: Parental traits.
+5:52
+Andrew Ippolito: And back then there weren't any scientists, these are horse breeders, these were these were farmers, these were just normal everyday people no nobody's doing experiments, they just would hand wave it away.
+6:06
+Andrew Ippolito: Something something about their the heritable material was unstable.
+6:13
+Andrew Ippolito: Which couldn't have been further from the truth, but that's how they saw it. Andrew Ippolito: Okay, so.
+6:18
+Andrew Ippolito: For thousands of years humans. Andrew Ippolito: accepted inheritance as a blending we are all the blends of our mom and dad, you have the eyes of your mom and the hair of your dad and the skin tone of your mom and there's like we're just we're amalgams of the brain that that's how we tend to see things.
+6:35
+Andrew Ippolito: But here's the problem. Andrew Ippolito: If the parents always the last spring, that are blending of the two then as time goes forward all traits are going to just even out we're never going to see diversity right yeah I have.
+6:51
+Andrew Ippolito: yeah there's slides here that I want to show you that I don't have so like I have a slide on blending theory.
+6:58
+Andrew Ippolito: I know where it is or the other class hold on just give me two seconds here. Andrew Ippolito: One on one lectures and.
+7:12
+archive.
+8:21
+Andrew Ippolito: Alright it's kind of hard to see because of the background, can you see that a little bit so here you have four for individually for.
+8:29
+Andrew Ippolito: For couples and white flowers flowers and you can see that. Andrew Ippolito: The white flower the flower give rise to varying shades of pink right, but over time, each generation right so like these to get together and.
+8:44
+A whole lot I mean.
+8:52
+Andrew Ippolito: Let me take a screenshot of the wall, with the white background it's just easier to see that's that's a transparent image, but.
+9:15
+Andrew Ippolito: Okay. Andrew Ippolito: So here, you can see that the offspring of this first.
+9:23
+Andrew Ippolito: group gives you the right they had three kids varying shades of pink right.
+9:29
+Andrew Ippolito: These young you have white and red and pink so all these variations, but then the next generation right so generation zero we're really generation, one that we're here let's.
+9:41
+Andrew Ippolito: Start calling these things by the rightful name, so this would be the parental generation. Andrew Ippolito: Okay, they have the first Filial generation will collect the F1 Filial Filial means siblings.
+9:58
+Andrew Ippolito: Okay, so that's the first sibling generation and then.
+10:04
+Andrew Ippolito: We take two individuals from that generation and they made, and so this right here would be that would be the F2 generation right, and then you can see, by the F3 generation, all of them are pink.
+10:20
+Andrew Ippolito: Okay, this is how blending would work if this was true. Andrew Ippolito: and clearly over time we maintain diversity in our population right, I mean we still all look different, despite the fact that we're thousands of generations into being humans.
+10:37
+Andrew Ippolito: So blending can't be true.
+10:49
+Andrew Ippolito: So, in other words the theory doesn't fit the data right.
+10:54
+Andrew Ippolito: And this actually turned out to be a huge problem when Darwin was starting to put things together, because he did not have.
+11:03
+Andrew Ippolito: A. Andrew Ippolito: scientific basis for heredity.
+11:09
+Andrew Ippolito: which was needed for understanding evolution right blending theory did not fit Darwin.
+11:16
+Andrew Ippolito: And there was no genetic theory for darwin's work he came up with an idea called pan genesis which was very ridiculous and not true.
+11:24
+Andrew Ippolito: So combine this with the fact that most people believed that species were fixed in time and did not change, you had a very highly debatable theory evolution theory.
+11:36
+Andrew Ippolito: Right, so the question is, is how did new forms arise if there was no variation.
+11:43
+Andrew Ippolito: And Darren made up this idea, you can read about it just take Darwin genetics concept pan genesis and you can read about how he saw miniature people and sperm basically for like little little tiny among July in there.
+11:59
+Andrew Ippolito: OK now in science, we talked about these ideas of scientific revolutions.
+12:07
+Andrew Ippolito: We all believe one thing there's like a consensus and then somebody comes along and says we're all wrong.
+12:13
+Andrew Ippolito: Right, the burden of proof isn't on the majority of the population, the one person can't be like you're all wrong and we're like Oh, I guess that's it folks.
+12:24
+Andrew Ippolito: Right, the crazy person coming in with their wild ideas they're the ones that have to prove their case, and if they can't, then the consensus doesn't change over time.
+12:36
+Andrew Ippolito: Okay, and breeders horse breeders and pigeon breeders and dog breeders and whatnot they did see blending.
+12:45
+Andrew Ippolito: And the reason for that is it turns out most of our treats are complicated there's more than one gene and there's more than one on Leal called poly genetic inheritance.
+12:54
+Andrew Ippolito: Okay, there are some traits that aren't though they're just rare, because as i've said this a couple times now, these are complicated.
+13:02
+Okay. Andrew Ippolito: Alright, so. Andrew Ippolito: i'm going to i'm going to skip ahead i'm focusing too much time here think I think about all the outmoded theories we've had over over the course of human civilization right the flat earth and the earth flat everybody believed that and some crazy person comes along says no it's round.
+13:22
+Andrew Ippolito: or approve it, so the you know the tikka tikka stick in some geometry, and they show the circumference of the earth, which shadows and if you guys know about how that works, basically, if you if you if you're standing in the northern hemisphere.
+13:36
+Andrew Ippolito: You take a big long stick and you put it up at the exact same you know the High Noon on April 7 and the sun cast a shadow on the ground, you can use trigonometry to calculate the length of that.
+13:50
+Andrew Ippolito: You can solve for X there. Andrew Ippolito: And then you walk down here, and you do the exact same measurements and the sun's in a different place because you're on a curved surface.
+14:02
+Andrew Ippolito: And then basically use math and you can estimate the circumference of the earth and they came within 10% error which isn't too bad for a stick and some math.
+14:15
+Andrew Ippolito: And a lot of persistence. Andrew Ippolito: Okay. Andrew Ippolito: And how about you know the sun goes around the earth wait no it doesn't prove it, and then some astronomy in some math some.
+14:28
+Andrew Ippolito: let's see right, so the idea here is that when when humanity believes a and somebody comes along with be the person who's saying be has to show that be is better than, not the other way around.
+14:41
+Andrew Ippolito: offspring, are a blend of their parents. Andrew Ippolito: Well, how do you explain recurring parental treats.
+14:48
+Andrew Ippolito: The instability of their hereditary material.
+14:53
+Andrew Ippolito: Well, I think, ready, I think there are discrete factors.
+14:59
+Andrew Ippolito: Okay, not the blending of treats. Andrew Ippolito: In other words, you can think of this as what's the word what's the word.
+15:13
+Andrew Ippolito: file there's a word that I can't hold out of my head right now particulate This is called the articulate model.
+15:27
+Andrew Ippolito: of inheritance. Andrew Ippolito: Okay, so that's the opposite of the blending model blending would say that you think just blur together the particular model says that there are these discrete factors and, to this day, we call them mendel's factors this idea of the factor.
+15:48
+Andrew Ippolito: And the hunt for those in the early 20th century they talked about mendel's factors all the time in their papers.
+15:55
+Andrew Ippolito: Okay, so he proposed a particular model of inheritance.
+16:00
+Andrew Ippolito: Then prove it. Andrew Ippolito: So this this dude here Mendel Gregor Mendel.
+16:09
+Andrew Ippolito: was born in Austria, Hungary to poor parents. Andrew Ippolito: They recognize his brilliance at a young age.
+16:17
+Andrew Ippolito: He eventually. Andrew Ippolito: went to university and then he opted to join the church because because he was really poor that that's what it came down to he couldn't afford.
+16:36
+Andrew Ippolito: I mean they couldn't afford food they were like third generation farmers in a not so well off place and i'm cutting a lot of corners in the story just to get to the gist of it.
+16:47
+Andrew Ippolito: You can just type go to Wikipedia me Greg mendel's entry if you're interested in the history of that stuff is he's got a really interesting life but here's the cool thing the.
+16:57
+Andrew Ippolito: The Catholic Church back in the 1800s was put in charge of the education system in Austria, Hungary in that area of the of the world is that that is now actually now it's the Czech Republic and hungry, I think that the politics, the politics of area have always been.
+17:14
+Andrew Ippolito: in flux and so. Andrew Ippolito: monasteries and monks live solitary lives abbott's and abby's are the PR branch of the church and they're the ones that are engaged with the public.
+17:32
+Andrew Ippolito: And so Mendel joined this abby that happened to have a reputation of being kind of a free thinking radical scientifically friendly place and essentially he lived in a.
+17:47
+Andrew Ippolito: bit here with a bunch of other guys and it was kind of like a frat house for science, they were just allowed to dabble in their experiments and play.
+17:58
+Andrew Ippolito: You know, and they were also he also had to teach. Andrew Ippolito: And there was this one fun story, where he would walk around as classroom with a pocket full of dried piece, which is what he was doing experiments with and it's just students that were falling asleep, he would flip piece that them to wake them up.
+18:15
+Andrew Ippolito: So he wasn't even that interested in genetics, he was interested in all the complicated stuff he loved weather and actually one of his mentor's was a guy named doppler you've all heard the doppler effect i'm sure or her doppler radar doppler was the one that came up with the.
+18:33
+Andrew Ippolito: He he studied whether i'll just leave it at that and so Mendel loved the chaos and complexity of the universe, and, unfortunately, he was he was too far ahead of his time.
+18:47
+Andrew Ippolito: it's kind of like today there's people who get all excited about you know alien life, they want to be Dino biologists and study alien microbes and we don't have any of those right now.
+18:57
+Andrew Ippolito: So people who is you know biologists all that works theoretical right they were born like 200 years too early to do that kind of work or maybe not.
+19:06
+Andrew Ippolito: But you get the idea so Mendel was born in this period time where the math wasn't even invented yet statistics statistics as a math wasn't even invented at this point and a lot of his work really needed some good statistical ideas.
+19:22
+Andrew Ippolito: Which is why his ideas died with him for a couple of decades Mendel died in the 1860s 1880s 1860s.
+19:36
+Andrew Ippolito: and his work was rediscovered in 1901 by a group of data, there was like a Danish scientist or a Norwegian or something and they um.
+19:46
+Andrew Ippolito: They had done their work and they just were doing like a literature search just to see if anybody else came upon this stuff before and Sure enough, they uncovered all of his work and they're like oh.
+19:54
+Andrew Ippolito: whoops we got scooped 40 years ago that would be like somebody's going to the library today and unearthing some documents that showed how advanced artificial intelligence works.
+20:05
+Andrew Ippolito: And then they were just so far ahead of their time nobody understood what they were doing and it collected dust in the bottom of some library.
+20:12
+Andrew Ippolito: So this this guy was a genius. Andrew Ippolito: And he made a lot of advances and in several areas, and eventually became an administrator at the Abbey and he ran the place and stop doing science.
+20:24
+Andrew Ippolito: So his contribution was this idea of particular inheritance and he really his laws he's he has these two fundamental laws will learn about they they serve as the basis for all modern genetics, so we call Mendel the father of genetics he's he's the one that started the science of genetics.
+20:43
+Andrew Ippolito: Okay, so when it says discrete factor that you're talking about dnr trees, rather than blending.
+20:48
+Andrew Ippolito: what's dnr tori. Victoria Bloemker: Like dominant and recessive.
+20:53
+Andrew Ippolito: Oh yeah yeah we're we're really we're talking about a liam's number we've learned this concept already great for one gene we each have a parable deals, so the illegal.
+21:05
+Andrew Ippolito: would be the factor. Andrew Ippolito: Okay, you could even argue that the chromosome is a factor right the chromosome is a chunk that gets inherited to and, in fact, in the late 1800s when people were starting to study and see under the microscope meiosis mitosis.
+21:24
+Andrew Ippolito: that's when they started making the connections right mendel's first law well we'll get there alright, so what he did, to show off his work was he used normal ordinary garden.
+21:38
+Andrew Ippolito: garden piece, where you should grow, they were able to self fertilize they were able to be controlled in their fertilization and, naturally, there were lots of different varieties, all you had to do was go down the road to pound and there was a guy there, called the.
+21:54
+Andrew Ippolito: They call them the seed man and he sold seeds of various types of crop seeds for farming and so he they had different bright of the piece, and so he would collect a few of those and use those in those experiments.
+22:08
+Andrew Ippolito: Okay, so he did and Mendel did extraordinarily method.
+22:16
+Andrew Ippolito: meticulous accurate experiments that's what made this possible when you guys ultimately go and do some lab work in some future class or as a job.
+22:29
+Andrew Ippolito: The hardest thing, in my opinion, really when it comes to being experimentalists is to be able to be methodical, to the point where your your brain is screeching at the boredom of it.
+22:42
+Andrew Ippolito: Like Imagine going to the supermarket and buying 20 bags of m&ms.
+22:51
+Andrew Ippolito: dumping them all into a bin and then counting the number of yellow vs blue versus Brown and tabulating all that.
+23:01
+Andrew Ippolito: Right that's torture. Andrew Ippolito: that's sometimes the kind of thing you have to do to do good science.
+23:10
+Andrew Ippolito: and mental did that. Andrew Ippolito: Right so i'm gonna give you so, by the way, that's.
+23:17
+Andrew Ippolito: Why, I took this picture, when I went to the museum, once this is mendel's copy of darwin's book.
+23:24
+Andrew Ippolito: Alright, so there's this really good story here that if Darwin and Mendel met each other and compared notes and Darwin was able to learn what Mendel discovered in us what Mendel had we could have advanced the science behind.
+23:40
+Andrew Ippolito: molecular genetics and evolution by decades.
+23:46
+Andrew Ippolito: But that's not how science works right, and so this book, if you look carefully here.
+23:51
+Andrew Ippolito: You see, these two pencil marks right here so so Mendel put these two scratches here and then next to that you can't really see it as an exclamation mark.
+24:01
+Andrew Ippolito: In German, I don't anybody here speak German, I had one student try to translate for this one's This basically this little passage here, this is so, this is the German translation of darwin's English and mental spoke German obviously.
+24:15
+Andrew Ippolito: This talks about darwin's need for a particular model of inheritance.
+24:22
+Andrew Ippolito: And mentos like I have it. Andrew Ippolito: So that's why he got all excited when Mendel finished his work, and he was he was.
+24:30
+Andrew Ippolito: The title of his work was very bottom of the hybridization and plants plant hybridization he sent copies of his work to the world's greatest scientists at the time, like 20 copies to 20 people and one of those people was Darwin.
+24:44
+Andrew Ippolito: And after Darwin died, and they were cleaning out his stuff they did find mendel's work on his desk but to this day, we don't know if Darwin ever read it.
+24:56
+Andrew Ippolito: We do know that Darwin hated math and that he's so Darwin wrote a lot, he has a lot of letters and diaries and journals and books, and so we know Darwin as a person very well, and we know that Darwin didn't like math and he's famous for saying something to paraphrase.
+25:14
+Andrew Ippolito: math is useless for biology. Andrew Ippolito: One of my sayings, which I kind of like I started think along the same lines Darwin didn't one of my things is biology is the science for people who are bad at math.
+25:30
+Andrew Ippolito: And I say that jokingly but really if you think of like physics and chemistry, you need to be.
+25:36
+Andrew Ippolito: you're doing all math all the time and those things right, for the most part and science and biology, you can get away with not doing math and a lot of disciplines there's only a few that really require hardcore math.
+25:45
+Andrew Ippolito: So my guess is Darwin wasn't very good at math and that's why he hated it and so when he saw mendel's original work and he started flipping through it, he saw lots of math in there, he probably went i'll read that later.
+25:59
+Andrew Ippolito: So. Andrew Ippolito: here's an anatomy of the p plan, this is what Darwin i'm sorry this don't put a domino this what mental work with though here's the way this plant works so it's hermaphroditic it has both male female parts.
+26:13
+Andrew Ippolito: Okay, so the green the green chunk here, everything is green in this picture is female and yellow is now.
+26:21
+Andrew Ippolito: Alright, the male part the simpler part here, you know the filament and at the top of the filament is this thing called the answer, the answer is what provides the pollen the little yellow pollen Greens you'll see collectively this thing is called this statement.
+26:39
+Andrew Ippolito: Okay. Andrew Ippolito: The Green the whole big long green thing is called the carpool right so plants so flowers have the carpool on the state.
+26:48
+Andrew Ippolito: The carpool has, at the very tippy top of it, the sticky area, called the stigma the sticky stigma the stigma, is where the policy is would attach.
+26:59
+Taylor Campbell: The length if sorry. Andrew Ippolito: Go ahead. Taylor Campbell: Is this only flowering plants.
+27:07
+Andrew Ippolito: do so yeah, this is the anatomy of all like this is the universal concept, the flowers. Andrew Ippolito: Have there's. Andrew Ippolito: tons of variation here, not all some flowers or mouse i'm a female, this is a male female flower, this is a hermaphrodite but they all have the same basic parts, so a male flower would just have the filament and.
+27:24
+Andrew Ippolito: A female or just have the carpool the parts are all the same there's always a stigma style and ovary.
+27:30
+Andrew Ippolito: Right, so the stigmas the sticky part the styles, the shaft and then the ovary is the basically the womb it's the Chamber that has all the individual eggs in it so each one of these dots represents an individual.
+27:43
+Andrew Ippolito: that's The other reason, this is such a powerful tool to use, you can have off, you can have multiple offspring all at once alright, so the idea here.
+27:52
+Andrew Ippolito: Is the pollen will fertilized here, it will migrate down, and it will cause fertilization events to occur, and then you would see the maturation within the people so each one of these individuals is genetically distinct.
+28:09
+Andrew Ippolito: Okay, each one of those has its own individual. Andrew Ippolito: So what he would do.
+28:15
+Andrew Ippolito: Is he would isolate some. Andrew Ippolito: some useful strain of the plant and he could make females by just cutting off the filaments with a pair of scissors and so now you knew, you know that any fertilization event that occurs is something you control.
+28:35
+Andrew Ippolito: It can't solve policy. Andrew Ippolito: So what you would do is you would what he did he would isolate different colonies of these plants and hold on a second if something stuck in my throat.
+28:52
+Andrew Ippolito: Normal water here. I blow.
+28:57
+Andrew Ippolito: glass with your coffee okay. Andrew Ippolito: We have the ability to take a paintbrush we're just taking ordinary paintbrush and he would go to the mail and he would get some pollen and he will go to the female and he would pawnee Okay, this was the act of this this was called hybridization.
+29:18
+Andrew Ippolito: or cross pollination.
+29:24
+Andrew Ippolito: Okay, and instead of saying male and female, we would say the.
+29:31
+Andrew Ippolito: Let me think of the words what would be.
+29:38
+Andrew Ippolito: The pollen in the seed. Andrew Ippolito: So if the pollen donor and this you donor.
+29:45
+Andrew Ippolito: i'll say male female but just keep in mind like that's the idea, the female will have this seat and the melody.
+29:52
+Andrew Ippolito: So, so if you had a particular treat. Andrew Ippolito: You would have two sets of crosses you would have one set let's say that you were looking at pea color which will will do first all right, if we were doing pea color we would say that the seed donor would be yellow and the pollen donor would be green.
+30:15
+Andrew Ippolito: Right and then we would do a separate set. Andrew Ippolito: Where the seed donor was green and the pollen donor was yellow you see that that's called a reciprocal cross.
+30:27
+Andrew Ippolito: The idea that the genders, or the sexes are swapped for the given trait that they're studying.
+30:33
+Andrew Ippolito: Okay, reciprocal. Andrew Ippolito: Cross there's a few named crosses that you're going to need to know that's the first OK so again i'll reciprocal crosses a pair of crosses where the sexes are swapped for the for whatever traits we're talking about.
+30:54
+Andrew Ippolito: So moms yellow and dads green and then also dad's green a mom's yellow.
+30:59
+Andrew Ippolito: Okay, and what this was was this was his way of eliminating the possibility of.
+31:05
+Andrew Ippolito: Any patterns, he saw being related to the sexes, of the planets.
+31:13
+Alexis Micewski: Can you repeat the definition for reciprocal ground sorry. Andrew Ippolito: it's okay. Andrew Ippolito: it's where the sexes.
+31:21
+Andrew Ippolito: Are. Andrew Ippolito: swap for the traits of interest.
+31:29
+Taylor Campbell: So is that, like that picture, where he cut away the answer's. Andrew Ippolito: No, this is me just teaching you.
+31:35
+Andrew Ippolito: yeah no i'll here's the here's the thing guys, but I just i'm trying to teach you too much on one slide. Andrew Ippolito: So let me, let me skip ahead here, well, eventually, this will all make sense, once we do the details of it, so this was the think of this as the.
+31:51
+Andrew Ippolito: This is the model organism he used to study the basics of genetics. Andrew Ippolito: And there there's a picture of him in his his buddies and I imagine like Gregor put down that P and pay attention right do you see.
+32:05
+Andrew Ippolito: Which one of those people would have to be mental he he was I like to think mental was either use either ADHD or asperger's or whatever he was always in his own little world and, like super smart so.
+32:21
+Andrew Ippolito: There is it's not a P it's fuchsia to spring a fish.
+32:28
+Taylor Campbell: way more time let's see the one that was a monk, who yes.
+32:34
+Andrew Ippolito: texting. Taylor Campbell: He was an Abbot but yeah. Andrew Ippolito: They call a month. Andrew Ippolito: There wasn't a monastery that's the key there it wasn't a solitary confinement setup it was a social setup.
+32:45
+Andrew Ippolito: So, here it is peace September them so to them. Andrew Ippolito: it's a Harry Potter spell piece some cities.
+32:54
+Andrew Ippolito: Like that anyway so um. Andrew Ippolito: So they're normally self fertilizing Okay, so you have self fertilization, and you have cross fertilization, you have to be able to distinguish those things, so you can do a self cross, and you can do a hybridization.
+33:17
+Andrew Ippolito: Now don't look at the numbers here just listen to my words when you're looking at this over here we're talking about individual traits that he investigated.
+33:27
+Andrew Ippolito: we're only going to cover two of these we're going on, look at the seed color and eventually we're going to look at stem length Okay, the rest of these you don't have to worry about.
+33:38
+Andrew Ippolito: But it is important to see that he didn't just look at this for one trade he looked across the board of multiple trades.
+33:46
+Andrew Ippolito: Okay. Andrew Ippolito: The key here that so he selected these traits because, when he looked at the way plants reproduce he found that these traits always had two different modes.
+34:02
+Andrew Ippolito: So there were yellow piece or there were a green peas, there are tall plans or there were short plans.
+34:08
+Andrew Ippolito: Right, there were inflated or constricted rounder wrinkled Axial versus terminal flowers purple flowers white flowers green carpools or yellow carpools or particular okay so to just like we have an ear lobe that is either attached or detached there's no nothing in between.
+34:25
+Andrew Ippolito: Okay, all or nothing yellow or green and and.
+34:31
+Andrew Ippolito: One of those traits was dominant over the other and i'll explain what that means in a bit.
+34:37
+Andrew Ippolito: Okay don't worry about the math just yet don't worry about any of this just the idea of the traits and the fact that there's two.
+34:44
+Andrew Ippolito: Now i'm going to wait for this for you. Andrew Ippolito: This is my most of my students prefer at this point to be doing this on the whiteboard so i'm going to teach you genetics here.
+34:56
+To white. Andrew Ippolito: Okay.
+35:03
+Andrew Ippolito: You guys need a five minute break before we do this. Andrew Ippolito: let's do that let's take five clear your mind, because once once we get back i'm just going to teach you how we do genetics, we do all of it, the basics alright so hey siri start a timer for five minutes.
+35:22
+Wake up. Andrew Ippolito: hey siri. Andrew Ippolito: start a timer for five minutes.
+35:34
+Andrew Ippolito: All right, i'll see you guys.
+42:20
+Andrew Ippolito: break reminding me.
+42:35
+Andrew Ippolito: Okay, you guys there.
+42:46
+Andrew Ippolito: water.
+42:51
+Andrew Ippolito: All right, so put your algebra caps on a little bit. Andrew Ippolito: Work that we're going to learn here, this is, this is the one part of this class that's really skill based, as well as conceptual so doing genetics problems is a thing i'm going to teach you how to do this stuff so the terminology, the techniques, the patterns of thinking, all that.
+43:13
+Andrew Ippolito: alright. Andrew Ippolito: So the first thing is, we have to establish what are called.
+43:20
+Andrew Ippolito: Through breeding. Andrew Ippolito: True breeding individuals, the idea of true breeding.
+43:34
+Andrew Ippolito: Is that hairless use green as an example here. Andrew Ippolito: So here's a plant that gives Greenpeace and here's a plan that gives yellow piece.
+43:46
+Andrew Ippolito: i'll show you just the way my brain works, I want to put these yellow comes first okay.
+43:55
+Andrew Ippolito: So the idea is if this plant is allowed to self pollinate and provide offspring, the offspring will always have.
+44:05
+Andrew Ippolito: 100% yellow. Andrew Ippolito: And if these are allowed to self pollinate they will always 100% of the time have green.
+44:15
+Andrew Ippolito: Okay, that makes sense. Andrew Ippolito: Okay, so we would say that yellow.
+44:25
+Green. Andrew Ippolito: Are the two phenotypes.
+44:32
+Andrew Ippolito: So phenotype means the outward appearance of the treat right so like my brown hair would be my phenotype for hair color.
+44:42
+Okay. Andrew Ippolito: don't worry about you know because again we're looking at visible patterns of inheritance.
+44:49
+Andrew Ippolito: So so mental establishes takes them two years to establish these true breeding offspring.
+44:55
+Andrew Ippolito: Right, he needs he makes absolutely sure that all the offspring of any of these always has exactly the same field.
+45:03
+Andrew Ippolito: there's, not a single green pea in the yellows and not single yellow and then. Andrew Ippolito: Okay, then what he does it does this pair of reciprocal crosses he takes.
+45:15
+Andrew Ippolito: A yellow pea. Andrew Ippolito: That is female.
+45:21
+Andrew Ippolito: or he takes a green pea. Andrew Ippolito: Best female.
+45:27
+Andrew Ippolito: And then he cross pollinate or he hybridize it with the opposite.
+45:34
+Andrew Ippolito: So, this would be a pollen donor.
+45:46
+Andrew Ippolito: Okay, and he looks at the offspring so we're gonna call this generation here this generation here this level of generation, this is the p generation no pun intended.
+45:59
+And this is the parental generation.
+46:05
+Andrew Ippolito: Now here's, the first thing your brain is going to start to fight and get confused about is, I want to try to clarify it right here.
+46:14
+Andrew Ippolito: Which generations, the p generation right, I mean those pieces came from another generation and another generation other judges So where do we draw the line you draw the line i'm taking these two peas i'm going to call these the perennials and they're going to have offspring.
+46:33
+Andrew Ippolito: Okay. Andrew Ippolito: In a classic so we're establishing a classic cross here and i'll tell you what it was the name of it is in a second, but so here's The next thing I want to tell you.
+46:43
+Andrew Ippolito: Remember that these are sexually reproducing organisms rate those adults, will give us gametes so i'm just just for now i'm just gonna be like remember there's there's a gamut here.
+46:58
+Andrew Ippolito: And then they're singing me number sinking me comes together and they produce an offspring, and it just so happens that when Mendel did this work he got a yellow.
+47:08
+Andrew Ippolito: set. Andrew Ippolito: Of. Andrew Ippolito: philly the first Filial generation was 100% yellow.
+47:21
+Andrew Ippolito: And he saw this. Andrew Ippolito: Regardless of what the gender was.
+47:30
+What the sex was.
+47:35
+Andrew Ippolito: Okay. Andrew Ippolito: So he immediately empirically remember that word empirical empirical means you see it with your own two eyes, he empirically demonstrated that yellow.
+47:51
+Andrew Ippolito: Was dominant. Andrew Ippolito: And therefore, green.
+47:57
+Is recessive. Andrew Ippolito: In other words, Greens hiding there.
+48:06
+Andrew Ippolito: And here's the first test of the funding model if we allow this P to self pollinate.
+48:15
+Andrew Ippolito: If we allow the F one generation to pollen self pollinate.
+48:20
+Andrew Ippolito: and give us offspring.
+48:25
+Andrew Ippolito: And again remember you know there's there's two gap means there they come together to form an individual, it turns out that in that F two generations.
+48:36
+Andrew Ippolito: He can make a prediction if they were all yellow and he never saw green again.
+48:43
+Andrew Ippolito: We could say that that supported the blending theory of inheritance.
+48:48
+Andrew Ippolito: If, instead, he saw some green in there. Andrew Ippolito: That would completely defeat the blending model that would show that there is a particular model that is more accurate and Sure enough, not only did he see green, but he saw always in the same ratio for every three yellows.
+49:12
+Andrew Ippolito: He would find a single green pea.
+49:17
+Andrew Ippolito: always there were always three yellows to one green, and so we would say this.
+49:26
+Andrew Ippolito: We would see the phenotypic ratio.
+49:34
+Andrew Ippolito: Yes, 321. yellow to green.
+49:43
+Andrew Ippolito: So he didn't sometimes see two to one and sometimes 421 he always saw 321.
+49:53
+Andrew Ippolito: And that right there that's when you know you're onto something. Andrew Ippolito: One of my favorite quotes that i've come across about science itself is and I don't know who said this i'm sure we can look it up.
+50:07
+Andrew Ippolito: Doing science is like having a quiet conversation with nature, you ask nature, a question, and if you ask it right nature gives you an answer.
+50:22
+Andrew Ippolito: Right. Andrew Ippolito: What happens if I cross the yellow F1 to itself, you get 321.
+50:31
+Andrew Ippolito: Nature answered, but why what man nature doesn't give up at secrets that easily you got to think about right.
+50:39
+Andrew Ippolito: So he did Ray so he did this this idea here of the F tues showing the reemergence of the recessive trait.
+50:50
+Andrew Ippolito: He saw this over and over again for those different selected. Andrew Ippolito: If we go back to the slide here, he saw that pattern, and all of these so look at the numbers now look at the right hand side of the screen here.
+51:03
+Andrew Ippolito: And this is what I meant about counting m&ms Okay, he counted 8023 piece.
+51:10
+Andrew Ippolito: He counted, so he did this, so you can imagine he's got a greenhouse where he did all this there's dozens of plants, he collected thousands of peas.
+51:21
+Andrew Ippolito: And then he counted them. Andrew Ippolito: And he counted 6022 yellow piece and.
+51:28
+Andrew Ippolito: Greenpeace. Andrew Ippolito: Right and what did that ratio six to two.
+51:35
+Andrew Ippolito: Right and reduce that 321. Andrew Ippolito: And if you pulled your calculator out and you did that, for every single one of these things you would see that exact same ratio of 321321321321 every time.
+51:53
+Andrew Ippolito: Okay. Andrew Ippolito: So that told him that there was some secret rule here, there was a hidden rule of nature that he just uncovered.
+52:05
+Andrew Ippolito: And so, he went to the drawing board and he said this, this is how we rationalized It is like all right, we got two parents.
+52:12
+Andrew Ippolito: Right, we got the female we got the MIC Now we have this F1 whatever this offspring is.
+52:21
+Andrew Ippolito: let's say. Andrew Ippolito: that each one of the parents is contributing some particle some discrete factor to the offspring.
+52:31
+Andrew Ippolito: So the offspring has has to have these factors right so so the individual.
+52:39
+Andrew Ippolito: donate one. Andrew Ippolito: And then the offspring has to so that also means that the parents have to.
+52:51
+Andrew Ippolito: These are just like slots. Andrew Ippolito: Empty slots right so let's let's give this makeup some some window here so because yellow is dominant the green let's let this trait be represented me get myself i'm going to get rid of the slots now you'll see i'm gonna write real letters here let's say that.
+53:11
+Andrew Ippolito: We represent this trade with a capital y signifying yellow and lowercase y signifying green.
+53:25
+Andrew Ippolito: Okay, so that so so now you're learning the math of genetics, at least from Indian genetics, the idea is if the letter.
+53:34
+Andrew Ippolito: is taken. Andrew Ippolito: From the dominant tree.
+53:42
+Andrew Ippolito: So never use a lowercase G for green that's that's a no no there's no G in this there's yellow or there's there's a white capital a lowercase one, so the idea is is one parent donates a capital y and the other donates a lowercase y so that the individual offspring has one of each.
+54:03
+Andrew Ippolito: And that, for whatever reason, this combination gives us yellow.
+54:09
+Andrew Ippolito: And because this one here was a true Member she was true breeding they always provided.
+54:17
+Andrew Ippolito: me they always provide a DEMO so it makes sense that they have.
+54:23
+Andrew Ippolito: To capital wise and because this one's Green, you get to lowercase wise.
+54:30
+Andrew Ippolito: Okay, just just using logic, at this point, this, this is an has to be that way.
+54:39
+Andrew Ippolito: Okay, so individuals have two factors for a given trade.
+54:46
+Andrew Ippolito: When they develop their gametes their gametes only have one factor and those two factors come back together on the offspring, that has to treats.
+54:56
+Andrew Ippolito: So when he mapped this out this made perfect sense.
+55:01
+Andrew Ippolito: And so, he called ready, if I have two. Andrew Ippolito: factors that are the same, whether it's to capital wise or two lowercase wise this state is being called homozygous.
+55:18
+Andrew Ippolito: homo saying. like this.
+55:29
+Andrew Ippolito: Now, because. Andrew Ippolito: The to capital wise get present us with the dominant phenotype we would call this homozygous dominant.
+55:43
+And this would be homozygous. recessive.
+55:51
+Andrew Ippolito: Right, so the parental generation had these.
+55:57
+Andrew Ippolito: In this experiment that doesn't mean all parental generations have to be homozygous.
+56:02
+Andrew Ippolito: And then the F1 gave us one of each rate one of each year, we would call this heterozygous.
+56:12
+Andrew Ippolito: or heterozygous and we turn these the genome types.
+56:22
+Andrew Ippolito: So you, you would never use the plain English words yellow and green when you're talking about the genome types, you would say homozygous heterozygous versus.
+56:35
+Andrew Ippolito: This work oh go ahead alyssa.
+56:40
+Andrew Ippolito: For a heterozygous geno's hype you wouldn't have to say dominant and recessive exactly it's like one of each yeah so saying heterozygous dominant or heterozygous recessive would be there just be wrong.
+56:53
+yeah.
+57:03
+Andrew Ippolito: This work did two things it destroyed blending as a as a theory.
+57:09
+Andrew Ippolito: And it he developed what we now call mendel's first law.
+57:14
+Andrew Ippolito: it's called the law. Andrew Ippolito: of segregation.
+57:24
+Andrew Ippolito: And the last segregation simply states. Andrew Ippolito: That and i'm going to write all this, I have a slide I don't want to hand write it off me just get over here.
+57:34
+Andrew Ippolito: period OK, for each treat for a given treat, there are two factors present and individual.
+57:46
+Andrew Ippolito: This goes right along with the idea of somatic cells being deployed right so like we learned all the the reality of all this, and now we're learning about how we got there so we're sort of putting the cart before the horse.
+57:58
+Andrew Ippolito: So earlier today when it when Tony asked about to end and then this is exactly what we're talking about okay so adults are to win.
+58:08
+Andrew Ippolito: And then these factors separate drink mutagenesis these factors separate when got me Sir formed they become in halfway.
+58:16
+Andrew Ippolito: gametes themselves only have a factor for a tree one factor.
+58:22
+Andrew Ippolito: And then the galleries come together again fertilization single me the new individual has two factors ago.
+58:30
+Andrew Ippolito: So really we already knew all this from doing meiosis mitosis so we could say the sky is blue, this is not there's nothing new here, this is just us formally stating something you already understood.
+58:49
+Sorry i'm here.
+58:55
+Andrew Ippolito: So what you just did ready this this cross here this this exact cross where the parental generation is true breeding for a given tree.
+59:06
+Andrew Ippolito: And they give rise. Andrew Ippolito: To an F1. Andrew Ippolito: That has heterozygous.
+59:14
+Andrew Ippolito: And then, this because right now we can do a pundit square now I can show you how punished squares work.
+59:20
+Andrew Ippolito: This so pun, it was a British scientist to in the early 1900s developed this mathematical shorthand to visualize these kinds of traits so here's here's how public squares work let's go let's go back to the whiteboard here.
+59:33
+Andrew Ippolito: Okay, so what i'm about to teach you is the workflow for every genetics question you do step one as you set up your parental make sure you understand what you're crossing so let's just go back to the original we just.
+59:49
+Andrew Ippolito: Okay, another piece of advice is always write your capital a lowercase letters, so that they are visibly distinct from one another notice, I draw capital why like this.
+1:00:00
+Andrew Ippolito: And a lowercase y like this, I don't draw capital why like this and a lower case, why like this, or a capital why like this and a lowercase y like that notice that they're different why.
+1:00:08
+Andrew Ippolito: When you're when you're doing your math and you're scribbling and during the test for the quiz and you're writing fast, you might not be able to see the size differences clearly so visually distinguish them.
+1:00:20
+Andrew Ippolito: that's My advice to you alright so step one set up set up the cross.
+1:00:26
+Andrew Ippolito: step to. Andrew Ippolito: map out the gametes.
+1:00:35
+Andrew Ippolito: Okay, so the key here is, you have to look at this and ask yourself, this is the magic question write this down how many distinct.
+1:00:43
+Andrew Ippolito: gametes or how many unique gametes or how many different gametes can be formed by that you know type, in this case it's an easy answer one there's just this capital.
+1:00:58
+Andrew Ippolito: For this one is lowercase. Andrew Ippolito: OK, and then step three.
+1:01:04
+Andrew Ippolito: is set up your opponent Square.
+1:01:10
+Andrew Ippolito: This is how the square works along the top access you put the gametes for one parents notice, I said the gametes not the letters eventually will be doing things that look like this.
+1:01:23
+Andrew Ippolito: right for different trades that still one thing okay so you're right the genome type of the gamut here, in this case it's really simple there's just one and then along the next axis you do the other one.
+1:01:36
+Andrew Ippolito: And then, in the middle, you put them together the rule here is capital letters always go first.
+1:01:44
+Andrew Ippolito: And that's that's as simple as you get right there. Andrew Ippolito: that's your that's literally a square.
+1:01:51
+Square. Andrew Ippolito: And so you can say that, so the inside here the contents of this is the next generation right.
+1:01:58
+Andrew Ippolito: So these are the guy means to the principal generation and then this is the F1.
+1:02:08
+Andrew Ippolito: And then for. interpret. Andrew Ippolito: And there's 1000 different things, you can do there, depending on the question alright, so now you got that basic concept of my list just map this out again so we go.
+1:02:21
+Andrew Ippolito: Here is a ready i'm gonna say this out loud here's our true breeding yellow pea plant crossed with a true breeding green pea plan each develops their own individual gametes that can then come together and give us our F1 heteros like.
+1:02:40
+Andrew Ippolito: Okay now let's take the F1 and self cross it here's how you're going to set that cross up so here's capital a lowercase wide cross with capital a lowercase y now, you can see where things are going to get interesting right the gametes here how many different gametes can be formed there.
+1:03:05
+Andrew Ippolito: So Jordan you'll see we're getting there.
+1:03:12
+Andrew Ippolito: How many different unique gametes can I form they're. Andrew Ippolito: chill good capital wireless cookies right.
+1:03:21
+Andrew Ippolito: The same with this one Capital y lowercase y so now here's how you set up the punter square you put all possible gametes along the top.
+1:03:31
+Andrew Ippolito: All possible gummy smile on the bottom. Andrew Ippolito: And then there's your for Jordan.
+1:03:38
+Andrew Ippolito: Right, so now, not all punish yourself for this one does we're going to see squares the messiest one we're going to do is one with 16.
+1:03:47
+Andrew Ippolito: The diehard Red Cross, I roll my eyes at that too.
+1:03:53
+Andrew Ippolito: Okay, so here's they fill this out look at the top left corner to capital wise right that's easy capital I capital y.
+1:04:01
+Andrew Ippolito: And then remember the rule this where you have to remember your rule capital y so we're seeing here, this is what your brains doing when you're looking at this you're like this and that.
+1:04:12
+Andrew Ippolito: And then you ask yourself, is there a capital letter there if the answer is yes, you put that one first.
+1:04:18
+Andrew Ippolito: Because watch this the next one down here capital y lowercase y that's exactly the same as this one right.
+1:04:27
+Andrew Ippolito: Even though they're written opposite the cell is three dimensional it doesn't matter what's actually going on, whereas Can you see that if you accidentally drew if you wrote this instead your brain would see these as two different things.
+1:04:41
+Andrew Ippolito: But they're not. Andrew Ippolito: The order doesn't matter, so we have a convention capital letters first.
+1:04:51
+Andrew Ippolito: And then, this last one lowercase, by the way right.
+1:04:57
+Andrew Ippolito: Now the key here is remember. Andrew Ippolito: This was him mapping this out after doing the experiment, so the only way we know that.
+1:05:09
+Andrew Ippolito: The heterozygous. Andrew Ippolito: Is yellow because we did the experiment there's nothing here that tells us that we did that work already so we now know if I see this genome type.
+1:05:26
+Andrew Ippolito: what's its phenotype.
+1:05:35
+Taylor Campbell: I know. Taylor Campbell: What is it the one he circled.
+1:05:40
+Andrew Ippolito: Yes. yellow. Andrew Ippolito: Good.
+1:05:47
+Andrew Ippolito: Okay, so ready. Andrew Ippolito: So here. Andrew Ippolito: Right what's this so what's the phenotype here.
+1:05:56
+Taylor Campbell: yellow. Andrew Ippolito: yellow yellow. yellow.
+1:06:02
+Taylor Campbell: Green. Andrew Ippolito: And look at that 321. Taylor Campbell: see that.
+1:06:09
+Andrew Ippolito: So, in other words mendel's model matched his experiment, and so there I just walked you through an example of the scientific method from start to finish.
+1:06:19
+Andrew Ippolito: The empirical data remember remember sciences, a blending of empiricism and rationalism right, this was the logic part he did the empirical part and they agreed with each other, which means he's onto something.
+1:06:34
+Andrew Ippolito: Okay, so now what we could do here.
+1:06:39
+Andrew Ippolito: Well that's it, we can stop there, so that's how we establish this first law, and this is technically so now, now that we've done this starting we zoom out here, starting with the original parental.
+1:06:52
+Andrew Ippolito: Okay, so here, let if we really stick this take all this and put it here.
+1:06:58
+Andrew Ippolito: And then, all this and put it here right, so this is from starting with the true breeding, I mean increase my starting with the true breeding per Rentals.
+1:07:09
+Andrew Ippolito: doing the F1 cross and getting to the F two Okay, this whole thing here, this is called a Mano hybrid cross.
+1:07:22
+Andrew Ippolito: Mano hybrid the mono corresponds to the fact that we're looking at a single trade pea color.
+1:07:37
+Andrew Ippolito: Okay, if that made sense to you, these principles here can now just be used to come up with everything else in that chapter.
+1:07:45
+Andrew Ippolito: there's no new concepts really.
+1:07:50
+Andrew Ippolito: Alright, so the second, the second set of experiments, he did was he asked this question.
+1:07:56
+Andrew Ippolito: what's the relationship between different traits different phenotypes and other words, is there a special relationship between dominant factors and recessive factors.
+1:08:08
+Andrew Ippolito: Right, and so what what he did was he established true breeding plants.
+1:08:14
+Andrew Ippolito: that were true breeding for to treat at the same time right so let's just keep this in mind here's another impart a little insight that I didn't necessarily have when I was first learning this that'll give to you.
+1:08:24
+Andrew Ippolito: So this yellow pea plant imagine the female plant that he actually grow right, so we got this plant.
+1:08:31
+Andrew Ippolito: And it has you know branches on it and it's got flowers and it has piece that it gives off those peas, you know when when you pull out the piece or yellow.
+1:08:42
+Andrew Ippolito: But this plant here, maybe it's tall, maybe it's short maybe it's flowers or purple maybe the flower right there's all those other traits.
+1:08:50
+Andrew Ippolito: And there's no rhyme and reason to what's there there's no they're not true breeding for every tree right there he just picked people in color i'm sorry he just pea color there.
+1:09:01
+Andrew Ippolito: that's an important consideration keep in mind when you're thinking about your eye color while there's all the other traits you have to.
+1:09:06
+Andrew Ippolito: write so so an important concept here as a student of genetics is you, the researcher the student the thinker, you are thinking about one treat within a sea of trades you can't keep you have to keep that in mind.
+1:09:21
+Andrew Ippolito: So what he did was he established a true breeding plan that was always so so he established that tall is dominant over short alright so let's zoom back in now, so we can write in normal normal not here so tall and short capital T.
+1:09:40
+Andrew Ippolito: Capital T tall. Andrew Ippolito: lowercase T shirt.
+1:09:48
+Andrew Ippolito: So I could sit here and map out, you know you have your true breathing crossed like this there's your F1 that gives rise to the 321 left to right parental F1 F2 same same exact thing is just tease instead of wise.
+1:10:07
+Andrew Ippolito: Alright, so now now we're going to show you what it looks like when you have both at the same time, this is how you would write these out.
+1:10:15
+Andrew Ippolito: So the homozygous dominant for both treats capital y capitalized so you put those letters together and then capital T capital T and that right there, that is, the genome type.
+1:10:29
+Andrew Ippolito: So you would say that that's you know that's the mom so that is a tall.
+1:10:35
+Andrew Ippolito: yellow plant I just cartoony like that. Andrew Ippolito: crossed.
+1:10:42
+Andrew Ippolito: With a green. Andrew Ippolito: Short plan.
+1:10:51
+Andrew Ippolito: Right. Andrew Ippolito: So if I allowed if I allowed this plant to self pollinate I would always get tall yellow and if I allowed this plant, the self pollinate I would always get short green that's how we establish their true breeding right, so he did that for several generations.
+1:11:08
+Andrew Ippolito: sort of weeded out any other weirdos. Andrew Ippolito: no pun intended weeding growing plants okay.
+1:11:16
+Andrew Ippolito: So, once we establish this. Andrew Ippolito: Okay, so let's just not again every single cross he did here right he did that reciprocal cross off the female was the tall yellow in this cross he had a separate cross where the where the mail was the toilet.
+1:11:33
+Right. Andrew Ippolito: Okay here's where you're going to make your mistakes now so pay careful attention the guy means it's all about the gathering information, this is the skill that students mess up the most Okay, the trick here is to understand that there are two sets there.
+1:11:54
+Andrew Ippolito: And remember the first law for every trait there is one factor one factor for each trade there's two traits here, so the gametes are going to have two factors, one for each trade there's going to be a capital y and the capital T that's the gametes gino type.
+1:12:13
+Andrew Ippolito: And that's the skill, you need to develop ganymede gino type.
+1:12:27
+Andrew Ippolito: Right. Andrew Ippolito: So the square here how many squares and my dry.
+1:12:35
+Andrew Ippolito: One or four. or.
+1:12:40
+Andrew Ippolito: that's the mistake. Andrew Ippolito: that's the mistake, a lot of you're going to make when you do this out for the first time you're going to want to do this ready, I want to draw this the way the student who's learning, this would do it incorrectly you're going to do this.
+1:12:59
+Andrew Ippolito: Do you see who I think of the offspring here.
+1:13:04
+Andrew Ippolito: Like what's this. Andrew Ippolito: Right right, so this this is this doesn't exist in nature, where this is just what you're doing here is basically a it's like writing the wrong formula in a physics question right there's no correlation to the real world about this let's just undo all this and watch this.
+1:13:24
+Andrew Ippolito: Okay, this becomes the thing on the top and this becomes the thing on the side right, so what what the column headers are when you write a public square it's the gamma gino type it's not a ladder.
+1:13:40
+Andrew Ippolito: Okay, and if you want circle these things, so you can see one thing there right there's still one thing it's just complicated.
+1:13:50
+Andrew Ippolito: And so to felt upon a square you consider each letter individually one, at a time so i'm going to see at the top here, this is what my brain is doing, I see a capital y.
+1:14:00
+Andrew Ippolito: And I see that lower case, why, and so I right capital y lowercase y and then my brain next sees capital boy that's really not a color I should be using here capital T lowercase T and so all right capital T lowercase T.
+1:14:18
+Andrew Ippolito: But that's how my brain see.
+1:14:23
+Andrew Ippolito: When I just erased an appropriate amount of information here.
+1:14:32
+Andrew Ippolito: Okay, so you would say 100% of the F1 right that's the F1 in there.
+1:14:37
+Andrew Ippolito: All right, what color is that, as a phenotype.
+1:14:47
+Julia Lakchin: yo yo. Andrew Ippolito: and hopes, but hey look at me that should be lowercase T.
+1:14:55
+Andrew Ippolito: Right and, by the way, when we do this, sometimes i'm writing fast, if you see me write a mistake call me on it please right, I will occasionally do that and I don't mean to and i'm going to teach you wrong, and so I luckily I caught that but.
+1:15:11
+Andrew Ippolito: Okay, so what's the phenotype there that I just circled. Taylor Campbell: Oh good.
+1:15:17
+Andrew Ippolito: Right, so, in other words. Andrew Ippolito: Just like. Andrew Ippolito: Just like doing the single trade so far, so good right everything's making sense there's no short greens and Paul yellows and short yells and Todd it's just all what Mendel would have predicted based on his model Okay, and now here's where.
+1:15:36
+Andrew Ippolito: we're going to do this, one time this is kind of a, this is an initiation into genetics everybody's got to do this, at least once this is called a die hybrid cross.
+1:15:51
+Andrew Ippolito: And what you're going to see here as complex as it is, this is what we always see in nature from Indian treats watch this so we're going to do so here's the cross.
+1:16:03
+Andrew Ippolito: By the way, in the book or in my powerpoints the t's might have been first and then the yellows I don't remember the order of this doesn't matter, what matters is within the given tree.
+1:16:13
+Andrew Ippolito: Let me, let me look at my PowerPoint let me draw this so that.
+1:16:20
+Andrew Ippolito: So when you look at the when you look at the. Andrew Ippolito: you compare notes.
+1:16:29
+Andrew Ippolito: Okay, I did I did it this way, so we're just going to do that cross to itself.
+1:16:35
+Andrew Ippolito: And now here's here's the skill, this is what we've been building this up to us like.
+1:16:40
+Andrew Ippolito: Close gametes so here's My first question to you how many distinct gametes can be formed.
+1:16:52
+Andrew Ippolito: With the genome. Andrew Ippolito: Type capital, while okies whitechapel historic easy. Sami Jordan: To do.
+1:16:59
+Andrew Ippolito: Okay here to. Andrew Ippolito: Anyone I see for OK for is the correct answer now, do you guys remember doing this in math class.
+1:17:12
+Andrew Ippolito: Actually let's do. Andrew Ippolito: Number factoring.
+1:17:20
+Andrew Ippolito: Like yes, and please don't ever say that word again. Andrew Ippolito: Okay ready Do you remember this.
+1:17:27
+Andrew Ippolito: Number the foil method is kind of fun right first outside inside last just do that ready here i'll use color markers first would be these two okay so you're just think think of it mathematically.
+1:17:42
+Andrew Ippolito: i'm just just to relate it to the foil you know it's like that.
+1:17:49
+Andrew Ippolito: that's not actually what's going on but, but so you like first outside inside I know gosh outside outside.
+1:18:02
+Andrew Ippolito: Inside let's see, let me just do all that mess. Andrew Ippolito: So this is how you would write it.
+1:18:08
+Andrew Ippolito: Okay, first, so the first gamma it would look like this capital I capital T.
+1:18:13
+Andrew Ippolito: All right outside that would be the yellow here capital y lowercase T.
+1:18:22
+Andrew Ippolito: inside. Andrew Ippolito: That would be lowercase oh boy lowercase capital T.
+1:18:31
+Andrew Ippolito: And then last which i'll just use white here lowercase y lowercase.
+1:18:39
+Andrew Ippolito: Okay, and i'm not going to redraw that for the second what's the scene.
+1:18:46
+Andrew Ippolito: here's how you draw upon a square. Andrew Ippolito: And i'll use actually get my ruler out for this, so this is gonna be a bunch of lines here.
+1:18:55
+Alexa Deprisco: Excuse me, yes, is the third phenotype there the whites he shouldn't be T Y or is that, just like.
+1:19:03
+Andrew Ippolito: So notice that I always put the wife first and I OK, so that I understand why you ask that question to you, you told us capital letters first.
+1:19:11
+Andrew Ippolito: Right, so the reason why that's a violation of seeming violation that rule is capital risk first for a given factor pair.
+1:19:20
+Andrew Ippolito: Okay, so it's there's kind of a hierarchy here the letters always have to be in the same positions, the wiser always hear the teaser always here and then within those the capital letters than the lowercase letters.
+1:19:32
+Andrew Ippolito: So it's almost like there's an order of operations here to just like Pam deaths number, please excuse my dear aunt Sally or how did what did you guys, do you guys know that differently, they still use that same acronym this number PEM DAS.
+1:19:47
+Andrew Ippolito: Right parentheses exponents multiplication division addition subtraction, what do you guys, what do you guys say out loud when you're learned that when your kids now, we learned, please excuse my dear aunt Sally.
+1:19:59
+Taylor Campbell: I use that to, and then they changed it to like penn dot.
+1:20:05
+Andrew Ippolito: What. Andrew Ippolito: I heard pen dot like the Pennsylvania department transportation.
+1:20:10
+Taylor Campbell: it's like a Panda yeah. Taylor Campbell: Something like that yeah Panda.
+1:20:16
+Andrew Ippolito: Panda but there's no so they get rid of subtraction. Taylor Campbell: It was just different they changed everything and I don't use that it's just.
+1:20:26
+Taylor Campbell: A simplified it in a way. Andrew Ippolito: Oh, they crushed, or they probably have addition subtraction is one thing and multiple.
+1:20:32
+Andrew Ippolito: Operations yeah yeah okay. Taylor Campbell: And they. Oh wow.
+1:20:39
+Andrew Ippolito: everything's changed, I feel so old. Andrew Ippolito: My kids are learning math anymore, they just learned how to use a calculator they're still learning math just kidding.
+1:20:51
+Andrew Ippolito: All right, ready, here we go here's how you do this. Andrew Ippolito: Actually let's even so is that 1234 i'll even use like these inch markers.
+1:21:09
+Andrew Ippolito: There we go. Andrew Ippolito: And then i'm going to just kind of eyeball the rest of this so here's here's how you draw the top of it ready capital I capital CCL that's one slot capital a capital T capital why lowercase T lowercase y capital T lowercase a lowercase T.
+1:21:28
+Andrew Ippolito: I don't want to get rid of the circle now. Andrew Ippolito: And then, because we're doing exactly the same.
+1:21:38
+Andrew Ippolito: Capital I capital T capital a lowercase T lowercase y capital T lowercase y Laura keeps.
+1:21:58
+Andrew Ippolito: Practice your street line drawn.
+1:22:04
+Andrew Ippolito: The differences that first, is that the key there is you start your peers, for your arm, you have your pivot point is your elbow.
+1:22:14
+Andrew Ippolito: And you can draw right it's an art lessons, you can draw a nice straight line pivot point to your elbow ankle fast.
+1:22:20
+Andrew Ippolito: selections you map it out, once you put your pencil where you want to start the line and then without drawing anything you travel along where you want to end the line.
+1:22:29
+Andrew Ippolito: Right, and so you establish that and then you finally make the mark right, so you go like that it's it's a skill that's good for public squares.
+1:22:43
+Andrew Ippolito: Now we follow the rules we consider these, and we consider these we see, we would say this so i'm not going to write this out let's just fast forward so what I usually traditionally do is I make everybody write this out, but let's just skip out here.
+1:22:55
+Andrew Ippolito: Alright, so I would say capital I capital I capital D capital T capital a capital a capital T lowercase T.
+1:23:03
+Andrew Ippolito: Right capital y lowercase y capital T. Andrew Ippolito: Capital a lowercase capital lowercase.
+1:23:11
+Andrew Ippolito: and so on and so forth right so go ahead, if you want to fill that out, but I want to i'm just going to steal.
+1:23:19
+Andrew Ippolito: The one I I wrote over here in PowerPoint. Andrew Ippolito: Here it is.
+1:23:24
+Andrew Ippolito: In the interest of time, I want to teach you the important stuff here here's what we would do here's how we're going to see this let's think about the phenotypes let's think about what we would call them we would say yellow.
+1:23:38
+Andrew Ippolito: tall. Andrew Ippolito: Or we would say yellow.
+1:23:43
+Andrew Ippolito: short. Andrew Ippolito: Or we would say green.
+1:23:48
+Andrew Ippolito: tall. Andrew Ippolito: Or we would say green short right.
+1:23:56
+Andrew Ippolito: Those are the possibilities so here's the question Mendel asked.
+1:24:01
+Andrew Ippolito: Do dominant factors. Andrew Ippolito: stick together.
+1:24:09
+Andrew Ippolito: or do they sort independently. Andrew Ippolito: If they stuck together.
+1:24:17
+Andrew Ippolito: Which to phenotypes would he only see. Taylor Campbell: High yellow.
+1:24:23
+and Taylor Campbell: Green short. Andrew Ippolito: Almost so tall yellow what would be the opposite of tall yellow.
+1:24:37
+Taylor Campbell: yellow short. Good. Sami Jordan: No. Andrew Ippolito: No, not so I spoke too soon.
+1:24:42
+Taylor Campbell: Green shirt. Andrew Ippolito: The opposite right. Andrew Ippolito: So you're calling yellow or your short angry.
+1:24:47
+Andrew Ippolito: Just like mom and dad right back in the p generation. Andrew Ippolito: Okay, if the treats stuck together, we would only see those two in a three to one ratio.
+1:25:00
+Andrew Ippolito: However, if the capital wise and the lowercase wise and the capital, a lowercase us were able to assert independently, we would see all four of them, and not just that there would be a specific mathematical ratio.
+1:25:15
+Andrew Ippolito: And so here's where we can establish that watch this if we take so here, you call it out for me tell me the phenotype.
+1:25:26
+Taylor Campbell: Oh yeah. Okay. Andrew Ippolito: right here, let me use a different color this.
+1:25:32
+Andrew Ippolito: So I can i'll do both the highlighting and the drawing here. Andrew Ippolito: Okay, so we said right ty yellow that's one for that how about this one.
+1:25:46
+Julia Lakchin: Oh yeah. Julia Lakchin: Oh yeah.
+1:25:54
+For sure very. Sami Jordan: Short grain.
+1:26:06
+Sami Jordan: Talking. Sami Jordan: or.
+1:26:13
+Andrew Ippolito: Short yellow.
+1:26:18
+Taylor Campbell: yellow. Taylor Campbell: yellow.
+1:26:28
+Taylor Campbell: tall. Taylor Campbell: tall yellow.
+1:26:37
+Andrew Ippolito: Yes, but that's not supposed to be there. April Neeld: I was gonna say that squares.
+1:26:43
+April Neeld: yeah. Andrew Ippolito: This Oh, this is me typing it a long time ago I OK so here let's.
+1:26:55
+Andrew Ippolito: But the idea here is i'm not just quickly.
+1:27:01
+Andrew Ippolito: If I did this, if I filled all this out, we would get. Andrew Ippolito: We would get nine.
+1:27:08
+Andrew Ippolito: yellow towels. Andrew Ippolito: We would get three yellow shorts and three Green towels and all the word CDs remember the phrase recombinant phenotype that I introduced to you last time.
+1:27:21
+Andrew Ippolito: To see how those are recombinant right there yellow like mom but short like dad or their green like dad and tall like mom Okay, so we would call these to hear those are the recombinant you know types Mendel didn't use that word that came later.
+1:27:42
+Andrew Ippolito: And you see how we go ahead alyssa. Andrew Ippolito: Like a recombinant phenotype would be like one dominant and recessive food scene, not necessarily it would be one from mom and one from debt so so recombinant means the offspring has.
+1:27:56
+Andrew Ippolito: A combination of the traits from both parents.
+1:28:02
+Andrew Ippolito: Okay, because the opposite of that so so the yellow tall is just like mom right and the short green here there's only one of those is just like that we would call these two the parental phenotypes.
+1:28:19
+Andrew Ippolito: Okay, in other words offspring that are exactly like either parent would be perennials.
+1:28:26
+Andrew Ippolito: And offspring that have a blending of the two or a combination of the two would be recombinant phenotypes and the magic ratio here is 9232321.
+1:28:38
+Andrew Ippolito: And as complicated as that is it's always the same whenever you take two traits that are both men dalian simple dominant recessive pattern tools.
+1:28:49
+Andrew Ippolito: And you have true breeding of each you will always get 9232321 This is something I want you to burden to your head and remember forever.
+1:28:56
+Andrew Ippolito: This is one of the things you can brag brag about a party, you can see, this ready to say you say it out loud the phenotypic ratio of a di hybrid crosses 9232321.
+1:29:06
+Andrew Ippolito: that's how you lose friends at parties.
+1:29:13
+Andrew Ippolito: But be able like burn that in the phenotypic ratio of a die hybrid cross 932321 and here's why you have to burn it in if we ever do a cross.
+1:29:31
+Andrew Ippolito: And we don't get 93 2321 that means we've learned something new.
+1:29:39
+Andrew Ippolito: Okay, so this experiment here mendel's investigation into the relationship between two sets of factors this led to his second law.
+1:29:51
+Andrew Ippolito: And this is a law that you've already learned about when you did meiosis This is called the law.
+1:29:58
+Andrew Ippolito: of independent assortment.
+1:30:05
+Andrew Ippolito: I see a chat message here. Andrew Ippolito: Jordan says, are there worksheets that we could print out to practice yeah yeah if you go to the practice area of the textbook there should be a whole bunch of this if you go to Khan academy you guys know Khan Academy.
+1:30:23
+Andrew Ippolito: And you go to the genetic session is purely an infinite number of practice problems there.
+1:30:33
+Andrew Ippolito: yeah there's the back of the chapter has practice problems your homework has practice problems okay yeah your homework should have plenty of practice problems.
+1:30:43
+Andrew Ippolito: I can just make our practice problems to if you need any extras I mean they're. Andrew Ippolito: they're pretty straightforward.
+1:30:50
+Andrew Ippolito: Okay, but I, I encourage you guys you this is this is like a math thing now right, so this is a skill set you want to you want to study this through doing the problems by practicing.
+1:31:04
+Andrew Ippolito: In Khan academy should have a whole whole sets of them. Andrew Ippolito: Just Be careful don't start doing this can get pretty advanced there could be some really advanced thing, so all questions that you come across will have something called an illegal key the illegal key will give you the rules, you know it'll say you know why capital y equals yellow.
+1:31:28
+Andrew Ippolito: lowercase y equals green and then the question itself will tell you that yellow is dominant the green or something like that the key is this like an algebra you solve for X, the only way, you can solve for X in in math is what what has to be true to solve for X actually get an answer.
+1:31:49
+Andrew Ippolito: Think about the strategies in your early math classes, if you if you have a question like.
+1:32:00
+Andrew Ippolito: And I said solve for X. Andrew Ippolito: there's only one way, you can solve for X and what's that.
+1:32:09
+Andrew Ippolito: What do you have to know in order to solve for X. Danuta Despagne: You subtract seven to the other side actually.
+1:32:15
+Andrew Ippolito: Okay, but. Andrew Ippolito: But more I see I put two other variables in there. Andrew Ippolito: I put the y and Z. Julia Lakchin: You have to know the other two variables.
+1:32:22
+Andrew Ippolito: Exactly exactly. Andrew Ippolito: Julia. Andrew Ippolito: You have to know everything except one thing that's, the only way, you can solve problems for a single variable you have to know all the other variables let's all remember when we learned about how science experiment or setup you change one variable.
+1:32:36
+Andrew Ippolito: Right, so you have this the set of knowns and then you have the one unknown and so every genetics problem that is thrown at you.
+1:32:45
+Andrew Ippolito: One of the things will be missing so here let's just play with the idea of this simple yellow and green right so imagine.
+1:32:52
+Andrew Ippolito: We didn't know up front that yellow was dominant the Green and I just said, I have a pure breeding yellow plant and a pure breeding green plant and I do.
+1:33:01
+Andrew Ippolito: A Mano hybrid cross, and I see that the the phenotypic ratio is 321 where there's three Greens for every one yellow, which is the dominant trait.
+1:33:15
+Andrew Ippolito: You can immediately tell me the answer that hopefully. Julia Lakchin: Green is. Good. Andrew Ippolito: Okay.
+1:33:20
+Andrew Ippolito: So, whereas you can see, I, so I can take that whole scenario, and I can say, instead, I can say.
+1:33:26
+Andrew Ippolito: yellow is dominant to green, what would the phenotypic ratio be if I crossed a header was like it was a homozygous recessive.
+1:33:37
+Andrew Ippolito: yeah okay wait heterozygous crossed with a homozygous recessive what's the phenotypic ratio there, while seo upon a square would look like this, I here we go like on a score look like this right.
+1:33:50
+Andrew Ippolito: And so I will see capital in there okay spoiler so the phenotypic ratio is 50.
+1:33:57
+Andrew Ippolito: Right, so you can just make up your own problems right do a do all the crosses to do you know this cross.
+1:34:07
+Andrew Ippolito: Do this cross. Andrew Ippolito: Maybe do.
+1:34:14
+Andrew Ippolito: Are you do this cross right just mix and match homozygous dominant to homozygous domino homozygous dominant heterozygous just play around with it, you know and do diverts maybe, do you know, so I could say there is a P plant that is pure breeding free yellow.
+1:34:32
+Andrew Ippolito: actually here i'll teach you this is the next thing anyway it's called the test cross.
+1:34:38
+Andrew Ippolito: ready i'm going to set up a scenario for you you're gonna like this, and this is the last 10 minutes of class you guys are all tired anyway let's say that we were going into business together and we wanted to sell green pea plans i'm sorry we wanted to sell Greenpeace.
+1:34:51
+Andrew Ippolito: right that you know the all the ball peas are green right. Andrew Ippolito: So so let's let's not sell Greenpeace, because we need, we need a differentiator for business right so let's say yellow piece let's let's grow in can yellow piece so in order to do that, we need yellow people as rate and, ideally, we want true rating llp plans we don't want.
+1:35:14
+Andrew Ippolito: heterozygous yellow people ask us sometimes they'll give us green that we throw them away that's a waste.
+1:35:20
+Andrew Ippolito: You guys with me still making sense Okay, so we go on craigslist and when you look around and we see that there's some some guy who's selling.
+1:35:31
+Andrew Ippolito: Pure breeding yellow pea plants guaranteed $5. Andrew Ippolito: And so we reach out to him we meet him in a while, while parking lot he POPs his trunk.
+1:35:40
+Andrew Ippolito: And he shows you his array of plants and he gives you one and he's right here, he gives you five of them, and you say here's here, these are definitely true breeding players.
+1:35:50
+Andrew Ippolito: yellow pea plans alright see you later he did take some money and go you go home and you start thinking about it you're like wait a second.
+1:35:57
+Andrew Ippolito: Do you know for sure that this top sorry forget the height of it just this yellow plant here do we know if this is true breeding like you said it was it's guaranteed he said it was guaranteed.
+1:36:13
+Andrew Ippolito: Why don't, we know that.
+1:36:25
+Andrew Ippolito: Why don't we know for sure that that's a true reading plan. Sami Jordan: there's no way to tell.
+1:36:31
+Andrew Ippolito: But it's yellow and he said it was.
+1:36:37
+displaying the dominant traits so it could have like recessive traits. Andrew Ippolito: Good that's the correct answer, but the joke answer is you bought it on craigslist.
+1:36:50
+Andrew Ippolito: don't trust anybody on the Internet. Andrew Ippolito: You probably still your credit card, while you're giving them as cash.
+1:36:58
+Andrew Ippolito: All right, well that's right we this could be like he said homozygous dominant, but it could also be this right.
+1:37:09
+Andrew Ippolito: We don't know so here's, so this is what we're about to do this is called the test cross a test Cross is when we have a dominant phenotype but we don't know the genome.
+1:37:21
+Andrew Ippolito: And so we can test it. Andrew Ippolito: How would we test it what will be crossed this width.
+1:37:33
+Andrew Ippolito: What would be the easiest most cost efficient method to test this P plan to ask the question if its dominant or hybrid homozygous or hybrid.
+1:37:51
+Andrew Ippolito: right here, this question is the perfect critical thinking question.
+1:37:57
+Andrew Ippolito: Logic your way to the answer. Julia Lakchin: Would you cross it with an uppercase lowercase why.
+1:38:05
+Andrew Ippolito: And why would you choose that. Andrew Ippolito: what's the phenotype of that plant.
+1:38:11
+Julia Lakchin: tall yellow. Andrew Ippolito: Yes, so we have a tall yellow cross with a tall yellow there's possibilities there that the interpreting the offspring, are going to be complex right.
+1:38:22
+Andrew Ippolito: So. Andrew Ippolito: You could do that but there's a much. Andrew Ippolito: More efficient way.
+1:38:28
+Andrew Ippolito: What would be an even better across.
+1:38:36
+Andrew Ippolito: Remember the the rule and algebra right you want to solve for something you have to know everything else.
+1:38:43
+Andrew Ippolito: what's the only kind of plant, you know everything about you know type of phenotype. Zachary Lucas: Was you just do a cream one.
+1:38:49
+Andrew Ippolito: seconds that. Zachary Lucas: Just easily cream. Andrew Ippolito: One good excellent a green one why because the only why sorry, the only.
+1:39:01
+Andrew Ippolito: I just got totally distracted by my stupid pun, why. Andrew Ippolito: that's the only genotype phenotype that makes sense right if I show you a green pea plan you know it's you know type.
+1:39:14
+Andrew Ippolito: You don't have to do any experiments on it it's a known, so you cross the unknown, whether or not so that's the concept of test cross whenever you see the word test cross cross it with homozygous recessive.
+1:39:24
+Andrew Ippolito: In this case, green right if we're talking about Brown and black dogs and black is dominant and recessive then we're talking about a Brown.
+1:39:31
+Andrew Ippolito: it's the recessive because you know it's you know so watch this what's the genome type of the first one, what we know because it's yellow we know it has to have at least a capital y right.
+1:39:42
+Andrew Ippolito: We don't know what the second Lila and so we're going to cross that with something we know everything about that's the test cross.
+1:39:51
+Andrew Ippolito: And so you can map this out like this right that question mark that could be either a capital y so let's do this, it could either be a capital Y or it could be a lowercase y right, those are those are that's it those are the options, so if we crossed this plant.
+1:40:09
+Andrew Ippolito: With unknown let's look at the gametes here. Andrew Ippolito: hey the gametes are either capital Y or I don't know right 5050.
+1:40:20
+Andrew Ippolito: This one always gives us the lowercase. Andrew Ippolito: And when I met this planet square at you're going to see the power of the the test cross here watch this.
+1:40:30
+Andrew Ippolito: it's a rectangle where this is always a lowercase y it's just one it's just one row Okay, and so this now.
+1:40:40
+Andrew Ippolito: let's do let's just let's. Andrew Ippolito: run this scenario, like this oh.
+1:40:48
+Andrew Ippolito: Okay it's either that. Andrew Ippolito: Or is that right so possibility one this is always going to be that's right.
+1:40:58
+Andrew Ippolito: And possibility to we got a capital y. Andrew Ippolito: And that lowercase y so if the original plan you were sold turned out to be homozygous dominant.
+1:41:13
+Andrew Ippolito: And these were our offspring what's the phenotypic ratio there.
+1:41:26
+Andrew Ippolito: So here i'll visually simplify this for you so forget that let's see this was let's see this was the truth.
+1:41:32
+Andrew Ippolito: Right, what are the offspring look like. Andrew Ippolito: 100% yellow right.
+1:41:39
+Andrew Ippolito: Right, this is yellow and this is yellow so again, if you so let's retroactively say Okay, so they did sell us a homozygous dominant.
+1:41:48
+Andrew Ippolito: And we crossed that with a homozygous recessive well that's mendel's first tree that's it that's the p going to the F1 that's where you have the hundred percent yellow.
+1:41:56
+Andrew Ippolito: Right, but now let's say instead it was lowercase y.
+1:42:02
+Andrew Ippolito: Now. Andrew Ippolito: we're going to see oops.
+1:42:09
+Andrew Ippolito: So now we're going to see this right for you, we got a lowercase y here and we got a lowercase y there so we're going to see green.
+1:42:17
+Andrew Ippolito: 50% yellow 50% green. Andrew Ippolito: So we're going to see a one to one ratio.
+1:42:26
+Andrew Ippolito: And it's either one or the other right, so you got that yellow plant from the guy at wow and you have at home, a green pea plan you cross them you look at 10 to 20 peas they're all yellow.
+1:42:42
+Andrew Ippolito: You know you got a true breeding plant or half of them are green and half of them are yellow you know you got a hybrid.
+1:42:50
+Andrew Ippolito: Now the question that sometimes gets followed up here with students as well. Andrew Ippolito: How many piece, do you have to count in order to establish that is it just one or two or three that answer that's the statistics question go ask a mathematician I don't have a good answer.
+1:43:06
+Andrew Ippolito: i've been told by statisticians that for something simple like this the number 23 is the magic number to get that probability up to that your P value of 9.99.
+1:43:18
+Andrew Ippolito: Right, the gold standard is you know your P equals point nine five that just means the probability.
+1:43:24
+Andrew Ippolito: right when it was statistics here basically says what are the chances that what we're looking at are due to chance alone.
+1:43:31
+Andrew Ippolito: Or what are the chances that we're actually seeing a real effect, and what that P value does is it gives us a confidence score.
+1:43:39
+Andrew Ippolito: So point nine five tells us that there's a 95% chance that what we're looking at is not due to chance right and some so it really for some things you want to value of 99.
+1:43:51
+Andrew Ippolito: Especially if it's a high stakes 5% chances happen, let me 5%.
+1:43:59
+Andrew Ippolito: Okay, all right so that's the test cross now the PowerPoint while through the PowerPoint and you're studying.
+1:44:05
+Andrew Ippolito: Okay, so what I would say is you know outline your chapter do the practice problems but go back to the PowerPoint PowerPoint has a whole bunch of good stuff in it that that's you know that I basically narrated.
+1:44:16
+Andrew Ippolito: You don't have to worry about the die hybrid test cross Okay, or rather a test cross with two traits and then we're going to make you do that.
+1:44:26
+Andrew Ippolito: Okay. Andrew Ippolito: But that's so that's simple men Delia and inheritance.
+1:44:33
+Andrew Ippolito: And we yeah good so we're right on schedule that's where I wanted to start and finish mental today and I did that so and it's one oh to the tech they finish two minutes ago, so i'm on track.
+1:44:48
+Andrew Ippolito: Okay, so feel free to bug me on zoom so you guys are going to be doing these questions and you're going to hit a wall with something.
+1:44:54
+Andrew Ippolito: If you hit that wall show me a question I wanted i'll get you over the wall very I could probably give you one or two sentences and how you're thinking, but definitely get good at this and I promise you, your quizzes will have practice problems in it.
+1:45:07
+Andrew Ippolito: Okay. Taylor Campbell: Okay, thank you. Andrew Ippolito: you're welcome sealer class dismissed, excuse me.
+1:45:13
+Alexa Deprisco: How much of the history aspect of this are we going to have to worry about. Andrew Ippolito: Understand blending theory understand.
+1:45:23
+Andrew Ippolito: You understand the difference between blending theory in particular that's the biggest part of the history okay.
+1:45:28
+Alexa Deprisco: cuz like I remember in the the dynamic study module it was like did Darwin like talk about this, and it was like he never even read his work, so it was like wait.
+1:45:39
+Andrew Ippolito: yeah yes it's kind of amazing that you had to contemporaries separated by a few hundred miles and they never they never touched base.
+1:45:49
+Andrew Ippolito: yeah that's that kind of I mean Darwin was like a social recluse and he was really scared most of his adult life, he was really, really.
+1:45:58
+Andrew Ippolito: He knew what he was publishing he knew he was turning the world of religion upside down and he was terrified at that he.
+1:46:04
+Andrew Ippolito: After he published his book he never left home again and actually which is nice I actually visited his his house when I went to England, a couple years a long time ago, back in 2010 it was like going to Mecca it was like a biologists religious experience.
+1:46:19
+Andrew Ippolito: He lived on a compound basically huge house farmland, he had lots of kids he and his friends always came and he was famous so he had people coming to him all the time, but he never left his house, because he knew.
+1:46:31
+Andrew Ippolito: That there were a lot of people that hated him after that yeah. Andrew Ippolito: More people accepted his theory at the turn of last century than they do today in America.
+1:46:42
+Andrew Ippolito: But that might have changed that might have changed we're we're moving the Needle, finally, but I remember a couple years back, it was like.
+1:46:49
+Andrew Ippolito: A few fewer than 80% of people accepted evolution or 60 60% it was almost like 5050.
+1:46:57
+Start recording here.

@@ -1,0 +1,1860 @@
+0:01
+Andrew Ippolito: This is our last lecture on this is a Chapter II teen I believe chapter 18 gene regulation now this mutation section that we're going to talk about afterwards.
+0:12
+Andrew Ippolito: I believe that's on the tail end of Chapter 17 the way the book orders these things my story kind of like the way to photosynthesis with you guys a little out of water mutations are a little older.
+0:24
+Andrew Ippolito: I mean really I could have put the mutations at the end of Chapter 16 you know, by the time you understand the genetic code you're ready for that, but it's even better to understand mutations in the context of June regulation, so you can imagine the consequences.
+0:38
+Andrew Ippolito: Okay let's skip forward here, we talked about pro so the key here the key here is right, so we started out with gene expression.
+0:48
+Andrew Ippolito: Right, where we learned about the central dogma molecular biology, the DNA to the RNA to the protein right and then we're learned gene.
+1:00
+Andrew Ippolito: Gene regulation. Andrew Ippolito: The idea that we can control the stuff.
+1:09
+Andrew Ippolito: Within gene regulation there's pro periodic levels of control or there's pro chaotic control and there's eukaryotic control and because they've evolved differently, really, because the carriers got a lot more complicated than the prokaryotes they do tend to use.
+1:27
+Andrew Ippolito: Logistically fundamentally different mechanisms Okay, but when you step back and you look at it.
+1:33
+Andrew Ippolito: The philosophies are the same negative regulation positive regulation OK, so the biggest difference between these is whether or not the RNA polymerase.
+1:46
+Andrew Ippolito: is directly bind to DNA or not. Andrew Ippolito: is binding.
+1:53
+Andrew Ippolito: directly. Andrew Ippolito: To the promoter.
+1:59
+Andrew Ippolito: Right so here, this is the promoter region. Andrew Ippolito: of a gene promoter.
+2:05
+Andrew Ippolito: RNA polymerase is binding directly. Andrew Ippolito: Okay, also remember that precarious have a single RNA polymerase gene single RNA polymerase enzyme they have RNA polymerase so all the rnas in the cell are made by the same enzyme in the same basic way by to promoter activated.
+2:27
+Andrew Ippolito: eukaryotic genes are controlled by different RNA polymerase is there's RNA polymerase one RNA polymerase to.
+2:35
+Andrew Ippolito: An RNA polymerase three and i'm sure somebody by now has discovered another one or two or 18 just not aware of them at the moment.
+2:42
+Andrew Ippolito: The key here, the way to parse this information is each one of these controls, a different type of gene right so there's different kinds of jeans RNA polymerase to controls the coding genes, in other words the products of the polymer as a messenger RNA.
+3:01
+Andrew Ippolito: The products of the first one are ribosomal RNA. Andrew Ippolito: And the products of the third one or transfer RNA.
+3:10
+Andrew Ippolito: And I immediately called the question we're learning about all these other rnas with plumbers uses controls of those I don't have an answer for that.
+3:18
+Andrew Ippolito: Now I want an answer for that i'll get that later. Andrew Ippolito: Okay, the only one we're working with in this class is already published.
+3:27
+Andrew Ippolito: So I just want you to bring that into your head when you write this it's our na P to always to Roman numeral to just be happy was part of your lexicon of Microbiology.
+3:40
+Andrew Ippolito: And the key here is none of these neither of these any of these bind to DNA directly here's the promoter of it eukaryotic gene.
+3:51
+Andrew Ippolito: promoter and here's RNA polymerase to here let's put it here now there's the molecule already plumbers to it's not binding directly Instead, it has to be tethered to the DNA by what we call transcription factors.
+4:06
+Andrew Ippolito: Okay, and you can abbreviate those as T F tues. Andrew Ippolito: Roman numeral two because their transcription factors for plumbers.
+4:17
+Andrew Ippolito: And these transcription factors just are named after letters so there's tf to you know de.
+4:24
+Andrew Ippolito: You have to you don't have to know any of the details just understand there's a bunch of and collectively these transcription factors okay So these are like vanilla generic every gene and eukaryotes that is coding every gene uses these.
+4:41
+Andrew Ippolito: Okay, so we call these bazell. Andrew Ippolito: transcription factors.
+4:54
+Andrew Ippolito: Okay. Andrew Ippolito: They themselves. Andrew Ippolito: can be recruited to the promoter I would say, most of them don't necessarily even buying the DNA directly.
+5:09
+Andrew Ippolito: Instead, there are other proteins. Andrew Ippolito: That bind to DNA directly and the one we learned about binds to the sequence ta ta and we remember the name of that protein.
+5:27
+Andrew Ippolito: This it sounds funny. April Neeld: yeah.
+5:33
+April Neeld: yeah. Andrew Ippolito: Why not so the top top box is the actual site in the DNA, and the reason we call it a box is because when you write it ta ta.
+5:42
+Andrew Ippolito: You know we're talking about DNA right so it's double stranded, and so, when you're looking at this, on paper, this kind of looks like a box, so we call out the top box.
+5:53
+Andrew Ippolito: that's what we call a box. Andrew Ippolito: I never really thought about that, before until just now when I said that.
+6:03
+Andrew Ippolito: So, but same as the protein that binds to that top box.
+6:08
+Andrew Ippolito: it's an obvious name. Maybe.
+6:15
+Andrew Ippolito: Tata binding protein TV.
+6:20
+Angela Harbeck: Is the promoter. Andrew Ippolito: This. Andrew Ippolito: This sequence is found on about 50% of eukaryotic gene promoters.
+6:32
+Andrew Ippolito: So ttp controls. Andrew Ippolito: or regulates. Andrew Ippolito: About 50% of our genes, that the question, yes Angela.
+6:42
+Angela Harbeck: was asking if that was the thing that i'm attached to the title box.
+6:48
+Andrew Ippolito: CBP bond to the title box, so if this is the DNA, and this is the Tata box right here TV P binds there directly, so there is a direct interaction with DNA that's the key there.
+7:01
+Andrew Ippolito: Okay, it is a DNA binding proteins. Andrew Ippolito: And so, like this part of the protein I say, well, let me draw this a multi colors will be easier to say here's a DNA here's here's the promoter.
+7:15
+Andrew Ippolito: here's a promoter region and let's say that here tip or a robber i'm sorry here's here's the title the ta ta okay so TV P will bind.
+7:28
+Andrew Ippolito: Here, this is pvp. Andrew Ippolito: And tcp itself has to functional domains, it has a DNA binding domain.
+7:40
+Andrew Ippolito: What do I mean by domain. Andrew Ippolito: let's talk the lingo.
+7:49
+Andrew Ippolito: Everybody needs to know what this word means, because this is how we talk about proteins.
+7:55
+Andrew Ippolito: what's the domain.
+8:00
+Andrew Ippolito: alexa, what do you think. Andrew Ippolito: I know you're working it out loud I love, how you do that, I want to hear, I want to kind of hear your thought process.
+8:08
+Alexa Deprisco: I was thinking like an area or region, but then i'm like I feel like it's more specific it's like the site.
+8:13
+Andrew Ippolito: No, no, no, I. Andrew Ippolito: eat the air so like here, if this is the folded up three dimensional version of a protein and let's say that it's it's kind of got a complicated sheep to i'm drawing this picture, like a piece of clay sort of thing you know, like my the way I held my.
+8:27
+Andrew Ippolito: These things here I just don't want to deal with those right now let's see that this part of the protein okay i'm highlighting it in our head right now let's say that part of the protein binds the DNA.
+8:38
+Andrew Ippolito: So it's a discrete functional region of the protein that's what a domain is okay or hey how about this here's an easier way I think of it here's a here's the membrane of a cell.
+8:49
+Andrew Ippolito: And remember, we talked about proteins that go through the membrane right remember G protein couple of receptors okay so here this part of the protein that i'm highlighting an orange.
+9:01
+Andrew Ippolito: That would be the extracellular. Andrew Ippolito: don't me.
+9:09
+Andrew Ippolito: And then, this part in yellow would be the Trans membrane.
+9:18
+domain. Andrew Ippolito: And then the part in green would be the intracellular domain.
+9:29
+Andrew Ippolito: Okay now do you notice how those that protein right here, the one I just this, this is, you know technically it is seven spans and then it's a GP cr the G protein called receptor do you notice how if I took that amino acid chain and I linear is it.
+9:45
+Andrew Ippolito: I pulled it out into its primary sequence. Andrew Ippolito: You see how we would see probably something like this right.
+10:02
+Andrew Ippolito: This is actually. Andrew Ippolito: trickier to do than I thought.
+10:09
+Andrew Ippolito: But i'm doing it, and I hope, hopefully, you can see what i'm trying to do here.
+10:16
+Andrew Ippolito: let's see yellow, let me start, so what i'm doing is i'm saying okay there's this region, right here corresponds to this and then this yellow region corresponds here this Green region corresponds here this yellow region correspond yeah I missed the lower region there, right here.
+10:34
+Andrew Ippolito: Okay, so So the idea is is along the amino acid chain those domains of the protein don't match up they're not continuous early the word here here's an English word for you.
+10:45
+Andrew Ippolito: I teach all my classes this word at some point here's your turn contiguous.
+10:52
+Andrew Ippolito: Not continuous. Andrew Ippolito: Continuous continuity would be like hey did you see that last episode of Captain America winter soldier and did you like how like they talked about that one.
+11:07
+Andrew Ippolito: character from the other movie that did that thing there's like continuity in the story that's continuous it doesn't necessarily physical continuity.
+11:14
+Andrew Ippolito: contiguous is a word we use in physical terms okay contiguous means they're connected so, for example in adobe photoshop let's see that you had this landscape and adobe photoshop you have this beautiful picture of a tree and some clouds.
+11:35
+Andrew Ippolito: Okay, and let's say that you want to change the color of the clouds. Andrew Ippolito: Right so there's a tool in photoshop this little the magic wand select your tool and let's say that when you clicked on when you when you select to use that tool there's a little there's a little checkbox up at the top of the program that says come to you with selection.
+11:58
+Andrew Ippolito: Okay, if you check that off. Andrew Ippolito: Okay, and then I selected a cloud, you would see the dotted lines just appear around that cloud.
+12:09
+Andrew Ippolito: Because you clicked that clouds inside and because the tool was set to contiguous it's only going to take what's connected to it until it hits a boundary.
+12:19
+Andrew Ippolito: Okay, if I unchecked it right here's the secret here if I uncheck contiguous button and I click the cloud i'm going to select all the clouds even though they're not physically connected to each other.
+12:32
+Andrew Ippolito: So you would say ready now that you understand that concept let's look at think consider the extracellular domain of this protein this part here.
+12:40
+Andrew Ippolito: We would describe that as discontinuous. Andrew Ippolito: Do you see why.
+12:47
+Andrew Ippolito: Look at the primary sequence of the protein the domains, not all connected within the sequence itself there's chunks of it scattered throughout the primary sequence that only come together when you fold it up into 3D.
+13:01
+Andrew Ippolito: Right. Andrew Ippolito: In contrast, think of a simpler Jean like let's talk about let's pretend this this TV and TV P over here has.
+13:12
+Andrew Ippolito: This yellow domain and this orange to me and they're all continuous continuous Sir okay so let's call the orange part, this is a DNA binding domain.
+13:23
+Andrew Ippolito: And let's call this the activation domain.
+13:29
+Andrew Ippolito: Because that's the domain that binds to RNA polymerase to.
+13:36
+Andrew Ippolito: If I was to look at the sequence the amino acid sequence of TV up. Andrew Ippolito: I would see the DNA binding domain here and I see the activation domain here, and you would describe those as contiguous.
+13:50
+Andrew Ippolito: What you see, is what you get that's typical of any protein inside yourself the globular stuff the water soluble stuff the stuff that looks ball, like all transcription factors all.
+14:03
+Andrew Ippolito: steroid receptors all actin filaments off a month fermented proteins, the only time we see discontinuous domains is in the memory, which makes sense because you got a thread through it like that.
+14:15
+Okay. Andrew Ippolito: So. Andrew Ippolito: let's walk back here.
+14:21
+To TV just bring this over here now. Andrew Ippolito: we're dealing with the immune system over there over here okay.
+14:31
+Andrew Ippolito: So TV has this DNA binding domain.
+14:36
+Andrew Ippolito: And it has this activation domain. Andrew Ippolito: One of the things TV P, is going to do is recruit.
+14:45
+Andrew Ippolito: Things like tf to D and E and F and G and H, and eventually it's going to basically form a platform, upon which the RNA polymerase.
+14:57
+can buy. Andrew Ippolito: And this thing collectively this whole kit and caboodle is called the initiation complex.
+15:08
+Andrew Ippolito: You already learned this this is review from gene expression and the beginnings of transcription, this is all about transcription initiation but we're revisiting this because this also becomes pivotal in gene regulation this concept of forming what is called the pre initiation complex.
+15:27
+Andrew Ippolito: The pre initiation complex is just the transcription factors, without the RNA polymerase right so once plumbers shows up to the party get started, then we call it initiation that's the initiation complex before plumber he gets there we'll call that the pre party, the pre initiation complex.
+15:45
+OK. questions.
+15:54
+OK. Andrew Ippolito: So, now that you since we're here i'll teach you the first this this not the first level, but this level of gene regulation alright so let's let's take this again the simple idea here again let's get rid of TV p.
+16:08
+Andrew Ippolito: We don't really need to talk about the top top box necessarily.
+16:13
+Andrew Ippolito: What we're going to do here is we're going to use these colors i'm just going to want to use a generic color that doesn't mean anything here I just I just want you to see that there's there's different sequences in there.
+16:27
+Andrew Ippolito: Alright there's different words will call them. Andrew Ippolito: We can call these words it's not what I like to call these consensus sites.
+16:40
+Andrew Ippolito: hold on a second I gotta ask jack to turn the piano down.
+17:06
+Andrew Ippolito: I mean i'm like starting to wonder if the sounds coming I hear music but hold on.
+17:28
+Andrew Ippolito: piano playing is and he is really good actually he's given them both lessons, but I was getting completely distracted by that.
+17:37
+Andrew Ippolito: he's learning to play the zelda theme song.
+17:42
+Andrew Ippolito: All right, Danny we can consensus sites that here's the generic concept, there are words within the promoter region really there's words throughout DNA so we're gonna go we're actually going to talk somewhere way far far away over here we're going to talk about these regions over here.
+18:00
+Andrew Ippolito: And you probably already read about this in your book and your homework, these are called enhancer regions.
+18:08
+Andrew Ippolito: And enhancer enhances transcription we'll talk about those later, the point is is that there's words here Okay, so those consensus sites all over the genome.
+18:20
+Andrew Ippolito: Consensus sites are words that bind to proteins in a sequence specific manner and those proteins can do all sorts of things.
+18:27
+Andrew Ippolito: So this is just a generic concept, like the idea of a receptor by into a ligand and causing something to happen or an enzyme binding to a substrate we have proteins that bind to DNA.
+18:38
+Andrew Ippolito: And there's an entire I can teach an entire semester on just DNA binding proteins and what they do yeah so it's just it's a rabbit hole.
+18:45
+Andrew Ippolito: The ones we're going to talk about our transcription factors right now Okay, and so, just like we learned with the lock hop around there's two kinds okay let's say that there's a protein right here let's call it P rb here's a classic example what's called the tumor suppressor protein.
+19:07
+Andrew Ippolito: So i'm going to teach a little bit of the and I know I don't have a part in the study guide the the end of this chapter talks about cancer stuff, so this is.
+19:15
+Andrew Ippolito: A tumor suppressor protein is a protein that's normally involved in binding to a consensus site and the promoter and inhibiting transcription Julia.
+19:33
+Andrew Ippolito: yeah we could try that although there's.
+19:39
+Andrew Ippolito: Okay yeah I like that. Andrew Ippolito: is just a ground you and the topic.
+19:46
+Andrew Ippolito: Is not the idea, are you. Julia Lakchin: hey I just feel like when you just do whiteboard it's hard to follow cuz.
+19:52
+Julia Lakchin: You like go all over the place. Andrew Ippolito: Okay. Julia Lakchin: Okay. that's fair.
+19:58
+Andrew Ippolito: Alright, so let's start here what we're talking about right now is right here transcription control.
+20:04
+Andrew Ippolito: that's that's the world we're grounded right now. Andrew Ippolito: Okay, so let's get back here to the promoter.
+20:12
+Andrew Ippolito: All right, and i'll tell you what let's fast forward to. Andrew Ippolito: You can ignore this.
+20:19
+Andrew Ippolito: This was a lot that was last semester. Andrew Ippolito: i'm here.
+20:34
+Andrew Ippolito: Trying to see all right, I thought I had a slide there this one has okay.
+20:41
+Andrew Ippolito: So we're talking about what we can call specific transcription factors Okay, so there are some transcription factors that are specific to specific sets of genes so that's how you can associate these think of there's a gene set.
+20:58
+Andrew Ippolito: Gene sets so, for example as face jeans.
+21:04
+Andrew Ippolito: Right or my topic genes.
+21:11
+Andrew Ippolito: Think of anything cells do there's a set of genes associated with that right, think of in the immune system right there's a set of genes involved in the sidecar expression or antibodies.
+21:24
+Andrew Ippolito: Okay, and so there's a lot of gene says that only need to be turned on sometimes like SPS jeans that's a classic set of genes that we talked about and that's really what we're going to talk about now, when we use this example here.
+21:35
+Andrew Ippolito: Alright, so specific transcription factors are for genes that aren't always expressed, and they do something specific.
+21:43
+Andrew Ippolito: And when I said consensus site your book refers to as control elements.
+21:50
+Andrew Ippolito: Which is fine, too. Andrew Ippolito: Okay, the key is is, these are sequences of DNA that don't code for proteins right there's no code ons in here.
+22:01
+Andrew Ippolito: Instead they're binding sites for proteins.
+22:06
+Andrew Ippolito: Okay, and some of these control elements or consensus sites are right there in the promoter and some of them are far away, so you can think of them as proximal.
+22:19
+Andrew Ippolito: Meaning it's close by and distal or far away.
+22:25
+Andrew Ippolito: far away ones we tend to call enhancers.
+22:32
+Andrew Ippolito: And this last statement, this is my statement, and I will stand by this very firmly we don't really talk about proximal control elements they're part of the promoter.
+22:42
+Andrew Ippolito: Okay, so a eukaryotic promoter includes control elements within it.
+22:48
+Andrew Ippolito: it's even how i'm drawing them when I see how I drew it here right, so I describe this here as a promoter region, the light blue and then within the promoter there are binding sites.
+22:59
+Okay. Andrew Ippolito: So let's talk the specifics now, but I just drew here this this retina This is called the retinoblastoma protein.
+23:14
+Andrew Ippolito: This was the very first tumor suppressor discovered people who suffer from the cancer written on blessed doma tend to have a mutation and this gene.
+23:24
+Andrew Ippolito: The normal function of the gene is to pre create this repress or protein that binds to its binding site in the promoter.
+23:31
+Andrew Ippolito: And it acts like the Left repressed her in the sense that it prevents the bees will transcription machinery from gathering and forming so maybe you can think of it as it masks the top top bonnie binding site.
+23:45
+Andrew Ippolito: Okay you're just hiding it it's kind of like putting your hand over a flashlight.
+23:50
+Andrew Ippolito: or sitting in the chair somebody else wants to sit in. Andrew Ippolito: That seat that's the better analogy, excuse me, that was my co OPS in here now.
+23:59
+You kind of a trick that's my job. Andrew Ippolito: My job is prevent you from doing your job that's what prp does okay.
+24:10
+Andrew Ippolito: So let's say that the gene over here, this is the say this is the gene for DNA polymerase.
+24:19
+Andrew Ippolito: Open reading from that gives us the protein that makes DNA polymerase do you need plumbers alpha sure why not it's an svg.
+24:27
+Andrew Ippolito: Okay, so let's say that we want to wake the cell up and start replicating its DNA okay guys great growth factor start start doing your job well you guys remember silence and CD case.
+24:42
+Right. Andrew Ippolito: So here let's let's do some. Andrew Ippolito: So this will be Julia my apologies, this is going to look like it's all over the place, but this is all connected here's the outside of the cell.
+24:53
+Andrew Ippolito: here's a G protein couple receptor binding to a ligand activating a signal transduction cascade culminating the activation of a cycle independent kinase CD K two.
+25:07
+Andrew Ippolito: Okay. Andrew Ippolito: and Andrew Ippolito: One of the genes that gets turned on is the cycling DG which binds to CD key concern I have this complex the cycling, you have CD K to cycling D.
+25:21
+Andrew Ippolito: This acts as a kindness, what does it do it fast formerly the retinoblastoma protein.
+25:28
+Andrew Ippolito: And what that phosphorylation does is it kicks it off the promoter.
+25:34
+Andrew Ippolito: In the same way that as the lactose case three presser off except instead of being the inducer protein we're just phosphor lady we're changing its charge so that it just POPs off.
+25:46
+Okay. Andrew Ippolito: And so, once the retinoblastoma protein is removed from the promoter region it's now free to bind an activating protein.
+25:57
+Andrew Ippolito: And that one's called the two of.
+26:04
+Andrew Ippolito: You to F G stands for eukaryotic factor to it's a boring name, but what ETF is is a specific transcription factor that activates genes involved in SPS.
+26:17
+Andrew Ippolito: Okay. Andrew Ippolito: And it's also fast for later by cyclones so this phosphorylation of Ben brings it to the promoter.
+26:28
+Andrew Ippolito: raise your hand this is still making sense. Andrew Ippolito: Okay, good turns like.
+26:37
+Andrew Ippolito: alexa ask your question.
+26:45
+Alexa Deprisco: What where was the link between this and, like it being a tumor suppressor and how does the E, F like really battling cancer.
+26:54
+Andrew Ippolito: Okay that's a great question. Andrew Ippolito: So let's think about cancer is all about two things, making cells grow when they're not supposed to write go through mitosis when you're not supposed to and not dying when you're told to.
+27:08
+Andrew Ippolito: we're not talking about that side of it okay we're talking about the idea of taking a cell who's normally happy, just to be sitting there minding his own business, not dividing.
+27:16
+Andrew Ippolito: And you come along and tell us to start dividing okay when viruses infects themselves or uncle viruses will turn a cell into a basically a cancer cells called transformation, we transforming almost I went to a cancer so okay.
+27:31
+Andrew Ippolito: So one of the possible permutations so the mutation that occurs and people will run a blessed doma is the gene that makes rb remember arby's a protein right so there's a gene for it.
+27:41
+Andrew Ippolito: Right you're with me with that right so there's a DNA somewhere else it gets activated it makes the protein rb prp let's say a mutation occurs in that gene that prevents the retinoblastoma protein from buying DNA.
+27:58
+Andrew Ippolito: what's gonna be the downstream consequences that mutation.
+28:03
+Andrew Ippolito: If the rb protein can no longer bind to the to the promoter region what consequence well i'd have to the G.
+28:14
+Andrew Ippolito: it's not. Alexa Deprisco: If you. Andrew Ippolito: See again. The two. Andrew Ippolito: Sure, well, even simpler it'll turn off.
+28:21
+Andrew Ippolito: The gene will be on when it's not supposed to be okay, so you can think of arby's the brake pedal being pushed down.
+28:29
+Andrew Ippolito: And when it's mutated and not there now we start to induce cellular growth and an environment where it's not supposed to be.
+28:41
+Alexa Deprisco: So could you call it like a growth suppressor. Andrew Ippolito: sure. Andrew Ippolito: But we call it a tumor suppressor because historically that's how we identified.
+28:50
+Andrew Ippolito: Right there's like 20,000 genes and in the early days of molecular biology back in the 1990s, in particular.
+28:59
+Andrew Ippolito: You know, we were all busy bees trying to identify the key regulatory components of cellular life.
+29:07
+Andrew Ippolito: And it was like finding needles in haystacks so we were we didn't have a human genome to to we didn't have a database on the Internet to scour to look for sequences of things right, we just had to find them the hard way.
+29:20
+Andrew Ippolito: And so slowly and steadily people would get you get your entire PhD over identifying a novel gene that did something that would be your entire life's work there in the lap.
+29:32
+Andrew Ippolito: So somebody discovered rb they realized that it was always mutated they realize it's normal function is to bind to DNA.
+29:39
+Andrew Ippolito: The mutated version of it, the isolated from these cancers didn't bind the DNA and they just did the whole story to it and they figure this out, so they call this.
+29:47
+Andrew Ippolito: A tumor suppressor because before they knew what it did they knew or I should say this before we identified its mechanism of action.
+29:56
+Andrew Ippolito: We understood it's the phenotype it's suppressed tumors right and what you would do back then, when we still do this is we create what's called a knockout mouse.
+30:10
+Andrew Ippolito: No a knockout mouse is a mouse that is missing a single gene you've mutated gene in the embryo.
+30:18
+Andrew Ippolito: And then you ask the question what's wrong with this mouse. Andrew Ippolito: You run it through the female phenotype or whatever, so I meet this gene and what's the downstream consequences that gene this mask looks totally normal way, why does it always bumps on it, oh it's got cancer.
+30:34
+Andrew Ippolito: Oh look this mouse has retinoblastoma. Andrew Ippolito: So we use the mouse to do a lot of this early work because mice are 86% genetically identical to us, and so we have a genie probably have a gene.
+30:49
+Andrew Ippolito: And they have the rpg just like we have the rv gina does same thing in there, I, we will have mammalian eyes okay so anyway that's that's the idea.
+30:59
+Andrew Ippolito: Of a tumor suppressor you could call it a growth suppressor yes absolutely that would be the more generic way of putting it.
+31:05
+Andrew Ippolito: And I like that better because it removes the idea of like it doesn't has nothing to a cancer itself right it's like what does this do it stops the cell phone growing.
+31:14
+Andrew Ippolito: And yes, the downstream consequence that have cancer.
+31:19
+Andrew Ippolito: Okay. Andrew Ippolito: let's go back now let me, let me ground you guys back so that's what I just did was I connected the dots between what we learned about last time.
+31:31
+Andrew Ippolito: And what we're going to be learning about today, and I use the the closest example of what you already understand directly pulling from the idea of the lacquer presser okay.
+31:40
+Andrew Ippolito: But now we're going to go go back here. Andrew Ippolito: And we're going to say.
+31:46
+Andrew Ippolito: eukaryotic genes are controlled on all levels, not just the level of transcription.
+31:51
+Andrew Ippolito: The first level of genetic control is that the broader scale it's at the level of the chromatin.
+32:00
+Andrew Ippolito: Okay, we already learned about chromatin and we already learned so these should be familiar concepts to you, right here, do you chromatin and the header of chromatin somebody refresh my memory what those are.
+32:18
+Alexis Micewski: You chromatin is less condensed form than hundred crimson excellent.
+32:24
+Andrew Ippolito: And what so what would the consequence of those be for a gene from a concept of gene expression.
+32:35
+Andrew Ippolito: that's really this should be regulation technically.
+32:41
+Andrew Ippolito: Like What would you associate hetero chrome and then you chromosome with in terms of genes are being activated or in activated.
+32:53
+Alexis Micewski: You chromatin is more available for activation and had her chromatin perfect.
+32:59
+Andrew Ippolito: Right, they just the idea, remember, I had the. Andrew Ippolito: The crumble on piece of paper right, so this is hetero chromatin you can think of the genes being off you open them up, and you can read the GI.
+33:14
+Andrew Ippolito: bill is passed okay. Andrew Ippolito: All right, so how do we control that, how do we go from really, really, really, really, really tight closed up hetero chromatin to relatively open you chromatin right, how do we do that, the key is in the history.
+33:34
+Andrew Ippolito: Remember that his don't proteins are a satellite.
+33:39
+Andrew Ippolito: i'm sorry I thought you know what let me show you the slide on this, so let me skip ahead here. Andrew Ippolito: Here we go let's so what i'll do is i'll show you this will talk about this, then we'll go forward to the slides and they'll come back to the second level okay so let's talk about chromatin structure here.
+33:56
+Andrew Ippolito: we're talking about a subtle Asian. Andrew Ippolito: we're modifying it right we're we're taking the histone protein and we're settling so here the cartoony version of a histone will be a circle, with a little tail on it like that.
+34:12
+Andrew Ippolito: And that telus positively charged. Andrew Ippolito: This is what allows it to bind to the negatively charged DNA.
+34:20
+Andrew Ippolito: Right, the double standard helix is negatively charged and so they stick together spontaneously.
+34:30
+Andrew Ippolito: Okay. Andrew Ippolito: We can mask this positive charge, we can cover it up by doing what's called an acetylene.
+34:43
+Andrew Ippolito: Alright, so, and so, basically, if this is the tale we're going to add in a pseudo group to it.
+34:50
+Andrew Ippolito: And what this does is it masks the charge.
+34:55
+Andrew Ippolito: It masks the positive charge.
+35:00
+Angela Harbeck: We is this like when you talk about this tale, is it what we learned in Chapter 17 like when there's a bunch of a's on the end of the.
+35:08
+Andrew Ippolito: Oh no no so that's that's the polycom. Andrew Ippolito: that's the. Andrew Ippolito: messenger RNA having a repeating a while yeah that that's called the ventilation, I can see how you totally that's a good connection Angela.
+35:22
+Andrew Ippolito: You got the poly ventilation, this is a subtle ation and we're a subtle eating the tail so we're not making a tail Okay, the idea here is this let's say that my magnetic fields let's say this is a.
+35:32
+Andrew Ippolito: histone and the very end of the last little bit of amino acids just kind of stick out like that, and these amino acids are all positively charged.
+35:43
+Andrew Ippolito: Its history not that you have to know that, but these are groups here oh there's a little my little my little magnet here the our groups in here are all positive charges.
+35:55
+Andrew Ippolito: And so what we're gonna do is we're going to mask that charge by co vehemently attaching and a pseudo group at the end there that make sense.
+36:04
+Andrew Ippolito: Okay, and so, so you tell me now puzzle through this that not maybe not stanzel anybody puzzle through this what would be the consequence of adding an seo Group to the histone tail in relation to DNA.
+36:38
+Andrew Ippolito: let's play a game go ahead, Jordan. Jordan Russell: I mean doesn't it kind of SAVE right on the PowerPoint it opens the chromatin.
+36:44
+Andrew Ippolito: And what do we mean by that like why. Why would it open the chromatin. Andrew Ippolito: what's the mechanism of action.
+36:56
+Angela Harbeck: Well isn't DNA negatively charged So if you mask the positively charged, then I would open it up.
+37:05
+Andrew Ippolito: Why, when you see it would open it up, but what it's what would that if if I mask the charge and then.
+37:13
+Andrew Ippolito: What would that do to the relationship between the histone and the DNA.
+37:19
+Angela Harbeck: Or did it make it like different. Andrew Ippolito: Well yeah change changes the relationship.
+37:27
+Andrew Ippolito: They grew apart what i'm. Andrew Ippolito: What so Okay, the default state, we got the histone attached to the DNA.
+37:37
+Andrew Ippolito: Right. Andrew Ippolito: And the reason why is because we have a plus and a minus and they're sticking together.
+37:44
+right here. Andrew Ippolito: So here's here's the schematic each one of these little purple balls is a.
+37:54
+Andrew Ippolito: Little tadpole I guess is a histone protein, and so you can see these tales all stick out from the ads.
+38:03
+Andrew Ippolito: If we hide these positive charges that will cause them to basically fall off the DNA that's the key or preventing them from sticking anymore.
+38:16
+Andrew Ippolito: That makes sense. Andrew Ippolito: So the history is going to fall off and it's going to open the DNA up.
+38:25
+Andrew Ippolito: So, the key is we're making the histones go away.
+38:51
+You better. want to see a better picture here.
+39:06
+Andrew Ippolito: that's too complicated i'm trying to find a simple version of it unfortunately there's really not.
+39:14
+These are all advanced molecular biology pictures. Andrew Ippolito: yeah I don't want to go down this rabbit hole Oh, we just looks a little simpler look at this one.
+39:30
+Andrew Ippolito: and basically finding review articles that have nice images and let's see open image in new tab.
+39:44
+Andrew Ippolito: All right here. here's the idea.
+40:00
+Andrew Ippolito: hetero crompton. Andrew Ippolito: The DNA.
+40:06
+Andrew Ippolito: is tightly wrapped around. Andrew Ippolito: The history.
+40:13
+let's make the histones yellow. Andrew Ippolito: So this yellow circle represents the October the Ada.
+40:21
+Andrew Ippolito: Okay, so they're bound to the DNA. Andrew Ippolito: And this keeps them.
+40:27
+Andrew Ippolito: The DNA tight now so there's promoters in there right you think you think of the DNA Those are all the DNA sequences right we've looped them up, and now we can see the promoter we can't have transcription factors bond with them, we can't do anything with them they're hiding.
+40:38
+Andrew Ippolito: Like a closed book right.
+40:44
+Andrew Ippolito: When I acetylene these tales okay so ready there's a protein actually i'm going to make it in green, I want to associate these with potluck positive because you'll see why in a second we're going to a satellite.
+41:01
+Andrew Ippolito: As an seo group we're going to assimilate the tales, the then there's an enzyme that does that and it's called a histone.
+41:10
+Andrew Ippolito: A settled transferees. Andrew Ippolito: they're called hot proteins.
+41:18
+Andrew Ippolito: that's. Andrew Ippolito: What that is going to do.
+41:24
+Andrew Ippolito: Is knock. Andrew Ippolito: The histones.
+41:30
+Andrew Ippolito: off the formal way of saying that would be if the associates the histone complex were dissociating the histones from the DNA.
+41:41
+Andrew Ippolito: And so what's going to happen is. Andrew Ippolito: The DNA would be more open, because the histones are now off because the histones are settling it.
+41:55
+Andrew Ippolito: makes sense. Jordan Russell: So, so can we. Jordan Russell: say. Jordan Russell: Oh sorry Angela.
+42:01
+Andrew Ippolito: No good good. Jordan Russell: So, like can we think that as like the a pseudo groups are pulling the like the tails out and then like pulling chunks of the histones out so that.
+42:14
+Andrew Ippolito: Her yeah, why not that works if that's a visual for your brain yeah I like that yeah the basically yeah you're you're pulling it out by the tail because there's not it's not charged anymore so there's nothing sticking it there anymore okay Angela.
+42:28
+Angela Harbeck: Would you want to say so, when they when the things.
+42:35
+Angela Harbeck: The hats. Angela Harbeck: covered cover the positive charge and they start to unravel the histones are off of the DNA strand that's bound.
+42:45
+Andrew Ippolito: So when the hats you this is what you would think the hat protein.
+42:51
+Andrew Ippolito: transfers and a pseudo group to a history.
+42:56
+Andrew Ippolito: Now, if we had to think of this like a chemical reaction that has an enzyme the histones of substrate and you see the group is the substrate so grab some a Seattle from maybe acetylcholine who knows it grabs a set unless you know group and it puts it on to the histone tail.
+43:13
+Andrew Ippolito: Right so that's now these, and so the consequence of that is it doesn't like buying DNA anymore, because it's not a plus minus anymore okay alexa.
+43:22
+Alexa Deprisco: So the history, like full on comes off of the DNA comes. Andrew Ippolito: yeah yeah that's a great way think it just.
+43:27
+Andrew Ippolito: It just falls off. Alexa Deprisco: it's like. Andrew Ippolito: Imagine you had an electromagnet stuck to a piece of metal. Andrew Ippolito: And you were able to flip the switch and then it just fell off because it's not magnetic anymore it's an electromagnet you.
+43:37
+Alexa Deprisco: disable the battery or whatever people. April Neeld: So just for clarification, the hat what's the a Seattle on the end of the tail yes and that's all it does, because it has done will fall off on by itself.
+43:51
+Andrew Ippolito: Because yeah that's an. Andrew Ippolito: that's an exact way of thinking, all by side, I like how you said that all by itself it's just this is a spontaneous reaction, naturally, the histone buying to the DNA.
+44:01
+Andrew Ippolito: You just mix them in a test tube they're naturally going to form has done nuclear isms. Andrew Ippolito: This that's a spontaneous reaction when you bring the high protein in there and I used to meet up to do this to it staples it on to the histone tail and then it just completely associates alright alexa.
+44:17
+Alexa Deprisco: So I had a follow up question to that because, like at one way in the Semester you'd said that like DNA doesn't exist me get.
+44:24
+Alexa Deprisco: It doesn't really you know because that's like unstable so like is this like a stable place for DNA to be like is problematic or.
+44:31
+Andrew Ippolito: What you're not learning is that there is a host a host of other proteins that are also binding to DNA, which is why okay so just Just to give you a brief idea of that.
+44:58
+Andrew Ippolito: Okay, this I just grabbed some some random review Article. Andrew Ippolito: OK, so the blue cylinder represents the histone Okay, you can see, this transcription factor is bound to be DNA plumbers to, and this is a simplified diagram we see that emmys here, well, those are methyl groups.
+45:16
+Andrew Ippolito: Okay, you see this brown thing right here, if this is called the switch sniff complex you'll learn about this in molecular biology someday.
+45:24
+Andrew Ippolito: This is basically a chromatin remodeling complex, this has to boy sama races in it has healer cases in it does so, the idea here is just there's a whole boatload of stuff going on on the chromatin.
+45:37
+Andrew Ippolito: there's non histone binding proteins or scaffolding proteins, there is a nuclear lamanna there's all these things going on and what we're doing is we're grading all that out and feeding to black and we're highlighting this one thing.
+45:53
+Andrew Ippolito: Okay, and that's why I want you to think of all this there's hundreds of proteins that we're dealing with here in real life, this was one of my frustrations working in this, I still remember every time I would do an experiment, I remember thinking to myself constantly.
+46:10
+Andrew Ippolito: there's probably 20 other things going on here that we don't know what we don't know and so what's the point of all this, just questioning everything, because it was just so mysterious because there's so much going on.
+46:25
+Andrew Ippolito: Okay, so i'm and i'm trying not to scare you guys and overwhelm you so what i'm saying is that if you think about um.
+46:32
+Andrew Ippolito: Think about the stock market or think about the economy. Andrew Ippolito: Forget the stock market think of the economy, think of the global economy, think earth's economy now think about the American economy and now think about.
+46:49
+Andrew Ippolito: Farmers in Pennsylvania. Andrew Ippolito: And now think about the price of wheat for a farmer in Pennsylvania.
+46:57
+Andrew Ippolito: And that farmer that's buying the wheat has to deal with price fluctuations and he asked the question why is my wheat changing and price today.
+47:07
+Andrew Ippolito: that's connected to what people are doing in China right now in the war going on in Tanzania and this the right it's an insanely complex i'm just making all that up by the way, so you've probably heard the phrase like what's that have to do with the price of apples in China.
+47:22
+Andrew Ippolito: Maybe that's a term people don't use anymore, and the idea is is that. Andrew Ippolito: what's going on with those coin today it's connected to everything everything's like everything and it's insanely complicated, so what we do, because we're just simple humans is we like telling stories and simplifying things.
+47:38
+Andrew Ippolito: And so we we talked about you know ilan musk is going Sarah live on Saturday night and that's why those coins going up.
+47:45
+Andrew Ippolito: Yes, that's what's going on right now so i'd be excited to know like when I watched this a month for an hour we watch.
+47:51
+Andrew Ippolito: So what's going to happen is everyone thinks that the price of those planes gonna crash on Saturday, because that's what everybody's expecting it to do, and so he's probably going to search.
+48:01
+Andrew Ippolito: And so it's probably going to search i'm going to sell it so it's gonna crash so it's a self fulfilling prophecy.
+48:06
+Andrew Ippolito: Okay, in other words the economy like jeans is insanely complicated or think of the weather.
+48:13
+Andrew Ippolito: Okay, whether. Andrew Ippolito: The economy and the inside of yourself.
+48:20
+Andrew Ippolito: These are what are called chaotic systems, they are called non linear dynamic systems there's a whole math behind all that that's part of what chaos theory is okay it's interesting this crazy our Angela I know you've had your hand up so ask your question sorry.
+48:36
+Angela Harbeck: So it's like transcription is the histones still on the DNA, are they off the DNA.
+48:41
+Andrew Ippolito: they're off the DNA and then I probably get right back on the DNA.
+48:47
+Andrew Ippolito: Okay, yes, like if you're looking at that that picture.
+48:52
+Andrew Ippolito: here. Andrew Ippolito: Okay, the idea is. Andrew Ippolito: Is that proteins are probably going to a satellite this and knock them off.
+49:03
+Andrew Ippolito: So that the transcription can occur. Andrew Ippolito: And then the opposite, so the there's always a gang to the onion right the opposite of a hat protein is going to do what functionally what is the opposite of a hack and I do, do you think.
+49:17
+Angela Harbeck: mask it to be negative. Angela Harbeck: well. or nothing thinking. Andrew Ippolito: it's going to undo what the hat it right it's going to take the subtle group off.
+49:26
+Andrew Ippolito: So we have histone subtly says. Andrew Ippolito: Only here we have histone DSM releases.
+49:31
+Andrew Ippolito: And they're called each decks hd AC which is on the slide here.
+49:38
+April Neeld: Where is it where is it. here.
+49:44
+Andrew Ippolito: hd so we, so this is how you would draw your wiring diagram that you guys are probably building in your notes, hopefully.
+49:50
+Andrew Ippolito: The idea would be this ready. Andrew Ippolito: So we'll see gene.
+49:59
+Andrew Ippolito: Okay let's build this carefully let's think about it histone.
+50:06
+Andrew Ippolito: What relationship with the histone have to the G. Andrew Ippolito: By let's say it, but when when histones are bound to the gene region would that be a negative inhibitory repressive or that be activating.
+50:22
+Andrew Ippolito: likes to say it. Alexa Deprisco: Negative negative good. Andrew Ippolito: Right so histones inhibit gene expression.
+50:31
+Andrew Ippolito: By virtue of just binding to them and hiding them crumbles up the DNA right.
+50:37
+Andrew Ippolito: So how proteins are Dryden green because we associate green with go right, so you could you could be messy and do this but let's not do that.
+50:54
+Andrew Ippolito: let's do this. Andrew Ippolito: Number repressing them oppressor. Andrew Ippolito: Remember, when we drew this kind of diagram for the lack operand we talked about.
+51:03
+Andrew Ippolito: How low lactose inhibiting the repression of it. Andrew Ippolito: Right right we said Allah lactose.
+51:13
+Andrew Ippolito: binds to the oppressor protein which in turn inhibits the laptop wrong.
+51:21
+Andrew Ippolito: So by the presence of Allah lactose is an inducer molecule because it inhibits the inhibitor.
+51:34
+Andrew Ippolito: Or, just like imagine something in your car blocking you from getting to the brake pedal. Andrew Ippolito: That would have the consequence of making you roll forward.
+51:42
+Andrew Ippolito: Forget the gas pedal just you're not allowed to use the brake pedal okay good alright so.
+51:49
+Andrew Ippolito: histone dia satellites.
+51:57
+Andrew Ippolito: just going to activate the histone.
+52:06
+Andrew Ippolito: So these kinds of diagrams are really useful because they reveal the underlying mechanisms.
+52:15
+Andrew Ippolito: In a you know, in a broadway.
+52:38
+Andrew Ippolito: Any questions.
+52:43
+April Neeld: So what is the htc do exactly. Andrew Ippolito: So this T alright this and white here.
+52:53
+Andrew Ippolito: i'll put it up here. Andrew Ippolito: This D.
+52:59
+Andrew Ippolito: A subtly it's.
+53:05
+Andrew Ippolito: The histone tail. Andrew Ippolito: It basically reverses what the hat protein does.
+53:13
+Andrew Ippolito: it's an opposing force and that's the concept that you have to see here because you're going to see this all over the place, think about ETF and rb they're opposing forces.
+53:42
+Angela Harbeck: You say dia satellites it's just it's taking the silly assimilation and like.
+53:49
+Andrew Ippolito: Taking it off basically breaking the Bob exactly it's breaking the Kobe on bond that sticks out there.
+53:56
+Angela Harbeck: Go ahead Alex. Alexa Deprisco: So this is all in the context of like the histone tail like what happens to the rest of the histone.
+54:04
+Just hanging out.
+54:11
+Andrew Ippolito: You know the the 3D structure of it it's so it's binding to his his partner histones number is an October.
+54:18
+Andrew Ippolito: And you know there's other things that can happen to you so so The other thing that can happen is it can be methyl aided so let's go back to the slide here.
+54:27
+Andrew Ippolito: And let me. Andrew Ippolito: yeah okay so let's let's revisit this picture I pasted them before for a second and you all want to do is call your attention to the to the bright red thing right there.
+54:39
+Andrew Ippolito: You see, the m's here the me the red and means Okay, do you notice how these little red circles are drawn on this picture along the DNA itself to see how it's attached to the DNA it's not touching the histones great so.
+54:55
+Andrew Ippolito: So this is DNA methylation. Andrew Ippolito: Okay, it happens on.
+55:02
+Andrew Ippolito: guanine usually. Andrew Ippolito: Okay methodology and remember the five prime cap of RNA messenger RNA okay that CAP is methylation gwatney right, so the idea is when you mentally things when you mess like nucleotides that tends to inhibit them.
+55:18
+Andrew Ippolito: So so enzymes can't see them and then this is there a hydrophobic residue rate methyl groups are just carbon ch three method method method right ch so it's hydrophobic it removes all all charged in the area, and so a more permanent way of inhibiting gene expression.
+55:39
+Andrew Ippolito: Is by methylation the DNA and what this does is it crumbles the chromosome.
+55:44
+Andrew Ippolito: like this is how you really get the. Andrew Ippolito: crumple it up.
+55:53
+Andrew Ippolito: Okay, so histone acetylene. Andrew Ippolito: is a really it's like a switch it's easy to on and off right histones and eat hats in each backs, we can turn things on turn things up things on track things up methylation is when you want to kind of just shut everything down and keep it that way.
+56:12
+Andrew Ippolito: But not permanently permanently let's say long term like your life.
+56:19
+Andrew Ippolito: that's permanent now if your kids. Andrew Ippolito: Right, so we can have methylation in our genome that turn genes off, but then something can happen on the course of our life we could take chemicals into our body that will change methylation patterns.
+56:33
+Andrew Ippolito: Right cigarette smoker example. Andrew Ippolito: cigarette smoke will completely change gene expression in terrible ways.
+56:45
+Andrew Ippolito: But one of the one I like tragedies of smoking cigarettes it shuts off genes involved the DNA repair so not only is it a carcinogen, not only is a damaging the DNA it's shutting off the genes that fix it.
+56:57
+Andrew Ippolito: that's a double hit So if you smoke cigarettes I would be like I would suggest just don't do that anymore that alexa.
+57:04
+Alexa Deprisco: branching off of that is kind of off topic, but like I think they say that there's like arsenic in cigarettes and.
+57:10
+Andrew Ippolito: Oh yeah there's tar. Alexa Deprisco: Lead arsenic. Andrew Ippolito: The so there's there's toxins there's poisons there's carcinogens there's so many bad things and cigarette smoke it's just.
+57:24
+Alexa Deprisco: Well, I had to do a project on like brown water pollution in India and like 30 shallow wells that really polluted with arsenic and like that itself was like passed down genetically to like the kids you know who haven't even drink ours.
+57:36
+Andrew Ippolito: yeah yeah. Alexa Deprisco: yeah yeah. Andrew Ippolito: Are there they're called spoil banks when you when you mind into the earth and you pull out stuff.
+57:45
+Andrew Ippolito: A lot of what's coming out you're just throwing it by the river and then it gets into the river and a lot of that stuff includes things like arsenic, our bodies never have all the ways to get rid of heavy metals.
+57:56
+Andrew Ippolito: that's the key so our bodies don't know what to do with them, and so we sequester those. Julia Lakchin: molecules and those.
+58:02
+Andrew Ippolito: atoms. Andrew Ippolito: in different parts of the body and those leads to all sorts of problems that's lead poisoning.
+58:07
+Andrew Ippolito: And I think of loose carol's mad hatter remember the mad hatter from Alison Wonderland That was the thing people, those those those top hats that people weren't during you know.
+58:17
+Andrew Ippolito: Elizabeth and he thanked her they had a lead ring lining the CAP that would be basically stuck to your head.
+58:25
+Andrew Ippolito: And the reason was lead is really soft malleable and so you can you can it's very form fitting, and so they would forfeit the top that's why the top hats looks so nice.
+58:35
+Andrew Ippolito: The problem is, is the lead with leach into the skin and it would slowly make their brains bad and they would go crazy the mad hatter.
+58:46
+Andrew Ippolito: Mercury. Andrew Ippolito: Julia good. Julia Lakchin: going off of that real quick, did you hear that they wanted fan cigarettes with.
+58:55
+Julia Lakchin: what's it called. Andrew Ippolito: Do me a favor tell closer to your microphone you're really kind of tinny.
+59:01
+Julia Lakchin: i'm going off of that can you hear me better. Julia Lakchin: Now.
+59:07
+Andrew Ippolito: I can i'm sorry Julie, I can understand you because the microphone where's your Mike right now, where is it.
+59:13
+Andrew Ippolito: Oh that's why okay you're using one of those fancy hybrid things.
+59:24
+Andrew Ippolito: I think april's coming to get you. Andrew Ippolito: you're both on the move.
+59:31
+Andrew Ippolito: yeah. Julia Lakchin: Okay, can you hear me. Andrew Ippolito: Yes, oh. Okay.
+59:37
+Julia Lakchin: i'm going on. Andrew Ippolito: watch out for April I think she came. Andrew Ippolito: she's coming to get you.
+59:43
+Julia Lakchin: They want to ban cigarettes that have methanol in them, did you hear about that. Andrew Ippolito: Oh yeah no all methods methanol supposedly just makes it taste better I think it's a flavor additive.
+59:56
+Julia Lakchin: yeah but so many people smoke it so i'm just thinking if you're already going to ban methanol on cigarettes cigarettes.
+1:00:03
+Julia Lakchin: Oh well, yeah they're going to be different. Andrew Ippolito: that's a different year that's so so banning methanol.
+1:00:09
+Andrew Ippolito: makes them. Andrew Ippolito: Less enticing to younger people.
+1:00:16
+Andrew Ippolito: And so the idea is. Andrew Ippolito: You. Andrew Ippolito: Make it slowly slowly over time, reducing the rates by making less fewer people smoking.
+1:00:29
+Andrew Ippolito: yeah I agree, they should ban cigarettes, but that, then you know, then you start getting into the you know freedoms, personal freedom like I should be allowed to smoke in my own House.
+1:00:38
+Andrew Ippolito: But then you're like what about your kids what your car, what about your kids in the car, you know but we're being on we've i'll tell you, we have come such a long way.
+1:00:47
+Andrew Ippolito: When I was excellent my mom and dad smoke growing up, I can't step I get a whiff of cigarette smoke I get angry I have like ptsd from it, I can't even be near the smell of it, I can't and.
+1:00:58
+Andrew Ippolito: So, which was a problem when I was in college, because when I went to college, you know when you go to the bars and you go social everybody was the bars were just closed a small, and I was really hard for.
+1:01:07
+Andrew Ippolito: And I still remember, I think, was my junior year they banned indoor smoking and I was like oh my God like and I remember the first time I went out, I was like.
+1:01:16
+Andrew Ippolito: This is wonderful like I can like think and talk to people and socialize without these clouds of smoke and you know, then everybody be outside smoking, you have to walk through the clouds of smoke, which was disgusting but much less disgusting.
+1:01:30
+Andrew Ippolito: But the idea of banning it all together that goes into American freedoms people wanting to freedom, to hurt themselves, you know.
+1:01:40
+April Neeld: Well it's it's like it's like other drugs like they're gonna find it on the street and it's probably going to be laced with something even.
+1:01:46
+Andrew Ippolito: Worse right yeah yeah it's great it's highly regulated that's a good point. Andrew Ippolito: Well it's they're highly regulated where they're they're highly taxed in on a lot of that tax dollar goes to the health care costs that it causes.
+1:01:59
+Andrew Ippolito: yeah that's people, this is this is how I do it right, so I don't judge people for the things they do everybody has their vices right my thing is, we all have to find a way to get through this tragedy recall life.
+1:02:14
+Andrew Ippolito: Everybody has their own coping mechanisms and some are healthier than others, and some people figure it out, and some people don't right exercising as a coping mechanism for some people and heavy drug use as a coping mechanism for others, some mechanisms are more successful than others.
+1:02:33
+Andrew Ippolito: Right. Andrew Ippolito: And then addiction is. Andrew Ippolito: Is there are genetic predispositions.
+1:02:39
+Andrew Ippolito: that's it and it is a disease and that's the appropriate way of viewing it in my opinion it's not like oh just stop doing it like that's not how it works Angela.
+1:02:50
+Angela Harbeck: And I have two questions so like with methylation so it just kills the DNA.
+1:02:57
+Andrew Ippolito: It just what the DNA. Angela Harbeck: Is a kill the DNA. Andrew Ippolito: No, no, no, no, it masks the DNA from its environment, think about oil and water okay so remember the inside of the cells fill with water right everything's got water and so everything has kind of been than an aqueous solution right and so anything that is neutrally charged.
+1:03:19
+Andrew Ippolito: is going to form you guys remember in your chemistry remember crowding forces.
+1:03:25
+Andrew Ippolito: You remember hydrophobic interactions the idea of that negative charge i'm sorry that neutral molecules will tend to crowd together.
+1:03:33
+Andrew Ippolito: being surrounded by the positive molecules so the effect of methylation DNA is to physically crumple it up, and the same way, oil and water react with each other, it takes it away from the solution and so anything in biology you guys can just file it away in your head any molecule.
+1:03:53
+Andrew Ippolito: If you want it to not react with things you want to make it less reactive.
+1:03:58
+Andrew Ippolito: You reduce its charge or its polarity. Andrew Ippolito: Okay, when we find some kind of fancy.
+1:04:07
+Andrew Ippolito: Therapeutic in the plant kingdom, one of the things that chemical engineers do is they analyze the chemical structure of that thing.
+1:04:16
+Andrew Ippolito: And they look for problem parts to it, what parts are to hydrophobic because when we take it into our bodies, we need it to get into our blood or but across the blood brain barrier, we need it to be bioactive so we call this bio availability.
+1:04:30
+Andrew Ippolito: Drugs are more bioavailable or less bioavailable based on their charge and methylation is a really effective way of rendering it less bioavailable.
+1:04:41
+Andrew Ippolito: Okay, it because of. Andrew Ippolito: Oil it's a simple mechanic hydrophobic. Andrew Ippolito: Okay, then think about liquids being inside and water, think about.
+1:04:50
+Andrew Ippolito: Anything we've talked about all semester about. Andrew Ippolito: hydrophobic okay so we're making the DNA hydrophobic when it's normally very hydrophobic it's it's an.
+1:04:57
+Angela Harbeck: it's an acid right. Andrew Ippolito: So it's very negatively charged loves water everything's bopping into it, this region in the DNA when we mess late it we were kind of talking in a way out of sight now.
+1:05:08
+Andrew Ippolito: that's also why it's kind of permanent and talk to get to. Andrew Ippolito: Yes, i'll go ahead Angela finish your thought.
+1:05:13
+Angela Harbeck: Okay, so if someone's like pregnant and I know that they do like tests on like if they have like certain diseases like like deafness or something like that, or like autism.
+1:05:23
+Angela Harbeck: Can you messily. Angela Harbeck: The DNA, so it prevents that from happening, when the baby comes out.
+1:05:30
+Andrew Ippolito: that's a wonderful question, and that is one of the. Andrew Ippolito: lines of thought that researchers are pursuing in terms of how to do what we'll call.
+1:05:42
+Andrew Ippolito: Gene gene therapy right, the idea of how can we modify the genome, to prevent disease and one of the ideas and so what you're really touching on is the idea of epigenetics right.
+1:05:53
+Andrew Ippolito: This isn't the the sequence we're not dealing with mutations of a's and t's and c's and d's right we're dealing with methylation the genome so methylation is one of these epigenetic phenomena.
+1:06:03
+Andrew Ippolito: And this is a it's still relatively new and one of the things you'll learn about.
+1:06:08
+Andrew Ippolito: When you dig into this is that during embryo genesis during fetal development when you go from the embryo let's just think of the design.
+1:06:15
+Andrew Ippolito: Right one cell to salesforce so there's this system wide across the entire genome D methylation that happens we don't fully understand it so it's kind of it resets at all it's like taking a whiteboard that's really messy and just wiping it all off, so we can start again.
+1:06:33
+Andrew Ippolito: Okay, so there's there's there's pan de methylation, and so we there's probably something in there about autism actually as i'm thinking out loud we don't fully understand the root cause of autism One possibility is.
+1:06:48
+Andrew Ippolito: During that D methylation re methylation event, maybe something pathological happens and that's part of what contributes.
+1:06:56
+Andrew Ippolito: To autism, so your the answer your question is yes it's a target we're not there yet, but that's what that's the line of reasoning we're going down that's one of the lines are using you're going down.
+1:07:07
+Andrew Ippolito: Okay, great great thinking there you start that's that's thinking like a scientist good or April.
+1:07:14
+April Neeld: So the methyl group binds to the DNA.
+1:07:19
+Andrew Ippolito: yeah there's there's a. Andrew Ippolito: Call to an attachment. April Neeld: And then, like How does that make it i'm header up chromatin that How does it cause it to compress and.
+1:07:30
+Andrew Ippolito: So so imagine, I had. Andrew Ippolito: Imagine, I had a piece of DNA here.
+1:07:39
+Andrew Ippolito: Right so here's just some DNA right, and so we can think of the charge let's say this this the fact that it's green.
+1:07:46
+Andrew Ippolito: means that it's all negatively charged right and so wanders around right, and so we got this water around it.
+1:07:53
+Andrew Ippolito: And so, because of that plus and minus so remember the polar oxygen in the water molecule we get a little.
+1:07:59
+Andrew Ippolito: Right okay actually I should say the the slightly positive charge of the hydrogen because it's plus plus minus water is going to be around, and so in that water, you have all your proteins and all your transcription factors and enzymes and blah blah blah, so the DNA is just.
+1:08:14
+Andrew Ippolito: In play Okay, if I take a region of that DNA like let's say right here and I methylation all these warnings here, and so this is called a gc island.
+1:08:27
+Andrew Ippolito: And we can escalate those right, so if all this is methylation and what we basically done.
+1:08:38
+Andrew Ippolito: oops is rendered. Andrew Ippolito: That one part of the genome completely hydrophobic, and so the water isn't going to react to it at all it's going to be this little it's like a little bubble of oil in your salad dressing.
+1:08:56
+Andrew Ippolito: And so, because the water can get to it, neither to the transcription factors, because the transcription factors are in the water.
+1:09:05
+Andrew Ippolito: Okay, it just it's a physical barrier and that's why tends to be more permanent right, because how am I going to do methyl eight that I gotta get to it.
+1:09:14
+Andrew Ippolito: Right, so there are enzyme so the there's always opposing forces right so let's learn these words now they're on the slide here.
+1:09:20
+Andrew Ippolito: Right, so we have what are called, though, so we have what are called DNA methyl.
+1:09:27
+Andrew Ippolito: transferees. Andrew Ippolito: transferees and then the opposing force would be a DNA empty DNA i'm sorry i'm sorry, these are that's what these are these are DNA methyl transfer is D amp D D amp T right not to be confused with to meet me ninja turtles.
+1:09:46
+Andrew Ippolito: Those are 10 empties to mentees Okay, and then we have DNA.
+1:09:55
+Andrew Ippolito: d method dms ELISE. Andrew Ippolito: And these.
+1:10:00
+Andrew Ippolito: I know less about them. Andrew Ippolito: But there's a Union so if we go back to our circuit diagram that we were building before.
+1:10:20
+Andrew Ippolito: You can do this. Andrew Ippolito: DNA.
+1:10:25
+Andrew Ippolito: let's make it in red DNA.
+1:10:31
+Andrew Ippolito: methyl D and a methyl transfers the end empty.
+1:10:36
+Andrew Ippolito: And they inhibit directly you see how i'm just like histones directly bind to the DNA DNA empties directly message late the guanine and the DNA so i'm not drawing an arrow to another thing i'm directly touching the gene there.
+1:10:51
+Andrew Ippolito: Okay, and then DNA methyl i'm sorry DNA.
+1:10:57
+Andrew Ippolito: The methyl aces.
+1:11:03
+Andrew Ippolito: Will directly activate the G.
+1:11:09
+Andrew Ippolito: Right and you can draw this, however, you want, on your slides maybe what I could do what I should do is just put these side by side to show that they're kind of opposing each other.
+1:11:20
+Andrew Ippolito: So maybe do this. Andrew Ippolito: i'm going to inhibit.
+1:11:25
+Andrew Ippolito: I want to target and you see how it's not that something's inhibiting them necessarily whereas if you look at the histones on the left, right the hats and the H Dax.
+1:11:37
+Andrew Ippolito: Work indirectly on the history, whereas the DNA methyl transfer rates and D math ELISE act directly on the DNA itself.
+1:11:46
+Okay, good. Andrew Ippolito: And the other thing this though just staring at this diagram here, you can see that histone acetylene histone so deletion and DNA methylation are independent of each other.
+1:12:04
+Andrew Ippolito: Right, so there are two independent levers one doesn't necessarily impact the other.
+1:12:11
+Andrew Ippolito: So that said, one of the things researchers are. Frequently doing.
+1:12:18
+Andrew Ippolito: Is is there some other mysterious factor we're not aware of that somehow does connect those two.
+1:12:25
+Andrew Ippolito: Right and i'm going to undo that now, because I have no evidence personally that that is true or not.
+1:12:32
+Andrew Ippolito: But that's the kind of stuff you publish a new paper and you get to add an arrow somewhere.
+1:12:39
+Andrew Ippolito: Each one of these arrows experiment, we confirmed.
+1:12:44
+Taylor Campbell: I have a question. yeah. Taylor Campbell: So, like in your little box next to Chris sentence structures.
+1:12:53
+Andrew Ippolito: My little box next to my chromatin structure. Taylor Campbell: Know Alan the actual slide sorry. Andrew Ippolito: Oh OK OK.
+1:12:59
+Taylor Campbell: that's a funny you're actually looking. Taylor Campbell: Like is is what you're like explaining why there's no arrow with the hats and.
+1:13:09
+Andrew Ippolito: know which side you want me to look into her. Taylor Campbell: know any of them, because it has that little box above it you see what the chrome.
+1:13:16
+Andrew Ippolito: Oh, oh yeah Oh, I see you're saying this right this this box. Andrew Ippolito: Yes, okay okay that's from the first slide right here, I just borrowed each one.
+1:13:24
+Taylor Campbell: yeah yeah okay. Taylor Campbell: It just follows it like is that, like, why is there no arrow with the second one was that on purpose.
+1:13:34
+Andrew Ippolito: Oh, you mean right here. Andrew Ippolito: yeah no it's not on purpose what I did here when I wrote this slide I said so histones are associated with the idea of a subtle ation and a subtle ation is associated so these arrows are so just mental association hours.
+1:13:50
+Taylor Campbell: yeah and he said how those ones aren't they're independent. Andrew Ippolito: yeah and so. Andrew Ippolito: No, no, so.
+1:13:56
+Andrew Ippolito: I maybe Okay, maybe this isn't the best way to present this information, so how about.
+1:14:04
+Andrew Ippolito: How about this ready. Andrew Ippolito: hats slash H docs are associated with a solution.
+1:14:17
+Andrew Ippolito: which in turn is associated with his done. Andrew Ippolito: which in turn is associated and i'm just gonna say chromatin.
+1:14:25
+Andrew Ippolito: You chromatin hetero cognitive.
+1:14:33
+Okay. Andrew Ippolito: thanks for that I saw that makes sense when you ask questions like that that helps me.
+1:14:42
+Andrew Ippolito: have better insight into how students look at this for the first time, as opposed to me my old brain looking at this stuff for the thousandth time so that's good I should rewrite that so you can also if you want draw a line right here.
+1:14:54
+Andrew Ippolito: Actually, no don't draw a line there draw a line here, because these are associated together, or is this is its own thing.
+1:15:05
+Andrew Ippolito: And these hetero continue chromatin you can argue.
+1:15:11
+Andrew Ippolito: That both the subtle ation methylation change the chromatin EPI genetic inheritance, though, is very much associated with methylation.
+1:15:22
+Andrew Ippolito: Okay, I want you to see histone a settler nation as temporary this is how we just get in there and turn genes on and off everyday life stuff and then like you know, in a given day we can change that whereas methylation is something that's once it's desolated it's there for the launch.
+1:15:39
+Andrew Ippolito: Go ahead. Taylor Campbell: No, I was just putting it in. Okay.
+1:15:46
+Andrew Ippolito: All right, any other questions.
+1:15:53
+Andrew Ippolito: This is making sense. Andrew Ippolito: Good because you're started like if this making sense to you you're starting to really understand the how we pull apart genes how we understand everything from cancer to.
+1:16:08
+Andrew Ippolito: Our drugs affect your body everything evolution right, because one of the things you can also now start to realize is.
+1:16:16
+Andrew Ippolito: Every single eukaryotic organism on earth has hats an age Dax okay one fascinating discovery for methylation is just awful a number fruit flies number Morgan industry flies fruit flies do not mentally their DNA at all.
+1:16:33
+Andrew Ippolito: And that was a mystery for a while and it turns out, they used to, but then they didn't they're not want to see used to I mean their evolutionary ancestors, and our evolutionary ancestors methylation DNA.
+1:16:43
+Andrew Ippolito: And, for whatever reason, along the long time fruit flies decided to stop methylation their DNA, and so there is no evidence of methylation in there.
+1:16:54
+Andrew Ippolito: So, all this is also connected back to evolution.
+1:17:00
+Andrew Ippolito: Remember the word homology Member homologous chromosomes we can now talk about homologous jeans so there's a mount, so this is how you would talk, there are mouse Homer logs to human methyl transfer races or human history to subtly says.
+1:17:16
+Andrew Ippolito: Okay, so there's human hats and there's mouse hats mouse has to these cute little thing now.
+1:17:29
+Andrew Ippolito: So by understanding the evolutionary connections helps us better understand.
+1:17:34
+Andrew Ippolito: What our genes are doing if we see something happening in a yeast cell, for example, Member CD case again in Nice, we have CDC.
+1:17:42
+Andrew Ippolito: CDC is our homologous to CD case, the only reason we know about human CD case is because of the people that did the groundbreaking work in the east cell cycle you swear an excellent genetic model for the cell cycle.
+1:17:54
+Andrew Ippolito: And when we look at yeast genes, we can look at human genes and we can remember the blast searching you did in your homework.
+1:18:01
+Andrew Ippolito: You do a blast search for the we finally each gene, we see that it's involved in a cell cycle. Andrew Ippolito: it's controlling the cell cycle, we sequence it we plug it into a blast search and boom there's a human version of it, and when we go back to the human genes and we look at those cells, we find that same protein and they're doing the same thing.
+1:18:16
+Andrew Ippolito: That self discovery works. Andrew Ippolito: it's one of the ways discovery work.
+1:18:22
+Andrew Ippolito: Okay let's move on here so that level of control that we're talking about chromatin structure, this is the broadest level of gene control we're talking about turning a whole bunch of genes on or a whole bunch of genes off.
+1:18:36
+Andrew Ippolito: Okay. Andrew Ippolito: alright.
+1:18:44
+Andrew Ippolito: So we've already talked about this, this is just my slide on IP genetic inheritance and ignore this this is from last semester, and this is the example when I close the PowerPoint accidentally click yes, the changes.
+1:18:56
+Andrew Ippolito: I have to now edit that. Andrew Ippolito: So here i'll take it off when I when I close our PowerPoint i'll see the changes again, and so this is what the next class will see.
+1:19:05
+Andrew Ippolito: And i'll just keep doing that every Semester will be a joke okay.
+1:19:12
+Andrew Ippolito: Maybe eventually become a piece of art. Andrew Ippolito: looks kind of like a horse head, maybe I guess see a horse in there.
+1:19:21
+Andrew Ippolito: The horses wearing a top hat okay. Andrew Ippolito: you're like now I can't see that.
+1:19:30
+Andrew Ippolito: OK, so the key to EPI genetic inheritance, is that it's any inheritance beyond the level of genetic, in other words it's it's beyond the level of the DNA sequence.
+1:19:43
+Andrew Ippolito: A simple example would be inheriting a methylation pattern.
+1:19:48
+Andrew Ippolito: and honestly for our for our purposes that's all going to give. Andrew Ippolito: You will learn about epigenetics when you take genetics, which would be your next that will be a sophomore level class after bio one and bio do.
+1:20:00
+Andrew Ippolito: You should we I, and I really wish we offer genetics and i'm going to start pushing for them, where you can take genetics and mongo I wouldn't recommend that.
+1:20:11
+Andrew Ippolito: Because the person who teaches it I don't think is somebody who should be teaching modern genetics.
+1:20:20
+Andrew Ippolito: that's that's a rabbit hole I don't want to go into right now.
+1:20:29
+Andrew Ippolito: The last time I looked at this curriculum he's still teaching techniques, we use to map mouse genomes back in the 90s, which.
+1:20:38
+Andrew Ippolito: there's better things to be studying right now, then historical anyway i'm not good not good that's a mouse hole i'm not going to go down that now so okay.
+1:20:58
+Andrew Ippolito: Right Okay, and we just suddenly do that on okay so that's that's epigenetics you guys got these slides were that's all i'll say about that.
+1:21:07
+Andrew Ippolito: next level, so what we're doing here now is we're going, let me use all this back to this slide here now we're dealing with this and we've already kind of covered this raid so we're now.
+1:21:16
+Andrew Ippolito: To satisfy Julie is linear version of all this we're gonna go and we're going to look at this one more time, and this is where falls into the normal story.
+1:21:25
+Andrew Ippolito: Okay, the regulation of gene expression at the level of transcription which by the way, that's the default level when we just say that gene is regulated or that gene has mutated or that thing is turned off we're talking about it's no longer transcribed.
+1:21:39
+Andrew Ippolito: that's the default way of talking about alright, so, if you look down at the bottom here here's here's us leveling up a little bit on understanding the anatomy of a G okay so let's revisit first what we already know there's your promoter.
+1:21:52
+Andrew Ippolito: Right and remember the promoters what binds to transcription factors that bind that recruit the RNA polymerase to Okay, which is why what I would do if I was making this slide is I would actually highlight this.
+1:22:10
+Andrew Ippolito: that's my version of a promoter because you see how my version of the promoter includes the proximal control elements.
+1:22:16
+Andrew Ippolito: Because those things by the transcription factors and recruit the RNA polymerase so I don't understand why.
+1:22:21
+Andrew Ippolito: Some molecular biologists decide to pull this apart i'm sure there's a good reason for it. Andrew Ippolito: i'm not actively involved in the field anymore so i'm sure that those who have been studying this longer and deeper than I have have a reason for this.
+1:22:34
+Andrew Ippolito: So don't you know don't take that to your next class and tell them that you're actually Dr I says you're wrong like now i'm probably wrong some reason for some reason.
+1:22:45
+Andrew Ippolito: But really the promoter reason of the gene is that's that's a regulatory area that's the part that protein bind to and turn it on or off.
+1:22:55
+Andrew Ippolito: And it includes consensus sites for DNA transcription factors for transcription all right, then there's your in transit excellence there's your poly ventilation signal.
+1:23:05
+Andrew Ippolito: Right. Andrew Ippolito: And then, somewhere, you have this termination region.
+1:23:10
+Andrew Ippolito: And right far far away alright, so now let's so that's all downstream let's look upstream now right remember these double slashes mean far far away so upstream, we have this little think of it like a cartridge it plugin again this gene cartridge this.
+1:23:25
+Andrew Ippolito: Genetic cartridge that has these little yellow lines here, these are also control elements and they're far away, so we call these distilled control outlets and so this region we call an enhancer.
+1:23:36
+Andrew Ippolito: Okay, and here's how you draw an enhancer this is it's such a simple way to think of it when once you see this you're going to love it ready remember dinis like a wet spaghetti noodle.
+1:23:44
+Andrew Ippolito: So the traditional way of seeing this is here's the promoter here's the or the open reading frame and it's down over here is the enhancer you're like well how on earth does the enhancer do anything well watch this.
+1:24:01
+Andrew Ippolito: There you go. Andrew Ippolito: it's 3D so here's your enhancer bonnie some proteins here's your promoter that's how it enhances transcription.
+1:24:14
+Andrew Ippolito: And then, a more advanced take on this would be right here downstream from the enhancer are these regions called boundary elements.
+1:24:24
+Andrew Ippolito: you'll learn about this when you take molecular biology someday all a boundary element is think of it like a bookend.
+1:24:32
+Andrew Ippolito: Okay, so, in other words the boundary element prevents that enhancer from controlling other genes enhancers tend to be associated with one.
+1:24:40
+Andrew Ippolito: This enhancer helps that gene and part of the reason why that works is there are these other proteins remember right so let's go back to your original question about all these other proteins.
+1:24:50
+Andrew Ippolito: There are boundary element proteins that help organize the DNA and so those boundary all men proteins will basically keep all of this relatively together and intact.
+1:25:02
+Andrew Ippolito: But go ahead and ask a question off mute I can read those that was. April Neeld: too complicated for. Andrew Ippolito: Real lip reading.
+1:25:09
+Alexa Deprisco: So the enhancer that's downstream of that and, like this is this is on one gene. Andrew Ippolito: Right, yes, yes, this is, this is one genetic area.
+1:25:16
+Andrew Ippolito: So you be careful, though, if I took this gene and I moved let's say I went through a chromosomal translocation and I moved that gene far away.
+1:25:26
+Andrew Ippolito: it's no longer you would say this it's no longer under the influence of that enhancer. Andrew Ippolito: It still works, it might be under the control of a different enhancer now, or it might not have any enhancer and be poorly regulated.
+1:25:38
+Andrew Ippolito: it's still it's gene though okay so don't confuse the word gene with whatever the hell, this whole thing is I don't have a word for that genes are controlled by enhancers okay collectively we call them regulatory elements, the genome is littered with regulatory elements.
+1:25:57
+Andrew Ippolito: Okay, so. Andrew Ippolito: enhancers enhance gene expression.
+1:26:04
+Andrew Ippolito: And they don't they're not an absolute requirement and not all genes have them.
+1:26:12
+Andrew Ippolito: So, think of it like this, some jeans need a little extra help.
+1:26:18
+Andrew Ippolito: or hurt anybody watched shadow and bone yet. Andrew Ippolito: No Alexis was Washington I don't know if she's here right now.
+1:26:26
+Andrew Ippolito: So the idea of So if you if you use magic you're a wizard or whatever the grecian these you can have what's called a an amplifier.
+1:26:36
+Andrew Ippolito: Right and so, if you have an amplifier your magic is now 10 times more powerful so think of that the enhancer as an amplifier it's an amplification I means of making the gene even more expressed April.
+1:26:49
+April Neeld: So does the enhancer bind to the promoter or is it just kind of next to it.
+1:26:56
+Andrew Ippolito: Like one is in that there's proteins that think of it like a swarm of proteins. Andrew Ippolito: That then work with the transcription machinery.
+1:27:04
+Okay. Andrew Ippolito: yeah so like a cleaner way of doing it would be.
+1:27:13
+Andrew Ippolito: There are some proteins here. Andrew Ippolito: And there are some proteins here and they're talking to each other.
+1:27:23
+Angela Harbeck: what's the enhancer like what's the definition for it again. Andrew Ippolito: enhance enhance it enhances gene expression.
+1:27:32
+April Neeld: Do we have to know how it enhances you. Andrew Ippolito: know. i'm just.
+1:28:18
+Andrew Ippolito: So i've said all this i'm just going to go through the slides here, we talked about the fact that plumbers doesn't bind the Dean, indirectly, and so you have transcription factors so there's general transcription factors I was calling these bazell the bazell machinery.
+1:28:32
+Andrew Ippolito: Okay, so general transcription factors are bazell transcription factors that are just semantics dif different words to say the same thing.
+1:28:40
+Andrew Ippolito: Okay, and so general transcription factors are essential for all protein coatings yes.
+1:28:47
+Andrew Ippolito: Some transcription factors bond to the top box others bind to others. Andrew Ippolito: Right so it's actually the woman, I worked with in Grad school was the code nine she was the second one that discovered so she was scooped that's what they call it she's not famous because of this reason she discovered what are called.
+1:29:06
+Andrew Ippolito: test harness promoters. Andrew Ippolito: what's really funny way of putting it right so before we discovered these we thought all jeans at the top box.
+1:29:16
+Andrew Ippolito: But she discovered that there were some functional jeans jeans that gave rise to protein products that did not have a did not seem to have a ta ta site and their promoter.
+1:29:28
+Andrew Ippolito: And so they didn't use tcp. Andrew Ippolito: They use another protein that we learned called SP one.
+1:29:37
+Andrew Ippolito: So half the genes use pvp the other half us as people. Andrew Ippolito: And SP was part of the genesis of general transcription but.
+1:29:48
+Andrew Ippolito: She might beg to differ she called a specific line so whatever we're getting into hand waving at this point.
+1:29:55
+Okay. Andrew Ippolito: And we talked about these already.
+1:30:01
+Andrew Ippolito: ETF SP one i'm sorry eat.
+1:30:07
+Andrew Ippolito: And rb Jean Pierre be.
+1:30:13
+Okay. Andrew Ippolito: And so, an activator is the opposite of our oppressor activator proteins a bind and they are so active meters combined to either the enhancer or the promoter, the idea is they just helped the gene go.
+1:30:29
+Andrew Ippolito: Okay, and all activated one of the hallmarks just like you remember receptors right receptors have a receptor domain that binds to the leg leg and binding domain and they have a trans membrane domain.
+1:30:43
+Andrew Ippolito: transcription factors that are activated have a DNA binding domain and activation domain.
+1:30:49
+Andrew Ippolito: Right, they have a DNA binding domain and they have an activation.
+1:30:59
+Andrew Ippolito: And those would be continuous.
+1:31:12
+Andrew Ippolito: Any questions. Okay.
+1:31:19
+Andrew Ippolito: So, this would be a real world example of a transcription factor. Andrew Ippolito: The genes name is my God or the proteins name is my God, and you can see here it's a very simple protein there's two so it's a header it's a hormone diametric protein.
+1:31:36
+Andrew Ippolito: Right, so you can see one pilot peptide folds up into what's called an alpha loop or helix loop helix so you can just do it all this one is a loop a loop like that, and so, think of a pair of scissors.
+1:31:51
+Andrew Ippolito: Okay, I mean this this does kind of look at the end of the day, like a pair of scissors.
+1:31:56
+Andrew Ippolito: So, each one of these. Andrew Ippolito: Is a folded up 3D poly peptide it Dima rises and now it's got.
+1:32:06
+Andrew Ippolito: This region, right here, though, it looks like the scissors that are open that just slide right into the DNA.
+1:32:14
+Andrew Ippolito: And you see this right here, you remember the major and minor group of DNA. Andrew Ippolito: Right tell you that so here if I was to just draw this again.
+1:32:23
+oops. Andrew Ippolito: Sorry.
+1:32:35
+Andrew Ippolito: Okay, this is the minor by the i'm sorry, this is the minor groove. Andrew Ippolito: And this is the major group so here the major groove is right here, see that so just picture, this is.
+1:32:48
+Andrew Ippolito: My my model DNA doesn't have the major minor grimace to symmetrical but basically the space here in here, so if I had a protein bound like this that would be a major groove binding protein this protein the single alpha helix loops right in here, this is a minor groove binding protein.
+1:33:06
+Andrew Ippolito: And so, this part of the protein is its DNA binding domain and this part of the protein is is activation domain.
+1:33:22
+Andrew Ippolito: Okay.
+1:33:30
+Andrew Ippolito: So over oppressor protein would be a protein that has a DNA binding domain.
+1:33:35
+Andrew Ippolito: But not an activation domain right that just makes sense, just pop off the activation domain, a got an oppressor alexa.
+1:33:45
+Alexa Deprisco: And the dynamics 30 module said that my God was something that promoted muscle cell development is that.
+1:33:51
+Alexa Deprisco: Sagan said, my God promotes muscle cell development by turning on the expression and multiple muscle related to something we should hold on to.
+1:34:00
+Alexa Deprisco: You don't have to know that. Andrew Ippolito: It is that true, yes, but do you have to know that for the test no but that that's it's a good example of a specific factor right it's my God is only involved.
+1:34:12
+Andrew Ippolito: In turn, genes on so so muscle cells have a set of genes that make the muscle cells, and this is the transcription factor that gives them muscle.
+1:34:23
+Andrew Ippolito: Right so every other cell in the body has those genes there they're just turned off.
+1:34:29
+Andrew Ippolito: Maybe they're even methylation who knows that would be an example of a good use case for methylation right your neurons have absolutely no need for muscle cell jeans, so why not methylation them all.
+1:34:42
+Andrew Ippolito: keep them all off forever making less likely to right we we don't ever want to turn genes on that shouldn't be on right that's part of the cancer.
+1:34:56
+Andrew Ippolito: Alright, so our oppressor protein, some of them will act indirectly by influencing chromatin structure, so you would say that he backs i'm sorry, you would excuse me, you would say that i'm H Dax our oppressor proteins.
+1:35:12
+Andrew Ippolito: Why they remove the subtle group they let them the histones stick right so that's the repression.
+1:35:19
+Andrew Ippolito: And then, some of them might dress the bind the DNA. Andrew Ippolito: And they basically compete for the same sites that the activator is do so, think of it like competitive inhibition right and so that idea there of rb repressing and he to F activating they're both binding to the same binding site.
+1:35:41
+Andrew Ippolito: who's ever their wins.
+1:35:49
+Andrew Ippolito: And then still other oppressors might bind to the activator before they get to the DNA and sequester them.
+1:35:58
+Andrew Ippolito: So imagine, something that binds to eat and prevents it from bonnie to DNA.
+1:36:09
+Andrew Ippolito: turns out rb does that, too, I don't want to get too complicated so rb bites of DNA but also rb by ctf and prevents he to fit DNA.
+1:36:20
+Andrew Ippolito: So there's a complex between rb need to have.
+1:36:26
+Okay. Andrew Ippolito: This is where things get awesome this is this concept here just one of my favorite concepts and the whole thing we talked about common editorial control gene activation okay we're talking like.
+1:36:43
+Andrew Ippolito: You guys ever see the da Vinci code remember the Codex that had the little things that turned OK, so the idea is we're dealing with multiple control elements on a single gene.
+1:36:54
+Andrew Ippolito: Alright, so let me give you the basic concept really quick. Andrew Ippolito: here's a promoter this promoter can have multiple control elements on it.
+1:37:06
+Andrew Ippolito: That each bind to a different protein.
+1:37:15
+Andrew Ippolito: And maybe even multiple proteins.
+1:37:27
+Andrew Ippolito: So just step back and digest that for a second. Andrew Ippolito: Okay, we can have multiple transcription factors bind to the same promoter.
+1:37:39
+Andrew Ippolito: And so let's just for our pretend example here say that the top ones here are the activator, and these are oppressors.
+1:37:48
+Andrew Ippolito: So when a is bound to the DNA it activates the gene or I should say it contributes now we're gonna have to think about contributing to remember the idea.
+1:37:56
+Andrew Ippolito: And the inducer we had double we had two lovers there right and remember what we've talked about like if cyclic amp D levels were high in the cell.
+1:38:05
+Andrew Ippolito: And lactose levels were high in the cell, we would have the crypt protein helping and the oppressor off and so that would be fully expressed.
+1:38:13
+Andrew Ippolito: right that was that was just two lovers now we're talking about 12 lovers up to 12 lovers OK, so now, you can think of it's when you add it all together, you basically get a dial.
+1:38:27
+Andrew Ippolito: And that dial could be set too high medium, you know it has a bunch of tick marks.
+1:38:34
+Andrew Ippolito: I think of a treadmill speed controller, you can set the treadmill to one or 1.1 or 1.2 or 1.3 all the way up to whatever 15.
+1:38:44
+Andrew Ippolito: Right, so you can't set it to 1.1 to five, but you can set it to 1.7 so there's some amazing level of control there.
+1:38:52
+Andrew Ippolito: Most of our genes are like this. Andrew Ippolito: And so you can think of the promoter as a barcode.
+1:39:05
+Andrew Ippolito: So whatever this gene is. Andrew Ippolito: When it is under this kind of control called combination of control.
+1:39:13
+Andrew Ippolito: You can highly refined. Andrew Ippolito: The gene expression, you can turn it on a little bit a little bit more a little bit more, you can maximize it and everything in between.
+1:39:25
+Andrew Ippolito: Remember the goal of all this is to save energy right. Andrew Ippolito: And so, in are insanely complicated bodies with are insanely complicated cells and are insanely complicated tissues and insanely kaput immune systems and hormone controls, it stands to reason that we have to have an insane level of control over our genes.
+1:39:43
+Andrew Ippolito: And this is where the meat of it all is. Andrew Ippolito: we're still pulling this apart, this is still active research.
+1:39:53
+Andrew Ippolito: OK, but so that's the basic idea so imagine, I have a present and see President and F present and K present and the present and be present.
+1:40:04
+Andrew Ippolito: Very well how on is that I don't know but it's on a little bit it's not on all the way, in other words, I have an activator and activator an activator a repressive very pressure pressure, so the genes kind of leaky.
+1:40:17
+Andrew Ippolito: right that kind of they all neutralize each other out so there it's pretty much off i'll tell you what let's add one more activator here's make an.
+1:40:22
+Andrew Ippolito: analogy easier so as a little bit more of the plus and minus now the genes on just a little bit like turn your faucet on there's a bunch of drops of water coming out.
+1:40:29
+Andrew Ippolito: Okay. Andrew Ippolito: If I removed this one here now it's on a little bit more if I added this one here now there's a tug of war between the D and then Jay right.
+1:40:41
+Andrew Ippolito: Okay, so maybe I put a bunch more D in there and not as much Jay, this is what we're talking about, we can just play with this now.
+1:40:51
+Andrew Ippolito: that's complimentary all control questions.
+1:41:00
+Victoria Bloemker: Would you mind going to the actual definition of it. Andrew Ippolito: yeah let's let's go to the PowerPoint now.
+1:41:06
+Andrew Ippolito: Okay, so a specific combination of control elements can activated gene only one only one all activities are present.
+1:41:17
+Andrew Ippolito: that's slightly different than what I just taught you I realized. Andrew Ippolito: that's not entirely true either.
+1:41:24
+Andrew Ippolito: Go with what you know just let's be safe let's go with what the book says.
+1:41:34
+Andrew Ippolito: The average gene has about 12 different control elements.
+1:41:44
+Andrew Ippolito: This is how you carry oats are able to control 20,000 genes, at the same time.
+1:41:50
+Andrew Ippolito: Okay, because just do some simple math here if each control elements 12 control elements if each control element had four proteins that dealt that had dealt with that would be for.
+1:42:03
+Andrew Ippolito: To the 12th power. Andrew Ippolito: Right I don't know what that number is but it's really big.
+1:42:12
+Andrew Ippolito: it's way more than 20,000. Okay.
+1:42:17
+Andrew Ippolito: So what I call I coined this phrase I don't know if people use it, but I coined this phrase, I like this one of my favorite things that i've made up.
+1:42:25
+Andrew Ippolito: The idea of a gene constellation, this is the eukaryotic solution to an operand okay so ready in the bacterial operand.
+1:42:34
+Andrew Ippolito: You have a bunch of genes those structural genes under the control of the promoter and the operator right, so we can turn three jeans at the same time, or whatever in a you carry up if this is the nucleus, I want you to imagine.
+1:42:51
+Andrew Ippolito: The same set of control elements on a promoter scattered throughout the genome and all these different places.
+1:43:00
+Andrew Ippolito: So there's 20 genes that all have the exact same promoter and control elements.
+1:43:08
+Andrew Ippolito: right they don't have to be next to each other, they could literally be anywhere on the genome this one's on chromosome seven this one's on chromosome 14 this one's here, whatever.
+1:43:16
+Andrew Ippolito: And so, when we activate those transcription factors we activate all those genes, at the same time, and you can imagine that activation as a constellation.
+1:43:31
+Andrew Ippolito: that's why we don't have opterons we don't need them, we have something far more grandiose.
+1:43:45
+Andrew Ippolito: To my definition of a gene constellation is it's a group of genes that are all under the same continent Arielle control.
+1:43:54
+Andrew Ippolito: So you could talk about the gene constellation of SPS jeans.
+1:44:00
+Andrew Ippolito: Maybe it'll catch on if enough people use.
+1:44:13
+Andrew Ippolito: You can also call machine clusters. Okay.
+1:44:20
+Andrew Ippolito: So here's my slide on how this works there's just three elements three control and they're either on or off reading so you can imagine, for control element one.
+1:44:31
+Andrew Ippolito: it's off control to is off control three is off so in scenario one here they're all off that's your faucet being completely turned off.
+1:44:40
+Andrew Ippolito: scenario to it's on just a tiny bit scenario three it's on a little bit more scenario for it's on.
+1:44:48
+Andrew Ippolito: As much as two because there's only one present there right just one activity here one activated here, but they might be activated under different conditions, you know, one might be I don't know.
+1:44:58
+Andrew Ippolito: Under high salt conditions and the other one might have to do with if it's light or dark outside.
+1:45:05
+Andrew Ippolito: i'm just making it up okay so for just three different.
+1:45:11
+Andrew Ippolito: For just three different control elements. Andrew Ippolito: being controlled by two proteins and on and off we get eight different states So these are all 5678, these are the different States, it could be.
+1:45:24
+Andrew Ippolito: And that's just assuming one single transcription factor for each one right you're either there you're not there just see there's just an activator protein forget repression and the active meters President or the activator zap.
+1:45:37
+Andrew Ippolito: that's as simple as this can get so imagine multiple transcription factors her site summer oppressors and summarize debaters and then add that.
+1:45:48
+Andrew Ippolito: Number from three go up to 12 and you can start to imagine how mind blowing Lee complicated gene regulation and eukaryotes is, and this is just on the level of transcription.
+1:46:00
+Andrew Ippolito: We haven't even talked about alternative splicing or regulating it's export from the nucleus are regulating its translation.
+1:46:10
+Andrew Ippolito: Each one of these is an entire world. Andrew Ippolito: of knowledge.
+1:46:18
+Andrew Ippolito: Which is why i'm going to still stick to the idea that we're going to need artificial intelligence to really pull us apart.
+1:46:25
+Andrew Ippolito: and understand that there's a realm of biology that you might go into someday it's an emerging field it's not it's it's has since emerged is closed systems biology.
+1:46:38
+Andrew Ippolito: So, for those of you who have the brain for math and logic and computer programming and you're like this stuff this might be your field of choice systems biology has the very aspirational goal of understanding life at the system's level.
+1:46:55
+Andrew Ippolito: we're gonna have to understand all this to recreate it at some point in the lab.
+1:47:01
+Andrew Ippolito: Or at least to understand that well enough, so we can solve the problems we deal with.
+1:47:07
+Andrew Ippolito: Okay. All right.
+1:47:15
+Andrew Ippolito: let's see what this, I just want to read through this really quick see there's anything useful in here, I think this is just basic transcript y'all here okay here's here's how enhancers work so i'll do i'll run this little bit.
+1:47:25
+Andrew Ippolito: i'll put the sound on to you, so you can hear it.
+1:47:31
+Andrew Ippolito: Here we go. Most of the fine tuning of gene expression occurs at the transcription level making an RNA copy of a DNA sequence.
+1:47:41
+recall that to initiate transcription and RNA polymerase must bind to the promoter region adjacent to a gene.
+1:47:48
+This cannot occur without the help of specific protein transcription factors some transcription factors called activator bind to enhancer regions some distance from the gene.
+1:48:01
+The DNA ben's bringing the activator is closer to the gene where the activator is interact with other transcription factors and RNA polymerase to initiate transcription.
+1:48:13
+Andrew Ippolito: Okay, I love his videos they just end.
+1:48:18
+Andrew Ippolito: Yes, alexa. Alexa Deprisco: In our book on page 375 and reference to like how it begins to reach the enhancer it talks about a DNA bending protein.
+1:48:30
+Andrew Ippolito: sure. Andrew Ippolito: there'll be proteins right here that help contort the DNA they're probably till boy some races generically they're all called chromatin.
+1:48:42
+remodelling. and
+1:48:48
+Andrew Ippolito: An example would be what I said earlier, there's the. Andrew Ippolito: there's swift there's the switch what's the acronyms.
+1:48:56
+Andrew Ippolito: it's been too many years which sniff complex hold on.
+1:49:04
+I misspelled that.
+1:49:10
+Andrew Ippolito: Complex there it is. Andrew Ippolito: Here, if you really want to dig into this.
+1:49:19
+Andrew Ippolito: put this in in the chat right there that's there's a wiki entry on it, but take it with a grain of salt, but.
+1:49:26
+Andrew Ippolito: switch sniff deter ATP dependent chromatin remodeling complexes.
+1:49:33
+Andrew Ippolito: yeah they just help. Andrew Ippolito: remodel the content, so that would this it's a.
+1:49:41
+Andrew Ippolito: switch. Andrew Ippolito: sniff that's not forget that T swim and it's a customer proteins that helps contort the DNA in two ways that are favorable or unfavorable in this case for gene expressions.
+1:49:57
+Okay. Andrew Ippolito: All right, any other questions.
+1:50:06
+All right. Andrew Ippolito: that's as hard as it gets the rest of this is kind of easy sailing.
+1:50:13
+Andrew Ippolito: So transcription alone obviously doesn't cost the gene expression there's post transcription of processing there's the copy and detailing and the spacing and all that.
+1:50:19
+Andrew Ippolito: Good stuff right so that regulatory mechanisms exist at every level past that so the key what I want you to be able to understand.
+1:50:27
+Andrew Ippolito: Is I want you to be able to identify correctly, the level of control for a given math mechanism and other words let's go back to the very first slide this whole thing.
+1:50:40
+Andrew Ippolito: I want you to be able to say that has an H dex work at the chromatin structure level transcription factors work at the level of transcription control.
+1:50:47
+Andrew Ippolito: Alternative splicing works at the level of post transcription will control variation of those poly tales right, so I can just give this to you in a very simple summary here remember the poly a tail.
+1:50:59
+Andrew Ippolito: Those can be long or short, they can vary in length from 50 to up to 250 different a's, and so the longer they are the longer that Mr and a will live.
+1:51:10
+Andrew Ippolito: right because remember they're getting gobbled up there's like a bomb views so you can have variable length poly tail so that would be an example of post transcription will control.
+1:51:19
+Andrew Ippolito: Okay. Andrew Ippolito: Number alternative splicing the idea of the axon in tron shuffling around.
+1:51:30
+Andrew Ippolito: that's a level of post transcription control. Andrew Ippolito: And then really.
+1:51:38
+Andrew Ippolito: The idea of nuclear export Controlling the export of the RNA into the cytoplasm.
+1:51:44
+Andrew Ippolito: would be the very last of these levels and post transcripts no control beyond that.
+1:51:52
+Andrew Ippolito: All i'll say is there are proteins that can inhibit the translation from occurring.
+1:52:00
+Andrew Ippolito: Think about a protein that prevents the ribosome from binding to the RNA, for example, so here remember we had.
+1:52:07
+Andrew Ippolito: If this is our mature transcript so here's our five prime and here's our poly a tail here's our start code on right here there's a yuji here's our five prime on translated region here's our three prime on translator region there's other.
+1:52:22
+Andrew Ippolito: And here's the value tr imagine proteins that bind here.
+1:52:27
+Andrew Ippolito: That prevent. Andrew Ippolito: The small ribas almost subunit.
+1:52:38
+Andrew Ippolito: From binding. Andrew Ippolito: So you close translation and happier proteins.
+1:52:44
+Andrew Ippolito: And then here's another one, this is, this is probably the coolest if this is the RNA and this right here is the open reading frame Those are all the all the code ons imagine a piece of RNA.
+1:52:59
+Andrew Ippolito: That has complimentary to that. Andrew Ippolito: This would be antisense.
+1:53:06
+Andrew Ippolito: RNA. Andrew Ippolito: And so that antisense RNA binds to the reading frame.
+1:53:16
+Andrew Ippolito: And that does two things one it prevents the ribosome from reading along and but to this is very important cells, do not tolerate double stranded RNA.
+1:53:28
+Andrew Ippolito: that's double stranded RNA right there There we have an entire complex of proteins that shred double stranded RNA D s RNA.
+1:53:39
+equals bad. Andrew Ippolito: Your cell will destroy it.
+1:53:45
+Andrew Ippolito: So this form of gene repression.
+1:53:51
+Andrew Ippolito: is called RNA silencing.
+1:53:58
+Andrew Ippolito: And sometimes you'll see RNA with a lowercase I and that stands for inhibition.
+1:54:12
+Andrew Ippolito: Okay, and the RNA molecules so RNA is the technique of inhibiting genes from expressing right, so this is we call arnie silencing RNA.
+1:54:24
+Andrew Ippolito: that's the technique, the molecule itself is generally referred to this antisense piece RNA is called an s I RNA and the SI stands for small.
+1:54:36
+Andrew Ippolito: inhibitory.
+1:54:41
+Andrew Ippolito: here's a mind blowing part some sometimes in some jeans that antisense piece of RNA that si RNA could be one of their interns.
+1:54:52
+Andrew Ippolito: Right, a lot of students who are paying attention to all this, asked me the question from time to time, is there any function for.
+1:54:59
+Andrew Ippolito: The answer is yes, but it's complicated, this is one of those answers some electrons could serve as an inhibitor.
+1:55:09
+Andrew Ippolito: Maybe not to its own gene maybe to a gene that at once off right if this gene turns on maybe for whatever reason, this gene being turned on, we want to shut that other gene off, and so this gene has an electron that can go and start that gene off.
+1:55:27
+Andrew Ippolito: Did that make sense. Okay.
+1:55:35
+Andrew Ippolito: So this is the world of translation control good excellent.
+1:55:43
+Andrew Ippolito: Oh, I thought you your MIC went on for two seconds okay. Andrew Ippolito: All right, can I delete this.
+1:55:48
+Andrew Ippolito: is ready for me now okay okay good.
+1:55:54
+Andrew Ippolito: Now i'm getting better at that. Andrew Ippolito: That abrupt anyway, like it was just cut me go back and look at that i'm sorry it's a bad habit of mine in this whole zoom world that i'm trying to break and so.
+1:56:07
+Andrew Ippolito: Okay, so translation so and then Lastly, and this is the world that we've already lived in most of the Semester and we're just going to put a name to a face now ready whenever we talked about phosphor leading a protein, we talked about kinases and phosphorylation.
+1:56:22
+Andrew Ippolito: We talked about a settle eating histones right anytime we pick a protein here's a protein anytime we take this protein and we add something to it like a phosphate group.
+1:56:35
+Andrew Ippolito: Or we have this histone tail and we acetylene it. Andrew Ippolito: that's called a post translational modification.
+1:56:45
+Andrew Ippolito: And that's post translational regulation right I when you work in the field we generally just call them that's an example of post translational translate all modification.
+1:57:01
+Andrew Ippolito: Okay there's a your book talks about there's something called a pro enzyme.
+1:57:08
+Andrew Ippolito: The pro enzyme is like a pre enzyme think about the poly peptide chain like this here's the end to see and let's see that right here.
+1:57:17
+Andrew Ippolito: Is the useful part that's the catalytic useful stuff is the enzyme part and then over here this part here just prevents it from working and so to activate this protein, we have to cleave it right here, we have to break that piece off.
+1:57:31
+Andrew Ippolito: And so, this part over here folds up into the right shape and that's your enzyme that's your activists on.
+1:57:39
+Andrew Ippolito: This part just who know some i'm sure in some situations that has a function by itself, but just as far as we're concerned it gets broken down the amino acids get broken down and we used to make new proteins, that would be this would be another level of post translational control.
+1:57:56
+Andrew Ippolito: Okay, another one number CD case, remember that CD case like the independent kinases they're always there but they're inactive.
+1:58:04
+Andrew Ippolito: And the only way, you can activate a CD K, is to have the gene expression, give rise to a cycling protein that then goes and binds to the CD and that complex becomes reactive protein.
+1:58:14
+Andrew Ippolito: that's another example of push translational modification or push translational regulation.
+1:58:23
+Andrew Ippolito: Right.
+1:58:35
+Andrew Ippolito: alright. Andrew Ippolito: So i'm going to teach you a few of these that we haven't talked about yet.
+1:58:41
+Andrew Ippolito: i'm just gonna teach you one more. Andrew Ippolito: ubiquitous nation right so post translational modifications we've already talked about phosphorylation.
+1:58:54
+Andrew Ippolito: we've talked about acetylene.
+1:58:59
+Andrew Ippolito: We actually talked about I haven't said this yet today but we've talked about this previously like oscillation.
+1:59:08
+Andrew Ippolito: Right remember glycoproteins. Andrew Ippolito: Remember those sit on the surface of your cells like your amb proteins or mhc That was the so examples of those would be your me see molecules those are involved in your immune system, the major histocompatibility complex, we talked about the A, B O blood some blood markers okay.
+1:59:35
+Andrew Ippolito: we've associated these with histones. Andrew Ippolito: And we associate this with everything.
+1:59:43
+Andrew Ippolito: Right, everything is formulated.
+1:59:49
+Andrew Ippolito: So here's one more. Andrew Ippolito: it's called ubiquity.
+1:59:57
+ubiquity ubiquity. Andrew Ippolito: nation, you might see this sometimes written I don't like this, but this is what some people use you be queer tin no.
+2:00:13
+Andrew Ippolito: there's no difference, it depends on who's talking about, it is a longer word Why not use the shorter word.
+2:00:20
+Andrew Ippolito: Okay, what ubiquitous. Andrew Ippolito: Does anybody know what the word ubiquitous means.
+2:00:29
+Andrew Ippolito: that's it, this is, this is an English word This might be a word you're not familiar with this, so this is my quick little English lesson here you quit this when something is ubiquitous you be I Qu I to us.
+2:00:46
+Andrew Ippolito: let's say a. Andrew Ippolito: source code to right now as ubiquitous.
+2:00:51
+Andrew Ippolito: oxygen gases ubiquitous. Andrew Ippolito: anxieties ubiquitous.
+2:00:59
+Andrew Ippolito: zoom as ubiquitous remote classes are ubiquitous right now what's to me.
+2:01:04
+Victoria Bloemker: it's like President. Andrew Ippolito: Well, but as President were.
+2:01:10
+Victoria Bloemker: Like. Andrew Ippolito: Yes, that's. Andrew Ippolito: ubiquitous means it's everywhere.
+2:01:17
+Andrew Ippolito: And so the first researchers to discover this protein said hey guys look at this this proteins like literally everywhere let's call it ubiquitous and.
+2:01:28
+Andrew Ippolito: that's where it gets his name from. Andrew Ippolito: Not very informative but that's why it's called that you can abbreviate it you be.
+2:01:36
+Andrew Ippolito: ubiquitous a tiny protein think of it like a tag alright, so if this is, this is a normal protein let's say this is, you know, whatever act in or something or collagen or whatever ubiquitous in is this tiny little protein that gets added to it.
+2:01:55
+Andrew Ippolito: In a product called ubiquitous nation Okay, and what this does is this serves as a signal to the cell that this protein is time to go we're going to break this protein down, this is a degradation flag.
+2:02:11
+Andrew Ippolito: Right, this is what happens when the cell says, I don't need this protein anymore it's been oxidizes little broken let's just get rid of it.
+2:02:18
+Andrew Ippolito: ubiquity comes along and gets tagged as a there are ubiquitous transfer races, you know, to know about those just the idea of this cell ubiquitous these things, and so ubiquitous protein the generic version of that job or the generic impact of ubiquitous nation is it is marked for degradation.
+2:02:49
+Andrew Ippolito: And where it goes. Andrew Ippolito: Is an Oregon now that I have been hiding from you all semester.
+2:02:57
+Andrew Ippolito: like an Oregon now like, like the endoplasmic reticulum or the laces um it's it's called the proteas.
+2:03:03
+Andrew Ippolito: I have no idea why your book does not teach you this and it's kind of a crime against biology students, because this thing is so important it's called the pro Deism ready watch.
+2:03:13
+Andrew Ippolito: Pro to those employees, if your book does mention this somewhere tell me, because I have been unable to find it's not in the cell chapter.
+2:03:23
+Andrew Ippolito: Okay it's an Oregon at all if you think i'm making this up true.
+2:03:31
+Andrew Ippolito: i'll show you a pretty picture of it.
+2:03:38
+Andrew Ippolito: Alright that's the 20 success protease. Andrew Ippolito: Alright it's basically a.
+2:03:46
+Andrew Ippolito: Paper shredder for proteins right, so, in other words. Andrew Ippolito: The proteins.
+2:03:52
+Andrew Ippolito: Common Oh, you know what i'll tell you let me, let me give you the much, much, much simpler cartoony version.
+2:04:00
+Andrew Ippolito: Right it's basically think of it like a cylinder. Andrew Ippolito: With a hole in one side.
+2:04:07
+Andrew Ippolito: And then exit, on the other, and so a protein will go in here if it's tagged with ubiquity.
+2:04:15
+Andrew Ippolito: And it'll come out the other side. Andrew Ippolito: As amino acids.
+2:04:26
+Andrew Ippolito: This is intact protein. Andrew Ippolito: So this thing is called the protein from pro pro Deism.
+2:04:37
+Andrew Ippolito: Okay it's a grinder it's like a tree stump grinder it just just rips the whole thing up POPs it out, the other side, and now the cell has a bunch of amino acids.
+2:04:49
+Andrew Ippolito: And it's highly regulated, as you can imagine you don't want this thing going around eating this solo yeah exactly it's not in the book that's why that's why i've been it's a secret.
+2:05:01
+Alexa Deprisco: Study module, though.
+2:05:06
+Andrew Ippolito: That makes no sense but that's good to know it's in the den that what what does it say that dynamic study module.
+2:05:12
+Alexa Deprisco: Third down verbatim the role of criticisms, they are giant protein complexes that recognize ubiquitous and degrade the tags proteins.
+2:05:21
+Andrew Ippolito: know. Andrew Ippolito: There you go, so you so he wasn't lying.
+2:05:27
+Andrew Ippolito: It is, it is really weird that this isn't an A major level biology buddy I first learned these I think cell biology actually I still remember.
+2:05:35
+Andrew Ippolito: I don't know the exact moment but I remember you know cell biology in the beginning of the class you learn.
+2:05:40
+Andrew Ippolito: about all the organelles like you did, but just in grotesque detail right you spend the entire semester on the cell, and you know as you're going through the different organelles you get to the proteasome and you're like.
+2:05:51
+Andrew Ippolito: So wait is this like a new thing they know it's just why isn't a major why don't we learn about this, to begin with, well, you are i'm giving it to you, even though your book doesn't so that you don't get blindsided by it in the future.
+2:06:05
+Andrew Ippolito: It Julie asked her boyfriend did he learned about the proteasome and his majors biology when did he learn about the produce more he might be like what's the protocol I don't know.
+2:06:14
+Andrew Ippolito: i'm really curious so so For those of you heard her boyfriend does research at drexel he's I think he's a Grad student and he does this stuff that I used to do.
+2:06:22
+Andrew Ippolito: And the microscope and a slightly I mean he doesn't do exactly what I did, but we can talk shop a little bit so i'm just curious to know his his educational background all right and let's hurry up let's learn something before she gets back.
+2:06:37
+Andrew Ippolito: Okay, so that's ubiquitous nation, but he said.
+2:06:42
+Julia Lakchin: Can you hear me. yeah. Julia Lakchin: Hello. Andrew Ippolito: yeah yep can you hear me.
+2:06:51
+Andrew Ippolito: She can she's got her okay she's amit there.
+2:06:57
+Julia Lakchin: Can you hear me. Yes. Julia Lakchin: You can. Andrew Ippolito: Okay, when did you first learn about the proteasome this thing.
+2:07:06
+Andrew Ippolito: The paper shredder with ubiquity or did you learn about it. Julia Lakchin: That would have been like freshman year, but I really don't remember much.
+2:07:14
+Andrew Ippolito: that's that's fine that's fine but you're not in class my quizzing you I was just curious because our textbook the text book Julie has gotten her class there.
+2:07:21
+Andrew Ippolito: does not have the proteasome in it, but alexa just identified it and the dynamic study module so there's a question on it, but the book doesn't even mention it April did a search in there.
+2:07:30
+Andrew Ippolito: Right yeah I guess you did control APP or whatever, and so I was just curious, I know that you you've gone through all this, too, but so you learned about a freshman year that yes, they are impression in your head you didn't learn about like cell biology or molecular biology or.
+2:07:43
+anything. Julia Lakchin: I think, really, really mentioned it in introductory like biology um.
+2:07:49
+Julia Lakchin: But it never came up again. Julia Lakchin: Maybe like in passing, or something, but I don't think we actually spent a significant amount of time on in any other class.
+2:07:56
+Andrew Ippolito: Even in the more advanced stuff. Andrew Ippolito: that's the policy that's the part that's bugging me this this is it's such a pivotal thing and cell biology molecular biology so but.
+2:08:07
+Julia Lakchin: A lot of my I will say a lot of my classes are more like narrow focus because they come in neuroscience major.
+2:08:13
+Andrew Ippolito: Okay Okay, a lot of my early a lot of my biology classes earlier on.
+2:08:18
+Julia Lakchin: And then, a lot of my later classes are more advanced like narrow and. Andrew Ippolito: know that right you're neuroscience not molecular okay that makes sense, and so this this plays a role and.
+2:08:30
+Andrew Ippolito: i'm sure there's degradation disease in the neurons with the produce them. Andrew Ippolito: Anyway, alright. Julia Lakchin: Thanks not important.
+2:08:37
+Julia Lakchin: it's not drexel it's you sciences. Andrew Ippolito: Oh, you sciences sorry sorry I was at drexel.
+2:08:43
+Andrew Ippolito: Okay alexa. Alexa Deprisco: there's literally one sentence at the very end of 18 to that mentions produce rooms one time.
+2:08:55
+Alexa Deprisco: And it's like so casual it says giant protein complexes called produce items that recognize you the ubiquitous tagged proteins and degrade them it's like literally like this much text like non.
+2:09:06
+Alexa Deprisco: One it's like so nominal okay so here's. Andrew Ippolito: here's what i'm going to guess the reason why this is so weird for you guys.
+2:09:14
+Andrew Ippolito: there's another secret protein that I didn't teach you about called sumo which is fun to say like sumo wrestler and this you don't have to know split test, this is what I worked on in my my research sumo stands for small ubiquitous in like modifier.
+2:09:32
+Andrew Ippolito: So it's a protein that looks like sumo but it doesn't do the same thing, and so I had to deal with ubiquitous a lot.
+2:09:39
+Andrew Ippolito: And sumo and sumo doesn't target things for the protein so maybe the proteins on is this weird shadow we think most people don't think about and then I just had to for my own.
+2:09:50
+Andrew Ippolito: topic of knowledge and, but it should be something that's more common now because it plays a very important role and sell your life it's where all proteins go to remember that you know the license on right the license on breaks down old stuff too.
+2:10:06
+Andrew Ippolito: So there's a producer and that's all that's all i'll say about it, so you don't have to know.
+2:10:12
+Andrew Ippolito: What the proteins on does, although now you do and i'm sure you're not going to really be able to forget this, because it's it's paper shredder in the cell less than you do need to know that ubiquitous as an example of post translation modification.
+2:10:25
+Andrew Ippolito: It often awesome oh. Andrew Ippolito: I shouldn't want to know about sumo anymore either.
+2:10:33
+April Neeld: question. Andrew Ippolito: yeah good. April Neeld: So I tried to look up ubiquitous in the book and if nothing came up.
+2:10:41
+Andrew Ippolito: Sorry well you got it. April Neeld: doesn't have like another name, by any chance.
+2:10:47
+Andrew Ippolito: No it's ubiquitous in. April Neeld: You quit.
+2:10:56
+it's a teeny tiny protein here. Andrew Ippolito: that's ubiquitous teeny tiny protein so that's cool it's like it's got both an alpha helix and a bit of sheet as maybe that should be used as like a classical example of a protein it's small and it's got the fancy things to it, oh God those like okay i'm not looking at that anymore.
+2:11:18
+Andrew Ippolito: like seeing. Andrew Ippolito: The wild so that like you see the light the word lysine their license or where you attach this to the target pretty right, so if if this was a protein here that was getting attached to it would be attached by the lysine there.
+2:11:39
+Okay. Andrew Ippolito: yeah so don't so no you got to know ubiquity and then you heard it here first folks.
+2:11:47
+Okay. Andrew Ippolito: What else.
+2:11:55
+Andrew Ippolito: Is it oh gosh where we would time to 45. Andrew Ippolito: I completely forgot that's my bad here.
+2:12:03
+Andrew Ippolito: The mutation stuff here the rest of this stuff and there's there's ubiquity and there's degradation.
+2:12:10
+Andrew Ippolito: there's nothing I didn't mention here already, this is all. yeah.
+2:12:17
+Andrew Ippolito: Let me take this this is easy, this will take me just a few minutes to go over the idea here is in particular we're going to learn.
+2:12:26
+Andrew Ippolito: About point mutations okay individual changes to the nucleotide.
+2:12:35
+Andrew Ippolito: The word itself mutation used to be something that changes the phenotype oh hey look i'm muting P that's yellow now, instead of green or mean it's green and yellow right we now understand that the word mutation is a change in the DNA sequence.
+2:12:52
+Andrew Ippolito: So. Andrew Ippolito: This is distinct from the mutations you've already learned about remember a chromosome can be president or Apps in right, you can have trisomy or masami.
+2:13:04
+Andrew Ippolito: Remember, you can have deletions duplications trans locations insertions right Those are all the different that's chromosome level mutation now we're talking about individual nucleotides.
+2:13:17
+Andrew Ippolito: And we're going to go through these one, at a time, so you can use this right here, as part of like your study guide.
+2:13:22
+Andrew Ippolito: Okay, but we're going to go through these one, at a time and I have these all set up nicely, where we have our we have our reference point there there's our DNA and we're gonna really is the RNA right we're talking about protein coding mutations in this case.
+2:13:37
+Andrew Ippolito: And so we're going to see we're just reading this right you you, you see you, you a you, you would you right, and so you see you stands for serious right.
+2:13:46
+Andrew Ippolito: If we change that last amino acid sorry sorry that last nucleotide in the first code on if we change this where's my mouse we change this you to an A.
+2:13:58
+Andrew Ippolito: you'll see that it still stands for searing. Andrew Ippolito: Okay, so this is called a silent mutation it's silent, because the protein hasn't changed at all.
+2:14:09
+Andrew Ippolito: questions. Andrew Ippolito: Okay. Next.
+2:14:16
+Andrew Ippolito: we're taking we're using the same sequence throughout these examples. Andrew Ippolito: we're going to now change that you see you to AC so we go from searing the amino acids Syrian you see you, to the amino acid three me.
+2:14:30
+Andrew Ippolito: Okay. Andrew Ippolito: Now so So the idea of changing one amino acid to another amino acid that is called a miss sense mutation it's like misspeaking.
+2:14:43
+Andrew Ippolito: Okay, remember sense and anti sense, so this this just makes sense oops I made a mistake, this is miss sense i've said the wrong thing and there's two kinds of missiles mutations.
+2:14:56
+Andrew Ippolito: Because Syrian and three mean turn out to be biochemically very similar we call this a conservative miss sense mutation.
+2:15:07
+Andrew Ippolito: it's conservative because you're in a three and enter very similar biochemically Okay, so if we look at those of the side chains, you can see that searing here is a carbon attached to a hydroxyl group.
+2:15:19
+Andrew Ippolito: Where it's three main as a carbon attached to another carbon. Andrew Ippolito: And the hydroxyl group so there's really you can think of Syrian maybe as i'm methyl latency or i'm sorry, you can think of three main here as methylation Syrian and we've added a methyl group to it so they're very, very similar.
+2:15:41
+Andrew Ippolito: Right so in the lab if you're, these are the amino acids that turn out to get phosphor elated.
+2:15:48
+Andrew Ippolito: Right, so if you mutate a protein in lab you meet a Syrian and lab and you convert it to a three again you'll still see a good fastball related whereas if you so so that's a conservative Mrs mutation.
+2:16:02
+Andrew Ippolito: Okay. Andrew Ippolito: you'll also notice that searing the three inning differ just by a single base in our kota.
+2:16:11
+Andrew Ippolito: So they're biochemically similar and the wobble effect kind of works on both sides of these code on so, in other words, we have a whole set.
+2:16:20
+Andrew Ippolito: of code ons. Andrew Ippolito: For just these two amino acids right so there's remember that these are also amino acids that have more than four code ons Syrians got these four add another two over here.
+2:16:34
+Andrew Ippolito: Right and three mean also has whereas an AC see there's the other two for three inning there's three here i'm sorry there's 443 and in here a see you.
+2:16:50
+ACC JC a CG.
+2:16:58
+Andrew Ippolito: Oh that's why I did that. Andrew Ippolito: Right, the idea is for three inning and Syrian even their middle words, the same right, this is.
+2:17:09
+Andrew Ippolito: This is see you, and this is see you. Andrew Ippolito: Right, so the idea is is these 10 code ons.
+2:17:20
+Andrew Ippolito: Are all functionally the same. Andrew Ippolito: Right 10 out of 64 code ons that tells you why they're so important.
+2:17:29
+Andrew Ippolito: Right, these are essential to life. Julia Lakchin: Do we have to know.
+2:17:35
+Andrew Ippolito: like that, no, no, no, no, you have to know you have to memorize not just understand. Andrew Ippolito: The concept of a conservative misinterpretation.
+2:17:44
+Andrew Ippolito: that's the idea of its conservative because they're similar biochemically.
+2:17:50
+Andrew Ippolito: Okay, so you would say there's point mutations within the point mutation so far we've learned silent and we've learned miss sense.
+2:18:01
+Andrew Ippolito: Within miss sense mutations there's conservative and then we're going to learn what's the next one here we're gonna call radical.
+2:18:10
+Andrew Ippolito: which, as you can, if you're following along, you can understand the radical because they have very different biochemistry.
+2:18:19
+Andrew Ippolito: right here so watch this we're going to go from ucu to you G and that turns that Syrian into assisting.
+2:18:28
+Andrew Ippolito: So this is a radical misinterpretation, we have dramatically altered the biochemistry of that amino acid.
+2:18:38
+Andrew Ippolito: there's the side chain of Syrian that oh each group, and you can see that 16 instead as a self hydro group attached to it which you can't fast for all eight and actually that that engages in sulfur bonds right the Member a salt bridges or die die sulfide bonds.
+2:18:54
+Andrew Ippolito: So you're definitely going to break the protein whatever it originally did it's going to now not do that maybe there's something cool and new but chances are i'll just not working that's bad.
+2:19:07
+Andrew Ippolito: All right, the nonsense mutation don't think of it like nonsense, like the word nonsense think of it like no there's no sense there, in other words we're making a new stop code on we're making there's ago so i'm going hga which normally encodes friend amino acid and we're making it stop.
+2:19:29
+Andrew Ippolito: And so it's nonsense, because no additional translation occurs. Andrew Ippolito: These are evolutionarily very important mutations The reason for that is.
+2:19:40
+Andrew Ippolito: The proteins that result from these mutations we call truncation mutations the word truncate just means chop off right So if I have the number 9.99 and I asked you to round that to the nearest whole number, you would give me what.
+2:20:01
+Taylor Campbell: 1010. Andrew Ippolito: If I told you to truncate that.
+2:20:08
+Andrew Ippolito: would give me nine. Andrew Ippolito: Just chop off the decimal point that's what truncate means.
+2:20:19
+Andrew Ippolito: Okay, so truncation mutation.
+2:20:25
+Andrew Ippolito: here's a full length protein think of my odd because you've already seen that one in action it's got the helix loop helix this one binds the DNA this one binds to RNA polymerase or whatever.
+2:20:39
+Andrew Ippolito: Alright, so we're going to take that and let's say that we introduce a point mutation right there.
+2:20:46
+Andrew Ippolito: we add the STOP code on instead the consequence of that is going to give us a protein that doesn't have the other half to it anymore.
+2:20:55
+Andrew Ippolito: Right so let's say that this part here binds to DNA and this part here bound to RNA polymerase so we we go from a transcription factor that has an activator to a transcription factor that has a suppressor.
+2:21:13
+Andrew Ippolito: Okay.
+2:21:19
+Andrew Ippolito: So here's the evolution works here's a gene.
+2:21:24
+Andrew Ippolito: let's say that there is an accidental duplication of that gene. Andrew Ippolito: for whatever reason there's a gene now there it is again.
+2:21:33
+Andrew Ippolito: they're independent of each other and over evolutionary time this one gets one of those nonsense mutations.
+2:21:39
+Andrew Ippolito: So this becomes a repress or protein this one used to be an activator now you have a refresher and an activator protein and they can compete with each other.
+2:21:47
+Andrew Ippolito: And maybe they're under different controls of different promoters and enhancers you can start to see the snowball effect of all the different complexities that come out of that that's basically how over evolutionary time we come up with all these different proteins.
+2:22:00
+Andrew Ippolito: that's one of the ways. Andrew Ippolito: Okay, so there I just that's me just cartooning this out there's my O D with him without his occupation to me.
+2:22:11
+Taylor Campbell: that's just an example. Andrew Ippolito: yeah just an example.
+2:22:16
+Andrew Ippolito: So that this did not necessarily happen. Andrew Ippolito: This isn't like this is why we get cancer in the muscle or something it's just just me, making it up.
+2:22:24
+Andrew Ippolito: Okay here's another fun one, this is the fourth, this is one of the fortunes of evolution we're going to do a frame shift mutation we're going to add a brand new single nucleotide in there.
+2:22:35
+Andrew Ippolito: And so what that's going to do is force us to read in a completely different reading frame. Andrew Ippolito: We now have an entirely new completely unpredictable set of code ons that give rise to a completely new protein that we have absolutely no idea what it does.
+2:22:52
+Andrew Ippolito: that's why there's three steps go down, because the chances that these brand new unknown code ons make a protein the chance of it just stop somewhere there's a three out of 64% chance which is better than one.
+2:23:10
+Okay. Andrew Ippolito: So silent miss sense conservative radical nonsense frame shift.
+2:23:26
+Andrew Ippolito: And that's it those are those are the types.
+2:23:38
+Andrew Ippolito: To what do they do. Andrew Ippolito: Sometimes will change the function of a protein.
+2:23:46
+Andrew Ippolito: Sometimes will change how a gene itself is regulated so what we're doing here when we say effects of mutations we're not talking about just the point mutations in the open reading frame we're talking generally mutations can lead to changes and protein function.
+2:24:01
+Andrew Ippolito: mutations can lead to changes in gene regulation imagine mutating the top top box to be ta ta ta now tv's not binding to it anymore you've just said that gene off.
+2:24:13
+Andrew Ippolito: Okay, so mutations that affect gene regulation can be classified just two simple ways, there are gain a function and loss of function mutations, but I just gave you as a loss of function.
+2:24:30
+Andrew Ippolito: A loss of function mutation is what we generally associated with tumor suppressors.
+2:24:38
+Andrew Ippolito: Think of the rb protein again. Andrew Ippolito: If we lose the function of rb genes are now all when they shouldn't be glad alexa.
+2:24:46
+Alexa Deprisco: So, are you saying that the loss of function mutation is directly tied to gene regulation or the thing.
+2:24:52
+Alexa Deprisco: What whole thing I guess like gene regulation and protein function, are a result of loss of function, or just.
+2:24:58
+Andrew Ippolito: All oh. Andrew Ippolito: So, think of it this way, if I have a loss of function mutation where the gene is now in activated I don't have a protein to change the function of it's not even there anymore.
+2:25:12
+Andrew Ippolito: Right. Andrew Ippolito: So for the retinoblastoma protein that classic tumor suppressor we learned about earlier, the mutation that people have when they get our friend noblesse doma is they don't have a miss folded protein or a broken protein they don't have it it's gone.
+2:25:27
+Andrew Ippolito: When they look at those cells that proteins just not present when they trace it back to the gene it looks like the reason why it's not present is because the genes mean to.
+2:25:37
+Andrew Ippolito: Its regulatory. Andrew Ippolito: functions are no longer working.
+2:25:44
+Andrew Ippolito: Okay, the opposite is again a function mutation.
+2:25:51
+Andrew Ippolito: Imagine a mutation that turns the gene on instead of off. Andrew Ippolito: And those are associated with are called proto Wonka genes.
+2:26:02
+Andrew Ippolito: So the protocol oncogene is the wild type version, the mutated version is called just the opposite.
+2:26:12
+Andrew Ippolito: aka genes are genes that would turn the cell on right turn the cell cycle on.
+2:26:25
+Okay. Andrew Ippolito: And I were at one o'clock here so i'm just gonna bleed into the you if you gotta go you gotta go, I just want to finish this up.
+2:26:34
+Okay. Andrew Ippolito: So So can I delete that.
+2:26:41
+Okay. Andrew Ippolito: germline mutations.
+2:26:47
+Andrew Ippolito: So I said germ cell mutation on the slide, but we can also think of. Andrew Ippolito: mutations and the germline, these are the ones that affect eggs and sperm, these are the evolution of the important ones, these are the ones that get passed on.
+2:26:59
+Andrew Ippolito: As opposed to what are called somatic cell mutations all the other cells in your body.
+2:27:06
+Andrew Ippolito: Those are the ones that lead to cancer. Okay.
+2:27:11
+Andrew Ippolito: And when your somatic cells are mutated you don't pass those jeans though you don't pass those implications on to your children.
+2:27:20
+Andrew Ippolito: And then the other thing you can associate with mutations is this is one of the things that causes cells to age and organisms teach is, as we accumulate mutations in the course of our lifetime night we can suffer aging effects.
+2:27:34
+Okay. Andrew Ippolito: Great so this this slide here i'm not going to spend much time here, but this, this is, you can now understand sickle cell anemia down to the mechanism of action and the source of it all, there is a single point mutation that occurs in the beta Globe enjoying.
+2:27:50
+Andrew Ippolito: The G G code on which normally stands for atomic acid, which is hydrophobic it's charged gag becomes Doug do you G stands for veiling.
+2:28:02
+Andrew Ippolito: Which is hydrophobic. Andrew Ippolito: And so, this little tiny amino acid right there within the hemoglobin beta chain go from being charged to neutral number methylation we talked about this earlier, the idea of DNA methylation is the same same thing we're taking it out of play and so.
+2:28:21
+Andrew Ippolito: When you have a whole population of these mutated molecules of beta globe in.
+2:28:27
+Andrew Ippolito: That area that little the little hotspot right there that doesn't like water anymore gets masked, and so what ends up happening is the proteins turn into these filaments you get this polymerization of hemoglobin.
+2:28:40
+Andrew Ippolito: And what that does is it fills the red blood cell with filaments and that contorts the cell into this weird shape the sickle cell shape and that causes the red blood cells to have a dramatically lower lifespan.
+2:28:54
+Andrew Ippolito: And it'll have the consequence of plugging up it'll a gluten eight it'll come up in capillary beds cause all sorts of problems, the benefit to having that mutation, though, is that cells that look like this malaria can't grow in.
+2:29:11
+Andrew Ippolito: And so, if you get infected with malaria your chances of surviving malaria go up to about 95 99% as opposed to 5050 April.
+2:29:23
+April Neeld: Korea wants the definition of the frame chef mutation again. Andrew Ippolito: Oh, thank you.
+2:29:30
+Andrew Ippolito: Okay, you satori do remember the idea of a frame shift itself.
+2:29:45
+Andrew Ippolito: right if I change if I just get rid of this tea.
+2:29:50
+Andrew Ippolito: And I start reading from the H, instead, and I look at three letter words, you see, I put the see over here is that it's now these three letters right so heck.
+2:30:00
+Andrew Ippolito: outta. Andrew Ippolito: Tete. Andrew Ippolito: Her.
+2:30:06
+Victoria Bloemker: Okay, so they all just shipped by like one. Victoria Bloemker: Exactly. Andrew Ippolito: Okay well if I add a single.
+2:30:13
+Andrew Ippolito: nucleotide anywhere in there, everything past that is going to be shifted one coat on so I called the friendship mutation.
+2:30:19
+Andrew Ippolito: Okay, I can do to to you can add to. Andrew Ippolito: But if you have three then you're just adding a new code on. Victoria Bloemker: It okay yeah for some reason I I kept thinking that it was like you're missing one you only have like two in like the code on sequence, and I was like that doesn't like seem right, but I was just.
+2:30:36
+Andrew Ippolito: I mean you can. Andrew Ippolito: You can also remove one, you can have a deletion of a single one. Andrew Ippolito: yeah yeah you can do one or the other, you can add or take away.
+2:30:44
+Victoria Bloemker: All right, thank you. Andrew Ippolito: you're welcome.
+2:30:51
+Andrew Ippolito: All right, we already talked about this so imagine imagine meeting the start code on.
+2:30:56
+Andrew Ippolito: Now you got nothing there's no there's no start site, the rhizome has no idea what to do with that, and so you just broke the gym completely.
+2:31:03
+Andrew Ippolito: So you went through all that trouble of capping and telling and exporting and is on the cytoplasm and then there's just nothing to read it's a dud.
+2:31:12
+Andrew Ippolito: Or if you mutate, the top box now you can't even start transcription which is way more efficient.
+2:31:19
+Andrew Ippolito: Right, but the point is, is that these are loss of function mutations. Andrew Ippolito: Okay, what causes mutations we've already talked about this, the idea is you have an insult your mother was a hamster and your father smelled of elderberries not that kind of insult.
+2:31:36
+Andrew Ippolito: And so, like UV damage. Andrew Ippolito: Okay, and then what happens is is the DNA gets what's called a lesion to it it's broken if we don't repair it right and instead we fix it so that it doesn't say what it used to say that that's what we call the mutation because that's what's going to get passed on to the next, so okay.
+2:31:59
+Andrew Ippolito: So this can happen during DNA replication. Andrew Ippolito: Pro carriers have much higher rates of mistake, making then eukaryotes do, but they do happen.
+2:32:08
+Andrew Ippolito: radiation is really good at, causing mutations right energy from subatomic particles is absorbed by organic molecules and that absorption causes bonds to break and then new bonds form that are abnormal and if this happens in the DNA leaders lead to changes in the genetic code.
+2:32:26
+Andrew Ippolito: Okay UV light induces the formation of what are called pyramids permitting timers, in particular with 13 so what that is is in the DNA itself if you have to tease next to each other.
+2:32:38
+Andrew Ippolito: They will end up forming a cobell and bond between the two of them instead of these two a's right here.
+2:32:44
+Andrew Ippolito: Right remember no like pairs with T so here the normal DNA would look like this, this would be a and i'll be here would be TT what you'd be like does is it causes these two t's to link together covelli and that caused them to bulge out a little bit.
+2:33:00
+Andrew Ippolito: Okay, so you go out in the sun that's what's happening in your skin and then we have repair mechanisms for this okay.
+2:33:08
+Andrew Ippolito: All right, cigarette smoke has 4000 different chemical agents and over 60 of those have been characterized as carcinogens, and on top of that there's carbon monoxide there's tar there's arsenic there's lead.
+2:33:18
+Andrew Ippolito: And all sorts of really, really nasty stuff and cigarette smoke, and on top of that nicotine itself has been found to inhibit apoptosis.
+2:33:25
+Andrew Ippolito: So the cell doesn't die when it wants to. Andrew Ippolito: Okay, so if you smoke cigarettes quit it easier said than done, I know.
+2:33:35
+Andrew Ippolito: You don't have to worry about the types of DNA damage i'm not gonna hold you responsible for these so you can read through these on your own if you're interested in this stuff.
+2:33:42
+Andrew Ippolito: But basically losing the period base itself so deep urination calculation is when you add a methyl group to something.
+2:33:50
+Andrew Ippolito: or really yeah to one or more carbons to it that's the generic concepts right so i'd be I just want us methylation if I add to this escalation a subtle ation etc will not assimilation, these are just to add your corporate chains okay that's calculation and we have to get rid of.
+2:34:07
+Andrew Ippolito: This is just a good summary of all the different kinds of problems, you can have in DNA okay so there's mics and Nick is when you have a single break in a single strand that's a Nick.
+2:34:18
+Andrew Ippolito: As opposed to what's called a dsp a double strand break when both strands are broken, they just take a pair of scissors to the DNA that's the most dangerous it said that a single break in the DNA like that can cause the cell to kill itself.
+2:34:34
+Andrew Ippolito: A single double strand break and cause apoptosis in some cells. Okay.
+2:34:40
+Andrew Ippolito: All right, that's all i'll say about that. Andrew Ippolito: This is just a cool a cool picture of a rendition of a repair ends i'm barney to.
+2:34:53
+Andrew Ippolito: Okay, you can skip the DNA repair stuff. Andrew Ippolito: Okay, just understand the difference between chromosomal mutations and gene mutations.
+2:35:04
+Andrew Ippolito: Right so think of a carrier type you can't see appoint mentation and the carrier.
+2:35:11
+Okay. Andrew Ippolito: And we're going to end on this very disturbing picture here, this is the carrier type of a nuclear test veteran somebody who, after they were exposed to severe amounts of gamma radiation from nuclear bombs blowing up and the Nevada desert actually or the Bikini atoll.
+2:35:33
+Andrew Ippolito: Then they went on to have kids. Andrew Ippolito: And then, they also went on to get cancer and you look at their genome and you see it looks like another species all together.
+2:35:43
+Andrew Ippolito: Right, if you look at that the chromosome five what's going on there chromosome five has chunks of chromosome 16 mixed with it, I don't know chromosome 16th got like this third piece here.
+2:35:56
+Andrew Ippolito: crumbling is who God is just this whole thing is a mess, you see chromosome looks a little melted here chromosomes nine is missing, this entire chunk but it looks like there's a part of it up here right so but yeah this person's alive.
+2:36:13
+Andrew Ippolito: Right, so this is really. Andrew Ippolito: A testament.
+2:36:18
+Andrew Ippolito: To how resilient life can be. Andrew Ippolito: The fact that you can shuffle the entire chromosome deck and still come out and not die.
+2:36:29
+Andrew Ippolito: and have kids so this called into question, but the kids were like.
+2:36:35
+Andrew Ippolito: And this was published in 2007 and, to this day, I have never found a single incident report of anything I can't find anything for a follow up for this mystery.
+2:36:44
+Andrew Ippolito: So my guess is the military families off after getting sued and probably made them sign non disclosure agreements and not complain anymore.
+2:36:53
+Andrew Ippolito: yeah I. Alexa Deprisco: wasn't like I think it's a town in America, it was people who are.
+2:36:58
+Andrew Ippolito: Like us, Australia, I think, is it. Alexa Deprisco: was like one, I want to say it was like a result of the Holocaust, but, like every kid in this town was like assign these twin.
+2:37:08
+Andrew Ippolito: yeah oh yeah well in any area of the world where there was a severe nuclear. Andrew Ippolito: I mean Chernobyl, I have a student I think in this class whose parents grew up near Chernobyl and they're both dealing with leukemias.
+2:37:24
+Andrew Ippolito: and breast cancers yeah it's it's terrible I mean. Andrew Ippolito: we're all breathing in radioactive fallout still from the 50s it's still in our air just just little bits and there's there are these hypotheses that suggest a little tiny bit of radiation is a good thing.
+2:37:38
+Andrew Ippolito: Because what that does well think about it, if you're just a little damaged your repair mechanisms are going to be all turned on.
+2:37:46
+Andrew Ippolito: And so they're cleaning things. Andrew Ippolito: Whereas if you're not damaged those genes are off So the idea is just a little chronic level of stress keeps the body healthy it's like exercise right exercise keeps the body tight and healthy.
+2:38:01
+Andrew Ippolito: right if we just sit all day that's bad, but if we do too much exercise that's bad too right, so there and I haven't done any of the follow up reading on this lately but.
+2:38:10
+Andrew Ippolito: But the underlying idea is just just little bits of doses of radiation in low levels, I mean you go outside in the sun right you get a little bit of it there, so maybe not UV but um.
+2:38:23
+Andrew Ippolito: So. Andrew Ippolito: So we're Okay, we don't have to worry about like the stuff we blow up in the desert in the 1950s anymore, the the Fukushima power plan Japan worries me a little bit.
+2:38:33
+Andrew Ippolito: That that story was very much of a nightmare water was going on, you know, the idea that they're releasing all this water into the the ocean, but it's being diluted by.
+2:38:43
+Andrew Ippolito: billion folds so that's I mean when you work with radiation on lab report down the sink, because the dilution rates, make it completely harmless you're talking about parts per billion parts per trillion at that point.
+2:38:55
+yeah. Andrew Ippolito: Okay, so that's that so you started this class, this is how you might have seen DNA.
+2:39:04
+Andrew Ippolito: And now you can kind of see things in there you start to read the matrix and you're taught how box, you can give me the compliment strand, you can look for the start sites right.
+2:39:15
+Andrew Ippolito: You can you can see things now that's a cool. Andrew Ippolito: And that's yet, and I know we went way over today i'm sorry about that, but.
+2:39:25
+Andrew Ippolito: We had some interesting talks along the way, so i'm gonna stop the recording.

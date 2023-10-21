@@ -1,0 +1,358 @@
+0:00
+Andrew Ippolito: began recording here we are, this is the last lecture before the first test, this is Chapter six our fifth lecture on the cell going to talk about the basics of the cell.
+0:12
+Andrew Ippolito: And I want to start this off with an amazing video, if I can get this to play here.
+0:18
+Andrew Ippolito: So everybody sit back and relax for a second let's go to YouTube actually let me that face that is usually covered by her phone has finally made an appearance yeah all right.
+0:30
+Let me share my screen again.
+0:36
+Andrew Ippolito: All right, can you guys see. Andrew Ippolito: YouTube here.
+0:41
+Andrew Ippolito: Here we go this is you're going to love this This is great so make sure you can hear to.
+3:50
+Andrew Ippolito: Pretty cool. Andrew Ippolito: first time I saw that that blew me away because up to that point my life.
+4:00
+Andrew Ippolito: All the things I was learning about or hidden from you know your eyes even your microscope.
+4:10
+Andrew Ippolito: And so, at Harvard did was he worked with this company called ex vivo and it was a combination of graphic artists and animators and scientists trying to reconstruct what's going on inside the cell in a more realistic way now that said what you just saw there.
+4:28
+Andrew Ippolito: i'm going to show you a video later, a little bit later in the Semester that takes same company, but it's a more realistic view of it, the idea of inside the cell is it's not this big ocean with lots of space is all these crowding forces everything's jam packed in there.
+4:44
+Andrew Ippolito: Okay, but that said. Andrew Ippolito: hold on one second guys.
+5:12
+sorry about that. Andrew Ippolito: So um.
+5:17
+Andrew Ippolito: Was I trying to say here yeah so the inside of the cell is essentially constructed.
+5:23
+Andrew Ippolito: In very complex ways by all the things that we've already learned about so you hopefully you saw some things in there that made a little sense but.
+5:29
+Andrew Ippolito: That I wanted you to capture that sense of mystery and wonder to we're going to start to understand all the things we saw and you're always going to remember the Walker.
+5:38
+Andrew Ippolito: Right you're always going to remember that, whatever that weirdo thing bopping along we're gonna learn about that too, at some point.
+5:45
+Andrew Ippolito: Okay, so let's learn about cells. Andrew Ippolito: Right, the building block of life.
+5:52
+Andrew Ippolito: there's two kinds of cells in the world to fundamentally different architectures we call them the prokaryotes and then you carry.
+6:01
+Andrew Ippolito: The words themselves are derived from berries Greek roots.
+6:06
+Andrew Ippolito: Carry on which means Colonel like kernel of corn.
+6:13
+Andrew Ippolito: And that's the word we use to describe what the nucleus looks like when we look under the microscope mostly a little kernel a corner.
+6:21
+Andrew Ippolito: He you when you put you in front of a word like Europe. Andrew Ippolito: Europe, or you carry out you.
+6:31
+Andrew Ippolito: means well defined are good, and so you would say that a eukaryotic cell is a cell that has a well defined nucleus.
+6:40
+that's why we call it a you carry. Andrew Ippolito: Pro that means come before right think of like the prologue of a story.
+6:49
+Andrew Ippolito: Okay, so the prokaryotes are named from an evolutionary tip of the hat they came before the carrier's.
+6:59
+Andrew Ippolito: There is a classification system, we learned about on day one called the moose classification system, the three domains system and so within this little.
+7:10
+Andrew Ippolito: cloud of ground Landrover here. Andrew Ippolito: You got your bacteria your cans and your eukaryotes Those are the three domains of life, we learned about previously.
+7:22
+Okay. Andrew Ippolito: These are not formal taxonomic terms, at least not yet these are body architectures right the bacteria in New York hands are very, very different from each other from.
+7:39
+Andrew Ippolito: In terms of evolution they're just as different from each other, as they are from the carrier right, but under a microscope these guys look almost identical that doesn't mean they are.
+7:54
+Andrew Ippolito: The key difference to all of this was the evolution of multicellular rarity.
+8:02
+Andrew Ippolito: The character multicellular. Andrew Ippolito: is really what distinguishes everything visually for us right the plants, the animals and the fungus or all multicellular.
+8:16
+Andrew Ippolito: The eukaryotes that are not multicellular we can lump them roughly together is what we call the protests.
+8:24
+Andrew Ippolito: Protests themselves can be roughly lumped as the algae.
+8:30
+And the protozoa. Andrew Ippolito: approaches ellen's would be the animal like and the fungus like.
+8:43
+So their head or a truths. Andrew Ippolito: And the algae would be. The Auto trips like like the plans the plant like protein.
+8:57
+Andrew Ippolito: The reason why protest isn't really formally a kingdom anymore, is because there is no single common ancestor to that.
+9:05
+Andrew Ippolito: they're very like there's no common ancestor to all the algae's there's different common ancestors, whereas there's a single common ancestor to the animals, a single common ancestor to that fungus in the planets right.
+9:19
+Andrew Ippolito: Okay, so that's. Andrew Ippolito: The idea of the cell is born from this empirical work that happened, you know spanning two centuries Robert hook first looked under the microscope back in the late 1600s.
+9:37
+Andrew Ippolito: And he noted a piece of Cork that he looked at was organized and these little beautiful arrays that reminded him of the.
+9:48
+Andrew Ippolito: The rooms that monks living in a monastery which were called cells and so he called these little tiny.
+9:55
+Andrew Ippolito: square like things cells and that's where the working from you can actually click on this and go read his original work published in 1665 called micro graph via.
+10:05
+Andrew Ippolito: The original at Google Google, did you know they have this whole book project where they're scanning and all the all the good stuff and you can go and look at that firsthand.
+10:18
+Andrew Ippolito: Within the same timeframe, there was another guy named Antonio you and hook who looked he made his own microscopes and he saw he saw bacteria and proteins for the first time, and so he was the one that instigated the renaissance of learning about all this.
+10:38
+Andrew Ippolito: But so it wasn't for another 200 years before we were able to finally confidently say that looking under the microscope and looking at plants.
+10:47
+Andrew Ippolito: Because plants are more well defined under the microscope and that's when a slide in this guy slide in here said that all plants are made out of cells.
+11:00
+Andrew Ippolito: You know don't worry about the deeds don't worry about the deeds tori just ball, you know just this is just the historical context.
+11:08
+Andrew Ippolito: No, no, Robert hook Robert hook, is a very famous biology he's not a biologist he's a polymath you guys know that word is polymath.
+11:17
+Andrew Ippolito: Even order polymath is a pie math is somebody who is a has provided contributions to multiple branches of science.
+11:25
+Andrew Ippolito: So you can't call him just the biologist because he was also a chemist but he's also physicist but there's also an engineer that's a polymath you know, Leonardo da Vinci polymath Robert hook polymath.
+11:38
+Andrew Ippolito: So slide in said all planets are made of cells and then very quickly like within the same year, so shawan said all animals are made out of cells, and so what came out of all their work was this concept called self here all life is made of cells, the smallest unit of life is the cell.
+12:00
+Andrew Ippolito: So and that's that's that's it for the the history stuff.
+12:05
+Andrew Ippolito: So the question now is is why our cells so damn small that's we're going to talk about.
+12:14
+Andrew Ippolito: So we have to think about a little bit physics here. Andrew Ippolito: Right, I want you to picture a glass of water.
+12:21
+Andrew Ippolito: And I want you to drop. Andrew Ippolito: Some food coloring in there and just watch it.
+12:29
+Andrew Ippolito: And it'd be cool if first and get boring right it sila swirly patterns and then it was slowly, it is getting blurry and then it would just kind of be like watching grass grow at that point Okay, but here's the thing.
+12:43
+Andrew Ippolito: A cell. Andrew Ippolito: needs to be able.
+12:49
+Andrew Ippolito: To exchange things with its environment. Andrew Ippolito: And it needs to do so fast.
+12:58
+Andrew Ippolito: It needs to get rid of wastes before they kill it. Andrew Ippolito: needs to bring in food.
+13:06
+Andrew Ippolito: Before it dies. Andrew Ippolito: It needs to react to its environment needs to make sure it can run away from predators.
+13:14
+Andrew Ippolito: or respond to chemical signals in the environment right, so there needs to be a speed at which the cell can respond to its environment.
+13:22
+Andrew Ippolito: And this is constrained by some basic laws of physics that we'll talk about in the next chapter.
+13:28
+Andrew Ippolito: For now, just understand if you look at this little glass, I draw on the right here that little red arrow the idea here is, I want you to consider the amount of time it takes for some substance to reach the border, because the border is everything.
+13:43
+Andrew Ippolito: This is the boundary point. Andrew Ippolito: between life and not life, we have to cross this threshold they let things out and we have to cross that threshold to bring things in so the surface is everything to excel.
+14:01
+Andrew Ippolito: So I want you to consider to shapes I want you to consider a cube.
+14:07
+Andrew Ippolito: let's say it's one centimeter about one centimeter. Andrew Ippolito: And I want you to think about this cube and I want you to think about what's whatever is inside the cube and if it needs to get out.
+14:20
+Andrew Ippolito: Anything that's inside of it, it has to reach a surface so something deep in the harder that cube has to take its time to get to the edge.
+14:28
+Andrew Ippolito: Okay. Andrew Ippolito: Now, take that same volume of space okay so again I want you to think about this volume of space here to forget the cube.
+14:38
+Andrew Ippolito: Think about this cube is living in a little piece of real estate in space there's that space there and let's replace that one cube with a series of much more cube many more cubes.
+14:54
+Andrew Ippolito: And I want you to think about the surface area of any individual cube within this complex and the fact that each one of those cubes has its own surface area, such that if I consider this whole system here think of how much more surface area, I have to interact with the environment.
+15:13
+Right. Andrew Ippolito: So in any given point in that volume of space, I am not too far away from a surface to exchange with the environment.
+15:23
+Andrew Ippolito: And that right, there is the reason cells are so small. Andrew Ippolito: that's why we are made, not out of one big sack but.
+15:32
+Andrew Ippolito: trillions of little sex there's like 30 trillion cells in your body.
+15:38
+Andrew Ippolito: that's an insane number, and this is why Okay, so you can you can distill that concept into one basic thought process, they have to be big enough to hold what they need, but small enough to rapidly exchange with their environment.
+15:54
+Andrew Ippolito: And the reason why that speed is so important is because of survival.
+16:00
+Andrew Ippolito: Right and competition. Andrew Ippolito: If you're moving slower than me i'm going to beat you.
+16:09
+Andrew Ippolito: Have you guys ever heard that lawyer joke to lawyers are walking in the woods.
+16:14
+Andrew Ippolito: And a bear comes out and one of the lawyers immediately drops the ground opens his briefcase and starts putting on his running shoes.
+16:24
+Andrew Ippolito: And the lawyer standing above him confused as, why are you putting on your running shoes, you cannot run a bear and a lawyer gets up with his running shoes and says, I don't have to outrun the bear I just have to outrun you.
+16:37
+Andrew Ippolito: And then he runs. Andrew Ippolito: This and there's life in a nutshell.
+16:46
+Andrew Ippolito: replace running fast with whatever is going to make you survive better with the other people around you or the other cells competing right, so the reason why cells are that size.
+16:57
+Andrew Ippolito: Is because if they were any bigger they'd be too slow and any smaller they wouldn't be able to hold enough stuff is the sweet spot.
+17:04
+Andrew Ippolito: Okay, and so we can translate all this into this concept, called the surface area to volume ratio Okay, there is a specific ratio, if you think of this cube over here, and you didn't math to calculate the surface area, you can abbreviate SA.
+17:19
+Andrew Ippolito: Alright, and think about a surface area is a two dimensional quantity right there's length and there's tight or width or whatever there's two dimensions there.
+17:28
+Andrew Ippolito: And you multiply those together right if this was all the same, you would have X squared. Andrew Ippolito: We talking about so this would be because it's the cube right, it will be six X squared whatever don't worry about the math but now it's calculate the volume, the volume requires 3D.
+17:44
+Andrew Ippolito: Right X, Y and Z so that function. Andrew Ippolito: Is a cube.
+17:51
+Andrew Ippolito: So, in other words, imagine a water take a balloon and blow it up just think of a single, simple balloon from a party.
+17:59
+Andrew Ippolito: And as you blow it up, I want you to think about the rate at which the surface area.
+18:07
+Andrew Ippolito: Of that balloon would increase over time so think about surface area increasing over time, it would be exponential right, that would be an x squared graph from your math class, but the surf but the volume rather the volume would be.
+18:23
+Andrew Ippolito: much faster because that's going to be with the cube.
+18:29
+Right. Andrew Ippolito: I think of an elephant and a mouse.
+18:34
+Andrew Ippolito: an elephant has way more volume compared to its surface area than a mouse does this is why an elephant's heartbeat so slow and a mouse is beat so fast.
+18:46
+Andrew Ippolito: that's because there's other reasons for that that's a bad analogy, but just think of their size differences.
+18:52
+Andrew Ippolito: Okay, so think about a bacterial cell and eukaryotic cell they have different surface areas and volumes and the ratio between the two of them is going to change over time, the bigger you get.
+19:04
+Andrew Ippolito: The the bigger fraction the volume is going to take up.
+19:10
+Andrew Ippolito: Right so here, if you look at this. Andrew Ippolito: Look at these numbers let's just put some numbers here okay so let's think of a single sub four centimeter cube here I don't know why they use four centimeters you could use one to make the math easier, but whatever.
+19:24
+Andrew Ippolito: Okay, total surface area 96 cubic centimeters right here now let's take that and make it eight two centimeter cubes let's just chop it and top.
+19:34
+Andrew Ippolito: Okay, we now have a surface area of 192 centimeters right why because we're adding this we're adding this new information here this new surfaces okay cut it into 64 one centimeter cubes and you now have 384 cubic Center square centimeters.
+19:53
+Andrew Ippolito: Okay, the volume didn't change only the surface area did, in other words, we are occupying the same space.
+20:03
+Andrew Ippolito: Okay, so see how their volumes, the same 64 cubic centimeters and so when you take their surface area and divide it by their volume you get some number right so 1.5 to one or 321 or six to one.
+20:17
+Andrew Ippolito: And so, this is what we're going for maximizing the surface area to volume ratio, we want this surface area to volume ratio to be as big as possible.
+20:33
+Andrew Ippolito: Hopefully that made some sense. Andrew Ippolito: Okay, so the surface area to volume ratio is the key factor here.
+20:44
+Andrew Ippolito: And so we can look now at prokaryotes versus eukaryotes so we can see how much bigger they are.
+20:51
+Andrew Ippolito: You can ballpark this and say that approach periodic cells between 10 to 100 times smaller than a eukaryotic cell.
+20:59
+Andrew Ippolito: Within new carrier some pro carriers, you have a very significant size range, you have like a tenfold ranger.
+21:04
+Andrew Ippolito: Right, the smallest sell in the human body versus the biggest selling human bodies 10 times bigger so you there's no easy way to compare these so you say between 10 and 100 Okay, the reason.
+21:17
+Andrew Ippolito: Why by carrier so small, you can now understand they don't have internal surfaces.
+21:24
+Andrew Ippolito: they're just a SEC of stuff because they don't like a little water balloon filled with stuff and so, if it's too big it's gonna.
+21:33
+Andrew Ippolito: react too slow and die. Andrew Ippolito: Okay, the reason why the eukaryotic cell can get bigger is because if you randomly put your finger anywhere in there in any location you're never going to be that far away from a surface.
+21:50
+Andrew Ippolito: So the system as a whole is really a whole bunch of subsystems.
+21:56
+Andrew Ippolito: each with their own surfaces that's what the cost of the organelles comes into play.
+22:01
+Andrew Ippolito: Okay, this makes sense. Andrew Ippolito: So you would see that. Andrew Ippolito: should go ahead.
+22:07
+Alexa Deprisco: I was gonna say so each surface then you're referring to would be like the membrane enclosed. Andrew Ippolito: Oregon yeah yeah yeah.
+22:13
+Exactly. Andrew Ippolito: Because membranes are where exchange occurs.
+22:21
+Andrew Ippolito: And I want you guys to think back to the video you just watched just for a moment the when we think of a membrane I don't want you to think of a membrane like a balloon anymore or a piece of cellophane.
+22:32
+Andrew Ippolito: I want you to think of it like that waxy lava lamp idea you saw the blessing of things that's a membrane okay membranes confused together.
+22:41
+Andrew Ippolito: They can blab off components so like, so this is a membrane a membrane can blab off a little thing called the vessel will learn about those all later, but just just get that in your mind now okay.
+22:54
+Andrew Ippolito: So what we're going to do right now is a whirlwind tour of the prokaryotes we're not going to cover this in any great detail okay this class is about eukaryotes for the most part, if you want to learn more about prokaryotes could take Microbiology.
+23:09
+Andrew Ippolito: Then you'll learn all about them. Andrew Ippolito: Okay, so what we're going to do is keep this simple the pro carry on excel can be compartmentalised and the three basic regions there's the cell extensions there's the extracellular coverings and there's what's happening inside.
+23:28
+Andrew Ippolito: Okay, not every cell has all these things on the outside, these are examples of things that you might find on the outside of it bacterial so.
+23:36
+Andrew Ippolito: Okay, so let's start here with the cell extensions some cells will have what's called a sex peerless.
+23:43
+Andrew Ippolito: Okay, if this is one bacterial cell, and this is another bacterial cell, they can go through something called conjugation, which is when they will basically exchange genetic material.
+23:54
+Andrew Ippolito: And they'll will do that through the sex Palace okay plural pilley.
+24:00
+Andrew Ippolito: Some failure used for locomotion. Andrew Ippolito: The fin Bray are these hair like bristles that allow the bacterial cell to stick to surfaces okay 90% of bacteria exist in something called a biofilm.
+24:19
+Andrew Ippolito: A biofilm is this very complex menagerie of different now say creatures different bacteria and fungus and sometimes proteus and they all kind of live in this collective group, if you take a shower and you notice that your mats a little slimy that's a biofilm.
+24:41
+Andrew Ippolito: Okay, the SLIME enos in your shower all the stuff in the crevices of the ceramic that's all biofilm.
+24:49
+Andrew Ippolito: Okay, your teeth, right now, unless you brushed about a minute ago are already read establishing the biofilm of your teeth okay your teeth are covered and biofilm and now you can't stop thinking about.
+25:03
+Andrew Ippolito: All that that's biofilm okay. Andrew Ippolito: The February, let the bacteria stick to it, so you can think about about yourselves just all these little hairs in there that stick the gate there may now low proteins that's the temporary.
+25:18
+Andrew Ippolito: Okay, some bacteria have flagella singular flagellum.
+25:26
+Andrew Ippolito: Right and so some of them have one, some of them have to some of them have a whole bunch coming out here and there's a whole world of flagella information i'm going to skip they have.
+25:39
+Andrew Ippolito: Their flagella is completely different than eukaryotic flagella.
+25:44
+Andrew Ippolito: OK, so the bacterial for gel is made out of a protein called flagellation. Andrew Ippolito: And you character way more complicated will see those later in the Semester later at the end of this PowerPoint so Donna Wednesday.
+25:58
+Andrew Ippolito: Alright, so those are the adornments I feel like there's not that's that's the brain the six pillars.
+26:06
+Andrew Ippolito: OK now let's look at the coatings you'll see that there's a couple of coatings here we're not going to cover gram positive and gram negative and all that jazz instead what we're gonna do is this i'll draw a profile picture here Okay, so you have the membrane.
+26:21
+Andrew Ippolito: You have something called the glycol calyx. Andrew Ippolito: Sorry, you have the cell wall first you have a cell wall and then you have a glycol calyx.
+26:33
+Andrew Ippolito: Okay. Andrew Ippolito: The difference between gram positive and negative bacteria have to do with the cell wall and we're not going to go into that.
+26:41
+Andrew Ippolito: So let's look look at the picture here this light blue thing that's the memory that's a fossil lifted by layer
+26:49
+Andrew Ippolito: Okay prokaryotes lack. Andrew Ippolito: sterols and their membranes well remember cholesterol, remember, we learned about cholesterol cholesterol sits in the membrane that's that's unique to you carriers.
+27:01
+Andrew Ippolito: And our can I think yeah see you carry back three don't have them in there.
+27:07
+Andrew Ippolito: Okay, outside of the membrane sitting just up against it is the bacterial cell wall.
+27:14
+Andrew Ippolito: Okay, the cell walls made out of a substance called peptidoglycan.
+27:20
+Andrew Ippolito: Basically, big long chains of sugars. Andrew Ippolito: with little cross-links of proteins.
+27:28
+Andrew Ippolito: Its structure you don't have to know just you can just know the name and the fact that it's a combination of proteins sugars.
+27:35
+Andrew Ippolito: Okay, this cell wall is very strong compared to plant cell walls and fungus softballs.
+27:43
+Andrew Ippolito: And the reason for that is very simple, the bacteria don't want to blow up wherever the factory is it's probably got water nearby and unless it has a thick cell wall, the the water would come into the cell from osmosis and blow it up.
+27:59
+Andrew Ippolito: And so the cell wall keeps the cell rigid and strong.
+28:05
+Andrew Ippolito: outside of the cell wall is a is a.
+28:11
+Andrew Ippolito: layer called the glycol calyx. Andrew Ippolito: Like okay Alex is made out of various polly sack rights, and it is very, very different depending on the species of bacteria.
+28:23
+Andrew Ippolito: But you can roughly compartmentalize them into two types or classify them into two types.
+28:29
+Andrew Ippolito: it's either called a capsule. Andrew Ippolito: Which is a hard Shell around it think of it like an m&m.
+28:37
+Andrew Ippolito: or something called a SLIME later. Think of it like a gummy bear.
+28:45
+Andrew Ippolito: Okay, an encapsulated bacterium is a dangerous bacterium because usually the ones that can evade are immune system.
+28:54
+Andrew Ippolito: And a process that we normally use called Figo psychosis which is eating it can evade Figo psychosis with this capsule.
+29:04
+Andrew Ippolito: will learn more about that later and that's it that's that's the outside okay so to recap that there's the cells plasma membrane upon which a cell wall is built, and then beyond that is the sugar layer called the WikiLeaks.
+29:19
+Andrew Ippolito: And the global kayla can either be goopy or it can be Sturdy.
+29:25
+and protected. Andrew Ippolito: All right, let's talk about inside the cell now.
+29:33
+Andrew Ippolito: The inside of the cell. Julia Lakchin: has no membranes within it. Andrew Ippolito: Okay, by the way, i'm going to actually remove one of these things I don't you don't need to know about the Nice ISM it turns out, and I just learned.
+29:45
+Andrew Ippolito: This why yes sorry bro. April Neeld: it's one o'clock.
+29:51
+Andrew Ippolito: Oh, is it. Andrew Ippolito: Already. Andrew Ippolito: Oh it's known as one or four that's even worse.
+29:57
+Andrew Ippolito: Okay, let me finish this slide and we'll call it a day so get rid of them, he says it turns out the music zoom is an artifact of fixing the cells and to look at them under the microscope that they don't exist in nature, probably so don't even worry about this.
+30:12
+Andrew Ippolito: i'm inclusion bodies are just aggregates of proteins and other nutrients for storage to use for later.
+30:21
+Andrew Ippolito: The rhizome is an engine to make proteins Milan about right with some of the more detail later.
+30:28
+Andrew Ippolito: And the nuclear Lloyd is the bacterial chromosome that is organized with some chromosome proteins and so i'll teach you a new word here and then we'll call it a day chroma TIM.
+30:42
+Andrew Ippolito: chromatin is what we call the complex of DNA plus proteins DNA is never found naked in the cell it's always complex with some proteins to scaffold it to organize it and to protect so we call them chromium binding protein protein.
+30:59
+Andrew Ippolito: You might have heard that name histone histones or eukaryotic and are not bacteria they don't have those Okay, but there's proteins and so when you take the circular a chromosome.
+31:12
+Andrew Ippolito: Excuse me there's a circular chromosome of DNA here so remember double stranded DNA we just learned about that take take a ring of it that's called a circular chromosome.
+31:25
+Andrew Ippolito: Okay prokaryotes have one circular chromosome that's there that's how their genome is stored Okay, the genome, of a pro carrier is housed within a single circular chromosome.
+31:38
+Andrew Ippolito: That is complex, with DNA i'm sorry accomplished with proteins and kind of arranged in the semi organized thing that's called the nucleus.
+31:48
+Andrew Ippolito: Okay there's no membranes it's not under there's no nucleus, called the nucleus.
+31:55
+Andrew Ippolito: And it's usually hooked against the plasma membrane. Okay.
+32:01
+Andrew Ippolito: And that's pro carriers so here's just another picture, you can see that this is a.
+32:09
+Andrew Ippolito: This is a gram negative bacteria, you can see there's actually a double membrane the cell wall itself has another membrane.
+32:15
+Andrew Ippolito: Right that's that's what we're not we don't need to get into the complexities, this is Microbiology stuff.
+32:21
+Andrew Ippolito: Right, so the the fundamental difference in a gram positive and gram negative bacterial cells, the gram negative cells have another memory.
+32:27
+Andrew Ippolito: They have an outer membrane that is part of their cell wall Okay, so they have that peptidoglycan and then a layer of another membrane On top of that, whereas the gram positive bacteria lack that memory and they just have a very thick peptidoglycan layer
+32:44
+Andrew Ippolito: Okay, and you can see here, this is the capsule that's the EU kayla capsule you can see right, so this picture, right here is a gram positive bacteria i'm sorry gram negative bacteria that's encapsulated and that's all i'll say about that.
+32:56
+Andrew Ippolito: Alright, so where this is where we're going to pick up on Wednesday will learn about the end of symbiotic theory or set theory.
+33:02
+Andrew Ippolito: And from there we'll do a tour of the eukaryotic cell mo be caught up or we're right where we need to be right now we're not behind anymore or exactly where we need, which is a good place to be.
+33:16
+Julia Lakchin: And i'm going to meet. Andrew Ippolito: With you see Julia. Julia Lakchin: Do we have a quiz on Thursday.
+33:22
+Andrew Ippolito: Maybe okay. Andrew Ippolito: i'm going to stop the recording stop stop.

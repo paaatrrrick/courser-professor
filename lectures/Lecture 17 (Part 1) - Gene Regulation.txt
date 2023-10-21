@@ -1,0 +1,1182 @@
+0:03
+Andrew Ippolito: This is the first lecture covering gene regulation, we did gene expression last time right we learned how genes work we learned the whole you know DNA makes RNA makes protein.
+0:22
+Andrew Ippolito: And we learned that there are multiple steps along each one of these paths right, so what we're going to do now is we're going to understand how all of this is regulated, obviously, it has to be right if every gene was on all the time that would just make no sense.
+0:44
+Andrew Ippolito: I wrote this. Andrew Ippolito: This is kind of a soliloquy at this point so just just if you don't read along on this I just listen to my voice it'll be a little more interesting I think so show you now understand that a cell contains a nucleus, within which thousands of genes are present.
+0:59
+Andrew Ippolito: Along linear chromosomes of the cells gina. Andrew Ippolito: and keep in mind that a large and complex multicellular organisms develops from a single cell right we got the zygote.
+1:09
+Andrew Ippolito: The cell contains a nucleus that encodes all information to make a fully functional organism think about it.
+1:16
+Andrew Ippolito: A fertilized egg encodes information to build, not just the brain, but the entire nervous system, not just the heart and all parts, but the entire cardiovascular system.
+1:27
+Andrew Ippolito: The kidneys the liver all digestive and endocrine glands bones joints eyes ears and heroes hair everything, so it makes good sense at all these genes, have to be regulated with great care and great complexity.
+1:41
+Andrew Ippolito: In a given sell the vast majority of genes are off.
+1:46
+Andrew Ippolito: We say expressed in the way that music is expressed through sheet music or drama is expressed by an actor reading lines from a play.
+1:55
+Andrew Ippolito: And the genius the sheet music or the play in and of itself, it doesn't do anything to be it needs to be expressed musicians express music actors express drama sells express genes.
+2:11
+Andrew Ippolito: makes sense. Okay. Andrew Ippolito: All organisms organisms must must regulate which genes are expressed at any given time okay so that's another key is is the variable hears time.
+2:28
+Andrew Ippolito: Is the genome now is that you know now how about now how about now it's always about the here and now okay so genes are turned on and off in response to signals.
+2:38
+Andrew Ippolito: Okay signals from their external and internal environments right, so you can tell us sell hey turn that gene on or off or the cell itself can tell itself to turn the gene on or off okay so there's intrinsic and extrinsic signals virgin regulation.
+2:54
+Andrew Ippolito: What makes us insanely more complicated than bacteria is that one multicellular we have cells that specialize if you think about an individual bacterial cell.
+3:04
+Andrew Ippolito: They only have to worry about themselves that's why they have a simple genome, with just a couple thousand genes, instead of us with our 10s of thousands of genes and our billions of base pairs.
+3:17
+Andrew Ippolito: And the complexity of our immune system and the complexity of our hormones. Andrew Ippolito: Right it's it's the multicellular clarity that gives us the insane level of complexity that we're still just figuring out how complicated it is not that we're even put mapping it out necessarily we're still learning what we don't know at this moment in time.
+3:39
+Andrew Ippolito: Alright, so let's learn some lingo let's let's share don't even look at that let's learn some basic concepts here so we're talking about the idea of a g.
+3:49
+Andrew Ippolito: Okay, and so there's different states that that gene can be and there's different types of genes governed by different behaviors let's say right so think of the gene that just always on.
+4:01
+Andrew Ippolito: Right there's a whole bunch of genes, we have that are always on these are called constitutive genes.
+4:09
+Andrew Ippolito: We would say its constituent expressed constituency constituent to fully expressed.
+4:18
+Andrew Ippolito: Okay, this is always on. Andrew Ippolito: In a lot of ways, you would say they're not even regulated they're just always on.
+4:28
+Andrew Ippolito: Right, this would be like plugging in you know let's say that you had some kind of Christmas lights you plug in the Christmas lights, to the energy source and then they're just not and there's no switcher button to turn them off.
+4:41
+Andrew Ippolito: Okay.
+4:46
+Andrew Ippolito: And then you can say you have so so that's consistently always on right there's no such a genius always off we're not going to talk about that that would just be this might as well not be there, then right.
+5:01
+Andrew Ippolito: And then okay so of the genes that are on. whoops.
+5:07
+Andrew Ippolito: let's say they're. regulated.
+5:14
+Regulated channels. Andrew Ippolito: And there's really there's there's two basic types, there are genes that are normally.
+5:25
+Andrew Ippolito: Something. Andrew Ippolito: As opposed to can be something so watch this this is how we're going to do so they're normally on.
+5:36
+Andrew Ippolito: But they can be turned off. Andrew Ippolito: Right or they're normally off, but could be turned on.
+5:47
+Andrew Ippolito: All right, so give me give me an example let's play a little game here, give me an example of something in your House that's normally on but could be turned off.
+5:57
+Danuta Despagne: What. Danuta Despagne: Light light. Andrew Ippolito: A light okay so give me a light that would be normally on but you could turn off.
+6:10
+Andrew Ippolito: Okay, your kitchen lights. Andrew Ippolito: So some of us just leave our kitchen lights on all the time. Andrew Ippolito: All right, how about how about an appliance what kind of appliance think about your kitchen again what what appliance in your kitchen is like always on but you could turn it off if you really need to.
+6:22
+Danuta Despagne: The fridge. Andrew Ippolito: perfect and that's the classic example I. Andrew Ippolito: use, so the vet your refrigerator. Andrew Ippolito: Your refrigerators on all the time, is always running right there's that practical joke you I don't know if you guys are actually paid tools are too young for.
+6:36
+Andrew Ippolito: prank phone calls, which was a thing when I was a kid right you pick up the phone and somebody say hi, this is a refrigerator repair service, can you please check to see if your refrigerators running.
+6:47
+Andrew Ippolito: And you'd be like yeah yeah it's running well, well then go catch it hi and they hang up.
+6:54
+Andrew Ippolito: This prank prank calls were thing. Andrew Ippolito: And I just realized we've lost that happened we.
+7:03
+Andrew Ippolito: We haven't oh Julia shaking her head vociferously oh so there are praying call still. Julia Lakchin: When I used to work at PF chang's week are praying calls not all the time, but it did happen.
+7:13
+Andrew Ippolito: Okay i'll say. Julia Lakchin: With them. Andrew Ippolito: I guess it doesn't happen on a personal basis anymore, we don't get calls anymore that are praying called randomly we just call that spam.
+7:24
+Andrew Ippolito: Alright, so now give me an example of something that's normally off, but we can turn on this is probably a little easier to think of.
+7:33
+Angela Harbeck: Your toaster. Andrew Ippolito: Perfect that's the example I usually. Angela Harbeck: Give. The toaster.
+7:39
+Andrew Ippolito: Okay, think of your hair dryer curling iron flashlight.
+7:44
+Andrew Ippolito: Okay, so here's here's the key the the words we use to describe these two states, the word we use is the can be word.
+7:56
+Andrew Ippolito: Okay, so ready a fridge that could be turned off his repressive.
+8:06
+Andrew Ippolito: The toaster that could be turned on is in do simple.
+8:11
+Andrew Ippolito: Those are the two words, so we have repressive systems, and we have been useable systems.
+8:18
+Andrew Ippolito: The word describes the could be not the normal state.
+8:30
+Andrew Ippolito: That makes sense. Alexa Deprisco: You repeat that last part. Andrew Ippolito: share the word.
+8:36
+Andrew Ippolito: In useable reproducible does it describes what could happen.
+8:42
+Andrew Ippolito: Not what is currently the state right so through your fridge right now is replaceable.
+8:49
+Andrew Ippolito: Because you could turn it off, you can repress it you could replace it you're not repressing it currently but you could so if you're not repressing it it's on the innumerable system is it could be turned on if we need it in a pinch, but right now it's tough.
+9:07
+Andrew Ippolito: ask me more questions is this is the core right now, this is core stuff if we don't understand this, then everything else is going to start to fall apart.
+9:16
+Angela Harbeck: So is this like talking about like RNA and DNA when it turns off and stuff.
+9:21
+Angela Harbeck: This is yeah relying actor. Andrew Ippolito: yeah so here DNA. Angela Harbeck: To RNA.
+9:28
+Andrew Ippolito: RNA to protein we're talking about is the gene being expressed in that workflow or is it not expressed.
+9:40
+Andrew Ippolito: Okay, so for the purposes, for the first purposes of this let's think about one more when it's off or putting the wall here when a gene is off, it is not being transcribed.
+9:51
+Andrew Ippolito: transcription is not happening. Andrew Ippolito: For bacteria that's the majority of where they regularly is at that point whether or not the, Mr President.
+10:05
+Andrew Ippolito: Okay. Andrew Ippolito: So you have three types of genes, you have genes that are always on.
+10:13
+Andrew Ippolito: You have genes that are usually on. Andrew Ippolito: And you have genes that are usually off for could be turned on.
+10:22
+Andrew Ippolito: Okay, so always on usually on but could be turned off usually off, but could be turned on.
+10:32
+Andrew Ippolito: Okay start thinking on this like your programming and computer to do things or your computer programming on robot.
+10:39
+Andrew Ippolito: You want the robot to do things all the time, like stand up straight and not be like crumpled over you want the robot to be you know normally cleaning the House think of like rosie the robot from from the jetsons.
+10:52
+Andrew Ippolito: Right she's she's always on right she'll go around and she'll be cleaning everything, but then every once in a while I don't know Maybe she goes into like battle mode or something.
+11:02
+Andrew Ippolito: rosie goes into battle mode and she like ball bunch of guns pop out of her and she defends the House.
+11:09
+Andrew Ippolito: I don't think she's ever done that I remember one episode where eyes went red and she became evil evil rosie.
+11:15
+Andrew Ippolito: that's going back, I was like 10 years old, when I saw that but that's the idea right so normally on could be off normally off could be on are always on.
+11:24
+Andrew Ippolito: And again there's no always off that would just be a broken gene wouldn't talk about.
+11:29
+Andrew Ippolito: we're not we're not talking about mutations here right we're not talking about taking ingenious normally on them mutating it so it's always off we're just talking about the normal state of affairs right now.
+11:39
+Andrew Ippolito: Okay. Andrew Ippolito: All right, and then so also keep in mind every cell in your body has the same genome.
+11:51
+Andrew Ippolito: Your bone cells have the exact same DNA in them as your neurons.
+11:56
+Andrew Ippolito: And everything in between. Andrew Ippolito: Okay alright so i'm going to delete the slide now so take a screenshot if you needed or.
+12:04
+Andrew Ippolito: Do what you gotta do. Andrew Ippolito: i'm going to go off at now.
+12:10
+Andrew Ippolito: Alright, so I just said all this. Andrew Ippolito: But look at this bottom part here so as you can imagine, pro periodic cells have many fewer genes the Multi celled organisms right there only one cell and so studying gene expression in the cells is a lot easier to do, and we know a lot more about.
+12:28
+Andrew Ippolito: Okay. All right.
+12:36
+Andrew Ippolito: So there's are familiar diagram you can think of the Olympia them again or though we got three enzymes are doesn't matter how many the point here is that we have three enzymes, or rather let's just say we have three jeans okay there's gene one.
+12:54
+Andrew Ippolito: there's gene to there's gene three. Andrew Ippolito: And each one of those genes give Fries to a protein product that plays a job in some metabolic pathway.
+13:06
+Andrew Ippolito: Right, so it makes sense if we want, if we want some more D.
+13:12
+Andrew Ippolito: We need to take a and then we have to make go through the hoops, so we need all these genes to be off the same time it's an all or nothing thing.
+13:21
+Andrew Ippolito: right we don't want to just turn gene one on or just gene to or gene three we want to turn all the monitor none of them, we want to orchestrate this.
+13:31
+Andrew Ippolito: Think about a stage that has you know 270 different lights everywhere in various positions.
+13:39
+Andrew Ippolito: And there's this big complicated thing on the wall, where you can turn each one on and off and dim them and rotate them do whatever you want with them, change the colors.
+13:46
+Andrew Ippolito: But then there's that one master switch on the side by boom, they all go on, or the boom, they all go off alright that's what we're talking about here.
+13:58
+Andrew Ippolito: You this is unique to bacteria. Andrew Ippolito: Okay, we don't do what i'm about to teach you so this word this opera this is unique to pro carriers.
+14:11
+Andrew Ippolito: This is something that you carry which do not do in this way.
+14:17
+Andrew Ippolito: I will explain how that how you carry your turn multiple genes on and off at the same time, once we get through all this.
+14:23
+April Neeld: Was the operation is that an all or is that just all or nothing kind of what that means. Andrew Ippolito: yeah so no so the to the word itself is a think of it like a cartridge that plugs into the genome.
+14:36
+Andrew Ippolito: Okay, so here, let me give you a little map here ready here's the bacterial chromosome.
+14:42
+Andrew Ippolito: and up to this point, we learned a couple things about the spectra chromosome, for example, let's say right here is the origin of replication or.
+14:52
+Andrew Ippolito: Okay, so somewhere else i'm going to draw like this.
+14:59
+Andrew Ippolito: This region on the genome here we're going to call this the lock up wrong.
+15:05
+Andrew Ippolito: that's just an example where we're going to learn to offer on the lock up around the trip hop around I select opera.
+15:10
+Okay. Andrew Ippolito: The opera on itself contains two basic components, a regulatory region.
+15:18
+Andrew Ippolito: which includes a promoter. Andrew Ippolito: And another region here.
+15:27
+Andrew Ippolito: that's unique. Andrew Ippolito: Before I tell you what this is remember remember this is a key insight here RNA polymerase remember the enzyme that makes RNA.
+15:37
+Andrew Ippolito: RNA polymerase in bacteria can bind to DNA directly it's simple we don't need transcription factors Okay, so how can we regulate this, then the idea is.
+15:50
+Andrew Ippolito: The promoter their bond, so the RNA directly RNA polymerase directly and so just upstream of it i'm sorry just downstream of it we're going to put a regulatory element called an operator, which, as this name suggests, controls at all.
+16:05
+Right. Andrew Ippolito: Just like an operator, on the other, line in the olden days the operator can connect your calls or disconnect your calls right.
+16:15
+Andrew Ippolito: so that you can think of that as the regulatory region. Andrew Ippolito: And then downstream of all of that we call this region that's what contains the structural genes.
+16:28
+Andrew Ippolito: So you're saying we say structural genes here. Andrew Ippolito: we're calling these structural in. Andrew Ippolito: The sense that they are part of the.
+16:35
+operations. Andrew Ippolito: source.
+16:42
+Andrew Ippolito: Okay, they are the genes that will get turned on and off. April Neeld: I think your MIC just went out for a SEC.
+16:48
+Andrew Ippolito: yeah oh.
+17:14
+Andrew Ippolito: my microphone okay was last thing I said that you could hear.
+17:21
+Taylor Campbell: You started talking about the structural gene to Jared. Andrew Ippolito: Okay, good, so this that we call on the structural genes, as in they are part of the structure of the Opera.
+17:32
+Andrew Ippolito: it's not that they make structural proteins, or whatever those genes are structural to the Opera right so they're the ones that are being regulated they're under regulatory control of that promoter.
+17:43
+Andrew Ippolito: Okay. Taylor Campbell: um so the operand is on the promoter. Andrew Ippolito: know so the operand.
+17:48
+Andrew Ippolito: Is this whole unit it's this think of it like a piece of it's a big long stretch DNA. Andrew Ippolito: That contains a regulatory area and a structural jeans and they're part of the genome Okay, so this here that this whole thing here that's the Opera.
+18:06
+Andrew Ippolito: OK, so the Opera contains the promoter the operator and the structural Jesus.
+18:13
+Andrew Ippolito: Is pop it in there. Andrew Ippolito: Go ahead and filler. Taylor Campbell: where's the operator. Andrew Ippolito: So i'll show you a better picture of this later, but here if.
+18:21
+Andrew Ippolito: I just draw this in a straight. Andrew Ippolito: line, this would be the promoter p.
+18:27
+Andrew Ippolito: This would be the operator Oh, and then these would be the structural jeans.
+18:33
+Andrew Ippolito: OK, and then so let's say there's like. Andrew Ippolito: Three of them it doesn't matter how many there. Taylor Campbell: Are but there's. Andrew Ippolito: Multiple genes they're just back to back to back think of those as just you know pure open reading frame star code on yeah go ahead alexa.
+18:46
+Alexa Deprisco: You call the collection of the promoter and operator anything, or just. Andrew Ippolito: Together, then you can call this.
+18:52
+Andrew Ippolito: yeah you can call this the regulatory rig you tori sequence.
+18:59
+Andrew Ippolito: Or you know what regulatory region let's call it the regulatory region.
+19:04
+Andrew Ippolito: I don't know if your books going to give that a special word but that's what I would call right.
+19:09
+Andrew Ippolito: And really at the end of the day when it comes to genetics there's regulatory sequences and there are structural sequences the sequence that give rise to the actual Mr that the actual RNA.
+19:20
+Andrew Ippolito: Right so that's a little insight, you can have there are regions of DNA that control other regions of DNA they get expressed.
+19:28
+Andrew Ippolito: The vast majority of your genome, is not a structural its regulatory.
+19:34
+Julia Lakchin: Which is interesting, so what is the lock up around again. Andrew Ippolito: So the laptop or.
+19:39
+Andrew Ippolito: On is a specific set of structural genes under the control of the lack promoter.
+19:46
+Andrew Ippolito: And you'll see again i'm doing all this, I have slides on this so i'm right now i'm giving you an introduction into just the concept of the Opera.
+19:54
+Andrew Ippolito: Okay cuz here's what i'm going to do now there's one other part of this there's a gene somewhere else you see how it's far away on the genome.
+20:02
+Andrew Ippolito: Right there's a gene down here just in its its constituent that's this genes always on this was a constituent of gene.
+20:12
+Andrew Ippolito: And what this gene is going to do is give rise to a product called the oppressor protein.
+20:24
+Andrew Ippolito: Okay, this is what's called a negative regulator or as this name suggests that represses How does it work it binds to the operator.
+20:36
+Andrew Ippolito: This is called this this gene here, this is called the regulatory g.
+20:43
+Andrew Ippolito: two distinct distinguish it from a structural jeans.
+20:56
+Andrew Ippolito: So there's something called the lacquer oppressor or something else, called the trip or presser right, but the key is OK so regardless of which up around we're learning about are talking about.
+21:06
+Andrew Ippolito: Our oppressor protein always shuts off an offer on when it is bound to the promoter okay that's the universal concept here is that when the repress or protein is bound.
+21:21
+Andrew Ippolito: The structural genes are off because it is a repress or protein Okay, so this is an example of negative gene regulation.
+21:31
+Andrew Ippolito: negative. Gene regulation.
+21:40
+Andrew Ippolito: Okay, the secret here what makes inducer Bible verses compressible is the default state of that repress or protein.
+21:50
+Andrew Ippolito: And that's the inside right there right, so if the oppressor protein is normally bound to the operator.
+21:58
+Andrew Ippolito: Which kind of state with that being would that be an indivisible operand or irrepressible opera let's see if it got it the the repress or protein normally being bound to the operator and its default state without being induced irrepressible system.
+22:13
+Andrew Ippolito: Diesel good good. Andrew Ippolito: Right why, because we can knock it off when we need it.
+22:20
+Andrew Ippolito: Okay, good. Andrew Ippolito: As opposed to if it is in an offstage where the regulatory or i'm sorry the repress or protein was called are is not bound to the operator, and so the genes are on.
+22:36
+Andrew Ippolito: OK, so the whole secret to understanding the mechanism of op wrong control is whether or not that repress or protein is bound to the operator or not.
+22:47
+Andrew Ippolito: Okay, so think of it like a think of it like a.
+22:52
+Andrew Ippolito: Little blob that has crow's feet on it think of a bird on a wire. Andrew Ippolito: Right, and so the the birds hand is by default open or closed the caused by default open and then we can push a button to close it.
+23:06
+Andrew Ippolito: or it's by default closed, and we can push a button to open it.
+23:14
+Andrew Ippolito: So it makes sense, now that we need a toggle switch for that repress or protein right, we need a way to change it state, we need to be able to either kick it off the DNA.
+23:27
+Andrew Ippolito: If it's an unusable system. Andrew Ippolito: Or we need a way to put it on the DNA, there were three possible system right, so this is what distinguishes the useable and the repressive block ron's is the presence or absence of the oppressor protein and either ready or a Cobra presser.
+23:47
+Andrew Ippolito: Alright, so, something that is bound to it that keeps it there a Co represses so there's either a Cobra presser.
+23:58
+Andrew Ippolito: or in the other kind of opera the invisible one there's something called the inducer.
+24:06
+Andrew Ippolito: Both of these molecules or I should say either of these molecules depending on which system, it is will bind to the repress or protein and then switch it's normally on now it's off normally off now.
+24:19
+Andrew Ippolito: And those names Cobra presser inducer go along with repress blend into specific.
+24:25
+Andrew Ippolito: Okay, so in inducer molecule would be in an indivisible opera. Andrew Ippolito: Read the code oppressor would be in the repressive will opera.
+24:33
+Andrew Ippolito: OK questions. Andrew Ippolito: God. Alexa Deprisco: So a Cobra presser goes with a repressive will cheat.
+24:43
+Andrew Ippolito: Repressive. Alexa Deprisco: opera for possible off run and then inducer goes with an unusable.
+24:48
+Andrew Ippolito: You got.
+24:56
+Andrew Ippolito: And this is beginning to make sense wonderful because once I show you the details of the laptop run it'll all make perfect sense.
+25:02
+Andrew Ippolito: and be oh that makes sense it, this is all Nice and logical everything follows it's a beautifully elegant system.
+25:12
+Andrew Ippolito: All right, more questions. Andrew Ippolito: My screen starting to get a little messy and i'm gonna have to purge it.
+25:20
+Andrew Ippolito: Before I do, that I want to make sure nobody's last.
+25:26
+Andrew Ippolito: Okay. Andrew Ippolito: All right, ready.
+25:31
+Andrew Ippolito: So there, they are replaceable and useful we're going to use a case study and each one of these there's a trip up or on the laptop RON and really we're gonna, even though this is on the right hand side we're going to learn about the last couple offers.
+25:43
+Andrew Ippolito: So here's the key. Andrew Ippolito: anabolic.
+25:49
+Andrew Ippolito: academy catabolic. Andrew Ippolito: You can see how everything's tied together these old ideas we had in our heads are now revisited so anabolic systems things that build.
+26:01
+Andrew Ippolito: For example, we need to build an amino acid, so that we can make proteins we usually have to build those amino acids so trip to fan the trip hop around this T rp.
+26:12
+Andrew Ippolito: That stands for trip to fan. Andrew Ippolito: which, as you recall trip the fan, which is amino acid w is one of the 20 amino acids, that we use to make proteins.
+26:24
+Andrew Ippolito: And so the trip up around in bacteria is a metabolic pathway that builds trip the fan from building blocks.
+26:33
+Andrew Ippolito: Think of the beetle and tatum experiment that metabolic pathway, the city lean.
+26:39
+Andrew Ippolito: To the Argentine. Andrew Ippolito: That was another type of anabolic pathway.
+26:46
+Andrew Ippolito: Okay. Andrew Ippolito: So you can generally associate anabolic pathways that the building this stuff that isn't there.
+26:52
+Andrew Ippolito: With systems that are normally on, but it can be turned off if we suddenly have an influx of tryptophan right imagine you just ate a whole bunch of food that was very rich and trip to fail and so now the bacteria are flooded with trip to fan.
+27:07
+Andrew Ippolito: They don't have to make it themselves anymore. Andrew Ippolito: Okay, normally they do.
+27:12
+Andrew Ippolito: But they got lucky today you eat a whole bunch of food they got tripped up.
+27:17
+Andrew Ippolito: All right now the invisible systems. Andrew Ippolito: And the lack offer on this lack stands for lactose.
+27:26
+Andrew Ippolito: If you remember lactose is a di saccharine.
+27:32
+Andrew Ippolito: consisting of two mono saccharine anybody remember what those are.
+27:42
+Andrew Ippolito: what's lactose made out of. Zachary Lucas: glucose the collective's.
+27:47
+Andrew Ippolito: Excellent we got glucose GL you linked covelli to galactose jal.
+28:00
+Andrew Ippolito: We normally find lactose and mother's milk in memory. Andrew Ippolito: And so it makes sense right that bacteria don't normally have a lot of this hanging around in their environment.
+28:13
+Andrew Ippolito: and therefore it doesn't make much sense for them to waste their time.
+28:19
+Andrew Ippolito: Making all these enzymes.
+28:29
+Andrew Ippolito: You guys can still hear me i'm getting well weird thing we're notifications on my. Andrew Ippolito: guess is my MIC my own.
+28:36
+April Neeld: hear you. Okay. Andrew Ippolito: Okay, so you can associate the idea of indivisible systems with capitalism, the idea that we're not going to spend all this energy making all these enzymes to eat every possible food that can get thrown at us we're only going to turn around when we need it.
+28:59
+Andrew Ippolito: Think about. Andrew Ippolito: Think about a potato peeler. Andrew Ippolito: The potato peelers like you don't even know where your potato peeler is because you don't really peel potatoes, but like in that weird off chance somebody hands you a whole big sack of potatoes, you have nothing better to eat.
+29:11
+Andrew Ippolito: you're like well, I guess, I should pull out that old potato peeler. Andrew Ippolito: or make one.
+29:20
+Andrew Ippolito: Okay okay any questions at this point.
+29:27
+Andrew Ippolito: Okay, good So hopefully, you should you can start to see the logic behind why we have these different systems, the whole underlying principle, saving energy.
+29:36
+Andrew Ippolito: Being efficient in our energy use cells are notoriously stingy and frugal and picky about what they spend their energy on, which is why they survive right that's a good lesson to learn in your everyday economic life.
+29:53
+Andrew Ippolito: Live frugally and you will always have energy and you will be able to survive. Taylor Campbell: It does the w stands for.
+30:00
+Andrew Ippolito: When you have to fan that's the one that's the one letter word for trip to. Andrew Ippolito: The one letter for trip the fan okay.
+30:06
+yeah.
+30:12
+Andrew Ippolito: Okay, so I already gave you this so i'm going to skip this slide but here's here's the layout and I should really put the word promoter and better promote that says promoter there you can't read it, because it's in white on a light color I don't like.
+30:25
+Andrew Ippolito: sorry about that and there's a movie you see this movie here this this link doesn't work.
+30:32
+Andrew Ippolito: But that number the really nice translation movie with the silly music the trolley music at the front selling Mr Rogers that's the same website that has the the laptop RON and i'll try to play that after I teach it to you.
+30:45
+Andrew Ippolito: Okay. Andrew Ippolito: So here's the mess that's the trip up RON, and the reason why there's no mess for the lock up RON is because i'm going to give it to you, right here, so this is what i'm going to do, I want to go through this this from your book, I want to go through this on Microsoft whiteboard.
+31:01
+Andrew Ippolito: And then. Andrew Ippolito: And then we'll learn that so, can you guys see the whiteboard right now.
+31:10
+Andrew Ippolito: That, I move that over correctly. April Neeld: it's on a PowerPoint but it's I kind of like that I can see the picture.
+31:17
+Andrew Ippolito: Right, so I guess i'm gonna. April Neeld: have to do full screen here. Andrew Ippolito: Does that is that better cleaner.
+31:25
+Andrew Ippolito: Now. Andrew Ippolito: tell her what's wrong you look really happy.
+31:30
+Taylor Campbell: yeah and just giggling this April I like that and you're like Okay, I guess, I can't do that.
+31:36
+Andrew Ippolito: And you oh you like that. Andrew Ippolito: i'm sorry.
+31:42
+Taylor Campbell: I can see april's face and she just was like okay that's yeah. Andrew Ippolito: April I missed I missed the I like that okay.
+31:50
+Andrew Ippolito: So, as you like that i'm going to change it. Andrew Ippolito: Then, now I do so that was just me not hearing me sorry alright, so this is good right now everything's good Okay, you can see the PowerPoint, on the other side, the full PowerPoint.
+32:02
+April Neeld: that's the picture on the PowerPoint but it's like comparing. Andrew Ippolito: Oh, I see that just I just got lucky with that because.
+32:11
+Andrew Ippolito: I have that picture on the left hand side okay cool. Andrew Ippolito: Okay, this works right if you frame your reference point.
+32:18
+Andrew Ippolito: Okay, here we go, so what i'm going to do here is i'm gonna.
+32:29
+Andrew Ippolito: i'm going to draw a straight line here, this represents the DNA.
+32:35
+Andrew Ippolito: And let's do in green here, this is the promoter.
+32:42
+Andrew Ippolito: And then i'll read here's the operator and then blue let's do structural gene one.
+32:51
+Andrew Ippolito: The structural gene to. Andrew Ippolito: Structural gene three.
+33:01
+Okay. Andrew Ippolito: Right, so the promoter the operator and then structural gene s one s two s 30.
+33:14
+Andrew Ippolito: Right i'll tell you what let's give the real names for these since we have them on the screen here, this is the lack of the lack of capital, see the lack why gene like capital why I then the lack aging.
+33:27
+April Neeld: This is the same for all of it, so it doesn't those lacks don't change depending on.
+33:34
+Andrew Ippolito: Big ass time again. April Neeld: So, like the laxey laugh wine lack a those are universal, for the lack of RON.
+33:42
+Andrew Ippolito: yeah those are the structural jeans, these are the.
+33:48
+April Neeld: Excuse me. Alexa Deprisco: Yes, could you also call the structural jeans the jeans of the offer on.
+33:54
+Alexa Deprisco: yeah sure. Andrew Ippolito: Those are the Bronze students yeah. Taylor Campbell: And there's always going to be three of the.
+34:00
+Andrew Ippolito: No, no, for the lock up RON there's three though the trip abroad, I think, has five.
+34:21
+Andrew Ippolito: Okay. Andrew Ippolito: alright. Andrew Ippolito: So let's talk about what these do briefly when they are on.
+34:32
+Andrew Ippolito: So, for the last day i'm just going to say the actual what it actually does we're not quite sure yet like research hasn't really determined the point of the packaging so don't worry about it.
+34:45
+Andrew Ippolito: The legs EG know is a beta and then galactic decide days.
+34:55
+Andrew Ippolito: will be at a collective societies does. Andrew Ippolito: Is a cleaves.
+35:00
+Andrew Ippolito: factors. Andrew Ippolito: into glucose and galactose right so just snip them in half, and then the cell can eat the glucose.
+35:11
+Andrew Ippolito: And then I summarizes the galactose and use that to you know worry about the downstream part of that so that's what the beta galactose it does now, sometimes we call this beta go ready beta go.
+35:21
+Andrew Ippolito: So be the Gal is the ends up. Andrew Ippolito: Being a Gal cuts lactose.
+35:31
+Andrew Ippolito: Okay, the second gene, the lack why gene gives us. Andrew Ippolito: And it's not really an enzyme it's a transporter my logical permeates.
+35:40
+Andrew Ippolito: Well permeates does. Andrew Ippolito: Is it allows lactose into the cell, so it opens a floodgate.
+35:48
+Andrew Ippolito: So here, if this is the cell. Andrew Ippolito: And this is permeates.
+35:56
+Andrew Ippolito: permeate allows lactose to come inside. Andrew Ippolito: It opens the floodgates so that I can very easily get it.
+36:24
+Andrew Ippolito: Okay. Andrew Ippolito: questions.
+36:30
+Andrew Ippolito: All right, good. Andrew Ippolito: Now, lastly, we're going to take our lack repress or protein and put him right here.
+36:45
+Andrew Ippolito: Actually, I want to draw him want to drive them different, let me get rid of the little over here oops.
+36:50
+Andrew Ippolito: here's how i'm going to draw the lacquer presser. Andrew Ippolito: he's got two little feet that stick to the DNA.
+36:58
+Andrew Ippolito: Actually let's give him a little donut hole.
+37:04
+Andrew Ippolito: There we go. Andrew Ippolito: So this is the default state.
+37:16
+Andrew Ippolito: So we've just set the chessboard up we've just set the game up to play now so other any other holdout questions here before we play the game.
+37:30
+Andrew Ippolito: kind of like you said what happened. Andrew Ippolito: He didn't like and. Alexa Deprisco: I just wanted to make sure that, like cuz I guess like when we play the game, I guess, it will go into that but um the lack a.
+37:42
+Andrew Ippolito: Okay it's called transit it's called transit settle least we don't know what it does.
+37:47
+Andrew Ippolito: We literally so So the idea here is is we're going to bring lactose and we're going to break it apart.
+37:53
+Andrew Ippolito: Maybe a subtly maybe the transit satellites i'm making this up, maybe transit suddenly keeps the lactose into the cell maybe traps it in the cell easier, so it doesn't fall out again I don't know.
+38:06
+Andrew Ippolito: But yeah even if you read the current research they don't they have some some people have some ideas, but they don't fully understand it.
+38:13
+Andrew Ippolito: And I think if you mutated the laptop right still works. Andrew Ippolito: Just not as well.
+38:18
+Andrew Ippolito: yeah so it's a non essential gene. Andrew Ippolito: That can be wrong about that now.
+38:25
+Andrew Ippolito: yeah go ahead. Julia Lakchin: What is that. Julia Lakchin: thing again oh sorry Julia. Andrew Ippolito: what's The one thing the red thing is the oppressor protein.
+38:32
+Andrew Ippolito: This is the re. presser protein.
+38:40
+Andrew Ippolito: And again, because we are dealing with an n do Sibel system, the repress or protein.
+38:50
+Andrew Ippolito: let's just put a big are here it's like an s on a shirt for Superman that's our for oppressor okay that repress or proteins job is to stop transcript okay so RNA polymerase.
+39:05
+Andrew Ippolito: RNA polymerase here. April Neeld: lead, I still have a question.
+39:11
+Andrew Ippolito: I love playing the game, yet I just want to say this. Andrew Ippolito: Is RNA polymerase right here is. Andrew Ippolito: Currently, not able to bond to the promoter and read through Okay, so he is by default.
+39:22
+Andrew Ippolito: off all right good question. April Neeld: Oh lack Z goes with the big owl and then lack lie goes with the premise and then lack a goes with the transistor whatever.
+39:34
+Andrew Ippolito: The satellites. April Neeld: Yes, okay okay. Andrew Ippolito: and actually you can even call.
+39:40
+Andrew Ippolito: This RNA this and, by the way, well i'll put that back that didn't disappear, this is a poly astronomy RNA.
+39:53
+Andrew Ippolito: Remember, a policy strategic piece of em RNA is a piece of Mr that has multiple genes on it that can all be read.
+40:01
+Andrew Ippolito: at once, and so the are you can imagine the ribosome binding to this and reading along here and popping off three different I mean, I have three different pipe cuts.
+40:12
+Andrew Ippolito: Okay, let me write that meter polly.
+40:22
+Andrew Ippolito: polly assist chronic.
+40:28
+Mr name.
+40:40
+Andrew Ippolito: All right, more questions. Andrew Ippolito: Is it polly's astronomy because it has to be gathered Hermes and the Trans something well it's possible to have multiple.
+40:51
+Andrew Ippolito: It doesn't have to be those jeans but yes.
+41:01
+Andrew Ippolito: Okay ready ready to play the game so here's one little detail that the the non major version of this doesn't deal with, but I want to give it to you.
+41:11
+Andrew Ippolito: Because it's in your book and you guys will understand this lactose has to ice summers remember I summers remember I summers are the same chemical formula with different structural formula so lactose exists in two forms.
+41:27
+Andrew Ippolito: What we call out to us let's say that that's you know 90% of the molecules look like lactose but then 10% on the molecules look a little different and we call it aloe like this.
+41:42
+Andrew Ippolito: Okay, so these are ice summers.
+41:55
+Andrew Ippolito: And I believe that they convert between themselves.
+42:02
+Andrew Ippolito: So there's like a steady state where the majority of the lactose is in its proper form and then about 10% of it is in this alternative for.
+42:10
+Andrew Ippolito: And the reason, this is important, is because the aloe lactose.
+42:16
+Andrew Ippolito: The Allah lactose combined to the oppressor protein.
+42:27
+Andrew Ippolito: This binding to the oppressor protein. Andrew Ippolito: changes its shape.
+42:37
+Andrew Ippolito: yeah well you're interrupting right now let's try again get out and try again changes its shape.
+42:44
+Andrew Ippolito: hold on a second guys come in. what's up.
+42:50
+what's up a hotdog it's lunchtime, yes. Andrew Ippolito: And jack man you don't have to ask that anymore, you can just do.
+43:00
+Andrew Ippolito: I guess the plate cleaning one okay. Andrew Ippolito: i'm gonna step on a startup ceramic leader and probably bleed really bad.
+43:08
+Andrew Ippolito: i'm just gonna guess okay so Allah lactose binds to the oppressor protein this changes it shape that's called a confirmation will change let's use the terminology, here it induces a confirmation or change calm formation all change.
+43:28
+Andrew Ippolito: A confirmation of a molecule, this is a sheep, so I, like us, and lactose have different confirmations you could say to anyway, changes the shape changes confirmation.
+43:40
+Andrew Ippolito: resulting. Andrew Ippolito: In its let's say dissociation from the operator, it falls off the operator.
+43:51
+dissociation. Andrew Ippolito: From the operator oh.
+44:07
+Andrew Ippolito: Alright, so you can see, on the left hand side, here we have this.
+44:18
+Andrew Ippolito: This might be confusing to you so here over here here's the promoter p.
+44:24
+Andrew Ippolito: here's the operator and then there's all the downstream structural genes, they just they just cut them off here so bound to the operator by default here's the repress are pretty.
+44:35
+Andrew Ippolito: Okay, so this is the default state. Andrew Ippolito: And so here's what happens well actually before this let's just make sure we still understand the defaults here so alexa you had a question I don't want to go on until everybody's on the same page did you do you have a question I thought, so you okay.
+44:52
+Andrew Ippolito: All right, right so here's what happens you eat a bunch of dairy you drink some milk eat some ice cream and get some lactose in your body.
+45:03
+Andrew Ippolito: And let's say that you are one of the lucky people who are lactose intolerant right anybody here lactose intolerant.
+45:12
+Andrew Ippolito: Some of us Okay, so people who are lactose intolerant the reason why they're lactose intolerant is because there's a gene mutation that occurred.
+45:21
+Andrew Ippolito: About 40,000 years ago and no that's not true at all it's not 40,000 years i'm mixing my stories this i'm not actually know what happened, but for 1000 years ago, but it didn't become common until gang Gus Kahn.
+45:33
+Andrew Ippolito: You guys know biggest con is right yeah I told you that story earlier in the Semester right.
+45:40
+Andrew Ippolito: right that I i'm losing track of what stories I tell you guys sorry so long story short, the mongol invasion was successful in part because.
+45:49
+Andrew Ippolito: The Mongols were lactose tolerant, which means they were able to carry around their food.
+45:55
+Andrew Ippolito: Very quickly, so their army was highly mobile they brought goats and they were able to milk the goats and eat yogurt and cheese.
+46:03
+Andrew Ippolito: Instead of killing the goat so their supply lines were all completely different, they really changed modern warfare and so they were able to hit and run run away come back and bite and they conquered.
+46:12
+Andrew Ippolito: And you know back in those times when you the invading army conquered, one of the things he did was they made a bunch of babies from the defeated people to put a politely and as a result today about 2% of people.
+46:29
+Andrew Ippolito: Everywhere share gang Gus Kahn DNA just getting his car, not the Mongols but like this that one guy but to purse I think it's about 2% of people and.
+46:39
+Andrew Ippolito: And the reason why the majority of people are now lactose tolerant is because of the mongol invasion. Andrew Ippolito: Because the majority of people during the Mongolian vision were like to start so for those of us who are lactose intolerant we bear the original mutation of all mammals i'm sorry we lack the mutation right, so the the wild type.
+47:01
+Andrew Ippolito: it's, the idea is is, what are the only mammals that drink milk as adults, all other mammals stop drinking it when they go through a waiting period.
+47:09
+Andrew Ippolito: for humans that's about five years old, about five years old, your gene for lactase lactase remember that's the genetics lactose your gene for lactase gets shut off it goes dormant.
+47:23
+Andrew Ippolito: And for people who have this mutation it stays on which gives them the ability to eat lactose all the time.
+47:30
+Andrew Ippolito: Okay, so let's say you're lactose intolerant and you eat a bunch of dairy and so now your intestines are flooded with lactose because you didn't digest it yourself if you pass it on to your ECO life friends and your microbiome.
+47:45
+Andrew Ippolito: Okay, be now suddenly have a bunch of fast food. Andrew Ippolito: Actually don't I take that back that's the opposite of the analogy now a bunch of you know, food, they have to work at.
+47:59
+Andrew Ippolito: Right, they have to break lactose in half, which they don't normally do. Andrew Ippolito: Okay, so here's what happens if this is a bacterial cell.
+48:09
+Andrew Ippolito: And here is an environment that is now filled with lactose.
+48:15
+Andrew Ippolito: Some of that being electors some of that sneaks into the cell not much, but some.
+48:22
+Andrew Ippolito: cells are a little leaky there are some ways it'll get in there. Andrew Ippolito: Okay, and somewhere in that cell.
+48:30
+Andrew Ippolito: Is a suppressor protein bound to some DNA that sees some aloe lactose and that Allah lactose binds to the repress or protein changing its shape knocking it off the DNA.
+48:46
+Andrew Ippolito: There by activating the upper on. Andrew Ippolito: Once they offer on is activated and we make the lexi and the lack why jeans and alike aging, for some reason, the lack why gene the permeates thing gets expressed, and now we have a membrane of a cell Phillip Hermes, which allows a flood of the lactose to come in.
+49:12
+Andrew Ippolito: And now we're in a state of high metabolism we're gonna eat it by using the big black decides to break it in half, and then metabolize the building blocks or the products of that.
+49:25
+Andrew Ippolito: And we're going to keep doing that. Andrew Ippolito: Until it's not there anymore.
+49:30
+Andrew Ippolito: So now, you have to ask yourself well how does it shut off again here's the secret. Andrew Ippolito: Okay, so here let's let's borrow from the books sheep of the law, copper on here are the lacquer presser here's the lacquer oppressor and notice i'm drawing the inducer molecule.
+49:47
+Andrew Ippolito: separate from it Okay, because I really want you to get this this molecule here the binding here, this is not a permanent binding, this is velcro.
+49:57
+Andrew Ippolito: This is on and off and on and off and on and off and if there's a bunch of it in the cell the default state is going to, or rather the equilibrium is going to be driven to being on.
+50:06
+Andrew Ippolito: Right, if I have 1000 molecules about the lactose at any given moment that repress or protein is probably going to be bound to a molecule balla lactose.
+50:17
+Andrew Ippolito: As I start to metabolize the lactose.
+50:22
+Andrew Ippolito: As it starts to go away, you can imagine that last aloe lactose molecule falling off and then getting eaten.
+50:31
+Andrew Ippolito: And now the library oppressor is not bound to it anymore and it's free to go back and bind to the DNA shutting off this system again.
+50:43
+Andrew Ippolito: And then we've come full circle and that's the end so lock up bra.
+50:51
+Andrew Ippolito: OK, so now that you get it i'll go through one more time cleanly.
+50:58
+Andrew Ippolito: Here we go. Andrew Ippolito: I have all this other stuff here alright so ready here's the DNA.
+51:05
+Andrew Ippolito: here's the promoter. Andrew Ippolito: here's the operator. Andrew Ippolito: here are my structural genes.
+51:14
+Andrew Ippolito: default state. Andrew Ippolito: RNA polymerase is not bound to the DNA.
+51:27
+Andrew Ippolito: The oppressor protein is. Andrew Ippolito: Right so it's off right now right so i'm not going to write anything else i'm going to use these little game piece, I want to move them around.
+51:36
+Andrew Ippolito: So this is the default state it's off. Andrew Ippolito: aloe lactose comes into this out.
+51:42
+Andrew Ippolito: here's Alex. Andrew Ippolito: And now i'm gonna play the game so here are the lactose bind to the repressed or protein that changes it shape that induces a confirmation will change, so it falls off.
+51:55
+Andrew Ippolito: The absence of the oppressor allows the RNA polymerase to bind to the promoter.
+52:01
+Andrew Ippolito: And then. Andrew Ippolito: I should say bond to the promote.
+52:09
+Andrew Ippolito: Doing live right now on to the promoter and then ticker tape along here and make the policy stronach Mr na.
+52:18
+Andrew Ippolito: So let's say here's our Mr rene. Andrew Ippolito: The Mr RNA makes our proteins.
+52:25
+Andrew Ippolito: there's a beta Gal and our permeates and our transit sally's. Andrew Ippolito: They then go and nom nom nom eat up all the galactose and the cell until the time comes, when that last bit of Allah lactose gets eaten.
+52:40
+Andrew Ippolito: And now repress or protein can then go back and bind here and shut the whole thing off again.
+52:49
+Andrew Ippolito: And that's the end of the story and i'm sticking to.
+52:56
+Andrew Ippolito: questions.
+53:09
+April Neeld: The aloe lactose binds to the oppressor and then it eats the regular lactose.
+53:19
+Andrew Ippolito: yeah well it so it's both. April Neeld: it's both. Andrew Ippolito: Okay, and then Allah lactose is the only thing that regulates.
+53:25
+April Neeld: So if you use up all the LM s and there's still lactose left does that.
+53:30
+Andrew Ippolito: mean it's just ended up still shut off. Andrew Ippolito: it'll still show so yeah but because. Andrew Ippolito: lactose is the most abundant right 90% of it is in that form that's going to be long gone when the other lactose is still present.
+53:43
+Andrew Ippolito: Just from if you play the game of chance. Did you say that the actors is acting as a ligand.
+53:54
+Andrew Ippolito: yeah that that would be a generic descriptor it's like it's a molecule what kind of molecules it's a link into a kind of like into the repress are pretty.
+54:03
+Andrew Ippolito: sure. Andrew Ippolito: Are you really you can also think of it does they.
+54:11
+Andrew Ippolito: Might not it's called a refresher it's inhibitory it's a negative regulator writes a negative gene regular that's the key here is this whole everything you just learned what is within the topic, this is an it, this is negative.
+54:25
+Andrew Ippolito: Gene regulation.
+54:31
+Andrew Ippolito: that's what this mechanism is you just learned a mechanism of negative gene control.
+54:37
+Andrew Ippolito: Okay, you can also call it ready active repression.
+54:48
+Andrew Ippolito: The analogy is your foot sitting on your brake pedal you're actively stopping the car if your foot slips off the brake your car rolls forward you get to an accident Okay, if the red presser protein isn't there actively repressing, then the op RON is on.
+55:11
+Andrew Ippolito: Right imagine them so here here's a little game, you can play now what what happened to the laptop around if I mutate.
+55:20
+Andrew Ippolito: The suppressor gene or the regulatory gene if there's a loss of function mutation that affects the lack of ron's repressed or protein well consequence would that have on a light opera.
+55:49
+April Neeld: mutated to the way we're not sticking on the operator or What do you mean Kenan.
+55:56
+Andrew Ippolito: So let's say. Andrew Ippolito: let's go back. Andrew Ippolito: To this slide here. Andrew Ippolito: let's say that I mutated the regulatory gene so that it's broken and we don't get the repress or protein anymore what consequence will that have on the laptop braun.
+56:16
+April Neeld: always be on. Andrew Ippolito: You got it.
+56:22
+Andrew Ippolito: Good.
+56:28
+Andrew Ippolito: Excellent. Andrew Ippolito: Now i'm going to teach you a way.
+56:34
+Andrew Ippolito: of fine tuning this before teaching you the trip Bob RON I normally teach you the trip hop around right away, but because you have this fresh in your head right now.
+56:42
+Andrew Ippolito: i'm going to show you how we're going to take this concept, this is a switch right, we can all agree, this is a simple switch right, this is an on and off switch right.
+56:51
+Andrew Ippolito: we've just turned the lock up RON off the laptop RON it's an all or nothing response, yes.
+56:58
+Andrew Ippolito: Okay, this is your turn the light switch on your turn the light switch on where there's no real estate here because I want to be a status.
+57:07
+Andrew Ippolito: This is a, this is an engineering work Rhea step or read a Stat is like a it's like the word button or switch if you think of a dial that makes things dim like dimmer switch okay that concept is a real estate.
+57:24
+Andrew Ippolito: or your faucet your fosters a real estate right so imagine you go to the restaurant you put your hands under there and, like the water just shoots out that's like a switch.
+57:32
+Andrew Ippolito: right but imagine there's a knob there lets you regulate how much water is coming in and now it's a real estate, so what you just learned was a switch which is it's so it's crude right.
+57:42
+Andrew Ippolito: it's a crude way of turning something on and off.
+57:47
+Andrew Ippolito: So. Andrew Ippolito: let's think about this scenario, what happens if I give us a glucose one of the environment, contains glucose.
+58:04
+Andrew Ippolito: and building a table here. Andrew Ippolito: glucose is a preferred food why it's simple.
+58:12
+Andrew Ippolito: Okay here's a here's a question let's say that you came home after a busy day of work and you look what left on the counter in front of you is a bag of your favorite fast food.
+58:21
+Andrew Ippolito: or a bag of groceries with fresh ingredients for you to spend the next hour, making a meal and you are tired and hungry.
+58:32
+Andrew Ippolito: Which one you're gonna go for. April Neeld: fast food. Andrew Ippolito: Of course.
+58:39
+Andrew Ippolito: If you have any other answer to that would be a lie, and you know it.
+58:45
+Andrew Ippolito: i've got the healthy choice, no you're not. Andrew Ippolito: And you there's a bacteria Okay, if you gave the bacteria a choice.
+58:57
+Andrew Ippolito: Between these two between lactose and glucose it's going to go for the glucose.
+59:04
+Andrew Ippolito: Right. Andrew Ippolito: So that's its preferred meal of choice, why glucose is easier to metabolize I already have mine glycol assist machinery on I already have my glucose metabolism going because it's always there.
+59:21
+Andrew Ippolito: Alright you're giving me this lactose that's great and all but i'm going to eat the glucose.
+59:26
+Andrew Ippolito: Okay now think of a situation. Andrew Ippolito: Where there's no glucose so you're hungry and there's a bunch of lactose.
+59:39
+Andrew Ippolito: Now you're turning the like opera on right maximizing it okay.
+59:44
+Andrew Ippolito: Okay, what about if glucose is present and lactose isn't present.
+59:51
+Andrew Ippolito: My laptop runs tightly off right the the faucet is just super tightly shut.
+59:57
+Andrew Ippolito: All right, and what about of glucose is absent and so you're hungry and lactose is also absent.
+1:00:07
+April Neeld: Then you start. Andrew Ippolito: When you're dead. dead.
+1:00:12
+Andrew Ippolito: Okay, this is all possible combinations plus plus plus minus minus plus minus month yeah.
+1:00:18
+Andrew Ippolito: Alright, so the question now is. Andrew Ippolito: Is the lack of proper on on or off.
+1:00:26
+Andrew Ippolito: So when lactose is present right, we would say on that makes sense let's just fill those in the lineup ron's here it's on.
+1:00:36
+Andrew Ippolito: Like a black lactose is absent it's off.
+1:00:41
+Andrew Ippolito: Okay. Andrew Ippolito: But now let's think about this here let's call it let's let's just number these scenarios, so I can refer to them now so just looking at scenario for for a second there's nothing present in the environment right.
+1:00:57
+Andrew Ippolito: or.
+1:01:02
+Andrew Ippolito: yeah nevermind let's not it's it's off that that's that this tells just that's there's nothing good about that scenario.
+1:01:10
+Andrew Ippolito: So we're not going to talk about that anymore okay let's look at.
+1:01:17
+Andrew Ippolito: scenario One scenario one, so what got bronze on right but glucose is there.
+1:01:26
+Andrew Ippolito: So. Andrew Ippolito: Instead of just saying on or off.
+1:01:37
+Andrew Ippolito: let's say it's on. Andrew Ippolito: slightly.
+1:01:44
+Andrew Ippolito: Right yeah it's there but i'm not really paying attention to it because i'm eating the glucose.
+1:01:53
+Andrew Ippolito: Okay glucose is absent, but life goes on it's on. Andrew Ippolito: let's say highly.
+1:02:01
+Right. Andrew Ippolito: So it makes sense now I need a second layer of control now right and and that second layer of control, it has to do a glucose.
+1:02:13
+Andrew Ippolito: right if i'm building in a second switch system here it's gonna be somehow wired up with glucose right, so the lacquer presser that that our protein bars are lactose are not lactose right so that's wired up to to the negative regulator, the repressed.
+1:02:30
+Andrew Ippolito: So now i'm going to teach you about a positive regulator.
+1:02:35
+Andrew Ippolito: Right, so the concept here, you can think of the concept we're talking about is fine tuning.
+1:02:41
+Andrew Ippolito: or fine tuning gene control. Andrew Ippolito: And this concept this fine tuning of gene control understanding this is going to help you understand how you carry oh it's regulate their genes, because we don't regulate our genes, with a switch.
+1:02:57
+Andrew Ippolito: or reassess every instance. Andrew Ippolito: it's crazy complicated okay so just by by understanding the second level now it's going to open up a whole door of concepts here for you right, so we have what let's call this negative regulation.
+1:03:13
+Andrew Ippolito: A good to have regulation we're going to call this positive regulation.
+1:03:19
+Andrew Ippolito: And i'll show you how that works. Andrew Ippolito: Okay, so here's how it works.
+1:03:25
+Andrew Ippolito: DNA is not like have been drawing it it's not a rigid piece of you know what or whatever it so what spaghetti right DNA DNA is flexible.
+1:03:37
+Andrew Ippolito: Okay, and so.
+1:03:42
+Andrew Ippolito: I knew like a bright orange wire for these demonstrations, I just have this black one, but here, here we go here's here's the promoter region right, so its DNA right DNA is flexible.
+1:03:53
+Andrew Ippolito: So here's let's say let's see that this is the region of DNA that polymerase wants to buy do right, so you know you got like.
+1:04:09
+Andrew Ippolito: here's RNA polymerase bind to the promoter right advisor the promoter and then a ticker tape solo but here's the thing in reality.
+1:04:20
+Andrew Ippolito: let's call this is a word that I want to make sure you guys understand typography typography.
+1:04:26
+Andrew Ippolito: Okay, this is the shape of the land they did like think of topographical maps right Okay, so the topography of the DNA is important right so imagine, I did this imagine, I hit the promoter like this.
+1:04:40
+Andrew Ippolito: or imagine, I expose the promoter and kind of rounded it up and made it really easy to find.
+1:04:47
+Andrew Ippolito: Like we're sticking it out like a look over here or think of the person as a planes landing on the landing strip there's a guy there with.
+1:04:56
+Andrew Ippolito: A pair of lights and he's waving the plane it right that plane is going to be able to bind much easier.
+1:05:03
+Andrew Ippolito: So. Andrew Ippolito: There is a protein that binds to the promoter that makes the promoter easier to find.
+1:05:12
+Andrew Ippolito: Okay, so imagine here's the DNA without it. Andrew Ippolito: And here's the DNA.
+1:05:19
+Andrew Ippolito: with it. Andrew Ippolito: it's going to make the RNA polymerase bind more effectively.
+1:05:28
+Andrew Ippolito: it's enhancing. Andrew Ippolito: Gene expression so we'll call this.
+1:05:36
+Andrew Ippolito: Call anything it. Andrew Ippolito: Is it's a it's a positive regulator.
+1:05:48
+Andrew Ippolito: And it's aloe strictly regulated, just like the repress or protein, in other words, there is a binding site somewhere here.
+1:05:59
+Andrew Ippolito: And what do you think binds there.
+1:06:06
+Andrew Ippolito: Take a guess what molecule webinar.
+1:06:26
+April Neeld: Today it's easier or harder for the polymerase to bind.
+1:06:31
+April Neeld: easier. Andrew Ippolito: easier, making it easier to bond.
+1:06:39
+Andrew Ippolito: So what molecule.
+1:06:44
+Andrew Ippolito: Oh, you know what i'm asking him mean question because I forgot there's a whole nother layer what's the end of all this, why, why are we food.
+1:06:54
+Andrew Ippolito: What molecule at the end of the day, are we making.
+1:07:01
+Andrew Ippolito: Why do we eat glucose.
+1:07:13
+Andrew Ippolito: what's the whole point of this. Andrew Ippolito: ATP you got it.
+1:07:21
+Andrew Ippolito: Okay, so ready there's a sensor there's a sensor here ATP.
+1:07:27
+Andrew Ippolito: gets broken down into a dp. Right.
+1:07:34
+Andrew Ippolito: adp.
+1:07:40
+Andrew Ippolito: gets broken down to a MP. Andrew Ippolito: Number and number six campy we're automatically going to be just and.
+1:07:49
+Andrew Ippolito: So I want you to ask yourself now in your head. Andrew Ippolito: Here and.
+1:07:55
+Andrew Ippolito: You have let's say a cell that has a whole bunch of ATP in it and compare that sell to a cell that has a whole bunch of am which still starving.
+1:08:12
+Andrew Ippolito: Right, and so you could think that that cells kind of in crisis mode right.
+1:08:18
+Andrew Ippolito: So a cell, that is in crisis, mode that a starving is going to do everything in their power to make energy right so which one of these states a or B.
+1:08:32
+Andrew Ippolito: So you have either a lot of ATP or you have a lot of a MP, which one of these states will be associated with a high concentration of glucose.
+1:08:51
+Zachary Lucas: ATP good. Andrew Ippolito: We would have a lot of glucose. Zachary Lucas: On this side. Andrew Ippolito: We would have no glucose on their side because we're starving we can't make energy.
+1:09:00
+Andrew Ippolito: So now, you can start to imagine the scenario that gives us this positive regulation Okay, so this this protein here this positive regulatory protein.
+1:09:13
+Andrew Ippolito: that's going to have a little binding site let's try that a little better here.
+1:09:19
+Andrew Ippolito: is positive regulator. Andrew Ippolito: That has a binding site here, whatever bonds to that we're going to make that protein do some work OK, so now that you understand that let's go to the slide.
+1:09:33
+Andrew Ippolito: right here. Andrew Ippolito: Do I have a picture of it. No.
+1:09:40
+Andrew Ippolito: Alright, so let's look at.
+1:09:45
+Andrew Ippolito: let's let's stick to the slide here okay so ready, we have high glucose.
+1:09:51
+Andrew Ippolito: So we have a low cyclic amp D levels right we have high ATP levels.
+1:09:58
+Andrew Ippolito: Or we have low glucose levels. Andrew Ippolito: And so we have high camp levels right why because we're we're not able to metabolize ATP anymore, we won't have any more of it so we're stuck with the aim, so there is approaching some books will call this clip crp some books will call it CAP.
+1:10:19
+Andrew Ippolito: The grip stands for cyclical am P receptor protein.
+1:10:24
+Andrew Ippolito: CAP stands for can tabulate activator protein just go with whatever your book calls it, I can never remember this and it drives me insane and i'm sorry does anybody have it off the top of their head, maybe a combined burned into my head what's your book called triple CAP.
+1:10:36
+Alexis Micewski: I think it was crp. Alexis Micewski: Okay okay.
+1:10:41
+Andrew Ippolito: So. Andrew Ippolito: When the protein.
+1:10:47
+Andrew Ippolito: binds to camp. Andrew Ippolito: That allows this act of protein to now go to the promoter and bind to it causing a bend in the DNA.
+1:11:00
+Andrew Ippolito: Allowing RNA polymerase to buy into it more easily.
+1:11:07
+Andrew Ippolito: Alright, so so think of the logic circuit, in the absence of glucose i'm starving, which means I don't have a lot of ATP which means, I have a lot of a MP.
+1:11:17
+Andrew Ippolito: If I have a lot of MP that ATP binds to this protein, allowing it to bond to the promoter giving the laptop or on a leg up allowing it to be more enhanced and its expression.
+1:11:31
+Andrew Ippolito: combine that with the presence of lactose where the oppressor protein is off, and now you have a faucet that has gushing.
+1:11:43
+Andrew Ippolito: Okay, so here's the key. Andrew Ippolito: You have a positive regulator and you have been negative regulator.
+1:11:51
+Andrew Ippolito: And those positive and negative regulators are either in an active state or an inactive state.
+1:11:58
+Andrew Ippolito: Okay, so I have a really handy way I drew this last semester, that I liked i'm going to go right here, he look on the right hand side of the screen here.
+1:12:08
+Andrew Ippolito: Okay, the first column here the buttons and read think of think of these as the buttons on your phone right if you tap it it swaps to another one Okay, so the negative.
+1:12:21
+Andrew Ippolito: So the oppressor protein Okay, the oppressor protein is either on or off you see that so it's either on is that, like that's how you read this, these are little buttons.
+1:12:33
+Andrew Ippolito: And then right hand side the cat protein which really crisp.
+1:12:40
+Andrew Ippolito: His honor of. Andrew Ippolito: OK, so now we have two switches there are both on so like look at this they're both on the repressive is activated but also the cat pro to the crib protein is activated we're going to have a low level of activation right.
+1:13:04
+Andrew Ippolito: Because the repressive proteins bound, but the RNA polymerase has a leg up.
+1:13:12
+Andrew Ippolito: If the repress or protein is on and the CAD protein is off it's completely off this would be like a tight faucet.
+1:13:21
+Andrew Ippolito: Alright, so you can think of this as leaky. Andrew Ippolito: You can think of this is.
+1:13:28
+Andrew Ippolito: tightly off. Andrew Ippolito: You can think of this as gushing.
+1:13:35
+Andrew Ippolito: Right, the repressive proteins off and the crypt protein is on.
+1:13:45
+Andrew Ippolito: And then you can think of this also is leaky. Andrew Ippolito: The repress or proteins off, but the cat proteins off.
+1:13:56
+Andrew Ippolito: Okay. Andrew Ippolito: So there's there's two underlying concepts here, the first is that we can actively inhibit gene expression, we can actively repress.
+1:14:10
+Andrew Ippolito: By preventing polymerase from doing its job, and then the other is, we can actively promote we can actively enhance we can add we can actively.
+1:14:21
+Andrew Ippolito: actively. Andrew Ippolito: Okay, so you can start to see that there's a dance involved.
+1:14:29
+April Neeld: So, how does um How does it work when their oppressors on, and then the CAP is also on how does it go through the.
+1:14:40
+Andrew Ippolito: that's a great question I wish I could give you let me think of a.
+1:14:49
+Andrew Ippolito: Alright, so. Andrew Ippolito: Remember that all of this is.
+1:14:59
+Andrew Ippolito: everything's fine on and off on and off on and off, so their oppressor approaching is occasionally falling off and on and off and on, and I think of like a bouncer at the door that has to go get some water and come back so there's like moments of time where there's a crack in the door.
+1:15:11
+Andrew Ippolito: And if the crib proteins active and so RNA polymerase is like really, really like binding to the promoter frequently and and tightly because of this.
+1:15:24
+Andrew Ippolito: positive environment for it when they repress their protein let his guard down even a moment you're going to be able to get through.
+1:15:33
+Andrew Ippolito: Just not very effective. Good.
+1:15:42
+Andrew Ippolito: Night raise your hand if this is all making sense I know you gotta chew on it a bit, but it should make sense, very good you're gonna have to spend some time with this to really get it alright.
+1:15:51
+Andrew Ippolito: So now now i'm going to go and show you the trip up RON which the concepts are all the same that's the good news here the concepts for the trip hop around to the same here's the difference ready i'll tell you what don't even look at this i'll give you.
+1:16:04
+Andrew Ippolito: The difference, the only difference is. Andrew Ippolito: The trip hop RON.
+1:16:17
+Andrew Ippolito: you're gonna replace.
+1:16:22
+Andrew Ippolito: inducer. Andrew Ippolito: With Cobra presser.
+1:16:31
+Andrew Ippolito: Okay, so instead. Andrew Ippolito: Of.
+1:16:38
+Andrew Ippolito: aloe lactose.
+1:16:43
+Andrew Ippolito: We have tryptophan. Andrew Ippolito: You can see that over here on the left.
+1:16:53
+Andrew Ippolito: and Andrew Ippolito: invert.
+1:17:00
+Andrew Ippolito: The default. Andrew Ippolito: behavior.
+1:17:06
+Andrew Ippolito: Of the oppressor. Andrew Ippolito: Protein, in other words the oppressor protein, by default, is not present on the operator.
+1:17:20
+Andrew Ippolito: Its default state is off. Andrew Ippolito: And so, only in the presence of trip to fam.
+1:17:29
+Andrew Ippolito: Does the repress or protein bond to the operator and shut it off.
+1:17:35
+Andrew Ippolito: And that's the tread Barbara okay so that's the idea of irrepressible system default status on the oppressor protein can be bound only in the presence of the trip to.
+1:17:49
+Andrew Ippolito: The core oppressor. Andrew Ippolito: The genes, the structural genes of the trip hop RON let's go over here you don't have to memorize these write the book does a very.
+1:18:00
+Andrew Ippolito: Nice kind of glossing over things you have the trip EDC bna you don't have to again you don't have to memorize this, but those genes are enzymes involved in the synthesis of tryptophan.
+1:18:16
+Andrew Ippolito: OK, so this is also an example of a negative feedback with the product of the pathway inhibits the pathway right, the product of all this district to fan and then tryptophan goes and shuts it all off.
+1:18:31
+Andrew Ippolito: So this is an example of a negative feedback loop.
+1:18:57
+Andrew Ippolito: questions.
+1:19:07
+April Neeld: You said it was always off did you mean always on.
+1:19:12
+Andrew Ippolito: No, no. April Neeld: cuz it would be often the presence of the.
+1:19:18
+Andrew Ippolito: Always on yes i'm sorry it's not always either actually I should say it's a normally on.
+1:19:24
+Andrew Ippolito: yeah yeah. Andrew Ippolito: I misspoke Thank you protecting that.
+1:19:33
+Andrew Ippolito: And it makes sense that's The important thing, it makes sense, I only need to shut this off if you you're giving me pete prefabricated tryptophan if you're giving me any a bunch of the products anyway, otherwise I have to make it myself.
+1:19:50
+Andrew Ippolito: So for the trip hop around there's no example of positive gene regulation we're just using this to show the difference between useable versus repressive okay.
+1:20:07
+Andrew Ippolito: And that essentially is pro chorionic gene regulation, in a nutshell, it all happens at the transcription level you notice that we haven't talked about translation or splicing or capping or tailing or any of that right, this is all transcription level control.
+1:20:38
+Andrew Ippolito: Any other questions.
+1:20:58
+Andrew Ippolito: Okay, so what I want to do now.
+1:21:04
+Andrew Ippolito: Is we're going to take we're going to take a break, because it's 1230.
+1:21:10
+Andrew Ippolito: and Andrew Ippolito: When we get back we'll start you carry so we were moving at a good clip here.
+1:21:17
+Andrew Ippolito: All right, but that was a lot and I hit you with that hard so you guys are going to need time so i'll tell you what let's take let's take 15 minutes you guys can so with this 15 minutes.
+1:21:27
+Andrew Ippolito: finished taking your notes chew on what you're doing here, make sure that you walk away with something that makes sense, on your notebook.
+1:21:35
+Andrew Ippolito: Okay, and then take your mental break and we get back we'll start learning about eukaryotic regulation on me, so what i'll do is, is there any particular side you guys want me to settle on during the break that you guys can look at what i'm gonna stand like maybe the trip hop RON.
+1:21:50
+Andrew Ippolito: Or, I could stay on this, this is my hand written summary of lack or does anybody care.
+1:21:59
+Andrew Ippolito: All right, then i'll stand up offer on since we didn't spend as much time here all right i'm gonna we're gonna take.
+1:22:06
+Andrew Ippolito: 15 minutes.
+1:44:01
+Andrew Ippolito: OK, I can hear everything just shut off.
+1:44:10
+So. Andrew Ippolito: You carry out gene regulation i'll give you guys a second to situate yourself and suddenly spring being back on.
+1:44:19
+April Neeld: I think you're really far away from the MIC. April Neeld: Okay Mike I keep getting these these error messages check.
+1:44:30
+April Neeld: Can you hear me.
+1:44:49
+Victoria Bloemker: Dr I um I don't know if you can hear me but. Victoria Bloemker: I get I get that because, like a second ago your mouth is moving, but like no word is coming out.
+1:45:00
+Victoria Bloemker: Like is it like frozen. Victoria Bloemker: yeah no I it's.
+1:45:07
+Andrew Ippolito: Wireless connected to the hearing and there's a wireless microphone and.
+1:45:17
+Andrew Ippolito: Too many variables. Andrew Ippolito: Okay let's get started.
+1:45:24
+Andrew Ippolito: You chaotic gene expression is regulated all over the place, everything you've learned about the way our genes are from the chromosomes and hetero chromosome and you chromatin to.
+1:45:34
+Andrew Ippolito: transcription and transcription factors to the length of the poly tail to alternative splicing to whether or not, things are coming in and out of the nucleus so nuclear regulation.
+1:45:47
+Andrew Ippolito: To translational regulation to once a proteins made you have phosphorylation and a solution, and all that stuff everything's on the table that's why it's so complicated.
+1:45:59
+Andrew Ippolito: Okay, so what i'm going to do is give you a few selected mechanisms so we're going to talk about.
+1:46:07
+Andrew Ippolito: Alright, so So the idea here. Andrew Ippolito: differential gene expression with, so the reason it's so complicated.
+1:46:16
+Andrew Ippolito: And Angela yes, no problem. Andrew Ippolito: Good luck.
+1:46:24
+Andrew Ippolito: Right every cell has the same genome differences between cells are due to differential gene expression and abnormalities of gene expression lead to cancer right.
+1:46:36
+Andrew Ippolito: So we normally the Queen gene expression with transcription level control.
+1:46:44
+Andrew Ippolito: Right when a genius mutated, for example, usually. Andrew Ippolito: That results also want me to get more we talk about a gene being mutated and inactivated that's because it's promoter region got messed up that's usually how we think okay so.
+1:47:01
+Andrew Ippolito: The default state in your head of gene expression regulation is transcription.
+1:47:06
+Andrew Ippolito: And part I would say that's due to the fact that we know more about not necessarily Is it the most abundant.
+1:47:14
+Andrew Ippolito: form of gene expression, although it makes sense because it's the root of it right it's, the first thing that happens is transcription so it makes sense that that would be the one that we control fundamentally.
+1:47:24
+Andrew Ippolito: Alright, so here are the levels and for each level you're going to get to know a little bit of the detail.
+1:47:31
+Andrew Ippolito: So the first level is the chromatin structure itself, remember that you have the ability to compact the DNA or open the DNA right and we learned a little bit about this already we learned about his donor steadily and we learned about hats in each decks hetero chromatin you chromatin.
+1:47:49
+Andrew Ippolito: The one thing I haven't yet talked about and i'll mention here, briefly, is the idea of DNA methylation.
+1:47:56
+Andrew Ippolito: And there are enzymes called DNA methyl transfer races or DNA empties not related to to mentees teenage mutant ninja turtles.
+1:48:09
+Andrew Ippolito: Right, and so what this does is start introducing this concept that we're really not going to talk about during this class you're going to get this when you take genetics and the concept here is called epigenetics.
+1:48:23
+Andrew Ippolito: Okay epigenetics.
+1:48:29
+Andrew Ippolito: can be defined as heritable.
+1:48:34
+Andrew Ippolito: changes.
+1:48:39
+Andrew Ippolito: And gene expression. Andrew Ippolito: Beyond.
+1:48:49
+Andrew Ippolito: The level. Andrew Ippolito: of DNA sequences.
+1:48:55
+Andrew Ippolito: So, in other words we're not talking about differences in a's and b's and c's Jesus we're talking about differences in patterns of gene expression, for example, you might inherit a gene from your mom.
+1:49:08
+Andrew Ippolito: Where the gene is turned off because of DNA methylation what that is, is there a few choice nucleotides they get a methyl group.
+1:49:23
+Andrew Ippolito: And if you recall a methyl group. Andrew Ippolito: is just a ch three its carbon is hydrophobic when you attach a methyl group to a molecule you're encouraging it to be more hydrophobic.
+1:49:37
+Andrew Ippolito: you're discouraging it from being more soluble and so DNA that has been heavily mess elated basically crumbles up, and this is a more permanent method of gene and activation.
+1:49:49
+Andrew Ippolito: method, I want you to associate methylation with long term.
+1:49:57
+Andrew Ippolito: inhibition a real say repression let's use the right words here long term repression.
+1:50:05
+Andrew Ippolito: So your mother's promoter region might be method and your dad's might not be they have the same illegal the same sequence of DNA, but because your mom's is methylation it's going to act as if it's a different that's the concept of epigenetics.
+1:50:23
+Andrew Ippolito: That makes sense. Andrew Ippolito: Okay, you can change your methylation patterns, you can change up the genetics.
+1:50:30
+Andrew Ippolito: For good or for bad for one of the most interesting pieces of information i've learned about this is that people who are long term cigarette smokers have relatively permanent changes and their genes and some of those genes that are turned off are involved in DNA repair.
+1:50:52
+Andrew Ippolito: And this is the explanation as to why some people who quit smoking after being heavy smoker for many decades have the same incidence rates of small cell lung carcinoma.
+1:51:06
+Andrew Ippolito: And the reason for that being the those mutations that happened, while those those gene and activations that happen are permanent.
+1:51:14
+Andrew Ippolito: And what's more is there, learning that those patterns of gene expression can get passed on to their children.
+1:51:22
+Andrew Ippolito: Right so that's an area of research so that's what I be genetics okay alright so i'm going to delete everything on the screen right now you're trying to capture it you're gonna have to go back and look at this on the recording.
+1:51:34
+Andrew Ippolito: The next level we've already talked about transcription level control, and this is the world of transcription factors and repress her proteins and the active beaters and here's a new concept called a transpose on.
+1:51:48
+Andrew Ippolito: Your book does a good job, explaining these think of these as jumping jeans. Andrew Ippolito: A transpose on is an example of something called a.
+1:52:02
+Andrew Ippolito: Mobile. Andrew Ippolito: sequence element.
+1:52:11
+Andrew Ippolito: In other words, the cell can take a region of DNA.
+1:52:18
+Andrew Ippolito: From one place. Andrew Ippolito: cut it out.
+1:52:23
+Andrew Ippolito: And then randomly insert it somewhere else.
+1:52:29
+Andrew Ippolito: This would be like taking a page out of a book ripping it out and then putting it somewhere else randomly in the book.
+1:52:36
+Andrew Ippolito: it's crazy. Andrew Ippolito: And the woman discovered these has a good story unto herself, you can read about if you're interested in her name was Barbara.
+1:52:48
+Andrew Ippolito: mcclintock I think that's how you spell it. Andrew Ippolito: it's either mcclintock or mcclintock I can't remember but she's a great great story, because when she first proposed this idea of jumping genes, she was laughed off the stage.
+1:53:05
+Andrew Ippolito: She was ostracized from the scientific community and so she quietly went and did her work, anyway, and she ended up being vindicated.
+1:53:14
+Andrew Ippolito: And she was left off the stage, because the idea when it was first proposed was just insane.
+1:53:19
+Andrew Ippolito: regions of the genome cutting and pasting themselves out. Andrew Ippolito: But if they're there okay so here's the idea of here's the idea, the transpose on so here's a promoter region.
+1:53:34
+Andrew Ippolito: Right and here's the gene. Andrew Ippolito: The transpose on could insert itself.
+1:53:42
+Andrew Ippolito: In the middle. Andrew Ippolito: Of the promoter region.
+1:53:47
+Andrew Ippolito: Right, so if the promoter region let's say a solid. Andrew Ippolito: Solid part here and it interrupted the transpose on goes in the middle there it interrupts the promoter it basically destroys a promoter.
+1:53:59
+Andrew Ippolito: Okay, and then sometime in the future that transpose on can pop itself out again.
+1:54:06
+Andrew Ippolito: and restore the promoter again so it's not permanent.
+1:54:15
+Andrew Ippolito: So that's the idea of a transpose on and that's another example of transcription level regulation.
+1:54:21
+Andrew Ippolito: have another chat message here oh it's one o'clock okay that's what we'll stop today so let's stop a transpose on Okay, so we have we're gonna have no problem getting through the rest of this on Wednesday, and maybe even be able to go back and do a retrospective.
+1:54:38
+Andrew Ippolito: So unless there are any questions. April Neeld: I have a question we're not doing viruses right because that's in the unit for that right yeah.
+1:54:49
+Andrew Ippolito: I would like to, given the fact we're in a pandemic, but I did record a video, you can see it in the unit five lecture or the unit five one drive I put up there's an MP4 it's my.
+1:55:02
+Andrew Ippolito: pleasure to watch that virus, but you'll learn about virus, if you take Microbiology that's the place to place to learn about wires.
+1:55:12
+Andrew Ippolito: Otherwise. Andrew Ippolito: there's just not enough time and this.
+1:55:18
+Andrew Ippolito: is not part of the official curriculum, but I put it in their last spring, because of the.
+1:55:25
+People. Andrew Ippolito: coronavirus work on Wednesday.
+1:55:34
+Andrew Ippolito: How this horrible virus that is murdered over.
+1:55:43
+Andrew Ippolito: Well over 500,000. Andrew Ippolito: Internationally millions.
+1:55:54
+Andrew Ippolito: How many of you. Andrew Ippolito: aren't yet.
+1:56:04
+Andrew Ippolito: i'm getting more market.
+1:56:23
+April Neeld: I think you're are you holding your MIC because I feel like it's really yeah.
+1:56:30
+April Neeld: it's. crackly. Andrew Ippolito: getting away.
+1:56:35
+Andrew Ippolito: back again. Andrew Ippolito: Oh.
+1:56:42
+April Neeld: Wait I found really interesting that kind of relates to what we're doing. Andrew Ippolito: Oh yeah what.
+1:56:47
+April Neeld: Oh in Florida they're trying to release genetically modified mosquitoes where they releasing all these genetically modified male mosquitoes that have.
+1:56:57
+April Neeld: A gene where when they meet with the wild mosquito the females don't live long enough to become adults, so those are the only ones that drink the blood and give you all the diseases so they're trying to introduce those into Florida and Texas.
+1:57:14
+Andrew Ippolito: that's amazing. Andrew Ippolito: What a brilliant idea, so the males have carry a gene that when they meet with the females they lay the eggs, the kids get born, they don't live long enough to carry the disease, they don't reach like what they don't reach sexual maturity.
+1:57:28
+April Neeld: Only the females don't. April Neeld: drink like are they like nectar and stuff like that, but the females have the bloodsuckers.
+1:57:37
+Andrew Ippolito: So the males don't live long enough, and therefore slowly over time. April Neeld: No way. long enough.
+1:57:44
+Andrew Ippolito: The females don't live long enough. yeah. Andrew Ippolito: Those are the bad ones.
+1:57:49
+Andrew Ippolito: Sorry, no offense. Andrew Ippolito: To those of you who identify as female. Andrew Ippolito: The female.
+1:57:54
+Andrew Ippolito: The female mosquitoes the one that blood sucks the blood. April Neeld: mm hmm. Andrew Ippolito: The male's just the big dopey one that just doesn't seem to understand where he is with.
+1:58:02
+April Neeld: The mountains, I think they eat like plants and stuff like that, like nectar but the females, for some reason level blood I don't understand why they're different but.
+1:58:11
+Andrew Ippolito: Well it's a mosquitoes are a beautiful example of sexual Marxism where you have.
+1:58:17
+Andrew Ippolito: To completely different. Andrew Ippolito: Body sizes and functions of the the females and suck the blood, so they can feed their their offspring, the mal just has one job.
+1:58:32
+Andrew Ippolito: He wanders away those are the big ones that are this big I actually found one in my basement The other day I have I had a bunch of double sided tape.
+1:58:40
+Andrew Ippolito: for whatever reason, then, I had one side of it that was I was it was something I was cleaning up from years ago and I just left it out, and then I came down the other day, and there was a big male mosquito just stuck to the sticky tape.
+1:58:52
+April Neeld: Sure, it was was it like small body long legs. Andrew Ippolito: No, it wasn't musky it was a male mosquito.
+1:58:59
+Andrew Ippolito: The big wings and a big long legs and the big thing that crane flies are mosquitoes and they're scared about them and i'm like that's just.
+1:59:07
+April Neeld: Their they're harmless don't. Andrew Ippolito: don't know. yeah. Andrew Ippolito: Green green flies like the ones at the beach.
+1:59:15
+April Neeld: Green flies I don't know what they do, but they have this small little body, and this long legs, but they look like this big.
+1:59:24
+Andrew Ippolito: interesting. Andrew Ippolito: Okay i'm gonna shut the recording.

@@ -1,0 +1,1998 @@
+0:01
+Andrew Ippolito: This is lecture to I think two or three on genetics and not to these three three kinetics and we're just going to pick up where we left off, we left off on this slide last time we're talking about ways in which we can screen ourselves for genetic anomalies.
+0:21
+Andrew Ippolito: And there's two basic kinds of. Andrew Ippolito: invasive testing right so there's non invasive testing, you can do blood tests, you can do ultra ultra sounds.
+0:31
+Andrew Ippolito: Even though technically ultrasounds not invasive and that you're breaking a body of your cavity or you're not penetrating the skin you're you're sending disrupt the waves of high pitch frequencies into the tissue that's gotta do something right.
+0:49
+Andrew Ippolito: So briefly and your synthesis is when.
+0:54
+Andrew Ippolito: We, so we have a developing fetus about 14 to 16 weeks old and it's surrounded by this very thin membrane with that has a fluid.
+1:07
+Andrew Ippolito: called the amniotic fluid so that's the amniotic the amniotic sac. Andrew Ippolito: And what we do is, we take a needle and we're very you know, using ultrasound guided, we very carefully bring the needle into the womb, and we withdraw a bunch of this float.
+1:23
+Andrew Ippolito: The fluid contains both then we send our future lightly the fluid contains some cells some fetal cells that we can culture, these are living cells that we can culture and they take a long time they take a few weeks to grow up enough so that we can do a carrier type.
+1:40
+Andrew Ippolito: In the meantime, we can take the fluid and do some biochemical tests and we can also do additional testing on these petri dish ones.
+1:49
+Andrew Ippolito: So overall amniocentesis is more comprehensive it's more diagnostic it just takes a long time to do all right.
+1:57
+Andrew Ippolito: So you do an amniocentesis if if it's not too concerning but concerning enough, the rate at which.
+2:08
+Andrew Ippolito: I should say the risk here is that there's a very, very small increase in the chances of spontaneous abortion or miscarriage that but it's it's less than 1%.
+2:25
+Andrew Ippolito: If there is. Andrew Ippolito: an urgency that needs to be taken into account, we can do what's called CVs we can do this much earlier pregnancy between eight and 10 weeks and.
+2:40
+Andrew Ippolito: In CVs what we do is, we take a we ask very, very small amount of tissue directly from the placenta, by going up the vaginal canal into the cervix and with the catheter.
+2:55
+Andrew Ippolito: And we can take these little little bit of cells almost like a biopsy.
+3:00
+Andrew Ippolito: And the benefit here is, we can do an immediate character just just a few hours later, you can know the character.
+3:06
+Andrew Ippolito: And you could do some biochemical tests, the drawback here is there's less you can do there's fewer test, you can on with this because we don't have access to the amniotic fluid.
+3:15
+Andrew Ippolito: But the benefit is its immediate and then the other problem is is that it causes a slightly greater increase in spontaneous abortion.
+3:25
+Andrew Ippolito: it's more than 1% less than 2% so it's still it's still small but you know if you spend if you spend a decade trying to get pregnant every little 1% helps.
+3:34
+Andrew Ippolito: So that's that that's all i'll say about that. Andrew Ippolito: Well wow that was that.
+3:47
+Andrew Ippolito: OK, so now, the key here is when you do a karaoke remember you can't really.
+3:55
+Andrew Ippolito: get beyond the gross chromosomal abnormalities So you can see chromosome counts, and you can see huge swaths of chromosomes missing or not that's it you can't see individual mutations right just keep that in mind.
+4:10
+Andrew Ippolito: And then going along with the end of the last chapter, we talked about the diversity between different organisms that's bio too, but just as kind of a preview here.
+4:21
+Andrew Ippolito: Our X, Y system is just one of several kinds of systems in the animal kingdom there's the CW system and birds in which the homies I guess status swapped with the genders here with the sexes, so the mail is the one that has the homozygous i'm sorry the.
+4:42
+Andrew Ippolito: The deployed state of the sex chromosomes of the female so one night carry the one of each.
+4:48
+Andrew Ippolito: And then insects as a few. Andrew Ippolito: there's a couple there's the ecosystem and some insects, like you see here and crickets so, but the ECHO system is you either have one X chromosome or you have two X chromosomes there's no why.
+5:01
+Andrew Ippolito: it's just X and if you have one your mail, if you have to your female so it's kind of like our system minus y chromosome.
+5:08
+Andrew Ippolito: So, think of it, you know there's there's the X, Y system and the X nothing system just the exorcist and then there's a half low diplo or happy.
+5:17
+Andrew Ippolito: Happy boy i'm sorry have deployed system, and this is an honeybees and you can see here is if you're happy floyd your mail if you're definitely your female and so like the queen bee would be deployed and the males would all be happening.
+5:34
+Andrew Ippolito: So that's that. Andrew Ippolito: So what we're going to do now we're going to enter into this idea of going beyond.
+5:41
+Andrew Ippolito: But technically this title slide should actually be moved chromosomal inheritance we're going to talk about with Morgan, but before we do that we're going to learn about this a little bit of.
+5:51
+Andrew Ippolito: What are called Multifactorial genetics and some of the violations of mental within the unit vector X.
+5:57
+Andrew Ippolito: So what I mean by that is in genetics itself, you can you can divide genetics itself basically into two branches unique factorial genetics concerns itself with what we've already learned one one trait.
+6:09
+Andrew Ippolito: associated with one gene that one gene has a parable deals with one being dominant and the other being recess or a very straightforward and really that's the exception to the rule that's as simple as it gets but it's not common.
+6:25
+Andrew Ippolito: Okay, so even single genes can behave in this non medallion matter right it's about as well say that again when we say i'm Indian treat we're talking about a unique factorial tree Okay, those are synonymous terms.
+6:38
+Andrew Ippolito: we're going to do co dominance incomplete dominance multiple all the traits of a trophy very briefly right code dominance, you can think of that as the both when.
+6:50
+Andrew Ippolito: When I say both we're talking about that parable eels okay neither is dominant to the other.
+6:57
+Andrew Ippolito: They are both dominant meaning they are both expressed as the phenotype.
+7:04
+Andrew Ippolito: Alright, so you can think of mendel's green and yellow peas imagine a marble the swirl of green and yellow in which they were even that would be code dominant.
+7:15
+Okay. Andrew Ippolito: i'll give you some examples of this soon, but I just want to hit these into your heads of code dominant both phenotypes are expressed okay incomplete dominance.
+7:28
+Andrew Ippolito: Neither wins it's a compromise it's incomplete Okay, so this is a compromise.
+7:34
+Andrew Ippolito: This would be like yellow and blue PS making peace right, this would be something in the middle.
+7:40
+Andrew Ippolito: And i'll give you examples of this one, too, so I think so incomplete dominance means there is no dominant of the old code dominance means they are both dominant and so what's dominant means you see the phenotype.
+7:50
+Andrew Ippolito: Okay, if an illegal is a dominant do, that means you can see it if it's recessive you can't so if they're both dominant and there's no recessive all the all that's kodama it.
+7:58
+Andrew Ippolito: Just makes sense now when you explain it that way okay on multiple allele trade is a trade where there's one gene but there's more than one Leo so there's not just dominant recessive so you know there's like one, two and three.
+8:12
+Andrew Ippolito: And then, lastly, please a trophy is when one gene literally controls another G, like the point of this gene isn't to make an enzyme or to make a pigment or whatever it's.
+8:26
+Andrew Ippolito: Making enzyme to make a picnic it's to make a gene started to make a protein product that literally controls this somehow okay so so well we'll go through the what what could play drums give you example that right, and then i'm sorry oh my God i'm so tired.
+8:48
+Andrew Ippolito: What I just explained to you is empty spaces. Andrew Ippolito: At be spaces at be static gene control that's one gene controlling others, you know i'm sorry you guys probably just wrote all that down, and you know cross cross how play a trophy and replace that with that be states is the definition was right empty spaces that's down here with Multifactorial.
+9:07
+Andrew Ippolito: So pre a trophy is when one gene controls many treats okay that's a similar concept, so one gene.
+9:17
+Andrew Ippolito: Many traits treat one day to trick me okay you've seen it has a big effect.
+9:26
+Andrew Ippolito: Right that's a unique factorial men Delia Delia alright Multifactorial genetics, where there's more than one gene involved basically.
+9:34
+Andrew Ippolito: So that'd be stacy's is when gene a controls GB generally in a negative way generally he was a teenager and she'd be off right so gina has different illegals some of those wheels work, some of them don't you can see how there might be a variation there.
+9:48
+Andrew Ippolito: Okay polly genetic inheritance users multiple genes can play one tree, so you have all these genes controlling one tree.
+9:57
+Andrew Ippolito: Right, so the example that would be like skin color or body body height.
+10:03
+Andrew Ippolito: And lastly, sometimes you've heard the old adage nature versus nurture alright so sometimes the environment plays a role in our our phenotype.
+10:12
+Andrew Ippolito: So that's the basics here this we're going to go through some examples now alright so here's co dominance there's a flower color chameleon.
+10:20
+Andrew Ippolito: And you know white chameleon read chameleons and if you cross a white and red Community together okay so pure breeding white pure breeding read you don't get.
+10:28
+Andrew Ippolito: White or red you get a little above okay So you see how the parts that are white or just as white as mom and the parts that are red or just as red as dad or vice versa okay code dominant.
+10:42
+Andrew Ippolito: there's two phenotypes. Andrew Ippolito: don't look at this as a phenotype.
+10:49
+Andrew Ippolito: Okay that's two phenotypes in one and the reason I say like that is because when you do.
+10:56
+Andrew Ippolito: Let me just skip ahead really quick when you look at incomplete dominance okay so roses you cross a red rose and a white rose you get a pink rose okay this pink that's a third phenotype.
+11:10
+Andrew Ippolito: Right and it's a phenotype somewhere in the middle here, this is what we used to see is blending it looks like blending right.
+11:18
+Andrew Ippolito: The differences, and the reason it's not actually blending is, if you take this pink rose and loud self pollinate or cross pollinate to pink roses together you'll get.
+11:31
+Andrew Ippolito: This to to one or this one to two to one ratio you get red to pink to white of wanted to to walk in other words, each of the genome types has his own phenotype.
+11:43
+Andrew Ippolito: Alright, so remember the men dalian pattern is 321 right the model hybrid cross this is the 321 phenotype, so this is a violation of the 321 phenotype, this is a one to two to one.
+11:55
+Andrew Ippolito: So that's incomplete dominance for its code darkness now let's go back to kodama through second because there's a very important example our blood typing.
+12:02
+Andrew Ippolito: is a good example of both co dominant and multiple multiple a lot of traits right so here's here's how blood typing works, we have it's called the HBO system or there's other blood systems and there are other important antigenic markers in our blood, but this is a predominant one.
+12:21
+Andrew Ippolito: The other one being the rh factor and you're either plus or minus with that, but we'll talk about that briefly at the end of this alright so here's how it works.
+12:29
+Andrew Ippolito: You got tools right tools, one from you got one from mom and you got one from dad right so here's the gene and either that that'll Leo can either be an A or it can be a B, or it can be an hour.
+12:46
+Andrew Ippolito: All right. Andrew Ippolito: One of the ways we do the nomenclature for this is we do a capital I versus a lowercase I and if its capital is in a for it to be all right, this is the way you do it this way, this shows you that the lowercase size, the recessive trait great.
+13:05
+Andrew Ippolito: capitalized dominant lowercase I. Andrew Ippolito: So this generally associated oh so be being, this would be so using this system, this now, this is more informative This tells us that A and B are functional products of some kind.
+13:21
+Andrew Ippolito: Right turns out, if this is a red blood so there's a surface marker a surface antigen it's a glycol protein and we call it a or it's be all right, if the gene itself has mutated and it doesn't produce a viable protein product we call that oh.
+13:39
+Andrew Ippolito: Alright, so i'll from a person that's oh type blood would look like this. Andrew Ippolito: A person with a type blood would look like this person would be type low, but look like this and a person with a B type blood would have a bunch of them one of you know some of each that's why it's co dominant both A and B are expressed.
+13:58
+Andrew Ippolito: OK, so now that you understand that you can mix and match these three wheels right you only get to you get two out of three draw two cards and your three cards right so think about it, you can either be.
+14:08
+Andrew Ippolito: So let me, let me just to doodle it i'll make it simpler here, you can have two ways, or you can have an A in and oh right, you can have an A and a B or B in a day.
+14:20
+Andrew Ippolito: You can have a B2B you can have Bo, which is the smelliest one, and you can have oh.
+14:29
+Nice like that joke in there. Andrew Ippolito: Right, so, if you look at these two.
+14:37
+Andrew Ippolito: And you look at these two both of these will give rise to either the B or the phenotype right you just need one.
+14:48
+Andrew Ippolito: And then these two will give rise to the A, B phenotype.
+14:53
+Andrew Ippolito: And then only the double O will give rise to the oh.
+14:59
+Andrew Ippolito: OK so that's how blood works as for the plus and the minus there's a separate gene controlled by us it's a basic men daily entry this it's called rh stands for was discovered originally Rhesus monkeys so the rh factor.
+15:15
+Andrew Ippolito: it's ammonium transporter and the red blood cell. Andrew Ippolito: So it sits here and it allows the pumping really allows of pumping of ammonia.
+15:27
+Andrew Ippolito: And you either got it or you don't so think of it as a classic men deeley and dominant recessive so you know you're either rh positive or negative.
+15:38
+Andrew Ippolito: Right, and so you can imagine, due to a big part of square with plus and minus basically So if you know, a woman who is homozygous dominant marries a man who is homozygous recessive right all of her children are going to be dominant right.
+15:55
+Andrew Ippolito: So the problem arises. Andrew Ippolito: When you have a mother, who was already negative right so here, let me give you the problem scenario.
+16:07
+Andrew Ippolito: You have a mother who's rh negative and she marries a man who's rh positive let's say let's say he's dominant for it right, so I you know.
+16:16
+Andrew Ippolito: Female up here male along the side. Andrew Ippolito: So there's 100% chance that the kids are going to be rh positive her immune system has never seen rh before because she's rh negative.
+16:32
+Andrew Ippolito: Alright, so the way this way immunity works is. Andrew Ippolito: When when you're developing in utero and you come up as a baby and you start growing, for the first year or two of life you're basically building out your immune system your T cells T cells your B cells produce these things, called antibodies.
+16:47
+Andrew Ippolito: And our bodies are these small little proteins made oops.
+16:52
+Andrew Ippolito: muse whiteboard. Andrew Ippolito: I really want one wrong clicking you lose everything I just wears White for that does not happen, let me just share my screen here.
+17:27
+All right, there we. Andrew Ippolito: Go viruses and my other class over here.
+17:35
+Andrew Ippolito: Alright, so. Andrew Ippolito: A woman is rh negative like this, she marries a guy that's rh positive right and then so all the kids you can see here.
+17:49
+Andrew Ippolito: would be positive that's a phenotype positive Okay, so what happens is antibodies and antibody is a protein produced by B cells.
+17:57
+Andrew Ippolito: it's it's consists of a chain and a light chain one of each basically you can cartoon or antibody like why.
+18:05
+Andrew Ippolito: The key is is this region, right here is called the variable region, it is a random shuffling of genes so it's kinda like crossing over but it's happening only and b cells and only in this one genetic region that's really cool.
+18:16
+Andrew Ippolito: And so every single be selling your body billions and billions of B cells produces a completely unique and a body that's completely random this is how we're able to defend against the unknown.
+18:29
+Andrew Ippolito: Okay, and so a woman who is born rh negative has an add one more thing to that so when you're born during your development.
+18:40
+Andrew Ippolito: You know, think about the ideas, this is all random that some of those B cells are going to present a bodies that are specific to proteins on in your body that's bad right, and so what happens is during development during the development of your immune system.
+18:55
+Andrew Ippolito: Your body is killing the B cells that recognized self. Andrew Ippolito: Okay, this is the most important point in immunology we are born with no B cells that recognize self if we are we get autoimmune diseases that's part of what autoimmune diseases are is that we produce antibodies against yourself and aspect right that's why you have inflammatory responses.
+19:21
+Andrew Ippolito: So. Andrew Ippolito: You know, normally get sick, but here let's talk about covert alright so let's say you get exposed to this virus, for the first time.
+19:30
+Andrew Ippolito: No human has ever been exposed to this virus that's new to the world to novel you know it's an emerging infectious disease and.
+19:36
+Andrew Ippolito: So, nobody is immune to this thing, nobody has a competent immune response to it, so what happens is you get infected with it, it starts producing viral particles it starts shedding its proteins everywhere.
+19:51
+Andrew Ippolito: Your cells are dying from it and so there's some be cell somewhere in your body gets handed this random fragment of the S protein.
+20:01
+Andrew Ippolito: From the buyers and the beast was like hey I know this it's a random be cell that happens to know this thing, and so that be so goes through some stuff.
+20:09
+Andrew Ippolito: And it starts dividing and it starts producing massive amounts of itself right lots and lots of mitosis so you have thousands and thousands of new B cells that are all that, be so.
+20:20
+Andrew Ippolito: That takes about two weeks, this call your primary immune response and after that two weeks is over.
+20:25
+Andrew Ippolito: Your have a blood your blood is filled with these things that are producing antibodies everywhere thousands per second thousands of banham body molecules per second at its peak and that's the idea of immunity right that's the idea of immune attack is called your adaptive immune cells.
+20:41
+Taylor Campbell: And like is that kind of why like after you're infected with like coronavirus you can't get it again for a while.
+20:50
+Andrew Ippolito: Well yeah yeah right that's. Taylor Campbell: Just kind of fighting.
+20:56
+Taylor Campbell: off even though it's not present so if it were to be present, again, it would just fight it. Andrew Ippolito: Okay, so So if you think about just again this I wish I could teach goes.
+21:06
+Andrew Ippolito: In ology but just briefly here's the amount of antibody in your blood. Andrew Ippolito: You got nothing and then two weeks later, you got a bunch and then slowly it goes down like this.
+21:15
+Andrew Ippolito: Okay, so a few weeks later, after the infection you don't have any more antibodies in your blood what you do have are what are called memory be cells so some of those be sales through mitosis round we become memory cells they're not out in the world, doing.
+21:28
+Andrew Ippolito: antibody production there waiting and your lymph nodes and they're going to sit there and remember, so the next time you get affected.
+21:34
+Andrew Ippolito: Right, then the button the virus starts going through a cycle again your memory cells right oh I got this and they very quickly respond and that's called your secondary immune response, and so what happens there.
+21:45
+Andrew Ippolito: Is you get a very, very fast rapid increase very fast rapid very fast massive increase in antibodies and it the last in your blood for months that's your secondary immune response that's immunity Okay, the problem there's all sorts of ways that.
+22:03
+Taylor Campbell: Things can. Andrew Ippolito: Be this, though, for example, the virus can mutate, which happens a lot. Andrew Ippolito: very fast. Taylor Campbell: Right like how those different strands how about that.
+22:10
+Taylor Campbell: stream might not work. Taylor Campbell: For because slightly different. Andrew Ippolito: That means that that initial antibodies not going to.
+22:17
+Andrew Ippolito: recognize the new St necessarily. Andrew Ippolito: Particularly if. Taylor Campbell: The new strains.
+22:23
+Andrew Ippolito: Have a problem such that there is protein there spike protein mutated so they're unrecognizable and actually handily enough actually like over here from my Microbiology class lecture.
+22:34
+Andrew Ippolito: So the spike protein basically looks like, here we go over here see little something the spike proteins little stick stick it out there's so there's an envelope.
+22:43
+Andrew Ippolito: envelope fires, and so, if the genes that encode for the spike protein of the suddenly changes into a different shape now you're the antibodies that you spend all that time coming up with and making are useless.
+22:56
+Andrew Ippolito: Right, so you have to go through a whole thing again so that's how you can get reinfected by a difference pain and this is how the flu works influenza is horribly.
+23:06
+Andrew Ippolito: mutable it mutates regularly so every season every flu season, we have to get a different shot because it's it's always changing.
+23:15
+Andrew Ippolito: Alright, so that's that's the basic status, let me go back to the PowerPoint now all right and.
+23:20
+Andrew Ippolito: So, so the idea is the first when a woman is rh negative okay What that means is her immune system has never seen the orange protein which means she's got antibodies against it right she'll fight it.
+23:33
+Andrew Ippolito: So her fetus in our body which is always positive is producing this weird protein that it's never seen before now here's the thing the first pregnancy generally is fine.
+23:44
+Andrew Ippolito: she's developing her immunity immunity to reach the second kid is where the problems start, because now her body mounts a much more powerful secondary response and that's where the kids blood cells are getting is called human like Mr Mrs where the blood cells start getting latest.
+24:03
+Andrew Ippolito: The good news is we have treatment for now back in the 70s, we learned that if we inject a woman who has this.
+24:10
+Andrew Ippolito: going on, we can gesture with antibodies to our age and i'm sorry not anti bias, which we can inject here with the antigen itself, and we can basically it's kind of getting allergy shots it tempers the immune response to the orange.
+24:26
+Andrew Ippolito: So, so now we can have children being born with a mom and the kids are different.
+24:33
+Andrew Ippolito: And you can totally blame dad for this.
+24:39
+Andrew Ippolito: This he's the one that came with his rh positive genes to the mess all right so that's that's an example of code dominance and that's an example of multi electric right.
+24:49
+Andrew Ippolito: What multihull Alec there's there's the elite oh there's a billion dollars right so there's still this illegal there's this illegal and there's this will do three wheels more than two.
+25:00
+Andrew Ippolito: All right. Andrew Ippolito: This is called the human the gluten nation test the idea here is Imagine you had a microscope slide and you put your red blood cells on.
+25:11
+Andrew Ippolito: And you want to know what your blood type is okay, so what are your possibilities again you have a or B or a B or.
+25:20
+Andrew Ippolito: All right now, imagine imagine, I sprinkle some let's say this is a type blood let's say we know your amino is a type blood, but the test.
+25:27
+Andrew Ippolito: So it's a type blood imagine, I added antibodies specific to a right What that means is the antibodies in and I stick to the surface of these cells.
+25:38
+Andrew Ippolito: And when the antibodies because they're y shaped right they're going to be able to clean to multiple cells and then actually some antibodies from these kind of really cool structures, like this.
+25:51
+Andrew Ippolito: Think of it like a dust bowl where they can form these advocates so each one of those can bind to a red blood cell okay so look come together, you see that.
+26:03
+Andrew Ippolito: So this is called a gluten nation our blood does it's not clotting, this is a gluten nation when proteins cause these comps to happen so it's called an inclination.
+26:11
+Andrew Ippolito: And if you get the comps that means you get a positive response that means that's your your blood type so go over here, you can see, this a type blood where's my mouse a type blood.
+26:23
+Andrew Ippolito: Alright, so you can either get either the genome types and if you.
+26:29
+Andrew Ippolito: Take so so the body will make anti be antibodies right think about it, if you're a type blood, you know, a you're going to fight be because you don't know be your immune system doesn't know be so that's an A meter so the antibodies me by the body will be an A, B.
+26:47
+Andrew Ippolito: All right, and then separately, if you if you did the nation, I say with the nba antibody would see the clotting.
+26:54
+Andrew Ippolito: This the gluten nation you to the book clumping of the cells, if you treat them with an A and B and a body you won't see anything.
+27:02
+Andrew Ippolito: Okay, and actually in my immunology class in college, I remember, now we actually did this, so you take a little finger pinprick little tiny.
+27:09
+Andrew Ippolito: and get some blood off you put it on a slide and then you have you know little tubes that have a in the beyond that.
+27:16
+Andrew Ippolito: And you add the little antibody to it, and then you look at under the microscope you can see it exactly so you can blood type very easily right so just look at this all right, a B buttle come with both be type global and complex this oh type blood one company.
+27:32
+Andrew Ippolito: Okay, so that's that so now, you can see why we have universal donors and receiver So if I have be type law, so I have be positive blood.
+27:38
+Andrew Ippolito: Right, so if i'm in a hospital I have blood transfusion and they accidentally put a type blooded me my body's going to a mountain immune response to it and blow it up.
+27:48
+Andrew Ippolito: So it's not going to help me in any way right, if I have a B type blood, I can get any blood that would be the universal acceptor right.
+27:56
+Andrew Ippolito: And if I type blood I can't get anybody's blood, except other old pipeline.
+28:02
+Andrew Ippolito: Okay, whereas. Taylor Campbell: I can get my. Andrew Ippolito: going to tell you what. Taylor Campbell: We want them to get like the chunky pieces.
+28:14
+Andrew Ippolito: Okay Okay, so if this half right so. Andrew Ippolito: let's so I be type blood, if you put a type blood into my body right, if I have be type blood that means I produce.
+28:24
+Andrew Ippolito: antibodies in the civic day. Andrew Ippolito: So I kill it right. Andrew Ippolito: Okay. Taylor Campbell: So that way okay.
+28:31
+Taylor Campbell: Okay that's I thought. Taylor Campbell: I don't know. Andrew Ippolito: Well, so this. Andrew Ippolito: here's the thing when you learn this for the very first time, the reason, this is.
+28:37
+Andrew Ippolito: Confusing is rather it's not confusing if you just keep this very firmly in mind that whatever you are, you will fight what's not you.
+28:47
+Andrew Ippolito: If I am be I will fight a if I am a be I, like everybody if i'm oh I hate everybody okay that's, the key to understanding and knowledge in the basic levels.
+28:59
+Andrew Ippolito: And if you don't really have that in your head, clearly, then you get really confused I be type blood, so that means I have be type antibodies no I mean you don't have be type antibodies.
+29:09
+Andrew Ippolito: Right you shouldn't have be type banner, but if you did you'd be dead, because your blood wouldn't be there.
+29:14
+Andrew Ippolito: Right. Taylor Campbell: Because it would get a big right like how. Andrew Ippolito: Much you a clump up yeah and then eventually the sales would get licensed.
+29:21
+Andrew Ippolito: Right this, this would happen, a gluten issue. Andrew Ippolito: Okay, you got it you got. Andrew Ippolito: It now now and to this, you know you can be a positive or a negative and be positive and be negative and a positive a negative and positive right so so now, the true universal donor his own negative blood and the true acceptor universally accepted as a positive.
+29:43
+Andrew Ippolito: Right a be positive blood can accept any of the other kind of blood type O negative can only accept or negative right and so people who are all negative those are the ones that that are the the blood banks one regularly because that's the kind of blood that everybody can get right.
+30:00
+Andrew Ippolito: I had a student one semester, many years ago, he was probably like six foot four six foot five and.
+30:08
+Like. Andrew Ippolito: really big guy huge guy and when I taught all those classes like yeah they love me there i'm on negative.
+30:17
+Andrew Ippolito: He said one time they took someone's blood out of them, we started getting busy, because if they could take so much blood from him because he was just such a large.
+30:23
+Andrew Ippolito: person right he wasn't fat, he was just he was just like calc but he was just huge guy and.
+30:31
+Andrew Ippolito: They would take. Andrew Ippolito: A lot of but they loved it, they give them cookies and in lollipops.
+30:37
+Taylor Campbell: Oh, it is excessive right. So, again.
+30:43
+Taylor Campbell: Like I was like recessive is enough. Andrew Ippolito: So there's nothing here's the thing. Andrew Ippolito: That this is, this is a classic example of code dominance, there is no recessive right if you have the illegal for something it will express the key is the old type blood, the reason there's nothing to express, as it turns out the genius mutated.
+31:05
+Andrew Ippolito: And so it doesn't express anything there's no functional protein product. Taylor Campbell: So, like my mom is a type I don't know what my dad is, but my sister has a blood and I don't know what I have.
+31:18
+Andrew Ippolito: mom Ray so if your mom is oh type blood, that means that she has to be this she's homozygous recessive.
+31:24
+Taylor Campbell: yeah he's like the test cross. Andrew Ippolito: If your sister is oh type blood that means your dad has to be at least that.
+31:32
+Andrew Ippolito: Right, and so what you are is you are definitely like this is you right now, you don't know what the exes if X is also I that you both type blood if X is a the newbie type Libya.
+31:43
+Taylor Campbell: yeah they don't bother me their day like my mom always says like that they're like vampires like they're always calling her like.
+31:51
+Andrew Ippolito: Well that's separate that's if she's she could have right now syndrome and be fit like 10 people tend to be very cold, you know because they should eat very fast and.
+32:00
+Andrew Ippolito: The the female body tends to be cooler than the male body again because it has a smaller density, you know the bones the bones are a little thinner and that's why.
+32:09
+Andrew Ippolito: You know, women always tend to be a little colder than men and that's that's actually why in the workplace, this is actually like a.
+32:16
+Andrew Ippolito: Gender equality issue. Andrew Ippolito: The the gold standards of OSHA you know the the workplace rules are based on the male body wearing a suit this like so like all the temperatures were established back in like the 1950s.
+32:30
+Andrew Ippolito: You know men in suits so like you know being know 68 degrees that's terrible for most women.
+32:37
+Andrew Ippolito: Right you don't want it to be 60 degree, because now you're wearing your 18 different layers to work and you're shutting and go, whereas the guys are all fine that's because.
+32:44
+Andrew Ippolito: we're in our suits and we're bigger, on average, and we are warmer that's also why, when you look at wedding photography weddings in the winner the guys are comfortable and weddings in the summer, the girls are comfortable.
+32:59
+Andrew Ippolito: So. Alexis Micewski: But also, I like young high school guys always wear shorts in the winter and then brag about it.
+33:06
+Andrew Ippolito: You know the whole show. Andrew Ippolito: I was there, too, and I was like not not high school, though we weren't allowed to wear shirts.
+33:12
+Andrew Ippolito: Oh, my God I lived in like a really repressive area I didn't I wasn't allowed to wear shorts I just realized we we are was like frowned upon in college right yeah that's what deeper winter all the guys wearing shorts now that's because we're stupid.
+33:28
+Andrew Ippolito: that's just that's a stupid thing that's the whole like I don't want to wear pants it has nothing to do with being able to I guess we're Okay, with it, because we can stay on the cold open our legs don't have extra fat on them were just stupid.
+33:43
+Andrew Ippolito: I can see that. Andrew Ippolito: And I was there and I could tell you, the only reason I was wearing shorts was it was kind of like.
+33:49
+Andrew Ippolito: It was almost like a game of chicken with the guys, I think it was like an unspoken game of chicken, we were like who's gonna start wearing pants first off i'm not i'm fine i'm going.
+33:59
+Andrew Ippolito: out, I want to keep wearing my shorts even though it's snowing and there's three feet of snow on the ground well i'm tougher than you i'm gonna wear my shorts I think that's what it is there's nothing to do with.
+34:12
+Andrew Ippolito: we're not uncommon professors were of course we're uncomfortable go ahead, Jordan. Jordan Russell: you're going on.
+34:17
+Jordan Russell: a tangent. Andrew Ippolito: that's a little bit of a tangent I agree. yeah.
+34:22
+Jordan Russell: i'm sorry i'm sorry about that. Andrew Ippolito: Was funny. Taylor Campbell: little thought it was funny.
+34:28
+Taylor Campbell: Yes, thank you. Andrew Ippolito: Thank you Taylor. Taylor Campbell: I need that kind of support everyone. Jordan Russell: hey, no, no, no, it was.
+34:34
+Taylor Campbell: you're going on a tangent. Andrew Ippolito: Julia Julia. Jordan Russell: It was funny i'm just like i'm just trying to remember what we were talking about before, so I don't have.
+34:43
+Andrew Ippolito: What I need to tell, to say the word lemon but Julie, apparently, is not here right now.
+34:49
+Jordan Russell: I was thinking about it, but I was just like you know. Andrew Ippolito: All right, you can see lemon you can see. Andrew Ippolito: Okay, I get it, I get it all right here we go.
+34:55
+Andrew Ippolito: incomplete dominance. Andrew Ippolito: Either phenotype wins that so here's the key this way you can write down and memorize if you need to the header zygote has an intermediate phenotype.
+35:07
+Andrew Ippolito: there's a third phenotype, this is what looks like blending.
+35:13
+Andrew Ippolito: Okay. Taylor Campbell: But it's not. Andrew Ippolito: But it's, why not why isn't it actually bloody.
+35:28
+Alexis Micewski: can still come out. Alexis Micewski: say again lexus the dominant and recessive. Alexis Micewski: Gene Cisco come out.
+35:34
+Andrew Ippolito: You got it, if you remember the blending theory according to blending theory, you can never get back with been blended before, just like my coffee here my coffee, I can never pour this I can't mix and match this with two other bs coffees and never get black or white again.
+35:51
+Andrew Ippolito: Right Okay, you would see the reemergence of the parental treats.
+35:56
+see a chat message just popped up. Andrew Ippolito: No worries I thought you're gonna take money.
+36:06
+Andrew Ippolito: that's right that's right, you went you went out West okay okay there we go next.
+36:13
+Andrew Ippolito: Okay EPI stasis this, this is the the idea here one gene controls and other key right and actually i'm going to give you i'm going to give you a.
+36:25
+Andrew Ippolito: specific example of this, this is a famous example of Labrador retriever the word itself literally means standing upon that so one gene standing on the other.
+36:36
+Andrew Ippolito: and keeping it down that's the idea there. Andrew Ippolito: We all love dogs right we all love dogs right cat people know says okay you don't have to look dogs understand as it just helps.
+36:50
+Andrew Ippolito: labradors anybody have a lab. Andrew Ippolito: And the lab people oh there we go see him, he will kind of lab we go.
+36:57
+Sami Jordan: he's a black lab mix with like a pitbull a little bit. Andrew Ippolito: about what color is he.
+37:03
+Andrew Ippolito: Black black Okay, we got a black lab anybody else any labs.
+37:08
+Andrew Ippolito: Alright, so now i'm going to teach you how how the car works ready i'm going to do as quick I don't want to spend too much time on this there's two genes to jeans right, I said one gene controls and other G, the first gene makes a pigment.
+37:23
+Andrew Ippolito: And that pigment is either black or Brown.
+37:28
+Andrew Ippolito: Okay, simple men dalian pattern here black is dominant to brown so we use the beef or black right don't use the beef or Brown.
+37:38
+Andrew Ippolito: Use capital before black lowercase B for brown Okay, the second gene, I want you to think of the second gene as a machine that delivers the pigments that are made by the cell to the hair follicles it's like a taxi cab.
+37:55
+Andrew Ippolito: Okay, so think of it like a taxi it's a it's a pigment taxi.
+38:03
+Andrew Ippolito: And as long as there's a taxi there you can get you can deliver the payload right so we're using he for this, so he is he's a taxi cab that works and lowercase he is a taxi cab with flat tires.
+38:16
+Andrew Ippolito: is broken can't do its job right, so you can understand that the only way. Andrew Ippolito: That you can see that phenotype is the lowercase a lowercase right so that's another dominant tree i'm sorry that's another simple dominant recessive concept.
+38:29
+Andrew Ippolito: Okay, so you got two things going on here, on one hand, the cells, making a pigment is either black or Brown and on the other, is getting that pigment or is not getting that pigment to the to the hair alright, so you can see now, you can picture there's a hair follicle.
+38:46
+Andrew Ippolito: All right, and at that hair follicle has black pigment and it's black or if it's got brown pigment it's brown or if it doesn't have pigment it is perceived as yellow.
+38:58
+Andrew Ippolito: Okay, so yellow lab is actually a lab that has no pigment in his hair.
+39:04
+Andrew Ippolito: This is not albinism For those of you are really. Taylor Campbell: blonde hair works and like people right this.
+39:13
+Andrew Ippolito: This thing, people are. Andrew Ippolito: All of the i'm sure we probably have pigment deposition mechanisms to but and that's probably why.
+39:22
+Taylor Campbell: Some people have blonde hair actually. Andrew Ippolito: The blonde hair is probably the result of this kind of mutation. know.
+39:28
+Andrew Ippolito: The lack of pigment right. alexa. Alexa Deprisco: So at this stage is like turn on a gene expression or not funny.
+39:37
+Andrew Ippolito: So you would say. Andrew Ippolito: So in this case here, but I just painted for. Andrew Ippolito: You you would say that gene a or gene one here is under EPI static control of gene to.
+39:49
+Andrew Ippolito: Okay gene to that so here's how it works that works let's go let's go to the slide.
+39:55
+Andrew Ippolito: Okay, so you got the sulfur color is either black or brown right capital be lowercase B and then you have the pigment deposition gene.
+40:05
+Andrew Ippolito: you either have the ability to deposit the pigment into the hair so plus pavement for you don't have the ability to to that minus sorry so here's the key.
+40:14
+Andrew Ippolito: If you can't deposit the pigment. Andrew Ippolito: it's gonna be yellow, no matter what it doesn't matter that the genetics, give us black or brown we can't get it there, we can't see it.
+40:26
+Andrew Ippolito: Alright, so, if you look, for example at capital B capital be lowercase a lowercase E rate, so you do a diver across the classical di habra cross that should give you the 9232321 and you don't get 9232321.
+40:39
+Andrew Ippolito: You get a different ratio right so just just look at this one genotype capital B capital B would be black but lowercase lowercase C means there's no pigment deposition.
+40:50
+Andrew Ippolito: So they're yellow. Andrew Ippolito: Okay, whereas lowercase lowercase B would give us brown but lowercase a lowercase C would give us yellow.
+41:00
+Andrew Ippolito: Right yellow means the only time you see yellow is because we have no picnic that's the key here.
+41:06
+Alexa Deprisco: Right, so, if you look. Andrew Ippolito: Good good. Alexa Deprisco: I was going to. Alexa Deprisco: Show them like does it always happen and I guess that's not like a broad generalization that we could always happen that like a gene will turn a gene on or off or like a gene will express gene or not I guess that make sense, like.
+41:26
+Andrew Ippolito: what's not always raised, so this is only one we see. Andrew Ippolito: EPI static gene control.
+41:32
+Andrew Ippolito: In other words, not every gene is controlled by other genes necessarily.
+41:38
+Andrew Ippolito: Right like mendel's plant, the gene that gave rise to that one enzyme to break down chlorophyll or not there's not another gene that controls that gene that that we that we know of anyway.
+41:50
+Andrew Ippolito: Is that what your question was like do we always see this, this is. Andrew Ippolito: This is just something we've discovered.
+41:58
+Alexa Deprisco: I guess like the question is like as the space is like. Andrew Ippolito: Oh yeah.
+42:04
+Andrew Ippolito: yeah yes. Andrew Ippolito: yeah. Absolutely yeah.
+42:11
+Andrew Ippolito: That that's a that's a good analogy it's like a switch right So if you have the the double lowercase E Loki if you're homozygous recessive for the second gene there.
+42:21
+Andrew Ippolito: you've that's the switch being off, you know it's called walking into a room that's got a nice art exhibit where every piece of arts read, but the lights are out so it's black.
+42:34
+Andrew Ippolito: yeah alright so that's a piece basis and that's Labrador retriever and that's the last complex model Union factorial concept.
+42:45
+Andrew Ippolito: polly genetic inheritance, this is history i'm just going to run through these slides more than one g. Andrew Ippolito: Right, so our skin pigmentation is informed by I think there's eight jeans and each gene is either on or off each gene either producer doesn't produce a pigment right and so so think of it like.
+43:04
+Andrew Ippolito: You can think of your skin tone as a bunch of those little buttons you got on your touch screen on your phone.
+43:13
+Andrew Ippolito: That, if you touch them they look like this, or this right, so you can turn them all on you have dark skin from all off you have white skin or you can mix and match, and you have all the variations that are skin tone okay so so it's a spectrum.
+43:27
+Okay. Jordan Russell: They are so like potatoes. Andrew Ippolito: that's the key though I mean right there's only a certain number.
+43:34
+Andrew Ippolito: of skin tones there's just a lot of them. Andrew Ippolito: And then each one you can be tan or not, you know that's another layer of complexity, if I go out to the sun, for example, if I you know I used to work at the beach when I was in high school and in college and.
+43:47
+Andrew Ippolito: You know if I spent an entire you know, for four weeks in the sun, I would get like just not brown but that's not my skin my skin tone is whatever this Pasty color is.
+44:00
+Andrew Ippolito: Because I haven't been out the sun regularly for a while, though okay so there's there's that that's an example of where the environment can also play a role right all right guy George.
+44:11
+Jordan Russell: I was gonna say like like with that analogy of how you said, like you can turn it on and off it like reminds me of.
+44:20
+Jordan Russell: This video of this dude showing like the sky. Jordan Russell: Like the pigment lemon cells in like a squid and how they can turn on and off so it's like.
+44:29
+Andrew Ippolito: yeah yeah so it was on a squid color those things are actually.
+44:35
+Andrew Ippolito: The skin of a cephalopod has these special cells called chromatic force, where they have muscles around them, and if they squeeze the muscles a little.
+44:49
+Andrew Ippolito: This the cell basically balloons out as the color it hasn't it and so that's why they can instantaneously change their skin color because it's muscle control.
+44:59
+Andrew Ippolito: And it's controlled by not an autonomic response, they don't have conscious control over it necessarily.
+45:04
+Andrew Ippolito: Right and even more ironically, as far as we're aware they're they're colorblind and despite the fact that they're colorblind they can still blend in with their environment perfectly, including the colors and that's one of the great mysteries of cephalopods okay.
+45:21
+Andrew Ippolito: yeah cephalopod one of the coolest animals on the bitters closest we get the Aliens because their brains as smart, as they are and they're very smart.
+45:31
+Andrew Ippolito: their brains involved 100% independently of the mammalian brain complete example of convergent evolution their neuron complexities are absolutely different, they have a different history, the nurse, and yet they can still do very similar things enters.
+45:47
+Andrew Ippolito: All right, anyway, so that's that okay environmental impact hydrangeas are an example of a flower that has a very significant environmental role so red hydrangeas vs blue hydrangeas and you know what I want to finally get this right.
+46:01
+Andrew Ippolito: Read one of them is low pH one of these is high pH red vs blue hi grant.
+46:09
+Andrew Ippolito: Writing let's see okay blue is. Andrew Ippolito: The cynic.
+46:16
+Andrew Ippolito: Okay, so here. i'll go.
+46:22
+Andrew Ippolito: And then so.
+46:28
+Andrew Ippolito: see where it. Andrew Ippolito: Is a blue southern Okay, so this is a hold on. Alexa Deprisco: This is South, and this is North okay.
+46:34
+Andrew Ippolito: So in the north, we tend to have read hydrangeas because our soils more acidic and the north and the south, they have blue hydrangeas they tend to be i'm sorry we have more alkaline soil and the north there's more acidic soil in the south right God what was I.
+46:48
+Alexa Deprisco: See monkey. Is that one. Alexa Deprisco: The monkey.
+46:54
+Andrew Ippolito: Do you say see monkey. Andrew Ippolito: Is that OK me a second cuz you're talking about that I think so yeah.
+47:02
+Andrew Ippolito: And so we so oddly flamingos when whatever food they're eating the way they process their waist is importantly push it into their feathers is get get and that's why you have pink flamingos because whatever they're eating, you are what you eat.
+47:20
+Taylor Campbell: shrimp. What. Taylor Campbell: shrimp shrimp. Andrew Ippolito: Yes, it's type.
+47:27
+Andrew Ippolito: Of. Andrew Ippolito: career life and it says that's a sea monkey apparently. Taylor Campbell: know they eat shrimp.
+47:34
+Andrew Ippolito: Oh, you eat shrimp how. Taylor Campbell: Well, they do. Andrew Ippolito: They do, though, yeah well the a lot of things, the last shellfish.
+47:40
+Taylor Campbell: But that's why they think. Andrew Ippolito: Well that's, no, no. Andrew Ippolito: They also ED I mean really most arthropods have that pigment in them so yeah and there's the shrimp actually right that color that you see.
+47:52
+Andrew Ippolito: that's the cooked color. Andrew Ippolito: Right in nature, they look. Taylor Campbell: very ugly and gross.
+47:58
+Andrew Ippolito: Well, yes, they are. Andrew Ippolito: i've had somebody told me that they would can't eat shrimp because they're basically like the the bugs of the sea, yes insects, but.
+48:06
+Taylor Campbell: they're so good, I love I love that correct yeah. yeah.
+48:12
+Andrew Ippolito: All right, you see the little Q bunnies now. Andrew Ippolito: Right. Andrew Ippolito: there's an enzyme that makes a pigment the pigments black, but the enzyme is very delicate I call it like a snowflake enzyme.
+48:26
+Andrew Ippolito: Right, so this is the enzyme right, even if it just gets a little warm it just falls apart Okay, and so this is called a temperature sensitive mutation.
+48:38
+Andrew Ippolito: And so, if you take these bunnies and you rear them you raise them at very cold temperatures under 20 degrees Celsius.
+48:46
+Andrew Ippolito: You will see these cute little bunny knows and it's cute little bunny ears and this cute little bunny tail and has little feet, because they'll pause there all black because those are the parts of the body that are the coldest.
+48:57
+Andrew Ippolito: As you know, if you're out in the winter right your ears of the first get cold and your cold hands and your nose gets cold that's because those are the areas that are the thinnest membranes closest capillaries directly to the environment.
+49:11
+Andrew Ippolito: Whereas if you raise that say so, think of a clone of that bond in these are clones of each other tonight, a technical writers raised it above 30 degrees Celsius You see, none of that.
+49:21
+Andrew Ippolito: OK, so those that phenotype is not genetic that's due to the environment.
+49:26
+Andrew Ippolito: And lastly, identical twins if you separate them at birth and you give them completely different diets they will have different heights so our Heights are actually informed in part by our genes and also our diet.
+49:37
+Andrew Ippolito: This is why, if you ever go to a museum and you look at medieval clothing and suits of Armor from the knights you'll notice that those suits of Armor look like they belong to a bunch of you know, like teenagers they're like five foot two five foot three.
+49:54
+Andrew Ippolito: And that's because that was the average height back then, because we have poor diet poor nutrition.
+50:00
+Andrew Ippolito: And that's why immigrants and refugees from third world countries that were raised environments of poor nutrition tend to be very short but their children once they're here and they're fed the traditional American diet, or just told anybody else go ahead alexa.
+50:17
+Alexa Deprisco: I sort of quickly tangent because he did say at one point earlier on in the lecture that like we could run like dumb fast in the past.
+50:25
+Alexa Deprisco: But like yeah so we're too late. Alexa Deprisco: Well, their correlation there. Andrew Ippolito: No, no, we were short, if we don't eat well.
+50:33
+Andrew Ippolito: we're fast if we're not fast, but we used to be.
+50:38
+Andrew Ippolito: yeah that's there's I mean you know I imagine early humans did not have you know the best nutrition either right so i'm sure that.
+50:47
+Andrew Ippolito: In any you know wild setting humans were probably you know average height five foot two five foot one you know, whereas you know high fructose corn syrup from birth and here you are a five foot eight now.
+51:03
+Andrew Ippolito: yeah. Andrew Ippolito: All right, and then play a trophy one gene many treats there's one human disorder that I want you to know, and this is so, this you can lump this and what the human stuff from earlier, the human genetic stuff it's called female ketone area or pk.
+51:19
+Andrew Ippolito: And this isn't mutation caused by one gene it's called pH PA the party Fino alanine hydroxyl is it's an enzyme that breaks down the amino acid field.
+51:31
+Andrew Ippolito: And then normal people people that don't have the mutation right so, by the way this diagram down here pay attention to what i'm going to say, because when I first I stole it from the Internet from some website on the disease.
+51:43
+Andrew Ippolito: is so confusing in and really I should replace this so here's the idea, because you see the blue arrow that means it's normal, so the normal phenotype is you take the final alanine you break it down and it comes out, as you know, useful chemicals carbon dioxide and water right.
+52:03
+Andrew Ippolito: If you mutate this. Andrew Ippolito: mutated you can't break it down and instead Fino alanine builds up in the body is feeling like acid.
+52:15
+Andrew Ippolito: And that causes the disease female ketone Eric and if you know, keep doing your leads to severe mental retardation reduce hair and skin pigmentation and it's lethal if it's not treated so.
+52:27
+Andrew Ippolito: This is one of those diseases that we can when when the kid first gets born and we run those little barrage of tests if they find that the mutation in the PKU gene the gene.
+52:41
+Andrew Ippolito: Then that kid can grow up so long as they have a restricted diet that has very, very low levels of Fino alanine.
+52:51
+Andrew Ippolito: They can be completely normal, and this is why, when you look at the back of some of the food products or GM packs particularly diet stuff.
+53:04
+Andrew Ippolito: aspartame is a Fino alanine derivative and so you'll see something that's a warning pharmacogenetics contains Fino alanine one farm go.
+53:18
+Andrew Ippolito: Let me just show you a very quick picture here of what i'm talking about you've seen this label.
+53:25
+Alexa Deprisco: Excuse me. Alexa Deprisco: yeah so Fino alanine is like a classic sugars them.
+53:31
+Andrew Ippolito: No, no it's sweet, but it is the only reason why we perceive it as sweet as it triggers the same receptors that sugars do, but it is peptide based.
+53:47
+Andrew Ippolito: There you've seen this before me show you a copy image.
+53:54
+Andrew Ippolito: All right, you've you've all seen female ketone eric's contains been allowing and that labels there for people with this disease.
+54:03
+That now you know. The more you know.
+54:09
+Taylor Campbell: rainbow Okay, is that only in diet soda. Andrew Ippolito: Well, no it's anything that has.
+54:16
+Andrew Ippolito: A. Taylor Campbell: aspartame aspartame.
+54:23
+aspartame.
+54:30
+Andrew Ippolito: yeah yeah here. Andrew Ippolito: here's your description aspartame is an official an artificial non saccharine gosh it's of course it's got to be in a white there.
+54:41
+Andrew Ippolito: it's a non saccharine Sweden or 200 times sweeter than sucrose and commonly use a shirt blah blah blah it's a methyl ester of the spark acid Fino alanine di peptide alright, so you take a spark acid Fino alanine sticking together and then and then Esther.
+54:57
+Andrew Ippolito: make a methyl ester of that organic chemistry ninja ninjutsu and you get something that smell tastes 200 times sweeter that's why those packets only have this a little bit of it in there because it's just so ridiculously sweet.
+55:13
+April Neeld: Outside outsides of weird aftertaste I don't like pressure cause cancer, too, and my.
+55:19
+Andrew Ippolito: You know those those studies those initial studies, where I actually remember sitting.
+55:26
+Andrew Ippolito: In the lunchroom and college learning this so we were debating this over.
+55:32
+Andrew Ippolito: a bunch of friends were talking about it, so the initial study was the taking rats and pumping their perennial cavities with the equivalent of 200 cans of diet soda a day, every day, for months, so yeah you know if you're going to drink at Kansas diet soda a day, every day for ma's.
+55:49
+Taylor Campbell: I don't think you would explain me the size and smart raw. Andrew Ippolito: Not whatnot it was the equivalent of.
+55:54
+Andrew Ippolito: Okay, so. Andrew Ippolito: It is a half kilogram if it's a half kilogram.
+56:00
+Andrew Ippolito: What we say is, whatever the equivalent is for a human drinking 200 cans a day was put into him.
+56:05
+Andrew Ippolito: Okay yeah it was. Andrew Ippolito: watering cans a day put into the mouse. Andrew Ippolito: that's a very different scenario yeah.
+56:11
+Andrew Ippolito: Alright, so that's that's okay um now here we go this, this is really, this is the the most complicated thing you're going to learn in the genetic stuff.
+56:21
+Andrew Ippolito: Morgan, so this guy here. Andrew Ippolito: We so he was a brilliant man and he wasn't just a brilliant scientist, but really I think morgan's best trait was being able to identify smart people.
+56:37
+Andrew Ippolito: He was really good at finding good scientists people that he trained and hired eventually he after he did his work at Columbia in New York, he moved to the west coast and he started the.
+56:52
+Andrew Ippolito: Experimental biology unit of the University of San Diego University of California uc.
+57:00
+Andrew Ippolito: And the people he hired there went on to win Nobel Prizes themselves so like people that work with Morgan he he was the piece of number one scientist to produce Nobel Prize winning scientist, so he just really was able to find talent when he saw.
+57:18
+Andrew Ippolito: And so you have to understand one important thing here biology before Morgan can be freely the cusp between Mendel and Morgan all right, everything that happened before that.
+57:32
+Andrew Ippolito: Biology was an experiment with biology was an observational science, just like astronomy is today right we can't do experiments on stars.
+57:42
+Andrew Ippolito: We can just look right. Andrew Ippolito: Human Genetics would be an observational science still right experiments on in biology were not necessarily a thing for a long time, the reason why Johns Hopkins University is so famous is because it was the very first experimental biology research University in the world.
+58:08
+Andrew Ippolito: And then ucsd on the South West Coast was the first on the west coast that's why ucsd is famous University of San Diego.
+58:17
+Andrew Ippolito: So we have people doing experiments. Andrew Ippolito: When Morgan started to do his work Mendel had been rediscovered.
+58:28
+Andrew Ippolito: And he set out to try to understand heredity and animals mental did plants, he wanted to see if the same stuff was doing animals, so he picked dress awful i'm alana gangster the fruit fly the common fruit fly easy to grow.
+58:46
+Andrew Ippolito: The cheap and easy to grow, the problem is there aren't a whole lot of.
+58:54
+Andrew Ippolito: naturally occurring mutations. Andrew Ippolito: Right so remember Mendel could just go down to the p man and be like hey can I have some green peas, or some yellow pea it was called we call them up, so the seed man can go to the seed man down in town and he can get all sorts of different pieces to play with his experiments.
+59:14
+Andrew Ippolito: Morgan couldn't walk into walmart and be like hey can I have some wide eyed flies.
+59:19
+Andrew Ippolito: Can I have some dumpy winged flies that have wide eyes and there'll be like please leave, Sir, this is, this is the wendy's.
+59:29
+Andrew Ippolito: So. Andrew Ippolito: So what he had to do was he had to hunt for them, and so he spent the first two years sentence lab up looking for a naturally occurring mutations.
+59:41
+Andrew Ippolito: And as a story goes the very first white i'd fly he found so all fruit flies i've read it, he found a wide eyed fly, and as the story goes that got away.
+59:50
+Andrew Ippolito: It flew away. Andrew Ippolito: And they were able to recapture it.
+59:56
+Andrew Ippolito: But the way this, this is the anecdote goes is if they didn't. Andrew Ippolito: If they weren't able to get that white I fly back and read it, that could have set modern genetics back by a decade.
+1:00:07
+Andrew Ippolito: You know it, it took a long time to find that fly, and then it got away. Andrew Ippolito: Imagine being the person that got away from after finding looking for it for two years, oh i'm in so much trouble i'm spending, what are you doing this weekend.
+1:00:22
+Andrew Ippolito: looking for a white I fly that got away. Andrew Ippolito: So.
+1:00:29
+Andrew Ippolito: let's just remind ourselves here, we have our one to 22 right, these are called the autism.
+1:00:38
+Andrew Ippolito: So technically all those recessive diseases we learned about earlier, those are autism or recessive or autism will dominant.
+1:00:46
+Andrew Ippolito: I think you got your sex chromosomes right. Andrew Ippolito: So you can imagine if a gene is on an x chromosome it's going to lead to interesting combinations right so yeah let me, let me walk you through his first experiment here.
+1:01:04
+Andrew Ippolito: And so, this is what Morgan i'll show you the phenotype first will do this very simply, here we have found a wide eyed fly.
+1:01:16
+Andrew Ippolito: Actually, let me this way so.
+1:01:21
+Andrew Ippolito: Wide eyed fly. Andrew Ippolito: And we're going to cross the wide I fly.
+1:01:26
+Andrew Ippolito: With a red eye flight. Andrew Ippolito: Right, so the white I fly was mail they discovered the mail so everybody, including all the females were reading.
+1:01:36
+Andrew Ippolito: And when they did this cross so right, this is a parental generation. Andrew Ippolito: The F ones.
+1:01:43
+Andrew Ippolito: or 100% read. Andrew Ippolito: That was exciting because they found the recessive trait.
+1:01:51
+Andrew Ippolito: right they didn't have a white and red I didn't have marble the eyes of red of my they had it was his men dalian and that's what got them excited they were able to demonstrate them in dalian trait in an animal alright so, then they did.
+1:02:08
+Andrew Ippolito: By the way, F1 not just F right, yes, yes, then they took they did a.
+1:02:15
+it's. Andrew Ippolito: A allowed the siblings to cross.
+1:02:20
+Andrew Ippolito: The equivalent of you know, the self fertilization of the the piece, these are not him after dead animals, these are six reproducing males and females The thing is, is fruit flies don't really care.
+1:02:31
+Andrew Ippolito: You put a wider you put a female and a male from the same clutch of eggs into a into a breeding chamber and they'll have baby flies.
+1:02:39
+Andrew Ippolito: insects just don't have the same. Andrew Ippolito: social norms.
+1:02:46
+Andrew Ippolito: Alright, so. Taylor Campbell: The fact their genetics, though. Taylor Campbell: figure does it affect their genetics like.
+1:02:53
+Taylor Campbell: farm animals. Taylor Campbell: Like when you break farm animals to like doesn't matter because they're flies to just. Andrew Ippolito: know it does if they don't live long enough, where a lot of that matters I.
+1:03:01
+Taylor Campbell: think that. Taylor Campbell: Their life spans are very short so. Andrew Ippolito: I mean there, there are some there are some insects, where their lifespan of a few hours.
+1:03:10
+Andrew Ippolito: they're born, they get sexually mature they have sex they lay eggs, they die, all within a day yeah.
+1:03:17
+Andrew Ippolito: Alright, so again excitingly right, you can think we take, we do a Red Cross, with a red eye right and we get the expected ratio.
+1:03:31
+Andrew Ippolito: Of 321. Andrew Ippolito: of red white.
+1:03:39
+Andrew Ippolito: model hybrid cross success okay now here's where it gets interesting.
+1:03:44
+Andrew Ippolito: There was this guy named Andrew. Andrew Ippolito: Andrew. Andrew Ippolito: dude oven stirred a bond I can never do this Andrew is called and he noticed under the microscope when he was looking at the insects, he noticed that the White I flies or 100% male.
+1:04:07
+Andrew Ippolito: There were no female wide eyed flies. Andrew Ippolito: i'm sure they did the Cross again to verify and.
+1:04:16
+Andrew Ippolito: So they just found a violation of mendel's laws right. Andrew Ippolito: Mendel that is reciprocal crosses while we can't even do a reciprocal process, we have a white male white female right.
+1:04:28
+Andrew Ippolito: So this is what the hypothesized. Andrew Ippolito: This is what they said, based on what they knew so so drosophila so de.
+1:04:38
+Andrew Ippolito: ma LAN gangster has an end of four.
+1:04:44
+Andrew Ippolito: All right, they have four chromosomes crumbs on one chromosome to chromosome three and then they have either X or y just like we do.
+1:04:57
+Okay. Andrew Ippolito: And so they hypothesized. Andrew Ippolito: That the gene responsible for the white eyes must reside somewhere on the X chromosome.
+1:05:11
+Andrew Ippolito: Right, so they map this out. Andrew Ippolito: Okay, so here here would be the male.
+1:05:20
+Andrew Ippolito: Female okay so let's let's say that um. Andrew Ippolito: So, so in fruit fly genetics, the way we name the illegals with a lot is we use we we don't pick the letter of dominant trait that's what men and.
+1:05:33
+Andrew Ippolito: What Morgan did was he picked the letter of the mutant right, so in this case we use lowercase w for for white Chris the white color was the new color and then we would say either a little plus.
+1:05:47
+Andrew Ippolito: or nothing at all. Okay.
+1:05:52
+Andrew Ippolito: So, so the females would be this.
+1:05:57
+Andrew Ippolito: The mail would be this. Andrew Ippolito: Little plus denotes but we called wild type.
+1:06:05
+Andrew Ippolito: that's the naturally occurring. Andrew Ippolito: Wild type.
+1:06:11
+Okay. Andrew Ippolito: So when you do this cross right the female can only contribute a single Leo great job w plus the malveaux can either give us the X with the mutant Roi.
+1:06:28
+Andrew Ippolito: And so 5050 male female, of course, right. Andrew Ippolito: So the females would be w plus w so the plus goes first, just like the capital letters go first and then the males will be w plus.
+1:06:45
+Andrew Ippolito: So, this would be. Andrew Ippolito: This would be the ones right under percent read so that that would be expected.
+1:06:55
+Andrew Ippolito: Then he allowed these the Cross so it's a cross up so you have a red eyed male.
+1:07:02
+Andrew Ippolito: crossed with. hoops. Andrew Ippolito: A wide eyed female but she is a carrier.
+1:07:13
+Andrew Ippolito: Right, so when you map this cross out.
+1:07:26
+Andrew Ippolito: Okay, you get females. Andrew Ippolito: That are red eyed females that are red eyed.
+1:07:35
+Andrew Ippolito: males that are red eyed and males that are ya.
+1:07:43
+Good. Alexa Deprisco: So w plus the wild type is red eyes and then just w is like the meeting type rate yes.
+1:07:56
+Andrew Ippolito: So there's your 321 read the white.
+1:08:02
+Andrew Ippolito: Right, so this would be the F 2321. Andrew Ippolito: i'm sorry yeah this would be the F two three to one ratio your classic model hybrid cross but.
+1:08:19
+Andrew Ippolito: When it comes to the sex of the animal you'll see the females, are all red and the males are 5050.
+1:08:29
+Andrew Ippolito: So here's my question to you, this is the critical thinking let's say that we were morgan's lab let's say that you were you know junior lab assistants and mendel's lab and you came up with these observations empirically.
+1:08:41
+Andrew Ippolito: And he said to you alright, it looks like we're on the right track, but we should do one more experiment.
+1:08:48
+Andrew Ippolito: let's create a wide eyed female fly. Andrew Ippolito: Right so here's here's what the experiment actually you're not going to see all this right what you're actually going to see.
+1:09:01
+Andrew Ippolito: Is you're going to see this this fruit fly growth Chamber, which is a basically a glass file like this it's got this kind of weird food stuff in it.
+1:09:11
+Andrew Ippolito: that's like it's kind of like this color. Andrew Ippolito: And then, it has a nice foam Cork in the top.
+1:09:20
+Andrew Ippolito: All right, and so you're just you see in there, and you just see a bunch of flowers crawling around. Andrew Ippolito: Right, and so what we do is we anesthetize them, we take a tube and we pump a bunch of carbon dioxide in there that knocks him unconscious.
+1:09:35
+Andrew Ippolito: And then we have this little device it's looks like a it's like a sponge almost like a big of just a little cardboard pad but.
+1:09:43
+Andrew Ippolito: The top of it is porous and there's a little tube on the side here that we can pump.
+1:09:49
+Andrew Ippolito: Carbon dioxide into so basically carbon dioxide is able to come up here like this, and so we pour the unconscious flies on to this.
+1:09:57
+Andrew Ippolito: And then we can look at them under the dissenting scope and we can you know you with a little us a little paint brush so they don't hurt them and we can just look at them.
+1:10:06
+Andrew Ippolito: Right that's how, and then we have a little clicker in her hands, and we can count the number of files that are white I didn't read it, and all that Okay, so you have.
+1:10:14
+Andrew Ippolito: You took again so you took a wide eyed now you crossed it with a red eye female.
+1:10:23
+Andrew Ippolito: That gave you. Andrew Ippolito: 100%.
+1:10:29
+Andrew Ippolito: males and females right parental F1.
+1:10:34
+Andrew Ippolito: And then. Andrew Ippolito: When you let those cross in the F two.
+1:10:42
+Andrew Ippolito: You saw. Andrew Ippolito: A three to one ratio.
+1:10:49
+Andrew Ippolito: But you saw those are groups.
+1:10:54
+Andrew Ippolito: So the males were 5050. Andrew Ippolito: And the females were 100 hundred percent.
+1:11:01
+Andrew Ippolito: So what do we need to cross.
+1:11:11
+Andrew Ippolito: In the F to. Andrew Ippolito: To make an F3 that gives us.
+1:11:21
+Andrew Ippolito: Whatever else, it is, we want a white female.
+1:11:29
+Andrew Ippolito: Okay, so you right now, you have a stock of F two flaws. Andrew Ippolito: And you have a whole bunch of them.
+1:11:37
+Andrew Ippolito: Right and this F to this isn't a single container. Andrew Ippolito: And there's you know 60 flaws in there.
+1:11:46
+Andrew Ippolito: And 25% of them are wide eyed and 75% of them are red eyed.
+1:11:53
+Andrew Ippolito: And all the red eyed ones are female. Andrew Ippolito: and half of the red ones are male.
+1:12:01
+Andrew Ippolito: ratio should say all of the red eyed flies.
+1:12:07
+Andrew Ippolito: they're male and females in there, and the only ones that are in there that are wider mail so who am I crossing.
+1:12:15
+Andrew Ippolito: Do you see the problem. Andrew Ippolito: almost like a test cross all those read it flies in there right if I just handed this file to you bought this on craigslist.
+1:12:25
+Andrew Ippolito: How do you know which ones of those females are true breeding for read if.
+1:12:32
+Andrew Ippolito: You don't and so here's what you do here's, this is the solution to that you do a bunch of them.
+1:12:38
+Andrew Ippolito: Alright, so what i'm going to do here is i'm going to pull it just randomly i'm going to take 12345678 now i'm going to take 10 tubes.
+1:12:49
+Andrew Ippolito: And i'm going to put a red eyed female into every single one of those tubes and i'm going to put one of the wide eyed males and every single one of those oops.
+1:13:00
+Andrew Ippolito: Okay. Andrew Ippolito: Now, as a reminder, if we go back to the point of square here.
+1:13:08
+Andrew Ippolito: When we look at this carefully those red eyed females are either.
+1:13:14
+Andrew Ippolito: This gino type. Andrew Ippolito: or this gino type is 5050.
+1:13:20
+Andrew Ippolito: So statistically speaking, if I did this 10 times five of those tubes would have one of these in it and five of those tubes will have this in it.
+1:13:30
+Right. Andrew Ippolito: So let me go back here.
+1:13:36
+If. Andrew Ippolito: The female was this OK, so the mail is always this rate is basically This is basically like 10 test crosses so that would be one setup.
+1:13:53
+Andrew Ippolito: This would be the other setup right, and of course you got the why.
+1:13:59
+Andrew Ippolito: i'm not writing i'm leaving out the X chromosome here. Andrew Ippolito: But the idea here is this let's forget the mail let's just think of the females that's what we're going for alright 50% of the time we're going to get.
+1:14:18
+Andrew Ippolito: 100% right right so so we would expect of these 10 test tubes five of them are going to give us always 100% read females.
+1:14:32
+Andrew Ippolito: The other side.
+1:14:39
+Andrew Ippolito: we're gonna see 5050 raise your hand that made sense so make sure you're keeping up with me okay.
+1:14:49
+Andrew Ippolito: questions.
+1:14:55
+Andrew Ippolito: Alright, so morgan's team did this experiment, and this is exactly what they saw.
+1:15:04
+Andrew Ippolito: Okay, and this is science right here, this is pure science. Taylor Campbell: empiricism. Andrew Ippolito: Go ahead tell her.
+1:15:09
+Taylor Campbell: Did they get a white female or where they are now. Andrew Ippolito: nope they so it was 5050.
+1:15:17
+Andrew Ippolito: Right, the FDA this is really, this is the F3 progeny so in the F3. Andrew Ippolito: When they ran 10 F2 crosses.
+1:15:26
+Andrew Ippolito: 50% of the time those crosses with the old what 5050 wide eyed red eyed females and 50% of the time, and they would just get red eyed view, which is exactly what was predicted by their model.
+1:15:38
+Andrew Ippolito: Right and so that science there's there's empirical observations empiricism combined with rationalism being able to reason your way through it, and so this here.
+1:15:48
+Andrew Ippolito: This while we just came across here did two things for Morgan, and this is what put him on the map, when he published this finding he was able to show.
+1:16:00
+Andrew Ippolito: Sex linkage, in other words, he was able to show that there were genetics underlying the X chromosome but, more importantly, he was able to finally.
+1:16:12
+Andrew Ippolito: identify. Andrew Ippolito: The mystical factors of mental and he was able to say that, whatever the factors were that mental referred to.
+1:16:23
+Andrew Ippolito: Wear these discrete regions of a chromosome. Andrew Ippolito: called jeans I don't think Morgan came up with the phrase gene, but this is where they started talking about the gene.
+1:16:34
+Andrew Ippolito: And gene theory the gene theory of inheritance, instead of just calling it the particular theory right, so this is what more and in the publication, he would say here's the X chromosome.
+1:16:46
+Andrew Ippolito: And that X chromosome somewhere on that X chromosome was a gene Lucas.
+1:16:52
+Andrew Ippolito: That either had a red oops a red eye variant.
+1:16:58
+Andrew Ippolito: or a wide eyed variant.
+1:17:04
+Andrew Ippolito: Okay, so that was the first big thing Morgan. Andrew Ippolito: And now, what i'm about to say this is where things get complicated.
+1:17:13
+Andrew Ippolito: So before we even go on from here, you need to ask me questions, to make sure that you can go on to the next concept any questions here.
+1:17:22
+Andrew Ippolito: there's nothing we haven't that nothing here should be complicated if you've been doing your genetics homework and your understanding, all this nothing there's nothing here we're just extending which you already understand.
+1:17:32
+Taylor Campbell: So um we found out from the first i'm breeding like from that the parent that into F1 that the red eye is dominant to the mirror.
+1:17:47
+Taylor Campbell: So the reason why we found the the males to have white eyes more frequently than female in that F to progeny was because they only have that one X chromosome so it only needed one to have that, and the reason they struggle to get that with the female was because they needed to write.
+1:18:11
+Andrew Ippolito: That is a perfect understanding. Okay. Taylor Campbell: Good.
+1:18:17
+Andrew Ippolito: So remember when we learned mental we talked about, we did the model hybrid stuff right, and then we had the whole or what about a second G the tiles on the shorts and the yellows and Greens right, what was the relationship between different genes and so Morgan, then.
+1:18:36
+Andrew Ippolito: Basically, he was modeling his series of experiments after mental right, so the next step here.
+1:18:44
+Andrew Ippolito: is to ask the question what's the relationship between two genes and so, for this series of experiments, I want to use my PowerPoint because I actually map this out.
+1:18:58
+Andrew Ippolito: I said okay in your textbook your textbook has a lot of very complex nasty fingers and diagrams at this point that if you if you read ahead and you tried to outline it all, it was probably overwhelming.
+1:19:12
+Andrew Ippolito: visually it's just a nightmare right because they're just so much information there, so what i'm going to do for you right now is, I took the textbooks example.
+1:19:20
+Andrew Ippolito: Of the hybrid cross essentially. Andrew Ippolito: And I distilled it into much simpler terms that you can see, on the screen here so i'm going to walk you through this okay so we're in your studying in the future.
+1:19:29
+Andrew Ippolito: you're going through this this has crossed and it's not making sense you've come back to this video and watch the segment again okay so i'm going to try to do this on one interrupt one uninterrupted little two minutes all right.
+1:19:41
+Andrew Ippolito: So here's this setup we have two trades body color wing size.
+1:19:47
+Andrew Ippolito: Body color is either black or Gray. Andrew Ippolito: The natural wild type version is a Gray body and the mutant is a black body so we're going to use the be that represents black right and so B plus would be Gray.
+1:20:04
+Andrew Ippolito: And B would be black. Andrew Ippolito: All right, so so this would be the natural version that they find in nature, this would be the mutant.
+1:20:16
+Okay. Andrew Ippolito: wing size, you can have normal size wings, or you can have this digital wing best digital means it lost its original function basically there's their miniaturized so these flies can't fly.
+1:20:30
+Andrew Ippolito: which begs the question, what do we call them. Andrew Ippolito: let's call them walks.
+1:20:39
+Andrew Ippolito: Okay, so we help flies and what's alright, so this digital wings vg that's the.
+1:20:49
+Andrew Ippolito: that's the standard for wing size right so big positive means you have normal size wings and vg means you just have you have little little tiny wings you can't find.
+1:21:01
+Andrew Ippolito: Right, so what you can think of here as we're going to take. Andrew Ippolito: Right so so a wild type fly would be right B plus B plus B plus B G plus right so that's that's their generic life find out in nature, and then the mutant would have to be this, because these are all recessive genes that's important.
+1:21:21
+Andrew Ippolito: Okay, so he didn't just find these in nature, he bred these things over the years this took a while to establish right, and so, at one point in time, the the Columbia fly lab was famous it was a world famous.
+1:21:33
+Andrew Ippolito: genetics lab and you can imagine walking into a room filled with cupboards filled with little vials of flies that all had identifying marks on it that basically had these kinds of labels on them.
+1:21:46
+Andrew Ippolito: Right so so any researcher can come in and mix and match and do crosses.
+1:21:52
+Andrew Ippolito: All right. Andrew Ippolito: This is also you can see.
+1:21:58
+Andrew Ippolito: I just leave it at that, so the, this is the Rentals right, those are the printers.
+1:22:03
+Andrew Ippolito: we're going to cross them. Andrew Ippolito: And we're gonna get while we expect.
+1:22:09
+Andrew Ippolito: grey bodied normal winged fly. Andrew Ippolito: What we're going to do, then, is what's called Oh, I mean it's a test cross right we're gonna we're gonna take.
+1:22:20
+Andrew Ippolito: The. Andrew Ippolito: The dye hybrid here. Andrew Ippolito: Right.
+1:22:26
+Andrew Ippolito: And we're going to cross that it's also called the back cross when you take an F1 your cross it back to a parent because remembering and flies don't care.
+1:22:35
+Andrew Ippolito: So we're going to take the original mutant right the homozygous recessive for both traits. Andrew Ippolito: are going to cross that with F1 that's a test cross but it's also for the BAT cross because we're pulling it from the previous generation.
+1:22:46
+Andrew Ippolito: So, in other words we're going to do this cross we're going to use a B plus B vg plus vg.
+1:22:52
+Andrew Ippolito: crossed with the homozygous recessive right, and the reason for that is the number of unique illegals this one can make it simple right.
+1:23:00
+Andrew Ippolito: it's just be vg that's the gamut phenotype both do you know it's simple one, whereas this one's gonna have all four right you remember the foil method so so our.
+1:23:12
+Andrew Ippolito: planet square here really are upon a rectangle is going to look it's going to be a four by one right all four of the different combinations here.
+1:23:28
+Andrew Ippolito: Not here I haven't I haven't mapped out over here.
+1:23:34
+Andrew Ippolito: Okay, so here here's here's the hair the gametes crossed to the test cross.
+1:23:42
+Okay. Andrew Ippolito: And so let's let's reason our way through the possibilities.
+1:23:49
+Andrew Ippolito: Okay, we would expect if if fruit flies behave like P plans we would expect.
+1:23:58
+To see. Andrew Ippolito: One of each of the phenotypes so let's just refresh our memories were the phenotypes we agree body body we got normal wings and vestigial things so we would expect to see right here, what would the phenotype of that one be let's see if we're all on the same page.
+1:24:19
+Andrew Ippolito: what's the phenotype of that fly.
+1:24:24
+Alexa Deprisco: Like to wild play exactly. Andrew Ippolito: Gray body. Normal me. Andrew Ippolito: Right, what about this fly.
+1:24:36
+Taylor Campbell: Body normal when. Taylor Campbell: you're.
+1:24:43
+Andrew Ippolito: Right it's homozygous recessive right. Andrew Ippolito: yeah so that'd be. Taylor Campbell: Best digitally.
+1:24:49
+Andrew Ippolito: Right that's so the mutant is vestigial and that would give us the mutant phenotype so this would be 100% new.
+1:25:00
+Andrew Ippolito: What about this one.
+1:25:07
+Jordan Russell: This digital wings and a was it black body or is a great body.
+1:25:13
+Andrew Ippolito: For what while temper me. Andrew Ippolito: Remember that the letter is taken from the mutation.
+1:25:24
+Andrew Ippolito: So the be tells us that black is the mutant and therefore grey is wild type so is that Gray or black.
+1:25:31
+Jordan Russell: it's Gray. Andrew Ippolito: Good it's. Jordan Russell: Just digital wings. Andrew Ippolito: You got it. Jordan Russell: Great vestigial and then what's this one.
+1:25:39
+Andrew Ippolito: be the opposite right be black and normal.
+1:25:46
+Andrew Ippolito: Right so here's here's the key here's one of the little secret stylist notice that, for the ones that have.
+1:25:53
+Andrew Ippolito: The recombinant phenotypes. Right.
+1:25:59
+Andrew Ippolito: That. Andrew Ippolito: You get one parental in one recombinant or one recombinant one parental right so you're either the wild type for one trait I mean for the other or your immune for the one treat and recommit for the other.
+1:26:15
+Andrew Ippolito: Right, so the idea here right the idea here is that these two phenotypes these two geno types we're going to call these the recombinant ones.
+1:26:26
+Andrew Ippolito: right because again they have one treat from mom and one treat from dead they don't look like either mom or dad.
+1:26:34
+Andrew Ippolito: There are a combination of both whereas these are the perennials.
+1:26:39
+Andrew Ippolito: Okay that's right i've introduced that concept, a couple times now, this is where the payoff is this is where it's very important to understand this now.
+1:26:47
+Andrew Ippolito: Alright, so does that make sense, the idea of the parental phenotypes the parental genotypes very competent was OK, so when they map this out conceptually before doing the Cross they would expect to see.
+1:27:02
+Andrew Ippolito: Even representation across the board eyeball them if the genes for the two treats are on different chromosomes.
+1:27:11
+Andrew Ippolito: Right so let's just think about here's chromosome one chromosome to chromosome three chromosomes X or y and let's say that the trainer chromosome 123 and then let's say you know X or y doesn't matter.
+1:27:24
+Andrew Ippolito: Okay, and then we have the body color okay so so be let's say that the gene for body color is here, and then gene for vestigial missus over here.
+1:27:35
+Andrew Ippolito: Right, can we all agree that if those genes are where those are when we go through meiosis and crossing over and all that jazz.
+1:27:44
+Andrew Ippolito: we're going to see independent assortment right we're going to be able to produce all the various combinations right so here here's the deploy.
+1:27:53
+Andrew Ippolito: let's say that this is the header is like it. Andrew Ippolito: So that's the visual representation of the genome, of the dye hybrid.
+1:28:02
+Andrew Ippolito: And so you can see, when we go through meiosis there right, we can get the below with the vga Leal we can get the B, plus a Leo with the vg illegal.
+1:28:11
+Andrew Ippolito: Or we can get the be aaliyah with the vg plus or we can get the B plus with the big puzzle all for possible combinations are there because of independent assortment right you guys with me.
+1:28:27
+Andrew Ippolito: Okay, what is the same ideas that tall shorts in the yellow green. Andrew Ippolito: Right we're sitting here, assuming that the genes for each of those traits are on different chromosomes if they're on different chromosomes we're going to have crossing or i'm sorry we're going to have independent assortment occur.
+1:28:43
+Andrew Ippolito: So that all possible combinations of gametes can be made.
+1:28:49
+Andrew Ippolito: Right remember so each one of these is a ganymede gino type.
+1:28:56
+Andrew Ippolito: Okay, ask me questions here because it's just going to get more complicated.
+1:29:01
+Andrew Ippolito: alexa you look confused and that worries me. Alexa Deprisco: So if they're on the same chrome is them you wouldn't be as much variation in the Gambia.
+1:29:10
+Andrew Ippolito: Right right, but before. Andrew Ippolito: You don't don't jump to that yet make I want to make sure you understand that if they're on different chromosomes that this is what we, this is what we've learned so far, this would be normal right, so does this make sense to you.
+1:29:22
+Alexa Deprisco: yeah so okay so just know like I understand this right so like since they're on different chromosomes you're able to get that variation because they can live independently it for like you're saying.
+1:29:32
+Alexa Deprisco: Okay, yes. Andrew Ippolito: So you get that. Andrew Ippolito: Okay, so now now will do what you just said, to what, if I did this, what if I took that gene from chromosome three and I moved it over here.
+1:29:46
+Andrew Ippolito: Now, am I going to get independent assortment no i'm always going to get either be vg or B plus vg plus right I can't get be big plus or big B.
+1:30:05
+Andrew Ippolito: b plus vg I can't get those because they're on the same chromosome i'm going to get this it's all or nothing forget crossing over forget crossing over just think of the fact that they're on the same chromosome right now.
+1:30:17
+Andrew Ippolito: Okay linkage that we call this linkage. Andrew Ippolito: Okay, so if the genes are on the same chromosome.
+1:30:26
+Andrew Ippolito: We would expect this ratio. Andrew Ippolito: Here, forget this, we would expect if these two genes for for body color and for.
+1:30:39
+Andrew Ippolito: wing size, if they were on the same chromosome we would expect to never see those recombinant phenotypes.
+1:30:48
+Andrew Ippolito: That would just be zero, we would do the Cross we would see the actors and we would see only Gray body normal or black body vestigial and that's it just like mom and dad we would never meet someone in a one to one ratio.
+1:31:02
+5050. Andrew Ippolito: Okay, so before we forget again forget crossing over they didn't know what that was back then they barely understood meiosis right, so these were the only two worlds of possibilities for the researchers doing this cross.
+1:31:21
+Andrew Ippolito: Okay, their hypothesis led to a model prediction, and so, when they did the Cross they didn't get either of those.
+1:31:30
+Andrew Ippolito: These numbers down here were the original numbers taken from the original paper they published 965 flies were counted that looked great body didn't normal, just like mom 944 were black body, and in this digital just like dad a little fewer 944 206.
+1:31:53
+Andrew Ippolito: Had moms grey body and dads this digital wings and 185 had mom dad's black body but moms normal way.
+1:32:05
+Andrew Ippolito: And they cried and went home and took a long weekend. Andrew Ippolito: Because when you do an experiment in the lab when you're a researcher whether you're a Grad student or senior investigator.
+1:32:19
+Andrew Ippolito: Every experiment you're doing you already have mapped out the possible outcomes that's how you do science and when you get results that don't match anything you predicted you get really upset because that means you probably made a mistake somewhere.
+1:32:38
+Andrew Ippolito: that's why you have to repeat the experimentally, three times. Andrew Ippolito: And if you get yeah yeah that's the rule of thumb if you do an experiment and it gives you results that you're not expecting you have to repeat actually what you're supposed to do is repeat all experiments three times, no matter what, even if you get the right results.
+1:32:52
+Andrew Ippolito: Otherwise you get something called confirmation bias right this looks right it's good enough let's publish it.
+1:32:58
+Andrew Ippolito: right when you made a mistake and it looks right, you can still make mistakes and that just gives you a nice outcome still mistakes, though, so anyway.
+1:33:06
+Andrew Ippolito: They do this, a bunch of times and they keep getting the same results right so now, after they got over being upset.
+1:33:15
+Andrew Ippolito: They were able to look at this with a cold, you know, a new set of eyes or maybe that's what you do actually in the lab when you get in a result that doesn't make sense to you, you share your data with other people, and you ask them if they have any insight.
+1:33:27
+Andrew Ippolito: Because they don't have any skin in the game right they have an objective view of it, they can probably see something that you're missing so ready watch this What if I said to you well okay those numbers are all wrong like these, these are clearly not zero they exist.
+1:33:44
+Andrew Ippolito: But these numbers are not evenly divided throughout the 1212121 right.
+1:33:52
+Andrew Ippolito: But if I average if I told you to around these numbers to the closest 1000.
+1:33:59
+Andrew Ippolito: round up i'm sorry just round round to the nearest thousand.
+1:34:04
+Andrew Ippolito: This would be 1000 right 965 rounds, the nurse thousand is 1000, and this is 1000 and then 206 rounds, to the nearest thousand is zero, and so is this right, so, in other words, these results kind of look like these results, but these are problematic.
+1:34:25
+Andrew Ippolito: Okay, so this is what they thought in their head. Andrew Ippolito: let's say hypothetically.
+1:34:34
+Andrew Ippolito: That on occasion during meiosis. Andrew Ippolito: The houma logs.
+1:34:41
+Andrew Ippolito: and occasionally crossover. Andrew Ippolito: Right watch this So here we are here is a map of a chromosome Okay, and those two clips represent the two genes that we're talking about on the same chromosome so Lincoln we've established Lincolnshire.
+1:35:00
+Andrew Ippolito: If crossing over occurs randomly and it happens to occur in between those two genes we're going to see.
+1:35:09
+Andrew Ippolito: The comment field types alright so let's let's draw this out for a second, so we can remember what this looks like.
+1:35:15
+Andrew Ippolito: Okay So here we go so here's chromosome. Andrew Ippolito: And here's the gene first keep this simple, as do the capital you don't you see that you guys are more familiar with here, so you can remember the concept.
+1:35:27
+Andrew Ippolito: right if crossing over occurs anywhere between them, that will result in.
+1:35:38
+Andrew Ippolito: These two new recombinant. Andrew Ippolito: chromosomes right.
+1:35:45
+Andrew Ippolito: Right remember we're going to do this so it's going to give us the a in a lowercase a so here this one here would represent be represented here.
+1:35:55
+Andrew Ippolito: This one here would be represented here right you see that.
+1:36:00
+Andrew Ippolito: If crossing over is completely random and so here's where things get.
+1:36:07
+Andrew Ippolito: Both amazing and important this is the key to today's lecture ready.
+1:36:12
+Andrew Ippolito: The closer those jeans are together. Andrew Ippolito: to lower the percent chance that crossing over is going to occur between them right.
+1:36:20
+Andrew Ippolito: Whereas if the genes happened. Andrew Ippolito: To be all the way on these ends here can we agree that those genes are always going to have crossing over occur between them practically.
+1:36:32
+Andrew Ippolito: Right so again just just pick a random spot on this meter stick on really on this this ruler, if that random spot occur somewhere in the middle here we're gonna see we're crossing over occur right.
+1:36:46
+Andrew Ippolito: Okay, look confused alexa. Alexa Deprisco: So, I guess, like the more space that you have between these links gene the like higher probability that crossing over will occur because you have a bigger space for it to happen.
+1:37:01
+Alexa Deprisco: yeah exactly it's not like the. Andrew Ippolito: person that was a perfect way to think. Andrew Ippolito: That is literally what up it's good Okay, so now we can agree that if crossing over does occur.
+1:37:12
+Andrew Ippolito: we're going to see the recombinant offspring. Andrew Ippolito: But we're not going to always see the recombinant offspring right when we do so, in other words the frequency, or rather, when we count all the offspring.
+1:37:27
+Andrew Ippolito: The proportion of offspring that give us a recombinant phenotype correlates with how close those two genes are on the chromosome.
+1:37:36
+Andrew Ippolito: The closer, they are on the chromosome the less frequently, we will see recombinant offspring, the further apart, they are, the more common, we will see them does that make sense.
+1:37:49
+Jordan Russell: Yes, okay. Jordan Russell: taylor's that makes sense. Okay.
+1:37:55
+Andrew Ippolito: you're the only female exact does that make sense okay brandon I can kind of see your head you, I can see a nod if you said yes, that makes sense.
+1:38:04
+Andrew Ippolito: Okay, good thumbs up this good all right good April, I can see, you too okay does anybody because here's the thing.
+1:38:11
+Andrew Ippolito: here's my worry to some of you, this still doesn't make sense but you're not going to tell me and you're going to get lost now, because what comes next is we're going to map chromosomes.
+1:38:22
+Andrew Ippolito: So speak now or forever hold your. Andrew Ippolito: peace.
+1:38:28
+Andrew Ippolito: Just the yellow ones. That was a funny.
+1:38:35
+Andrew Ippolito: today. Andrew Ippolito: All right. ready.
+1:38:42
+Andrew Ippolito: So those numbers there. Andrew Ippolito: here's what I want you to do I want you to calculate.
+1:38:49
+Andrew Ippolito: The percentage. Andrew Ippolito: Of the offspring of this cross that were recombinant.
+1:38:58
+Andrew Ippolito: How would you want to actually do it, how would you do that, how would you do that mathematical calculation.
+1:39:04
+Andrew Ippolito: Well percentage of these offspring. Andrew Ippolito: Are recombinant.
+1:39:15
+Alexis Micewski: And then add together recombinant is going to divide them by that total equals five of my.
+1:39:23
+Andrew Ippolito: perfect. Andrew Ippolito: All right, we would add. Andrew Ippolito: 200 and so go ahead, get you know ask your phone to do this for you let's get a number here so i'm going to say 206 plus 185 that gives me 391.
+1:39:38
+Andrew Ippolito: Okay, so we would say there's three right we had account one of each right we had account both of those that's one of the secrets when you're doing these problems on the test, you have to count both of those up for every.
+1:39:47
+Andrew Ippolito: Black body best for every black body normal you get you have to get a great body best digital right it's always going to be both of those are both going to be present.
+1:39:57
+Andrew Ippolito: So you have to add those together OK, and now, so we get 391 now let's add 965 plus 944 that gives us 1909 right so plus 391 so that gives us 2300 flights, and so, if we do 391 over 203,000 we get 17.17 which is 17% wow nice even right we got lucky there no decimal points.
+1:40:30
+Andrew Ippolito: Alright, so ready, I can say this out loud now. Andrew Ippolito: When I take.
+1:40:37
+Andrew Ippolito: A normal re bodied normal flood normal sized wing fly and I crossed that to a black bodied vestigial wing fly.
+1:40:47
+Andrew Ippolito: There is a 17% chance that i'm going to get a recombinant offspring.
+1:40:53
+Andrew Ippolito: Right. Andrew Ippolito: So when they do the original work i'm sure somebody like, why is it 17% is that some kind of magical number like 321 or 9232321.
+1:41:05
+Andrew Ippolito: Right right that's got to be there, but somebody's got to ask like like what is that Sam Is there something special at 70% the answer's no.
+1:41:11
+Andrew Ippolito: That 17% corresponds to just how far apart, these two things are but here's what they did they then created an entire collection.
+1:41:23
+Andrew Ippolito: of true breeding die hybrid flies and performed an insane number of crosses This is where the Colombian fly lab really gotten its fame from.
+1:41:34
+Andrew Ippolito: They and i'll show you this picture here, this is not from your textbook I stole this from my old textbook because this is, this is the best slide to teach this on it looks overwhelming at first, so let me walk you through this.
+1:41:47
+Andrew Ippolito: On the top here correspond to all the phenotypes that are wild type, you have a gene that gives us long antenna.
+1:41:56
+Andrew Ippolito: Okay, and so, if you look at the bottom here the mutant of the long intent will be short antenna right, so you can see each of these is a Min dalian treat in and of itself.
+1:42:07
+Andrew Ippolito: So you have long antenna or short antenna long wings or don't be wings long legs are short legs Gray body black body and so there's a couple of colors right there's red eyes and purple eyes.
+1:42:19
+Andrew Ippolito: there's long wings and vestigial wings are short wings there's your walk right, you can see, this poor guy here, he can't fly.
+1:42:26
+Andrew Ippolito: street wings are curved wings red eyes and brown eyes and, by the way you see dumpy wings. Andrew Ippolito: that's the beginning of me telling you that your software geneticists come up with all sorts of weird ridiculous names and the reason for that is, they were dealing with so many phenotypes they had to start getting creative in the nomenclature and they carry that on to this day.
+1:42:45
+Andrew Ippolito: Alright, so now ready we're gonna take so let's let's call these let's just give these letters here, so we can actually see how this is going to work.
+1:42:57
+Andrew Ippolito: Okay, so let's blend our understanding of what we already understand what Mendel and apply this year.
+1:43:03
+Andrew Ippolito: Alright, so what you can do is just pick and choose to random letters let's just let's just use a MB for that alright so we're gonna take that we're going to do this cross we're going to take a die hybrid.
+1:43:16
+Andrew Ippolito: For those two genes are going to cross it would do a test cross. Andrew Ippolito: we're going to cross it with that.
+1:43:24
+Okay. Andrew Ippolito: You can imagine across where you take a C and G and cross that with CG.
+1:43:35
+Andrew Ippolito: me to have these you can do a test cross with a diaper.
+1:43:40
+Andrew Ippolito: And when you do those crosses and you count the number of recombinant.
+1:43:47
+Andrew Ippolito: Not only are they always different from each other, but they're always the same when you repeat the experiment this told Morgan that genes reside in specific locations on chromosomes.
+1:44:03
+Andrew Ippolito: He was not only able to say hey mental factors are real, but we can tell you where they are, we can map chromosomes.
+1:44:13
+Andrew Ippolito: And so what they do is they, they invented this technique, where, for every 1% chance of recombination they would call that a map unit.
+1:44:25
+Andrew Ippolito: Okay, and so you see these numbers on the middle here now from this gene to this gene well, so when I did this cross I got a 13% chance recombination and so i'm going to say those two genes are 13 map units apart.
+1:44:43
+Andrew Ippolito: All right, if I, in theory, did another cross or I took the a and the CG and I cross those together.
+1:44:53
+Andrew Ippolito: I would get a 31% chance. Andrew Ippolito: If I did the be in the sea.
+1:45:02
+Andrew Ippolito: I would get a 18% chance. Andrew Ippolito: And all the words you see these numbers here.
+1:45:10
+Andrew Ippolito: This is the map of the chromosome here's where the gene a is here's where gene bs in here regime three is so, in other words.
+1:45:16
+This distance here. Andrew Ippolito: That would be the distance from A to B this distance would be from A to C this distance would be from B2C so you can think about getting a set of data.
+1:45:30
+Andrew Ippolito: Right, where I tell you the percent recombination frequencies, and you can map the chromosome.
+1:45:38
+Taylor Campbell: Is that what the 17% was that we found out what. Andrew Ippolito: Exactly the 17% was 17 map units, in other words, we would say that these two genes are 17 map units, apart from each other, now a map unit is a relative term right that's not a number of base pairs it's not an inch it's it's a wishy washy thing it's it's it's unit lists.
+1:46:03
+Andrew Ippolito: Right. Andrew Ippolito: what's not you and alyssa percent recombination so so it's the equivalent me saying this right let's say that there was a map of a neighborhood or let's say that there was a road right and you got a bunch of friends that lived on that route.
+1:46:16
+Andrew Ippolito: And I told you that, so I have here, I have my friends, I got my friends raph Greg and Jason.
+1:46:24
+Andrew Ippolito: Okay, Andrew and I told you that Andrew lives.
+1:46:30
+Andrew Ippolito: twice as far from RAF as he does Jason.
+1:46:36
+Andrew Ippolito: And Jason lives twice as far from RAF as Greg and Greg and Angela three right, so they is like oh so how many miles away is Andrew like I have no ideally miles, that is.
+1:46:49
+Andrew Ippolito: I can just tell you i'm twice as far from Jason is right, so you can say okay so based on the logic of it, you would be able, you know to map it like something like that.
+1:47:01
+Andrew Ippolito: Okay, so these are mapping problems that you'll get the homework.
+1:47:07
+Andrew Ippolito: Okay now for the test i'm not going to make a new mapping problem.
+1:47:12
+Andrew Ippolito: Okay, that would be something you will do when you take genetics, you will really learn all this stuff in your level two biology class when you do genetics.
+1:47:19
+Andrew Ippolito: And, by the time you get there it'll make more sense and you'll actually have to do mapping problems if even if they're still teaching that I don't even know if they're still making you do mapping problems I think they're.
+1:47:29
+Andrew Ippolito: Okay, so. Andrew Ippolito: that's the basics of linkage.
+1:47:35
+Andrew Ippolito: So this is from your book, this is the the raw example from your book and now you can pull us apart again there's a lot of stuff on the screen, but if you take your time and you walk through it slowly it'll all make perfect sense.
+1:47:50
+Okay.
+1:47:55
+Andrew Ippolito: It says it's gonna be on the test anyway map all this through with my hostess go through the generation of the gametes using meiosis with this like dude so draw meiosis out with that chromosome.
+1:48:07
+Andrew Ippolito: And you can see, and you know put some little crossing overs in there and do independent assortment it all fits together perfectly.
+1:48:16
+Andrew Ippolito: Because it turns out, this is all true. Andrew Ippolito: Go ahead alexa.
+1:48:23
+Andrew Ippolito: You just get that look of like. Andrew Ippolito: Is this is this too much too fast.
+1:48:30
+Alexa Deprisco: it's a little. Andrew Ippolito: yeah I know. Andrew Ippolito: But again, this is the once over this is, you know it's not like okay now everybody let's take a test know if you're gonna have a few days to chew on this now.
+1:48:41
+Andrew Ippolito: Okay, so that's crossing over. Angela Harbeck: What is the chapters that are on the test.
+1:48:50
+Angela Harbeck: and see if I can do this, so this is. This is 1514.
+1:48:57
+So. Andrew Ippolito: The little bit of a lightweight do we do a little bit of 11 oh my gosh my flashback from the last test yeah.
+1:49:06
+Alexa Deprisco: A little bit of 11 to 15. Andrew Ippolito: But again, remember that most of them, especially chapter 13 is a short chapter really chapters 12 and 13 should have.
+1:49:15
+Angela Harbeck: been one chapter. Angela Harbeck: cell division yeah.
+1:49:21
+yeah so 11 through 15. Andrew Ippolito: And, and also remember that we only did parts of 11 we only did 11.3 alright.
+1:49:34
+Andrew Ippolito: You can watch TV on your own you'll combinations good okay so linkage map there, he is there's Andrew sort of bond.
+1:49:42
+Andrew Ippolito: This is him in 19 I think it says like 1953 or something so now he's an old man in the 50s right he he was the junior a postdoc in morgan's lab you can see behind him um, so this is his lab this this is him many years later this isn't the famous Columbia fly lab.
+1:50:04
+Andrew Ippolito: But you can see, each one on these little vials here, you can see, this is how you grow your software.
+1:50:10
+Andrew Ippolito: And you can see, they all have little labels on it, you know so, and you know he's smoking his pipe in the lab because it's the 50s and.
+1:50:17
+Andrew Ippolito: The smoke your pipe in the lab. Andrew Ippolito: This is proud right here, this is most likely filled with ether and that's where you don't flies when you're done with them.
+1:50:30
+Andrew Ippolito: So this will probably collect if I had to guess I So when I did when I took genetics, when I was an undergrad we the lab component of it was a fly lap.
+1:50:41
+Andrew Ippolito: And the guy that ran it was just a hot mess, he was all our flies died every week we never I don't think any of our expressing one of our experts work.
+1:50:50
+Andrew Ippolito: The first day of class he's like this will be an easy lab and you won't have to hand in a lab report until I hand you back your your first lab report which i'm still waiting on.
+1:51:02
+There we got that. Andrew Ippolito: yeah anyway, I got stories i'll see those first time.
+1:51:09
+Andrew Ippolito: we're chatting asked me about my genetics lab experience i'll tell you how to.
+1:51:15
+Andrew Ippolito: act accordingly, if you ever have a professor that terrible. Andrew Ippolito: Okay.
+1:51:20
+Andrew Ippolito: So this is from your book, you can see, the actual linkage map here so again those numbers represent the percent chance that crossing over will occur between these areas right.
+1:51:34
+Andrew Ippolito: As for how you get numbers greater than 100% I still don't have a good answer for you, I think it's a statistical reason it's just the statistics it's you know the that percent error within doing actual experiments versus theoretical.
+1:51:52
+Andrew Ippolito: And oh wow wow I did it, I think I did that, as a record for me it's 12 o'clock and I got through this.
+1:52:03
+Andrew Ippolito: I need to go buy a cake to celebrate this is usually the part where i'm like so stressed to get everything done for the test that we did it okay.
+1:52:10
+Andrew Ippolito: So you guys, have we can do practice problems we can go through and practice, we can learn something we you can.
+1:52:21
+Andrew Ippolito: If you want, if you kind of tapped out i'll say go go take a nap and then go study you got to test on Friday i'm gonna see you Friday again so um but.
+1:52:31
+Andrew Ippolito: i'll tell you what I can pull up the homework, if you want, we can pull up the homework and go through some homework problems that's one idea another idea is.
+1:52:38
+Andrew Ippolito: I can just pull up some practice problems and we can. Andrew Ippolito: work through some um, what do you want to do.
+1:52:47
+April Neeld: I like to practice problems, just because the homework isn't as close to the tests.
+1:52:54
+Andrew Ippolito: it's not as what. April Neeld: it's not like like the practice problems will probably be closer to the test questions than the homework questions would be.
+1:53:03
+Andrew Ippolito: Okay, so here, let me see. April Neeld: Oh. Andrew Ippolito: I want to go into my.
+1:53:11
+Andrew Ippolito: or they call it the instructor resources.
+1:53:17
+Andrew Ippolito: instructor resource, though i'm sure that I can pull out on it like clicker questions I think they even have like a deputy like game, and we could do that let's see resources by chapter.
+1:53:28
+Andrew Ippolito: This is oh gosh i'm in the wrong i'm in the Microbiology book.
+1:53:34
+Andrew Ippolito: theory of disease okay on a completely different topic. Andrew Ippolito: But yeah so again, if you leave now I won't be offended.
+1:53:45
+Andrew Ippolito: If you're tired and you don't want to work that's not an excuse suck it up.
+1:53:51
+Andrew Ippolito: Unless you're saying good all right let's see instructor resources item library not not.
+1:54:00
+to resort to my work where are they.
+1:54:09
+Andrew Ippolito: they're all right take in here they really they have all this stuff hiding behind so many.
+1:54:15
+firewalls stuff. Andrew Ippolito: Resources by chapter, here we go.
+1:54:25
+Andrew Ippolito: Our photo click click or questions i'll download those. April Neeld: Had a question, do you get a small break before we do this.
+1:54:33
+Andrew Ippolito: Oh yeah we could do that. April Neeld: Does anybody else need that because I just want. Andrew Ippolito: Everybody i'm sure everybody needs that.
+1:54:41
+Andrew Ippolito: If you don't need a break. Andrew Ippolito: Oh.
+1:54:47
+Andrew Ippolito: Taylor the hyper functional one.
+1:54:53
+Andrew Ippolito: i'm just jealous. Andrew Ippolito: I wish I had that kind of energy might say, well, my wife, she oh coach doing the other day, the energy she's like it's just it's it's more than energy it's like this drive to just get done as many tasks as possible and and given.
+1:55:09
+Taylor Campbell: time period yeah I mean, I have a three hour lecture after this three hour lecture.
+1:55:17
+Jordan Russell: die. Taylor Campbell: Why don't you do it at this point, you know, like i've been doing it all semester so it's.
+1:55:22
+Andrew Ippolito: Right you're just acclimated. Taylor Campbell: To like go go go.
+1:55:27
+Jordan Russell: Take NAPs after all my classes. Taylor Campbell: Oh no there's no more time for sleep sleep.
+1:55:34
+Andrew Ippolito: sleep when i'm dead. Jordan Russell: Like I still understand how I get stuff done, even though I sleep so much my sleep schedule is so much.
+1:55:44
+Andrew Ippolito: So, Jordan, you sound kinda like me, and that is like what I have spurts of hyper function.
+1:55:50
+Andrew Ippolito: hyper functionality, I think that's it goes along with having add i'm not saying you do it for me.
+1:55:55
+Andrew Ippolito: The. Jordan Russell: Only at this point. yeah.
+1:56:00
+Andrew Ippolito: Well there's there's so many there's so many undiagnosed cases of it pen so one of the hallmarks bdd is i'm.
+1:56:09
+Andrew Ippolito: Going into flow very easily being hyper hyper focused. Jordan Russell: Because like I can literally sleep like a whole day and then I can like sleep for an hour and then i'll be awake flight perfectly fine it's so weird.
+1:56:22
+Andrew Ippolito: I know I hear you I have similar I have a similar experience.
+1:56:28
+Andrew Ippolito: Can you guys, can you guys see this the chromosome will be set up in here. Andrew Ippolito: Yes, so let's see what this is going to be all leave the first one here, this is a it's just it's practice multiple choice questions so not all these are going to be.
+1:56:40
+Andrew Ippolito: Practice problems for genetics, but so i'll stop here for now we'll do a 10 minute break right so that sounds like a good number of minutes.
+1:56:48
+Jordan Russell: Yes, I also have a quick question. Andrew Ippolito: Alright alright so hold on Jordan so okay everybody can go 10 minutes hey siri set a timer for 10 minutes.
+1:57:04
+Andrew Ippolito: Okay okay good journey. Jordan Russell: um it's the lab do Sunday, or is it do Thursday.
+1:57:11
+Andrew Ippolito: So I always have the labs that are. Andrew Ippolito: Do before the test Thursday. Andrew Ippolito: Because if you see that that's because those labs will help you understand the material better.
+1:57:21
+Jordan Russell: Okay. Jordan Russell: I just wanted to. Jordan Russell: double check. Andrew Ippolito: yep yep and if you can't get them done because you committed to studying this in a different way and that just doesn't work for you i'll move it to Sunday for those people i've done that once or twice.
+1:57:34
+Andrew Ippolito: But, most people get them done these these genetic slabs when we're in person we don't have really a good genetics lab so lobsters really got some good stuff in there, hopefully.
+1:57:44
+Andrew Ippolito: I haven't walked the genetics labs yet, but i'm assuming they're just as good as the others, but the labs was good, in general, are they helpful and good.
+1:57:54
+Angela Harbeck: Just weird. Jordan Russell: With some of them are actually helpful than. Jordan Russell: Others are just like.
+1:58:00
+Andrew Ippolito: say that again I missed. Angela Harbeck: Their weird. Angela Harbeck: That they put you in there, like you're a CEO coming in.
+1:58:08
+Angela Harbeck: doing a meeting and i'm like okay. Andrew Ippolito: You have a meeting. Angela Harbeck: yeah there's one where you had to come in and then like try and figure out some.
+1:58:17
+Andrew Ippolito: Okay, so it's almost like they put you in situations that some weird committee thought students would be like comfortable with and it turns out, they got those wrong.
+1:58:28
+Angela Harbeck: yeah they're just weird. Andrew Ippolito: So.
+1:58:35
+Andrew Ippolito: We just say alexa. Alexa Deprisco: I was gonna say those scenarios are so funny because it's like present your findings to a group and like if you get the multiple choice answer wrong, even though, like you're the one who's expressing like the.
+1:58:46
+Alexa Deprisco: Information they're like I don't think that really is a necessary thing to set like it's. Andrew Ippolito: So funny so funny.
+1:58:53
+Andrew Ippolito: So he actually they have responses, if you get them wrong like that. Alexa Deprisco: When you're presenting information has like a scientist.
+1:59:01
+Jordan Russell: yeah sometimes it's really funny. Jordan Russell: I think the funniest one was like when the a eyes, just like have the blank expressions on their faces.
+1:59:10
+Jordan Russell: Like the one of the one lab there was this dude who had is like the nose piece of his glasses were like up towards his eyes and not resting on his nose and i'm like what is wrong with.
+1:59:24
+Jordan Russell: The simulation.
+1:59:34
+Jordan Russell: Like and he didn't even have like the parts of the glasses that go over his ears, so how the glasses were stay on his face was beyond me.
+1:59:48
+Angela Harbeck: Is there any way we can see the ball. Angela Harbeck: and see how he's doing.
+1:59:56
+Angela Harbeck: Would you say, can we see the ball. Andrew Ippolito: Oh yeah sure. Angela Harbeck: i'll go into some wholesomeness.
+2:00:02
+Andrew Ippolito: into the break. Andrew Ippolito: i'll be right back.
+2:00:27
+Andrew Ippolito: yeah I think.
+2:00:34
+Andrew Ippolito: His motor skills are getting. Andrew Ippolito: worse and worse, I think, but he he is so asking me to watch this I could just.
+2:00:42
+Andrew Ippolito: I can put them on hold back now, you can really see him. Alexa Deprisco: Stop sharing the screen, so we can get the full view.
+2:00:48
+Andrew Ippolito: say again. Alexa Deprisco: You stop sharing the screen, so we can see him and like full screen so phase three is.
+2:00:56
+Taylor Campbell: If you Double Click on like. Andrew Ippolito: Oh. Andrew Ippolito: he's paid oh yeah yeah let me, let me stop sharing there we go there, we go.
+2:01:04
+Danuta Despagne: All right. Andrew Ippolito: And here i'll make myself bigger too so speaker view. And all.
+2:01:13
+There we go. Andrew Ippolito: Right, so there, he is and he's so comfortable that I can put them on his back now.
+2:01:24
+Andrew Ippolito: And he doesn't try to roll over anymore. Taylor Campbell: He loves you that's amazing. Andrew Ippolito: What do you do, he really does Oh, he does he feel like click.
+2:01:32
+Andrew Ippolito: Here hold on. Andrew Ippolito: Although again. Angela Harbeck: He looks fat.
+2:01:37
+Andrew Ippolito: he's he's really not, though, and you just proved online. Andrew Ippolito: yeah.
+2:01:43
+Andrew Ippolito: he's out of his element here. Andrew Ippolito: But he seems to be more and more.
+2:01:50
+Andrew Ippolito: or less than less energetic so i'm just kidding a little worried about.
+2:01:56
+Andrew Ippolito: There he goes he's looking me. Angela Harbeck: Dear kids hold on.
+2:02:01
+Andrew Ippolito: His yeah his kid there Oh, and now he's he's doing is like joyful pumping he, like it's almost like he's like half half half his he just starts puffing, so there is.
+2:02:15
+Angela Harbeck: Your kids hold them. Andrew Ippolito: They know they know pet him but i'm still worried that he liked my wife can hold them, but he doesn't.
+2:02:24
+Andrew Ippolito: He doesn't it's like he I think he smells us, I think he knows us by. Andrew Ippolito: smell, but his teeth to seem really yellow.
+2:02:32
+Andrew Ippolito: i'm not brushing them My worry is is like I know rowden teeth grow too much, and so I don't know if i'm giving him the proper stuff in this cage to keep his teeth short, there is.
+2:02:45
+Alexa Deprisco: A button like throw a branch in there and something right. Alexa Deprisco: which then chew on that I feel like throwing when they're not like funny.
+2:02:52
+yeah yeah and he does. Andrew Ippolito: yeah he choose on what a lot so i'm guessing he's doing what he's supposed to be doing.
+2:02:59
+Andrew Ippolito: But. Andrew Ippolito: But he's really happy and spoiled and let's see here i'll start looking me here oh there he goes.
+2:03:10
+Andrew Ippolito: So he's not biting me he's lucky to use a little tongue is cute little punk.
+2:03:16
+Andrew Ippolito: And he's pouring right now, you can hear you can you can hardly hear him when he purrs but like his his whole head vibrates you can just feel it it's like little constant vibration.
+2:03:28
+Andrew Ippolito: So. Andrew Ippolito: they're always looking me now that's him grooming me.
+2:03:34
+Andrew Ippolito: yeah he's unexpectedly cute oh you just hit me well, what was that.
+2:03:43
+Jordan Russell: That was that was the first one is on that, but he doesn't seem to nobody's.
+2:03:48
+Jordan Russell: huh that. Andrew Ippolito: You know, he was going he was eating, he was eating as poop.
+2:03:54
+Andrew Ippolito: There he goes to little pieces of poop their their year. Jordan Russell: that's even better.
+2:04:00
+Andrew Ippolito: Now they're supposed to do that supposedly. Andrew Ippolito: So all right um.
+2:04:05
+Andrew Ippolito: yeah so that's that didn't need it's interesting he didn't bite me to draw you know, like if you get if you've ever i've gotten bit before by like a hamster those there they like yeah like that what he just did was he nipped so he was that was like an exploratory bite.
+2:04:19
+Jordan Russell: Oh, my God i've seen videos. Jordan Russell: Yes, he. Andrew Ippolito: he's hungry that's what he is he's hungry right now.
+2:04:25
+Andrew Ippolito: that's what he's doing, I have to let me go dump some blueberries into his kids and be done with this so they're.
+2:04:31
+Andrew Ippolito: Just a lovely name. Andrew Ippolito: Because again he's probably gonna die soon.
+2:04:39
+This might be the last time you see him alive. Andrew Ippolito: My wife wants to accomplish very.
+2:04:47
+very imaginative he's. Andrew Ippolito: Like Marty voldemort Marty and morty rick and morty morty let's go.
+2:05:02
+Jordan Russell: I just like. Jordan Russell: I love the videos that like when hamsters bite their owners and, like their owners end up eating their hamsters across the room accidentally you know what i'm talking about it's so dark to say but it's like kind of funny.
+2:05:20
+Alexa Deprisco: I had a hamster. Alexa Deprisco: In grade school and he had like one of those like huge here pages, so we have like a little tube that went up to his little like mess up top.
+2:05:28
+Alexa Deprisco: And like i'm like eight years old, on like mobile fingers like in front of his face while he's like in the 70s fit me and I like full on my hand up and I like play the blood.
+2:05:40
+Alexa Deprisco: there's no. Angela Harbeck: I haven't had to keep. Angela Harbeck: Going I didn't know that I could even grow but.
+2:05:47
+Angela Harbeck: holy crap. Angela Harbeck: Like chewed it down, obviously, but they were like long.
+2:05:55
+Jordan Russell: A. Jordan Russell: I had a fish tank with like a carnival fish that lasted like seven years.
+2:06:04
+Jordan Russell: and Jordan Russell: And we decided to take my brother's lead officials like Okay, because that's what my friend did he took his beta fish and actually put it in his bigger tank and.
+2:06:13
+Jordan Russell: Debate, efficient and like attack and the other fish, it was just like it was chill so it's like Okay, let me try that so I put my brother spate of fish in our.
+2:06:23
+Jordan Russell: In my big tank and it just it just told by the filter I was like okay next thing you know i'm like where the House the beta fish, we still have no clue what happened, the beta fish but I assume my seven year old fish ate the beta fish.
+2:06:37
+Jordan Russell: And, just like either that or the beta fish jumped out, we never found its course, but.
+2:06:44
+Jordan Russell: yeah because, like the the way that the that the top of the tank was.
+2:06:51
+Jordan Russell: There was a little like a small opening that was exposed for the filter. Andrew Ippolito: would go in so like. Jordan Russell: This debate official small enough that it could jump out of it, what to do, but like I want to be the first time i've had a fish tried to commit suicide.
+2:07:07
+Jordan Russell: Alexis like stupid stuff. Alexa Deprisco: is like you know you don't hear that, like that wasn't the first time that I had tried to commit suicide.
+2:07:18
+Jordan Russell: Literally like the seven year old fish jumped out of the tank to once I forget it, because I think it was before we got.
+2:07:25
+Jordan Russell: Like the better top for the tank and I think I had the top off because I was cleaning the tank or something like that, and next thing I know i'm like.
+2:07:34
+Jordan Russell: Where the hell, am I to fish and then like I had the the tiniest official name tiny TIM I ironically ended up dying because he couldn't find him fast enough.
+2:07:45
+Jordan Russell: And then the other one was behind the tank and we managed to save him, that was the seven year old one, it was like it was a hot mess.
+2:07:57
+Jordan Russell: He like owning fish it's like a roller coaster even though you can't pet them and give them love like like a dog they're still like just like crazy.
+2:08:09
+Alexa Deprisco: yeah I had a couple beta tests they're cool they're really pretty.
+2:08:21
+Jordan Russell: I had dude I have so many bad beta stories, I really shouldn't, but I do.
+2:08:27
+Jordan Russell: For Christmas one year, my brother. Jordan Russell: got his girlfriend. Jordan Russell: A beta fish or two beta fish and I got to pick which one to get her for Christmas and I wake up Christmas morning and i'm like i'm like i'm like okay.
+2:08:42
+Jordan Russell: So I go upstairs to go retrieve the fish Well, unfortunately, the fish was dead, so I came downstairs like I was apparently ghost light and I was like the fish died.
+2:08:59
+Jordan Russell: So I had to give her the one I wanted to keep. Jordan Russell: And I think she named it cinnamon.
+2:09:20
+Jordan Russell: April. Jordan Russell: I want to give your dog some love to. April Neeld: she's so sweet Oh, my goodness she's finally settling into the House because it's been about two months now, or two and a half.
+2:09:32
+Jordan Russell: Oh, my God you just gotta like recently. Jordan Russell: This isn't about you.
+2:09:38
+April Neeld: I got her in a like end of March or act, no, no, no marketing end of February.
+2:09:44
+Jordan Russell: I love her. Jordan Russell: I die for her.
+2:09:49
+April Neeld: she's a cutie and she's such as. Jordan Russell: How many ferrets do you have do you just have one or do you have multiple.
+2:09:58
+April Neeld: I have one, but every time I go to give him food they always have ferrets for sale and they're always like the babies and I it's so hard not to buy another one, but I know I cannot have another one.
+2:10:12
+Jordan Russell: Honestly i'd like by like four ferrets they're so cute and they're like they're literally insane like I love watching the tick tock ferrets and like it looks like they're having a mental breakdown every time they run and it's so funny.
+2:10:25
+April Neeld: it's so funny when they run because they like hop and they go Archer backup and he likes to chase me around the room and paste them to it's a little game that we play.
+2:10:37
+Jordan Russell: I love that my huskies literally broken so.
+2:10:43
+Jordan Russell: Like I feel like my huskies not actually a husky like I sit there and I watched videos on tick tock of like just huskies like just screaming for no reason, and she does not make any noise like at all.
+2:10:57
+April Neeld: Well, you got lucky with that them because they are I have for work we have three huskies that come in and as soon as we get them in the tub they're screaming the entire time and it's so bad.
+2:11:13
+Jordan Russell: But watch videos of them because they're just so overdramatic like don't get me wrong trying to bait her was like trying to pull teeth like I had when we try to bait her.
+2:11:24
+Jordan Russell: A backup for you, we got a groomer literally our arms were covered in scratches and we're all read just because she would not she did not want to be in the tub at all.
+2:11:37
+Jordan Russell: And like she would have way more a little bit. They don't. April Neeld: I don't get it. Jordan Russell: No, but that's the weird thing she loves to swim when we went on a houseboat for vacation she was in the water, and she was swimming no issue.
+2:11:50
+Jordan Russell: And she goes like when we go to the beach shoko in the water and she'll get all wet but she doesn't like being based It makes no sense to me whatsoever.
+2:12:00
+April Neeld: I feel like it's like if the waters on their terms are fine with that, but once it's forced on them they're like oh no i'm gonna die right now, like you need to stop literally.
+2:12:10
+Jordan Russell: Like I didn't even put her in the top the one time, because I think she rolled around and poop the one time, so I had.
+2:12:16
+Jordan Russell: washed her off and I didn't even put her in the tub I described a bucket grabbed the soap you know.
+2:12:23
+Jordan Russell: And she's like literally huddled against the door and I kind of have to like pull her away in order to get her other side to wash her and she's just like not having it i'm like dude i'm not gonna kill you it's water.
+2:12:40
+Jordan Russell: And she's just like weird because she'll make she'll only talk when she wants food or water or needs to go out that's the only time she'll ever talk, but like she can sit in front of our glass door our storm door.
+2:12:54
+Jordan Russell: And the mailman can come right up to the door and she won't even move a muscle she's like the worst guard dog ever.
+2:13:09
+Andrew Ippolito: Know story.
+2:13:14
+April Neeld: Welcome back Professor. Jordan Russell: we've just been talking about animals.
+2:13:23
+All right. Jordan Russell: we'll wait wait, I will show this husky video I found.
+2:13:32
+Andrew Ippolito: I think it's because I separated my sharing it from the bluetooth let's go find it again and come on.
+2:13:44
+Jordan Russell: nevermind I lost the video.
+2:13:56
+Andrew Ippolito: today's a big day for the crypto currency market. Andrew Ippolito: coin base, which is the premier exchanged went public and so today today's kind of a make or break day for bitcoin and all that.
+2:14:07
+Jordan Russell: The prices are all over the place, bring interesting day. Jordan Russell: The way, can I show husky video I found.
+2:14:16
+Wait what. Andrew Ippolito: yeah sure. Jordan Russell: I show a husky video I found.
+2:14:22
+Andrew Ippolito: yeah go ahead and share. Andrew Ippolito: And then it's genetics.
+2:14:45
+Jordan Russell: I love it so much because she's playing with the dog and she makes a noise in the dog just lump Saturn screams.
+2:14:56
+Andrew Ippolito: I love one dog my dog Buttercup when she's outside. Andrew Ippolito: hanging out and there's a either an ambulance or a fire or police siren which isn't that common around here she'll just start howling with it.
+2:15:11
+Andrew Ippolito: Like really loud like a like a like a wolf. Andrew Ippolito: Just like it brings out her airwolf.
+2:15:18
+April Neeld: Somebody think it's like another like dog howling just because of the frequency of it.
+2:15:23
+Andrew Ippolito: yeah that makes sense, I always thought I was she did it because it hurt her ears and like she wouldn't do that to like drown it out, but then I realized, I was playing a social cues.
+2:15:33
+As. Jordan Russell: Like all huskies howell except mine mine doesn't scream mind.
+2:15:39
+Jordan Russell: sees like broken. Andrew Ippolito: it's just different.
+2:15:46
+Andrew Ippolito: All right, you guys can see the question here as. Andrew Ippolito: Well, through some of these so see how did improve my.
+2:15:53
+Alexis Micewski: But yes here. Andrew Ippolito: You are you can't see. Andrew Ippolito: You that's right because I have to share again.
+2:16:03
+Andrew Ippolito: Right, so how did improvement of my cross me techniques in the late 1800s at the stage for the emergence of modern genetics.
+2:16:11
+Andrew Ippolito: So what do we think here, it reveals new in unanticipated features of mendel's P plant varieties.
+2:16:17
+Andrew Ippolito: That allowed the study of meiosis mitosis revealing parallels between behaviors of them and alien concept of the gene and the movement or pairing of chromosomes that's probably the right answer it.
+2:16:28
+Andrew Ippolito: allows scientists to see the nucleotides of DNA now it can't see that, under the microscope it led to the discovery mitochondria.
+2:16:35
+Andrew Ippolito: While that's true that's not related to the emergence of genetics right it showed jeans functioning to direct the formation of enzymes, not at all so i'm going to guess the answer be here you guys agree with you.
+2:16:50
+Andrew Ippolito: Oh, is be surprising Okay, here we go Morgan and his colleagues worked out a set of symbols to represent flied geno types which of the following is representative.
+2:17:00
+Andrew Ippolito: We just did this so let's see Where are you paying attention in class today.
+2:17:05
+Andrew Ippolito: What do you think the answer is. Andrew Ippolito: But type it in chat if you want.
+2:17:11
+Andrew Ippolito: Instead of. Andrew Ippolito: calling it out loud that way. Andrew Ippolito: If you don't want to know what everybody else thinks don't look at. Andrew Ippolito: chat yet.
+2:17:19
+Andrew Ippolito: yeah okay so. Andrew Ippolito: that's the only one that makes sense yeah so they of course, the answer is see there so that wasn't really useful i'll say, let me skim through these really quick, let me look for national genetic here we go here we go.
+2:17:32
+April Neeld: I have a question, Professor. Andrew Ippolito: yeah yeah good.
+2:17:39
+Andrew Ippolito: Barely my daughter's just took umbrage at your request, Buttercup.
+2:17:45
+butter. Andrew Ippolito: butter cup yeah she just got her surgery she just got her to be removed and she's like back to your old self already it's kind of.
+2:17:53
+Andrew Ippolito: amazing like she. Andrew Ippolito: The only difference is she wears a shirt now socialism liquor warned.
+2:17:58
+April Neeld: looks good yeah better than the Cone. Andrew Ippolito: yeah oh God the cone of shame we call it.
+2:18:05
+April Neeld: The fundamentals they. April Neeld: Do we have to do punnet Square, so that we know, have have to like.
+2:18:12
+April Neeld: switch for this. Andrew Ippolito: For the one that I have here on the test. April Neeld: On the test. Andrew Ippolito: Well, I would say some questions will require you to do it to get the answer, but you won't have to present it as a answer itself.
+2:18:26
+Andrew Ippolito: And so I would definitely say have your Scott paper handy for this test. Andrew Ippolito: Alright So here we go imagine the species.
+2:18:32
+Andrew Ippolito: You guys want me to do my my British accent when i'm doing this, I read it every night and my British accent or that'd be grading.
+2:18:39
+Taylor Campbell: yeah let's do it. Andrew Ippolito: Imagine a species were three low side thought to be.
+2:18:45
+Andrew Ippolito: On the same chromosome the recombination rates between Lucas A and B is 35% and the recombination rate between Lucas B and C is 33% predictively combination rates between A and C.
+2:19:02
+Andrew Ippolito: i'll do it too.
+2:19:31
+Andrew Ippolito: Alright, so see 60% so here's how I would do this nicely, so we got the load between Lucas a.
+2:19:42
+Andrew Ippolito: and b. Andrew Ippolito: Is 35%.
+2:19:47
+Andrew Ippolito: And then, they say, between B and C is 33%.
+2:19:55
+Andrew Ippolito: Okay, so we can see that B and C are closer together.
+2:20:00
+Andrew Ippolito: than A and B. Andrew Ippolito: I don't.
+2:20:15
+Andrew Ippolito: yeah so we're gonna have to do this.
+2:20:22
+Andrew Ippolito: Right So the answer would be the addition of those two, which would be what 60%.
+2:20:27
+Andrew Ippolito: When they say 2%. Andrew Ippolito: What do they mean by that so imagine it was like this.
+2:20:35
+Andrew Ippolito: All on so if a beer here like this.
+2:20:42
+Andrew Ippolito: And B and C let's see what CS recombination is 33% if see what's here.
+2:20:49
+Andrew Ippolito: right here, let me draw that bigger so One possibility would be this or, this is what that was 35, and this was 33 right, so this here would be 68.
+2:21:03
+Andrew Ippolito: But. Andrew Ippolito: This is also possible that's the key, so the distance here would be 33 and distance here would be 35 so this delta would be too so it's got to be either two or 60.
+2:21:19
+Andrew Ippolito: And so, by the way, like well, we have to do there for what would be the next experiment, have to be what would the next cross be to really hit that home.
+2:21:30
+Andrew Ippolito: If I asked you to propose another cross to distinguish between these two possibilities.
+2:21:38
+Andrew Ippolito: What would that cross be.
+2:21:44
+Angela Harbeck: Would it be based on location. Andrew Ippolito: So let me ask it a different way, with a B and C as possibilities which too low across that investigated to low side what What would we need to do what like what, in other words what piece of data is missing here.
+2:22:11
+Andrew Ippolito: What piece of data don't we have.
+2:22:17
+April Neeld: never come, then for nc. Exactly.
+2:22:23
+Andrew Ippolito: Right, so we would have to do that. Andrew Ippolito: To prevent.
+2:22:29
+Andrew Ippolito: The confusion between this possibility. Andrew Ippolito: Let me try that without letters over right the choices are either this.
+2:22:40
+Andrew Ippolito: or this. Andrew Ippolito: And the only way that you could distinguish those two is by doing this cross by crossing it so that we see recombination by basically doing across the US as calculate the recombination frequency is between Nancy right so.
+2:22:57
+Andrew Ippolito: That what. Andrew Ippolito: that's not.
+2:23:08
+Andrew Ippolito: I don't think. Andrew Ippolito: That might be a miss to pay never make mistakes on these.
+2:23:13
+Taylor Campbell: I don't get it yeah me neither me neither. April Neeld: ITO like there's no matter if you could do to get 50%.
+2:23:26
+Andrew Ippolito: Oh hold on a second I think we're all making the same mistake. Andrew Ippolito: we're making a rookie mistake here.
+2:23:32
+Andrew Ippolito: I think. Andrew Ippolito: No that's not the mistake.
+2:23:38
+Angela Harbeck: Oh, my gosh you had to either be a or C because we're predicting the rate between AMC.
+2:23:43
+Andrew Ippolito: Let me see if this problem exists somewhere on the Internet.
+2:23:51
+Andrew Ippolito: I have to share the screen to copy the text from the PowerPoint.
+2:24:19
+Andrew Ippolito: morgan's experiment help so many websites that have this.
+2:24:26
+shady stuff on it.
+2:24:38
+Andrew Ippolito: yeah there's no I. Andrew Ippolito: i'm sorry guys this. April Neeld: Can you share the question again I might.
+2:24:44
+Andrew Ippolito: be able to find yeah yeah i'm. Andrew Ippolito: gonna yeah yeah yeah i'm gonna. break.
+2:25:11
+Andrew Ippolito: I think that's just wrong. Andrew Ippolito: You subtract them out there's no possible way, you can do any math or to get a 50.
+2:25:22
+Andrew Ippolito: yeah you know what guys, I think this is just. Julia Lakchin: Getting there is a quiz lit and it says that the answers see.
+2:25:30
+Andrew Ippolito: yeah yeah no that's because that Quisling was a student pulling this or.
+2:25:35
+Andrew Ippolito: A student taking this. Julia Lakchin: and Andrew Ippolito: Just putting it up there, so anything you find the Internet is going to be derived from this this this bank so it's they're all going to have the same answer.
+2:25:52
+Andrew Ippolito: I tell you what let me, let me after class i'll do some more research on this, because I, I would, if I was given this, I would say.
+2:26:03
+Andrew Ippolito: That I mean. Andrew Ippolito: there's no there's no other possibility I don't This is just wrong so.
+2:26:11
+Alexa Deprisco: Maybe it's something along the lines of like. Alexa Deprisco: Like if you add those two together it's 68% but like maybe it's not like exactly 68% so it's like less than 68 but greater than either of those, like the 33 or the 50 but I guess you could say that's 39.
+2:26:26
+Andrew Ippolito: yeah not you I see what you're saying and and it turns out, this is all linear that's what makes it so accurate, because these genes are like they are literally mapped on the chromosome so if this is, if this is 35 then, and you know there's an whenever.
+2:26:43
+Andrew Ippolito: Another gene over here 35, and this is 10.
+2:26:49
+Andrew Ippolito: When we do the experiment for this that will be 45 like it's always like the math always works out for these experiments for fruit flies so I don't have a good answer so let's just stop wasting our time on this one i'll i'll dig into this and i'll.
+2:27:02
+Alexa Deprisco: send you a zoom message here. Andrew Ippolito: Which is for whatever chromosome alteration that different from all the other so here there's a conceptual a little fun puzzle which one of these differs from the others.
+2:27:26
+Andrew Ippolito: And I understand Julia. Andrew Ippolito: Okay, I see one answer anybody else wanna.
+2:27:32
+Andrew Ippolito: everybody's just gonna see whatever Julia said. Andrew Ippolito: or be okay, I like why you think be might be too.
+2:27:39
+Andrew Ippolito: Okay, so. Andrew Ippolito: triple 83 sets of chromosomes tetraploid at four sets off deploy the eight sets all of those are examples of poly place right and so aneuploidy is the wrong number it's just a generic catch all phrase.
+2:27:58
+Andrew Ippolito: Alright into software that by the SEC that we trust safflower melanogaster.
+2:28:04
+Andrew Ippolito: interests offline white eyes are due to an excellent receptivity lx w which of the following crosses could not result in a white is awful a male that's a great question go ahead, see what you got feel free to you know use your paper, if you want.
+2:29:10
+Andrew Ippolito: Okay ready the secret to answering any question that deals with X linked treats is the notion right here's the insight that the mouse always get the X chromosome from mom.
+2:29:26
+Andrew Ippolito: Right. Andrew Ippolito: So the only way.
+2:29:31
+Andrew Ippolito: A male could be wide eyed is if they receive that recessive bully or from mom.
+2:29:38
+Andrew Ippolito: Okay, so mom has to have a recessive deal, so if mom is homozygous for red eyes.
+2:29:48
+Andrew Ippolito: And dad has wide eyes. Andrew Ippolito: kid can't have it Oh, you know what.
+2:30:00
+Andrew Ippolito: Let me say that a different way, the mail always go not necessary, the mail always gets the X chromosome from.
+2:30:08
+Andrew Ippolito: Not necessarily the right because, because if it's a male that has a y and the only way, you can get the wise from dads are dads donation is the why so all male.
+2:30:19
+Andrew Ippolito: X chromosomes are maternal right my X chromosome as a man right, the only way I can pass on any genes that I Andrew leto have in my X chromosome is, if I have a female daughter.
+2:30:33
+Andrew Ippolito: Right, because my son's i'll have my y chromosome so my X chromosome and this lineage maybe that's why I needed.
+2:30:41
+Andrew Ippolito: I had that biological imperative of having a daughter, because my X chromosome is like gasping for breath and be like we're dying here we're dying we're going away and so after me after I die that X chromosomes done right that's the end of it that's kind of sad man, I need $1.
+2:31:03
+Andrew Ippolito: anyway. Andrew Ippolito: So what's the answer.
+2:31:17
+Andrew Ippolito: Good right. Andrew Ippolito: Okay, good next. Andrew Ippolito: Oh, you see what is whoa what sorry.
+2:31:24
+Angela Harbeck: I have a question also because, with that I was thinking more on the lines of like if it's hetero you would have a box, that would be like the both recessive genes.
+2:31:35
+Angela Harbeck: So I was thinking that like if it was like a heterozygous, then you would have one box, I would like leave the option for them actually getting it.
+2:31:46
+Andrew Ippolito: So long so here's a mom. Angela Harbeck: Right, yes, well, I didn't pick it.
+2:31:51
+Angela Harbeck: That was wondering. Angela Harbeck: If that was like if there was a question on the test if I should look at that differently than that way.
+2:31:57
+Andrew Ippolito: All right, let's go Angela do me a favor repeat your logic and let me hear it again.
+2:32:04
+Angela Harbeck: Okay, so like when you're doing the planet squares. Angela Harbeck: Right and you do like.
+2:32:10
+Angela Harbeck: Like a heterozygous couplings like one Capital one lowercase.
+2:32:17
+Angela Harbeck: One of the squares for like both of the.
+2:32:22
+Angela Harbeck: What you call it both of the partners involved, then one of the squares is going like that it's usually the lower right one is going to be like a tiny exes like the recessive one.
+2:32:34
+Andrew Ippolito: yeah okay so whenever you have a situation where it's not sex linked you're thinking about the classic model hybrid cross right you're thinking about you know this kind of cross.
+2:32:47
+Andrew Ippolito: yeah right yeah the the bottom Left will always always be the special one.
+2:32:53
+Angela Harbeck: yeah. Andrew Ippolito: Yes, that is a good way I think now so when you're doing.
+2:32:58
+Andrew Ippolito: A sex linked cross when you're tracking that the.
+2:33:03
+Andrew Ippolito: Sex chromosomes there is no magic bottom right instead both of these bottoms are the mouse and the tops of the females see that So these are the females, the needs of the males.
+2:33:15
+Angela Harbeck: Okay. Andrew Ippolito: see that right, the X, Y X, Y right female so so so you can kind of there's there's the traditional model hybrid cross will think about autism or traits versus sex link treats so sex link traits are going to have a fundamentally different kind of pocket Square.
+2:33:31
+Okay. Angela Harbeck: Because I just got lucky for that question. Andrew Ippolito: yeah yeah yeah.
+2:33:37
+Andrew Ippolito: Okay next question here. Andrew Ippolito: what's the relationship between recombination frequency and the physical distance between genes on chromosomes.
+2:33:45
+Andrew Ippolito: The closer to genes are the lower the recombination frequency, the further apart teens are the lower the recombination frequency, there is no relationship all genes have the same fixed barring recombination frequencies or D, there is no relation apologies have random recombination frequencies.
+2:34:05
+Okay, I see some. Okay.
+2:34:11
+Okay, good. Andrew Ippolito: You correct the closer, they are the lower the chances right, and so you can take the you know with the little ruler, I have here right so as I move us away from each other, the chances go up and the chances good.
+2:34:25
+Andrew Ippolito: Good, to the point where, if they're so close together all right we'll see those traits almost all the time together.
+2:34:32
+Andrew Ippolito: Like red herring freckles get red hair and freckles and humans, those are linked jeans.
+2:34:39
+Andrew Ippolito: Very close together on the chromosome. Andrew Ippolito: Alright let's see Oh, here we go here's a here's a math question, what is the expected recombination frequency for a test cross between the cinema bar and this digital low side.
+2:34:52
+Andrew Ippolito: That requires a whole set of skills here so i'll leave i'll give you guys a minute on this one.
+2:35:03
+Andrew Ippolito: Take were sent a bar. Andrew Ippolito: let's send there it is cena bar.
+2:35:23
+Andrew Ippolito: So we got the cinema bar, which is here, and the best digital which is here.
+2:35:33
+Andrew Ippolito: Right, so what you're doing is you're seeing between here, and here we got a 57 to 67 right or i'm sorry 57.5 to 67 so it's almost but not quite 10 which means This makes the most sense right.
+2:35:50
+Andrew Ippolito: And so, the answer is sure enough oh you.
+2:35:56
+Andrew Ippolito: All right. Andrew Ippolito: That means that the concept here makes sense. Andrew Ippolito: Right okay.
+2:36:03
+Andrew Ippolito: All right here what's the expected COMP recombination frequency of our test clustering short.
+2:36:08
+Andrew Ippolito: iris wristy and best digital so short touristy be the first where's my mouse there this guy here to this digital so that's right that better be 67 or i'm going to be upset oh wait.
+2:36:27
+Andrew Ippolito: yeah or I, I think that there we have like a troll at Pearson who's just messing with us at this point that doesn't make any sense let's let's look carefully again okay short.
+2:36:42
+Andrew Ippolito: Risk day and best digital. Andrew Ippolito: right there is literally.
+2:36:50
+Andrew Ippolito: No way that could be 50%.
+2:37:02
+Andrew Ippolito: Alright, I have an itch I have a mental image which means I remember learning something long ago and I can't quite remember but here's here's my the possible explanation i'm just just gone with each year that there reaches a point where you get far enough apart.
+2:37:20
+Andrew Ippolito: Where it's not linear anymore, and so maybe that point of no return is 50% but now that doesn't mean like, in other words.
+2:37:28
+Andrew Ippolito: You can't get recombination frequencies in a single experiment and greater than 50% don't write that down don't know so i'm just i'm just spit balling here we'd have to, I want to go back and look at the chapter and dig into it, but I.
+2:37:45
+April Neeld: Have a question. Andrew Ippolito: hold on i'm just processing this mentally a chance can't be greater if it happens.
+2:37:56
+Andrew Ippolito: All the time okay good question. April Neeld: So if you want from the short ERIs day, I guess, and then to the brown eyes it's 104.5% is that possible like to have more than 100%.
+2:38:12
+Andrew Ippolito: Well, that that's that's the expert this. Andrew Ippolito: This is a calculated number based on all the various cross, so no you can't have a higher than 100% chance of anything happening.
+2:38:23
+Andrew Ippolito: It just means always so so really you would say that these these two traits are not linked that's a key and your book does mentioned this when Mendel was doing his experiments, it turns out to have the treats he worked with I forgot which to they were.
+2:38:37
+Andrew Ippolito: were actually on the same chromosome and. Andrew Ippolito: piece, but because they were so far away from each other recombination always occurred and so he didn't perceive them as being linked right so linkage.
+2:38:48
+Andrew Ippolito: is not necessarily always be on the same chromosome you have to be close enough where you sometimes come along together right, so that you can think of them as being physically linked on the same chromosome but behaviorally i'm late based on cross.
+2:39:02
+Taylor Campbell: So you're saying that it wouldn't be 104.5%.
+2:39:08
+Andrew Ippolito: yeah. Andrew Ippolito: So that's the question said what's the recombination chance between these two, I would say 100% it's always going to happen, you can't see something has a greater than.
+2:39:18
+Taylor Campbell: 100% chance of happens and maybe that has to do with the fact, like the ratio then to the 57% that we think it is because we're doing it out of 104.5 not out of 100.
+2:39:31
+Andrew Ippolito: Oh. Andrew Ippolito: Well that's a no, no, no. Andrew Ippolito: No we're not what we're doing is, we would, in the actual experiment, we would count the number of offspring, and that number could be whatever you know, like there's 37 floors or there's 4372 flies by.
+2:39:46
+April Neeld: The last ones and 50 as well, so maybe there's like a cut off point at 50%.
+2:39:51
+Andrew Ippolito: that's what I was thinking that's what I was saying, like greater than 50% just gives you a 50% you can't have a greater than 50% chance, but so like I was thinking in my head, if we do that if we have to lose sight.
+2:40:02
+here. Andrew Ippolito: Right and so.
+2:40:08
+Andrew Ippolito: that's either going to happen or it's not going to happen and the percent chance that happens at any given moment.
+2:40:15
+Andrew Ippolito: Is 5050 to cut off, you know, this is where this is where my mathematical skills fail so.
+2:40:27
+let's see. Andrew Ippolito: Ah Ha ha there we go Okay, this is from some like advanced Oh, this is mit's department of biology introductory biology class now I feel embarrassed.
+2:40:43
+Andrew Ippolito: All right here.
+2:40:50
+Andrew Ippolito: over here, why is the highest possible recombination frequency 50%.
+2:40:56
+Andrew Ippolito: recombination frequency between two genes is equal to the proportion of offspring, in which recombination event occur between the two genes during meiosis recombination frequency between two genes cannot be greater than 50%.
+2:41:06
+Andrew Ippolito: Because random assortment of jeans generates 50% recombination non linked jeans produce oh Okay, if you think about two genes on any you know, two separate chromosomes.
+2:41:21
+Andrew Ippolito: you're always going to get 5050 because of independent assortment haha so you can't ever get greater than 50% you can't you can't get greater than not linked.
+2:41:33
+Andrew Ippolito: There you go and i'm embarrassed to say that I haven't built dug this deeply into crossing over since I took genetics and.
+2:41:45
+Andrew Ippolito: This is you hear us off pumps this in here, if you want to dig around on this website this looks like a really useful website actually.
+2:41:54
+Andrew Ippolito: i'll put this in our persistent zoom chat. April Neeld: I was gonna say, is there a way you can send us like. Andrew Ippolito: area yep.
+2:42:00
+April Neeld: Is there are there more for, like the other chapters or is that just for this chat I. Andrew Ippolito: Just I just did a random web search.
+2:42:06
+Andrew Ippolito: I typed in recombination frequency is greater than 50% and I looked at the top hit.
+2:42:13
+Andrew Ippolito: So, and this is, this is something so in the past when i've taught this I thought I used to tell my students that don't worry about the details of this stuff I I wanted you to get the concept of crossing over and linkage, but nothing too detailed in here.
+2:42:29
+Andrew Ippolito: And then, as i've gotten more comfortable teaching the more advanced versions of this i've i've leveled up a little bit myself and so that, for me.
+2:42:35
+Andrew Ippolito: was just me refreshing my memory on something that remember that I told you, I had an issue earlier, so it can't be great if it's percent and that's why that makes sense Okay, so that goes back to this question here.
+2:42:53
+Andrew Ippolito: that's why it's got to be two or 50%. Okay.
+2:43:00
+Andrew Ippolito: I feel so much better now my my afternoon classes going to have no knowledge of this ignorance of mine.
+2:43:08
+Andrew Ippolito: You guys can chat with them via just to let you know he didn't know this this morning.
+2:43:15
+Andrew Ippolito: Alright 1255. Andrew Ippolito: Let me um so, by the way, I dumped this PowerPoint into your.
+2:43:24
+Andrew Ippolito: folder for one drive, so you can you can pull this up, if you want yeah you can play with the smartphone.
+2:43:31
+Andrew Ippolito: carrier type from honest I mean yeah so I tell you what I won't. Andrew Ippolito: i'll tell you what i'll go through these slowly, and if you want, you can play this back later and positive the screen for the question and then you can see if you got the answer right right so i'll just.
+2:43:47
+Andrew Ippolito: tap through these quickly which of the following diagrams best represents the carrier type of a monastery.
+2:43:54
+Andrew Ippolito: So this is on the video if you're watching this in the future pause it now take a guess and then i'll give a second and i'll give you the right answer.
+2:44:03
+Okay, so be. Andrew Ippolito: OK next one non disjunction can happen, and neither meiosis one or meiosis to consider n plus one and N minus one guy means involving chromosome 21.
+2:44:13
+Andrew Ippolito: That are formed from non disjunction to meiosis one of my us to select the best comparative statement i'm not going to read all the sub posit now and here's the right answer.
+2:44:25
+D. Andrew Ippolito: Oh Nice last last question.
+2:44:31
+Andrew Ippolito: Though I skipped a bunch let me so all here i'll go through very slowly now. Andrew Ippolito: And i'll just do this so again pause it if you want.
+2:44:40
+Andrew Ippolito: To not know the answers.
+2:44:56
+Andrew Ippolito: And again, we said earlier, you can't greater than 50% because on link genes, give us the ratio of 5050 because of independent assortment.
+2:45:32
+Andrew Ippolito: same reason. Andrew Ippolito: This is the new one that we haven't seen it so and tomatoes, the header as I get playing with normal for you and purple stems is crossed when the recessive plan.
+2:45:45
+Andrew Ippolito: Having fascinated fruit and green stems the fine, I have no idea what fascinated me that's that's a new word for me the following distribution of offspring is observed.
+2:45:55
+Andrew Ippolito: and normal throughput race, so we have all these different numbers here what conclusion can be made regarding the low side for fruit shape and stem cover.
+2:46:03
+Andrew Ippolito: Low semi be on the same chromosome more than 15 minutes apart, or they may be on separate chromosomes the low side or on the same chromosome 23 map units apart.
+2:46:12
+Andrew Ippolito: The low side or on separate chromosomes the low side or on the same chromosome at an unknown distance from each other, this is a great question, so the way I would carry this out so i'll pause and all if you want to try to work this out on your own go ahead pause the video now.
+2:46:27
+Andrew Ippolito: Okay, so my explanation will be so here's the. Andrew Ippolito: deal see how the numbers lump into two types.
+2:46:35
+Andrew Ippolito: And so the lowest ones, those are always going to be the recombinant.
+2:46:40
+Andrew Ippolito: Always write it, because if it's 5050 then they're all on linked, so the idea here is, you would have to add these together right So what does that give us that's 11 plus 1122 that's 23%.
+2:46:52
+Andrew Ippolito: Right that's the secret to these that's one of the little puzzles that people mess up Belize they'll say 11 and a half map units that's 23 map units, because you have to add up all the competence together Okay, so if we so that this tells us that these two genes are 23 map units apart.
+2:47:12
+Andrew Ippolito: it's under 50% right So the answer should be be Thank God.
+2:47:20
+Andrew Ippolito: yeah. Alexa Deprisco: That really quickly. Andrew Ippolito: next question. Andrew Ippolito: Alright, so same setup.
+2:47:25
+Andrew Ippolito: i'm not going to repeat saying it just so notice that it's. Andrew Ippolito: Different different plan different pair of traits, but we know where we're getting out here right and we see how we see 25% across the board that tells us either right, so this isn't necessarily.
+2:47:45
+Andrew Ippolito: You can see where's my mouse it's a little data so hard to see here. Andrew Ippolito: You this can't be the right answer, even though you want it to be there on separate chromosomes obviously because it's independent assortment but The thing is, is.
+2:47:57
+Andrew Ippolito: it's also possible or not, that one it's also possible that they're on the same chromosome but the greater than 50% of 50 map units, apart from each other.
+2:48:06
+Andrew Ippolito: Right. Andrew Ippolito: Because the behavior of two genes on the same chromosome greater than 50 happiness apart behaviorally these genes cannot be distinguished by two genes that are on completely different chromosomes because you still get a 50 5050 right so that's why the answer has to be be.
+2:48:35
+Okay. Andrew Ippolito: So again, either they're on different chromosomes and so you're going to see even distributions because of independent sermon or they're on the same chromosome but they're so far apart from each other, that the behaviors if they're not linked.
+2:48:50
+Andrew Ippolito: Okay, all right. Andrew Ippolito: And then you know we got to these are which the file diagrams to fix a carrier type of monitor and we were back where we started on this so so i'll end this PowerPoint here.
+2:49:05
+Andrew Ippolito: All right, i'll give you the answer that just allows us to be right, and the reason for this is right, all the others here so here, if you look at the first.
+2:49:12
+Andrew Ippolito: scenario you're see there's three copies of one of the large criticisms and three copies of a small cronyism so this cell here, this would be.
+2:49:24
+Andrew Ippolito: A triplet itself. Andrew Ippolito: Because it's got so it doesn't end of three.
+2:49:30
+Andrew Ippolito: And this is. Andrew Ippolito: i'm sorry i'm sorry it's got an end up to how do I know that there's you look here there's two visually distinguishable types of chromosomes there's a big one, and all that all.
+2:49:45
+Andrew Ippolito: Right this chromosome here is different than this chromosome here so there's two so that's an animal.
+2:49:52
+Andrew Ippolito: And there's three copies of each this is three n equals six so that's a triple itself.
+2:49:57
+Andrew Ippolito: Okay, this cell here again it has an enemy to.
+2:50:02
+Andrew Ippolito: And it has three chromosomes. Andrew Ippolito: So this is a two and minus one.
+2:50:09
+Andrew Ippolito: I see that because there should be one here that's missing.
+2:50:16
+Andrew Ippolito: This, so this is a half Point seven and three easy peasy there was a three different visually distinguishable chromosomes and then this here, this is an end of three, and this is a two n equals six.
+2:50:32
+Andrew Ippolito: Right, so this is a traditional deployed so. Andrew Ippolito: So, if this was a normal body solved, we would say this is, this is the point number right.
+2:50:44
+Andrew Ippolito: This is you floyd. Andrew Ippolito: This would be you ploy.
+2:50:49
+Andrew Ippolito: Because those all look normal, this is the one that's on your pipe because there's something wrong with it.
+2:50:56
+Okay. All right. Andrew Ippolito: And then let's see this is just so you can i'm not going to walk through this one there's just too much on the screen right now i'm tired.
+2:51:09
+Andrew Ippolito: And that's the end of okay so we'll say.
+2:51:21
+Andrew Ippolito: not letting me. Andrew Ippolito: it's interesting anyway.
+2:51:29
+Andrew Ippolito: I wasn't able to draw on the. Andrew Ippolito: screen share close. Andrew Ippolito: And i'm going to stop the recording now see you next time recording people.

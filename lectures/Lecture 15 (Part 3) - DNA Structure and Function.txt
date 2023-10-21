@@ -1,0 +1,416 @@
+0:00
+Andrew Ippolito: This is a very quick clean up lecture um it's really it's a mini lecture I want to remind you that um instead of watching this video you really should be watching the one on YouTube that I posted in in the class zoom chat.
+0:14
+Andrew Ippolito: If you need that link somewhere, but if you just type them.
+0:18
+Andrew Ippolito: Just type my name in YouTube you should buy my channel and then there's a I have a.
+0:24
+Andrew Ippolito: playlist for bio 121 and then you'll see DNA replication repair, there are you see the DNA for majors.
+0:32
+Andrew Ippolito: So watch that OK, so the things that are going to cover in that video went to about DNA repair Okay, and again for the test, I wanted to know these two DNA plumber races for prokaryotes those are the most important all right and just understand the others are involved and repair.
+0:51
+Andrew Ippolito: You don't have to worry about the details.
+0:53
+Andrew Ippolito: And for humans, I told you enough to know all of us right just I mean know alpha you should everybody should know DNA polymerase alpha that's the main DNA polymerase and you character right and then just keep in mind that, just like in prokaryotes right there's um.
+1:09
+Andrew Ippolito: there's really delta is for the lagging Strand and then all the others deal with with various kinds of damage.
+1:20
+Andrew Ippolito: The most.
+1:22
+Andrew Ippolito: Common kind of DNA damage repair is called nucleus nucleotide excision repair where we pop out bad ones and put new ones in and that's what we went over in the quiz earlier, the nucleus, the polymerase the like is.
+1:34
+Andrew Ippolito: Understand that damage to DNA is not a mutation so make sure you get this right, so mutation isn't damage the damage happens the damaged piece of DNA that area like right here, we would call that a lesion Okay, and if the lesion is not fixed correctly.
+1:52
+Andrew Ippolito: Then it becomes a mutation right, the key to mutation it just heritable to the next generation of cell.
+1:59
+Andrew Ippolito: Okay, and we'll talk more about mutations later after we do Jim regulation.
+2:05
+Andrew Ippolito: Right so there's different kinds of repair mechanisms you don't know the details of these but but really one important thing is.
+2:12
+Andrew Ippolito: We have this number is probably even bigger since the last time I updated this slide but there's over 170 different enzymes and Bob just in DNA repair, so I should give you the the notion that this is a super duper important thing.
+2:33
+Andrew Ippolito: All right, I said all this, writing um but, but the question is is like what role does mutation play, we know that mutation is the key to evolution right.
+2:47
+Andrew Ippolito: Without mutation there is no new stuff right we learned about independent assortment we learned about crossing over right.
+2:57
+Andrew Ippolito: But without.
+3:00
+Andrew Ippolito: Anything else right if we just have the same cards to play with every time we're eventually going to run out of choices, as the environment, changes right, so what mutation does is it gives us brand new cards.
+3:13
+Andrew Ippolito: Right and there's all sorts of different kinds of mutations and we're we already talked about me, you know chromosome level mutations think of trans locations and inversions and deletions and all that.
+3:23
+Andrew Ippolito: And then there's something called a point mutation and we'll learn about more of those when we do the genetic code.
+3:32
+Andrew Ippolito: Some matic you should know that word somatic cells are body cells right somatic mutations Therefore, it would be mutations that affect body signals somatic mutations cause cancer.
+3:44
+Andrew Ippolito: Those are the cancer, causing mutations those are the ones that you get in your semantic tissue and you don't pass those on to your kids.
+3:50
+Andrew Ippolito: germline mutations are the ones that get passed on germline mutations happen during coming to genesis number oh genesis genesis right so mutations during that process, those are the ones that are important for for evolution.
+4:05
+Andrew Ippolito: Okay now telomeres again very briefly tumors for the ends of chromosomes and they're really hard duplicate right the idea conceptually is this, if this is the literal end of the chromosome here let's say this is the end of the chromosome remember that, as that replication for proceeds.
+4:24
+Andrew Ippolito: right that leading strand isn't going to have a problem right the leading strand can just go into the the lagging strand, though let's just separate that bottom stand out here.
+4:33
+Andrew Ippolito: Right, we have to go here and then build this way I have to go here, we have to go this way, you have to go here, we have to go this way and oops so let's see let's say there's a little extra here.
+4:43
+Andrew Ippolito: I can add a primary here right so there's always going to be this little extra that I can't replicate.
+4:51
+Andrew Ippolito: So you don't.
+4:52
+Andrew Ippolito: So what happens is over time.
+4:56
+Andrew Ippolito: The end of a chromosome literally get shorter and shorter and shorter until it starts cutting into a key gene region, whatever is there.
+5:05
+Andrew Ippolito: And so to get around that what cells do is they have the sensing network, they have they have the ability to sense this.
+5:13
+Andrew Ippolito: And once a telomere and gets to a certain critical length, whatever that length is the cell will stop growing, no matter what it will refuse to listen to commands it will refuse to respond to growth factors, those are called.
+5:29
+Andrew Ippolito: senescent cells, a senescent cells, a cell, that will not go.
+5:35
+Okay.
+5:40
+Andrew Ippolito: So there's there's different kinds of senescence we're not going to get into i'll just tell you that cells that are senescent cells that are no longer able to grow and it's a protective mechanism right you don't want to grow if your telomeres for that short.
+5:55
+Andrew Ippolito: Okay that's all i'll say about that.
+6:00
+Okay.
+6:04
+Andrew Ippolito: i'm good I don't know you guys are some of you are a little too young now to know remember Dolly Dolly Dolly was the very first cloned map animal.
+6:14
+Andrew Ippolito: Dolly was there, so what you basically do is you take an egg cell okay so here's here's a human or here's an animal or site.
+6:24
+Andrew Ippolito: Right you nuclear you literally get rid of the nucleus, you can go in there with a needle and suck it out Okay, and so, what do you get you get you get a cell without a nucleus.
+6:35
+Andrew Ippolito: Okay, but it's an excel so it has all the other good stuff in there and then what you do is over here, you get some kind of random let's say a skin cell.
+6:44
+Andrew Ippolito: Right this nucleus that's it that's a deployed nucleus right that's it to a nucleus, we nuclear this cell and we transfer this nucleus into here, so now, this is a to end cell.
+6:56
+Andrew Ippolito: And then we stimulate this thing with growth factors somehow and that coax is this which it kind of looks like a zygote now.
+7:05
+Andrew Ippolito: This starts going through the stages of development that's how we clone things so Dolly was born in this way, the problem is, is that, when he was born she had the telomeres of her mother.
+7:18
+Andrew Ippolito: or herself she's a clone.
+7:21
+Andrew Ippolito: But she had shortened telomeres she started developing age related diseases, after being a year old.
+7:29
+Andrew Ippolito: And she died about I think for.
+7:32
+Andrew Ippolito: Mobile date, and if you click on that link, you can read a story about her there.
+7:37
+Andrew Ippolito: um this out to La Maurice works, you can watch the video on that, but the idea here is it extends it extends the telomere artificially not artificially but no extends it when it otherwise would.
+7:53
+Andrew Ippolito: Okay here's here's a slide on senescence there's the idea of permanent so so in essence is defined as permanent cell cycle of rest that's that's the formal way of saying.
+8:05
+Andrew Ippolito: And this is a very alarming Stat Okay, almost all cancers have elevated level of plumbers.
+8:14
+Andrew Ippolito: When we first discovered this gene, by the way we used to think this is back in the.
+8:18
+Andrew Ippolito: Late 90s early 2000s I, Sir, so I was in Grad school when it was discovered, I remember one of the professors kind of getting excited about it.
+8:25
+Andrew Ippolito: like this is the key to immortality they were able to make senescent cells senescent cells, they were able to take senescent cells Toronto on race and make them immortal.
+8:35
+Andrew Ippolito: So we were taking normal non mutated non cancer cells and pushing them into the cell cycle, which was really exciting work.
+8:43
+Andrew Ippolito: But, of course, that everything is too good to be true when it looks that way right, and so it turned out that so that was it was shortly after that discovery they realized that almost all cancers also have mutated.
+8:55
+Andrew Ippolito: So if we if we took a pill, or we had a virus infect us or whatever, and we were able to turn our telomerase gene on all that we do is accelerate the pace at which we get cancer.
+9:05
+Andrew Ippolito: So no fountain of youth here.
+9:11
+Andrew Ippolito: Okay, I want to spend some time on this, because this is going to leave it to gene expression.
+9:15
+Andrew Ippolito: Okay, you guys still with me here we're gonna so, so this is important, raise your hand if you're listening on i'm not sure where you guys all right okay we're all here so.
+9:31
+Andrew Ippolito: I showed you my piece of paper yet have I brought this out, this is one of the most important part and.
+9:37
+Andrew Ippolito: it's just this is a piece of junk mail I got last semester, and I crumpled it up, I said, throwing it away I realized this is a perfect way of explaining how DNA works watch this is crumpled up.
+9:52
+Andrew Ippolito: And now it's open and you can read it, and now you can okay that's that's the way this works, so there are these proteins called histones we talked about briefly when we did this, a couple of.
+10:04
+Andrew Ippolito: A couple of months ago but histones allowed DNA to form these higher orders of structure right remember, we talked about super coiling with my other great prop here.
+10:15
+Andrew Ippolito: Right, we talked about the idea that DNA is under this incredible amount of super coiling right, and so the interactions here with histones control how dense DNA or how fluffy DNA gets.
+10:30
+Andrew Ippolito: When we talked about hetero chroma didn't you chromatic okay alright so as a refresher so go back to your notes from the last time we did this and look along here from the so we have our naked double stranded helix, then we have our bees on a string.
+10:48
+Andrew Ippolito: Right and so those individual circles here represent the nucleus them.
+10:53
+Andrew Ippolito: And then we start twisting this.
+10:57
+Andrew Ippolito: We start to get what's called the solenoid.
+11:01
+Andrew Ippolito: Or the 39 millimeter fiber.
+11:04
+Andrew Ippolito: And if we just keep going and super coiling the super coils we get what are called chromatin territories which are like continents.
+11:14
+Andrew Ippolito: Okay, you can also don't chromosome territories, so this is a nucleus you'll have some region of the chromosome.
+11:21
+Andrew Ippolito: or some region of the nucleus, where each individual chromosome occupies a defined space like continents on the earth, except in 3D it goes it penetrates down into the nucleus to it's, not just on the surface, let me call that overall structure the fractal globule.
+11:39
+Andrew Ippolito: Okay, and wow that's a typo chromosomes that's the chromosomes.
+11:44
+Andrew Ippolito: chromosomes right, and so my Tata chromosomes are this special use case right when we're going to move everything along the package.
+11:55
+Andrew Ippolito: So here are your nuclear zones right, no, no, your histones you got in the October itself, you have to each to bees.
+12:05
+Andrew Ippolito: You have to H two ways, you have an H to each threes and to each force alright So these are all times to you get the October right, so let me write those in order each to a H2.
+12:20
+Andrew Ippolito: H3 H4 that forms the off drummer and then the linker in between them, as each one.
+12:31
+Andrew Ippolito: Right, so this was me drawing to nuclear zones next to each other right, so the blue here there's your H A and B H3 H4 and then you can see that this linker histone H1.
+12:44
+Andrew Ippolito: Help stick it all together right, so you can see carefully here here's the double stranded DNA, so the DNA itself goes around each one of these twice.
+12:53
+Andrew Ippolito: like this.
+12:57
+Andrew Ippolito: Okay, so you can see here on this picture here, you can see the double double double strand of DNA.
+13:05
+Right.
+13:08
+Andrew Ippolito: Now you see right here, and here, and here you see these little things sticking out those are called histones tails those are important here, and I want you to keep this in mind, as we do gene regulation later Okay, these are positively charged.
+13:26
+Andrew Ippolito: This is what allows the DNA to stick to it, because the DNA is negatively charged.
+13:32
+Andrew Ippolito: Okay, and so one way to regulate all this ready one way to regulate all this is to take this positively charged his don't tell and to cover it.
+13:43
+The mask.
+13:45
+Andrew Ippolito: Okay, and that is called a subtle ation oh so so I shouldn't say it that I should say it like this, in order to mask that we assimilate it.
+13:55
+Andrew Ippolito: We acetylene the tail.
+13:58
+Andrew Ippolito: And what that does is it neutralizes the charge.
+14:08
+Andrew Ippolito: Okay, and so there's there's a yin Yang here, we can put it, we can put the cap on we can take the CAP off Okay, so there are proteins called histones histone.
+14:19
+Andrew Ippolito: A subtle.
+14:21
+Andrew Ippolito: transferees.
+14:24
+Andrew Ippolito: or a hat.
+14:26
+Andrew Ippolito: Right, how do you do hacer good things just don't have settled transfers they put the histone into a state that is no longer able to interact with DNA they open the DNA up.
+14:39
+Andrew Ippolito: So you can think of these as positive regulators, they will be gene activity.
+14:44
+Andrew Ippolito: And then the opposite is called a histone.
+14:49
+Andrew Ippolito: dia subtleties we abbreviate that H duck.
+14:57
+Andrew Ippolito: Okay, so you can simply put it like this, you have hats.
+15:04
+Andrew Ippolito: That activate genes.
+15:09
+Andrew Ippolito: And you have H ducks.
+15:12
+Andrew Ippolito: That would inhibit.
+15:15
+Andrew Ippolito: You could even say gene gene expression.
+15:21
+Andrew Ippolito: Okay, so this is one of the most fundamental ways we can regulate jeans at the highest levels.
+15:32
+Andrew Ippolito: in Jordan I just it just.
+15:35
+Andrew Ippolito: makes me feel old man.
+15:39
+Andrew Ippolito: All right.
+15:41
+Jordan Russell: I knew you're gonna say that I just find it really funny really walking.
+15:45
+Jordan Russell: up on the stairs in the middle of it, he was like Oh, he just started rambling it was like what are you talking about he's like Dolly I remember her, and I was like oh okay.
+15:55
+Andrew Ippolito: yeah it was like 1990 1997 I think anyway okay that's systems.
+16:02
+Andrew Ippolito: This is what it looks like this is actual X Ray crystallography data Member Rosalind Franklin that's what the kind of stuff she worked on this is modern version of that this is the kind of.
+16:11
+Andrew Ippolito: pictures we get out of it Okay, so you can see here the in the ocular or the Teal color that's the DNA rapping twice right, so you could see the DNS here.
+16:22
+Andrew Ippolito: Or the DNA is here, so this is kind of a 90 degree tilt Okay, and you can see the linker coming out here that's the each one this is each one over here.
+16:33
+Andrew Ippolito: And you could see if you're really careful, you can see the tails.
+16:38
+Andrew Ippolito: Right so that's probably a tail the tail.
+16:42
+Andrew Ippolito: that's probably the tail right, so the little things that jumped out of it.
+16:46
+Andrew Ippolito: Right.
+16:48
+Andrew Ippolito: So there's a nuclear zombies on a bris beads on a string and we're still in a level of understanding is we're still studying this stuff so this use the speculative model from 2000 to the idea of like How is this arranged in 3D space we figured it out since then.
+17:06
+Andrew Ippolito: um and it turns out that our cans also have histones.
+17:12
+Andrew Ippolito: They organize their DNA in a slightly different way, whereas bacteria do not have histones they have other proteins that are homologous distance, but they lack the H1 H2 and H3 H4 whereas our cans have.
+17:30
+Andrew Ippolito: Then we Okay, this is an important picture I want you to look carefully at this, you can see, the beginning of what's called a loop domain, so you can see that we can put some jeans out into space.
+17:38
+Andrew Ippolito: Where the genes can be active, they can be active right, and then we come back in here, and the rest of this is just type DNA right, so we can basically picture, like a ball of yarn and then pulling a thread out of it and then being able to read through that.
+17:54
+Andrew Ippolito: Okay, so that's the idea here.
+17:57
+Andrew Ippolito: And then.
+17:59
+Andrew Ippolito: I took this picture in Grad school, this is one of the things I was very proud of this is the nuclear matrix supposedly.
+18:09
+Andrew Ippolito: And the more I stare at this The more I realized that I was probably looking at chromatin territories, so this is a protein called P amp l that i'm doing immuno fluorescence with the actually Julia your boyfriend I want to look at this, this is one of the things that I was working on.
+18:24
+Julia Lakchin: he's not here right now.
+18:25
+Julia Lakchin: But he's here i'll show him the PowerPoint slide.
+18:27
+Andrew Ippolito: yeah okay so um.
+18:30
+Andrew Ippolito: yeah this is this is staining amino.
+18:31
+Andrew Ippolito: for sustaining with the html form to I overexpressed it with the plasmid and then I looked and I saw this this blew my mind, I still remember, was a Friday night at like two in the morning, when I finally saw this the first time.
+18:45
+Andrew Ippolito: So the idea is the nucleus itself may or may not have a pro tenacious filament network.
+18:55
+Andrew Ippolito: Like the cytoplasm or it's been long thought it doesn't have it.
+19:00
+Andrew Ippolito: And I still might not right now and I kind of checked out a couple years back so maybe somebody's done more recent research on this, but.
+19:07
+Andrew Ippolito: The idea is is that, then so it's called the nuclear matrix it's usually the one of the ways I see it, is is because the nucleus is so dense and under so much pressure basically that in between the chromosomes I want you to think of that spaces canals.
+19:26
+Andrew Ippolito: Okay, so I want you to start seeing a nucleus in your head, if you close your eyes and imagine this you have these three dimensional blobs of chromosomes in between now Okay, so if I was to doodle it.
+19:37
+Andrew Ippolito: In between them, the space here think of those like canals like Venice and those canals are filled with protein and RNA moving.
+19:50
+Andrew Ippolito: Okay there's two types of traffic there's traffic coming and going.
+19:55
+Andrew Ippolito: Okay, so there, think of the nucleus is a busy metropolis and there's this constant movement of things coming in and out of it 24 seven it's like New York City that never sleeps.
+20:08
+Andrew Ippolito: Okay.
+20:10
+Andrew Ippolito: So.
+20:13
+Andrew Ippolito: Beyond this, you don't have to worry about it, this is all hypothetical stuff now, but this is one of the areas that's most exciting to me and research, because understanding nucleus helps us understand almost everything.
+20:24
+Andrew Ippolito: So there are these things that we sometimes called tad's top illogically associated domain that are basically huge regions of genomic DNA.
+20:33
+Andrew Ippolito: That act kind of like islands with each other, so the idea here is, we have a higher order of organization well beyond the nuclear zone well beyond even the comment and territory.
+20:48
+Andrew Ippolito: Okay, and we're still not still not really understanding this stuff, but we do notice that in some diseases we noticed that this kind of interaction is disrupt.
+20:59
+Andrew Ippolito: So this level and beyond, is still a topic of debate in the current like this is current level of research that people are so, if you like this stuff this would be going to molecular biology and going to nuclear architecture.
+21:12
+Andrew Ippolito: And there's there's several groups of the country that study nuclear architecture ones in cold spring national harbor cold spring cold spring national cold spring harbor cold spring harbor national lab up in long island.
+21:26
+Okay.
+21:28
+Andrew Ippolito: And i'm going to skip all the rest of this stuff but.
+21:32
+Andrew Ippolito: there's your fresh oh glob you will each each chromosome get some color and you can see the pretty picture there that's pretty pretty amazing stuff.
+21:40
+Okay.
+21:42
+Andrew Ippolito: And if you're not sure what a fractal is a fractals a mathematical thing fractals are repeat their scale free geometry.
+21:52
+Andrew Ippolito: If you go to Google earth and you look at the coastline on the east coast and it looks you know, like this.
+22:00
+Andrew Ippolito: And then you zoom in tenfold it still looks like that US human tenfold and it still looks like that and keep doing that.
+22:07
+Andrew Ippolito: that's what a fractal is that's the concept of a fractal and the most famous one is called the mandelbrot fractal that's what this picture is up here.
+22:13
+Andrew Ippolito: So if you go to YouTube and you type, let me see if I can spell this right, I probably can't it's a man it'll rot I think that's a spell it if you type mandelbrot fraction fractal and there's some really amazing animations on it.
+22:29
+Andrew Ippolito: that's that.
+22:32
+Andrew Ippolito: I taught you this earlier i'm going to say it again there's two types of chromatin within the nucleus.
+22:37
+Andrew Ippolito: Okay, this is all these are pictures, I took to from from my own research days, this is that the staining the a P, I.
+22:45
+Andrew Ippolito: it's a blue fluorescent molecule that integrates into the double stranded DNA, so if it can't get access to the DNA you don't see it, so you see this dark region here, that would be the.
+22:59
+Andrew Ippolito: You tell me what would that be, and then what's in the nucleus what's a big ball chromosome with chromatin and the nucleus.
+23:07
+Andrew Ippolito: What what Oregon hell is that.
+23:12
+Alexa Deprisco: Usually always good.
+23:14
+Alexa Deprisco: To new Clio this.
+23:16
+Andrew Ippolito: This is the birthplace of rob isms okay you notice a couple regions over here, these are these are you 373 counts, these are cancer cells.
+23:24
+Andrew Ippolito: These are glioblastoma cells that's why they look so disturb notice the nucleus has this really funky shape to it.
+23:30
+Andrew Ippolito: You see, the weird shapes of these nuclei that's one of the dead giveaways or cancer cells healthy cells never looked like that hamp healthy cells always have been nice shape like that.
+23:40
+Andrew Ippolito: Okay, like.
+23:43
+Andrew Ippolito: That even that's not even that's that's.
+23:46
+Andrew Ippolito: It more like that.
+23:50
+Andrew Ippolito: This is.
+23:53
+Andrew Ippolito: Sorry, it was at the end of the PowerPoint.
+24:05
+Andrew Ippolito: So.
+24:18
+on it.
+25:15
+Andrew Ippolito: yeah that's.
+25:18
+True drives me NUTS okay.
+25:21
+where's the picture.
+25:32
+Andrew Ippolito: no idea why these very first time.
+25:41
+Andrew Ippolito: You printed this out, I need you to make this type of fix.
+25:48
+Andrew Ippolito: Alright, so.
+25:50
+Andrew Ippolito: When you look at the slide the brights theme is bright.
+25:56
+Andrew Ippolito: Because the DMA is open and can get access to this thing that's why it's bright, so the bright areas are you commenting down here okay.
+26:20
+Andrew Ippolito: All I really need to do is change breaking not the words themselves there we go.
+26:26
+Andrew Ippolito: Sorry last last update to that.
+26:31
+Okay.
+26:32
+Andrew Ippolito: The chrome kitchen there the bright areas, not the dim areas it's less compact it's more open alright, so what you associate you chromatin with.
+26:45
+Andrew Ippolito: Open positive you know it's the good areas it's the areas that are right at the active areas.
+26:55
+Andrew Ippolito: Okay, in contrast, the dim areas, the dark areas are the areas of the header on chrome and that's where the DNA is tightly coiled up to the point where the sting can get to it.
+27:08
+Andrew Ippolito: Okay, and you can see just from looking at these pictures just if you just look at these pictures here, you can see that the nucleus itself is a very complicated place right the DNA.
+27:19
+Andrew Ippolito: has a very higher order complex structure but, at the end of it all the simplest way you can chunk it all out is by saying there's dark and light areas okay there's closed areas are open.
+27:31
+Andrew Ippolito: Now, just because it's open doesn't mean the genes are active, it means that the genes can be active, so this would be like taking your toolbox from your garage pulling it out, putting it up on your tool bench opening up and just leaving it there.
+27:49
+Andrew Ippolito: We can use it when we need it right, if you can pull the hammer out with you, whereas if it's if it's packed up and stored away you're not using it okay so just because.
+27:59
+Andrew Ippolito: The chromosomes open doesn't necessarily mean all the genes on that chromosome are turned on.
+28:06
+Andrew Ippolito: That makes sense.
+28:10
+Andrew Ippolito: Now, yes.
+28:13
+Andrew Ippolito: Am I losing you guys.
+28:17
+Jordan Russell: know I understand.
+28:19
+Okay.
+28:21
+Andrew Ippolito: All right, and so this you study this slide right here, this would be a good one, as a good summary for gene or for chromosome.
+28:31
+Andrew Ippolito: organization.
+28:33
+Andrew Ippolito: Okay, and so i'm going to stop this recording i'm going to pass this away, this is the end of DNA structure function and.
+28:40
+we're going to do gene regulation hours reading season yeah glad.
+28:45
+Alexa Deprisco: I was part of the DNA packaging section on your study guide, you said.
+28:51
+Alexa Deprisco: You talked about epigenetics and genomic and printing as well as DNA methylation What should we know about those guys.
+28:58
+Andrew Ippolito: So i'll talk about that and gene expression engine regulation yeah.
+29:03
+Andrew Ippolito: Alright, so i'm going to stop this recording so you guys Have a nice.
+29:08
+tie off here.

@@ -1,0 +1,988 @@
+0:01
+Andrew Ippolito: This is a very brief lecture on the I have no idea what i'm drawing here this very brief lecture on redux notice I capitalized that's because it's not a it's not a real word Okay, so this is a breakdown between two things must color code all this there's reduction.
+0:22
+Andrew Ippolito: And oxidation.
+0:28
+Andrew Ippolito: there's so many reasons why this is hard for students to grip in their heads.
+0:33
+Andrew Ippolito: there's so many reasons, the first is this just the names themselves the words themselves are not intuitive words and they don't mean opposite thing they are opposite things, but the words themselves aren't opposites like positive and negative.
+0:45
+Andrew Ippolito: right we call it reduction for one reason we call it oxidation for a completely different reason it's not intuitive Okay, so I want to give you.
+0:53
+Andrew Ippolito: i'm going to give you these concepts without using these words to first start with okay so forget the English, the English word count against us right now, forget all that Okay, we got this molecule.
+1:06
+Andrew Ippolito: let's just use a neutral color here, we got this let's make it thicker we have this molecule let's call it a.
+1:14
+Andrew Ippolito: And a. Andrew Ippolito: A has some.
+1:20
+Andrew Ippolito: electrons hanging around on it it's got some bonds doesn't matter what's going on okay don't worry about the molecular structure just understand the fact that there's an electron President of course there's an electron present they're everywhere right everything's at electrons.
+1:38
+Andrew Ippolito: And remember that electrons. Andrew Ippolito: electrons absorb energy.
+1:46
+Andrew Ippolito: Right, so that that electron can enter into a higher state right that electron can can get.
+1:53
+Andrew Ippolito: High in energy you think of like getting hot a little bit. Andrew Ippolito: So I want you to realize that there's two kinds of electrons right there's there's hot electrons and there's called the electrons so here let's use.
+2:06
+Andrew Ippolito: let's use a different color here let's make this green or red like it's hot.
+2:12
+Andrew Ippolito: Some, like it hot some like a cold some like it in the pot nine days there you go okay so let's say like this electron last energy.
+2:27
+we'll see gain energy. Andrew Ippolito: Right, so this is basically this is you go on the sun and you feel something and and you can imagine the energy being absorbed.
+2:40
+Andrew Ippolito: By an electron OK. Andrew Ippolito: So the point of this is there are different kinds of electrons and what i'm about to teach you is it's independent of if the electrons hot or cold.
+2:50
+Andrew Ippolito: Okay, so there's some other molecule hanging around let's call that molecule be.
+2:56
+Andrew Ippolito: A molecule be is angry, because he doesn't have he's got a strong like this he's got like.
+3:06
+Andrew Ippolito: he's got a wound that can only be filled by an electron.
+3:12
+Andrew Ippolito: Okay, and so what's going to happen is an electron is going to get transferred to go for a ride.
+3:21
+Andrew Ippolito: let's get the positive and be so in this point here, you could say that you can see that be gained an electron.
+3:33
+Andrew Ippolito: OK, now the electron that again was was the hot one right. Andrew Ippolito: You see how that's that's a red ones you, you could also say that be gained some energy.
+3:45
+Andrew Ippolito: might be gained some energy.
+3:52
+Andrew Ippolito: In biology. Andrew Ippolito: This is how energy in the cell.
+3:59
+Andrew Ippolito: Always is transferred. Andrew Ippolito: In the chemistry through electrons bopping around.
+4:07
+Andrew Ippolito: Okay, so we go from we take a high energy electron from a and we hand it to be so now be we can literally do this watch I can just take him and I put them over here now that didn't work, let me try that again.
+4:26
+Andrew Ippolito: This really doesn't like. Andrew Ippolito: Come on mouse thing there we go there, I just took it over there, so you so any lost it right.
+4:38
+Andrew Ippolito: A lost be gained.
+4:44
+Andrew Ippolito: You have to see the story from both perspectives, you have to see this story from his perspective, a lost the electron.
+4:52
+Andrew Ippolito: And then you have to see this story from beast perspective be gained an electron. Andrew Ippolito: Okay.
+4:59
+Andrew Ippolito: one's losses and others game, and that is always true there's always a winner and always a loser, this is a zero sum game.
+5:07
+Andrew Ippolito: Okay, this idea of redux that's why we called redux Okay, we will get there, almost we're almost there Okay, so what I want you to do is think about the charge now what happened to as charge.
+5:18
+Andrew Ippolito: So we say a lost and electronic right. Andrew Ippolito: And we'd say that be gained an electron.
+5:27
+Andrew Ippolito: Okay, so what happened to ace charge is charge what.
+5:33
+Andrew Ippolito: Did he go up or down. Andrew Ippolito: What did it lose.
+5:41
+Andrew Ippolito: what's the what's the charge of an electron. Andrew Ippolito: Negative so it lost the negative So what does that mean to its.
+5:47
+Angela Harbeck: charge oh wait no. Andrew Ippolito: No that's okay and that's why I asked this question though it's deceptively simple right it's a double negative.
+5:56
+Andrew Ippolito: I lost a negative, which means I gained a pot I didn't gain a positive but but I net might my net charge went up.
+6:06
+Andrew Ippolito: Right. Andrew Ippolito: As charged up as charge went up right plus one.
+6:17
+Andrew Ippolito: And so, these charge went down one. might as well.
+6:24
+Andrew Ippolito: Okay, so so ready, we could say that bs charged got reduced.
+6:31
+Andrew Ippolito: Right. Andrew Ippolito: Be beast charge went down being charged got reduced so the the gain of an electron is associated with a reduced charge right so we're going to call it again and electron reduction.
+6:46
+Andrew Ippolito: Okay, so that's the concept reduction is the gain of an electron. Andrew Ippolito: see this as a positive thing, even though this is a negative thing.
+6:58
+Andrew Ippolito: Okay, this is good, we just got some energy that's the general idea, the general idea is the electron that we get is generally higher in energy than the one that we didn't have before.
+7:10
+Andrew Ippolito: it's not always the case, but in general the electron we're getting is the one that's higher energy.
+7:16
+Andrew Ippolito: Okay, so that's that's how we have passed the hot potato one.
+7:21
+Andrew Ippolito: Okay, so so now, you can imagine, this that photosynthesis works, you can understand the basics now so there's something that's happening inside the leaf where.
+7:28
+Andrew Ippolito: The sun shining down and there's some molecule that's absorbing that energy and then it's taking that absorbed energy in the form of electrons and it's passing it down hill.
+7:40
+Andrew Ippolito: Okay, so it's reducing stuff you see how he said that i'm reducing stuff so you would say that a.
+7:47
+Andrew Ippolito: Is a reduction. Andrew Ippolito: You would say a is a re ducting.
+7:54
+Andrew Ippolito: You would say a is reducing be.
+8:01
+Andrew Ippolito: Okay, we are telling the story from beast perspective. Andrew Ippolito: hey I just got an electron i'm happy I just got reduced hey he's the guy he just reduced me thanks a you reduction you.
+8:18
+Andrew Ippolito: write this all makes sense, so far it's easy okay now so let's tell a story from the villains perspective now so a is a victim he's really upset that I just got its electron stolen from it.
+8:32
+Andrew Ippolito: I didn't give my electron to be he stole it he's a thief.
+8:39
+Andrew Ippolito: The problem is everybody's walking around town saying that be really loves electrons where we heard that before.
+8:50
+Andrew Ippolito: What am I what am I ingrained in your brain who loves electrons.
+8:58
+Angela Harbeck: isn't an oxygen. Andrew Ippolito: Yes. Angela Harbeck: That is exactly right. Andrew Ippolito: oxygen loves electrons that's why i've been telling you this all semester, because now it's going to pay off the loss of electrons.
+9:10
+Andrew Ippolito: Be that jerk stole a's electrons be oxidized day.
+9:17
+Andrew Ippolito: Okay oxidation is the loss of an electron.
+9:23
+Andrew Ippolito: So you would say that. Andrew Ippolito: You would say that a.
+9:29
+Andrew Ippolito: got oxidized.
+9:37
+Andrew Ippolito: Okay. Andrew Ippolito: Be. Andrew Ippolito: oxidized a.
+9:46
+Andrew Ippolito: B is an accident.
+9:53
+Andrew Ippolito: Okay. Andrew Ippolito: So in real life when we have somebody stealing something from somebody else that's different than somebody giving something on their own accord great.
+10:10
+Andrew Ippolito: that's like the bully coming home from school and saying to his mom hey mom look with joey gave me today and joey coming home from school and saying billy stole my pokemon book.
+10:25
+Andrew Ippolito: Right joey got it stolen from him he didn't give it to billy but billy's claiming that he got it.
+10:32
+Andrew Ippolito: Right in in in this world, nobody cares what you think because molecules don't have personalities.
+10:41
+Andrew Ippolito: Right. Andrew Ippolito: You either gave or it got stolen the endpoints the same right Joe Joe the endpoint of Joe is his name, he doesn't have his pokemon book anymore, whether he gave it away freely, or he got it stolen from him he doesn't have it anymore.
+10:58
+Andrew Ippolito: Okay. Andrew Ippolito: And so, one of the reasons why this is challenging is the same reason why delta G is challenging do you see now there's two sides to the story which 1am I supposed to be in the answer is always the same, the system.
+11:15
+Andrew Ippolito: The object under consideration is the important one Okay, but in this case there's two objects on your consideration.
+11:24
+Andrew Ippolito: You have to be thinking about both then. Andrew Ippolito: Okay, so what I would do is pick one doesn't matter, whichever way your brain works best pick one or the other oxidation reduction doesn't matter which Okay, and then just consider the story, whoever got it.
+11:41
+Andrew Ippolito: got reduced or, if you like, the other way of saying it whoever lost it got oxidized.
+11:46
+Andrew Ippolito: just pick one it's kind of like your left and your right, you know, most people would like the left side and they know that they're left is on this side so writes the other one.
+11:54
+Andrew Ippolito: that's how I do it every time I have to look at something like go left to right I just think I know left is on this side I just I can just say that on my head rights always the other one.
+12:04
+Andrew Ippolito: Right, maybe i'm crazy everybody's got their own way of doing left and right.
+12:09
+Andrew Ippolito: Okay, so whatever you do for left and right is now what you do for redux.
+12:15
+Andrew Ippolito: Okay. Andrew Ippolito: All right. Andrew Ippolito: So simply put.
+12:42
+Andrew Ippolito: There you go. Andrew Ippolito: And then you can also memorize.
+12:48
+Andrew Ippolito: Oil rake. Andrew Ippolito: oxidation.
+12:56
+Andrew Ippolito: Is loss. Andrew Ippolito: reduction.
+13:02
+Andrew Ippolito: Is gain reduction is game that's something something from 1984.
+13:10
+Andrew Ippolito: pieces war.
+13:15
+Andrew Ippolito: or not war is peace I forgot how they put in.
+13:21
+Andrew Ippolito: Big brother's watching you.
+13:28
+Andrew Ippolito: OK, so now that you understood right raise your hand if you understand that.
+13:33
+Andrew Ippolito: Good because now, now we can think about we can plug this in to.
+13:41
+Andrew Ippolito: let's give an overview of both chapter nine in Chapter 10 okay so here's here's the cartoony version of it here's the sun.
+13:53
+Andrew Ippolito: Okay, and what the sun does. Andrew Ippolito: Is it rains down the series of photons.
+14:03
+Andrew Ippolito: And photons come in different wavelengths.
+14:11
+Andrew Ippolito: delta wave links that are on different chain change with different wavelengths right, so we got we got long wavelengths.
+14:21
+Andrew Ippolito: Okay, and we associate long wavelengths with red light.
+14:30
+Andrew Ippolito: We have. Andrew Ippolito: shorter wavelengths.
+14:37
+Andrew Ippolito: Until we get. Andrew Ippolito: Pretty tight.
+14:43
+Andrew Ippolito: Okay, and to the point where we get to blue.
+14:49
+Andrew Ippolito: And if you think about this conceptually, this is the electromagnetic spectrum.
+15:05
+Andrew Ippolito: And what we're doing here is we're looking at a very narrow range of wavelengths on the order of about me see if I can do this about.
+15:15
+Andrew Ippolito: I want to say 300 nanometers ish about 300 nanometers to i'm sorry other way around, other way around, these are, these are the about 300 nanometers.
+15:31
+Andrew Ippolito: So that's what we're measuring it from peak to peak. Andrew Ippolito: Okay, so we're on the order of hundreds of nanometers about 700 nanometers.
+15:42
+Andrew Ippolito: For red and again, these are ballparks I don't have them I should have these numbers in my head I just don't okay so from here to here.
+15:53
+Andrew Ippolito: Okay, so that's the visible spectrum we call this, this is the visible spectrum.
+16:03
+Andrew Ippolito: Okay, understand that there's. Andrew Ippolito: A very, very I mean there's a near infinite spectrum here it's math so if this is on the access, this is a these are let's see these are hot thousands of meters.
+16:18
+Andrew Ippolito: 1000 meter wavelength okay it's like radio waves.
+16:23
+Andrew Ippolito: Right, so a radio wave and blue light are made out of the same thing just different wavelength.
+16:29
+Andrew Ippolito: Okay, so you got radio waves on one side, then all the way here, on the other, where you're down to microns you have gamma rays.
+16:41
+Andrew Ippolito: Okay, those are the things that are shooting out that's cosmic radiation. Andrew Ippolito: out in space it's deadly.
+16:50
+Andrew Ippolito: Before gamma rays, you have your X rays, which are also deadly at high doses.
+16:57
+Andrew Ippolito: And then you have your UV light which is dangerous if you stand outside too much.
+17:03
+Andrew Ippolito: Right and then you have your your visible spectrum.
+17:08
+Andrew Ippolito: Then you have your. Andrew Ippolito: infrared.
+17:14
+Andrew Ippolito: which you feel as heat when you put your hands by a fire it feels hot Okay, those are photons to, and those are the only order of like centimeters.
+17:25
+Andrew Ippolito: Okay, and then you have microwaves, which is what we used to cook food. Andrew Ippolito: and your radio waves and I might have missed something in there, but those are those are the ones we come across it, you know everyday life, you get your radio you got your microwaves got your infrared.
+17:39
+Andrew Ippolito: You know we're all giving off heat we're all we're all emitting photons if you ever think if you've ever seen thermal imaging sensors.
+17:48
+Andrew Ippolito: Or the old movie predator right where you see people, you can see, you know the color scanning of people, you know the red if they're hot they're blue or cold.
+17:58
+Andrew Ippolito: it's black if there's no heat right what you're seeing, there is the differences in it's a gradient thing right, so the environments cold.
+18:08
+Andrew Ippolito: And you're hot you're going to be able to distinguish that you're going to be able to have contrast there right, and so a lot of the what, when we talk about.
+18:18
+Andrew Ippolito: cloaking devices and we talked about in the military, we talked about and miserable plans planes are invisible the radar right the idea there, it will.
+18:26
+Andrew Ippolito: Definitely that's radar is different than what i'm about so infrared so we have tanks that are invisible to infrared right and the key to, that is, they are the exact same temperatures are ambient temperature and so they can't distinguish them, and so they look like nothing.
+18:42
+Andrew Ippolito: Right, so if you want to be like think of Harry Potter is invisibility cloak imagine having a cloak.
+18:49
+Andrew Ippolito: or any covering that is automatically you know through some fancy sensor technology, the same exact temperature of the air around it.
+18:59
+Andrew Ippolito: Okay, so I said, even for it anyway. Andrew Ippolito: Okay, so let's let's step back now so that's that's the concept of the the infrared spectrum or i'm sorry the the electromagnetic spectrum sometimes you'll see that abbreviated as e m.
+19:15
+Andrew Ippolito: Okay electrode or the EMF electromagnetic force right photons to exert force, however, light like when however light it is.
+19:25
+Andrew Ippolito: Yes, like okay. Andrew Ippolito: a light touch that's what life gives you it's a light touch you're touched by like.
+19:37
+Andrew Ippolito: Okay. Andrew Ippolito: So here's here's the next cartoony step we got a leaf right.
+19:46
+Andrew Ippolito: I got this awesome little leaf in the plan.
+19:51
+Andrew Ippolito: And so the sunlight shines down. Andrew Ippolito: All the different colors hit the leaf, of course, right.
+19:59
+Andrew Ippolito: Why are leaves green. April Neeld: Because they can absorb green light, so they reflected.
+20:06
+Exactly good. Andrew Ippolito: Green i'm not going to write the word green and yellow that's just confusing the luck out.
+20:15
+Andrew Ippolito: there. Andrew Ippolito: Right green light is reflected.
+20:22
+Andrew Ippolito: Most of the other colors are absorbed. Andrew Ippolito: In so you can think now something got some electrons just went up and energy right remember remember that, if this is an atom remember that electrons can go from one Shell to another Shell right that's that idea of quantum leap right, we can go up.
+20:50
+Andrew Ippolito: electrons can go up and so that's what we're doing and and also remember from that idea that when electrons go up in energy they're unstable.
+21:00
+Andrew Ippolito: Okay, so, in other words, you can imagine, these electrons that we're dealing with here are so unstable they're getting so pumped full of energy they leave.
+21:10
+Andrew Ippolito: Okay, so whatever had them. Andrew Ippolito: just got what we just are oxidized.
+21:22
+Angela Harbeck: oxidized. Andrew Ippolito: Excellent you got it. Andrew Ippolito: Okay, so something in them, so if we really to zoom in here there's something that gain some energy.
+21:34
+Andrew Ippolito: gain photons right, and then the electrons got so pumped up they go away.
+21:42
+Andrew Ippolito: Okay, and so what we're going to watch here is we're going to basically bounced this electron downhill until it lands.
+21:51
+Andrew Ippolito: let's say boy it lands into some high energy molecule.
+22:07
+Andrew Ippolito: Okay, so so we took sunlight we pumped the photons into some chemical bonds which are electrons We then handed those electrons off downhill until they landed somewhere kind of stable.
+22:21
+Andrew Ippolito: Like glucose. Andrew Ippolito: So there's your there's your Annapolis, driven by the sun there's your producers okay so we're going uphill here we're going uphill by getting we're getting pushed up hill by the sun basically.
+22:41
+Andrew Ippolito: Okay, raise your hand this making sense. Andrew Ippolito: Questions okay Angela give me a question.
+22:49
+Angela Harbeck: So does that, like the molecule that the electron life does that die then.
+22:55
+Andrew Ippolito: that's a great question okay. Andrew Ippolito: So here watch this let's say that this is the molecule and adjust it has this like deepening wound in it right, the electron just left.
+23:04
+Andrew Ippolito: Right, so that that's a great question so like here, this is this is like a wound right, this is a very, very right, this is very positive, now, because just lost the electron right Okay, so it turns out what this thing is going to do, is it is going to find a replacement electron.
+23:23
+Andrew Ippolito: that's cold. Andrew Ippolito: Okay, and guess what guess where it gets this one from the most stable thing on earth well, one of the most stable things on earth.
+23:34
+Andrew Ippolito: Okay, in other words, this thing this blue little square that I just drew is such a powerful accident right, this is an oxygen now right because it's it's ripping electrons away from whatever from water in this case.
+23:47
+Andrew Ippolito: Okay, so think about that it's breaking water is ripping an electron from water.
+23:54
+Andrew Ippolito: we're burning water. Andrew Ippolito: And if you think about that, like what do we usually use water to do we put fires out with water, and here we are lighting water on fire, this is by far the most powerful oxygen on the planet.
+24:08
+Andrew Ippolito: And in biology I don't know if there's a super oxygenated chemistry, but. Andrew Ippolito: we're going to learn about this later on i'm giving you I don't want to use any words, I just want to give you the concepts okay so yeah so the plan grabs a bunch of photons.
+24:21
+Andrew Ippolito: It pumps those photons and just some some electrons those electrons get passed down Hill and what's left and it's week is this gaping hole that has to get filled, and so it finds a cooled off electron.
+24:32
+Andrew Ippolito: Right so remember this goes back to that idea that not all the electrons that you get are necessarily high in energy Okay, and so the idea here is, you can imagine, in this case, this electron from water is a cold electron.
+24:49
+Andrew Ippolito: Okay, the electron that left is a hot electron.
+24:55
+Andrew Ippolito: Okay, so So the idea here this blue square thing gets us electron water.
+25:01
+Andrew Ippolito: And then it pumps that cold electron full with sunlight until gets hot and when it gets hot enough, it leaves and then, as long as waters present it's going to grab some more that's part of the reason why we need to water plants.
+25:17
+Andrew Ippolito: Okay, this is why we need water and now there's a lot of leads me to water right we remember us Moses, and the central vacuum and keeping plants all happy, but this is the other reason why water is essential for photosynthesis because water serves as an electron source.
+25:33
+Andrew Ippolito: That we're then going to use to forge sugar. Andrew Ippolito: So this is our pig iron.
+25:40
+Andrew Ippolito: That we're going to mind from the earth and we're going to forge instead of swords we're going to forge glucose.
+25:49
+Andrew Ippolito: that's kind of allied to it's not really glucose but we'll get to that.
+25:55
+Andrew Ippolito: Okay, so any other questions up to this point.
+26:01
+alexa you look very confused. Alexa Deprisco: So is this all relating back to like what does sounds so stupid, but like why, like the plan is green.
+26:13
+Andrew Ippolito: No that's not a stupid question that's a great question everybody wonders that question they look at plants, they start learning this stuff like, why are plan screen, so it turns out.
+26:21
+Andrew Ippolito: there's only a subset of electromagnetic energy that those two is that this blue box i'm talking here, like the one that's absorbing the light.
+26:28
+Andrew Ippolito: Okay here i'll tell you what let's start giving you words now there's this thing in the cell there's this thing in the chloroplasts called of photos oh boy i'm writing in highlighter that's terrible there's there are these things, called photo systems.
+26:42
+Andrew Ippolito: Okay, a photo system is a complex.
+26:48
+Andrew Ippolito: made out of things like proteins and organic molecules just it's a complex that absorbs like.
+27:01
+Andrew Ippolito: Okay, and they don't just absorb any light. Andrew Ippolito: They actually will learn about something called.
+27:10
+Andrew Ippolito: An absorption spectrum. Andrew Ippolito: Right so here let's let's give you an example, one so here watch this.
+27:17
+Andrew Ippolito: If I shown light so here here's wavelength.
+27:25
+Andrew Ippolito: And here's absorbent let's abbreviate that ABS that's absorbent how much of the of that wavelength is being absorbed by the system so right let's just as a control, just as an example here.
+27:36
+Andrew Ippolito: Okay, what this tells us is that, whatever the substances that i'm just making up here this wavelength is maximally absorbed whereas this wavelength over here is not absorbed at all.
+27:52
+Andrew Ippolito: Okay, so you can read that now, you get that idea Okay, so if we look at.
+28:01
+Andrew Ippolito: The substance that absorbs light, so you can now understand that as a pigment you've heard that word your whole life now you know what it means a pigment is a molecule that selectively absorbs some wavelength of light.
+28:15
+Andrew Ippolito: that's whether colored. Andrew Ippolito: Okay, and so the most common pigment that we're going to deal with is chlorophyll which you've also heard about i'm sure before.
+28:29
+Andrew Ippolito: Okay, and it turns out there's two chlorophyll there's chlorophyll a in chlorophyll be.
+28:35
+Andrew Ippolito: None of that usually use a MB not alpha it's like they usually I italicize these it's not Alpha and beta it's A and B so chlorophyll a is the most abundant a for a button and then there's be.
+28:48
+Andrew Ippolito: Okay, so if I look at the absorption spectrum for chlorophyll a it turns out, it does something like this.
+28:59
+Andrew Ippolito: And, and this spectrum here is all visible light, this is Roy g.
+29:10
+Andrew Ippolito: I mean it's not necessarily in that. heroes track.
+29:20
+Andrew Ippolito: Smart like that. there's g.
+29:26
+Andrew Ippolito: Roy G bb. Andrew Ippolito: where's G and their core is green.
+29:35
+Andrew Ippolito: And that's why plants repeat. Andrew Ippolito: chlorophyll a does not absorb any so look at the other colors are hanging out there to think of the colors of fall.
+29:47
+Andrew Ippolito: there's oranges and yellows Okay, the colors that plants need most well think about a greenhouse think about the color of the light in a greenhouse what color is it what does it look like.
+29:59
+Andrew Ippolito: You ever seen a light bulb that is specific for plant growth.
+30:06
+Andrew Ippolito: Like a UV light it looks like a UV light right and we can't see your view, of course.
+30:12
+Andrew Ippolito: Right, so the other one we have so UV lights emit UV but then there's also a bleeds into the spectrum, you can see right that's why we can see it.
+30:20
+Andrew Ippolito: And so, those are high high energy right, I mean UV is very high energy so that's the blues that like electric blue color that, like the really, really intense blue light that's the favorite color of plants that's the color that keeps them going.
+30:38
+Andrew Ippolito: Okay. Andrew Ippolito: that's this little peek right here.
+30:44
+Andrew Ippolito: And then the rest of this. Andrew Ippolito: Is the other side of it. Andrew Ippolito: that's the reds the oranges so i've actually thought a lot about this like Why is this the spectrum.
+30:55
+Andrew Ippolito: Right and so here's what i've come up with I don't know if this is right. Andrew Ippolito: But you know plants evolved on earth was so so we know the reason why they absorb visible light and not like gamma rays, is because that's the energy that makes it to the surface of the earth.
+31:11
+Andrew Ippolito: Right, if you think about it, this is the surface of the earth now see this is the atmosphere.
+31:17
+Andrew Ippolito: Okay, when the sunlight shines down only some subset of that energy makes it all the way to the surface, where the plants are and that happens to be what we call the visible spectrum that's why we see it, because we have both here too.
+31:32
+Andrew Ippolito: Okay, we don't see any of those wavelengths that they'll make it here we can't see gamma rays, we can't see X rays.
+31:40
+Andrew Ippolito: We can make them in the lab but they're invisible to us. Andrew Ippolito: Okay, our eyes evolved to see the most useful colors for us to hunt and to avoid predation and whatever it's all it's all you can see everything now through the eyes of evolution.
+31:57
+Andrew Ippolito: no pun intended there, you can see everything through the eyes of evolution and it all makes sense it all fits into place.
+32:06
+Andrew Ippolito: So, think about when the sun first comes up in the morning. Andrew Ippolito: What color is the light.
+32:16
+Andrew Ippolito: Beautiful morning, or when the sun's going away at night, what what color is the light. April Neeld: orange red.
+32:23
+Andrew Ippolito: And there's that. Andrew Ippolito: Okay, so that's why I think you know, the second person comes up it's cool alright so here's here's my follow up question why aren't leaves black.
+32:38
+Andrew Ippolito: When why don't we just catch all the light and make as much energy or put as much energy into molecules we can why can't we use black why aren't leaves black.
+32:48
+Victoria Bloemker: wouldn't they like dying. Victoria Bloemker: Because they get too much sun. Andrew Ippolito: awesome That is exactly right tori you've got an you just jump right to that answer to that was great okay you're thinking exactly where you need to be yeah they get too hot.
+33:02
+Andrew Ippolito: Right, and so the question is is where's the sweet spot we have competitors, we have other photo synthesizers that are taking our son.
+33:10
+Andrew Ippolito: Right so there's competition there, it turns out this spectrum is the best spectrum it's the most bang for the buck it's the most energy without getting too hot to do nature enzymes and.
+33:22
+Andrew Ippolito: Okay, and so the red lights in the morning and then, then what color so once the sun sets here's another little fun thing and and some of this stuff I borrow from my photography work, so you guys might not.
+33:33
+Andrew Ippolito: This is definitely not biology, but here I can teach you this so here's the earth Okay, and I want you to think about the sun.
+33:42
+Andrew Ippolito: Slowly going down. Andrew Ippolito: Okay, think about it so so here ready when the sun's out here let's I like this, I can animate this I can teach you about why the colors are the way they are here's the sun i'm sorry here's the earth.
+33:58
+Andrew Ippolito: here's the earth here's the sun. Andrew Ippolito: Okay, so watch this High Noon okay at High Noon when all the lights coming directly down it's traveling across that atmosphere in the shortest distance is that that's the shortest path to the surface Okay, we perceive this as white light.
+34:18
+Andrew Ippolito: Okay that's white to our pure white light go outside on a cloudless day in the middle of during the summer so noon on the summer solstice that says, you know or go walk to the equator.
+34:33
+Andrew Ippolito: And look at High Noon Okay, wherever it is you, the idea, there is that's exactly the shortest path the sun's.
+34:41
+Andrew Ippolito: Light can take that's why. Andrew Ippolito: Okay, so white light is all the colors at the same time.
+34:49
+Andrew Ippolito: Okay. Andrew Ippolito: OK, and now, if I take the sun and I start setting Okay, when I get low in the sky, you can imagine the distance that the light has to travel is now longer it's got to travel through more atmosphere and let me actually draw that so it makes them more.
+35:10
+Andrew Ippolito: Okay, so here's here's the earth and let's exaggerate this here's the atmosphere.
+35:15
+Andrew Ippolito: Okay, so here's the path that light takes at high noon.
+35:22
+Andrew Ippolito: And then, if the sun's going down at sunset the light has to travel.
+35:28
+Andrew Ippolito: Well let's see you're here so here's you observing it so it's got to travel look at how much longer that distances.
+35:35
+Andrew Ippolito: right here, this is X and that's why look at how much bigger Why is okay, and so our atmosphere absorbs light.
+35:44
+Andrew Ippolito: And the more atmosphere that light has to cut through the more absorption is going to happen, and the only light that gets to your surface at this point is the reds red light travels the furthest.
+35:55
+Andrew Ippolito: Okay, and so, when the sun's called they call it the golden hour for a reason, when the sun is about an hour away from setting that's when the world looks beautiful.
+36:08
+Andrew Ippolito: Right that's when we want to do our photography we got the beautiful shadows and the contrasts, and the reason why it's beautiful to us is because it only last it's a transient light.
+36:19
+Andrew Ippolito: there's that word again Okay, are we humans our brains we like novelty we like scarcity, we like things that are unusual that's what interests us.
+36:30
+Andrew Ippolito: Okay, and that's why we love sunsets and sunrises because we only see those for brief moments in the day.
+36:36
+Andrew Ippolito: The rest of it is boring the sun's out there right unless you have those epic clouds or a storm, those are rare things to write but everyday common stuff boring.
+36:46
+Andrew Ippolito: We don't take pictures at High Noon without clouds right we wait for the class that come in on some items we weeks in one spot looking at the same damn mountains waiting for the moment for him to take that picture that's why these pictures are also good, he had time to kill.
+37:03
+Andrew Ippolito: You can stare at the same mountain range for two weeks, at a time. Andrew Ippolito: And then that one moment on Tuesday at seven o'clock Bam that's where he got his picture.
+37:12
+Andrew Ippolito: Now watch this when the sun goes down all the way this is where things get interesting. Andrew Ippolito: Okay, when the sun sets what color is everything now.
+37:22
+Andrew Ippolito: it's dark before that so let's talk dusk.
+37:29
+Andrew Ippolito: Like behind me. April Neeld: Your background. Andrew Ippolito: yeah look at my background, so you can see here the sun has already.
+37:35
+Andrew Ippolito: Set Okay, so this is all orange. Andrew Ippolito: What colors everything down here.
+37:43
+April Neeld: dark purple blue. Andrew Ippolito: yeah blues Okay, we call it the blue our everything has a tinge of blue to it's cool it's cool it's cool like okay and, by the way, that that absorption spectrum so here's my idea you got that little bump it so here's sun sunrise sunset and here's that blue our.
+38:06
+Andrew Ippolito: Okay, this the the leaves are absorbing as much of that as possible because it's cool and that energy that's the high energy remember we told you that blue light has a higher energy in it here's why it's blue though ready here's The reason for that the sun, the sunlight is bouncing.
+38:24
+Andrew Ippolito: into the atmosphere and scattering down on to you. Andrew Ippolito: And the only light that can do it as the blue light that's why the sky is blue it's the same reason, the sky is blue Okay, so all the reds are gone.
+38:36
+Andrew Ippolito: The sunset you're not getting any direct sun anymore, the only light you're getting is indirect that's being bounced from the sky down to you and that's why it's blue.
+38:47
+Andrew Ippolito: Okay now here's the last cool thing i'll teach you here, and that is if you're walking at night you're walking at dusk and you're in the woods, or you see a lot of green vegetation.
+38:58
+Andrew Ippolito: Okay does anybody hear. Andrew Ippolito: It is, I want you, if you have a fresh.
+39:04
+Andrew Ippolito: memory of this walking a dusk in the green.
+39:11
+Andrew Ippolito: What are you what is it seemed like at that point. Andrew Ippolito: What kind of emotions do we feel and what do we look around, what is it like.
+39:22
+Andrew Ippolito: walking in the walking in the forest at dusk what kind of feeling do you usually get.
+39:28
+April Neeld: I feel like serenity and it's peaceful and calm. Andrew Ippolito: Okay okay.
+39:35
+Andrew Ippolito: that's not what I was going for but I suppose I would feel that too. Andrew Ippolito: or how's that you.
+39:41
+Andrew Ippolito: Know off sad yeah okay somber I always thinking it's a little creepy.
+39:48
+Andrew Ippolito: Okay, so here's why here's here's why some people feel that the shadows, are a little darker than they should be.
+39:56
+Andrew Ippolito: And the reason for that is the green leaves are absorbing the blue light more than normal they're like sponges for blue light and so they're going to look almost black.
+40:08
+Andrew Ippolito: Even though, you can see your light your clothing, the stones the dirt the sky it's all pretty bright compared to the sinister trees.
+40:20
+Andrew Ippolito: And that's because they're absorbing more of the light than normal and so they're just a little darker than they seem than they should be okay, if you take if you shut off all the lights in your room and you turn on a blue light and you look at a plant, it will look almost black.
+40:36
+Andrew Ippolito: Because that's the color they're absorbing. Andrew Ippolito: that's their favorite color right remember black, if you look at anything that's black.
+40:45
+Andrew Ippolito: that's I absorb all the colors so black isn't a color black is the absence of color Okay, so any material, I mean think about your phone think.
+40:56
+Andrew Ippolito: Think about anything is black the rooms of my glasses okay black means it's any light that is hitting it is being sucked in and staying there that's why hot that's why black cars get hot in the summer right.
+41:09
+Andrew Ippolito: And then white is the opposite white is I don't want any of it i'm just reflecting all of it.
+41:14
+Andrew Ippolito: Okay, and so, anything that is colored is somewhere in between.
+41:20
+Andrew Ippolito: Okay, so if I have a color like here here's some paint brush step blue The reason this is blue is because it is absorbing what.
+41:35
+Andrew Ippolito: This really weird as apparently it's it's being picked up by my background let's use a different color let's use our.
+41:46
+Andrew Ippolito: Here we go, why is this orange.
+41:53
+Alexa Deprisco: Is it because orange is the only color that it's not like absorbing good.
+42:00
+Andrew Ippolito: Excellent Okay, the color you see is a color with rejecting I don't want it, you can have it in your I guess instead.
+42:10
+Andrew Ippolito: Okay. Andrew Ippolito: So you have you now have the basis to understand photosynthesis.
+42:16
+April Neeld: This one is like blue colors are really rare and hard to me like when paint and acrylic paint I thought, like blue was a hard color to find.
+42:25
+Andrew Ippolito: Blue blue so. Andrew Ippolito: We didn't even.
+42:32
+Andrew Ippolito: Blue is one of. Andrew Ippolito: The last day but we didn't even have a word for it and early civilization the Greeks didn't have a word, for there is, you can see, the word blue in Greek.
+42:42
+Andrew Ippolito: It doesn't exist if you read the original oedipus or Odysseus the original Greek stuff they described the sea, a stormy sea as wine colored.
+42:54
+Andrew Ippolito: which were like wine colored right, and so the idea is early people before they had written language and technology.
+43:05
+Andrew Ippolito: There were some things that they just weren't aware of it was like invisible to them the color of the sky was one of those things.
+43:12
+Andrew Ippolito: Like what's the color of the sky it's it's the sky there's no color is just the sky, because there was not much blue in nature, I mean we know bluebirds right there's there are blues in nature they're kind of rare that.
+43:25
+Andrew Ippolito: Okay um but part of the reason is is blue is a high frequency of light blue is high energy, and so you so we understand thermodynamics now right high energy unstable card classes there's not a lot of blue molecules.
+43:39
+Andrew Ippolito: Okay, so that's that's at least that's my take on it i'm sure that there's something wrong in their words we're not absorbing the blue were reflecting the blue.
+43:47
+Andrew Ippolito: Maybe it's because it's useful life because it's high energy, and so there is no we don't want to reflect it that's like here's some money i'll just throw that out.
+43:55
+Andrew Ippolito: Now i'm going to keep it. Okay. Andrew Ippolito: So chlorophyll a absorbs visible light what is a be also absorbs is of light that's a good question tori be be has a slightly different spectrum.
+44:09
+Andrew Ippolito: it's just shifted a little bit, and I have pictures of this in the PowerPoint will look at. Andrew Ippolito: Okay, so here, let me open up, we can now learn photosynthesis.
+44:35
+Andrew Ippolito: We are on week eight if you look at the unit to stuff.
+44:43
+Andrew Ippolito: like this PowerPoint, this is a fun one, this is one of those powerpoints I got to remake from the ground up one year and.
+44:51
+Andrew Ippolito: So you'll see it's it's got it's not just blank white slides with boring things in it, but you share my screen.
+45:01
+there. Andrew Ippolito: alright.
+45:06
+Andrew Ippolito: So I like to call this this how we trap the sun, we being life not humans right how life life trap the sun.
+45:18
+Andrew Ippolito: The first a photon checks into a hotel and is asked if he needs any help with his luggage.
+45:26
+Andrew Ippolito: No i'm traveling light.
+45:34
+Andrew Ippolito: to let that sink in for a second. Andrew Ippolito: Okay, you got that.
+45:40
+Andrew Ippolito: you're like yes, we got it the first time it wasn't funny. Andrew Ippolito: All right, and how about this one, why is the world doesn't revolve around me the arrogance of this son.
+45:52
+Andrew Ippolito: Right is it how about this one, this is. Andrew Ippolito: Sometimes I use big words I don't always fully understand and an effort to make myself sound more photosynthesis.
+46:08
+Andrew Ippolito: yeah right doctor I we're gonna can I go on here.
+46:14
+Andrew Ippolito: You guys need to break. Andrew Ippolito: let's take a 10 minute break and then we'll ask this question where listen what will ponder in 10.
+46:21
+Victoria Bloemker: minutes or the. Andrew Ippolito: 10 minute break. Victoria Bloemker: I have a quick question before a break. Victoria Bloemker: Okay, actually definition of photosynthesis.
+46:31
+Andrew Ippolito: Oh, I don't know i'm just making this up as I go now.
+46:38
+Andrew Ippolito: If you look at the word itself it's got two parts right.
+46:44
+Andrew Ippolito: So the idea is we're making things with like photo synthesis.
+46:54
+Andrew Ippolito: And really this year we're going to buy this, this is the light reactions, and this is the Calvin cycle.
+47:02
+Andrew Ippolito: So that's how we'll learn it yeah it's that's what so making things with like.
+47:07
+Victoria Bloemker: Thank you you're welcome. Andrew Ippolito: All right, let's take down hey siri started 10 minute timer.
+47:16
+Andrew Ippolito: All right, 10 minutes i'll see you guys in 10.
+57:27
+Andrew Ippolito: us a microscope here. I wanna see video.
+57:39
+Andrew Ippolito: His way of using to video, although I think he yeah there we go Okay, let me try this.
+57:45
+Andrew Ippolito: I want to go away for a second you're going to see the screen is going to be microscope.
+57:52
+Let me, let me stop the share for a second. Andrew Ippolito: They can see me Okay, this is just.
+58:03
+Andrew Ippolito: I want to see what I can say I just grabbed the leaf off of one of our plants.
+58:09
+Andrew Ippolito: hey. Is. Andrew Ippolito: This let's just switch back to but i'm not there anymore, I have no idea what's going on.
+58:20
+Andrew Ippolito: But we. Andrew Ippolito: are a this should be me and then this is the camera.
+58:30
+Andrew Ippolito: I wanted to see what the Green screen that's why oh my God so funny virtual background.
+58:39
+Andrew Ippolito: And the settings are. Okay, green screen off.
+58:47
+There we. Andrew Ippolito: Okay, that green there that's leaf.
+58:53
+Andrew Ippolito: let's see what we got here.
+58:59
+Andrew Ippolito: yeah. Andrew Ippolito: let's see if I can zoom further in.
+59:07
+Andrew Ippolito: Okay that's something, let me see make it brighter.
+59:13
+Andrew Ippolito: side, how many levels are there 1234 nothing 1234 okay surprise we're going to get.
+59:22
+Andrew Ippolito: I see if there's any kind of microscopic structures here. Andrew Ippolito: We change my view, so I can see myself.
+59:30
+Okay.
+59:37
+that's as good as it's going to get that's not very good. Andrew Ippolito: me try the other side, I was hoping to see some stalemates.
+59:45
+Andrew Ippolito: Now this sucks this is terrible Oh well, I really got to get a better microscope.
+59:56
+Some other way out here.
+1:00:01
+Andrew Ippolito: yeah that's pretty terrible right, I mean what can we see we can't see anything.
+1:00:09
+Andrew Ippolito: Part of it might be the the low resolution to zoom.
+1:00:16
+Andrew Ippolito: yeah alright nevermind sorry guys sorry to disappoint you.
+1:00:21
+back here. Andrew Ippolito: and change that's what the Green screen looks like that's terrible.
+1:00:28
+let's change that back to something more pleasant. Andrew Ippolito: that's way better.
+1:00:35
+All right. Andrew Ippolito: I think i'll use Africa that's where i'd rather be that's actually the this this plant here, this is where like oh Leah that oh it's a cream.
+1:00:50
+Andrew Ippolito: You could see the the shape of the leaf is similar to barely pluck it off of that.
+1:00:57
+See. Andrew Ippolito: I have a whole my head now.
+1:01:02
+Andrew Ippolito: wow that's Actually, I have a whole my head in my heart i'm sad okay i'm done.
+1:01:11
+Andrew Ippolito: let's go back to this idea what he's doing share screen.
+1:01:17
+Recording all this to that's insane.
+1:01:29
+Andrew Ippolito: let's make an animated gif of God try with a hole in his head.
+1:01:37
+Okay. Andrew Ippolito: Can you guys see.
+1:01:42
+Andrew Ippolito: You guys see. Andrew Ippolito: Okay.
+1:01:48
+Andrew Ippolito: where's my style is there, it is do it along this okay.
+1:01:55
+Andrew Ippolito: i'm going to kind of gloss over this this slide just just sets everything we already talked about this on a tree and a leaf, I actually know that we're not going to skip over this we're going to start talking about lingo so we got a tree.
+1:02:05
+Andrew Ippolito: We got a tree on earth and inside that leaf, there are these cells called mass of fuel cells for middle layer the mass of fuel cells have chloroplasts right you guys remember from our cell chapter, we learned about chloroplasts a little bit.
+1:02:21
+Andrew Ippolito: And within that chloroplasts are those stacks those grana. Andrew Ippolito: specify liquids, and so we're gonna be talking we're going to focusing most of our story today on if this is a thigh liquid.
+1:02:35
+Andrew Ippolito: liquid itself has a membrane in a space. Andrew Ippolito: Okay, and that's where the story of the light reactions takes place we're going to see that there's we're going to start the story off with there are these antennas and the membrane that shine down that capture the light that shines down.
+1:02:53
+Andrew Ippolito: And then we're going to take that energy. Andrew Ippolito: That the photo systems capture and we're going to go through a series of redux reactions.
+1:03:01
+Andrew Ippolito: And we're going to call this the light dependent reactions, we could just call them the light reactions Okay, but the key is is the depend on light okay.
+1:03:13
+Andrew Ippolito: Sorry.
+1:03:18
+Andrew Ippolito: Remember, one of the hallmarks of life right life requires energy and life requires materials, and so this is a handy table that basically divides up the eukaryotes okay so notice the back, three or Apps and on this table these are.
+1:03:36
+Andrew Ippolito: These the UK. Andrew Ippolito: And so, how do I acquire energy.
+1:03:42
+Andrew Ippolito: And how do I acquire material right, you have.
+1:03:48
+Andrew Ippolito: Energy and your material. Andrew Ippolito: And so, if you look at plants.
+1:03:54
+Andrew Ippolito: plants are auto truths, and what that means is that the acquire their energy.
+1:04:00
+Andrew Ippolito: From themselves and so when we say energy acquisition really what we're talking about here is food.
+1:04:11
+Andrew Ippolito: high energy molecules. Andrew Ippolito: So otter troth makes their own food.
+1:04:22
+Andrew Ippolito: Okay. Andrew Ippolito: We call them the producers. Andrew Ippolito: And where are they getting their energy from they're getting it from the sun.
+1:04:31
+Andrew Ippolito: Okay, so their strategy is to take that energy from the sun and put it into molecules.
+1:04:40
+to store it. Andrew Ippolito: And where do they get those molecules to build from the air in the soil.
+1:04:48
+Andrew Ippolito: Okay, so let's plan so a planned is an otter truth with terrestrial adaptations that's the definition of a plant.
+1:04:59
+Andrew Ippolito: Most of the oxygen produced on earth, though, are not plants there algae.
+1:05:08
+Andrew Ippolito: Okay, so you can think of the protests. Andrew Ippolito: As i'm learning more of my Microbiology world really it's very cleanly divided functionally into the algae.
+1:05:22
+Andrew Ippolito: which you can think of is plant like. Andrew Ippolito: Plant like protests and the protests ellen's.
+1:05:31
+Andrew Ippolito: Which are the animal. Andrew Ippolito: And the fungus.
+1:05:38
+Okay. Andrew Ippolito: And so. Andrew Ippolito: lc we find both in marine environment so when they see marine we're thinking salt water versus fresh water Okay, so the marine environment fresh water and, just like the plants all that's the same except the material sources water, the water around it.
+1:05:59
+Andrew Ippolito: And really right there, right here, that is the biggest difference between.
+1:06:06
+Andrew Ippolito: The algae and the plants and today. Andrew Ippolito: We are formally putting the green algae in particular into the plant kingdom now.
+1:06:17
+Andrew Ippolito: So the plant kingdom includes green algae. Andrew Ippolito: But, not the other algae I don't I don't think.
+1:06:26
+Andrew Ippolito: And the reason for that is, if you think of it from evolutionary history.
+1:06:33
+Andrew Ippolito: Plants evolved from green algae. Andrew Ippolito: Which is why we can lump them in the same category that's that's modify logic, they do, that the common ancestor okay.
+1:06:48
+Andrew Ippolito: Alright, so far, so good right so whereas animals we, we have to consume the producers, so we have to eat when I see we not humans, we, the animals have to eat the plants and the algae.
+1:07:02
+Andrew Ippolito: Okay, and so the fungus. Andrew Ippolito: They both do their the header a trips hetero other we have to get our food from other from, not us.
+1:07:12
+Andrew Ippolito: All right, where do we get our source of energy, other life.
+1:07:18
+Andrew Ippolito: or dark wizards. Andrew Ippolito: we consume that which is alive, we make a dead, so that we could be alive.
+1:07:28
+Andrew Ippolito: Like necromancer. Andrew Ippolito: Right, we make things dead, so that we live, and if you don't like that idea, well then you can't live anymore that's it that's, the only way yeah even if you're a vegetarian you're still consuming life.
+1:07:46
+Andrew Ippolito: Right, so a guy that eats meat, you could think of him, like a carnivore and a guy that eats plants you'd like a vegetarian, but what do you call it guy that just eats fungus fungi.
+1:08:05
+April Neeld: Is it a fun. Andrew Ippolito: Yes. Andrew Ippolito: that's correct. April Neeld: April got the joke.
+1:08:12
+Andrew Ippolito: Is this a joke, or is this actual learning it's all a joke. Andrew Ippolito: and learning.
+1:08:19
+Andrew Ippolito: Lives just one picture of a Punch line is fun guy Okay, so when you see other other other other other hosts of the bacteria the protein protozoa wins and our cans right, so the idea, though, is, we have the whole earth's biosphere is driven by the producers.
+1:08:41
+Andrew Ippolito: Without the producers there's no life. Andrew Ippolito: Okay we're not at Level one we're standing on Level two.
+1:08:49
+Right. Andrew Ippolito: So where does photosynthesis actually occur let's make sure we it's not we're going to talk a lot about leaves today.
+1:08:57
+Andrew Ippolito: But let's understand that it's not just the leaves that do photosynthesis okay plants do photos, and this is episode to do algae the green algae.
+1:09:05
+Andrew Ippolito: and actually there's a there's the gold analogy in the red algae the brown algae they all do photosynthesis all so one of the definition of algae is they photosynthesize OK.
+1:09:18
+Andrew Ippolito: And then bacteria there's some bacteria. Andrew Ippolito: they're called the cyan know back to Syria, because they look like cyan.
+1:09:28
+Andrew Ippolito: Because of the pigments. Andrew Ippolito: Okay alright.
+1:09:35
+Andrew Ippolito: So the idea here is that complex molecules. Andrew Ippolito: are built from simpler ones.
+1:09:42
+Andrew Ippolito: Think of the card Castle analogy again rebuilding card castles.
+1:09:50
+Andrew Ippolito: And so the simplest ones, the lowest in energy lowest and free energy, the highest and entropy we're going to be dealing with carbon dioxide and water.
+1:10:02
+Andrew Ippolito: Okay, if you think about these two molecules. Andrew Ippolito: Those have all of the elements we need to build the basic carbon backbones of everything we've learned about the proteins, the lipids The carbohydrates, and the nucleic acids all are built from carbons and hydrogen and oxygen.
+1:10:22
+Andrew Ippolito: Right and you're like whoa about the nitrogen. Andrew Ippolito: Well, the air you're breathing in a 70% nitrogen and two Okay, but that element is unable to be used by us.
+1:10:37
+Andrew Ippolito: And instead there are bacteria that will break that nitrogen bond now that's a triple bond, this is.
+1:10:44
+Andrew Ippolito: triple bond and into his triple bond so it's too strong for our metabolisms to break nitrogen guesses in to our bodies it's an art to all mammals it's an art to all higher eukaryotes the only.
+1:10:57
+Andrew Ippolito: Life on earth that breaks up bond or the nitrogen fixers and those are precarious.
+1:11:04
+Andrew Ippolito: Okay, they do it for us, and then we take their even even the plants to the so plants into into some biotic relationship with these bacteria in the soil that do the nitrogen fixation so the plants don't even do this.
+1:11:16
+Andrew Ippolito: Alright, so without the nitrogen fixation we got no nitrogen we got no life.
+1:11:23
+Andrew Ippolito: Okay, and the reason why plants number evolved, it is it didn't have to because they have these bacteria doing it for them already ready and broke don't fix it.
+1:11:31
+Okay. Andrew Ippolito: And so the idea here is that we're going to use photosynthesis to collect sunlight and put that sunlight into chemical bonds.
+1:11:43
+Andrew Ippolito: Right remember bond energies, remember, we have to break bonds, we have to put energy in breaking bonds and releases energy well with all the energy starting on earth it's starting from this up.
+1:11:52
+Andrew Ippolito: So we're going to take high energy molecule low energy molecules and make them high energy molecule that's what we're going to do.
+1:11:58
+Andrew Ippolito: And then the other thing to consider here is the diversity of all the organic molecules we've talked about again the big for the proteins and the nucleic acids, then the sugars and all that right photosynthesis is the main way that carbon introduced into the biosphere.
+1:12:18
+Andrew Ippolito: In fact it's almost it's, the only way but.
+1:12:23
+Andrew Ippolito: there's chemo synthesis but we're not talking about the. Andrew Ippolito: Deep deep deep dark areas in the ocean that use the deep sea thermal events to drive life, instead of the sun would that would be the only other place where carbon can enter into the biosphere those are rare.
+1:12:42
+Andrew Ippolito: So, but just here to just just a quick note on us right we obtain our organic material from other organisms right we don't breathe in carbon dioxide from the air, and then use that to do anything with.
+1:12:56
+Andrew Ippolito: Right that's the the root source of carbon to build things with is in the air and we don't do that we let them do that, and then we eat them.
+1:13:05
+Andrew Ippolito: Thank you for your service plant. Not not not.
+1:13:14
+I see a bunch of chats here i'm going to go look. Andrew Ippolito: Carbon into the biosphere biosphere.
+1:13:23
+Andrew Ippolito: So let's just make sure we understand that for a moment when we see the biosphere just imagine earth and imagine every single thing on earth that's possibly a lot.
+1:13:34
+Andrew Ippolito: that's the biosphere. Andrew Ippolito: So it's not a physical thing it's a functional thing.
+1:13:41
+Andrew Ippolito: And the biosphere covers about a mile up into the atmosphere where we see somebody there's bacteria floating around and in the air, and it goes back down as far about a mile deep into the earth.
+1:13:53
+Andrew Ippolito: there's but we find we find living things when we do our really deep mining operations, we find bacteria down there they managed to make it that for who knows how far they've made it that's that's what I know you know earth's thousands of miles thick right so.
+1:14:09
+Okay. Andrew Ippolito: Now some organisms eat living things and some organisms consumed dead things and so there's a technical term we use to describe the consumers of dead things, those are Detroit divorce.
+1:14:22
+Andrew Ippolito: So you got carnivores you got herbivores you got omnivores you got to try divorce, and you have mixed divorce, which we'll talk about that later.
+1:14:34
+Angela Harbeck: Okay, wait or voters than Detroit of wars. Andrew Ippolito: Or is that still yeah yeah I think that you can consider of ultra to try to pour yeah I mean.
+1:14:43
+Angela Harbeck: Technically they're also carnivores, because. Andrew Ippolito: They only did meet. Andrew Ippolito: But but yeah I mean if I if you can probably describe a butcher as both a carnivore and a Detroit reporter, these are an exclusive you know I think of a venn diagram some carnivores eat living things on carnivores eat that.
+1:15:01
+Andrew Ippolito: That the the key here, though, the important thing here when we talk about the D, composers right, so we have the producers, the consumers and the composers Those are the three lots okay.
+1:15:14
+Andrew Ippolito: Remember, we talked about energy flowing through a system, but the nutrients cycling in the system right so and you can kind of cartoon that out, you have energy flowing through systems.
+1:15:30
+Andrew Ippolito: Right, but the nutrients cycle.
+1:15:38
+Andrew Ippolito: cycle of nutrients flow of energy right energy flows through systems nutrients cycle within them, I think of earth as one big system where the nutrients just get keep getting recycled Okay, and so the D, composers, are the ones that take.
+1:15:57
+Andrew Ippolito: The dead stuff that's trapped they're out in the forest and just out in the wild and breaks it down into the simpler molecule so that it can be released back into the atmosphere.
+1:16:08
+Andrew Ippolito: or into the soil or into the water. Andrew Ippolito: Okay, so the fungus that's that that's their niche.
+1:16:16
+Andrew Ippolito: that's their specialty the fungus are the ones that take did things and break them down so that the rest of us can use it again they're not the only things there's a whole there's a whole you can think of it as a biofilm.
+1:16:26
+Andrew Ippolito: there's a biofilm of fungus and bacteria price markings in there and and there's animals to they think of little they think of pill bugs.
+1:16:36
+Andrew Ippolito: Right there's there's all sorts of Detroit divorce, not just the fungus Okay, but the idea, there is, they are decomposing.
+1:16:45
+Andrew Ippolito: Okay, and and really almost all the header at all terrestrial header troops and the vast majority of marine auditor a header metrics including us depend on the consumers.
+1:16:59
+Andrew Ippolito: Okay, not just for the high energy nutrients in the food, but the oxygen, we need to.
+1:17:09
+Andrew Ippolito: The source of all oxygen on earth is from other life as well see surely.
+1:17:18
+Andrew Ippolito: Then I hit you with this already the idea that our fossil fuels okay so we're in specific we're talking about coal and oil, you can think of coal is dead plant.
+1:17:31
+Andrew Ippolito: and oil is dead animal. Andrew Ippolito: And these are carbon reserves trapped in the soil taken out of the atmosphere.
+1:17:39
+Andrew Ippolito: So the carbon dioxide isn't a guest that's absorbing the sunlight and keeping the earth warmer it's trapped in the soil and keeping us cooler so earth goes through these cooling periods.
+1:17:49
+Andrew Ippolito: it's not just from glaciers, in fact, the glaciers are are more of the the consequence, then the reason for the cooling sound oh it's cold the glaciers make things cold know the glaciers are there because things got cold.
+1:18:04
+Andrew Ippolito: Okay, so basically if you think about it whenever there's a mass extinction event whenever life on Earth something drops by double digits there's less carbon in the atmosphere, because it's trapped in the dead mass on the surface now all the dead dinosaurs.
+1:18:22
+Andrew Ippolito: All the dead, so there was the carboniferous period, all the burns before there were fungus to break them down to release the carbon back into the atmosphere.
+1:18:31
+Andrew Ippolito: Okay, and so they just lingered and languished and then she went into the soil and became the coal and oil.
+1:18:38
+Andrew Ippolito: And so once humans started tapping into that reservoir of energy we started releasing like so think about it, the dinosaur eat all that food built all those molecules and then died.
+1:18:50
+Andrew Ippolito: And all those molecules are still there and they got crushed and compact it in the cool enough, the same with the ferns they sucked in the carbon dioxide they made some high energy molecules and they died.
+1:19:00
+Andrew Ippolito: And now, what we're doing millions of years later, so we're taking back our soil more releasing that energy by burning.
+1:19:06
+Andrew Ippolito: Not eating it and be gross. Andrew Ippolito: Here, would you like some oil with here.
+1:19:14
+Andrew Ippolito: I don't mean oily fish While talking like the black stuff. Andrew Ippolito: Nobody drinks that.
+1:19:21
+Andrew Ippolito: Okay, or here's a piece of coal munch on some call. Andrew Ippolito: me think about that, though I mean.
+1:19:28
+Andrew Ippolito: it's high energy right we just we burn it we just light it on fire and it stays on fire, for a while, because it's so rich and energy it just keeps burning and then we use that energy to do all sorts of things right.
+1:19:40
+Andrew Ippolito: I mean the biggest thing we do with call right now is to make electricity we convert it we don't use the coal directly.
+1:19:48
+Andrew Ippolito: Right, we used to we used to use cold, not just for a heating source or anything like London in the 1800s and he watched any period piece or any movie.
+1:19:57
+Andrew Ippolito: New York City in London were just clogged with coal smoke everywhere and everybody got black long because that's how that was our main source of heat in the winter.
+1:20:07
+Andrew Ippolito: You know, and now we burn coal far away from civilization, we put the smokestacks really tall, so we don't breathe any of that horrible stuff in.
+1:20:15
+Andrew Ippolito: And we use that energy to make steam to make turbines turning to generate electricity, and then we put that into high energy wires and distribute that out and that's what the energy is all about.
+1:20:29
+Andrew Ippolito: Right, but more and more we're using sun and we're using wind, to supplement that burning of coal.
+1:20:36
+Andrew Ippolito: And now, for the first time ever in human history some of solar energy, I think, as of last year, solar is now cheaper than coal.
+1:20:46
+Andrew Ippolito: it's only a matter of time before our economy switches into a green economy, in that sense, where we're creating most of our energy from sustainable sources that's the future that's inevitable it's just a matter of fusing things up.
+1:20:58
+Andrew Ippolito: Okay. Andrew Ippolito: So here's an overview now of the process of photosynthesis so before we even get into this, I want to give you guys my karate kid spiel.
+1:21:10
+Andrew Ippolito: here's the problem, a lot of people are gonna look at this stuff and be like oh my God I hate learning this this is so boring.
+1:21:17
+Andrew Ippolito: photosynthesis sucks I don't ever want to learn this stuff Why am I here, I want to be a doctor, I want to be a researcher, I want to be a molecular whatever you want to do, most people don't want to go into a field that deals with plants.
+1:21:29
+Andrew Ippolito: So the question is, why are we learning this well, partly because this is the other side of metabolism right by understanding photosynthesis we can better understand our own metabolism, but here's what I want you as biology majors having to learn this stuff for no seemingly good reason.
+1:21:50
+Andrew Ippolito: To use this for. Andrew Ippolito: You ready here's where you get your motivation to learn this stuff.
+1:21:56
+Andrew Ippolito: there's gonna come a point in time, in your life, where you're going to be at some job.
+1:22:02
+Andrew Ippolito: And you're going to be required to learn on your own some complex system of some kind or another, with different moving parts and key players and and you're going to need to kind of do it on your own there's going to be people Maybe you can pick their brains for occasionally.
+1:22:22
+Andrew Ippolito: But you'll probably be on your own if you go to Grad school you do any research you're absolutely going to be in this place.
+1:22:27
+Andrew Ippolito: So here's what I want you to use photosynthesis, for, if you remember the karate kid the original wax on wax off Okay, Daniel son wanted to learn karate for Mr miyagi and so Mr miyagi made him promise.
+1:22:46
+Andrew Ippolito: To do everything he said, no matter what, without question, and he was desperate so damn sense yeah Okay, whatever just teach me.
+1:22:53
+Andrew Ippolito: And so the second Mr miyagi roped him into that agreement, he started, putting them to work right you're going to paint this entire fence.
+1:23:02
+Andrew Ippolito: And then, when he was done with it he's Okay, I did it and it is okay, did you do the other side, what he's got to go back and do the other side, the whole fence and he but Mr miyagi taught him a very specific way right he showed him exactly how he wanted his hands moving.
+1:23:19
+Andrew Ippolito: And then he had a wax all the cars yeah to do the same thing, and finally, he got so fed up he's like this is bs, which is where you guys might be now like, why do I know as far as synthesis mechanism stuff this is crap.
+1:23:32
+Andrew Ippolito: And so start walking away and Mr miyagi like show me paint the fence they started attacking them, but she got fired for something like that nowadays right, you know of course dance on has that muscle memory built up.
+1:23:45
+Andrew Ippolito: and Andrew Ippolito: Right. Andrew Ippolito: So what I want you to do is I want you to use this light reactions and Calvin cycle and the way things work and the redux use it as your own.
+1:24:00
+Andrew Ippolito: sandbox to master a complex system so figure out how your brain works, so that when that time comes, where you have to master some actual system that is actually applicable to whatever you're doing in life, you got that one, because this is the one that you work.
+1:24:18
+Andrew Ippolito: Okay, and as you get as you dig into this it'll probably be kind of interesting.
+1:24:23
+Andrew Ippolito: In good Tyler so that's that's that's the first time i've ever heard that you're the first to that said that.
+1:24:31
+Andrew Ippolito: that's awesome I mean I like this stuff and I think it goes back to the whole Stockholm syndrome idea that oh I didn't tell you guys this so.
+1:24:39
+Andrew Ippolito: I told me afternoon classes and i'm see i'm learning Microbiology this semester in a way that I never had to learn it before.
+1:24:45
+Andrew Ippolito: And what before I started this semester, I was like I really don't like Microbiology I really don't it's just so now i'm learning it right and i'm like I kind of liked it now.
+1:24:54
+Andrew Ippolito: And it's a growing on me, but I realized it's because I have to learn it well enough to teach it and so like i'm a prisoner for it, so I think I have what i'm calling academic Stockholm syndrome.
+1:25:05
+Andrew Ippolito: i'm falling in love with my captor.
+1:25:10
+Andrew Ippolito: is so maybe you too will fall in love with this material, because you have a choice.
+1:25:16
+Andrew Ippolito: Right. Andrew Ippolito: Peter join it. Andrew Ippolito: Okay, so on that note let's dig into the mechanisms here, then the time we have remaining.
+1:25:27
+Andrew Ippolito: i'm going to give you the overview here alright so first of all photosynthesis occurs in either the chloroplasts eukaryotic cell or within you can think of the membrane.
+1:25:38
+Andrew Ippolito: Of a pro carrier right the program like is the chloroplasts remember chloroplasts evolved from pro carriers, as far as we understand.
+1:25:48
+Okay. Andrew Ippolito: And so there, there is a piece of green algae on the upper right there um I forgot his name.
+1:25:56
+Andrew Ippolito: it'll come to me like stop thinking about so, so this is a protest that is a green a single celled free living green algae so that's why we don't call it a plant it moves plants don't move that thing moves.
+1:26:10
+Andrew Ippolito: And then there's cyanobacteria and you can see he's got those styler coils hanging around on the outside there, whereas the green algae has a single law his most of his cell is filled with a single chloroplasts.
+1:26:23
+Andrew Ippolito: Right he's basically chloroplasts on wheels. Andrew Ippolito: he's got a might have caught he's he's got mitochondria there too.
+1:26:33
+Andrew Ippolito: So understand that, actually, the majority of oxygen we're breathing in is not coming from plants it's coming from these guys or things like this out on the ocean.
+1:26:43
+Andrew Ippolito: Okay, the open Ocean is just filled with green algae and you can just picture oxygen just spewing off of the ocean constantly.
+1:26:53
+Andrew Ippolito: that's our source of oxygen Okay, so if every single plant on earth in the terrestrial environment was burned and destroyed we wouldn't suffocate because we still have the ocean.
+1:27:07
+Andrew Ippolito: If we do ever have a meteor impact Okay, what happens here, this is earth and we have a meteor hit us fast enough.
+1:27:15
+Andrew Ippolito: Such that it's spews up dust into the atmosphere for miles eventually the air currents take that and it goes throughout the entire atmosphere and the sun gets blocked out for a good six months.
+1:27:31
+Andrew Ippolito: Then everything dies. Andrew Ippolito: Okay that's when all the algae in the atmosphere and on the ocean dies that's when we would have to start worrying about not being able to breathe.
+1:27:41
+Andrew Ippolito: it's not just where's their where we're getting our food it's I can't breathe Okay, the last time that happened that was about 70 million years ago and the dinosaurs went extinct.
+1:27:52
+Andrew Ippolito: That was the last group, and that would they call that the great dying, oh no i'm sorry they don't call that one the great time there was one even worse than that, but never mind that was the candor cambrian That was the cambrian explosion 95% of all life on Earth died.
+1:28:08
+Angela Harbeck: Because it was. Angela Harbeck: They got exploded, no, they were just suffocating.
+1:28:13
+Andrew Ippolito: For the yeah the dinosaurs supposedly suffocated and well everything green died so anything that relied on eating green things died.
+1:28:21
+Andrew Ippolito: And then, anything that a lot of new those things died, it was just a big it was kind of like dominoes domino def.
+1:28:29
+Andrew Ippolito: yeah the cambrian death that that's that mean almost all marine life died, too, and then what came after that was the cambrian explosion.
+1:28:38
+Alexis Micewski: So you just reminded me i'm meant to share there's this board game that my friend brought over it's called oceans.
+1:28:45
+Alexis Micewski: it's basically you create your own like species and you evolve traits and stuff and you fight over resources and like attack different species, but after a certain point you go through the cambrian explosion.
+1:29:00
+Alexis Micewski: doubles and it moves like justice fast. So. Andrew Ippolito: i'm going to look that up that sounds like the perfect biology game, thank you for telling me that oceans I gotta remember that.
+1:29:11
+Andrew Ippolito: Okay, all right, I got three minutes, so there is a plants multicellular algae single celled algae and then we have what are called a purple sulfur bacteria, they have the unique pigment that they don't use chlorophyll they use an alternative pigment and they use instead of.
+1:29:31
+Andrew Ippolito: oxygen they use eight hydrogen sulfide.
+1:29:36
+Andrew Ippolito: As a source of. Andrew Ippolito: As an oxygen.
+1:29:41
+Andrew Ippolito: Whereas we use i'm sorry i'm sorry, you know what.
+1:29:46
+Andrew Ippolito: i'm getting things backwards just don't feel sad anything i've seen about purple sulfur bacteria I don't know enough about them to talk intelligently I kind of learned something the other week about them and it just popped out of my head.
+1:29:59
+Andrew Ippolito: They produce high they produce hydrogen sulfide you know the black cookie sledge stuff you find in the swamp that's now kind of bad it's just that.
+1:30:08
+Andrew Ippolito: Or if you ever if you've ever had an old pipe and you've had to take a pipe apart it's just the sludge it's literally like sledges hydrogen sulfide.
+1:30:18
+Andrew Ippolito: sludge. Andrew Ippolito: Okay, and that's produced by the purple bacteria.
+1:30:24
+Andrew Ippolito: If I remember correctly yeah. Taylor Campbell: he's a bacteria that can be stuff.
+1:30:30
+Andrew Ippolito: The better. Taylor Campbell: Like it is a bacteria that black. Andrew Ippolito: Know it's it's the product it's their metabolic.
+1:30:35
+Andrew Ippolito: byproduct it's like we breathe out carbon dioxide plants breathe out oxygen these things breathe out.
+1:30:40
+Andrew Ippolito: Each to S, which is a solid, so they don't really breathe it out, they kind of I guess poop it out, but they're single celled.
+1:30:48
+Taylor Campbell: yeah. Andrew Ippolito: It is gross stuff I hydrants and it's very. Andrew Ippolito: it's. Andrew Ippolito: It breaks things down, I mean sulfur it's it's reactive.
+1:30:57
+Andrew Ippolito: Okay. Andrew Ippolito: So we for the rest of this and really for the rest of a Thursday to Wednesday we're going to focus on plants going to learn about leaves and how how plants work okay so it's very important as you move through this.
+1:31:13
+belief in yourself. Andrew Ippolito: And then i'm going to end today on this note here it's done too soon, if anybody knows this reference anybody know this reference anymore.
+1:31:32
+Andrew Ippolito: So there was a TV show. Andrew Ippolito: called firefly. Jordan Russell: Oh, I was just about to guess firefly.
+1:31:39
+Andrew Ippolito: yeah Okay, then you would be right, and then there was, it was the best TV show ever and I got one season.
+1:31:48
+Andrew Ippolito: And the fans got so. Andrew Ippolito: Mad that they submitted, you know they did their whole.
+1:31:56
+Andrew Ippolito: I don't know petitioning and so paramount studios eventually brought it back and made a movie called serenity, which was basically season two.
+1:32:09
+Andrew Ippolito: And this guy here was one of the main characters that's wash.
+1:32:16
+Andrew Ippolito: If you haven't watched it yet it's not available, you see, on netflix they took it off netflix so the only place, you can watch this now is a I have the DVDs.
+1:32:25
+Jordan Russell: yeah yeah they haven't on DVDs. Andrew Ippolito: yeah, I have three copies of the DVDs I bought them once because they were on sale and I figured i'd share them with people, so if anybody wants to watch them, I can drop them off at the school and you can pick them up.
+1:32:39
+Andrew Ippolito: Or you can pray this pirate them at this point I just said that out loud i'm okay with that you can't if you can't watch it anywhere streaming.
+1:32:46
+Andrew Ippolito: i'm sure you can find it on your own, but really it's it's the best SCI fi it's not even good SCI fi is good storytelling the characters are so good i'll release you guys, you can go and, if you want, you can hear me ramble i'm gonna stop recording.
+1:33:02
+Andrew Ippolito: But it's it's a.

@@ -1,0 +1,1232 @@
+0:02
+Andrew Ippolito: Welcome to the swan song Ray last of our lectures or the Semester and we're going to be learning about Chapter 20 stuff.
+0:13
+Andrew Ippolito: biotech and genomics i'm going to call us the highlight reel so highlight reel lecture because what we're going to do is we're going to kind of dip into a few concepts here think of this like the the main.
+0:27
+Andrew Ippolito: Show is over, and now we're looking at little bits and pieces of stories epilogue.
+0:34
+Andrew Ippolito: So you've all successfully learned. Andrew Ippolito: You know the unity of life and what we're going to do now.
+0:41
+Andrew Ippolito: Is we're going to take. Andrew Ippolito: Particularly in the molecular world the the secrets that we've harnessed about the gene.
+0:50
+Andrew Ippolito: And how we apply them. Andrew Ippolito: to making our own lives last longer and be better, improving the.
+1:01
+Andrew Ippolito: Quality of life and the the length of life that that's Why do I have all these ants in my office.
+1:08
+Andrew Ippolito: Sorry hold on a second.
+1:14
+Andrew Ippolito: The making of this lecture except some. Andrew Ippolito: Know vertebrates.
+1:19
+Andrew Ippolito: invertebrate doesn't count right.
+1:26
+Andrew Ippolito: All right, mental note after class clean desk. Domonique Cooper: it's probably a criminal been so.
+1:32
+Andrew Ippolito: Long yeah so like. Andrew Ippolito: I usually keep a pretty like I might keep a messy desk but it's not dirty. Andrew Ippolito: Right you guys know the difference or dirty is there's gross things.
+1:40
+Domonique Cooper: Around. Andrew Ippolito: Like crumbs and. Andrew Ippolito: Try coffee stains one I would clean, I have a clean desk is just untidy.
+1:48
+Andrew Ippolito: Or, apparently, they are some dirty something somewhere. Andrew Ippolito: Anyway, i'll find it later.
+1:57
+Andrew Ippolito: But we're just two minutes, and we have ads in the House do this time of the year anyway all right, where was I are the only two goals of science, a publicly funded science in America it's increasing the.
+2:11
+Andrew Ippolito: Quality of our life and the length of it so most things come from that perspective.
+2:16
+Andrew Ippolito: The first thing we're going to learn about is how we sequence DNA.
+2:22
+Andrew Ippolito: molecules how we get two b's and c's the Jews and there was this guy named Fred singer singer he there, he is on the right there he holds one of the most prestigious place on sciences, being one of the only people to win the Nobel Prize twice in the same field.
+2:45
+Andrew Ippolito: And he wanted in 19 all right hold on I say hey guys, please be quiet.
+2:53
+Andrew Ippolito: i'm trying to teach.
+3:03
+Andrew Ippolito: Okay i'm okay. Andrew Ippolito: So singer won the Nobel Prize in 1958 for the structure of insulin he's the one that figured out the shape of insulin using X Ray crystallography.
+3:16
+Andrew Ippolito: and Andrew Ippolito: He he'd rather than like most researchers at this point the rest on their laurels and they enjoy you know talking tours and writing books, he just got right back into the lab and could work and.
+3:28
+Andrew Ippolito: Eventually, he developed this ingenious method for sequencing DNA we call it the we still use it today, even though it was developed in the 80s with there are some labs that in little pockets they're still use for this technique it's laborious.
+3:42
+Andrew Ippolito: My lab did it I didn't actually have to do it, thank God, but I watched people do it and I learned from them on how to interpret it all so.
+3:52
+Andrew Ippolito: He developed in 1980 and at that point we were basically able to unlock genomics starting to think of the idea of sequencing entire genome.
+4:01
+Andrew Ippolito: Well, well outside of our bounds, I mean with his method you could sequence a few thousand sequences at a time, you know when we learned that our DNA had.
+4:12
+Andrew Ippolito: 3.2 billion base pairs if you were trying to if you were going to sequence the human genome, with his method, it would have taken you literally centuries of work.
+4:20
+Andrew Ippolito: So, once he developed this process a whole nother set of researchers start developing even better, faster stronger techniques and today we're on what we call I think we're on the third generation of sequencing technology.
+4:35
+Andrew Ippolito: we're not there yet, in terms of being able to draw your blood and put it in a little machine, the size of about oh I don't know Lou USB stick.
+4:45
+Andrew Ippolito: And i'm plugging into the computer and put the drop of blood in there and then beep boop bop you got your genes. Andrew Ippolito: we're almost there, though, where within your professional career, it will happen within the next five to 25 years I can't give you a better prediction that maybe somebody else can but personalized sequencing of genomic information is going to change everything.
+5:07
+Andrew Ippolito: So what i'm going to do is walk you through the singer method, the classic way of learning this stuff and what What it does is it gives us a.
+5:16
+Andrew Ippolito: classic example of how we can take what we've learned in the general sciences and then apply them to a technology, so you can start to see the cross over there.
+5:28
+Andrew Ippolito: And really it's ingenious imagine me asking you okay so here's the thing imagine me asking you this like you guys understand everything friends saying or understood now what I want you to do is take what you understand and invent a way of sequencing DNA.
+5:43
+Andrew Ippolito: that's what he did okay so here's how it works here's how it works i'm going to explain the sanger sequencing method, this is going to be there's two big things we're gonna learn today this and then gene colony Okay, so this is singer i'm gonna write it and white here saying.
+6:00
+Andrew Ippolito: sanger sequencing.
+6:05
+Andrew Ippolito: let's remind ourselves DNA is always built from the five prime to the three prime direction by adding to the three prime oh each group right if we have the oxy ribosome sugar.
+6:18
+Andrew Ippolito: 12345 carbons remember this carbon right here.
+6:25
+Andrew Ippolito: has an O each group on it right that's the three prime carbon and we're going to add here okay.
+6:34
+Andrew Ippolito: And then, this is the This is where the rest of this stuff is so we're going to build in this direction by putting the new guy here right we're on that page that makes sense, good.
+6:45
+Andrew Ippolito: that's concept one to keep in your concept to his mom we do reactions in a test to, we have to understand that there are millions of molecules.
+6:57
+Andrew Ippolito: that when we talk about a reaction and we draw it out on paper that's not what's actually happening what's actually happening is 1000 versions of that right.
+7:08
+Andrew Ippolito: So what we're going to do for this setup is we're going to imagine the test tube that's got all the necessary ingredients to synthesize DNA without worrying about the details.
+7:18
+Andrew Ippolito: let's think about what we need to put in there, the most important thing, besides the polymerase and ally case and the and the template that we want to sequence.
+7:27
+Andrew Ippolito: The important building block the important thing of the building blocks themselves to ease and t's and c's and use let's just remember what those are right, those are the oxy ribonucleic triphosphate right, those are de nt piece right so there's there's ready there's D ATP.
+7:43
+Andrew Ippolito: there's do color coding let's use colors here it's going to come in useful later so let's, let me just give a nice clear array of colors down here so we've got let's do a red, orange yellow and blue and green blue can be blue come on come on.
+8:01
+blue. Andrew Ippolito: Green alright so we've got a Roy G going on here So here we got de de oxy ribonucleic ATP that's a building block for DNA.
+8:10
+Andrew Ippolito: yeah dx Arriva try Simon Dean triphosphate. Andrew Ippolito: The oxy cytosine triphosphate.
+8:19
+Andrew Ippolito: The oxy go on a Dean phosphate right So those are the three building blocks for DNA so DNA polymerase will take one of those and build the you know the railroad out of it.
+8:33
+Andrew Ippolito: Right we're still we're still on the same page everybody's still here, making sense Okay, so if you think about it, when I add all that to the reaction there's gonna be a whole population of all those in there there's like 1000 molecules of each 1 million molecules of each one.
+8:47
+Andrew Ippolito: And so what's going to happen is hear me. Andrew Ippolito: Right there's a nucleotide.
+8:54
+Andrew Ippolito: Now that color and H2 listening right so there's a bunch of a is and there's a bunch of teas and there's a bunch of CEOs and there's a bunch of.
+9:03
+Andrew Ippolito: Right, so you can imagine that whatever see let's listen mentor sequence here let's say their sequence.
+9:11
+Andrew Ippolito: Has 1-234-567-8910 1112 12 sequence here so let's say there's it starts with a and then there's an A in these places Okay, a.
+9:25
+Andrew Ippolito: And then there's a tea here there's two here, maybe it ends and tea and then there's a see here and here and there's a g.
+9:35
+Andrew Ippolito: Here, and here right so that that's the actual secret now we don't know what it is right we're just pretending we don't know what it is that's that's the sequence you want a sequence so really what we know about that sequence right now.
+9:50
+Andrew Ippolito: Is that we know nothing. Andrew Ippolito: Right. Andrew Ippolito: 12 letters of mystery.
+9:58
+Andrew Ippolito: So I want you to imagine we take a billion copies of that mysterious DNA and we put that in the testing.
+10:06
+Andrew Ippolito: Along with the plum race and like isn't all that. Andrew Ippolito: Now if if we just let things go what would we do we just make a whole bunch of it right, so you can imagine we just make a whole bunch.
+10:18
+Andrew Ippolito: of DNA that's all the same length. Andrew Ippolito: that's boring right.
+10:27
+Andrew Ippolito: Well let's say we did that we had this test to filled with this DNA right. Andrew Ippolito: As a control so we're going to run a gel now and I teach you about gel electro freezes you know i'm going to the simplest gel possible here's here's a gel with one well you guys did enough of this and.
+10:41
+Eric Miller: lobster right. Andrew Ippolito: raise your hand, if you remember a little bit of this from laughter okay good good good good so right, so we add our sample here at the top.
+10:49
+Andrew Ippolito: And you can imagine 3D there's there's a it's like a chain link fence that's made out of rubbery stuff right it's a three dimensional matrix.
+10:57
+Andrew Ippolito: And so the really heavy stuff is going to take a long time to get through, how is it getting pulled, by the way, there's an electric charge remember DNA is negative right.
+11:04
+Andrew Ippolito: And so we're going to put a positive charge down here right we're gonna have a negative to a positive. Andrew Ippolito: we're going to be in a solution when I turn on the voltage gradient we're going to literally pull the DNA like a magnet through this matrix and so because we have just one molecule one size of DNA here it's going to run somewhere let's see right here.
+11:23
+Andrew Ippolito: that's boring right, so I want you to understand that we have this gel thing going on right.
+11:29
+Andrew Ippolito: Now let's say. Andrew Ippolito: Now let's say we're gonna take for test tubes one for a TC angie's right so we're gonna for testing testing one and i'll just copy this easier to.
+11:48
+Andrew Ippolito: stylists here there we go 234 alright so each of these trips, we got four with a for reaction oops for reaction tubes.
+12:03
+Andrew Ippolito: Okay, before we actually tubes here. Andrew Ippolito: And here's what we're gonna do to each one of these tubes.
+12:18
+Andrew Ippolito: To each one of these tubes.
+12:26
+Andrew Ippolito: we're going to add all that stuff right we're going to add.
+12:32
+Andrew Ippolito: The a's and t's and c's and geez to each tube so like if you're in the lab you would boringly add a little bit of each one of the tubes bottom okay.
+12:40
+Andrew Ippolito: Now to the first tube here we're going to call this the a tube.
+12:46
+Andrew Ippolito: we're gonna sneak in a little molecule on there we're going to add a little bit of a special version of ATP we're going to call it don't use a slightly different color here.
+12:58
+Andrew Ippolito: di di oxy ATP. Andrew Ippolito: And what died, the RCA ATP is is just like normal D oxy ATP.
+13:08
+Andrew Ippolito: Except. Andrew Ippolito: That three prime carbon no longer has the hydroxyl functional group.
+13:17
+Andrew Ippolito: what's the functional consequence of that.
+13:22
+Michael Caselli: Has imagined that nucleotide was. Andrew Ippolito: integrated into a strand of. Michael Caselli: DNA will go Michael.
+13:28
+Michael Caselli: Well it's not as polar anymore right. Andrew Ippolito: it's that one remember that that's where we add the new nucleotide as we're building a chain.
+13:38
+Andrew Ippolito: And so what do we do. Andrew Ippolito: Can we add another nucleotide to that.
+13:48
+Andrew Ippolito: Yes or no. Andrew Ippolito: No that's the secret that's what makes this so amazing that's what this was Sanders genius he basically invented a chain terminator right so here's what's going to happen.
+14:03
+Andrew Ippolito: here's a secret to sanger sequencing.
+14:09
+Andrew Ippolito: i'm going to add some of that to this tube.
+14:15
+Andrew Ippolito: And I want us to think now here let's go back up here I mean grab this original sequence here.
+14:23
+Andrew Ippolito: And I want you to imagine now in that test tube with 1000 molecules and it has the a's and t's and c's and g's and it also has an a small fraction of what you can think of is broken a.
+14:36
+Andrew Ippolito: Alright, so the DNA polymerase is going to take this molecule here. Andrew Ippolito: The DNA polymerase is going to start on a template and a season, a there so it's going to put a tea.
+14:48
+Andrew Ippolito: Right. Andrew Ippolito: And then it sees a tea and so it's going to grab from the soup around the reaction and a.
+14:57
+Andrew Ippolito: And this is the important part is either going to grab a good day or a bad now, we only put a little bad, and so the chances are it's going to pick a good day.
+15:06
+Andrew Ippolito: And then the next letter is in a so we're gonna put a tea right all i'm doing is i'm reading along this compliment i'm making the compliments or tea at and then see, is it G G is a C, and here we go, we have a to double T here now let's say we get unlucky and we picked a bad day.
+15:24
+Andrew Ippolito: i'm done that molecule of DNA is done I can't make it anymore I can't add something here, because this is just an H it's not an O h.
+15:35
+Andrew Ippolito: Okay, but in that too there's another reaction going on at the same time that I managed to get the unlucky miss here.
+15:45
+Andrew Ippolito: And somewhere else in the tube it got lucky enough to get through.
+15:51
+Andrew Ippolito: All these, but then it got unlucky enough to make this one.
+15:57
+Andrew Ippolito: Right and then the next one T T gc a goth or both of those and then I got a T here CG T and then a.
+16:08
+Andrew Ippolito: Okay, so, in other words, every possible combination is present in that too, because there's a bajillion copies of it and it's happening a bajillion times and so probability wise statistically speaking.
+16:20
+Andrew Ippolito: If we have a billion molecules of everything we're going to see even populations of every single one of those pieces of DNA Okay, now we can't see this right so let's pretend we have that tube.
+16:33
+Andrew Ippolito: And in that too we added a little bit of this stuff and, together with all the other stuff and then we take that sample and we run it on a gel.
+16:58
+Andrew Ippolito: We would see maybe something like that. Andrew Ippolito: You still with me.
+17:04
+Andrew Ippolito: Okay, so what we do now is we do that exact same thing.
+17:10
+Andrew Ippolito: But in the second test tube.
+17:20
+Andrew Ippolito: I don't know if you guys can read that purple and black is kind of a tricky combination here, but I need more colors that's ttp died, the oxy ttp oops and I put on the wrong let's put it in the T to.
+17:35
+Andrew Ippolito: put it in this one. Andrew Ippolito: Right, not in this one this isn't in these tubes it's just an et tube right so each tube is a combination of all the normal stuff plus a unique think of it as a poison pill.
+18:18
+Andrew Ippolito: Okay, so i'm just going to do one more letter to you, so you can see that i'm not going to do this we're all four of them, this was going to take too long, but let's just do the second one alright, so I was getting a little lag here.
+18:31
+Andrew Ippolito: Alright So here we got our second to have this has all the normal stuff in at the DNA polymerase to lie gaze to DTP ttp CDP GDP and also a little bit of the the ttp dd ttp.
+18:49
+Andrew Ippolito: Okay, so now using our original strand here. Andrew Ippolito: As a reference point, let me bring this down a little bit closer.
+18:59
+Andrew Ippolito: Alright, so the DNA polymerase is going to grab the first letters in a we're going to get lucky and CT or here i'll tell you why let's i'll do an order now, so you can really see this, so the first letter is a tea right and so we're done we just have one nucleotide.
+19:11
+Andrew Ippolito: Alright, the second one, so we got a that gives us a tea, and then the second one's a tea that gives us an A and the third one, is a tea so we'll get that fragment of DNA.
+19:23
+Andrew Ippolito: All right, and then we got so we got T a get through that third one, and then the next one, is a g.
+19:31
+Andrew Ippolito: c see a tea there we go.
+19:38
+Andrew Ippolito: The next one BT at gc at.
+19:44
+Andrew Ippolito: g see. Andrew Ippolito: up there, it is T and that would be the last one.
+19:51
+Right. Andrew Ippolito: So it's not important what the other letters are what's important is how long each one of those pieces are.
+19:59
+Andrew Ippolito: Right. Andrew Ippolito: So let's just do these two here watch this now i'm gonna take all this.
+20:07
+Andrew Ippolito: i'm gonna move this over here right, so all. Andrew Ippolito: All this, we can agree all this, these fragments of DNA are in the same test tube floating around.
+20:17
+Andrew Ippolito: right but let's let's put them in size order pretend we ran a gel now. Andrew Ippolito: Right, this would be first.
+20:25
+Andrew Ippolito: And this would be second.
+20:31
+Andrew Ippolito: And this would be third. Andrew Ippolito: And then, though, so we have GMC i'm not accounting for hearing so let's see what's the next longest one this one.
+20:43
+Andrew Ippolito: So clearly there's something in the middle there Okay, and then maybe this one.
+20:51
+that's one. thing grab that whole thing.
+21:01
+Andrew Ippolito: And then, this is going to be tricky I think this one.
+21:10
+wrong.
+21:18
+Andrew Ippolito: i'm leaving gaps, where the Jesus us would be So there you go right so now, if I did this with all four letters I would have basically right every single letter would be represented here, I would have a continuous chain.
+21:35
+Andrew Ippolito: A continuous size right and each one of them would be different from the others by a single nucleotide.
+21:44
+Andrew Ippolito: They get shorter and shorter so here's what we're going to do here's how the gel would be run. Andrew Ippolito: there's a well the T the sea and then g.
+21:54
+Andrew Ippolito: Okay, so let's say we ran a the tea in this, so you run the reactions that the reaction go for a while.
+22:00
+Andrew Ippolito: Until you think they're done and, by the way, in real life, what we do. Andrew Ippolito: Is we have radio labeled di di oxy a tcg and other words there remember when we use did hershey and chase we use radioactivity to make new DNA and RNA with the viruses remember the whole experiment hershey and cheese Okay, so we do something like that.
+22:18
+Andrew Ippolito: We make artificial radioactive DVD http http etc, so that when we run this gel we can then expose it to a piece of film.
+22:28
+Andrew Ippolito: And it's radioactive and so what this is, this is what we're gonna see well i'll tell you what let me i'll stick to the original sequence.
+22:36
+Andrew Ippolito: So i'm going to do it oh come on. My cheat a little bit here do this.
+22:42
+bring this over here. All right.
+22:52
+Andrew Ippolito: So here's how i'm going to look at it Okay, so this is all black and white right there's no color and the gel we were just looking at size fragment so i'm looking over here.
+23:01
+Andrew Ippolito: whoa what just happened.
+23:07
+Andrew Ippolito: Right my computer is just not keeping up with the speed on my hand moving around here all right i'll just settle for a second.
+23:15
+Andrew Ippolito: Okay, so i'm going to look over here oh come on what are you doing.
+23:25
+Andrew Ippolito: Why does it keep cubit rubber banding back to this place.
+23:33
+Andrew Ippolito: To wait another second. Taylor Obert: At the computer is trying to tell you the way you organize the sequencing with a different color letters doesn't line up with the squares.
+23:52
+Andrew Ippolito: Okay, so i'm looking at this, maybe I dropped from the top here and I see you see the last letters of tea, so that tells me the longest one of these this biggest one here.
+24:05
+Andrew Ippolito: Is a T, which means the one in the T ln here i'm going to have a band that's really big race so remember how gelato freezes works, the big steps at the top, the smallest stuff gets a sneak through fast.
+24:16
+Andrew Ippolito: The second largest one is in a. Andrew Ippolito: So i'm just going to do this.
+24:42
+Andrew Ippolito: there. Andrew Ippolito: So, in reality, I would have four reaction tubes.
+24:49
+Andrew Ippolito: I would run this gel. Andrew Ippolito: I would expose it to a piece of film.
+24:55
+Andrew Ippolito: I would develop the film. Andrew Ippolito: And this is what the film actually looks like here's a real version of the film.
+25:06
+Andrew Ippolito: in real life, these gels are about. Andrew Ippolito: A foot and a half big.
+25:14
+Andrew Ippolito: The cassette you put this gentleman has two big pieces of glass that you have to it's a whole big apparatus and it takes an entire data set it up.
+25:25
+Andrew Ippolito: It takes an entire day so you're pouring your plate you're pouring the gels the day you're running the reactions and then, when you're doing your reactions you're running the job and then just take oh gosh six to eight hours to run.
+25:40
+Andrew Ippolito: And then you take the gel you have to put it in the machine and you have to basically press it up onto a piece of blotting paper, so that you can take a exposure of film to it.
+25:49
+Andrew Ippolito: You take that blotting paper it's already you're doing all this and radioactivity so there's all radioactive. Andrew Ippolito: And then you put it in a special film cassette with a piece of X Ray film the steam stuff you would use in the hospital thick chest X rays.
+26:00
+Andrew Ippolito: And then you'd expose it to so you would actually take a Geiger counter and you would measure, the amount of radioactivity coming off.
+26:08
+Andrew Ippolito: You use that number on the Geiger counter to do some math to say, I have to expose my film for between two and three hours.
+26:14
+Andrew Ippolito: If you do under two hours you're not going to see anything if you do over three hours you're going to see a big black blob.
+26:20
+Andrew Ippolito: So you have to expose it just right, and you have to go to the dark room and run through a machine, you have to learn how to use all that stuff to you have to get all the chemicals all of your hands to interesting very involved process so, then you get this job.
+26:35
+Andrew Ippolito: And then you read the job and so each lane here so you'll notice at the top, you see there's there's tracks of four at a time okay that's because there's a tcg, and so this one, Joe represents, I would say let's see you're fine maybe.
+26:51
+Andrew Ippolito: A couple of thousand DNA sequences. Andrew Ippolito: And so notice how you can't really read you can't really read the top of it it's like smeared you see the smearing so generally, you have to chalk it up to I can't read any of this.
+27:07
+Andrew Ippolito: This is all unreadable at the top, and then you get to a point to where these dark lines are whoever is jealous really wasn't real life, they drew those lines, like this is about where we're going to be able to start sequencing.
+27:18
+Andrew Ippolito: And then they just started looking that you scan across these four let's say they look at these four here, and you say Okay, this one, you see this one's a little higher and that happens, be a so you'd say a.
+27:30
+Andrew Ippolito: You know ti si G a tcg and you would just keep reading it.
+27:37
+Andrew Ippolito: And you have your notebook and I actually saw the sign you're doing this in our lab I came in one day, and she had one of these pieces of film.
+27:44
+Andrew Ippolito: And she was in a notebook just in a big pen so hard just write in your notebook a gta gct tg and i'm like Oh, what are you doing that looks like a nightmare.
+27:53
+Andrew Ippolito: And she's like oh we're sequencing the plasma, to make sure that we got the mutation that we need it, I was like i'm glad you're doing that, and I mean this is terrible cool that's sanger sequencing.
+28:05
+Andrew Ippolito: Okay, and so it's capable of sequencing small fragments of DNA couple thousand basis.
+28:10
+Andrew Ippolito: You don't sequence genomes with this you verify experimental stuff with this now that's why it's used you don't have to send it out, you can do it all in house.
+28:19
+Andrew Ippolito: Okay today in today's day and age, what we do is we do a positive purification and we send it out in the mail to a company that uses way more advanced sequencing techniques and you get it back the next day, and you get an email with the with the letters in it.
+28:34
+Andrew Ippolito: With the sequence okay. Andrew Ippolito: So back to the PowerPoint here that right there on the right that's the galaxy nucleotide best with a dd NTP.
+28:46
+Andrew Ippolito: Okay. Andrew Ippolito: And if you read your you take, yet the text version of this, the video that explains this is great it really it's a great walkthrough.
+28:55
+Andrew Ippolito: OK so. Andrew Ippolito: The more modern version of this your book also walks through you use a different fluorescent marker for each nucleotide.
+29:07
+Andrew Ippolito: And you can run it through these little tiny capillary gels.
+29:12
+Andrew Ippolito: And then you can read each one of those light each one of those strands with a laser and the laser can tell you what color comes off of it and that lets you interpret the sequence.
+29:24
+Andrew Ippolito: You start to run gels you start to run reactions. Andrew Ippolito: Okay, the newest technology you don't have to make DNA, this is how the latest generations work.
+29:36
+Andrew Ippolito: Take some kind of very thin wafer.
+29:41
+Andrew Ippolito: Put a hole in the middle of it. Andrew Ippolito: This is all like the nano scale.
+29:49
+Andrew Ippolito: You run your double helix through it. Andrew Ippolito: This is all attached to a computer and electrodes.
+29:59
+Andrew Ippolito: And here's the ingenious part. Andrew Ippolito: As the DNA passes through that hole that poor they call it a poor as it passes through the poor.
+30:09
+Andrew Ippolito: The different bases. Andrew Ippolito: impact the voltage gradient differently.
+30:16
+Andrew Ippolito: And so the computers program to be able to assign a value to those voltage letters like that's the rough and dirty of it, such that, as the DNA passes through it just in real time it's like.
+30:28
+Andrew Ippolito: it's like taking a piece of rope and just making it through a whole and as it's going through the whole the computers like oh at T GCC but it's just really, really quick you don't have to synthesize anything you just have you have to purify the DNA.
+30:44
+Andrew Ippolito: Okay, and so that's the that's right now the most modern take on sequencing DNA and I think this technique is what's going to bring us into the.
+30:55
+Andrew Ippolito: The future of individually sequencing your DNA your doctor's Office, your doctor is going to buy something that's about this big is like the size of a.
+31:06
+Andrew Ippolito: candy bar kit kat bar maybe two or three kit kat bars thick and they'll have a USB plug and plug it into the computer and Hello drop your blood sample in there and then just wait.
+31:21
+Andrew Ippolito: So pretty cool right so that's that's that's the end of our little mini short story on DNA sequencing.
+31:30
+Andrew Ippolito: And I will draw lines. Andrew Ippolito: Our next story, this is the meat of modern molecular biology and biotechnology and genetic engineering i'm going to teach you the ABC to this.
+31:43
+Andrew Ippolito: All right, this is probably the most interesting stuff of the Semester, and this is the kind of stuff you learn.
+31:49
+Andrew Ippolito: And this is the stuff where some of you are going to make you know what maybe I want to go into this So what do I do in my life, this is cool stuff right by understanding like actually being in the lab and be able to do this stuff with your own two hands, you can sky's the limit.
+32:04
+Andrew Ippolito: Right, you can discover the cure for cancer or even you know the next generation of microbes that destroy them break down plastic, so we can have sustainable features, this is it, this is where you have to do that stuff.
+32:16
+Andrew Ippolito: Okay, so let's start so first thing we're going to do is learn some of the lingo way to learn some of the nomenclature of how we talked about this stuff there we're going to learn about the techniques Okay, so the first hand this is just laundry list of vocab.
+32:33
+Andrew Ippolito: Genetic cloning itself when we talk about cloning we're just talking about making copies of something that's easy.
+32:40
+Andrew Ippolito: Gene Connie, the idea is is, we have a piece of DNA, we have a piece of DNA.
+32:46
+Andrew Ippolito: And we want to make. Andrew Ippolito: millions of copies of that.
+32:52
+Andrew Ippolito: that's simple idea we just we need, we need to make many, many copies if we're going to work with anything right, if you want to work with something you need a lot of it.
+33:01
+Andrew Ippolito: You want to work with a new kind of chemical well you got to order it right you mean let's say you wanted to work on ethanol, you have to buy a leader of ethanol right you want to work on a gene, you know build billion copies of the gene not just one.
+33:14
+Andrew Ippolito: So that's what this is all about how do we amplify genes in the test tubes that we can do work with it there's 1000 things we can do with it from there.
+33:22
+Andrew Ippolito: Alright, so for context, this would be like me teaching you how to cut wood at certain angles here's a miter cut here's a cross cut here's how you cut wood well, what are we going to do with it don't worry about it we're learning how to cut wood right now okay.
+33:37
+Andrew Ippolito: All right, vector. Andrew Ippolito: The concept of a vector is is the shuttle that will bring your copy of your DNA to where you need it to be.
+33:48
+Andrew Ippolito: Okay, the idea is you have your favorite gene let's call it that your favorite gene, I want to refer to why F G what gene is it doesn't matter.
+33:59
+Andrew Ippolito: Your favorite one Okay, and sometimes will refer to your favorite protein which comes from that g.
+34:07
+Andrew Ippolito: Right sometimes we're interested in jeans like if we were studying cancer mutations sometimes we're interested in protein products like insulin because we want people to take insulin for diabetes depends on the use case.
+34:20
+Andrew Ippolito: Right, maybe the genes and enzyme that breaks down organic polymers, and so we stick that gene into bacteria and now that bacteria can eat oil Okay, it depends on what we want to do.
+34:35
+Andrew Ippolito: The vector is what gets us there so remember a gene at the end of the day, we're particularly a protein gene we got that open reading frame and the excellence and the promoter.
+34:45
+Andrew Ippolito: Right, we want to just take the reading frame right, especially with the human gene you can't take a human promoter as we now know and put it into bacteria that doesn't work.
+34:56
+Andrew Ippolito: So we take the human open reading frame and we stick that reading frame in front of a lack promoter ah, now we can trick the bacteria into making human protein.
+35:08
+Andrew Ippolito: So the vector has to be designed in a certain way, so there's lots of different kinds of vectors there's two common types of actors, there are plasmid vectors.
+35:19
+Andrew Ippolito: And there are viral vectors. Andrew Ippolito: At the end of the day, both of these are small fragments of DNA.
+35:28
+Andrew Ippolito: OK, so the plasmid that's the one we're going to focus on here a plasma and if you recall, is a small little ring of DNA that we find in pro carrion got a few genes on them it's a nice to have it's not a must have.
+35:41
+Andrew Ippolito: And so we, the humans that are building tools are going to use a plasmid we're going to cut it we're going to put our favorite genes in there and we're going to mess, with it, so the plasma, in this case is being treated as a vector.
+35:53
+Andrew Ippolito: that's what we're using it for OK, so the vector is the thing that delivers the foreign DNA to the target.
+35:59
+Andrew Ippolito: To delivery system. Okay. Andrew Ippolito: A plasmid is a type of vector naturally positives are not vectors naturally plasmas are just extra genomic pieces of DNA we find in pro carriers.
+36:16
+Andrew Ippolito: And they generally just contain a small number of genes and an origin of replication so that the bacteria can make more and more of it that's a key part of that the origin right if there's no origin of replication you can't make any more of it, if you remember how DNA replication works.
+36:34
+Andrew Ippolito: When we talk about the insert that's the thing we're going to stick in a vector that's our favorite gene sequence it's always a DNA sequence.
+36:45
+Andrew Ippolito: we're going to splice it in or we're going to cut the plasmid we're going to stick it in there and then, once we do that we call that new piece of DNA the vector that has the little insert in it, we call that recombinant DNA, because it has DNA from multiple origins.
+37:04
+Andrew Ippolito: Okay, now the word recount with the phrase recombinant DNA doesn't necessarily mean this it just means any DNA sequencing or see a sequence of DNA that contains different sources.
+37:19
+Andrew Ippolito: Alright, so a natural example, this would be a virus that is recombined so, for example, take a pig and, in fact, that pig with a human.
+37:29
+Andrew Ippolito: cold virus and also, in fact, that unfortunate pig with a flu virus from a sorry a human flu virus.
+37:38
+Andrew Ippolito: infects the pig with a human food bars and also a bird flu virus, now the pig is double infected and this happens all the time.
+37:45
+Andrew Ippolito: To this poor pig is infected with the human buyers and I and a bird buyers inside that pigs body as those viruses replicates sometimes they shuffle the genes around and come up with recombinant biases and that's the stuff that makes us really sick.
+38:01
+Andrew Ippolito: that's how pandemic start. Andrew Ippolito: The bird flu, the avian flu couple years ago that's how that kind of stuff happens that's also recombinant Okay, so the idea of recombinant DNA is just two different sources of DNA that are now in the same thing.
+38:17
+Andrew Ippolito: And then I already said gene cloning is the idea of making many, many copies of that recombinant plasmid that recombinant vector.
+38:26
+Andrew Ippolito: Okay. Andrew Ippolito: You guys still with me. Okay.
+38:32
+Andrew Ippolito: So so tools in the toolbox, we got vectors now we're going to learn about restriction enzymes.
+38:39
+Andrew Ippolito: A restriction enzyme is a technically it's an endo nucleus it's a it's an enzyme that cuts DNA inside some.
+38:47
+Andrew Ippolito: sequence, not on the outside, you know the PAC man enzymes, we talked about those are excellent increases the things that he and break down the poly a pale.
+38:56
+Andrew Ippolito: Or if the CAP isn't there the five private right so we're not talking about those kinds we're talking about ones that come from within, think about the DNA repair enzymes, we learned about.
+39:03
+Andrew Ippolito: We just learned that as nucleus okay So these are nucleus is, but these are nucleus is that don't just cut DNA in random places they cut them that specific sequences specific words.
+39:18
+Andrew Ippolito: The sequences happened to be palindromes they read the same way backwards and forwards.
+39:24
+Andrew Ippolito: i'll show you a picture in a SEC naturally bacteria possess these enzymes, as part of a very primitive immune system when a virus gets infected by a feige.
+39:35
+Andrew Ippolito: It will express as part of a stress response, a whole series of these restriction enzymes in the hopes.
+39:42
+Andrew Ippolito: That the incoming viral nucleic acid has those words in it that are enzymes are going to take out and cut you shred it up and it's useless.
+39:51
+Andrew Ippolito: To protect our own DNA we're going to methylation so the bacteria methylation those same words remember methylation and shutting off genes and all that yeah we're gonna methylation at those sequences that takes them out of play, so that the enzymes ignore those and go after the buyers.
+40:11
+Andrew Ippolito: Okay, so that's its natural job the restriction ends up when I say the restriction enzyme there's a whole world of them there's thousands of them name all sorts of names so we're going to learn about one as an example, ECHO are one it's called that.
+40:26
+Andrew Ippolito: Because it comes from Escherichia Cola, we discovered this and you call up and it's the first one that's why it's our one and it's not ours restriction so ECHO are one is the classic restriction as an ECHO one recognizes this sequence GA ttc.
+40:47
+Andrew Ippolito: And when it sees GA ttc on any strand of DNA, it will immediately make a Nick in between the gta.
+40:57
+Andrew Ippolito: And a snippet Okay, this is a single strand that idea of just a single strand of DNA and it says GA ttc it's going to introduce a break in that sugar phosphate back.
+41:10
+Andrew Ippolito: Okay, so what makes this interesting is the fact that, on the other, strand of the DNA if you if you see this word carefully right G a a ttc read that backwards and upside down G Ay Ay T T see it's the same thing that's what makes it a palindrome isn't that cool.
+41:33
+Andrew Ippolito: Little secret messages within the DNA. Alison Howard: of your question.
+41:38
+yeah. Alison Howard: It is the backbone is eat some link is made up of the same thing, how does it know where to put the neck think what is.
+41:48
+Andrew Ippolito: A great question so so think of the active site of the enzyme. Andrew Ippolito: Right think of think of the shape of the active site.
+41:56
+Andrew Ippolito: can recognize so so think of G a ttc think of the fact that that even though the backbones all the same, those nucleic acids are all the the periods in the premiums are all different right.
+42:07
+Andrew Ippolito: So that specific sequence GA ttc of the guanine added new that anytime anytime mean cytosine the enzyme is shaped to fit exactly that series of nucleotides.
+42:20
+Andrew Ippolito: And when it grabs that series of nucleotides it cuts it there, this special like think of it like a machine that has a little cutting area like a little laser cutter right in between the gma.
+42:32
+Andrew Ippolito: So it reads this and it goes boom. Andrew Ippolito: Okay, and because it's a palindrome poop it puts the next cut there, and so that results in what we call a pair sticky ends, in other words, this overhang the TT a at the end, there is free to base pair with something.
+42:54
+Andrew Ippolito: Right. Andrew Ippolito: So here's a better way to see it here's let's say here's the vector here's here's a plasmid and I cut it with a car one alright, if I zoomed in on it would look like this.
+43:07
+Andrew Ippolito: So let's see here one strand. Andrew Ippolito: And let me see if I can do this.
+43:21
+Andrew Ippolito: Let me make this a little longer here.
+43:31
+Andrew Ippolito: That they do that no keep going like that there.
+43:38
+Andrew Ippolito: You can kind of see that now here, this is the fast way to do what your fingers your fingers like this okay and go upstairs to take take one hand go upside down and then do this.
+43:47
+Andrew Ippolito: Okay, so here's a double stranded DNA and then we cut it and you can see right here and right here are the sticky of these can stick together, these are complimentary ta ATT.
+43:59
+Andrew Ippolito: Right, but we break them apart, I put them all the way over here now I step back, I want you to imagine now, if I had a new piece of DNA, as long as the ends were the same, I can glue it right in there.
+44:13
+Andrew Ippolito: So that's what happened, the next slide here. Andrew Ippolito: Alright, so the orange represents the vector the blue I want you to look carefully the blue there, she has to overhangs.
+44:23
+Andrew Ippolito: Okay, whatever that is that blue, this is our insert where did it come from don't worry about it there's 1000 ways we can get that with genomic DNA, it could be, we can artificially synthesize that it doesn't matter The point is, is that it has this pair of sticky.
+44:44
+Andrew Ippolito: And what's more is these sticky ends the reason that sticky ended like that is because it was cut with a core one.
+44:52
+Andrew Ippolito: that's one of the keys here, it has to be cut, with the same enzyme so we're going to now cut the vector here.
+45:00
+Andrew Ippolito: When I pull it apart there's our sticky ends, so you can see now that's complimentary to that.
+45:07
+Andrew Ippolito: And that's complimentary to that. Andrew Ippolito: So we can literally.
+45:13
+Andrew Ippolito: put them in there now now you're asking well how you doing that, so this is what you do you take a test tube that's got a billion copies of both of these things, and you hope for the best.
+45:25
+Andrew Ippolito: And then you have a way i'll show you where you take that population of molecules and you can select for the ones you want.
+45:33
+Andrew Ippolito: i'll show you how that works, but right now here's a concept we're going to put these together sticky hands and now of course right, we have all these breaks on the DNA right Those are all 523 prime breaks.
+45:44
+Andrew Ippolito: We don't, we need to glue those together well guess, who comes in, to do that, like our old friend DNA like his dad just drop a him to the test tube and again we hope for the best and he seals, the deal.
+45:56
+Andrew Ippolito: And now we have a piece of recombinant DNA.
+46:03
+Andrew Ippolito: All right, so any questions up to this point, this this needs to be ABC level stuff because if this doesn't make sense everything's going to fall apart for you, so this is where you're going to ask me simple questions now.
+46:16
+Taylor Obert: I have a question. Taylor Obert: Good dealer so the ends hang off those are sticky ends.
+46:24
+Taylor Obert: Not ones that are. Andrew Ippolito: No, so all of these, we would call sticky. Andrew Ippolito: hands, what makes them sticky is that there's a single strand jutting into space Okay, and we can distinguish them by.
+46:39
+Andrew Ippolito: In a more complicated class I would teach you I think your book gives you this some restriction enzymes, this is just evolution and there's no reason for this, but some restriction enzymes will cut.
+46:49
+Andrew Ippolito: In that staggered way with the palindrome you get the sticky answering that right that results in.
+46:58
+Andrew Ippolito: The sticky ends right there are other restriction enzymes that when they cut they cut in the same place.
+47:06
+Andrew Ippolito: They cut across the double strand, and so you get what are called blunt ends where they're the same.
+47:13
+Andrew Ippolito: see a blunt ends versus sticky blunt ends are useless, for us, and so it turns out, when we have to actually do this in the lab let's say that the only.
+47:24
+Andrew Ippolito: restriction as i'm that we can use for this particular sequence of DNA we care about is a blend we would then have to further process that.
+47:32
+Andrew Ippolito: And there's a special part of DNA called the clan now fragment you don't have to know that for the test, but this is just really cool it's called the canal fragment it's a little piece of DNA polymerase and what it does.
+47:45
+Andrew Ippolito: Is it eats away. Andrew Ippolito: And it gives us sticky hands.
+47:51
+Andrew Ippolito: Naturally, there are times in the cells life when it has these blunt ends let's say when it's doing DNA repair.
+47:58
+Andrew Ippolito: You have you know some kind of damage to the DNA, we learned about last time, and we have this double strand break.
+48:04
+Andrew Ippolito: If you want to put those back together again you have to you have to basically play with a little bit.
+48:10
+Andrew Ippolito: right if you've ever had a damaged at home let's see somebody accidentally punched a hole in the wall or drop something into the wall, you have this big damage on the wall.
+48:19
+Andrew Ippolito: Right, have you ever had to repair something like that you take a razor blade you cut out on neat Square and you get rid of all the garbage right, so you take something that's frayed and damaged and you trim it a little bit.
+48:30
+Andrew Ippolito: And then you patch it that's what we do with DNA to we trim it a little bit we clean it up a little bit, and then we just put some filler in there it's not as good as the original but it's gonna you know it'll still keep the rain out.
+48:44
+Andrew Ippolito: Okay okay so sticky more questions.
+48:59
+Andrew Ippolito: Okay. Andrew Ippolito: i'm not going to show you, and this is an actual vector we use in the lab okay this vector does all the things that your book tells you in the theoretical so your book gives you all this information about the double selection and all that this is the actual one that I use this.
+49:22
+Andrew Ippolito: is called paki team Puck the Puck vector This is called an expression vector we call it an expression vector because it's controlled by the lack promoter and let's just grow things and bacteria.
+49:35
+Andrew Ippolito: So if you have a protein like so I had a protein, I wanted to grow up in in bacteria and then purify it to do experiments with I stuck the gene for that protein in this plasmid.
+49:46
+Andrew Ippolito: Alright, so Puck stands for the lowercase P, is for plasmid the uc is because it was discovered and define it was created at the university California and I was 18th one they did.
+49:57
+Andrew Ippolito: Okay, I think your book gives you Puck 19 as an example and it's exactly 2686 space peers.
+50:04
+Andrew Ippolito: that's one of the nice things about working with DNA is it's very digital there's very specific numbers as but proteins are like vinyl records and DNA is like MP3 there's the digital world and the analog world DNA nucleic acid Rosemary digital and the protein bars are a analog.
+50:24
+Andrew Ippolito: Okay there's the origin of replication. Andrew Ippolito: All right, right that's got to be there because when we stick this in bacteria and grow them, we need them to make many copies of this, so this gives us the ability to clone it so this.
+50:38
+Andrew Ippolito: This here that's the ampicillin resistance gee it's under constitutive expression control from the amp our promoter it's always on and we never wanted to turn off.
+50:50
+Andrew Ippolito: The gene amp are gives us an enzyme that allows the cell to survive in the presence of this antibiotics ampicillin we abbreviate that amp.
+51:04
+Andrew Ippolito: Okay, so amp in the presence of amp bacteria don't grow, they don't die, but they don't grow if they have the amp our gene in a plasmid inside them, they can grow.
+51:15
+Andrew Ippolito: Okay, with the protein product of this gene does is it gets exercise those to get spit out in the solution around it and then it's a it breaks down ampicillin.
+51:28
+Andrew Ippolito: Okay. Andrew Ippolito: Why would we need this here, well, we want to make sure.
+51:36
+Andrew Ippolito: That one we're working with the bacteria were using and we stick this plasma into them, we need to make sure that it's actually there.
+51:45
+Andrew Ippolito: Right. Andrew Ippolito: So I want you to think of it this way ready, let me use a whiteboard for this let's start building this concept out where's my whiteboard.
+51:59
+Andrew Ippolito: here's a petri dish. Andrew Ippolito: This is just a normal petri dish doesn't have anything special in it, if I poured bacteria in there, I played it on the plate I let it going to beat for 37 degrees overnight come in the next day it's gonna be covered in bacteria.
+52:13
+Andrew Ippolito: right if I add ampicillin to it, and I do the same thing I come in the next day nothing's going on, because I don't you know I just if I just added some generic E coli to it's not gonna grow that'd be a nice clean plate.
+52:29
+Andrew Ippolito: Right now, if I had a bacteria here let's see, this is a bacterial so.
+52:34
+Andrew Ippolito: Right so let's see all that a government now so if I just add this bacterium to this ampicillin plays not going to grow, because he can't because there's no resistance stamp isn't but if I take my expression vector that has that amp our gene in it.
+52:56
+Andrew Ippolito: The Amazon resistant seen in it now i'm going to see.
+53:01
+Andrew Ippolito: My bacteria grow in the presence of ampicillin. Andrew Ippolito: Okay, so that tells me.
+53:10
+Andrew Ippolito: That I have these you know these uh.
+53:15
+Andrew Ippolito: These little growth these colonies those colonies have my have bacteria in them.
+53:22
+Andrew Ippolito: But I should say this i'm sorry i'm getting tired these colonies have bacteria made from those with the plasma.
+53:30
+Andrew Ippolito: Okay. Andrew Ippolito: So let's just let's keep it simple right now, just think about this like if we were in lab if I was teaching you a basic molecular techniques.
+53:39
+Andrew Ippolito: class, we would do this, we would just take puc 18 alone just generic paki teen with that emphasis on resistance and we would do a practice transformation so that's what we do, we take a test tube.
+53:51
+Andrew Ippolito: And this test tube would have within it, so he call I write a whole bunch of it billions of living cells will be color.
+54:01
+Andrew Ippolito: And these are specially call I, these are a color we beat up a little first. Andrew Ippolito: We beat them up a little bit we soften them up, but we did was we made their membranes a little permeable we call these competence cells.
+54:18
+Andrew Ippolito: Competent, in other words, there are more competent to be transformed we're gonna they're they're more likely to absorb within them.
+54:29
+Andrew Ippolito: DNA from their environment, remember Fred Griffith is experiment with the MICE remember the idea of transformation okay in vitro transformation that's what we're doing.
+54:41
+Andrew Ippolito: And it turns out transformation is very rare in nature, it doesn't happen too often one in a million, so what we've learned is, we can take bacteria and make them a lot more likely to transform and so there's a whole process there to make competent vector or you can buy them.
+54:58
+Andrew Ippolito: they're super fragile think of them like. Andrew Ippolito: Slightly broken pieces of porcelain right you're transferring them pipettes you have to be super gentle with these things are just going to start lights it.
+55:10
+Andrew Ippolito: Okay, so we have competent back here and then we're going to add a bunch of this Puck we're going to add the plasma here.
+55:20
+Andrew Ippolito: And then we're going to just we're going to do a protocol, where we incubate them in certain ways to make them basically suck up that that Puck.
+55:30
+Andrew Ippolito: Okay, the problem is not the problem, but what's but the reality is is most of the bacteria won't be transformed, so if we were able to in our minds i'd go inside of that test tube we would see two kinds of bacteria, we would see bacteria that successfully brought the positive in.
+55:48
+Andrew Ippolito: And they would be in the minority. Andrew Ippolito: And there will be a whole bunch of bacteria that didn't get it that'd be the more common.
+55:56
+Andrew Ippolito: And so what we're gonna do is we're going to have a little test to appear with a billions of bacteria and we're going to complete them after we incubate them, and so we say after our transformation reaction we're going to put them on to.
+56:10
+Andrew Ippolito: An employee. Andrew Ippolito: And then we're gonna put him in the incubator and we're gonna let them grow overnight at 37 degrees and hope for the best and we come in the next day, and we look at it, and if we did something wrong like we pipe edit them to violently there's going to be nothing growing.
+56:28
+Andrew Ippolito: And then you're going to start your experiment all over again and you're going to do that for three or four weeks, probably because you stink at this.
+56:39
+Andrew Ippolito: Your first year Grad student, you have what's called the system touch everything you will King midas right anything King midas touch turns to gold.
+56:47
+Andrew Ippolito: really good people who work in lab they say they have golden hands everything they touch turns to gold they're really good lead the system touches the opposite of that everything you touch turns to shit.
+57:00
+Andrew Ippolito: Okay. Andrew Ippolito: So, remember that remember the question we went over today, it was like a researcher becomes proficient in an ability to swap pieces of D, but the whole becoming proficient thing that's the whole you tried it 1000 times until you finally figured out how to do it.
+57:16
+Andrew Ippolito: You become a really important person in the lab because you know how to do something like this okay.
+57:22
+Andrew Ippolito: So let's see you got good at this, you have to do the control anyway, you pour it in there you go overnight, and now the next day you come in and let's say there's three colonies, the think about that for a second there were a billion cells in there you've got three.
+57:37
+Andrew Ippolito: The 300 billion chances happened basically statistically speaking that's how rare, this is you got three columns.
+57:43
+Andrew Ippolito: Now, each one of those colonies came from one cell that then went through binary vision, again and again and again every 20 minutes and you got to the point where you can see it.
+57:50
+Andrew Ippolito: it's called the corner selection carnal expansion Okay, and because it's growing the President ampicillin you know now that those bacteria have your vector.
+57:59
+Andrew Ippolito: And so what you can do is take a little loop, and you can scoop it up, and you can go over here.
+58:07
+Andrew Ippolito: To 500 milliliters of broth media that has ampicillin in it, you have to keep the ampicillin in it.
+58:15
+Andrew Ippolito: And just put a tiny little drop of bacteria in there, put it in a shaker go overnight again, and the next day you come in so you're D3 now you have 500 milliliters of cloudy bacteria, you have literally trillions of cells that all have your positive.
+58:32
+Andrew Ippolito: If you forget to add the ampicillin here. Andrew Ippolito: You come in the next day, and you also see a bit cloudy thing and then you go through another two days and purifying the DNA, only to find that it's not there anymore.
+58:43
+Andrew Ippolito: Why, because if you don't put the ampicillin there the bacteria don't care how to grow and they don't care about your plasma they don't need it anymore.
+58:51
+Andrew Ippolito: And so slightly or mutations happen, eventually, they just don't keep it, and so the bacteria that don't have the plasma, they can grow a lot faster and better because they don't have to deal with this plasmid and so you have to meet basically maintain a constant selective pressure.
+59:08
+Andrew Ippolito: that's how we keep things in evolution. Andrew Ippolito: Okay.
+59:14
+Andrew Ippolito: Now let's think about a plasma that has her inserted. Andrew Ippolito: that's where things start to get interesting so going back to the PowerPoint here, you see this part here and so we've talked about the origin we've talked about the bar.
+59:26
+Andrew Ippolito: Okay now it's talking about this mess over here that's the legs EG you already learned that in the black op RON what's the likes eating do again what protein does that produce.
+59:42
+Michael Caselli: collects the site is. Good. Andrew Ippolito: beta galactic side, as we call it beta gamma something people got bigger whatever that ends on does white it cuts lactose in half right normally so will we do is, we have an artificial version of lactose is called ex-co.
+1:00:00
+Andrew Ippolito: Basically, instead of glucose and galactose it's this other thing X and collectives still die sacra X go.
+1:00:09
+Andrew Ippolito: We call X Gal a non metal realizable. Andrew Ippolito: analog of lactose, in other words to sell a treat it like lactose, but it can break it down for energy.
+1:00:22
+Andrew Ippolito: Okay now normally X Gal is a white powder.
+1:00:29
+Andrew Ippolito: In the presence of beta glass the site is. Andrew Ippolito: The enzyme will break it down and the byproduct of that the chemical will look blue it changes color.
+1:00:41
+Andrew Ippolito: These are the kinds of tools we use. Andrew Ippolito: to let us, we can take advantage of this system, the idea of taking a clear, you know white color and turning a blue only in the President, the enzyme that means if it turns blue, we have the enzyme right.
+1:00:56
+Andrew Ippolito: So we can be haha we are the enzyme. Andrew Ippolito: So, going back to our original experiment here.
+1:01:06
+Andrew Ippolito: If I added X Gal to this plate.
+1:01:13
+Andrew Ippolito: What color were those colonies be.
+1:01:18
+Andrew Ippolito: Think about that for a second that but i'm going to give you a minute chew on that okay so ready We took our paki paki teen had two markers in it, it had the amp resistance gene and it had the lexi gene in there, we added it to so we transformed ourselves, we stuck him in a petri dish.
+1:01:37
+Andrew Ippolito: And that Peter just contains both ampicillin the selectable marker one and X gauss let's have a marker to what color in our control are those colonies white or blue.
+1:02:02
+Andrew Ippolito: This would be a good test question.
+1:02:13
+Andrew Ippolito: Okay logic your way through this, why would something be blue in this environment, what makes it blue.
+1:02:26
+Andrew Ippolito: Okay, so we're here. Andrew Ippolito: Remember here's so here's X cow. Andrew Ippolito: This is a molecule that looks white good it's a white powder.
+1:02:35
+Andrew Ippolito: X Gal is an analog of lactose remember that lactose gets broken down by beta like societies Okay, so, in the presence.
+1:02:45
+Andrew Ippolito: In the presence of beta galactica situs.
+1:02:51
+Andrew Ippolito: The X Gal is going to get broken in half, and I told you earlier, that the product of that is blue.
+1:03:00
+Andrew Ippolito: Okay, so when beta Gal breaks X Gal the products have that reaction term blue.
+1:03:10
+Andrew Ippolito: we've taken the plasmid didn't fully intact plasmid we've stuck into Nikolai we grow it in the presence of both ampicillin and X Gal what color are those calls.
+1:03:20
+Alison Howard: blue. Good. Alison Howard: Exactly. Andrew Ippolito: And the blue color looks almost exactly like this color it literally looks like that color This is like the perfect.
+1:03:31
+Andrew Ippolito: X Gal product color that that shade of blue you'd seen so you'll see that in the lab you'll do this experiment and sure enough you'd see blue colonies everywhere that's great that means you have your system up and running.
+1:03:43
+Andrew Ippolito: Okay. Alison Howard: Ever question. Andrew Ippolito: yeah got. Alison Howard: just want to make sure i'm understanding streets, it does it turn blue because the X cow gets broken down.
+1:03:54
+Andrew Ippolito: Yes, and why does the X gotta get broken down. Alison Howard: Because they metabolize it. Andrew Ippolito: What metabolizes it.
+1:04:00
+He. Alison Howard: they're not that the bacterial cells. Andrew Ippolito: Okay, what, how is it metabolizes.
+1:04:10
+Andrew Ippolito: Okay. Andrew Ippolito: there's that's The key to this. Where Am I reading this here.
+1:04:16
+Andrew Ippolito: This gene. Andrew Ippolito: produces the protein beta go.
+1:04:22
+Andrew Ippolito: beta galley enzyme breaks down X Gal that's white and turns it blue.
+1:04:29
+Andrew Ippolito: Okay, so if we see a blue colony that tells us, we have a bacterium that has the pokey team in there it's producing beta gullah societies it's breaking down X Gal from white to blue.
+1:04:43
+Andrew Ippolito: Okay, in other words, we have a functional lack CG. Andrew Ippolito: OK, and now we're gonna break it ready, I want you to look over here so okay so first of all right, we had the last promoter and locked operator, they are that's why this is called an expression vector that gives us the power to express what's ever downstream from that promoter.
+1:05:06
+Andrew Ippolito: Okay immediately so in the beginning of the lack CG right here artificially scientists have put this thing in there.
+1:05:14
+Andrew Ippolito: it's called the mcs it's called a multiple cloning site and all it is, is a series of palindromic sequences palindromic sequences that represent the cut sites for just a small library of enzymes and these are those enzymes.
+1:05:30
+Andrew Ippolito: The memorize this but there's ECHO r1 and there's others there's hank to him three the quiet one one sack one SMA.
+1:05:42
+Andrew Ippolito: Right and all these words are funny to say out loud my very first slide but here's a very quick fun story my very first lab meaning ever I was handed a PowerPoint deck that had to give publicly to the lab and within it, it was a.
+1:05:54
+Andrew Ippolito: was a cloning protocol step one do this step two, and so one of the steps at the very top of the slide and ball that said.
+1:06:04
+Andrew Ippolito: And I had to say, we cut it with restriction enzyme. Andrew Ippolito: buck one.
+1:06:10
+Andrew Ippolito: Guy all the giggles and I giggle to and that's the name of the enzyme as well Fuck one.
+1:06:17
+Andrew Ippolito: yeah. Andrew Ippolito: So it's one of those enzymes has a different word that it does right and so when we're dealing with human genes or you know, whatever gene.
+1:06:27
+Andrew Ippolito: We don't pick those sequences Nature did so, what we have to do is read that sequence, and hope that we can find a cut site somewhere in the five prime end of the gene and the three primary thing, so we can cut it out.
+1:06:38
+Andrew Ippolito: And that's a whole tactic itself right that's why we have this mcs so it gives the researcher more a higher chance of finding a good concert.
+1:06:47
+Andrew Ippolito: OK now let's say that you're dealing with a gene that has none of those cuts sites in it, well then you're not using puppy team you're using 22 that has a whole separate set of mcs sequences.
+1:06:57
+Andrew Ippolito: Okay, so there's a lot of planning that goes into this stuff and in fact the first few weeks of a project, when you first start in the lab is your planning what's called your cloning strategy.
+1:07:10
+Andrew Ippolito: Your cloning strategy involves picking out the right enzymes in the right sequence is and what you're going to do with it all you have to map out the battle before you do it.
+1:07:19
+Andrew Ippolito: So, right here is where that mcs is now I want you to think about this, if I cut the plasma right here.
+1:07:26
+Andrew Ippolito: Look at what that does to the lack CG lakota dose of the product, the the genomic speed ago it breaks it.
+1:07:34
+Andrew Ippolito: Right, so when I cut the legs aging open. Andrew Ippolito: I break it if I put it back together again then it's fine again right so ready remember this idea we're going to take the vector.
+1:07:46
+Andrew Ippolito: And I want you to think now here's the multiple cloning site and we're gonna cut it with ECHO r1 once that that opens it up right we get the sticky ends here in here.
+1:07:58
+Andrew Ippolito: You guys with me Okay, so now imagine we have a test tube filled with a billion copies of puppy team and we sprinkle in some ECHO r1 and we incubate it for 15 minutes and now all of those vectors are split open they're all cut right and they're all we're going around in a test tube.
+1:08:18
+Andrew Ippolito: What i'm going to do, then, is i'm going to add to that test tube a billion copies of my insert.
+1:08:26
+Andrew Ippolito: Previously, or it was a previously, I have some help come up with this insert and then it also has the same sticky animals there's a billion copies of that.
+1:08:38
+Andrew Ippolito: And then I just incubate them and I cross my fingers and I hope I did everything right and so there's only two champ there's only two outcomes here.
+1:08:47
+Andrew Ippolito: The most common outcome which we don't want is that the vector so here's look at my hands for a second here is the vector we opened it now these these are complimentary to each other right so it's just going to do this.
+1:09:00
+Andrew Ippolito: is going to close again. Andrew Ippolito: it's so broken right, we still need like ease, but so we call this the empty vector.
+1:09:10
+Andrew Ippolito: We don't want this, but that happens, most of the time and then rarely.
+1:09:16
+Andrew Ippolito: The vector will stick co violently with the insert will call this vector plus insert, and this is what we want.
+1:09:29
+Andrew Ippolito: Okay, so, but we can't see any of this, this is just invisible on the test tube happening billions of times.
+1:09:34
+Andrew Ippolito: And then, once we give it some time and we hope for the best we then add some ligation there and what the luggage does is it makes all this permanent right it glues this together.
+1:09:44
+Andrew Ippolito: They glues these together, and now we have these permanent, these are very common and pieces of DNA now but, rather, this one is anyway, this one's just it's old paki teen so.
+1:09:55
+Andrew Ippolito: So now, the question is how do I distinguish those right, so I take this test tube that has this whole population of vectors and inserts or empty vectors in it, and then I do a transformation reaction.
+1:10:06
+Andrew Ippolito: So let's go back to the PowerPoint now, so we do this whole transformation reaction now Okay, and I want you to think about what happens in that test tube drink transformation.
+1:10:15
+Andrew Ippolito: Alright, so ready, we have this test tubes we use white. Andrew Ippolito: Have a test tube and in that test tube we have two populations of molecule we have our closed vector or empty vector and we have our vector plus our insert.
+1:10:32
+Andrew Ippolito: And we're going to use that here's another tube and this tube has a whole bunch of eco lion.
+1:10:41
+Andrew Ippolito: And we are going to take our reaction tube and we're going to put a whole bunch in here, not all of it, but a lot of it and we're going to incubate it and we're going to go through this whole protocol for transformation.
+1:10:54
+Andrew Ippolito: The incubator on ice for five minutes me heat shock it and we let to recover we do all stuff and then we played it.
+1:11:05
+Andrew Ippolito: And we played it on ampicillin. Andrew Ippolito: And also X go.
+1:11:16
+Andrew Ippolito: We we overnight, I mean go 24 hours 37 degrees.
+1:11:23
+Andrew Ippolito: We come in the next day and nothing's there oh that sucks, we have to do all again that's probably what's gonna happen, the first time you do it, and the second, maybe the third.
+1:11:32
+Andrew Ippolito: You maybe come in one day and they're all there you see a bunch of colonies, but they're not white and that's because you actually grew up in an emphasis on paper forgot they had the scale.
+1:11:41
+Andrew Ippolito: And so you have to grow it again and, eventually, you get to the point where you're like okay this place has a good transformation in it it's got X gallon ampicillin the incubator didn't break down overnight.
+1:11:52
+Andrew Ippolito: And here I am and I see a whole bunch. Andrew Ippolito: Of i'm Sorry, I see a whole bunch of blue colonies.
+1:12:02
+Andrew Ippolito: Okay, which means what Mr blue colony represent.
+1:12:12
+Alison Howard: X scam. Andrew Ippolito: Good which means, so what so remember. Alison Howard: The lacquer that it has a lack of different.
+1:12:20
+Andrew Ippolito: Okay, what what so which one of these is is does that represent a or B, that is it the empty vector or is it the vector plus answer.
+1:12:29
+Be. Alison Howard: be the vector plus to insert. No.
+1:12:35
+Andrew Ippolito: No here's why so this, this is the tricky part ready, so what you're going to get it now, this is what's going to make you understand everything when we add that insert in there, we have interrupted the lexi gene We broke it.
+1:12:49
+Andrew Ippolito: So a bacterium that has this will make no functional.
+1:12:56
+Andrew Ippolito: beta go. Andrew Ippolito: Without a functional beta Gal it's not breaking down X Gal to make it blue.
+1:13:05
+Andrew Ippolito: Okay hey the empty vector has beta gallon it. Andrew Ippolito: it's going to make blue so most of these colonies are going to be blue, whether you like it or not, you're gonna hopefully I mean you're already ahead if you see a bunch of blue that means everything else worked.
+1:13:18
+Andrew Ippolito: What you're looking for the holy grail of this experiment is that magic white colony.
+1:13:25
+Andrew Ippolito: Right, so let me draw this in a cleaner way let's look at it from a bird's eye view you're going to see a whole bunch of blue colonies those each one of those college represents a successfully transformed bacterium.
+1:13:39
+Andrew Ippolito: And you might see one.
+1:13:45
+Andrew Ippolito: Depending on the quality of the insert you gave it. Andrew Ippolito: Like if it was a product of another reaction like a PCR reaction, you might not see it, so you might have to plate let's see your reaction had a I don't know.
+1:13:59
+Andrew Ippolito: A whole milliliter of bacteria, you might have to play seven or eight petri dishes and look through all seven of those and look for one of them it has one white because you're looking for the needle in the haystack.
+1:14:13
+Andrew Ippolito: Okay, so think about that transformation reaction for a second go back up here think about that transformation, we have here's a bacterium.
+1:14:21
+Andrew Ippolito: And what we want is for that bacterium to take up our plasmid that includes our insert that's our that's what we want Okay, but there's two other kinds of bacteria in there there's the bacterium that took up the empty vector.
+1:14:36
+Andrew Ippolito: This okay so ready this one's going to grow in the presence of ampicillin right.
+1:14:42
+Andrew Ippolito: he's going to grow okay in episode, because you got the vector and he's going to keep the X Gal white because he doesn't have better like sightings.
+1:14:52
+Andrew Ippolito: This one is going to grow in the presence of ampicillin you're going to see a colony of him, but he's going to be able to functionally break down that beta go i'm sorry the X Gala he's gonna make a blue collar.
+1:15:02
+Andrew Ippolito: And then you're going to have the lazy bacterium that didn't feel like transforming at all and he's not going to grow at all.
+1:15:09
+Andrew Ippolito: We don't even see him that's why this plate only has maybe seven or eight colonies on it.
+1:15:15
+Andrew Ippolito: And the President ampicillin only the bacteria that took up the plasmid are going to grow on it, and then the white ones, are the ones that absorbed the or rather were transformed by the plasma that had your fear Regina and search.
+1:15:30
+Andrew Ippolito: And so what you then do the very last step to all this is, you would take a sterile loop, you would very carefully physically grab that scoop it up put it into a huge flask and grow it in the presence of ampicillin.
+1:15:45
+Andrew Ippolito: and the next day you come in and you would have a full leader, or whatever you want of bacteria, where every single one of those trillions of cells is producing your protein of interest or your gene of interest.
+1:15:57
+Andrew Ippolito: And then from there sky's the limit, you can do 1000 different things. Andrew Ippolito: Okay, what I would do in lab, or so I did all this with having I wanted to make a protein product for pm, so it was a human protein that I was doing in vitro.
+1:16:13
+Andrew Ippolito: Protein interaction assays, and so I would do all this, and I would come in the next day, and I would then pour all this into a centrifuge with pure.
+1:16:21
+Andrew Ippolito: spin it all down get the bacteria itself and then we'll put it in a test tube and I would do all this stuff to purify the p amp l protein from it.
+1:16:29
+Andrew Ippolito: Using antibodies, and all this fancy stuff it would take the whole process, from start to finish, would take.
+1:16:36
+Andrew Ippolito: Two weeks. Andrew Ippolito: To go from here, you know here's your here's a little vial of your plasmid in here some bacteria.
+1:16:45
+Andrew Ippolito: And then, from that point to here's a tube containing some artificially produced PL protein it's about two weeks.
+1:16:57
+Andrew Ippolito: very laborious stuff. Andrew Ippolito: But. Andrew Ippolito: it's at the end of the day, it's kind of exciting because you're you know you're basically purifying the building blocks of life and then asking questions about them.
+1:17:11
+Andrew Ippolito: Okay questions. Michael Caselli: I was just wondering seven like.
+1:17:17
+Michael Caselli: How exactly is there a white bacterial cell in the presence with with.
+1:17:24
+Michael Caselli: Like when when there shouldn't be exactly like why, why does it spawn. Michael Caselli: Like I was speaking to you says to like when we have the X Gal President, and then there would be all the blue factory of cells in the white one like, why does it exist.
+1:17:38
+Andrew Ippolito: Why does the blue one exist. Michael Caselli: know the white one like the single like the loan white one. Andrew Ippolito: Oh, why does that one exist yeah Okay, so if you go all the way back to the reaction.
+1:17:51
+Michael Caselli: here. Andrew Ippolito: The idea of step one is cut the insert. Andrew Ippolito: So we opened it up.
+1:17:57
+Andrew Ippolito: Step two is to incubate it i'm sorry i'm sorry I said insert let me i'm tired sorry, let me see us again we take our plasmid and we cut it with a restriction, as we open it up step one step two is we incubated with a whole bunch of our insert.
+1:18:14
+Andrew Ippolito: At this point. Andrew Ippolito: Most of that vector is just going to close again.
+1:18:20
+Andrew Ippolito: But some of it is going to have are inserted.
+1:18:25
+Andrew Ippolito: Okay, so we have a me like eat it right, we got like so we have a test tube that contains both of those both of this, and this on the same population of molecule we're then going to take that mixture and we're going to add it to bacterial cells.
+1:18:40
+Andrew Ippolito: And the bacterial cells are either not going to take it at all. Andrew Ippolito: they're going to take up one of the more common empty vectors or they're going to take up our vector plus the insert.
+1:18:53
+Andrew Ippolito: Okay, we then want to take that whole. Andrew Ippolito: Little tube of bacteria that are also part of his whole population mixed population or organ i've played all those in the President of both ampicillin and X go Okay, adding the emphasis on ensures that we can get rid of him we don't want him.
+1:19:12
+Andrew Ippolito: And then, adding the X Gal allows us to distinguish between the two survivors if it's a white colony that tells us it's a containing are our vector that's good if it's a blue colony we don't want that one.
+1:19:27
+Andrew Ippolito: Okay, so this is what we mean by a selectable marker it allows us to indirectly determine the presence of our vector positives.
+1:19:40
+Andrew Ippolito: Okay, that helped me. Michael Caselli: yeah Thank you. Michael Caselli: you're welcome. Andrew Ippolito: All right, more questions.
+1:19:51
+Andrew Ippolito: Alright, so to summarize this you can say the goal of the first marker is at answering the question is my plasmid present.
+1:20:01
+Andrew Ippolito: The secondary selectivity is is my recombinant plasmid present.
+1:20:09
+Andrew Ippolito: So there's two hurdles to get over is one is did my transformation work at all and to did my insertion work.
+1:20:18
+Andrew Ippolito: And you need the two because neither one of the markers alone ampicillin alone or X Gal alone is not sufficient right if I just grew the bacteria nap to ceylan.
+1:20:28
+Andrew Ippolito: I would just see bacteria right and there's a one in 1000 chance that the bacteria that I randomly pick from that has my answer it right, so an easier thing to do would be to add with the Expo if I did X Gal alone, I would just grow a whole bunch of bacteria.
+1:20:45
+Andrew Ippolito: And I wouldn't be able to distinguish my individual colonies. Andrew Ippolito: I would never find it.
+1:20:54
+Andrew Ippolito: Right, the idea, there is untransformed bacteria will grow much faster than transform bacteria, because they have less of a.
+1:21:01
+Andrew Ippolito: Think of having the plasmid is kind of a drag right, you have to it's going to take you a little longer to grow, because you have all this extra stuff.
+1:21:10
+Andrew Ippolito: Right, and so the untransformed bacteria is gonna be able to sprint, while the other guys being held down by you know there's 50 pound bag.
+1:21:18
+Andrew Ippolito: So you need to hold back the sprinters and let the guy with the 50 pound bag get through it.
+1:21:25
+Andrew Ippolito: that's what the whole key of selection is okay, and so that's that's the basics of.
+1:21:31
+Andrew Ippolito: Bio that's the basics of gene cloning. Andrew Ippolito: Okay now let's say that you wanted to encode a let's see you wanted to create a human gene product you wanted to create like insulin.
+1:21:45
+Andrew Ippolito: Right and we have that pesky promise in terms of next ons bacteria have no idea what to do with those right, so we need a piece of DNA that doesn't have in transit.
+1:21:53
+Andrew Ippolito: Right and so to do that. Andrew Ippolito: We purify from human cells, a bunch of messenger RNA.
+1:22:02
+Andrew Ippolito: And you do that remember the poly tales, or you can buy these beads that stick the poly.
+1:22:08
+Andrew Ippolito: And so you take a boatload of cells you'll blow mobilise and you get a license and you run them on these beads and the only thing that sticks to the beads like little magnets for RNA.
+1:22:18
+Andrew Ippolito: And you wash them away you wash the beads until the only thing that's left is the RNA and then you then you can treat them in a certain way that where the RNA falls off the beads and other and solution right, so you purify the Arctic, Mr.
+1:22:30
+Andrew Ippolito: OK, so the idea is the cell did all the dirty work for you all the electrons are being cut out all the splicing happened, you now have a splice mature transcript.
+1:22:39
+Andrew Ippolito: All right, the second thing you do. Andrew Ippolito: Is you take that RNA.
+1:22:46
+Andrew Ippolito: And you reverse. Andrew Ippolito: transcribe it.
+1:22:51
+Andrew Ippolito: Reverse engineer it to DNA there's an enzyme called reverse. Andrew Ippolito: transcriptase.
+1:23:00
+Andrew Ippolito: A major we find these retroviruses like HIV retrovirus genomes or RNA, and so what they do is the opposite of what we do day take RNA and they convert it into DNA and so we're going to take this tool reverse transcriptase RT.
+1:23:19
+Andrew Ippolito: or we're going to take our messenger RNA and we're going to run or an RT reaction reverse transcriptase reaction, and so what we call a product of that is complimentary DNA see DNA.
+1:23:32
+Andrew Ippolito: Okay, so this is totally artificial, this is all pure laboratory stuff we take the human Mr na for insulin and we converted into a small piece of DNA called see DNA.
+1:23:44
+Andrew Ippolito: OK, so the key is when you see this, and this is only one to come from this is a very important thing when you see see DNA, I want you to think.
+1:23:52
+Andrew Ippolito: There is messenger RNA that we have now this long term high quality stable molecule of coding for it right, we can do all sorts of stuff with this, there are things, called CD may libraries, a CD me library is an entire pile of petri dishes that have random.
+1:24:13
+Andrew Ippolito: pieces of Mr ne that have been converted to CD throughout them these libraries are what allows us to have access to any.
+1:24:20
+Andrew Ippolito: Mr na in the world that's expressed in whatever species, you have the library for so let's say you want to do some research on a particular gene in humans you wanted to work with a particular protein.
+1:24:33
+Andrew Ippolito: You would take a CDMA library, he would find the plate that had the gene in it you're interested in, you would grow some of that up and you would purify some of that CD name, so you get the insert.
+1:24:46
+Andrew Ippolito: Okay, so now we have this insert. Andrew Ippolito: made from a piece of Mr na and that insert.
+1:24:55
+Andrew Ippolito: We can then use in there, it is a vector plus insert the whole idea of the insert there, so what we can do, then, as we can put that into bacteria like we just walked through.
+1:25:07
+Andrew Ippolito: And that bacteria, while now produce a human protein. Andrew Ippolito: Because there's no insurance anymore.
+1:25:17
+Andrew Ippolito: make sense okay good. Andrew Ippolito: So you can the rest of this stuff you can read through on your own.
+1:25:31
+Andrew Ippolito: Okay Okay, so this this picture here, this is for those of you who really like the visuals This is like the puppy team picture, but I want you to see this blue part here that's lexi.
+1:25:41
+Andrew Ippolito: And this brown parts and multiple coding side so we're going to cut it here we're gonna open it up and then we're going to stick our vector in it and that's what this big.
+1:25:50
+Andrew Ippolito: pink part is, and so you can see the remnants of the LACs EG and blue right the original black intact gene is now interrupted by the inserted Dean as well breaks it.
+1:26:03
+Andrew Ippolito: And so, a cell that gets transformed with this vector this recombinant vector will no longer be able to produce a functional being a black societies won't be able to break down next Gal.
+1:26:14
+Andrew Ippolito: And it will remain white.
+1:26:25
+Andrew Ippolito: questions.
+1:26:39
+Andrew Ippolito: Almost done here.
+1:26:45
+Andrew Ippolito: And so, this slide here just gives you a summary of what, so why what can we do with this technology well.
+1:26:51
+Andrew Ippolito: We can take the gene of interest.
+1:26:56
+Andrew Ippolito: make copies of the gene, and then we can do things like put those genes into plants.
+1:27:03
+Andrew Ippolito: So let's say that you just okay so here's a real world example let's say that we found this plant in Africa that was really resistant to everything it was resistant a fungus infection was resistant to being eaten by insects, it was resistant to all sorts of things, but it tasted terrible.
+1:27:26
+Andrew Ippolito: It was like the worst it tasted like poop.
+1:27:32
+Andrew Ippolito: So you take the gene from that plant. Andrew Ippolito: Oh, so you do some research and you realize oh there's a gene here, this is resistance gene so let's take this plant that tastes like poop and take its resistance gene and stick that resistance gene into strawberries.
+1:27:50
+Andrew Ippolito: turns up the strawberry cheesecake poop know they're still strawberries. Andrew Ippolito: made he's great, but now they're resistant to all the same stuff that the other plan was resistant to.
+1:28:01
+Andrew Ippolito: Right, so we just said hey I really like this part of you, but not the rest of you i'm just going to steal this one part i'm going to go put this over here in this dropper.
+1:28:09
+Andrew Ippolito: that's what we're doing genes for pest resistance.
+1:28:15
+Sophie Cloutier: question. Andrew Ippolito: yeah but. Sophie Cloutier: The gene inserted into the strawberries be recessive are dominant.
+1:28:21
+Andrew Ippolito: that's a great question, it would be. Andrew Ippolito: Dominant because. Andrew Ippolito: it's producing an enzyme.
+1:28:28
+Andrew Ippolito: Which is what makes it easy to grow right doesn't matter if they're hybrids or if there's an accidental mutation and it you'd have to be homozygous recessive which is rare right.
+1:28:39
+Andrew Ippolito: Okay, or let's say that we are interested in the protein product of the G.
+1:28:45
+Andrew Ippolito: Okay, so like there's human kinds of human growth factors that we can have the bacteria produce artificially and now we can treat people.
+1:28:53
+Andrew Ippolito: who have diseases, for example, you have people with stunted growth because they don't produce the right growth hormones, so you give them the medicine for it.
+1:29:01
+Andrew Ippolito: Okay, or there's proteins that dissolve blood clots.
+1:29:07
+Andrew Ippolito: My favorite, though, let me skip ahead of your my favorite. Andrew Ippolito: Where is he hold on i'm going to go all the way to the end of the.
+1:29:16
+Andrew Ippolito: way i'm telling the story you guys today. areas.
+1:29:23
+Andrew Ippolito: that's the tomato tomato tomato.
+1:29:31
+Andrew Ippolito: above the ground that makes tomatoes below the ground, it makes potatoes.
+1:29:38
+Andrew Ippolito: it's a nominal tomato it's a nominal potato it's just in the same plan you've just essentially effectively doubled your farming acreage.
+1:29:51
+Andrew Ippolito: You can now take your one acre of land and make twice the amount of food.
+1:29:58
+Andrew Ippolito: Simply because you can now just grow more useful things right, a tomato plant has roots a potato plant has roots potato plants don't have much interest on the surface, so all underground their tubers and tomatoes don't have much of interest going under the roots tomatoes or fruits.
+1:30:15
+Andrew Ippolito: I thought they were vegetables now their fruits.
+1:30:21
+Michael Caselli: I have a question about that tomato. Andrew Ippolito: yeah. Michael Caselli: Would it take like twice as long to to produce it.
+1:30:28
+nope. Andrew Ippolito: So the tuber the all the potato is. Michael Caselli: Is.
+1:30:34
+Andrew Ippolito: it's a storage. Andrew Ippolito: specialization and what the tomato is it's a method for reproduction so in nature that tomato does this thing and the potato does that and then.
+1:30:45
+Andrew Ippolito: No plant naturally evolved both of those things, and so we just made this hybrid called it's called so it's called a transgenic plan Okay, a transgenic organism is an organism that contains genes for different bases.
+1:31:05
+Andrew Ippolito: Right, we have created pest resistant cotton pest resistant corn pest resistant potato we've produced soy beans that are resistant to certain herbicides.
+1:31:17
+Andrew Ippolito: Okay, we can make plants that have human proteins in them and then purify those.
+1:31:24
+Andrew Ippolito: Okay. Andrew Ippolito: We have animals.
+1:31:29
+Andrew Ippolito: That can produce human protein so imagine taking the insulin gene and putting it into goats or cows and now milking them and now they're making insulin and their milk and you can just purify the Internet from their milk and milk them as much as you want until they die.
+1:31:46
+Andrew Ippolito: Right there's all sorts of things my favorite that I learned about this is back in the 90s.
+1:31:53
+Andrew Ippolito: They took the genes from spiders that made silk the spider gene to spider associates, and they put them in goats.
+1:32:02
+Andrew Ippolito: With the idea was they wanted to make spider cells from codes they call them goat spiders, the idea is terrifying.
+1:32:09
+Andrew Ippolito: But it was just a normal goat that had the gene it turns out, the company and that tried this failed miserably because spiders.
+1:32:16
+Andrew Ippolito: They don't just produce their threads in a way of like polymers they they have a whole complex apparatus that lets them we've their webs.
+1:32:24
+Andrew Ippolito: And when the researchers were working with the transgenic version of the spider proteins, they were it was just this gloppy sticky stuff they couldn't do anything useful with it, I mentioned the company went bankrupt.
+1:32:36
+Andrew Ippolito: was still fun story, though, you get a boat spiders into Google and learn about this. Andrew Ippolito: Okay, so.
+1:32:42
+Andrew Ippolito: This whole world of GMOs right that's the one of the things that people are really still concerned about little unless you don't really read about this in the news these days.
+1:32:52
+Andrew Ippolito: The shorter the long is. Andrew Ippolito: I have the one.
+1:33:00
+Andrew Ippolito: I guess, I have a too much here, so the short the short of the longest GMOs everything everything we eat is ultimately.
+1:33:12
+Andrew Ippolito: Genetically modified hold on.
+1:33:20
+Andrew Ippolito: Everything we eat is still GMO or, rather, has always been GMO like bananas right we changed bananas from their natural state tremendously.
+1:33:29
+Andrew Ippolito: The differences is there's inefficient ways to do it like grow them over many, many, many generations and then selectively breed them, or we can do more efficiently by using recombinant DNA technology.
+1:33:41
+Andrew Ippolito: Okay, so there's there's no safety issues at all with any of these kinds of plants that have GMOs, the problem is the problem is, is when companies take advantage of the systems like Monsanto Monsanto has this this you know the different types of.
+1:33:59
+Andrew Ippolito: cash crops. Andrew Ippolito: hold on a second.
+1:34:14
+Andrew Ippolito: Monsanto has these these seeds, that they will sell the farmers and the farmers have to sign a contract saying you're not allowed to grow these past the first season, even though they could.
+1:34:23
+Andrew Ippolito: And then, when they grow them the plants are completely immune to gli phosphate which is round, so the idea is the farmers can completely destroy any read within a field.
+1:34:35
+Andrew Ippolito: plant, the seeds and get a crop yield that's about a pretty much 100% which is awesome that's really good like crop yields are the biggest thing in the brain all like the 20% crop yield would be like an okay farmer 100% crop yield that's what makes these things, the gold standard.
+1:34:51
+Andrew Ippolito: The problem is, is that Monsanto has patented this and profits off baldness and farmers that use them get an advantage over farmers that don't, meaning that they might make more money in the year, and so, as a result, they will have more money to buy their equipment.
+1:35:09
+Andrew Ippolito: Whereas the farmers that don't use it won't have that money so there's an edge there so some farmers try to.
+1:35:16
+Andrew Ippolito: take advantage of the system. Andrew Ippolito: by getting a second season out of them instead of paying $40,000 again and so Monsanto is a program or farmers will report on their neighbors that do that.
+1:35:31
+Andrew Ippolito: it's it's very it's all business stuff there's nothing to a biology, but Monsanto has a bad rap for for many reasons.
+1:35:40
+Andrew Ippolito: GMOs should not have a bad rap there's nothing toxic about a GMO there are concerns about them polluting the natural environment, like if the seeds get out by accident.
+1:35:48
+Andrew Ippolito: Right, but they try to address those concerns in various ways right but, at the end of the day, the end of the day, we have to feed people, we have to make food, and we have to make enough food right we.
+1:36:33
+Andrew Ippolito: Today papers.
+1:36:39
+Andrew Ippolito: she's not used to me being here teaching, at the same time, so they're all they're all upstairs.
+1:36:46
+Andrew Ippolito: Or at for for yet we're almost out of time, so then here's where i'm going to tell you guys now teach yourself stuff when it goes this PowerPoint here and say.
+1:36:56
+Andrew Ippolito: So you guys did lobsters enough right gelato freezes important you should be able to walk out of this class and just had the basics of that you already do.
+1:37:05
+Andrew Ippolito: Okay PCR you also did a lab on a review that if you have to in lobster you can always go back and just sneak in there and look around, make sure you understand the basics of PCR polymerase chain reaction.
+1:37:19
+Andrew Ippolito: You can look at my PowerPoint here and.
+1:37:25
+Andrew Ippolito: uses of PCR. Andrew Ippolito: Okay teach yourself str analysis this isn't hard, the idea is is all of us have specific changes, or rather, all of us have these regions of our genome called short tandem repeats but just stretches over here i'll show you like a gap right and.
+1:37:51
+Andrew Ippolito: We all have different numbers of repeats I might have 17 hgtv you might have 27 right and there's only a certain number of variations within the human population, you can think of them like a wheels.
+1:38:03
+Andrew Ippolito: Right there's not a one and a two and a three and a four or five there's the 17 or the 27th, for example.
+1:38:10
+Andrew Ippolito: And so you can then sequence, you can take people's blood samples, and you can run them on gel you can you can look, you can basically use PCR to amplify their sd ours there's 13 of them, we use.
+1:38:23
+Andrew Ippolito: And, and so here here's the penta D str, for example, let's just look at one.
+1:38:29
+Andrew Ippolito: This is a ladder, this is just a control this tells us how big the fragments are okay each sample here is a person an individual.
+1:38:38
+Andrew Ippolito: And so you can see let's just look at person one here, you see it, they have to yellow bands there. Andrew Ippolito: That means there are heroes like it, they have one band that's really big with many repeats and they have one that has fewer repeats.
+1:38:49
+Andrew Ippolito: dramatically differently 1520 or whatever okay person number two they have their also heterozygous they have two different ones three looking for, for I was one band That means they got the illegal for just the they got the same one for mom and dad.
+1:39:04
+Andrew Ippolito: No it's not dominant recessive these aren't protein products these aren't protein coding genes, these are just sequences of DNA but we're treating them like a leo's in the sense that we have differences between.
+1:39:14
+Andrew Ippolito: Okay now some of these individuals these unknown people if we look carefully like look at these two right here, see either the same.
+1:39:22
+Andrew Ippolito: Okay they're not the same person so some people have the same str so that's just for the penta DST.
+1:39:28
+Andrew Ippolito: But if we take those two people here and we look down to the CSF str you see how this person looks like one person, one person, one just has one band for CSF.
+1:39:36
+Andrew Ippolito: person to has to so we can distinguish them, the key is we're distinguishing people from each other there's crime scene DNA and then there's a match and it turns out.
+1:39:48
+Andrew Ippolito: If you take. Andrew Ippolito: str the probabilities that any to random people in the human population have exactly the same pattern is a number that's so big the exponent of experience.
+1:40:04
+Andrew Ippolito: If you take any all humans that have ever existed and will exist in the next 10,000 years.
+1:40:11
+Andrew Ippolito: No two of those people will ever have the same exact match of this, which is why this is essentially 100% accurate in terms of the science behind it Okay, so the accuracy an inaccurate result would be lab air.
+1:40:26
+Andrew Ippolito: or contamination they're not science there. Andrew Ippolito: Okay, so we call this your genetic fingerprint.
+1:40:34
+Andrew Ippolito: We talk about genetic fingerprinting we talked about DNA evidence that's what we're talking about anyone who is accused not.
+1:40:42
+Andrew Ippolito: incriminated not found guilty, but accused of a federal crime has a blood sample taken from the Federal Government and they develop an SDR pattern from them.
+1:40:51
+Andrew Ippolito: And they put them in a date the crime database, so the FBI has what's called the SDR database, the reason we use this this because it's simple to do, but more importantly it's still protect the anonymity of individuals genomes.
+1:41:05
+Andrew Ippolito: Right they're not they don't sequence your whole genome, they don't have all your genome, that would cost a lot of money, anyway, they just have this.
+1:41:13
+Andrew Ippolito: Okay, so that's str analysis. Andrew Ippolito: You don't have to study I cross this out Dini chip technology is actually every year that goes past me here is becoming more and more outmoded.
+1:41:24
+Andrew Ippolito: There are better technologies that do the same thing now we use it still.
+1:41:30
+Andrew Ippolito: But it's not worth going through learning the techniques here because you're in practicality, the chances of you ever coming across anything like this are very small the concept here.
+1:41:40
+Andrew Ippolito: Is we can look at the same time across something like 500 or 1000 genes, so we can ask this kind of question which genes in the human genome are turned on in response to this drug.
+1:41:55
+Andrew Ippolito: Or what genes in the human genome are turned on or off in this cancer, so we can ask the question multiple genes questions about multiple things as opposed to just is this gene turned on or off.
+1:42:10
+Andrew Ippolito: Are these genes turned off okay. Andrew Ippolito: And then the last thing i'll spend any time on here is crispr this, this is the holy grail of a lot of.
+1:42:21
+Andrew Ippolito: For a lot of thoughts, the idea of designer babies, the idea of being able to cure genetic diseases it's now within.
+1:42:28
+Andrew Ippolito: Our grasp conceptually it's not science fiction anymore we're not there yet, all the way, but every day there are, if you just type crispr in pubmed.
+1:42:38
+Andrew Ippolito: Every day you'll see the numbers going up people are working on this right now with a laser focus and they're coming out with all sorts of new use cases for it and i'm going to give you the very quick version of this.
+1:42:50
+Andrew Ippolito: Okay, the bottom line is somewhere in our genome, there is some sequence of DNA we care about.
+1:42:56
+Andrew Ippolito: Maybe we've identified a previously and show that, like this is the sickle cell disease remember GA je n G G right there's a single point mutation there or cystic fibrosis Okay, there is a problem with the the sequence remember all those point mutation we talked about last time.
+1:43:11
+Andrew Ippolito: What we're gonna do with that sequence, we can do two things i'm going to teach you two things we can do, one is, we can just shut the gene off the other is, we can fix the.
+1:43:20
+Andrew Ippolito: Setting is off is easy Okay, the idea is is we're going to introduce how I can't do that here.
+1:43:27
+Andrew Ippolito: I tried to use the eraser let me get to my whiteboard instead.
+1:43:34
+Andrew Ippolito: The ideas this we're going to take this double stranded DNA and we're going to introduce a break in it.
+1:43:40
+Andrew Ippolito: that's essential crispr Does it find it hones in on a sequence, and it cuts it that's all those so so what well our DNA repair machinery, then comes in.
+1:43:51
+Andrew Ippolito: And fills in a bunch of random nucleotides there to collect together. Andrew Ippolito: it's kind of like a scar scar tissue right there's just some random sequence here that essentially interrupts the gene right so let's say you did that, at the tg start site or the top top box, you can shut off now, so this is gene silencing targeted gene silencing.
+1:44:12
+Andrew Ippolito: that's the first use case. Andrew Ippolito: The second is so here shut off gene.
+1:44:20
+Andrew Ippolito: By adding a double strand break in there. Andrew Ippolito: Okay, the second use case is a little more mysterious we don't fully understand how it works, we just know it does work.
+1:44:32
+Andrew Ippolito: we're going to take that sequence and let's see that there's a mutation here that we don't like let's say there's a you know that that's an et that we want it to be a CG.
+1:44:42
+Andrew Ippolito: Okay, so there's a mutation there. Andrew Ippolito: we're going to bring two things into the cell.
+1:44:49
+Andrew Ippolito: I should step back so here's how crisper works, the first functional piece is a piece of RNA we called the guide.
+1:44:56
+Andrew Ippolito: The guide RNA. Andrew Ippolito: As a so hairpin here.
+1:45:02
+Andrew Ippolito: And then the sequence that we care about. Andrew Ippolito: Okay, so this will match this.
+1:45:11
+Andrew Ippolito: that's the sequence specificity part. Andrew Ippolito: The second component is an enzyme that binds to that piece of RNA.
+1:45:20
+Andrew Ippolito: The enzyme is called cast for crisper associated protein and there's cast nine that's the common one that's the one you'll learn about.
+1:45:29
+Andrew Ippolito: Think of cast nine as a restriction enzyme. Andrew Ippolito: But instead of a restriction as i'm that recognizes a hard coded sequence it cuts what you tell it to buy that guide aren't.
+1:45:42
+Andrew Ippolito: it's called the died. Andrew Ippolito: And you can synthesize that.
+1:45:50
+Andrew Ippolito: So your guide RNA is a little piece of the gene for sickle cell anemia right, and so we can coordinate on it, we can cut it.
+1:45:59
+Andrew Ippolito: So that's how you would do the whole cut it to shut it off part above to fix it, and this is where things are a little more mysterious you get another piece of DNA.
+1:46:10
+Andrew Ippolito: This like cva or something just double stranded DNA. Andrew Ippolito: That has.
+1:46:17
+Andrew Ippolito: The fix in it, so, in other words that has the sequence you want it to be that's the healthy version of the gene the wild type, if you will.
+1:46:26
+Andrew Ippolito: And you mix these, together with the cells and somehow what the cell does.
+1:46:32
+Andrew Ippolito: After it gets cut by the cast nine protein, it will use that template I should say it will use that piece of DNA you stuck in there as a template to fix this after it's broken and instead of fixing it the way it used to be it'll fix it according to what your templates.
+1:46:52
+Andrew Ippolito: And so you essentially changed the sequence.
+1:46:57
+Andrew Ippolito: This is what's allowing us to edit the human genome, down to the base pair.
+1:47:05
+Andrew Ippolito: And the Chinese have already done this. Andrew Ippolito: A couple years ago the world became aware of the fact that they use the crisper has nine system to make an edit into the HIV co receptor gene.
+1:47:20
+Andrew Ippolito: People who are naturally immune to AIDS, they still get infected with HIV, but they don't experience the disease.
+1:47:29
+Andrew Ippolito: turn out to have a mutation and the co receptor the virus uses to get into ourselves.
+1:47:35
+Andrew Ippolito: And so it turns out that people with that natural mutation also happen to have a very high level of IQ they're very smart.
+1:47:45
+Andrew Ippolito: And so the conspiracy theory which is very fascinating is that the Chinese have created babies with this mutation and the hopes that they will grow up to be super smart.
+1:47:56
+Andrew Ippolito: create the next generation of geniuses. Andrew Ippolito: They say they're generating people who are immune to HIV that China does not have an HIV epidemic.
+1:48:09
+Andrew Ippolito: So one of the most interesting stories of the Semester, you can feel the right type crispr China HIV go see what you can find I haven't I haven't personally research this in a while, maybe somebody here will find something new and interesting on it.
+1:48:27
+Andrew Ippolito: I want to say it's a conspiracy theory but there's that little it's in my brain that's like now there's probably a lot of truth to this.
+1:48:33
+Andrew Ippolito: it's like basically the United Nations there's there's laws about human experimentation, especially when it comes to genetically engineering there's just it's it's a I wouldn't even say it's a Gray area that has prayed red line there like.
+1:48:50
+Andrew Ippolito: You might have crossed it who knows who knows that's a greater crisper is a Gray area because it's so so that's that's crisper in a nutshell.
+1:48:59
+Andrew Ippolito: Right you don't have to worry about I mean i'm really I wish I had all another day to teach you guys this stuff but but I technically don't so here's what i'm gonna say we're gonna draw a line now i'm going to show you were on the slides.
+1:49:13
+here. Andrew Ippolito: Okay, so so gene therapy i'm going to ask you quiz level questions simple questions on this stuff just did you get the basics of it and you're reading your homework.
+1:49:28
+Andrew Ippolito: i'm not going to touch anything about genomics proteomics and bioinformatics Okay, so this if you've liked this stuff take a look at my slides and but you won't have to worry about this for the final exam.
+1:49:40
+Okay. Andrew Ippolito: This will won't take up too big, of a chunk on the final there'll be a couple questions on you know gene therapy and, and all this stuff.
+1:49:50
+Andrew Ippolito: But um but, of course, the majority of the test will be on the spanning in the last couple units okay so that's the end of the lecture material i'm going to stop my sharing here.
+1:50:01
+Andrew Ippolito: want to stop the recording.

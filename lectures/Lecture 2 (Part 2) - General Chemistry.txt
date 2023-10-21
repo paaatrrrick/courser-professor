@@ -1,0 +1,1102 @@
+0:00
+Andrew Ippolito: Okay, this is we're picking up this is part two of our chemistry or general chemistry lecture and we had just finished talking about radiation and this concept of Radio metric data, so what i'm going to do right now is explain carbon dating do.
+0:15
+In a nutshell. Andrew Ippolito: Okay, so the way carbon dating works is earth's atmosphere has a constantly replenishing supply of carbon 14.
+0:27
+And the reason is is. Andrew Ippolito: cosmic rays come in and hit various it hit um I think it's the nitrogen in the atmosphere and it converts it into cover 40 okay so it's constantly being replenished.
+0:45
+Andrew Ippolito: That half life of carbon 14 or something like 5760 years I can never remember the exact number.
+0:54
+Andrew Ippolito: Maybe 30 5700 years. Andrew Ippolito: Of course, what that means is, if I have one gram of carbon 14.
+1:05
+Andrew Ippolito: And I allow 5700 years to pass I will have one half of a gram OK, so the key to radiation is, of course, we don't know exactly when an atom is going to decay.
+1:18
+Andrew Ippolito: We can just say, on average, it happens around this frequently okay that's part of the craziness of quantum mechanics quantum mechanics is not something that is discreet and predictive it is it's a blurry averaging of things.
+1:35
+Andrew Ippolito: Okay, all right, so what this means is. Andrew Ippolito: Any biological sample so so think about what what happens a carbon carbon gets absorbed by our producers.
+1:48
+Okay, the things that photosynthesize. and your plants, you have some algae.
+1:56
+Andrew Ippolito: You have your cyanobacteria i'm just gonna re you have all these things to do photosynthesis.
+2:02
+Andrew Ippolito: And what those things do is they produce organic compounds. Andrew Ippolito: Organic molecules and those organic molecules have carbon in them, that is both see 14 and see 12 okay so there's a ratio between carbon 14 and carbon 12 and all living tissue that is the same.
+2:23
+Andrew Ippolito: And the reason is this organic molecules and eaten by a consumer.
+2:28
+Andrew Ippolito: Right, which then uses that molecule, among other things, to break down and make some energy and it releases it back into the environment as carbon dioxide.
+2:38
+Andrew Ippolito: And so that's the carbon cycle. Andrew Ippolito: Right, so the trees out your backyard sequester carbon from the atmosphere, they make their molecules.
+2:49
+Andrew Ippolito: And then something eats them and something else it's that thing and something else it's that thing to eat it that's all of the food chain and all that.
+2:57
+Andrew Ippolito: And then, all that cognitive he found his way back into the atmosphere Okay, so long as life is alive, it will be constantly in flux, with its carbon.
+3:07
+Andrew Ippolito: Right you're taking it in your breathing it out you're taking in your breathing, and so the ratio of your carbon 14 and carbon 12 is always the sea Okay, when you die.
+3:19
+Andrew Ippolito: You go into the earth you're down here now. Andrew Ippolito: Okay.
+3:26
+Andrew Ippolito: You stop eating. Andrew Ippolito: Just copy is right you're dead you're not eating anything, and so the carbon 14 that you were buried with.
+3:37
+Andrew Ippolito: Or the Carter 14 that the little bunny was buried with the car before 10 of the insect was buried with whatever the ratio starts to change.
+3:45
+Andrew Ippolito: Because the carbon 14 that has been trapped in there begins to break down begins to the cat radioactively, and so we can take any biological material that we find in the earth that's old Egyptian mummies pieces of papaya iris whatever.
+4:07
+Andrew Ippolito: And we can go into the lab and we can measure the amount of carbon 14 that's still in there.
+4:13
+Andrew Ippolito: And there are there's a bunch of math and statistics and what they can do, then, is they can estimate the age of that thing.
+4:20
+Andrew Ippolito: OK now, the problem is is eventually that carbon 14 because, as a half like 5007 or six years will eventually get to a point where it's beyond.
+4:31
+Andrew Ippolito: The ability to detect any. Andrew Ippolito: or really or it's all God it's all decayed and so once you're at that point that takes about 75,000 years.
+4:43
+Andrew Ippolito: So anything that's older than 75,000 years. Andrew Ippolito: cannot be accurately.
+4:52
+Andrew Ippolito: dated all you can say is this dinosaur fossil is is older than 75,000 years.
+5:00
+Andrew Ippolito: that's all you can say. Andrew Ippolito: Okay, and so, how do we know that dinosaurs like T REX bones are 65 and a half million years there's different items that have different half lives alright, so if I go over here and I look at this, this is a, this is a table from a book called the greatest show on earth.
+5:22
+Andrew Ippolito: by Richard. Andrew Ippolito: dawkins if you don't know who Richard dawkins is at this point, you should know he's a famous evolutionary biologist and as a budding biologist yourself, you should know some of the famous biologists and bless you bless you.
+5:39
+Andrew Ippolito: All right, so Richard dawkins is one of these people, that you can call my science evangelist he's he's famous he goes on TV he has specials he writes books he's a little cantankerous a little insulting to some people.
+5:53
+Andrew Ippolito: He rub some people, the wrong way, I think, in real life is a little bit of a jerk but he's uh he's pushed a lot of ideas in modern biology that suck so, for example, he wrote a book called the selfish.
+6:08
+Andrew Ippolito: Gene I read this back in college self the shots the selfish gene that's a book, if you want to read it read it it's a nonfiction book it basically postulates he builds a case that the smallest unit of of evolution isn't the organism.
+6:26
+Andrew Ippolito: But the gene itself that genes are trying, like the sequence of the gene is the thing that tries to survive into the future and it uses us basically as a vessel for that, and of course not.
+6:37
+Andrew Ippolito: not like it has an intelligence and it's like i'm going to survive as a sequence it's just it just happens to be that way, like you know mathematical sense so it's good it's good it's good it's a good case he builds a good case for it.
+6:51
+Andrew Ippolito: Anyway, that's that's so that's called radio metric dating when we pick any one of these isotopes.
+6:59
+Andrew Ippolito: And we can see decay to this one, and we look at the half life you're like rubidium to strontium has a half life of that that's.
+7:06
+Andrew Ippolito: You know, five times longer than the age of the entire universe 49 million years of a half life it's crazy right and, in fact, there was a news article a couple months ago.
+7:19
+Andrew Ippolito: So scientists in order to estimate these numbers right So how do we know it's 49 billion years, so what we do is, we have a sample of this stuff.
+7:29
+Andrew Ippolito: And we we listen we for the Geiger counter to go off basically we we see if we can capture a decay of an atom in a moment, and it turns out, they found one.
+7:42
+Andrew Ippolito: And they were able to more accurately measure the half life, based on whatever just happened so so that we get these numbers from from empirical observation now there's one really interesting thing here.
+7:55
+Andrew Ippolito: And that is there is a very, very solid line between, and this is this is talked about in this book here.
+8:04
+Andrew Ippolito: there's a very, very solid line here between isotopes that have a very long half life Okay, like the iodine xenon of 17 million years.
+8:16
+Andrew Ippolito: And aluminum 26 to magnesium which is 740,000 years right there's a gap there, in other words, if you were to plot out.
+8:24
+Andrew Ippolito: A bar chart of the relative abundance of the isotopes on earth, that we observe in the crust of the earth, we would see, let me draw this better here, we would see.
+8:35
+Andrew Ippolito: So this is just all the different isotopes that we come across on the earth.
+8:41
+Andrew Ippolito: We would see and then this right here, this is carbon carbon 14 we would see this big gap here.
+8:49
+Andrew Ippolito: Where there's no naturally occurring isotopes the half half lives younger than 740,000 years.
+8:58
+Andrew Ippolito: Now, based on my explanation on how we did dinosaurs and how we can't be done so, the carbon right because the dinosaur bonus so old that all the quarter 14 is gone that right, there is one of the best piece of information we have.
+9:12
+Andrew Ippolito: that the earth is genuinely and truly is four and a half billion years old, not that we're dating a rock but there so which we do do.
+9:20
+Andrew Ippolito: But also there's this complete absence of isotopes. Andrew Ippolito: That can only be explained by an old Earth.
+9:30
+right that makes sense. Andrew Ippolito: Okay, all right so that's that now we're going to talk about.
+9:37
+Alexa DePrisco: The interesting stuff. Angela Harbeck: This is the stuff you want to pay attention to. Andrew Ippolito: This is going to be everywhere, for the. Angela Harbeck: rest of the Semester.
+9:42
+Andrew Ippolito: But before I do that let's see if there's any questions guys. Angela Harbeck: I have a question like i'm a little bit confused with the carbon dating and then the radio metric dating so it's, just like the both of like the dating things they just have to do with the decay over time.
+10:03
+Andrew Ippolito: i'm not sure what your question is. Angela Harbeck: Well, like. Angela Harbeck: You said, like for. Angela Harbeck: Like bones and stuff like that, if they run out of like the time for carbon and they.
+10:13
+Andrew Ippolito: don't get here let's let's say this is a dinosaur bone. Angela Harbeck: it's a fossil, of course.
+10:19
+Andrew Ippolito: Right there's not actual calcium in there, so that's that's the first problem is is there's no carbon anymore.
+10:26
+Andrew Ippolito: Okay, so there's no carbon, to begin with that's The first reason you really can use it it's more of a practical one but let's say that we found some soft tissue.
+10:32
+Andrew Ippolito: Right, so we have a big dinosaur bones cracking half and we find in the deep part of it we find some bone marrow which they've done before you can actually get some DNA out of their to the carbon 14 that's in there.
+10:45
+Andrew Ippolito: There is none, because the rate of decay of this is so quick compared to the age of the dinosaur rate so for every 5700 years if you multiply that out like how many.
+10:56
+Andrew Ippolito: How many half lives are there and 65 million years, so you take 65 million divided by 5700 and I don't know what you get you get some really, really huge number, to the point where that's going to tell you that all of the carbons God.
+11:09
+Andrew Ippolito: Okay, whereas if you find a little mouse bone like an actual bone in the earth. Andrew Ippolito: You know, deep let's say you're excavating to build a house and somewhere deep in there, you find a bone of something.
+11:19
+Andrew Ippolito: You can take that to a lab and they can pull the cart they can do a sampling of it and they can tell you that the ratio.
+11:26
+Andrew Ippolito: of carbon 14 to carbon 12 is some number, whatever that number is, and you can plug that number into an equation that people have put together, and you can calculate how old that boat is based on the rate of decay.
+11:39
+Andrew Ippolito: Does that make sense. Andrew Ippolito: Okay, and so just that idea can be applied to any of these pairings This is called I think they call this the parent and.
+11:54
+Andrew Ippolito: The child I can't remember the denominator don't they call it the daughter or the child I can't remember, but basically that that relationship so like.
+12:03
+Danuta Despagne: ribbit just take the first one. Andrew Ippolito: rubidium at seven to strontium right rubidium as the parent isotope or the parent Adam and strontium would be the child or whatever word they use like Cameron.
+12:15
+Andrew Ippolito: daughter. Danuta Despagne: got his daughter okay thanks. Andrew Ippolito: The daughter, the daughter Okay, and then there are there are clusters of decay so like one atom would decay to another atom which would decay to another atom which would take so there are multiple.
+12:29
+Andrew Ippolito: decays sometimes and it just it's just not on this table, but that's another thing that happens.
+12:36
+Andrew Ippolito: Until Finally, the whatever this last thing is that's the final resting place that's the most stable of the items.
+12:43
+Andrew Ippolito: Okay it's not it's not it's not radioactive anymore.
+12:50
+Victoria Bloemker: Okay quick question yeah I know you like already clarified it like twice, but i'm carbon dating would you consider that i'm determining the age of like an object to using the isotopes of carbon, whereas radio metric feeding is just.
+13:10
+Andrew Ippolito: it's not if it's not carbon dating we can just. Andrew Ippolito: generically call it radio metric dating if it's the potassium argon clock, which is the most commonly used them rocks we would call that potassium dating.
+13:24
+Andrew Ippolito: Or maybe argon dating I don't know I pray potassium at they're looking for the potassium.
+13:29
+Victoria Bloemker: Are they looking for the Oregon. Andrew Ippolito: Now they have looked to the potassium our guns gas, so you can't find a gas in a rock.
+13:36
+Andrew Ippolito: let's read a little bubbles in there, but maybe that's possible I don't know i'm not a geologist damaging mama molecular biologist not a joke.
+13:45
+Andrew Ippolito: I don't know I don't have a good answer for you, but I can say did that answer your question I missed the kind of beginning of it, so if you want to ask it again in a different way.
+13:56
+Taylor Campbell: So radio metric is that. Taylor Campbell: Little group and then each one of those are the specific so carbon.
+14:02
+Andrew Ippolito: yeah yeah. Andrew Ippolito: This is the generic idea, a radio. Taylor Campbell: Radio attic.
+14:08
+Andrew Ippolito: Radio metric. Andrew Ippolito: Radio active Adam to king and taking advantage of the fact that this rate of decay is a constant as far as we can tell in the universe it never changes there's nothing you can do to a radioactive isotope.
+14:27
+Andrew Ippolito: there's nothing you can do to a radioactive isotope to change its half life.
+14:33
+Andrew Ippolito: that's one of the constants now that's that's one of the assumptions of science remember go back to day one, when we learned about the assumptions of science and assumption number two.
+14:41
+Andrew Ippolito: Was this continuity in the laws of physics and math basically throughout space and time so yeah it's possible that 2 million years ago something happened in the universe that changed all the half lives.
+14:56
+Andrew Ippolito: But there's no way we could ever know that, and so we have to work with what we got now. Andrew Ippolito: there's no change in temperature or pressure or density or the distance from gravitational masses that changes the rate of decay there's nothing we can do it's always the see like the speed of light it's a constant.
+15:17
+Andrew Ippolito: So we use that to our advantage okay all right. Andrew Ippolito: We got some big fish to fry today not talk about electrons wouldn't talk about electrons all semester, so it is very important that you understand this stuff This is like the the, the most important.
+15:34
+thing to learn. In this chemistry stuff.
+15:46
+Andrew Ippolito: So here we go.
+15:56
+Andrew Ippolito: form follows function. Andrew Ippolito: The form and Adam takes informs us of what it can do.
+16:07
+Andrew Ippolito: And the form of an atom is driven fundamentally.
+16:13
+Andrew Ippolito: By the electron cloud that's around it. Andrew Ippolito: which in turn is informed by the number of protons in the nucleus so hydrogen has an atomic number of one carbon has a six and oxygen has an eight.
+16:28
+Okay. Andrew Ippolito: So we talked about the configuration of electrons.
+16:36
+Andrew Ippolito: surrounding an atom. Victoria Bloemker: You go back to that slide just really quickly. Victoria Bloemker: Thank you you're welcome.
+16:45
+Andrew Ippolito: So in electron let's talk about electrons electrons are.
+16:51
+Andrew Ippolito: Pure okay so they're the elementary particles they're not made out of things that we understand they don't have a substructure they are thing they are a thing, and an electron is so it's it's matter okay it's made out of.
+17:08
+Andrew Ippolito: Whatever it's made out of its matter, which means that it has mass, which means it takes up some space right.
+17:18
+Andrew Ippolito: So two electrons can't be in the same time, at the same place right they can't overlap each other, so to speak, no more than you can take your hand and push them into each other and be in the same place.
+17:31
+Andrew Ippolito: So for a single electron. Andrew Ippolito: electrons i'm going to go into the black screen for a second don't get off the copy of this down just listen to my voice here for a single electron one electron electrons are capable of absorbing photons.
+17:48
+Andrew Ippolito: And when they absorbed photons they acquire energy. Andrew Ippolito: Right remember energy is the capacity to do some work.
+17:58
+Andrew Ippolito: So electrons are defined in Part one of the most important.
+18:04
+Andrew Ippolito: characteristics that an electron has is the amount of energy they helped Okay, and they can also give it off again okay so that's the nature of an electron it can capture and release energy by.
+18:19
+Andrew Ippolito: By holding onto a photon or letting go of it to the mechanisms, nobody understands.
+18:26
+Andrew Ippolito: You try to read about this there's nothing out there, we just we talking very big generalities here, so what I want you to do is just kind of imagine in your head electrons.
+18:37
+Andrew Ippolito: Like picture, like a marble sitting on the floor versus hovering versus being really up here right it's got more and more energy or here, this is the analogy generally use me fine.
+18:52
+Andrew Ippolito: You can think of an electron.
+18:57
+Andrew Ippolito: yeah I have my I have a whole box of toys that I used to teach with that box behind, I have to pull that out again, I mean let's do this.
+19:07
+let's take this piece of. junk mail.
+19:14
+Andrew Ippolito: it's not junk mouse taxes, I have to do taxes at some point, but here on a puncture a hole in this okay so let's pretend, this is just put a little push pin in here has a rubber band so let's see this little.
+19:29
+Andrew Ippolito: girl you see it that well let's say that this pin represents the nucleus.
+19:36
+Andrew Ippolito: i'm gonna take this rubber band here okay i'm not gonna i'm just gonna i'm just gonna hold it gently so i'm putting a little energy into it.
+19:44
+Andrew Ippolito: Okay, so I want you to think of the rubber band to the amount of energy has in it, not too much. Andrew Ippolito: Okay, so you can imagine, this isn't too steep layer you can imagine, I can rotate this in three dimensional space wherever I want, but i'm constrained by that amount of energy right, so I can I have this defined.
+20:02
+Andrew Ippolito: region of space, I can move with it, and no more now let's say that I put a little more energy into the rubberband.
+20:10
+Andrew Ippolito: Okay now it's under tension, this is a high energy electron it's going to tend to go down in energy right.
+20:17
+Andrew Ippolito: When it's out here, though it has a different space to traveling so that's the concept here of what you would call the energy levels.
+20:25
+Andrew Ippolito: Okay, so all electrons have one feature called their energy level.
+20:33
+Andrew Ippolito: In more advanced physics, we would call this one of its quantum numbers all particles have a set of quantum numbers one of their quantum numbers is energy level, and that is a whole number, and it can equal one or two or three or four etc.
+20:52
+Andrew Ippolito: Okay, we sometimes interchangeably use the freeze shell.
+20:59
+With energy level. Andrew Ippolito: So there's Shell one Shell to Shell three, and these are just vague.
+21:08
+Regions of space. Andrew Ippolito: And their imaginary they're not actual shells Okay, in the same way, take take the sun and take the earth and imagine the trajectory that the earth takes around the sun every year.
+21:26
+Andrew Ippolito: Okay, and now blow earth up.
+21:32
+Andrew Ippolito: Sorry you're not here anymore, the orbit still there right, I mean there's still the space is still there.
+21:37
+Andrew Ippolito: Where if I put a new rock here with the same mass and the same rate of movement and all that it would eventually establish the same more of it right, so the orbits there that's the Shell it's just this invisible region of hypothetical space.
+21:54
+Andrew Ippolito: That can occupy and electron. Angela Harbeck: I know, in the lab it was talking about how like the electrons will jump from different like orbital like.
+22:08
+Andrew Ippolito: don't don't invoke the word orbital yet we'll get there. Andrew Ippolito: Just just keep listening all eventually build everything up that I say tell you today will make the lab make perfect sense.
+22:17
+Angela Harbeck: Okay, hopefully. Angela Harbeck: Okay. Andrew Ippolito: let's go back here now.
+22:23
+Andrew Ippolito: Now what i'm about to teach you. Andrew Ippolito: is equivalent to let's say you were playing a complicated overly complicated board game with one of your friends right everybody's got that friend that likes playing those insanely complicated games with like resource management and little tokens and cards and I hate those Games.
+22:42
+Jordan Russell: I am said friend. Andrew Ippolito: yeah yeah there, he is okay, my friend Jason next door, he has an entire library of those kinds of games and do you want to play.
+22:54
+Andrew Ippolito: So it was like I just i'm tired I have when you have kids you get tired easily, you have just there's just so much energy you don't have mental space anymore to learn.
+23:03
+Andrew Ippolito: A game that has an instruction manual that's basically an encyclopedia it just can't do it, I when I was younger I like those kinds of games, but as i've gotten older and my brains been occupied with other things, not so much.
+23:16
+Andrew Ippolito: Okay, but in those Games there's all these seemingly arbitrary rules that make no sense that you just gotta go along with.
+23:23
+Andrew Ippolito: It that's pretty much quantum chemistry, for lack of a better phrase okay so here's the rules ready we're gonna learn about the rules of electrons of Rule number one electrons.
+23:36
+Andrew Ippolito: Like. Andrew Ippolito: To pair. Andrew Ippolito: They have to pair.
+23:41
+Andrew Ippolito: This is the most important feature of an electronic. Andrew Ippolito: Electronic be they're found in pairs.
+23:49
+Andrew Ippolito: Okay now one of the aspects of it is remember, I told you that they have some energy level.
+23:56
+Andrew Ippolito: Okay, they also have something called speed.
+24:02
+Andrew Ippolito: We call it spin we describe it is either clockwise or counterclockwise but understand this.
+24:08
+Andrew Ippolito: And electron is not on little marble that's actually spinning, this is just what our poor human brains can understand.
+24:16
+Andrew Ippolito: Okay, in reality, think of it more like a flashing is either flash daughter flashed off last night, and so this makes more sense now or think of waves right these things are all waves to imagine a way that looks like this.
+24:28
+Andrew Ippolito: Okay that's electron one and then, if I hear if I change my color here.
+24:35
+Andrew Ippolito: Imagine electron to. Andrew Ippolito: Is the exact opposite.
+24:40
+Andrew Ippolito: And so, when you add that, together, you get nothing right so that's the idea of electrons always pairing of opposite spins.
+24:50
+Andrew Ippolito: right because really it's more like this. Andrew Ippolito: Right that's the idea there so electrons always pair and they can only pair with an electron that has an opposite spin.
+25:04
+Okay. So I want to I was like the PIC. Andrew Ippolito: that's arguably the most important thing here okay i'm gonna go back to read.
+25:14
+which read the bright red number two.
+25:23
+Andrew Ippolito: electrons are found.
+25:29
+In. Andrew Ippolito: orbitals okay so orbitals.
+25:35
+Andrew Ippolito: Are the actual location of the electrons forget the shells okay an orbital.
+25:43
+Andrew Ippolito: Is a defined region of space it's a.
+25:49
+defined. region of space.
+25:56
+Andrew Ippolito: Where. Andrew Ippolito: The electron.
+26:01
+will most likely. be found.
+26:07
+Andrew Ippolito: Mostly likely be found, sometimes it's not there. Andrew Ippolito: 5% of the time, the electrons doing something secret.
+26:18
+that's the best I can say. that's weird yes that's weird quantum mechanics is very strange.
+26:26
+Andrew Ippolito: Okay now so orbitals are the actual things we deal with.
+26:34
+Andrew Ippolito: The next rule here is really a set of rules, these are like the principles of the shells Shell number one.
+26:42
+Andrew Ippolito: holds. Andrew Ippolito: One orbital.
+26:47
+Andrew Ippolito: Oh, let me add something else to to i'm sorry they're always found in orbitals. Andrew Ippolito: which are defined regions of space and we would say orbitals hold.
+26:59
+Andrew Ippolito: Two electrons and only two electrons and always two electrons right, so they like to pair so they're always they're always parent within an orbital okay so orbitals all hold two electrons always.
+27:14
+Andrew Ippolito: So Shell number one holds one orbital it's it's it's small and so it's only big enough to hold one orbital.
+27:24
+Andrew Ippolito: Shell number two is capable of holding for orbitals and that's like this the way talk about the weird rules of your board game they just have to that's why, for I don't know because I said.
+27:43
+Andrew Ippolito: I see chat messages coming in here yeah go ahead, go ahead or. Do you have to memorize a chart for that, no, no, no, no, race, it you don't have to memorize that at all that's just.
+27:53
+Think of it as context for the for the understanding of things now do not memorize the lives of.
+28:00
+alicia wanted to. Andrew Ippolito: know I will never ask you a question on this. Andrew Ippolito: Okay, and then she'll number three.
+28:08
+Andrew Ippolito: Which is really the limit of the atoms we deal with in biology shall number three also holds.
+28:17
+For orbitals.
+28:22
+Okay.
+28:28
+Andrew Ippolito: So these orbitals are real things, these are the trajectories of the electrons so electrons are always moving.
+28:37
+Andrew Ippolito: Okay, so that's one thing I wanted to get in your head is that the electron is never sitting still they take these shapes in the same way, I want you to picture in your head a guitar.
+28:48
+Andrew Ippolito: And I want you to pluck the string of the guitar and I want you to imagine somebody took a high speed video of that guitar string moving and be like whoa whoa right, it would be moving like that.
+29:00
+Andrew Ippolito: A guitar string I want you to just think of this for a moment let's say that this is the fret, and this is.
+29:06
+Andrew Ippolito: What they call the other down down towards the head, but that's a string that is is anchored in place in two places right guitar string is fastened into places as under tension, so when you pluck it.
+29:22
+It will form what's called a standing wave. Andrew Ippolito: A stamp this the physics thing a standing wave.
+29:31
+Andrew Ippolito: As as opposed to I don't know what the other kind is called but think of an ocean wave or soundwave just propagates in space.
+29:38
+Andrew Ippolito: we're not talking about that this is a standing wave just locked in there, and so you can imagine that, but this, so the reason why a guitar string has a particular frequency.
+29:51
+Andrew Ippolito: or pitch when you hear it a low pitch or a high pitch is driven by.
+29:57
+Andrew Ippolito: One of the very well, because the guitar has multiple strings in the same distance of the thickness of the string helps us determine that right, but let's say that we instead we're able to very the.
+30:14
+Andrew Ippolito: Really i'm getting carried away here we don't worry about that just understand this as a vibrating right Doug a tie, a jump rope to your door knob.
+30:22
+Andrew Ippolito: and stand, apart from it and just do this to it the same idea or if you still have, if your House still has a telephone with a court on it and take the Court off the wall and do it with that that's what he's doing lab when we had our class phones still.
+30:38
+Andrew Ippolito: Okay, so you can imagine if you're playing the play that game today if you can't get a rope tied to something and just do this right and you're gonna realize the second or maybe you've done this before so just go back in time to when you've done this before.
+30:50
+Andrew Ippolito: You have to whip it at a certain rate in order to get it to be going right you can't, just like the reader with your hands up and up and down.
+30:59
+Andrew Ippolito: can be anything, it has to be a specific rate at which you oscillated and if you get good at it right so here let's say this is your door, and this is you holding this rope if you get good at it.
+31:12
+Andrew Ippolito: You might be able to make. Andrew Ippolito: sure that. Andrew Ippolito: I have to draw this perfectly I see if I could do this again.
+31:22
+Andrew Ippolito: There you might be able to get it, so you have you know, two two waves there Okay, if you go really fast, you might even be able to four.
+31:33
+Andrew Ippolito: Okay, but, most people, I think it probably will get to about three before you just you just can't go faster than that.
+31:38
+Andrew Ippolito: Okay, but you get the idea there that these are specific amounts of energy you're putting into your hand, you can there's there's one and two and three and they're your energy levels.
+31:48
+Andrew Ippolito: Okay that's why that's why we called quantum mechanics one or two or three because electrons are three dimensional standing waves, there are two constraints.
+32:00
+Andrew Ippolito: don't worry about what they are just understand that they're vibrating at specific frequencies we call those are energies and there's energy, energy, energy three.
+32:11
+Andrew Ippolito: Okay, Shell one shelter shelter. Andrew Ippolito: So far, so good anybody have any questions.
+32:18
+Andrew Ippolito: nod your head of this making sense. Andrew Ippolito: Good alright So here we go i'm going to now teach you the orbitals here.
+32:26
+Andrew Ippolito: Now first let's just go through these slides let's just get to this. Andrew Ippolito: So when an electron is living in one of the shells like Shell one and it absorbs energy it can go up to a second show, or even a third show sometimes and then it can fall back down.
+32:44
+Andrew Ippolito: Okay, these movements are called quantum leap. Andrew Ippolito: a quantum leap which is also the name of agreed ease TV show starring Scott bachelor.
+32:55
+Has a wonderful theme song to you. Okay. Andrew Ippolito: This is how your lights work, the reason why you get light bulbs, so the idea, there is that you throw some electrons in there.
+33:06
+Andrew Ippolito: Okay, high energy electrons and that brings the electrons that are within the tungsten up and then down when they fall down to give off photons and we can see with them.
+33:17
+Okay. Andrew Ippolito: Alright So here we go, how are the electrons present distributed within the atom alright so again we see the shells this imaginary boundary.
+33:29
+Andrew Ippolito: And the orbitals the actual trajectory. Andrew Ippolito: And they always hold a maximum two electrons.
+33:36
+Andrew Ippolito: And shells what multiple orbitals therefore can hold more than two electrons right.
+33:42
+Andrew Ippolito: So there's this thing called the octet rule or the rule of eight and that's just shells, two and three hold the electrons.
+33:49
+Andrew Ippolito: Again, you just memorize that that's one of the just why who knows okay So here we go.
+33:57
+Andrew Ippolito: i'll go to the blackboard for a second, I just want to see if I have yeah there we go So you see this picture here, I just wanted to get this idea in your head like this is what they look like they're these cool weird 3D vibrations like waves.
+34:14
+Andrew Ippolito: Okay alright so here's here's how it works Shell one.
+34:20
+Andrew Ippolito: can hold two electrons right. Andrew Ippolito: They are found within a single orbital that is a solid sphere sheet.
+34:28
+Andrew Ippolito: We call this the one s orbital or just one ass. Andrew Ippolito: Okay, and so somewhere in there there's two electrons I like to think of them they're always on opposite sides they hate each other.
+34:38
+Andrew Ippolito: right they hate each other they're electrons they're both negative right, so they repel but they're attracted to the proton so there's this constant there you go OK.
+34:48
+Andrew Ippolito: So solid, in other words the electron can be found anywhere in there, not the surface, this isn't an eggshell, this is a solid ball.
+35:00
+Andrew Ippolito: Okay, so that electron to be found, those those two electrons be found anywhere in there at any moment.
+35:07
+Andrew Ippolito: So, think of that think of the shells i'm sorry rather think of these orbitals as probability clouds.
+35:17
+Andrew Ippolito: These are regions of space where the electrons are most likely found. Andrew Ippolito: they're moving so fast it's kind of like when you're driving in the car and you look at the car next to you that's driving and you look at the hubcap of the car driving it looks like a blur right because it's going so fast that's what this is.
+35:35
+Andrew Ippolito: Okay, still with me. Just nod your head.
+35:41
+Andrew Ippolito: Some people are not nodding their heads, that means that there's something that I could explain better.
+35:47
+To ask me a question.
+35:52
+No. Andrew Ippolito: All right, last chance unless you're gonna say i'm completely lost, then they may completely lost.
+36:04
+Andrew Ippolito: Okay, all right here we go Shell number two.
+36:09
+Andrew Ippolito: Shell number to remember is bigger now bigger space we hold a total of eight electrons.
+36:17
+Andrew Ippolito: Okay, so 2468 there's going to be four different.
+36:23
+Andrew Ippolito: orbitals Okay, the first orbital of shells number two is also a sphere shape, but this fear shape has a hole in the middle.
+36:38
+Okay. Andrew Ippolito: That little hole in the middle, I like to think and I don't know if this is true or not that's this one over here.
+36:48
+Andrew Ippolito: it's like Shell number one hiding in there, the way to visualize this is to take an egg and hard boil it and then cut it in half, and then scoop out the yolk.
+37:02
+Andrew Ippolito: Right and you picture you got that hole in the middle of it. Andrew Ippolito: that's the second Shell okay so there's a there's a solid next to it and it's got a scoop taken out in the middle.
+37:15
+Angela Harbeck: Okay, so they can be found, like the electrons they can be found with in that Shell like, not just on the outer part of the show.
+37:23
+Andrew Ippolito: Exactly anywhere in there. Angela Harbeck: except the middle okay. Andrew Ippolito: So we call these spaces nodes.
+37:30
+Andrew Ippolito: Okay let's go back go back to the jump rope example. Andrew Ippolito: Okay, if I took imagine, I had a jump rope and it was making that ship now take a time take a picture of it, whereas a long exposure What would it look like right, so the jump rope would do this.
+37:48
+Andrew Ippolito: And it would do this right eventually what it would look like.
+37:57
+Andrew Ippolito: would be this right this, this would be the full path of that jump rope attached to the wall and you see in the middle here if you did it perfectly that part of the jumper wouldn't move at all it'd be a dead zone right.
+38:11
+Andrew Ippolito: that's a node that's what that thing is in three depot so the hole in the middle that's kind of what that is it's the absence.
+38:20
+Andrew Ippolito: of any electrons. Andrew Ippolito: Okay, so that that. Andrew Ippolito: takes care of that, so this is we call us the two.
+38:27
+Andrew Ippolito: s orbital so so far, we have one, so we have to us. Andrew Ippolito: Okay now these next three This is where things start to get a little odd.
+38:38
+Andrew Ippolito: It turns out those parents of electrons so you think about it, this is why they get odd imagine trying to shove, a whole bunch of people into a car.
+38:46
+Andrew Ippolito: or a boss, think of like a clown car. Andrew Ippolito: So you have this little car and you have 20 people in it Okay, the driver gets in the passenger gets in.
+38:57
+Andrew Ippolito: The two back occupants get in everybody's sitting like in a completely normal space right, those are spheres, like the one s into us right now, you put a third person in and they're writing in the middle kind of squished in there, a little bit.
+39:13
+Andrew Ippolito: And that's it, so the next person that comes in, where are they sitting, maybe, maybe across the feet of the people in the back.
+39:22
+Andrew Ippolito: And then the next person is maybe on top of them. Andrew Ippolito: And then maybe the next person like right you just picture like you're going to start getting increasingly weird contortions of people until you can fit as many people in that space as possible.
+39:35
+Andrew Ippolito: Okay, so here's electrons are doing the same thing they have to start getting packed in there, so what we do is.
+39:42
+Andrew Ippolito: We create these orbitals that start to look a little funky.
+39:47
+Andrew Ippolito: Okay, this looks like a figure eight, these are called pi orbitals.
+39:56
+Andrew Ippolito: And they're solid, but they have a note in the middle, so another way to draw them the typical way you draw these is like a figure eight like that.
+40:05
+Andrew Ippolito: But in reality there's there's nothing in the middle there. Andrew Ippolito: Okay, now I want you to make So if you hold up your pencil like this right imagine that looks like the fig tree right well think about 3D space for a minute we have this plane.
+40:19
+Andrew Ippolito: Okay, and then watch me for a second, and we have this plane. Andrew Ippolito: And then we have this play right there's three we live in 3D so we have three planes alright, so you can picture, a figure eight going like this, a sauce to two electrons.
+40:37
+Andrew Ippolito: For. Andrew Ippolito: Six, and so we would say this is X, Y Z, just like the Cartesian coordinates in math right, and so we call these two P X two P y and to peasy.
+40:59
+Easy peasy. Andrew Ippolito: Okay, you draw like this.
+41:08
+X y&z. Andrew Ippolito: And then draw a big circle around it and there is your second Shell to 460.
+41:21
+Andrew Ippolito: And we're not going to even do Shell three. Andrew Ippolito: Okay, we can just write that down there's three s.
+41:29
+Andrew Ippolito: there's three P, why i'm sorry three x three.
+41:35
+Andrew Ippolito: Three peasy. Andrew Ippolito: And we're not going to do D orbitals and the weirder ones right because, again in biology, these are the ones we generally concern ourselves with.
+41:45
+Andrew Ippolito: raise your hand, if any, that makes sense. All right, good.
+41:50
+Andrew Ippolito: All right, so let's move on. Alexa DePrisco: Yes, just um about the nodes so the nodes occur between the orbitals so like there's like a dozen.
+41:59
+Andrew Ippolito: know that occur between the orbitals and. Alexa DePrisco: orbital itself will have nodes. Andrew Ippolito: So, so the first Shell doesn't have any notes one has doesn't have any knows the second two s has a note in the middle Okay, and then the pie orbitals.
+42:18
+Andrew Ippolito: Have nodes right in the Center there. Andrew Ippolito: So we're actually draw I can't do this well in 3D space, but the idea, there is there's this gap between the two.
+42:33
+Andrew Ippolito: The two lobes let's let's call these lobes for lack of a better term again i'm not a chemist but you know the two loaves and then there's a Center in the Center there there's no electron density at all okay.
+42:47
+Alexa DePrisco: And so. Andrew Ippolito: The electron start. Andrew Ippolito: To get into these more and more exotic dances these are dances they're all trying to balance the love, they have for the nucleus, and the attraction, they have for the nucleus, and the hate they have for all the other electrons around them.
+43:07
+Andrew Ippolito: Right they're. Andrew Ippolito: All in different seat like think about it, if everybody piles into a room. Andrew Ippolito: We all have to find out how we're going to sit right and get into a jam packed audience there's no standard there's no seats left so you're sitting against the back wall or.
+43:19
+Andrew Ippolito: Right we've all been in those kinds of situations, you get increasingly odd and that's that's, and so what you do there.
+43:27
+Andrew Ippolito: Is you get those increasingly crazy visuals. Andrew Ippolito: Okay now.
+43:35
+Andrew Ippolito: When we start to talk about how to atoms start to talk to each other and you get those bonds that occur.
+43:43
+Andrew Ippolito: You can think of. Andrew Ippolito: That.
+43:49
+Andrew Ippolito: As these three dimensional waves coming together and fusing and the same way, you might picture a lava lamp with bloods coming together Okay, so we like we averaged out those 3D waves and we come up with new ships and that's what you're actually seeing.
+44:09
+Andrew Ippolito: where's my picture here there that's what you're actually seeing on the beast here so like this is what see this is carbon, this is probably ch four.
+44:19
+Andrew Ippolito: Okay, so we have things, called hybrid.
+44:24
+orbitals. Andrew Ippolito: And that's about as far as we're going to get right now Okay, when we do carbon later.
+44:32
+Andrew Ippolito: This this all this information i'm teaching you here serves to help you understand carbon when we do organic chemistry so just file this in the back of your head right now all right and that's it for the complexities.
+44:47
+Andrew Ippolito: OK now let's let's go back to simple now so forget orbitals let's just think that let's just limit ourselves to worry about the shells that the electrons are in this, so this is nice and simple the boar model of the atom.
+45:00
+Andrew Ippolito: Which so so bored postulated that electrons are in orbit around the nucleus, in the same way that the planets are in orbit around the sun.
+45:09
+Andrew Ippolito: And so that that was the next you know we went from Dalton saying that there were these things, called Adams and they're invisible.
+45:19
+Andrew Ippolito: And then, in the late 1800s we came up with this idea of the electron.
+45:24
+Andrew Ippolito: And then the early 1900s we had people trying to figure out how these things are structured and Neil board came up with this notion that the electrons were orbiting in the same way that the earth orbits which was wrong.
+45:37
+Andrew Ippolito: But it was a more remember sciences replaced by better science so bore replaced Dalton and then you had I think schrodinger and a couple other people postulated this idea of the the orbital model.
+45:53
+Andrew Ippolito: Okay, so the thing with Boris model, though. Andrew Ippolito: Is we can still use it as a useful schematic.
+46:01
+Andrew Ippolito: Okay, so we call these electronic distribution diagrams and that's based on Boars idea Okay, and so these rings these concentric rings each ring represents a shell.
+46:11
+Andrew Ippolito: And the pairs of electrons represent the orbitals right, so you would say, this is a tool that's the one s orbital you don't the where you want to call it, one so that just just think of it.
+46:19
+Andrew Ippolito: As a pair of electrons right so from that perspective, and this is how you can think for the rest of the Semester with this stuff when when you're thinking about bonding and all that.
+46:27
+Andrew Ippolito: Then, Adam has one, two, at most, will be dealing with three Okay, the first shel holtz two electrons one to the second Shell holds 12345678 and the third gel also holds 12345678 of us that would be whatever that noble gases that has 1617 meters are gone I can't remember.
+46:59
+yeah. Andrew Ippolito: So we can take a tour through the elements now and do this, we can do this here so hydrogen with atomic number one.
+47:09
+Andrew Ippolito: that's hydrogen. Andrew Ippolito: Right so actually everything i've taught you up to this point, I could just let you sit and stew on it, and you can come up with all of the way everything we act from now on, that you can derive all that all of it from here so watch this here's hydrogen well that's first electron.
+47:27
+Andrew Ippolito: Okay, remember the rule, the rules of the game electrons like the pair right that's an impaired electron.
+47:36
+Andrew Ippolito: So he's not happy. Andrew Ippolito: So how do we make him happy.
+47:42
+Andrew Ippolito: there's another hydrogen right next to him what if we bring them together what happens then.
+47:50
+Andrew Ippolito: they're now they're sharing it. Andrew Ippolito: Okay, so that's what we're going to see i'm not gonna keep going with that, but that's the idea of bonding okay so let's get rid of that so hydrogen.
+48:01
+Andrew Ippolito: Okay lithium i'm sorry i'm sorry helium helium the next one helium would be atomic number two right that's helium So why is helium and noble gas because he's happy those electrons are paired.
+48:15
+Andrew Ippolito: Right and so there's a third rule of the game now I can introduce, and that is Adams.
+48:26
+How can I put this. Andrew Ippolito: Must.
+48:31
+Andrew Ippolito: Have. Andrew Ippolito: A full shell.
+48:39
+Andrew Ippolito: Of electrons.
+48:45
+Andrew Ippolito: On their exterior. Andrew Ippolito: Okay, why the exterior that's the part of the atom that experiences, the universe.
+48:57
+Andrew Ippolito: that's the part of the atom at touches things the outermost Shell okay for hydrogen it's the first show.
+49:04
+Andrew Ippolito: Carbon it's the second show. Okay.
+49:10
+Andrew Ippolito: It doesn't matter what Shell, it is all that matters is what's ever facing out what's ever touching the universe, has to be full.
+49:20
+Andrew Ippolito: Okay, so there's two rules there. Andrew Ippolito: The Shell has to be full.
+49:26
+Andrew Ippolito: And the electrons have to be paired. Andrew Ippolito: In other words, if those rules are not met the atom will react with things until they are.
+49:39
+Andrew Ippolito: And so that's the measure of reactivity of an atom.
+49:45
+Andrew Ippolito: Right that's why helium doesn't react it's it's won the game.
+49:51
+it's achieve nirvana it is noble now noble noble gas.
+49:57
+Andrew Ippolito: We call that inert. Andrew Ippolito: write, something that is in nerd means it does not chemically react.
+50:06
+Andrew Ippolito: The opposite of a nerd will be reactive. Okay.
+50:12
+Andrew Ippolito: Now the fourth rule. Andrew Ippolito: Is once all that's done.
+50:18
+Andrew Ippolito: Then the atom. Andrew Ippolito: Will.
+50:25
+Andrew Ippolito: neutralize. Any charge.
+50:31
+It has acquired.
+50:37
+Andrew Ippolito: Right, so, in other words, if an atom has to lose an electron in order to have an outside Shell that's full as an example lithium, which is the third element.
+50:47
+Andrew Ippolito: Okay, so if we if we look at the electron configuration of lithium it has atomic number three.
+50:54
+Andrew Ippolito: Okay helium is atomic number two I didn't stop number one we look at lithium lithium is got its two electrons and its first Shell and that one is orbital right, but then it needs one more right so we're going to put that third electron out here and it's second shell.
+51:10
+Andrew Ippolito: But we're at the same problem now right, just like the first hydrogen it's got an impaired electron.
+51:15
+Andrew Ippolito: Well, listening him does therefore so so think about it, that second Shell can hold a total of eight it has one, so you ask yourself what's easier, is it easier just lose that electron make it go away.
+51:28
+Andrew Ippolito: Or is it easier to gain seven electrons and, of course, the answer is just lose the one which is exactly what lithium does.
+51:36
+Andrew Ippolito: Okay, so now it's got a full Shell on the outside we're happy, but at what cost.
+51:42
+Andrew Ippolito: We just lost an electron we're now a plus one charge, because I have now, I have three protons and electrons.
+51:52
+Andrew Ippolito: And so that's why lithium after it loses that electron is going to go and it's going to seek some kind of interaction with something that's negative that's why lithium is so reactive.
+52:03
+Andrew Ippolito: it's going to find something to stick to that's negative and it's going to want an electron is going to share it's going to be attracted to something that's negative.
+52:11
+Okay.
+52:17
+Andrew Ippolito: So let's go back here now to this exterior Shell back in the old days before we understood what electrons where we have this notion of the strength.
+52:31
+Andrew Ippolito: That an element had the strength of an element. Andrew Ippolito: That strength of the element was basically what we call it it's measure of reactivity Okay, and so the Greek word for strength is I think it's Valencia, but we can just see violence, so we would say the Valence of carbon that's how we would talk.
+52:57
+Andrew Ippolito: Once we figured out. Andrew Ippolito: that the reason why elements reacted why Adams reacted was driven purely by this exterior Shell that was that was a special set of electrons we call that Shell, the Valence show and that's where the that's why we call it that, so we call this the veal and show.
+53:21
+Andrew Ippolito: The Valence Shell is the Shell, that is going to go and react with the world.
+53:28
+Okay. Any questions.
+53:35
+Andrew Ippolito: Alright, so we can just take this little tour here of biologically relevant elements okay there's hydrogen car there's turnips and with chlorine thrown into the mix should not call turnips call chlorine.
+53:50
+Andrew Ippolito: Okay, you know you do not have to memorize these. Andrew Ippolito: It is useful to know some of these it is definitely useful to know carbons configuration and oxygens configuration.
+54:00
+Andrew Ippolito: it'll probably be good for you to know nitrogen to once you start dealing with organic molecules these guys here are going to control your lives for the next couple of semesters next couple semesters I don't know about that next couple of months.
+54:12
+Andrew Ippolito: we're going to be looking at all sorts of organic molecules and the bonds between them, and so it might be helpful to understand how these reality.
+54:20
+Okay. Okay. Andrew Ippolito: So you can now understand.
+54:30
+Andrew Ippolito: You can think of these now as. Andrew Ippolito: The different shapes of different atoms and therefore they all have different personalities.
+54:39
+Andrew Ippolito: They all do different things, the difference between carbon and gold is because of this reason.
+54:46
+Andrew Ippolito: Okay, the reason like carbon is the source of all organic chemistry is because of the shape of its electron cloud which we'll talk about it.
+54:54
+Andrew Ippolito: Okay, so the shape of the electron cloud determines all of its physical and chemical properties its density is solubility its melting point it's reactivity whatever.
+55:03
+Andrew Ippolito: OK. OK.
+55:09
+Andrew Ippolito: Now I don't think we have time for this, but if you click on this link right here i'll give you this.
+55:16
+Andrew Ippolito: This is too cold and not show you.
+55:34
+Andrew Ippolito: All the experiments in this video are real.
+55:42
+Andrew Ippolito: Oh, let me turn the sound up this is this, so this is a music video.
+56:30
+Andrew Ippolito: Alright i'm gonna stop it right there. Andrew Ippolito: he's playing music great you heard, whatever that was a D sharp and when he plays D sharp the sand on that little square jumps around and forms that shape.
+56:48
+Andrew Ippolito: Right that's good I mean that's kind of crazy isn't it. Andrew Ippolito: it's amazing, the reason is, you have the sound waves.
+56:57
+Andrew Ippolito: propagating in space, making that pleat vibrate at a specific frequency and that frequency you add up all the sound waves in the.
+57:07
+Andrew Ippolito: sand because they're teeny tiny gets carried along for the ride, and it forms these vibrational patterns Okay, so when you're looking at their that sheep that's on the screen right here, it looks kind of like across you know a little edging.
+57:23
+Andrew Ippolito: that's the shape of an orbital. Andrew Ippolito: But in 3D right, so this is what electrons are doing, except not they're not being by rated by sound.
+57:32
+Andrew Ippolito: they're being vibrated by the photons that they captured but the idea is the same and that's why this is such a powerful analogy for for Chemistry alright so let's just watch a little bit more of it because.
+57:44
+Andrew Ippolito: You can start to see there's some cool stuff here. Andrew Ippolito: This okay this here, this is a fair electron.
+57:53
+Andrew Ippolito: Enough Feral magnetic fluid Okay, so this fluid is magnetic and it's viscous and you're going to see it react in 3D now.
+58:24
+Andrew Ippolito: water.
+59:50
+Andrew Ippolito: Now he's just being silly. Andrew Ippolito: Alright, so if you type this word semantics into any search engine, you can just dig in and see more of that.
+1:00:01
+Andrew Ippolito: Okay, so there now you get this right now, you can kind of see this in a new light, those are the electron orbitals this is from a website, you can go to so If so, you guys are mostly going to all go through organic chemistry at some point, so you can.
+1:00:14
+Andrew Ippolito: bookmark this for later it's called the arbitron it's a website that has all this on there, and you could go go ahead and play around in there it's a cool website, the arbitron that's right grab these screenshots from Okay, and so, if you look at.
+1:00:32
+Andrew Ippolito: yeah, these are the so these what i'm showing you here, these are the exotic ones, these are the the the shells that go beyond the the two P, why to peasy stuff.
+1:00:43
+Andrew Ippolito: So there's D orbitals and I think there's F orbitals but and they get increasingly ridiculous in terms of their their shapes okay.
+1:00:54
+Andrew Ippolito: Alright, so now we can start building molecules, this is the important part, so all molecule is is a system of atoms hard stop.
+1:01:02
+Andrew Ippolito: Okay, you can also define a molecule is the smallest unit. Andrew Ippolito: Of a compound that still retains its properties, so you would say hey look here's a water molecule right that molecule of water is still water right, but if I pop one of the hydrogen off of it that's just hydrogen now right, so a molecules as small as you get and still call it that thing.
+1:01:29
+Andrew Ippolito: what's a compound compound. Andrew Ippolito: Is a molecule made of multiple elements in some fixed ratio.
+1:01:43
+Andrew Ippolito: So, for example. h2o. Andrew Ippolito: two parts, hydrogen one part oxygen you don't ever put the one there, but that one is implied okay.
+1:01:57
+Andrew Ippolito: So I want you to think about this for a second h2o. Andrew Ippolito: When we write that and when we think about it, are we concerning ourselves with the size of those items.
+1:02:08
+Andrew Ippolito: Do we care how much bigger oxygen is to hydrogen.
+1:02:14
+Andrew Ippolito: Not at all right. Andrew Ippolito: I know I just need to have them.
+1:02:19
+Andrew Ippolito: Okay, think of your car, this is your bird's eye view of a car. Andrew Ippolito: Right and you have your little driver's seat here and your passenger seat and then like the backseat.
+1:02:30
+Andrew Ippolito: Okay, and I told you that there is a lane on the highway that you can drive on, but only if there were three people in your car.
+1:02:39
+Andrew Ippolito: like an HIV lane you've all probably know the each will be lanes when you're driving down to Washington or up in New York, or if you ever been to long island yeah the long island expressway there's that each will be lame.
+1:02:50
+Andrew Ippolito: Okay, that lane doesn't give you any other qualifiers right each person has to be at least 150 pounds and the car has to be at least 505,000 pounds doesn't matter right all that matters is there are let's say that the ratio was three so we had human three humans to one car.
+1:03:15
+Andrew Ippolito: This is so i'm just putting this in your head now, because what this does is help you explain why we need moles.
+1:03:24
+Andrew Ippolito: Okay, the reason why we use moles and chemistry, the concept of a mole is because up here in the real world, I can't way out.
+1:03:34
+Andrew Ippolito: Whatever sodium chloride, and say Oh, I have, I need how many atoms of sodium chloride doing need to react with this many atoms of whatever other substance i'm playing with right or let's say let's pretend we can make water by mixing hydrogen and oxygen I can't wait out hydrogen atoms.
+1:03:57
+Andrew Ippolito: I need I need to Adams for everyone oxygen. Andrew Ippolito: But when I wait, but oxygens a bigger Adam than hydrogen, so what I can't just way out a set number of atoms right.
+1:04:10
+Andrew Ippolito: What can I do in the real world, I just I have mass, but I have a gram or a kilogram or whatever, so the question is, is how many of the atoms of oxygen do I have in that ground.
+1:04:22
+Andrew Ippolito: And that's why we have Molar conversions to help us make sure we keep these ratios, the same independent of their size okay and we'll talk more about that way to peach.
+1:04:34
+Andrew Ippolito: Okay alright so i'm going to pick up the pace, a little bit now, so we have things like ethanol versus glucose notice that ethanol has carbon hydrogen and oxygen and glucose as carbon hydrogen and oxygen.
+1:04:48
+Andrew Ippolito: Right, they just have different ratios of glucose has two carbons to it six hydrogens and one oxygen whereas glucose has six carbons to it's 12 hydrogens to at six oxygens.
+1:05:02
+Andrew Ippolito: they're still carbon hydrogen and oxygen Okay, the reason why they're so crazy different is because those different ratios give us different structures and different sheets that have different properties right ethanol is a liquid at room temperature and volatiles.
+1:05:20
+Andrew Ippolito: glucose is a solid at room temperature that's crystal.
+1:05:25
+Okay, all right. Andrew Ippolito: So. Andrew Ippolito: You can now think of compounds.
+1:05:32
+Andrew Ippolito: that's systems of molecules and go back to this idea when we talked about life is ordered and we talked about Adams making molecules making macro molecules making cell structures, when you go from Adam by itself, like sodium.
+1:05:48
+Andrew Ippolito: Pure sodium we talked about being this this kind of highly reactive metal that you can cut with a knife and chlorine is a highly volatile.
+1:05:59
+Andrew Ippolito: Very caustic gas at room temperature you put those two things together, and you get something that looks nothing like the others, and you can't predict the properties of this thing okay this compound sodium chloride, is a solid at room temperature and it forms.
+1:06:18
+Andrew Ippolito: To boil crystals. Andrew Ippolito: And it's very stable and has a very high melting point you can put if you take some salt and put it in your oven and turn your have up to 400 degrees you're not going to melt it the melting point of course of sodium chloride is way higher.
+1:06:35
+Andrew Ippolito: Right. Andrew Ippolito: Okay, so the idea here is that the physical and chemical properties of a compound.
+1:06:45
+Andrew Ippolito: Are emergent. Which is pretty cool. Pretty cool to think about okay all right hold on one second here.
+1:06:58
+alright. Andrew Ippolito: Alright, I said all this already, so this is just a slide that reinforces that the idea of other dance Valencia strength okay.
+1:07:11
+Andrew Ippolito: So now we get to know about bonding. Andrew Ippolito: there's one other characteristic we haven't yet talked about and that's the aspect of electro negativity.
+1:07:20
+Andrew Ippolito: This is an intrinsic property guys understand what that means and intrinsic intrinsic the word intrinsic within right.
+1:07:30
+Andrew Ippolito: So intrinsic property is a property that an element has independent of anything else, just like the atomic number is an intrinsic property like carbons is six electro negativity is another intrinsic property every element has a set electro negativity that never changes.
+1:07:51
+Andrew Ippolito: Maybe I want to say isotope maybe the isotopes i'm burying I don't think they do. Andrew Ippolito: So, and all it is is it's a it's an adam's propensity to attract electrons some Adams really like electrons.
+1:08:04
+Andrew Ippolito: And so I want to teach you a mantra right now that we're going to see over and over again, this semester I don't want you to see it with me.
+1:08:09
+Andrew Ippolito: I guess we can't really do this over the microphone let's see what it sounds like everybody's going to talk at the same time that's what it sounds like this, what you're going to say oxygen.
+1:08:19
+Eric Mathew: oxygen. Eric Mathew: electrons. Andrew Ippolito: Go ahead say it i'm when I say on the count of 3123 oxygen loves electrons 123.
+1:08:28
+oxygen. Andrew Ippolito: That sounds like your own. Jordan Russell: I didn't like that.
+1:08:34
+Andrew Ippolito: That was pretty fun okay never forget that.
+1:08:39
+Andrew Ippolito: oxygen loves electrons okay. Andrew Ippolito: we're going to talk about oxygen all Semester, the reason why you're breathing oxygen in right now is because oxygen loves electrons.
+1:08:49
+Andrew Ippolito: The reason why water is water is because oxygen loves electrons the reason why proteins are structured their way fundamentally is driven by hydrogen bonds because oxygen loves electrons.
+1:08:59
+Andrew Ippolito: This is the most important property of anything we're talking about all semester it's all you can drive a lot of life just from this concept.
+1:09:08
+Andrew Ippolito: Okay oxygen loves electrons it's electrode negativity is higher than carbons and hydrogens and in nitrogen nitrogen loves electrons to phosphorus really loves it but we're not building most things out of that.
+1:09:22
+Andrew Ippolito: Alright So here we go. Andrew Ippolito: Remember the Valence electrons are the ones that are exposed to the environment.
+1:09:28
+Andrew Ippolito: And remember that different elements have different numbers of Valence electrons right so so up in the upper right there there's your hydrogen carbon and oxygen then just to show you those are gone, I was right okay our guns etc that's a noble gas right inert just like helium.
+1:09:43
+Okay. Andrew Ippolito: lizzie asked, are we going to be tested on nodes and pie orbitals etc just the basic concept i'm never going to ask you the difference between a sphere, and as far beyond pie orbital that stuff you'll get your chemistry class, so no.
+1:09:58
+Andrew Ippolito: Okay, and I saw Eric. Andrew Ippolito: You have to pick your brother oh yeah yeah that's cool that's cool i'm Sorry, I have to make sure I look at the.
+1:10:08
+The chat a little bit more frequently alright. Andrew Ippolito: So they're stable when the Valence shells full.
+1:10:16
+Andrew Ippolito: And so, though I spell. Andrew Ippolito: What does that look spelled wrong that's noble.
+1:10:22
+Andrew Ippolito: I just caught that mistake noble. Andrew Ippolito: Noble gases right So the question now is well how does an atom get there, how does an atom with pain, the state of nobility How does it's a pain, the state of having a full Valence.
+1:10:40
+Andrew Ippolito: Okay, the first example here we're not learning Kobe well first we're going to learn Ionic first, because this makes the most sense we're going to take a pair of atoms.
+1:10:49
+Andrew Ippolito: That have a very different electro negativity. Andrew Ippolito: Alright, so so basically if you take any two atoms and you look at their electronic activities and you subtract them from each other, so how different are they that's going to determine the kind of bonding that they can.
+1:11:09
+Andrew Ippolito: Okay, so if you take. Andrew Ippolito: And if one atom has a much, much stronger or weaker electro negativity difference one Adams going to steal an electron from another they're going to fall on take it.
+1:11:24
+Andrew Ippolito: Okay, so look at let's look at sodium and chloride alright so sodium has atomic number 11 so here let's let's let's go through this exercise together do this in your notebook this will help you understand this so we're going to look at sodium.
+1:11:37
+Andrew Ippolito: Okay, now, oh no, you have to do this.
+1:11:43
+Andrew Ippolito: now know you guys are not laughing I just need your focus on your work that's good all right here we go.
+1:11:48
+Andrew Ippolito: Shell number one so we're thinking in our heads this what you do this is how you do this, you think 11 in your head right atomic number 11 so 1110 987-654-3210 okay so that's the electron configuration of sodium that's how you do.
+1:12:08
+Andrew Ippolito: It basically you want to fill the shells the way you learned up to the number of electrons it has.
+1:12:16
+Andrew Ippolito: Guy and so notice that sodium has one electron and it's failing show.
+1:12:22
+Andrew Ippolito: Okay, so you're thinking let's pray going to lose it and and go away it's easier to lose that one that is to gain some sort of chlorine now.
+1:12:30
+Andrew Ippolito: and chlorine is atomic number oh boy eating 17 Oh, let me think of my head really quick so 2018 no.
+1:12:39
+Alexa DePrisco: Thank you. Andrew Ippolito: Thank you, I just Am I can't go back without destroying this so let's look at Korea 70 alright so again.
+1:12:48
+Andrew Ippolito: One two you can also count up from up from zero to get the 17th of 2345 678-910-1112 1314 1516 17 it has seven electrons and it's Valence show.
+1:13:06
+Andrew Ippolito: Is it easier to gain one or lose seven, of course, it is easier to gain one oh look sodium has one to give it.
+1:13:15
+Andrew Ippolito: So you put sodium and chlorine together and they're going to react instantly sodium is going to give up its Valence electron to chlorine chlorine now has a solid Valence Shell, but it will cost.
+1:13:29
+Andrew Ippolito: chlorine has an extra electron now, so you would say the chlorine is negative.
+1:13:35
+Andrew Ippolito: it's got a minus one charge to it and sodium has a plus one charge.
+1:13:41
+Andrew Ippolito: So, you now have a pair of ions right, you have an anime and the cat I and you put them together, so this year is sodium with this plus one charge.
+1:13:51
+Andrew Ippolito: And this here, which is bigger chlorine is bigger than sodium what is minus charge you put those two things together and they're going to be attracted because of their differences in charge, we call this kind of attraction and Ionic bond.
+1:14:08
+Okay.
+1:14:13
+Andrew Ippolito: alright. Andrew Ippolito: So that's what you're seeing on the slide right here the slide is everything we just drew now the neat thing is when you look.
+1:14:22
+Andrew Ippolito: At the pattern of the three dimensional molecule.
+1:14:27
+Andrew Ippolito: Because the chlorine is big and the sodium is small, they fit into these really neat geometrical patterns and the shape of that atomic configuration.
+1:14:39
+Andrew Ippolito: When you zoom out into it and you look at the macroscopic continues the pattern that's why salt looks like it does those salt crystals are driven by its atomic configuration.
+1:14:50
+Andrew Ippolito: Right, so a single salted crystal is this cute little cube, and the reason is because the atoms form cubes.
+1:14:59
+Andrew Ippolito: Fear go to the museum and you look at those cool crystals and all the different shapes the geometrical to boil she that's because those are more complicated molecules forming a crystal Okay, so a crystal itself as a repeating pattern of molecule.
+1:15:15
+Okay. Andrew Ippolito: All right, I said all that all right, the coviello bond when you have two atoms that have well in this case exactly the same electro negativity nobody wins these tug of wars and so they end up pulling equally on each other and sharing them.
+1:15:34
+Okay. Andrew Ippolito: that's the idea, and so the word itself co Valence there's Valence and co meaning there sure your here's my coworker we work together okay cool Valence.
+1:15:48
+Andrew Ippolito: there's three elements. Andrew Ippolito: That we collectively call the diatonic elements.
+1:15:57
+Andrew Ippolito: And these are listed below there's hydrogen H2 there's oxygen oh two and there's nitrogen and.
+1:16:06
+Andrew Ippolito: In each one of these goes up to form either a single a double or a triple covina.
+1:16:15
+Andrew Ippolito: The more the stronger. apes strong together.
+1:16:27
+Andrew Ippolito: Okay, so these are the things you're breathing in right now, particularly the oxygen the nitrogen 70% of the air around you is this stuff.
+1:16:38
+Andrew Ippolito: And it's a nerd. Andrew Ippolito: So were to us before the reason it's a nurse is there is no metabolic activity in your body that is strong enough to break that triple bond.
+1:16:55
+Andrew Ippolito: So all the nitrogen that we have in our organic molecules like in our DNA and our proteins.
+1:17:03
+Andrew Ippolito: Is first broken out there in the wild by the by the producers there's nitrogen fixing bacteria that break those bonds.
+1:17:12
+Andrew Ippolito: something to learn about next semester, but it all comes down to here okay now this bond and oxygen is also pretty strong to break and we'll talk about that later in the Semester.
+1:17:24
+Andrew Ippolito: This is relatively easy to break. Andrew Ippolito: Okay, but that's the idea that's the idea was.
+1:17:30
+Andrew Ippolito: OK, so the thing on the right, I got this from the arbitron this is kind of how you can start to understand the hybrid orbital.
+1:17:42
+Andrew Ippolito: When you take two orbitals and you mash them together okay now so there's math behind this there's three dimensional math.
+1:17:51
+Andrew Ippolito: That defines these three dimensional spaces and when you put two atoms together and you do the math you get a new equation that gives you a new description of the 3D space.
+1:18:03
+Okay. Andrew Ippolito: So.
+1:18:10
+Andrew Ippolito: These we're going to collectively call non polar bonds when we say non polar we're talking about the idea that everything is shared equally.
+1:18:20
+Okay. Andrew Ippolito: And so we can build the basic organic molecules so we can start the world of biology here by thinking about carbon so here let's just take methane right now okay so here i'm going to go to the to the blackboard here.
+1:18:38
+Andrew Ippolito: And we're going to do this let's let's look at carbon the carbon configuration carbon is atomic number six right, and so we have two here.
+1:18:46
+Andrew Ippolito: And then we have another four and here's how you draw those 41234 So the question is how many bonds can carbon form the answer, of course, is for because there's for missing right.
+1:19:03
+Andrew Ippolito: So who has one electron well, we can put a hydrogen here, and here, and here, and here, each with its one electron and now everybody's happy and the seat, for which we call method.
+1:19:20
+Okay.
+1:19:25
+Andrew Ippolito: And the electrode negativity difference between carbon and hydrogen is not significant enough.
+1:19:32
+Andrew Ippolito: We can consider these about the same, and so what what does that mean what's that translate to imagine we had just carbon and hydrogen together so that there's there's a atom of.
+1:19:44
+Andrew Ippolito: Carbon and here's an atom of hydrogen. Andrew Ippolito: Okay, you can picture this in the 3D space as a cloud again everything's a cloud of electrons this cloud of electrons is evenly distributed.
+1:20:02
+Andrew Ippolito: The electrons are just flowing around that all about the same. Andrew Ippolito: that's what makes it nonpolar okay.
+1:20:10
+Andrew Ippolito: You guys still with me this making sense still all right good all right, because now i'm going to teach about water we're just going to skip ahead here every OK OK actually let's let's talk about some.
+1:20:20
+Andrew Ippolito: Atomic architecture, so when we when we write it like this, we call this the molecular formula.
+1:20:29
+Andrew Ippolito: When we draw like this we call this the structural formula.
+1:20:35
+Andrew Ippolito: The structural formula gives us more information than the molecular formula, the structural formula starts to show us the bonding so, for example, if you look at esteem down here.
+1:20:48
+Andrew Ippolito: You see, see to each for that's not as informative as looking at this, showing that carbon has a double bond in the middle.
+1:20:55
+Andrew Ippolito: Right, so the structural formula helps us understand the bonding.
+1:21:00
+Andrew Ippolito: The ball and stick model. Andrew Ippolito: Well, now we're adding a three third layer here so compare the structural formula here to the barn stick model here.
+1:21:11
+Andrew Ippolito: And when you see if the bostic model actually shows you the three dimensional shape okay so here, you can see that carbon forms this three dimensional solid pyramid called a tetrahedron.
+1:21:28
+Andrew Ippolito: Okay, now there is a hybrid model between these two you might have seen something like this before.
+1:21:35
+Andrew Ippolito: You might have seen somebody dropped little triangles.
+1:21:40
+like this. Andrew Ippolito: And then you might sometimes see little slashes that means going back.
+1:21:48
+Andrew Ippolito: Okay, this is basically the structural formula rendered in a way that's like the bond stick, so you can see 3D space, so if you ever see something like this.
+1:22:00
+Andrew Ippolito: That tells you that the curtains coming out of the screen and if you see something that looks.
+1:22:07
+Andrew Ippolito: like this, that means it's going back. Andrew Ippolito: Okay, I generally don't dress up like that I usually if i'm doodling things it's like the structural formula.
+1:22:16
+Andrew Ippolito: Okay, and then the space filling model gives us the most accurate view of what it looks like in real life that's your electron cloud Okay, the problem is with the spaceflight mafia look at St in here that's like less informative than the bond stick model.
+1:22:32
+Andrew Ippolito: it's just the most accurate. Andrew Ippolito: Okay, so if you were building a model of it to like throw around the room, you would use the ball, the space film model that's what it actually looks like okay.
+1:22:47
+Andrew Ippolito: Now I can teach you about the polar Kobe. Andrew Ippolito: This is arguably the most important bond.
+1:22:53
+Andrew Ippolito: Had a ball. Andrew Ippolito: here's how it works. Andrew Ippolito: here's oxygen.
+1:22:59
+Andrew Ippolito: or here let's let's let's build this here's oxygen sorry I don't mean to I when I suddenly do that, I have to get better, I know that jars you out so i'm going to.
+1:23:06
+Andrew Ippolito: See i'm going to go to the blackboard now okay So here we go here's oxygens electron configuration oxygen as atomic number eight, so we have two and the first shell.
+1:23:16
+Andrew Ippolito: And we have six out here. Andrew Ippolito: Okay, this right here that right there is what makes oxygen so special.
+1:23:26
+Andrew Ippolito: This is what makes oxygen he to aerobic respiration and it gives it all of its wonderful weird magical properties, the reason is, it has these pairs here what we call loan electron pairs.
+1:23:42
+Andrew Ippolito: Okay, so oxygen conform to bonds right it's got these two extra electrons that are impaired, and so we can in its simplest steam give a hydrogen to each of these and there's water there's html one of the most abundant compounds in the universe.
+1:24:04
+Andrew Ippolito: Now, because oxygen loves electron so here you don't have to worry for what i'm going to teach you now I don't it doesn't it's not so important that there's these extra electrons here you don't have to worry about this for the rest of this, I just wanted to point that out for way later.
+1:24:18
+Andrew Ippolito: The electrons that float around this molecule let's think of the three dimensional version of this right let's which it looks kind of like Mickey Mouse.
+1:24:29
+Andrew Ippolito: Right, I want you to picture this as a cloud and understand that the oxygen nucleus likes electrons a lot more than the two hydrogen nuclei.
+1:24:42
+Andrew Ippolito: So I want to draw these little dots here those correspond to the nuclei okay so remember the nucleus is positively charged.
+1:24:50
+Andrew Ippolito: And the electron cloud is negatively charged Okay, because the electrons spend more time around oxygen this part of the molecule is ever so slightly it's slightly negative.
+1:25:07
+Andrew Ippolito: And we didn't know that mathematically with a delta a lowercase Delta, with a minus.
+1:25:18
+Andrew Ippolito: And because the electron density around the hydrogens is so much weaker, you can picture, have you ever been outside on a cloud partially cloudy day and you've seen you've seen this before so picture now this cloud, and you can kind of see the sun behind it.
+1:25:37
+Andrew Ippolito: ever so slightly that's the nucleus of hydrogen shining it's positive light out into the universe beyond the cloud and so it's slightly positive on both of these sites.
+1:25:53
+Andrew Ippolito: So it's important to understand, this is not an eye on because if you add up the total number eight let's think of h2o here if we add up the total number of protons here how many protons are there, well, our students got eight and each of the hydrogen has one so that gives us 10 protons.
+1:26:11
+Andrew Ippolito: And then, when we add up the electrons we also get 10, so this is an electrically neutral molecule it's just it's not evenly distributed.
+1:26:22
+Andrew Ippolito: This will be like walking into a room of you know 20 people, and most of the people are, on the other side of the room because something smells bad over here.
+1:26:32
+Andrew Ippolito: Right it's not evenly distributed, and so we call this polarity and we see, this is a polar Kobe bond.
+1:26:43
+Okay. Andrew Ippolito: And so you could also draw like this, you can think of it as having.
+1:26:51
+Andrew Ippolito: Like a magnet. Andrew Ippolito: A dipole moment, if you know what that means don't worry about it.
+1:26:59
+Andrew Ippolito: Okay, so with So there you go that's. Andrew Ippolito: It can see your slightly negative charge your slightly positive charge.
+1:27:07
+Andrew Ippolito: Right, so the idea here is that the electro negativity between the two is buried, I went to this really isn't a see it's different the electro negativity difference.
+1:27:19
+Andrew Ippolito: is significant, but not so much that you lead to an Ionic bond Okay, and so really you the the College level version of this and you're going to have to notice in your chemistry class anyway, if you think about a purely non polar Kobe bond and a purely Ionic bond.
+1:27:41
+Andrew Ippolito: There is a spectrum here of bonding so technically the carbon hydrogen bond.
+1:27:48
+Andrew Ippolito: Is a little bit more polar than a carbon carbon bond or a hydrogen hydrogen bonds oops.
+1:27:54
+Andrew Ippolito: Right. Andrew Ippolito: So it'll be like here on the spectrum.
+1:28:00
+Andrew Ippolito: So. Andrew Ippolito: What the spectrum here is is it's the differences and electronic activities if there's no difference at all, you have a truly non political band bond if the difference is some particular like infinity let's say.
+1:28:14
+Andrew Ippolito: it's going to be Ionic Okay, and so, when you take your chemistry class you're going to learn there's some threshold that you can that's i'm just making this up right now, I have no idea what it actually is let's see it's 4.7 when you take the two different.
+1:28:29
+Andrew Ippolito: Electronic activities you add them together or subtract them from each other, you get a number if the number falls on this side of the threshold we call that a Kobe on the bond, and if it's on this side of the threshold we call it Ionic bond.
+1:28:41
+Andrew Ippolito: Okay, so bonding in chemistry is a spectrum.
+1:28:50
+Andrew Ippolito: All right now week chemical interactions are when you have molecules actually I just looked at the time, for they want to see how much time we have it's 1211 okay so we're okay.
+1:29:06
+Andrew Ippolito: um. Andrew Ippolito: Oh yeah So here we don't worry about Lewis structures in this class but that's the what the Lewis structure would be essentially we just showing the.
+1:29:20
+Andrew Ippolito: Valence electrons right, so this will be the Lewis structure of oxygen you know hydrogen would have this, and so the picture them like like puzzle pieces that's what the Lewis structure lets you do lets you think about the bonding a little bit easier okay.
+1:29:36
+Andrew Ippolito: Alright, so there you go. Andrew Ippolito: A week chemical interaction.
+1:29:42
+Andrew Ippolito: You can think of as an intra molecular.
+1:29:49
+bond. Andrew Ippolito: or bonding so everything we just learned was intra molecular i'm sorry i'm sorry I have that backwards.
+1:29:58
+Andrew Ippolito: into is within an intra molecular bond would be the colby on bond and the Ionic bonds okay and inter molecular.
+1:30:10
+Andrew Ippolito: would be when we have two molecules like see, this is a molecule of water, and this is a molecule of water and we're talking about bonding between those okay.
+1:30:20
+Andrew Ippolito: These are necessarily going to be weaker than the intra molecular bonds, because if they weren't we just have a bigger molecule right.
+1:30:30
+Andrew Ippolito: So the idea is is molecules are distinct in this case, and they have weak interactions between them.
+1:30:39
+Okay, so they're easily reversible. Sorry.
+1:30:44
+Andrew Ippolito: The most common of them is called the hydrogen bond, this is a bond that's formed between the slightly negative and the slightly positive regions of the molecule So if you look at this water molecule here.
+1:30:57
+Andrew Ippolito: You can see that the hydrogen, which is slightly positive is interacting with the nitrogen in ammonia Okay, so we didn't talk about this yet, but nitrogen like oxygen.
+1:31:07
+Andrew Ippolito: has an electro negativity that's significant and so nitrogen forming it's difficult so nitrogen version of water, the default state with hydrogens is ammonia, and this is an H3.
+1:31:21
+Andrew Ippolito: Okay, and the nitrogen is like oxygen slightly negative.
+1:31:27
+Andrew Ippolito: And so the slight negative and the slight positive just tug on each other, a little bit like a week velcro.
+1:31:35
+Andrew Ippolito: And that interaction right there we call the hydrogen bomb. Andrew Ippolito: And we find these we're going to see these everywhere.
+1:31:44
+Okay. Andrew Ippolito: So this is a bunch of water molecules bopping around.
+1:31:50
+Andrew Ippolito: In a liquid, and you can see, the little dots everywhere, representing the hydrogen bonds, so if this was a video, and we were playing it, and this was like room temperature water.
+1:31:59
+Andrew Ippolito: Those watermark is will be moving fast enough, but their own intrinsic energy to not get stuck in place in any one area Okay, so these bonds would be constantly being made and broken.
+1:32:12
+Andrew Ippolito: Alright, so here i'm going to put this image in your head, right now, this will help us with pH leader imagine water Okay, every time it sees each other they're high five each other.
+1:32:22
+Andrew Ippolito: Okay that's what's happening here those little high fives you have to stop and are there, a little handshakes very quick handshakes.
+1:32:28
+Andrew Ippolito: Now, imagine walking through a room, you have to shake everybody's hand to get through it oh hi hi how are you hi how are you everybody taking everybody else's hands it's just so they're all everybody's just stuck together a little bit that's a group of water molecules okay.
+1:32:42
+Andrew Ippolito: All right, Vander walls interactions you might have seen in your chemistry class something called London.
+1:32:49
+Andrew Ippolito: dispersion or London dispersion forces Okay, this is described up here.
+1:32:57
+Andrew Ippolito: And the idea is very, very simple, if you take just two atoms that are electrically neutral that sorry that are not.
+1:33:04
+Andrew Ippolito: Anything special so like here's the atom and here's another atom right so those just they have their electron cloud they got their nucleus.
+1:33:11
+Andrew Ippolito: And you start pushing them together and you force them to get close together just by pressure just get them close together what's going to happen is this nucleus here will be ever so slightly attracted to this electron cloud.
+1:33:25
+Andrew Ippolito: Okay, and this nucleus here will not like this nucleus and they're going to push each other away and so when they get really close together about five nanometers.
+1:33:37
+Andrew Ippolito: You can see that this one of the nuclei starts to push outside of its shell a little bit.
+1:33:44
+Andrew Ippolito: and attract the other cloud towards it just a little bit. Andrew Ippolito: and push this nucleus away right so that's a picture, this is a magnet repelling each other, you push these two things together this man is going to push this magnet apart and so it's going to move it over here.
+1:33:59
+Andrew Ippolito: Alright, so this is going to move this way and, as a result, the electron cloud is going to descend and kind of come this way, and you get a slight attraction, even though there's no polarity.
+1:34:10
+Andrew Ippolito: This is called the London dispersion for us, my understanding of it is okay, when I was your age and we learned about this and biology and chemistry we call these bandra walls forces, but apparently that's Vander Waal interactions are the generic term and the include hydrogen bombs okay.
+1:34:29
+Andrew Ippolito: The gecko This is how the gecko sticks to glass. Andrew Ippolito: Is through these so you just need a whole lot of interaction, at the same time that's why it's fully shaped like that form and function there's another example of form, following function.
+1:34:43
+Andrew Ippolito: The reason why the get go foot has all of those if you if you looked at the skin of this so i'm going to go to the blackboard here, instead of like.
+1:34:52
+Andrew Ippolito: The bottom of the foot being like flat it has all of these surface area convolutions to maximize the amount of sticking to the glass Okay, this is probably why we have fingerprints right think about the fact that this is a very slick piece of ceramic grade.
+1:35:11
+Andrew Ippolito: But I can hold this and if I put my finger on this it's it doesn't move that much you can do this right now with anything that's shiny and smooth piece of glass, we probably use a little bit of this here.
+1:35:25
+Andrew Ippolito: Maybe we don't but it's fun to think about. Andrew Ippolito: How spider man moves.
+1:35:34
+Andrew Ippolito: Anyway, alright, so we talked about structural formulas, we talked about molecular sheep well we didn't talk too much about molecular sheet.
+1:35:44
+Andrew Ippolito: So here here is where we're going to formally about this idea of hybrid orbitals okay.
+1:35:50
+Andrew Ippolito: The idea is is when you take. Andrew Ippolito: Well, where does this even come from think of pure carbon, if we look at carbons electron configuration it looks kind of like this just carbon.
+1:36:08
+Andrew Ippolito: Okay, but when we look at the shape of ch for.
+1:36:15
+Andrew Ippolito: It has the tetrahedral shapes. Andrew Ippolito: So, in other words, when when the hydrogen is come in here and attack this stuff it changes the shape of the electron clouds and the way you think of that is taking the hydrogen orbitals and taking the carbon orbitals.
+1:36:34
+Andrew Ippolito: And averaging them all out to a new sheet. Andrew Ippolito: Okay, and what happens is is the S orbital i'm going to blank this now, the S orbital.
+1:36:46
+Andrew Ippolito: And the p orbital. Andrew Ippolito: And up mathematically mushing together to form what's called a hybrid s P orbital which kind of looks like this.
+1:37:00
+Andrew Ippolito: like an exclamation mark I guess okay and there's SP to hybrid orbitals which means you're using two of the pie orbitals and there's SP three pi orbitals would use all three of them Okay, the SP three orbitals give us the tetrahedron of carpet the 3D shape.
+1:37:21
+Andrew Ippolito: The SP to orbitals or what helps us understand these double bonds that formal plane.
+1:37:28
+Andrew Ippolito: And that's where you'll get so i'm going to blank this out now that's where you get. Andrew Ippolito: Well, well we'll learn about that, when we do carbon will see that again less carbon.
+1:37:36
+Andrew Ippolito: Just understand, right now, the idea of we're going to add all those orbitals together the SS and the peas and we're going to push them together and we get this hybrid orbital.
+1:37:45
+Andrew Ippolito: Okay, so right here this this is carbon this is how we get carbons for hybrid SP orbitals, these are the SP three orbitals.
+1:37:55
+Andrew Ippolito: 1234 I mean get those by taking all three pi orbitals and Muslim, together with yes.
+1:38:02
+Okay. Alexa DePrisco: Sorry. yeah God. Alexa DePrisco: Will there be a point where we talk about the hybridization of orbitals but for like a longer molecule so like if you have I don't know like um.
+1:38:17
+Andrew Ippolito: The whole bunch of carbons. Alexa DePrisco: yeah but like specifically like if you were to think about like methane and how it has like the four bonded hydrogens would be talking would be talked about, I guess, like the the hybridization of like the hydrogen so but I guess that's not like a great.
+1:38:30
+Andrew Ippolito: Oh yeah, no, no, so I yeah I I was blending all that together it's the carbon. Andrew Ippolito: carbons.
+1:38:36
+Andrew Ippolito: own orbitals change shape to accommodate the incoming hydrogen.
+1:38:41
+Alexa DePrisco: And then I guess like had I like it would have to be like a more complex molecule than than just like.
+1:38:48
+Alexa DePrisco: Yes, like we talked about like the hybridization of like, then the terminal I guess Adams on the ends or anything does that make sense.
+1:38:56
+Andrew Ippolito: yeah yeah yeah I understand, though I mean hydrogens just a sphere it's always a sphere, because it's the simple one, so when we look at.
+1:39:05
+Andrew Ippolito: Methane just take this idea right and then just add a little sphere to the end of these and that's hydrogen so yeah it kind of averages in there really, really, this is the the mind blowing Part A single atom a single molecule you can think of is having just one big single hybrid orbital.
+1:39:28
+Andrew Ippolito: Right so like translate that to the keep going, you are one big single hybrid orbital.
+1:39:36
+Right. Andrew Ippolito: So everything everything can be every physical thing that we can see in the real world can be described like this.
+1:39:45
+Andrew Ippolito: alright. Andrew Ippolito: So here you go here here's. Andrew Ippolito: here's that this is a sheet of graphite but instead of thinking of it like carbon and hydrogen or just carbons binding together, think of them, as all the orbitals blending together into one big super orbital okay.
+1:40:02
+Andrew Ippolito: Okay, good now I already said all this, there that's the end that's basic chemistry, so what i'm going to do now is just start the hydrogen the water chapter.
+1:40:14
+Andrew Ippolito: And this these go fast, we can actually do both of these next Monday and we're still not behind.
+1:40:21
+Andrew Ippolito: But I do Okay, I want to fix this though transitions so here I wanna I want to stop the recording that that's the end of general chemistry, the end.

@@ -1,0 +1,1252 @@
+0:01
+Andrew Ippolito: So this is our we're picking up where we sort of where we left off last time last time we learn the basics of how Mendel performed his experiments and we learned how to.
+0:14
+Andrew Ippolito: carry out a simple men dalian genetics problem using punished squares a simple single gene or two genes to treats dominant recessive relationships okay.
+0:28
+Andrew Ippolito: We want to do here now it's just there's two mathematical laws that have to be taken into account when you're when you're working through these problems there's the love.
+0:37
+Andrew Ippolito: dive the formal names for these, but basically it's some. Andrew Ippolito: One of them has to do with a single event.
+0:47
+Andrew Ippolito: Okay, and so we're we're going to think about a single coin toss. Andrew Ippolito: let's do this so single coin toss right, you can either get a heads or you can get a test right you flip a coin it's one or the other.
+1:01
+Andrew Ippolito: Right so there's one possibility here and there's one possibility here right, so you would say that each one of those gives us there's a half out of one right or you could also think of this, you can think 50% or you could think 0.5 right.
+1:18
+Andrew Ippolito: And the reason you're right 0.5 here's a little lab lab skill, for you, the reason why you always write a 0.5 for decimals is, if you just read Point five and you're scribbling it.
+1:27
+Andrew Ippolito: Especially if you're writing notes for somebody else they might miss the decimal point, which is why you always do the preceding zero right So if you keeping a lab notebook that's why we put the zero first so anyway, each of these are equivalent terms, so if I asked you.
+1:42
+Andrew Ippolito: For a single event, what are the chances that you're going to flip a coin and get a heads, you would say there's a 50% chance, or you would say that it's one half right.
+1:52
+Andrew Ippolito: If I asked you this question, which is kind of weird, what are the chances for single coin toss of getting either a heads or tails.
+2:01
+Andrew Ippolito: what's the answer. Taylor Campbell: Well i'm. Andrew Ippolito: 100% so the reason why you that, so the mathematical way to carry that out, is to add it together Okay, so this is the rule of addition.
+2:19
+Andrew Ippolito: Okay, so let's think of something a little more complicated let's say that we were playing a game, and we had a four sided die.
+2:30
+Andrew Ippolito: Right, and so it would look kind of like this.
+2:40
+Andrew Ippolito: Where are the possibilities will be up on the top here so you'd roll the dice and you'd look at this right, so that could be there a one or two or three or four.
+2:48
+Andrew Ippolito: Right so ready, this is easy what What if I asked you so let's say that we were playing a game, and I said you had a if you rolled a one, two or three you would win So what are your chances of winning.
+3:03
+Andrew Ippolito: quick. Julia Lakchin: three out of four. Andrew Ippolito: three out of four good.
+3:09
+Andrew Ippolito: And what House can you see that. Julia Lakchin: 75%. Andrew Ippolito: Perfect okay.
+3:16
+Andrew Ippolito: So, and all you did was so there's there's a one fourth chance of getting a one there's a one fourth chance of getting into and there's a one foot chance of getting a three it's that simple OK so again we're talking about a single event.
+3:29
+Andrew Ippolito: Alright that's how you calculate the probabilities of us all the possible outcomes right if you were playing with a 52 of the deck of cards 52 forget the joker's.
+3:41
+Andrew Ippolito: And I said, where the probabilities of drawing a queen right, we know that there's four Queens in the deck so that would be for out of 52.
+3:51
+Andrew Ippolito: Right 1234 because you add them together now what if I said, what are the probabilities of drawing consecutively in two consecutive let's let's do two consecutive coin tosses let's keep it simple again first okay two consecutive two.
+4:08
+Andrew Ippolito: consecutive tosses. Andrew Ippolito: Right, the key here.
+4:14
+Andrew Ippolito: Is that the events multiple events they are independent of one another.
+4:20
+Andrew Ippolito: Okay, the the outcome of the first event does not influence the outcome of the second event right a fair coin toss heads or tails and then another one heads or tails.
+4:33
+Andrew Ippolito: The first coin toss doesn't influence the second one they're still rent right so here's here's kind of here's a trick question after flipping a coin once you've got a heads.
+4:45
+Andrew Ippolito: what's the probability of flipping a coin a second time and also getting a heads.
+4:53
+Andrew Ippolito: Good. Andrew Ippolito: Right, because that second coin toss is not influenced by the first it's always going to be 5050 but now, what if I phrase it this way you're holding a coin, what are the probabilities of you flipping that coin once and getting a heads and then flipping it a second time and getting it.
+5:15
+Taylor Campbell: But I reduce. Zachary Lucas: My person.
+5:20
+Andrew Ippolito: If we saw the answer 25% but what did tell her say. Taylor Campbell: Like i'm sorry my kids screaming at me.
+5:26
+Oh. Andrew Ippolito: I thought it was something like that she's like you're I don't want you learning probabilities you know too much already.
+5:34
+Taylor Campbell: Hearing anything without ours, using say i'm. Taylor Campbell: Like it would reduce would it look like.
+5:42
+Andrew Ippolito: So here watch this. Taylor Campbell: Okay. Andrew Ippolito: You have you have two events. Andrew Ippolito: Okay, the first event I told you, I want it to be a heads and the second one, I also wanted to be heads the key is you don't know the outcome, yet.
+5:55
+Andrew Ippolito: Right, the first example, like the trick question was I told you, you have a heads what's the second one.
+6:01
+Andrew Ippolito: Okay 50% now i'm telling you you don't know here's a coin flip it twice what are your chances of getting a heads and ahead, so the first time.
+6:09
+Andrew Ippolito: The chance of getting a heads or one half right, and the second coin toss the chances of getting it or one half what you do here is you multiply those two things together, and you get one fourth.
+6:21
+Andrew Ippolito: Okay Now you can visualize this you can, if that's not intuitive to you which maybe it's not at first when you look at it.
+6:29
+Andrew Ippolito: If we take that concept of, to coin tosses and we map it out watch this So the first coin toss can either be a heads.
+6:37
+Andrew Ippolito: or it could be a tales right the second coin toss could be a heads or tails so let's look at the combinations we could have first got a heads.
+6:45
+Andrew Ippolito: And then we could have got a heads the second one we've got to get our heads and tails the second one, we can get a tails and a heads and the third one, we have the fourth one going to tails tails.
+6:57
+Taylor Campbell: i'm sorry you're saying that doing it first and then second and getting them.
+7:04
+Taylor Campbell: heads for both would be one for us. Taylor Campbell: Yes, that's the one okay. Andrew Ippolito: And here's so what i'm showing you here.
+7:10
+Andrew Ippolito: is why there's your heads heads right and 123 those are the four possibilities.
+7:17
+Andrew Ippolito: Like the key to understanding this is is this thing here, the idea that.
+7:24
+Andrew Ippolito: You can get them in either water and that each one of those counts as a possible event getting a heads and tails and it tells us a heads okay.
+7:34
+Andrew Ippolito: If the order didn't matter so here, what if I asked you this question, what are the chances of flipping, to coin two consecutive coin tosses and getting one of each heads and tails, what are the chances of that.
+7:51
+Taylor Campbell: hi. Taylor Campbell: Good 5050. Andrew Ippolito: right if I said, what are the probabilities of getting a tails then a heads.
+7:58
+Andrew Ippolito: You see how that's different right heads and tails not good enough first got to be tails that's got to be heads, now the answers by 25%.
+8:06
+Andrew Ippolito: All right, good now for more complicated work let's talk about a deck of cards, what are the probabilities of drawing a the Queen of hearts rate so that would be one out of 52 followed by the seven of clubs one out of 52 you would multiply those two things together.
+8:23
+Andrew Ippolito: And you can immediately see why it's really hard to do something like that. Andrew Ippolito: Right. Taylor Campbell: Okay, so these are those numbers get so incredibly big.
+8:31
+Taylor Campbell: Yes, exactly. Julia Lakchin: In your questions, will you word it so that we know if you put that card backs like if you draw the Queen of hearts you put it back into the deck so it's still.
+8:44
+Andrew Ippolito: I would never ask you a quick deck of cards questions that's just. Andrew Ippolito: that's that's that's just like an example like.
+8:50
+Andrew Ippolito: That oh so yeah you can always assume. Andrew Ippolito: wow.
+8:58
+Andrew Ippolito: yeah you oh. Andrew Ippolito: God. Julia Lakchin: i'm just asking that because that's how we had to do it in statistics, he had to say, like putting it back.
+9:04
+Andrew Ippolito: That may well and so why, why is that important let's make sure everybody else is on the same page here. Julia Lakchin: Well, because if you put it back then it's still 52 decks if you keep it out, then it's 51.
+9:14
+Andrew Ippolito: Good good right. Andrew Ippolito: So I withdrew a card. Andrew Ippolito: I now have 5100 with you another card is now 50 so you the model right, the chances would be.
+9:24
+Andrew Ippolito: Different I mean they'd still be very large numbers but they would be slightly different very large numbers and so that's a little you know that's the difference you're a mathematician and a biologist right there.
+9:36
+Andrew Ippolito: Is is good enough. Andrew Ippolito: Okay. Andrew Ippolito: By the way, I want to clarify remember, I told you guys that when Mendel was doing his work statistics really wasn't invented at that point that's not entirely true when I was teaching myself so Microbiology this weekend.
+9:51
+Andrew Ippolito: It got into a little stats and I finally had time to research, this a bit the mystics as a science has been around since like the.
+10:00
+Andrew Ippolito: 1600s statistics, the reason why it's name is statistics it got it start with just counting the census of people in states.
+10:08
+Andrew Ippolito: Right so so the the story of statistics is a story of the evolution of city states in Europe accounting people, the number of people, and all that.
+10:16
+Andrew Ippolito: It didn't really get to it wasn't used in biology statistics wasn't used in biology until the turn of the 19th like 1902 1903.
+10:26
+Andrew Ippolito: So punnet and and Mendel and all the geneticists Morgan, who will learn about today, none of them use statistical models to do any of their work it wasn't until like 1910 or so that's that started getting used to this so.
+10:40
+Andrew Ippolito: I said to you, it wasn't really invented yet it wasn't applied to biology.
+10:47
+Andrew Ippolito: biologists actually we weren't even. Andrew Ippolito: allowed to publish papers on both math and biology, the British Royal Society, which was like the gold standard science in their early teens really for a while.
+10:59
+Andrew Ippolito: You could you could submit papers on biology, or you could submit papers in mathematics, but you couldn't submit papers on biology and mathematics, at the same time, they just wouldn't even accept them so anyway.
+11:12
+Andrew Ippolito: that's all i'll say about that.
+11:19
+Andrew Ippolito: test crosses love and have been a swarm and pop up there, we go this is where things start to get interesting human genetics, this is what we're going to learn about now.
+11:31
+Andrew Ippolito: So so for us for the first of the test for Friday, what I want you to do is be able to pull these things out of a lineup I want you to recognize the different types of examples of classic human genetic disorders, that are either homozygous recessive or.
+11:51
+Andrew Ippolito: Well, here we'll go through them here, the key is it's there's no difference here between yellow and green piece except instead of getting a green pea you get a disease.
+12:02
+Andrew Ippolito: Right so that's the idea of a recessive disease. Andrew Ippolito: And so the four examples that we're going to cite here are albinism cystic fibrosis tay Sachs disease and sickle cell disease, each one of these genetic disorders, can be traced to a single gene that is present in our populations in only two variants there's tools.
+12:28
+Andrew Ippolito: and Andrew Ippolito: In order to present with the disease.
+12:34
+Andrew Ippolito: You need to be homozygous recessive. Andrew Ippolito: So this allows people to be completely healthy and and not a carrier or they could be healthy asymptomatic and be a carrier.
+12:49
+Andrew Ippolito: Now, would be the heterozygous right. Andrew Ippolito: or they can present with the disease.
+12:56
+Andrew Ippolito: So for albinism. Andrew Ippolito: So, first of all there's different kinds of albinism the one that we're talking about in particular is called oculus cutaneous albinism or oca.
+13:07
+Andrew Ippolito: And there's one of seven different genes that can be mutated but regardless of which gene mutated it's a single obo that's me too, and so here's here's the concept of a recessive trait here's here's why it happens.
+13:22
+Andrew Ippolito: You know, think think about this idea here let's. Andrew Ippolito: Actually let's let's go back now because they're writing for it let's do this.
+13:33
+Andrew Ippolito: The idea here is that the recessive Leal if you think of the genetics of it right here here's the DNA for capital, a and here's the DNA for lowercase.
+13:46
+Andrew Ippolito: And these are the a's and t's and c's and US Okay, the lowercase a has a mutation in it somewhere that, for whatever reason, and it varies depending on the gene will disable the gene from doing this job okay it's called a loss of function mutation.
+14:04
+Andrew Ippolito: And a loss of function mutation. Andrew Ippolito: can be compensated for if there's a second illegal there that's just fine.
+14:13
+Andrew Ippolito: As long as you got a good one, you can still get the job done you just don't have a backup copy anymore.
+14:21
+Andrew Ippolito: Okay, so I can now explain to you why piece can be yellow or green it turns out the gene that controls this controls, the destruction of chlorophyll.
+14:34
+Andrew Ippolito: So we can tie this together with photosynthesis you're gonna really you can truly understand this now during the developmental fees of plants, they their entire body is expressing photosynthetic pigments chlorophyll.
+14:50
+Andrew Ippolito: And only upon maturation does the chlorophyll start to be turned off and activated and the tissues that don't need it.
+14:57
+Andrew Ippolito: Like think of a you know, a tree think of the the trunk of a tree and the bark Ray that that's all or the the veins right you just planning parts of plants that are empty, so the green pea is supposed to be yellow.
+15:12
+Andrew Ippolito: And the Green is supposed to get the grid, and so, for the capital, a capital a or for the capital, a lowercase say.
+15:20
+Andrew Ippolito: A plant that has either those genome types can still get rid of the chlorophyll, which is why they're yellow.
+15:27
+Andrew Ippolito: And only having two broken to loss of function leaves does the chlorophyll linger and the plant remains green and the p remains great.
+15:37
+Andrew Ippolito: that's why we have Greenpeace Okay, so you can apply that concept now to human genetics albinism is the result of a lack of pigmentation and that lack of pigmentation is driven by the lack of an enzyme.
+15:50
+Andrew Ippolito: Okay. Taylor Campbell: so sensitive to the sun right. Andrew Ippolito: Yes, Okay, so the key here.
+15:57
+Andrew Ippolito: Is there is a pigment called. Andrew Ippolito: melanin there's different kinds of melanin but for our purposes let's just see it as it's a protein it's expressed within our skin.
+16:10
+Andrew Ippolito: at varying amounts and that explains the differences in our skin tones and the job of melanin is to absorb UV light to protect our DNA from damage.
+16:21
+Andrew Ippolito: it's like the secret service taking them bullet that's really the best analogy, you can think of its warms it crowds the cell.
+16:30
+Andrew Ippolito: So that the DNA can be safe from UV UV radiation ionizing radiation will induce DNA damage, the problem is, we need a little UV UV light also triggers our body to produce various things like vitamin D in particular.
+16:48
+Andrew Ippolito: Okay, so there's a balance between. Andrew Ippolito: vitamin D, expression and UV damage.
+16:55
+Andrew Ippolito: And that's why, if you look at the earth and you look at where the sun's most intense, you will find that, where people with darker skin live.
+17:04
+Andrew Ippolito: And as you travel to the North or travel to the south, where the sun gets weaker and weaker our skin has to get lighter and lighter to account for the weaker UV rays, we still need vitamin D.
+17:16
+Andrew Ippolito: So being dark skinned in a very high latitude means you're not going to get sufficient vitamin D levels you'll have a vitamin D deficiency.
+17:26
+Andrew Ippolito: This is actually what drove the evolution of human light skin color before about 20,000 years ago, or is it 40,000 years ago or 60,000 years ago 10s of thousands of years ago, all humans were dark skinned.
+17:39
+Andrew Ippolito: right we evolved in Africa, and we really throughout the globe from Africa and the various areas where we lingered.
+17:48
+Andrew Ippolito: I have no idea why we lingered so far north in the cold when we evolved in the sun, but you know if nobody else was there, leave me alone i'm going to bring these rocks together and make some fire and I have my freedom.
+18:02
+Andrew Ippolito: Right and so slowly over the generations, the people that went North just eventually got lighter and lighter skin.
+18:08
+Andrew Ippolito: to survive because one of the things vitamin D, does it turns out, is it provides a variability and fertility.
+18:15
+Andrew Ippolito: So vitamin D levels correlate with infertility right so darker skinned people in very higher.
+18:23
+Andrew Ippolito: latitudes again we're talking over the course of thousands of years here not like a generation or two but hundreds of generations, the people that had darker skin had fewer children that people would lighter skin had more children and slowly over time you got very light skin.
+18:39
+Andrew Ippolito: Okay. Andrew Ippolito: So albinism is a disease in which you can't produce melanin all in certain tissues okay so that's why there's different kinds of albinism the classical albinism most people think of.
+18:56
+Andrew Ippolito: Is the one where people might have red eyes and very light skin right that's that's not the typical one this in this case it's ocular continuous where the people are blue eyes.
+19:06
+Andrew Ippolito: They will have red eyes Okay, we find this in the entire animal kingdom there's everywhere, even arthropods you can you can, if you type.
+19:15
+Andrew Ippolito: albino crab or albino slug or albino anything pick any I don't want you want there's we find albinism everywhere.
+19:26
+Andrew Ippolito: Okay, so I felt. Taylor Campbell: So now, by no alligator. Andrew Ippolito: yeah yeah like.
+19:32
+Taylor Campbell: Good luck in China, like Chinese. Andrew Ippolito: cold oh cool Alex albino alligators are albino in general.
+19:39
+Taylor Campbell: know the alligators. Andrew Ippolito: I didn't realize that's. Taylor Campbell: The only like five in the world, because they don't survive.
+19:46
+Andrew Ippolito: which makes sense they're really yeah they. Taylor Campbell: need to be outside. Taylor Campbell: You know right. Andrew Ippolito: Right yeah actually they can focus their actual terms right they can't regulate their body temperature yeah.
+19:55
+Taylor Campbell: So he was kept in like his own he had his own pool, and he had a show to shed so there was no.
+20:01
+Andrew Ippolito: yeah no that's cool. Taylor Campbell: He was. Taylor Campbell: Really cool. That makes sense.
+20:08
+Andrew Ippolito: I learned something new today. Andrew Ippolito: Thanks. Andrew Ippolito: Okay, by the way, when you see rare hereditary just syndromes like this her Maskey poor black or chediak higashi those are the names of the researchers that discovered him.
+20:25
+Andrew Ippolito: that's what whenever you see a syndrome or a disease that has multiple names on it that's those are the researchers and by the a syndrome when we say syndrome.
+20:36
+Andrew Ippolito: syndrome is a collection of. Andrew Ippolito: characteristics are a collection of symptoms that's what the word itself means sin sin sin, the same they're basically they're things that they're found together at the same time it doesn't necessarily mean.
+20:54
+Andrew Ippolito: it's a disease and it doesn't necessarily mean if it is a disease is caused by the same thing.
+21:01
+Andrew Ippolito: Okay, for example, so i'm doing this in Microbiology we're doing the disease stuff, and so the example they use of a syndrome that's not a disease is premenstrual syndrome.
+21:12
+Andrew Ippolito: Right there's a constellation of symptoms that come around for people that suffer from PMs it's not a disease it's a syndrome okay.
+21:22
+Andrew Ippolito: Down syndrome is a collection of characteristics that come together with because of a specific mutation we've tried to do and that is a disease okay so so these words are sometimes used incorrectly.
+21:37
+Andrew Ippolito: All right, alright. Andrew Ippolito: cystic fibrosis is a mutation that occurs in a chloride transporter.
+21:46
+Andrew Ippolito: Normally a cell can so here it is it's the cystic fibrosis transporter cf tr that's an imaging.
+21:55
+Andrew Ippolito: And what happens is under and so normal like people without cystic fibrosis they can pump chloride ions out of their cells, in particular, this is happening in their their upper respiratory system they push the chloride out.
+22:10
+Andrew Ippolito: And the water and the and then there's a sodium sodium transporter right so idioms coming in Korean going out so there's a nice homeostasis here and notice that the water reaches an equilibrium point and you see this light blue here that's the water and the greenest basically mucus.
+22:30
+Andrew Ippolito: Sorry, so the idea here is normal people when I say normal people people without the mutation can produce a normal amount of mucus and then you can coats our.
+22:41
+Andrew Ippolito: entire system and it protects us right, we can trap dust particles and bacteria all sorts of things.
+22:47
+Andrew Ippolito: People with cystic fibrosis they still have that functioning sodium transporter but they can't pump the chlorine out anymore.
+22:54
+Andrew Ippolito: And so that causes the inside of their cells to be hyper tonic which causes the water to stay in, which means the mucus represented here by this Green is really, really thick.
+23:07
+Andrew Ippolito: Okay, if you've ever been really, really sick and you had that kind of mucus where it's so thick you can chew it.
+23:13
+Andrew Ippolito: that's the normal kind of mucus that they are producing throughout their in their lungs in their.
+23:20
+Andrew Ippolito: Soft gizzard cheeky everything their nose so they're they're very susceptible to certain kinds of diseases but, more importantly, they can prove that well.
+23:28
+Andrew Ippolito: Okay, this leads to a whole set of secondary symptoms. Andrew Ippolito: of shorter lifespans and they basically have to live with this machine that they wrap a band around their entire sternum and it vibrates them so to knock the the mucus free so that they can brief, they have to do that kind of therapy multiple times a day.
+23:49
+Victoria Bloemker: So with cystic fibrosis if it wasn't like cleaned out like the fluid like in their lungs, like the mucus was um would they die because they wouldn't be able to breathe them.
+24:02
+Andrew Ippolito: Right yeah. Andrew Ippolito: Okay, exactly. Andrew Ippolito: Right, so they get an enlarged heart.
+24:08
+Andrew Ippolito: They get salty sweat. Andrew Ippolito: They get POPs in their nose they get sinus problems all sorts of things, and you can see here we've traced the gene to a chromosome sevens qr.
+24:21
+Andrew Ippolito: Okay, and if you click on this link so there's a whole library of genetic disorders.
+24:27
+Andrew Ippolito: there's a website that the government runs through the national institutes of health, and you can do all sorts of research in there for those of you who are interested in this stuff.
+24:36
+Andrew Ippolito: All right, there's not much to say about tay Sachs disease, other than it progressively destroys nerve cells.
+24:44
+Andrew Ippolito: In the central nervous system. Andrew Ippolito: And it there's no cure for it it's fatal.
+24:53
+Andrew Ippolito: and babies that are born with a sex progressively they're born normal phenotypically but then they slowly.
+25:00
+Andrew Ippolito: get worse over the course of a few weeks, and eventually their body shuts down because they don't have a central nervous system, the idea here is the lice isms can't break down certain kinds of lipids.
+25:13
+Andrew Ippolito: And so instead those lipids build up to dangerous levels and in neurons, in particular the neurons die.
+25:22
+Andrew Ippolito: that's that's that's all there is to say about tay Sachs it's it's terrible.
+25:28
+Andrew Ippolito: sickle cell disease you, you can take it, I can probably create a whole curriculum around just this disease, because there's so many.
+25:37
+Andrew Ippolito: Concepts from biology that come into this for now i'm just going to tell you that sickle cell disease, you can also you can only get it, if you have to lowercase a is right homozygous recessive.
+25:51
+Andrew Ippolito: it's caused by a single point mutation making a je je je je and what this does is it changes the 3D structure of hemoglobin.
+26:01
+Andrew Ippolito: will learn about this in more detail when we do DNA later when I teach you about the genetic code.
+26:09
+Andrew Ippolito: Okay, but for now ready here i'll go i'm going to give you a very quick overview of this hemoglobin itself, you can abbreviate H capital H lowercase B that's hemoglobin hemoglobin is a cautionary protein Okay, it has to alpha some units and it has to beta subunits.
+26:26
+Andrew Ippolito: So that's called the Alpha globe and the beta globe in jeans.
+26:33
+Andrew Ippolito: Global. Andrew Ippolito: Okay they're each so each one of these is a folded up 3D protein right tertiary structure.
+26:43
+Andrew Ippolito: And the mutation for sickle cell occurs in the beta global gene only.
+26:49
+Andrew Ippolito: And what this does is it causes a miss folding of the protein such that.
+26:56
+Andrew Ippolito: When it bonds to oxygen okay so remember you know, most people know this, but, just in case the reason you know you breathe oxygen.
+27:04
+Andrew Ippolito: The oxygen goes into your lungs because into your blood into your red blood cells and then hemoglobin binds to the oxygen.
+27:11
+Andrew Ippolito: Okay, so a single hemoglobin molecule a single protein can bind for oxygen molecules and then where does that is the proteins themselves have this kind of slot in them, where a him group sits him is a.
+27:30
+Andrew Ippolito: flat so like a planar rigid carbon backbone that basically looks kind of.
+27:40
+Andrew Ippolito: kind of like i'm just cartooning this, this is not accurate at all, but the idea is.
+27:46
+Andrew Ippolito: Oh boy the idea here. Andrew Ippolito: Is that it's basically.
+28:02
+I can't even do it. Andrew Ippolito: it's a ring of carbon in the Center of it there's an iron.
+28:09
+Andrew Ippolito: Ion okay. Andrew Ippolito: And the oxygen binds in the Center of the iron.
+28:14
+Andrew Ippolito: that's what he does and there's force of this for you all right when hemoglobin itself when the protein bonds to oxygen it changes shape a little bit right so here, if you remember.
+28:24
+Andrew Ippolito: I got my little look at me for a second right, so this is say this is beta beta global when oxygen binds to it, it will.
+28:32
+Andrew Ippolito: Just change its shape a little bit Okay, and it turns out that what the mutation does, there is a single amino acid on the surface here that's supposed to be hydrophobic right waters around here, this is hydrophobic.
+28:48
+Andrew Ippolito: The mutation makes that hydrophobic okay normally it's hidden, so I the way the change in shape happens is that little hydrophobic amino acids hidden, but when oxygen binds here it POPs it out.
+29:03
+Andrew Ippolito: Okay, or actually I should say it's the other way around, when oxygen binds to it it's hidden when oxygen is not bound to it POPs it up okay so there's two states to hemoglobin right think of hemoglobin with oxygen and hemoglobin in the absence of oxygen.
+29:19
+Andrew Ippolito: Okay. Andrew Ippolito: So here's why this is important when people get infected with the malaria parasites malaria is caused by a protest that lives inside ourselves it's a parasite.
+29:32
+Andrew Ippolito: And when. Andrew Ippolito: A hemoglobin i'm sorry I want a red blood cells infected with the malaria parasites for people that have one bad copy of the gene right, so people who are carriers of sickle cell we call it the sickle cell trait.
+29:48
+Andrew Ippolito: They are phenotypically normal, but when a malaria parasites attacks their cell.
+29:56
+Andrew Ippolito: And it uses the oxygen, the idea is it causes the hemoglobin that is mutated to miss fold again here's what happens.
+30:06
+Andrew Ippolito: Normally, or red blood cells are circular right. Andrew Ippolito: And hemoglobin is just everywhere it's soluble it's kind of like think of cracking open and neck right it just goopy right hemoglobin is everywhere in the red blood cell.
+30:20
+Andrew Ippolito: The mutated form of hemoglobin in the absence of oxygen forms filaments and these filaments collect on a surface underneath just underneath the surface and what that does is it causes the cell to severely contort into a sickle like shape.
+30:38
+Andrew Ippolito: Because of these hemoglobin filaments and what that does is it lowers the lifespan of the cell.
+30:43
+Andrew Ippolito: Preventing them malaria from coming to fruition and living out his life so people that have the sickle cell trait can survive malaria at rates that are.
+30:53
+Andrew Ippolito: Like 90% more effective than people without it This explains why we see the sickle cell trait in areas of the world where malaria is a problem right everywhere where there's lots of moisture and heat right, so any circle tropical.
+31:12
+Andrew Ippolito: And so you can see here that's what a sickle cell sheet looks like now people that inherent to bed copies of it, they don't have any good version of hemoglobin beta or beta global.
+31:22
+Andrew Ippolito: And so, as a result, all their cells have this risk of happening and people that have sickle cell disease have a whole array of horrible problems, one of the descriptions is they're constantly getting random painful zaps throughout their whole body.
+31:40
+Andrew Ippolito: Because of the the red blood cells basically because of their sheep will pull in all sorts of areas of their body anytime there's a capillary so they have I problems and kidney problems and lung problems and liver problems it's a horrible disease it's so bad that.
+31:57
+Andrew Ippolito: At least, so I can speak for Nigeria, I had a former student from Nigeria explain this to me once and, according to him, so take this with a grain of salt.
+32:06
+Andrew Ippolito: He said that so everybody knows if they carry the trade or not they get they get blood type and.
+32:14
+Andrew Ippolito: it's social taboo to date, people who have the trade also because you never marry somebody and have children with somebody who has a treat because the probability.
+32:25
+Andrew Ippolito: of having a child as well, so you tell me to people that are carriers for the tree, what are the chances of them having a kid that has the disease.
+32:34
+You. Taylor Campbell: Know it's one for us right.
+32:40
+Andrew Ippolito: Right, so the punter score would look like this, so let's say that you have.
+32:46
+Andrew Ippolito: This. Andrew Ippolito: Right So these are carriers everybody's a carrier right, so this one.
+32:56
+Andrew Ippolito: Right, that would be the disease. Andrew Ippolito: So two people getting married and having children with two people that have children anyway to get married have children to people that get to have.
+33:06
+Andrew Ippolito: That have a child that are both carriers there's a 50% chance that their kids are going to be carriers.
+33:12
+Andrew Ippolito: there's a 25% chance still not carry it and be healthy and there's a 25% chance that they'll have the disease.
+33:20
+Andrew Ippolito: Right and so because it's such a horrible disease people that have the trade don't marry people with the trade now and the part that I.
+33:28
+Andrew Ippolito: That I remember him saying, but so again take this with a grain of salt is there was a law passed that bandit you're not allowed to legally marry somebody that has a trade if you have the trade to.
+33:38
+Andrew Ippolito: Because it's such a horrible disease i'm also guessing that there's a very severe amount of cost associated with people with it so it's a public health issue too.
+33:50
+Andrew Ippolito: Right, so the reason why the government pass a law like that would be to help lower the cut the medical costs right.
+33:56
+Andrew Ippolito: To reduce the number of people with it now, so the reason why it always exists, though, is because there's this malaria is still a problem right, so long as malaria is a problem evolution evolutionary pressure is going to keep this thing in the population.
+34:10
+Andrew Ippolito: Right okay that's that's sickle cell. Andrew Ippolito: And that's it so those are the four homozygous recessive human disorders that we're going to use as an example, those aren't the only for those are just for examples that we're going to use in class to remember.
+34:24
+Andrew Ippolito: All right, domino disorders know carriers, if you have the disease de Lille, you have the disease right, these are dominant disorders there's huntington's disease there's something called a condo pleasure there's familial hypercholesterolemia and there's Paula actually.
+34:42
+Andrew Ippolito: Okay, so three out of four of these you can't pronounce unless you're trained.
+34:50
+Andrew Ippolito: So, again i'll give you those one more time you pronounce that a condo pleasure.
+34:56
+Andrew Ippolito: This one's a mouthful, no matter what you do familial hyper cholesterol right hypercholesterolemia hypercholesterolemia.
+35:06
+Andrew Ippolito: And then polly many Dr Lee are packed Hello polly polly actively but it looks like polly Dr Lowe.
+35:16
+Andrew Ippolito: that's many not many extra fingered or to. Andrew Ippolito: Okay huntington's disease is a disease it's a, so this is a common, I should say there's a there's a failing of disorders, among which huntington's is the most famous.
+35:34
+Andrew Ippolito: Where you get these repeat regions within our genes Okay, so this is a common thing we'll see in genetics, these are called short.
+35:43
+Andrew Ippolito: Short tandem repeats and, in this case it's within a gene, so we don't call it an SDR here we have we have short cannon repeats throughout rg.
+35:54
+Andrew Ippolito: We actually use those for DNA fingerprinting will learn about that at the end of the Semester. Andrew Ippolito: In this case, we have a code on chg that is just repeated multiple multiple times and everybody has repeats here and it's very everybody has a different number of repeats people that do not have huntington's disease have between anywhere from 10 to 26 repeats here.
+36:17
+Andrew Ippolito: people that have huntington's for me look at their genes, they have between 37 and maybe.
+36:24
+Andrew Ippolito: Okay, so the idea here is that having these extra repeats gives us these longer and longer protein chain.
+36:32
+Andrew Ippolito: And the proteins name itself is called Huntington alright, so this is a common way of looking at this stuff there's the gene.
+36:39
+Andrew Ippolito: Okay genes are generally capital letters and I italicized that's how human genes are presented in the literature there capitalized, and there I tell us is the protein product is generally a lowercase word and it's not a italicized.
+36:58
+Andrew Ippolito: Okay, so there's an that makes sense right there's the gene and protein two different things.
+37:06
+Andrew Ippolito: And so what happens is a person that has the disease, they don't begin exhibiting symptoms of it until later in life.
+37:17
+Andrew Ippolito: that's how it stays in the population Okay, a dominant Leal a dominant disease will remain in the population, so long as it affects us after child rearing.
+37:29
+Andrew Ippolito: After sexual maturation go ahead alexa. Alexa Deprisco: He said Huntington is the routine.
+37:35
+Andrew Ippolito: This yeah if you look here. Huntington. Andrew Ippolito: Huntington as opposed to hunting ton so Huntington is the disease Huntington is the gene is the the protein product.
+37:51
+Andrew Ippolito: Okay, and so the here here's the. Angela Harbeck: structure of it, you can see. Angela Harbeck: there's. Angela Harbeck: Something goes disease like kill you.
+37:58
+Andrew Ippolito: Yes, so what it does. Andrew Ippolito: Is it causes a slow progressive neuro degeneration of the brain, in particular within the caudate nucleus, and the poor and.
+38:10
+Andrew Ippolito: You can see here and phenotypically normal brain right, so what we're looking at here is a coronal section of i'm sorry.
+38:20
+frontal section. Andrew Ippolito: yeah cross section of the brain and you see these two little dark areas here, so our brains have these these hollow areas that are filled with fluid.
+38:31
+Andrew Ippolito: they're called ventricles and they help with the flow of the cerebral spinal fluid all right.
+38:36
+Andrew Ippolito: If you look at the darker areas here that's the Gray matter, those are Richard neurons and then you'll see the white matter that's rich and support cells called glial cells.
+38:47
+Andrew Ippolito: And you'll notice so so the way you think your brain is the surface of your brain that's called the cerebral cortex.
+38:54
+Andrew Ippolito: The cortex is the outside surface and that's where all the neurons are that's where most of the neurons are, however, deep within the brain are some areas where there's Gray matter to we call those deeper areas nuclei Okay, so not a nucleus, like a cell nucleus.
+39:11
+Andrew Ippolito: So this idea of that nucleus there, so you can see here on a normal person just sitting just on the surface of that ventricle is this thing called the caudate nucleus.
+39:21
+Andrew Ippolito: Alright, and somebody with progressive huntington's disease you'll see the ventricles are greatly expanded and you'll see that the caudate nucleus is essentially gone almost completely you'll also notice another new feature called the put them in.
+39:37
+Andrew Ippolito: His is vastly diminished as well, in addition, I mean if you look at the rest of the brain itself, you can see, severe amount of attrition or atrophy.
+39:47
+Andrew Ippolito: Okay, so people that have huntington's eventually their body loses the ability to control itself and eventually the heart and the heart gets deregulated the breathing gets deregulated all the autonomic nervous system functions shut down and they die.
+40:03
+Andrew Ippolito: Okay, and there's no cure there's there's some treatments for it, you can make people comfortable.
+40:10
+Andrew Ippolito: and its dominant So if you have it in your family there's a whole level here of bioethics, now is the question is, should you get tested, and if you get positive she got children or not.
+40:21
+Andrew Ippolito: right then that's a beautiful example of how like science doesn't have answers for those things, all we can do is arm you with knowledge.
+40:27
+Andrew Ippolito: But at the end of the day, it's up to society to decide what they're going to do about it, for example, if there's a willing society that would ban people that have the huntington's gene from ever having children.
+40:39
+Andrew Ippolito: Does that impinge on people's freedom or is that something that we should do as a society right, these are the kinds of questions you deal with in something called bioethics, you can go get your PhD in bioethics, if you like those kinds of questions every.
+40:53
+Andrew Ippolito: You know, insurance companies and hospitals that they there's a person on board that's the bioethics ethicist that they go to and ask these questions about go ahead alexa.
+41:03
+Alexa Deprisco: Okay, so like comparing these two like brain scans or whatever, so is the brain itself like compressing or is it like full on decaying.
+41:12
+Andrew Ippolito: Know it's decaying that that's atrophy. Andrew Ippolito: yeah it's not it's not like there's a buildup of fluid that's pushing down on it.
+41:19
+Andrew Ippolito: that's the brain withering. yeah. Andrew Ippolito: Yes, said if there's nothing to do about it, so I taught me.
+41:29
+Andrew Ippolito: A condo pleasure is a type of dwarfism it's one of the common types of dwarfism and basically it affects only the long bones in our body, so if you think of the stereotypical ball and you seeing any cartoon.
+41:42
+Andrew Ippolito: Okay, what that is that's a representative example what's called a long bone their bodies have different kinds of buttons there's long bones.
+41:50
+Andrew Ippolito: If you think about your your wrist here Okay, those are called irregular bones those all those are shaped you know they might have odd shapes like this okay there's flat bones like in your skull.
+42:02
+Andrew Ippolito: Right so and there's there's long buttons long bones are things like in your in your arm your finger digits your toes okay not.
+42:13
+Andrew Ippolito: Not necessarily your ribs your ribs aren't considered long bones so basically your appendages and people with a Condor pleasure, have a mutation in a gene that.
+42:26
+Andrew Ippolito: affects the rate in which the bones ossified harden as they grow long so, in other words, they don't get to grow long before the ossified.
+42:37
+Andrew Ippolito: They stay short, so all the bones in the body that are not long or normal, which is why people will look under pleasure, have a normal sized head normal sized rib cage and basically any bone in their body that's not a long bone is regular state, which is why they are disproportion.
+42:55
+Andrew Ippolito: Okay. Andrew Ippolito: um there's other kinds of dwarfism that have different names that i'm not going to get into but this, this is the one So if you ever watch game of thrones before the last season ruined it for everything.
+43:09
+Andrew Ippolito: This is tyrion right the him and the the the actor, is a very private guy apparently he lives in Manhattan.
+43:17
+Andrew Ippolito: And the paparazzi you just like every paparazzi are always out to get everybody right and so supposedly key so that's his daughter, and you can see him taking her to school, the paparazzi grabbing and picture, but she's feeling to be normal right so she doesn't carry the disease illegal.
+43:36
+Andrew Ippolito: So, so you could think somebody That said, to worth can have children with somebody who is either also it's worth or is phenotypically normal.
+43:46
+Andrew Ippolito: And so, their children will either have dwarfism or not right and actually I have a good friend who his father has a contemplating.
+43:53
+Andrew Ippolito: But I just found this out within the last year, so she's phenotypically normal to tell her dad has it and he he apparently he's a famous near famous chemist he invented he has to he calls a patent for ky jelly.
+44:09
+Andrew Ippolito: Which is such an interesting story right, not only is he so he's a dwarf chemist that has the the geo that has a patent for ky jelly.
+44:18
+Andrew Ippolito: He invented it when he was trying to come up with some kind of lubricant for engineering or something like that yeah interesting fun fun little story so that's it that's a quadriplegic.
+44:30
+Andrew Ippolito: Pilot actually this goes back to the Princess bride. Andrew Ippolito: Right I don't mean to pry but you did not happen to have six fingers on your left hand.
+44:40
+Andrew Ippolito: Do you always begin conversations this way. Andrew Ippolito: His father was murdered by a six fingered man and he's been hunting for him his whole life.
+44:49
+Andrew Ippolito: Right so count rogan had that's the character's name has six fingers on his left hand.
+44:56
+Andrew Ippolito: And it turns out, this is dominant, this is a beautiful example of traits that are dominant that are in common.
+45:05
+Andrew Ippolito: We usually associate dominant traits with being common right like I told you about her ear lobes this is dominant having to detach ear lobe is dominant to the attached your low, which is recessive.
+45:16
+Andrew Ippolito: And that recessive trait is rare in the population Okay, in this case pilot actually is dominant button rare OK, so the key is.
+45:25
+Andrew Ippolito: What determines if something's rare or not in the population is something called the gene pool, this is something I learned about next semester, but just briefly when we see gene pool.
+45:35
+Andrew Ippolito: I want you to start imagining each person right, if you think of a person here what they really have as a genome type right they have two illegals.
+45:47
+Andrew Ippolito: Right so let's say that we had 20 people in the class and we were thinking about your lips.
+45:53
+Andrew Ippolito: Right, there are 40 illegals and all those 40 leads let's say only two of us had dominant your lips, so we would say to people so there's two out of 40.
+46:04
+Andrew Ippolito: bills that are dominant right or one 20th of the gene pool is dominant all deal that's how we think about gene pools.
+46:12
+Andrew Ippolito: Okay, and so, whether or not a treatise common within a particular population isn't determined by whether its dominant and recessive but, but instead it's influenced by how common that is okay that makes sense.
+46:30
+Andrew Ippolito: Okay question, I have to cough hold on. Andrew Ippolito: All right, good.
+46:37
+Taylor Campbell: So, specifically for like. Alexa Deprisco: holly Doc to people so like some people I feel like have like a little teeny tiny number of an extra finger and some people have like a full on extra fingers so like How does like genetics tie in with that.
+46:51
+Andrew Ippolito: If you look at the slide here. Andrew Ippolito: there's different kinds of pod actually and the key is it's when and where the its genetic stutter basically if you look at the the volunteer in the feet.
+47:06
+Andrew Ippolito: Okay, so these kinds of bonds are called your phalanges Okay, and the idea here is one phalange leads to another leads to another what happens during pod actually.
+47:19
+Andrew Ippolito: Is there's a fork that occurs, and then you get a repeat there so depending on where that forking occurs, it can occur down here, or it can occur here.
+47:31
+Andrew Ippolito: Or, I suppose I, in theory, I suppose it can occur anywhere, so people that have like a fully functional hand that duplication event happens deep, whereas if they have what you could you know describe it like a little extra just a nub that would occur far further away.
+47:49
+Andrew Ippolito: Right so and then, in this case here this duplication would have happened here right, whereas, in this case the duplication would have happened here.
+48:01
+Taylor Campbell: Is it painful at all. Andrew Ippolito: I i've not heard it described as painful, I think that people that have six fingers that are fully formed like they have a central type or I guess post Axial type.
+48:17
+Andrew Ippolito: They just have a sixth finger. Danuta Despagne: So if. Andrew Ippolito: You get. Danuta Despagne: Oh sorry if you get a surgically removed like young or older like you start noticing it like.
+48:28
+Andrew Ippolito: Would you mall yeah so so people that have this kind the usually, when when they're born the doctor asked and apparent approves what they'll do is i'll surgically remove this.
+48:37
+Andrew Ippolito: And so they might have like a little scar as an adult but they'll have nothing there you know it's not like it grows back.
+48:49
+Andrew Ippolito: You know what I do we will begin to see tori. Taylor Campbell: I just said, like a starfish.
+48:55
+Andrew Ippolito: Oh, like a stock. Andrew Ippolito: of April, what do you want. Andrew Ippolito: What do you want to say. April Neeld: So people with the central Does that mean they also have muscles and tendons like that actually.
+49:06
+Andrew Ippolito: I think I think so well, the way the way the muscles work I don't think we know i'm not an expert on this so just take this with me hand-waving a little bit.
+49:15
+Andrew Ippolito: I don't think we have a specific muscle for each finger, I think, are they eventually blend in.
+49:20
+Andrew Ippolito: And so, one muscle like if you if you just like take these two fingers and just FLEX them like that, and feel over here right there's.
+49:30
+Andrew Ippolito: it's probably connected to the same muscle just different regions of the muscle number, I told you that we have multiple some people have to muscles here, and some people have three.
+49:38
+Andrew Ippolito: So I think it's just it goes like this, I again I might be wrong, but like here's some finger tendons finger tendons eventually what they do is a blend into one muscle.
+49:48
+Andrew Ippolito: Right, so there might be different motor regions within one muscle that control each individual finger so somebody has six fingers is just let's just borrow on that feat, so now, now we have a muscle so like that muscle supports three fingers instead of two or something.
+50:03
+Andrew Ippolito: Okay. Danuta Despagne: I have another question. Danuta Despagne: yeah I have a friend that they did have a six finger, but their parents and her mother didn't have one and her father didn't have it, so how would it just be like since she says, does that even happen.
+50:21
+Andrew Ippolito: that's a great question because. Andrew Ippolito: So my friend. Andrew Ippolito: That has the father, who is it worth I asked her if she I think she when we were talking about this one night.
+50:33
+Andrew Ippolito: She said that. Andrew Ippolito: she's like nobody else in the family has it.
+50:38
+Andrew Ippolito: Right so here's what I said at that moment, I said, well, the only explanation I could think of is if it's a spontaneous mutation.
+50:44
+Andrew Ippolito: And then I started thinking again i'm like but that's that's how rare but that's The only explanation I have so it's got to be a spontaneous mutation but let's Google it and then I pulled my phone out like that.
+50:53
+Andrew Ippolito: And it turns out, people with a Condor pleasure, most of them are spontaneous mutation so I was like oh yeah I guess it right.
+51:02
+Andrew Ippolito: I still have it so i'm going to say that if you have a friend that has actually it was probably a spontaneous mutation not a familial mutation, and so what I mean by that for everybody else spontaneous mutation is it's new in that germline.
+51:18
+Andrew Ippolito: You know it's it's a new mutation the egg the egg or the sperm had that mutation occur, and then the kid was born with that mutation so it's a new music brand new.
+51:27
+Taylor Campbell: kind of this is different than when people have like they're missing fingers like they didn't develop.
+51:33
+Andrew Ippolito: Yes, yeah those are those are separate types of you're talking about deformities that can occur during development, for example, back in the 70s, there was a diet pill I forgot the name of it now.
+51:47
+Andrew Ippolito: But basically, they made it illegal because women that took a while they were pregnant their. Andrew Ippolito: children were born, where they had.
+51:54
+Andrew Ippolito: Very malformed limbs and actually I had a I had a kid in my softball team Paul his whole right arm was deformed and he I think he only had to like two fingers and the thumb and he was one of the best baseball players, he he had it out got watching him play with so cool he would.
+52:12
+Andrew Ippolito: He had this technique, where he would throw rip off his glove with his deformed hand and throw the ball and then put it back on again and he and he was able to bat, and he was really good.
+52:22
+Andrew Ippolito: So I totally forgot about that yeah so that's that's not a contra pilot actually that's that's there's there's a whole world of deformities that can occur, based on the developmental program running and then adding chemicals to that.
+52:35
+Andrew Ippolito: system waltz yeah. Taylor Campbell: it's not one of the disorders it's just something that had like a deformity.
+52:41
+Andrew Ippolito: Right so so we there's genetic disorders. Andrew Ippolito: or diseases right there's infectious disease.
+52:47
+Andrew Ippolito: And then there's what we would call developmental. Andrew Ippolito: A developmental disorder is not necessarily genetic it's just something that happens to you during development and usually.
+53:01
+Andrew Ippolito: At least for me, anyway, I associate developmental disorders, with something happening from the Environment fetal alcohol syndrome that's a developmental disorder.
+53:10
+Andrew Ippolito: Okay, all right good. Taylor Campbell: alexa. Alexa Deprisco: So then, like having like an extra arm and something like that would fall under like a developmental thing not necessarily genetic.
+53:20
+Andrew Ippolito: know so. Andrew Ippolito: So there's two things here there's. Andrew Ippolito: The say there's the etiology of it eddie ology the ideology of it that's the the the symptoms of the disease and then there's the.
+53:33
+Andrew Ippolito: way I just messed that up the ideology is the cause of the disease there's the presentation of the disease, the symptoms, the treats whatever.
+53:41
+Andrew Ippolito: And we see that but Oh, he has an extra arm, the question is, why does he have an extra right and so some so when we when we trace that back sometimes its genetic sometimes its developmental sometimes its.
+53:55
+Andrew Ippolito: Environmental right, so there are bored normal and then something about they wouldn't have you wouldn't grow a third arm by accident we're talking like superheroes now but.
+54:04
+Andrew Ippolito: Like the idea of the superheroes emerged with the idea of X rays inducing changes and phenotype will learn about that, actually, we have a lot, you know what we, this is why this is so interesting right.
+54:14
+Andrew Ippolito: But let's stay after class and chat about this, I have a lot to cover for the test that I just realized so let's let's get let's get focused here.
+54:21
+Andrew Ippolito: I told you this is the most interesting unit right this.
+54:27
+Taylor Campbell: Three cholesterol one. Andrew Ippolito: yeah so hypercholesterolemia.
+54:32
+Andrew Ippolito: Oh, why don't I have a. Andrew Ippolito: I don't have a slide on here about that I.
+54:37
+Andrew Ippolito: there's not much to say about it, I guess that's why I should have a slide on that.
+54:43
+Andrew Ippolito: I think I, oh no there it is I I hit it here, here it is. Andrew Ippolito: it's just there's not there's I can't show you, I guess, I could show you a clogged arteries the idea here is.
+54:56
+Andrew Ippolito: We used to think high cholesterol was associated with poor diet.
+55:02
+Andrew Ippolito: Okay. Andrew Ippolito: People who are obese have higher percent likelihoods of like heart disease, the idea is very simple high levels of cholesterol cause plaque formation in our arteries right and so as plaque forums, think of like a pipe that's caught right cause a heart attack.
+55:25
+Andrew Ippolito: And we used to think it's because people have poor diets it turns out that there's so there's two sources of cholesterol there's what to eat and then there's what your body makes itself.
+55:35
+Andrew Ippolito: I like to call it intrinsic cholesterol i'm sure that there's another word for it, but the idea makes sense right intrinsically made cholesterol versus.
+55:43
+Andrew Ippolito: cholesterol you get from your diet dietary cholesterol. Andrew Ippolito: It turns out it's more instance not 5050 it's not like you get some cholesterol from your diet and some cholesterol you make yourself, you make the majority of your cholesterol you make about 80% of it, you only get about 20% of your cholesterol from your diet.
+55:59
+Andrew Ippolito: This goes back to eggs You might remember when you were kids it was bad to eat eggs and then it was okay to eat eggs and now it's good to eat eggs.
+56:08
+Andrew Ippolito: Right that's because we're science is replaced by better science right people use this as an example by why science is like doesn't know what it's doing it can't make up its mind should I eat eggs or shouldn't it be like well.
+56:19
+Andrew Ippolito: It turns out there's two types of cholesterol there's the hdl ldl you've probably heard these phrases before low density lipoprotein in high density lipoprotein, this is the good stuff.
+56:31
+Andrew Ippolito: So the bad stuff, and the reason is very simple it's very simple let's let's look at it like this here here's a.
+56:39
+Andrew Ippolito: here's some tissue in your body right so here here's here's some cells.
+56:45
+Andrew Ippolito: Okay, and here's outside. Andrew Ippolito: So hdl the good stuff hdl transports cholesterol away from our tissues and we excrete it that's why it's good it gets rid of it.
+56:59
+Andrew Ippolito: ldl brings it into the body it's our way of trying so it basically hdl ldl are the two ways we transport cholesterol throughout our body.
+57:10
+Andrew Ippolito: And the reason why ldl bad is because it's the transport that brings it into the tissues and builds it up in hdl is good because of.
+57:19
+Andrew Ippolito: lds simple to control, you can have a low diet hdl is harder that has to do with exercise and and fitness.
+57:31
+Andrew Ippolito: I will say, though, so people who are born unlucky with this with this gene they have unusually high levels of cholesterol and so they have to go on a drug, the most common one is called lipitor.
+57:43
+Andrew Ippolito: might have heard of that one of your grandparents or uncle's or answer moms or dads are on lipitor that is a drug that artificially lowers cholesterol levels that our bodies produce.
+57:52
+Taylor Campbell: For these people overweight. Andrew Ippolito: Not necessarily. Andrew Ippolito: you've probably heard stories of the guy that's super fit anyone's 26 miles a week and he's 80 years old and one day he just.
+58:01
+Andrew Ippolito: has a heart attack, maybe not 86 maybe 50. Andrew Ippolito: Okay, so people that get heart attacks early in life, despite looking fit they still might have elevated levels of cholesterol because of this gene.
+58:17
+Andrew Ippolito: Okay, and then you have people like me where I might have my hearing problems and my migraines and my various issues, but I supposedly have unusually low levels of cholesterol my blood.
+58:28
+Andrew Ippolito: And that's the big caught the Mediterranean treat I think some dietitians do like you can think of me as i'm homozygous recessive somehow where I have a very unusual low level of cholesterol and they shouldn't have told me that.
+58:42
+Andrew Ippolito: Because my diet was affected by that negatively, when I was younger I remember thinking, I found this out my early 30s and i'm like I used to worry about the dying of a heart attack.
+58:53
+Andrew Ippolito: You know, so I still don't worry too much about cluster I worry about other things, but some people are lucky in the sense of it's all genetic driven in this case.
+59:02
+Andrew Ippolito: let's. Andrew Ippolito: See again April. April Neeld: Is it bad to have like that low cholesterol that have.
+59:09
+Andrew Ippolito: No, no, no. Andrew Ippolito: I mean you need cholesterol to make yourselves and your membranes.
+59:14
+Andrew Ippolito: But have it when they say low cholesterol they're talking about this stuff they find in the blood.
+59:19
+Andrew Ippolito: Right so like the cholesterol that my body is using is mostly in. Andrew Ippolito: In my tissues and it turns out, the last time I got a blood test I had ever so slightly higher levels of cholesterol than they used to have i'm also getting older, that happens, as you get older your cholesterol levels go up.
+59:34
+Andrew Ippolito: Your metabolism slows down you get more you know sit entry and lifestyle, so I have to start running again.
+59:42
+Andrew Ippolito: alright. Andrew Ippolito: Sex link treats these are basically.
+59:47
+Andrew Ippolito: Genes that reside on the X chromosome. Andrew Ippolito: And we've already talked about this, you know the wise here.
+59:56
+Andrew Ippolito: there's a pun there y chromosome X, Y X X right the idea here is that the female has a backup copy, but the mouth doesn't.
+1:00:07
+Andrew Ippolito: Okay, so this this property let's see that let's see that I have some excellent disorder right, so I have a lowercase a, so to speak, you would you know here, this is how you would write.
+1:00:17
+Andrew Ippolito: where's like this, this is high, so you got the x's and y's here would be the possible gino types right, so you could say that the female is either you know homozygous dominant almost like heterozygous or homozygous recessive right we call this him us, I guess that's a new word for you.
+1:00:37
+Andrew Ippolito: males are homies I guess. Andrew Ippolito: Because we only have one X chromosome.
+1:00:45
+Andrew Ippolito: Okay.
+1:00:56
+Andrew Ippolito: Excuse me yeah. Alexa Deprisco: Just to clarify, so how music is is one of sex linked, but specifically to like the mail.
+1:01:05
+Andrew Ippolito: yeah so the formal definition describes an individual who is only one member of a chromosome pair.
+1:01:10
+Andrew Ippolito: or chromosome segment rather than the usual to me, is, I guess, it is often used to describe excellent genes in males who have only one X chromosome this term is sometimes used in somatic cell genetics.
+1:01:24
+Andrew Ippolito: Where cancer cells are often emmys I guess for certain deals or chromosome regions so so hemi is I guess means you only have one copy of something that you're supposed to or that would otherwise exist as two copies.
+1:01:37
+Andrew Ippolito: Okay. Andrew Ippolito: So, technically, the male genome type is the mutant phenotype or God.
+1:01:49
+Andrew Ippolito: which makes total sense if you know any guys. I can say that because i'm a guy.
+1:01:56
+Andrew Ippolito: I call that the Mr burns chromosome I told you that right because there's fewer than 100 genes on the y chromosome there's no why link disorders, that we know of.
+1:02:04
+Andrew Ippolito: You know what maybe that's changed. Andrew Ippolito: Oh, are there any wise link diseases let's see if there are any yet.
+1:02:17
+Andrew Ippolito: This is the kind of stuff that changes on almost a daily basis, at this point, so I don't want to see something out loud big well actually this was discovered.
+1:02:26
+Andrew Ippolito: Here we go let's see there are many numbers they read about about that the y chromosome ya know.
+1:02:32
+Andrew Ippolito: The y chromosome is quite small and contains relatively few genes nonetheless still very important, so all these genes are linked to male infertility is formatted genesis and have been identified, on the long arm alright, so there are Oh, here we go okay.
+1:02:47
+Andrew Ippolito: My favorite This is my favorite name of a gene that's s are why.
+1:02:52
+Andrew Ippolito: Sex determining region of the y chromosome it's called the sorry gene.
+1:02:59
+Andrew Ippolito: And that's what makes us now. Andrew Ippolito: i'm sorry you're now.
+1:03:06
+Andrew Ippolito: You can have a half to have a sense of this stuff anyway, so there are y chromosome thing Jacob sit oh that's different that's X, Y y.
+1:03:15
+Andrew Ippolito: hypertrichosis penny excessive ear here so there's no serious y chromosome disorder, so we generally say sex linked disorder.
+1:03:26
+Andrew Ippolito: And we generally make that synonymous with X linked disorders okay so either either term is fine and the three we're going to look at here are what the first is called muscular dystrophy the second one, the hemophilia method wants color blindness.
+1:03:42
+Andrew Ippolito: certain kinds of color. Andrew Ippolito: Right so but before we do that, I want to look this, I want to make sure you see what this is this is called a carrier type.
+1:03:55
+Okay. Andrew Ippolito: And we already talked about this, so you can see this, this is a normal human female carrier type and here's a normal human male character, you can see the y chromosome how small it is.
+1:04:05
+Andrew Ippolito: Okay now here's an interesting little of interesting fact, and that is there are some regions of the y chromosome.
+1:04:13
+Andrew Ippolito: That could be mapped to the X chromosome, in other words, there is some homology there.
+1:04:19
+Andrew Ippolito: Okay, and because of that homology crossing over can occur between the X and the y chromosome.
+1:04:27
+Andrew Ippolito: And therefore, it is rare, but completely normal it's part of the diversity within the human population that people can be born X X, but because of some crossing over event that occurred, they can feed on typically look male.
+1:04:47
+Andrew Ippolito: Okay, so there, there are rare instances where people can have crossing over occur between the excellent like chromosome and present with sexual current secondary sexual characteristics that are not representative of their genetics.
+1:05:01
+Andrew Ippolito: Okay This just goes to show you that it's not a binary situation another example of that.
+1:05:08
+Okay. Andrew Ippolito: All right. Andrew Ippolito: So i'm not going to spend any great amount of time on any of these, I want to kind of move forward here to see muscular dystrophy is a progressive weakening of the muscles usually it's a boys that are born with this.
+1:05:22
+Andrew Ippolito: And they generally grow up kind of normal and then they reach a certain age where they start atrophying and that's that's a muscular dystrophy so.
+1:05:34
+Andrew Ippolito: Progressive weakening of the muscles the gene is the dmd gene and the protein is destruction.
+1:05:41
+Andrew Ippolito: Basically, these proteins help keep the the muscle tissue itself intact.
+1:05:51
+Andrew Ippolito: hemophilia is characterized by people who basically can't caught their blood quickly and easily most of us are familiar with this concept.
+1:06:02
+Andrew Ippolito: clotting in as part of the human will wound healing response is a complex Multifactorial system that requires a lot of different players.
+1:06:12
+Andrew Ippolito: And so there are different types of haemophilia that affect different members of the chain, and so in this case, this is hemophilia a.
+1:06:21
+Andrew Ippolito: Okay, it affects the gene that encodes for something called coagulation factor eight, so you can start to see how complicated there's other ones that aren't just wanted to provide success.
+1:06:33
+Andrew Ippolito: And so we denote it like this, so we would say hemophilia a that would be so this would be the equivalent of you writing a lowercase a.
+1:06:43
+Andrew Ippolito: it's a lot more complicated right, so you have capital H or lowercase H dash because there's an H dash be okay so we're just We just have to use up we invent a new lingo for something that's more complicated.
+1:06:57
+Andrew Ippolito: All right. Okay. Andrew Ippolito: So this is the pedigree of the royal family in Britain, you can see, here it starts out this is called queen victoria's curse.
+1:07:11
+Andrew Ippolito: So here's the Victoria Princess of sex coburn 1787 1861 and there's Edward Duke of Kent and they had their daughter Queen Victoria.
+1:07:23
+Andrew Ippolito: of England so remember Victoria you've probably heard the phrase Victorian era England that's you know so Darwin was around in pride and prejudice and all the we think about period pieces in England that's Victorian England and she had if you look at this.
+1:07:40
+Andrew Ippolito: Look at all those children Queen Victoria had. 1-234-567-8910 that's the kids.
+1:07:53
+Okay. Andrew Ippolito: Now they show her, so this is a retrospective study right she was born, probably with a spontaneous mutation that cause hemophilia.
+1:08:05
+Andrew Ippolito: Alright, so she had Alice. Andrew Ippolito: Leopold and Beatrice okay so Leopold he's the famous one he had hemophilia.
+1:08:15
+Andrew Ippolito: and actually there's a there's a netflix show I I watched like the first episode of it, a few weeks back it's it's got Sherlock Holmes in it.
+1:08:23
+Alexis Micewski: And we are regulars. Andrew Ippolito: Thank you. Yes. Andrew Ippolito: yeah.
+1:08:28
+Andrew Ippolito: yeah I thought it was good, too, and so one of the characters in it turns out to be Leopold. Andrew Ippolito: And he lives until he's like 3032 years old, and he marries Helen here and so he has Alice who has Rupert.
+1:08:43
+Andrew Ippolito: Right, so you so The point is, if you step back and look at this pedigree and you look at the number of offspring that had this very rare genetic disorder.
+1:08:54
+Andrew Ippolito: that's where you can see why they trace it back to a curse right they didn't know about genetics back then so Victoria was cursed somehow.
+1:09:01
+Andrew Ippolito: Right poor Beatrice here she had two sons can see their names here it's kind of hard to read it that's leopolda marie's both haemophiliacs right, and neither of them married and having children, you can see.
+1:09:14
+Andrew Ippolito: So so actually I want you to notice. Andrew Ippolito: That all the people and so here ready generation zero generation one generation to generation three generation for by the fourth generation notice that really by the third generation anybody that had hemophiliac notice they didn't have children.
+1:09:35
+Andrew Ippolito: That was probably a Royal Decree if I had to guess the get I didn't read the history of this but, either by choice or by their by pressure of the royal family, they knew that the only way to stop it from happening, was to stop perpetuating the bloodline yeah go ahead alexa.
+1:09:52
+Alexa Deprisco: I mean the ones that you circle, those are already the offspring of like inbreeding right because those two pitches came from Victoria.
+1:10:01
+Alexa Deprisco: That disorder right like well. Andrew Ippolito: yeah so that that's a really keen observation.
+1:10:06
+Andrew Ippolito: Right, so if you notice let's see a couple or can we see inbreeding here so.
+1:10:14
+Alexis Micewski: That Leopold and Helen are like cousins. Alexis Micewski: So there's inbreeding there.
+1:10:20
+Andrew Ippolito: Well yeah but is there any direct connections on this. Andrew Ippolito: chart yeah yeah so so here's the idea dark Darwin incidentally dawn marriages first cousin.
+1:10:29
+Andrew Ippolito: So so first cousin would be so here's Alice say Alice and Leopold these here, so you would say Alice is this alice's they would be.
+1:10:43
+Andrew Ippolito: If I can do this right their first cousins. Taylor Campbell: What about her Alice married well that's.
+1:10:49
+Andrew Ippolito: Oh yeah there we go. Andrew Ippolito: There we go there's your incest.
+1:10:55
+Andrew Ippolito: I missed that one so yeah. Taylor Campbell: That one's pretty. Andrew Ippolito: yeah I know what fruit fruit, yes, this is so, this is one of the things anyway.
+1:11:06
+Andrew Ippolito: So yeah Alice Marita brother. Taylor Campbell: hey we're allowed to do that.
+1:11:11
+Andrew Ippolito: Like pauly if you're a royal royalty was. Andrew Ippolito: So, so the idea was.
+1:11:18
+Andrew Ippolito: Royal bloodlines had the good traits and you had to keep the Royal blood concentrated that's why you had to keep it within a small domain and honestly.
+1:11:28
+Andrew Ippolito: If you think about it, there was a reason why Edward here was King right, I mean you don't just become King through luck, of the draw you had some traits of dominance or military prowess or whatever.
+1:11:40
+Andrew Ippolito: That made you king of the castle literally so My guess is is the reason why you see this again and again and again in history is it's a way of concentrating the good traits and, of course, as you can see.
+1:11:53
+Andrew Ippolito: It also crops up the bad traits homozygous recessive phenotypes are more common, with an inbreeding that's why i'm reading is frowned upon.
+1:12:03
+Andrew Ippolito: Right, the chances of you, having recessive traits are much higher when you have a small gene pool.
+1:12:10
+Taylor Campbell: So what clear with this do thank you a die early like How does it affect the proteins understand.
+1:12:17
+Andrew Ippolito: Okay, so we'll all it does is, if you get cut like just just a paper cut you can't easily quickly stop the bleeding and so you bleed to death.
+1:12:27
+Taylor Campbell: So it's like natural blood thinners. Andrew Ippolito: yeah I think what ultimately kill somebody who's a human feel like is they suffer some kind of traumatic injury, that you can ever.
+1:12:36
+Taylor Campbell: When you get hurt right like a bruise like internal bleeding like bad like Accenture alternately blade you don't notice and then.
+1:12:43
+Andrew Ippolito: Yes, yeah.
+1:12:48
+Andrew Ippolito: So the TV show the irregulars if you watch the first episode. Andrew Ippolito: You can see like he's trapped in his house and his mom there's a lot of Mount yeah go ahead, people.
+1:12:57
+April Neeld: So if a female with this recessive trait and a male or female, with carrier and then a male that has it had a female child would they be hemophilia.
+1:13:08
+Andrew Ippolito: Have he was let's map that out okay so go ahead, say, the female that what. April Neeld: email that carries the tree.
+1:13:16
+Andrew Ippolito: And I. April Neeld: know that has it. Andrew Ippolito: Alright, so here go ahead let's map that out so let's look upon a square we would be.
+1:13:30
+Taylor Campbell: So these women would probably die from childbirth and right.
+1:13:36
+Andrew Ippolito: Oh yes. Taylor Campbell: Yes, I like it was more likely. Andrew Ippolito: Right okay So here we go, so we have a female.
+1:13:44
+Andrew Ippolito: That is a carrier, but not expressing him, we have a hemophiliac female 25% chance we have a healthy male.
+1:13:54
+Andrew Ippolito: And we have a hemophiliac now, so you would say this right here, this is actually April this, this is a great example we can actually use so here's question number one.
+1:14:02
+Andrew Ippolito: For a woman who carries the gene marrying a male who's a hemophiliac, what are the chances that they'll have a kid with hemophilia.
+1:14:13
+April Neeld: 50%. Good. Andrew Ippolito: Right, because the male and the female here both have it.
+1:14:20
+Andrew Ippolito: And then it's 5050 male or female right, what are the chances of their their son having 50% right female having it 50%, what are the chances that this couple will give birth to a child, that is not that would be able to eliminate the disease from the gene pool.
+1:14:43
+April Neeld: 5%. Andrew Ippolito: Good. Andrew Ippolito: Right, the only one here would be the. middle. Andrew Ippolito: Right, because the female is either a carrier or has the tree.
+1:14:53
+Andrew Ippolito: Excellent Okay, and that, by the way, this is the level of depth I need you thinking that not any more complicated than this for the test.
+1:15:01
+Andrew Ippolito: Okay. Andrew Ippolito: So actually i'm going to skip this one, this is, we just talked at length about this, the key here alright So you see, the one that circled in red actually not let's talk about for a second notice how a lot of these geno types have a question mark.
+1:15:13
+Andrew Ippolito: Okay, the reason for that is in real life we can't always know everybody's you know gino types we can't blood pipe everybody because we don't have access to their blood necessarily either they passed away or they're not around.
+1:15:26
+Andrew Ippolito: Right, and so the best we can say is, we know that this female have the disease right so whatever the phenotype is all right.
+1:15:33
+Andrew Ippolito: mary's and now that doesn't have the disease, but we don't know if he's carrying on with the other so here's my question to you, despite the fact that we don't know this, you know type, how can we be certain that this female.
+1:15:48
+Andrew Ippolito: Is heterozygous.
+1:15:54
+Taylor Campbell: because she doesn't have it. Andrew Ippolito: But neither does her dad.
+1:16:00
+Taylor Campbell: yeah but her mom is.
+1:16:05
+Andrew Ippolito: yeah but she could she could have inherited the question mark, just as easily right we don't know.
+1:16:10
+The baby. Andrew Ippolito: So, again. Taylor Campbell: The babies. Andrew Ippolito: Exactly exactly.
+1:16:16
+Andrew Ippolito: She had two kids that, had it. Andrew Ippolito: The only explanation, there is that she had to have been carrying.
+1:16:22
+Andrew Ippolito: Good good good good good. Andrew Ippolito: Okay, now, so this is, this is the color blind test right so just just just for fun here quick show hands, how many of you can see.
+1:16:35
+Andrew Ippolito: Right what's that say they're. Taylor Campbell: seven. Andrew Ippolito: All right, good right So if you can't see that you're colorblind.
+1:16:44
+Andrew Ippolito: What about this one over here. Danuta Despagne: 42 okay good.
+1:16:50
+Andrew Ippolito: And then, what about this one.
+1:16:58
+April Neeld: Is that one a joke one. Andrew Ippolito: yeah so here's the thing it's it's the joke in the sense of I used to think this was the control you can't see anything, nobody can see anything there, but I actually had a student last semester tell me.
+1:17:12
+Andrew Ippolito: That because they did the test, because they had color blindness in their family that what this actually is it's a maze you have to be able to trace a line from one X, to the other X yeah like that blew my mind, I thought it was just a control, but so watch this, you have to be able.
+1:17:30
+Andrew Ippolito: to navigate like that. Andrew Ippolito: And if you can't do that you're caught up.
+1:17:37
+Andrew Ippolito: So. Andrew Ippolito: That so there's three kinds of colorblindness this would just be one time that.
+1:17:42
+Andrew Ippolito: determine nope alright people that have a problem with a red and green they can't distinguish it.
+1:17:52
+Jordan Russell: It was kind of interesting so like going back. Jordan Russell: To our lobster lab we had yesterday and how like we found out the color like the colors of the color of your eyes doesn't like determine if you have color blindness or not.
+1:18:08
+Jordan Russell: Right like there's always seems to be this stigma with blue eyed individuals that they have more like sensitivity to light.
+1:18:18
+Jordan Russell: and Jordan Russell: And like people always say. Jordan Russell: That people with blue eyes always have the sensitivity to light, so now like i'm thinking like that's not the case now because of our.
+1:18:28
+Andrew Ippolito: Different that's different so so if this is the profile of your I here. Andrew Ippolito: Right here's your iris.
+1:18:36
+Andrew Ippolito: Your pick the pigment that make sure I colored is within the iris itself that's right, you know so light lights hitting you.
+1:18:43
+Andrew Ippolito: know the whole year, everything is getting hit with light right you're not it's like a laser going in and so people with blue eyes that lack that.
+1:18:50
+Andrew Ippolito: The post deposited pigmentation more light will probably pass through the non pigmented part of the irs and that actually explains why.
+1:19:01
+Andrew Ippolito: People with blue eyes, probably are a little bit more sensitive to bright light, then people with Brown. Andrew Ippolito: and actually now that you think about it, my wife has very, very light blue eyes and she I remember when I used to do a lot of photography she really couldn't handle the flashes.
+1:19:17
+Andrew Ippolito: They were just too much for her and so that's probably because of the light blue eyes, but if I had to him way that way.
+1:19:27
+Andrew Ippolito: That was funny I liked as I saw that it's the has coming out of. Andrew Ippolito: The is that a hint that i'm too loud i'm sorry i'm sorry i'm glad.
+1:19:36
+Alexis Micewski: he's listening to music and he probably wants me to listen to a song, but I am in class.
+1:19:43
+Andrew Ippolito: Okay. Andrew Ippolito: So everything we just talked about. Andrew Ippolito: Okay, we talked about a genetic disorder, where you have some gene on the chromosome that's got a problem with it.
+1:19:55
+Andrew Ippolito: Now we're going to step back and we're going to think of the chromosome itself and we're going to see that we can have problems with the chromosomes now not single genes, but entire either entire swaths of the chromosome or a chromosome themselves.
+1:20:10
+Andrew Ippolito: So some some terminology first when we say polly deployed we're talking about a genome within a cell that has many copies, not just being deployed or even trip floyd or tetraploid but polly point like eight sets of chromosomes.
+1:20:31
+Andrew Ippolito: Okay plants are all poly point. Andrew Ippolito: So, if you look at say let's like wheat.
+1:20:39
+wheat. Andrew Ippolito: gets deployed like see.
+1:20:45
+Andrew Ippolito: They have. Andrew Ippolito: To do it 14.
+1:20:52
+The taxonomy of weed. Andrew Ippolito: And I straw actually you know what Plan.
+1:21:02
+Andrew Ippolito: just see if I can find a little handy chart that gives a.
+1:21:09
+let's see. Andrew Ippolito: Now I can't find easy one, basically, I mean there's there's loads of research on here I don't want to deal with the origin of it.
+1:21:20
+Andrew Ippolito: Anyway, so i'll just said, so I we I think we is deployed.
+1:21:28
+Andrew Ippolito: right they have deployed dough DECO deployed whatever. Andrew Ippolito: And, and the mechanism for that that you might learn that actually went in bio to.
+1:21:38
+Andrew Ippolito: You not to worry about the mechanisms there if you're curious about this just type holly palladium plants, and you can look at the Wikipedia to the mechanisms of it, basically, the idea is, if you have a single loan flower think of a lone flower in a field.
+1:21:49
+Andrew Ippolito: right if that thing is going to survive it's got to meet with itself, so to speak, right, and so one of the ways, you can do that is through an a sexual reproduction, where it just duplicates it's chromosomes and then it can go through meiosis and so now it's probably played.
+1:22:01
+Andrew Ippolito: You just duplicates all of those chromosomes and then I can go through crossing over in meiosis and create gametes and whatever.
+1:22:08
+Andrew Ippolito: And then you know the progeny of the night now you basically have a new species.
+1:22:15
+Andrew Ippolito: Okay, you play it when we say you ploy that EU means well defined technically, but it means it's the correct number okay What this means is you can think of it as as normal right So if I say a.
+1:22:32
+Andrew Ippolito: One of your somatic cells your skin cells, those are deployed right they're supposed to be deployed, so you would say that uh you ploy.
+1:22:41
+Andrew Ippolito: fibroblasts is deployed, whereas a you floyd sperm cell is happily.
+1:22:48
+Andrew Ippolito: Okay, and so the opposite of you plays an employed and that's really, this is the word that you're going to throw around a lot 100% of cancer cells are adding a play which just means there's something wrong with them there's something wrong with their genome.
+1:23:05
+Andrew Ippolito: Okay, cancer cells, by the time their cancer, they are unrecognizable as the source material they came from there, so far gone and they're all that extra chromosomes their chromosomes are bridging together there's duplications it's just it's a nightmare.
+1:23:22
+Andrew Ippolito: So an airplane okay. Andrew Ippolito: Non disjunction non disjunction is this word we use to describe the inappropriate segregation of criticisms.
+1:23:36
+Andrew Ippolito: Okay, so, for example during meiosis will help me show you pictures here.
+1:23:42
+Andrew Ippolito: Alright So here we have a normal cell there's a homologous pair of chromosomes and you can see that they separate during a Meta phase just totally normally right.
+1:23:55
+Andrew Ippolito: And then let's let's look at the normal one this one, the sister separate normally right they go in opposite directions, this one, they accidentally all go into a single.
+1:24:11
+Andrew Ippolito: Oh Okay, they all go to a single cell. Andrew Ippolito: Okay, so now here's here's the trick this egg now for just that chromosome not all the chromosomes just that chromosome has two copies, so that when it gets fertilized by the sperm that gets one, you now have three copies.
+1:24:32
+Andrew Ippolito: see that. Andrew Ippolito: So, so, in other words let's say that we had you know chromosome one chromosome to chromosome three and chromosome for hypothetical sell for and for notice that we have three copies of this one okay that concept is called trisomy.
+1:24:51
+Andrew Ippolito: trisomy and it's always with a number after it like. Jordan Russell: I was supposed to be born with trisomy 18.
+1:24:58
+Andrew Ippolito: We say that again. Jordan Russell: I was supposed to be born with trisomy 18 they thought I was going to be born with trisomy 18 in the womb, because apparently I looked like I was in.
+1:25:08
+Jordan Russell: Like a meditation state like I looked like I was like sitting crisscross applesauce in the womb.
+1:25:14
+Jordan Russell: Really Indian style so they thought I was going to be born with trisomy 18. Andrew Ippolito: Based on based on your behavior pattern, not a genetic analysis.
+1:25:24
+Jordan Russell: yeah well. Jordan Russell: Interest based on like how I looked in the womb. Andrew Ippolito: Right right right right.
+1:25:29
+Andrew Ippolito: Oh that's interesting thanks for sharing Jordan. Andrew Ippolito: So. Andrew Ippolito: So there are some trisomy.
+1:25:35
+Andrew Ippolito: trisomy 21 is the most famous of course that's down syndrome Okay, so in this hypothetical sell that I just drew this would be trisomy three.
+1:25:43
+Andrew Ippolito: So there's always got to be a number there right because you're not otherwise you're what would this be called if the genome looked like this, what would that be called.
+1:25:53
+Andrew Ippolito: What would this genome be.
+1:26:00
+Julia Lakchin: Trust me. Andrew Ippolito: No, no, so here, right here, let me. Julia Lakchin: So ready.
+1:26:05
+Andrew Ippolito: 1234 this would be what. Andrew Ippolito: like an excel.
+1:26:14
+Andrew Ippolito: Okay, that would be hapless. Andrew Ippolito: Okay, so we're assuming and a Fort here alright, so a deployed cell would look like this.
+1:26:23
+Andrew Ippolito: oops. Andrew Ippolito: Right, that would be deployed, so what would this be.
+1:26:33
+Andrew Ippolito: Good that would be AAA. Andrew Ippolito: Okay, this.
+1:26:40
+Andrew Ippolito: Is trisomy three so that, so I just understand trisomy means we have one extra chromosome of one pair whereas triplet as they're all.
+1:26:51
+Andrew Ippolito: three. Andrew Ippolito: OK, so the opposite of this ready this.
+1:26:58
+Andrew Ippolito: would be masoni. Andrew Ippolito: Okay, this would be minus only three.
+1:27:06
+Andrew Ippolito: Right only having one copy of chromosome three so Montessori and tries to me are opposites, and you will see both of them right So if you go back to this picture here.
+1:27:16
+Andrew Ippolito: This one would lead to a trisomy zygote right so remember this is fertilization, and so this would be the psychos right as I go.
+1:27:26
+Andrew Ippolito: This egg cell here now, this is, be careful here this doesn't mean that he doesn't have any DNA in it we're just tracking one chromosome here right, if you look at the original one.
+1:27:36
+Andrew Ippolito: That we're just dealing with one chromosome this egg here does not have any copy of it, so when it gets fertilize it gets one copy and so that state here would be mana so me Mano a Mano so me.
+1:27:52
+Andrew Ippolito: Mano so me. Andrew Ippolito: This would be trisomy.
+1:27:58
+April Neeld: What you mean stand for so i'm why, because I know that, like like different parts of words mean different things.
+1:28:09
+Andrew Ippolito: I don't know I want to look that up now. April Neeld: So me.
+1:28:27
+Andrew Ippolito: Count okay so it's a plural of song so m, and so in line some is the root for number or account.
+1:28:38
+Andrew Ippolito: So we're counting so one count or three counts cool thanks for asking that I never ever put that together so me okay.
+1:28:48
+Andrew Ippolito: Alright, so So do you see how, in this in this slide here we have meiosis mitosis to rate.
+1:28:54
+Andrew Ippolito: And so on the left hand side, this is when non disjunction will occur on.
+1:29:00
+Andrew Ippolito: During meiosis two right so meiosis one is normal meiosis to has a problem in this case, on this side meiosis one has a problem, so, in other words the entire tetrad or by via or home or homologous pair goes to one so.
+1:29:14
+Andrew Ippolito: All right, and so you can see here all those legos are affected, whereas on the left hand side of it occurs during my answers to you can see, half of them are normal.
+1:29:23
+Andrew Ippolito: And, half of them are affected okay so having non disjunction occurred during the first meiosis leads to a problem, and all of them.
+1:29:33
+Andrew Ippolito: And then next thing I want to tell you is that there's only a single viable mana so me and humans.
+1:29:47
+Andrew Ippolito: When I save viable, I mean gives rise to an individual that can be alive, even if they're sterile or not Okay, in this case or their fertile to but viable is a viability, has to do with life.
+1:30:00
+Andrew Ippolito: Okay, so a mutation that is non viable means that there is a zero percent chance that zygote will give rise to a fetus that will give rise to a big okay and depending on the mutations and non viable genetics.
+1:30:18
+Andrew Ippolito: It can stop in different places, so it might go up to 13 days 15 days and then after that start falling apart, it depends on the mutation the only viable mana saw me is the X chromosome.
+1:30:31
+Andrew Ippolito: Okay, and that you know that you know type would be you would write it like this and that's called Turner syndrome.
+1:30:41
+Andrew Ippolito: And i'll show you a slide on this, but I wanted to put that here because that's the only Bible human Manas there are several Bible tri cities, and now I can add to that list in my head thanks to Jordan.
+1:30:55
+Andrew Ippolito: And I think actually I think I had another student, many years ago, tell me that they had a cousin that was pricing me team i've heard a team before that that's the second time i've heard it.
+1:31:07
+Andrew Ippolito: All right, so these are from your book Okay, the difference, the reason why I have both of these slides here this slide shows you the fertilization event, and you can see the zygote here okay.
+1:31:18
+Andrew Ippolito: that's what that's what's good about this slide the drawback is the fact that you only see one pair of chromosomes so this might be a little confusing.
+1:31:25
+Andrew Ippolito: Okay, the slides from your book are good in that they show you two pairs where they show you a healthy pair segregating along with the unhealthy pair.
+1:31:34
+Andrew Ippolito: Okay, the drawback here is it just stops at the gap means you don't see fertilization Okay, so I presented you with with this is from an old textbook, and this is from your textbook.
+1:31:44
+Andrew Ippolito: Okay, and so you can see here the first slide meiosis one, is where the non disjunction occurs, and then the second slide it occurs in meiosis so when you're studying this you can understand that.
+1:31:56
+Andrew Ippolito: And I, these are we've already covered this i'm going to skip those two slides here here's a video of not disjunction you can actually watch it occurring in this microscopy.
+1:32:08
+Andrew Ippolito: Alright, so what I want you to do is pay attention, right here. Andrew Ippolito: And i'll play it a few times, you can see it okay so here let's go back here so here so we're going through pro fees right pro Meta fees Meta fees are all lining up.
+1:32:22
+Andrew Ippolito: And then, right here i'll freeze it, you can see, this chromosome right here is not part of the club right they're not segregating properly.
+1:32:33
+Andrew Ippolito: And so, when the cells divide. Andrew Ippolito: That cell ends up getting the extra right and this cell gotten on.
+1:32:42
+Andrew Ippolito: And that's that's that that's non destructive okay all right now for a single chromosome.
+1:32:50
+Andrew Ippolito: Different mutations can occur So these are chromosomal level mutations so here's the idea Okay, if I had a chromosome like this imagine, so these kinds of things happen during s phase generally.
+1:33:06
+Andrew Ippolito: You can imagine during replication an entire swath of chromosome doesn't get replicated and so that's going to give rise.
+1:33:15
+Andrew Ippolito: You can kind of cartoon it like this right to a to a short so there's it that's called the deletion right there's a whole removal of an entire swath of chromosomal deletion.
+1:33:26
+Andrew Ippolito: Other times you'll get a duplication right, so let me show you this right now.
+1:33:33
+Andrew Ippolito: So here, so you can see we've lost you would call this locusts hey right so Lucas a is missing.
+1:33:43
+Andrew Ippolito: Deletion in this case, you can see. Andrew Ippolito: That DNA get duplicate it got a duplication of it, so that we have two copies of everything.
+1:33:54
+Andrew Ippolito: You can think of that as a genetic stutter.
+1:34:00
+Andrew Ippolito: Sometimes the chromosome itself, and this is kind of weird.
+1:34:05
+Andrew Ippolito: When it gets duplicated it inverts. Andrew Ippolito: So so think about reading reading a sentence and then taking the whole sentence and just spinning, the whole thing around and reading it all backwards, but just for that one sentence.
+1:34:21
+Andrew Ippolito: Okay. Andrew Ippolito: inversions, as you can imagine, will lead to problems in the next generation when crossing over as a template right normally you want to line everything up like this.
+1:34:33
+Andrew Ippolito: Right so here watch this if this is the normal chromosome. Andrew Ippolito: If we need to line that up with a chunk that got inverted we would have to do something like this, what really is the best way to do this.
+1:34:54
+Andrew Ippolito: We would have to do a twist to it. Andrew Ippolito: And that's going to lead to additional problems, I have a slide on that in a second Okay, so I said inversion and then Lastly, a translocation just imagine.
+1:35:09
+Andrew Ippolito: Think of crossing over happening between two non homologous chromosomes right if you go to the library imagine taking a whole stack of books from one shelf and just swapping over some random stack somewhere else right the other books are fine they're just in a different location now.
+1:35:28
+Andrew Ippolito: The problems, in particular with any chromosomal event, where you have a boundary region.
+1:35:38
+Andrew Ippolito: Is there is a chance of this happening. Andrew Ippolito: Okay let's say that this is gene a, and this is gene be.
+1:35:49
+Andrew Ippolito: Okay, if I if something occurs, where it happens in the middle of an important gene.
+1:35:58
+Andrew Ippolito: And let's just make this so let's say G F accidentally got trans located here.
+1:36:04
+Andrew Ippolito: You see how this gene now is kind of a combination of two genes, this is called a camaro.
+1:36:10
+Andrew Ippolito: or kind merrick gene, and that can give rise to a protein product that has mutated we'll talk about those more length when we do genetic mutations that's after.
+1:36:21
+After all this. Andrew Ippolito: Right and then.
+1:36:28
+Andrew Ippolito: This this just helps you understand all those again. Andrew Ippolito: These this will give you a bunch of slides help you visualize office.
+1:36:37
+Andrew Ippolito: Okay, when you see reciprocal translocation that's the only one, I wanted it now a reciprocal translocation is just an even exchange for among chromosome to another.
+1:36:45
+Andrew Ippolito: Okay, and non reciprocal would be if there's a deletion as part of that you don't have to worry about that okay so don't worry about reciprocal just understand the concept of the translocation we're moving one chunk of chromosome we're exchanging chunks of two different proposals.
+1:37:03
+Andrew Ippolito: And here's what happens with the inversion right if you invert in this case we have an inversion between.
+1:37:12
+Andrew Ippolito: let's see this whole swath here. Andrew Ippolito: Right, so instead of so there's see Ray see the E it's running up this way, so this whole part has been this whole part has been swamped when you go to try.
+1:37:29
+Andrew Ippolito: To do crossing over here, you see that right, but think of these like what spaghetti noodles. Andrew Ippolito: Alright, so you can now bend them, it was like they're they're playing in bed together spooning basically, you can see their coddling each other here, the idea is, if you track the the red one, you can see, it does this loop right, it does this loop like this.
+1:37:50
+Andrew Ippolito: And so you will it allows. Andrew Ippolito: For crossing over to occur, you see, that we can still create remember the there's the synaptic dmo complex would just form this very strange loop, and the problem is is if if crossing over occurred within that area like right here.
+1:38:10
+Andrew Ippolito: Right, so, in other words, it results in this chromosome a B, C D E, be a right that would be the recombined chromosome right there I just drew a continuous one, and then the other one would be.
+1:38:24
+Andrew Ippolito: Hello start here. Andrew Ippolito: and go this way.
+1:38:30
+Andrew Ippolito: That gives rise to a B, C D E BA oops right, so, in other words, I have a duplication of DNA here and I have a deletion of the E, F G right this chromosome no longer has F G on it and then this chromosome right has G F C D E, F G right there just totally different guy alexa.
+1:38:58
+Alexa Deprisco: So this is still like crossing over and, like the first part of my users, but like this would be like a problematic.
+1:39:05
+Andrew Ippolito: yeah exactly. Andrew Ippolito: And so what this is is this is mom having her problem but it's not too bad, and this is her offspring.
+1:39:16
+Andrew Ippolito: Right this this is her egg cell going i'm sorry this is her stem cell becoming an egg cell and having this inversion occur i'm sorry.
+1:39:25
+Andrew Ippolito: She inherited this inversion, so this is mom's gino. Andrew Ippolito: Okay, like this is her grandmas and her her mom and dad's each respective chromosome so dad dad's chromosome has this mistake on it Okay, when the mother's eggs recombine that's her eggs now and so her kids right if her kid inherits this illegal they're missing some jeans there.
+1:39:50
+Andrew Ippolito: Right so they'll be emmys I guess for that, whatever that chromosome lucas's great because assume assume that, like let's say this is the egg.
+1:39:58
+Andrew Ippolito: let's assume the sperm is normal right so let's say this is normal right, so if we so the two red circles imagine across there right for for gene a there's no gma over here, so they would be hemmings I guess for gina or for Lucas, a right, they would be homies I guess for Lucas be.
+1:40:18
+Andrew Ippolito: right for see, they would have they would be normal for D, they would be normal and for actually for this whole chunk they'd be normal okay so everything will be normal except they would just have one copy of a envy okay and and.
+1:40:38
+Andrew Ippolito: They actually. Andrew Ippolito: have three copies.
+1:40:44
+Andrew Ippolito: For gmm. Andrew Ippolito: So who knows what that's going to cause Okay, sometimes it's just as important, not just to have the healthy gene, but to have the appropriate expression levels of it.
+1:40:59
+Andrew Ippolito: Right imagine a faucet a pair of faucets and you have them on and they're going fine and then just add a new facet, to the sink and turn that one on a full gush too much and sometimes that leads to problems.
+1:41:11
+Okay. Andrew Ippolito: Alright cool. Andrew Ippolito: And then, because we live in the Philadelphia region makes sense, talking about the Philadelphia chromosome, this is a chromosome that causes cancers.
+1:41:20
+Andrew Ippolito: This is the kind merrick idea, so the tip of chromosome nine trans locates but the tip of chromosome 22.
+1:41:28
+Andrew Ippolito: And so chromosome nine gets the extra part of chromosome 22 and then chromosome 22 gets a little chunk chromosome nine here and the key is.
+1:41:38
+Andrew Ippolito: The gene that's normally here and the gene that's normally here and up recombining and so you get this kind America gene that has part of chromosome nine and part of chromosome 22 and that gene product just happens to cause cancer.
+1:41:57
+Alexis Micewski: Okay, is there any reason why they think this Philadelphia. Andrew Ippolito: that's where I was discovered.
+1:42:03
+yeah. Andrew Ippolito: yeah whenever you see odd name things there's always a story behind it, you can probably just Google Philadelphia chromosome and I never learned the history of it, God alexa is it a specific type of cancer cancer, yes yeah, no, no, no, you know what now, I have to know.
+1:42:20
+Andrew Ippolito: delphia Roman. Andrew Ippolito: i've learned this like long time ago Okay, here we go Philadelphia chromosome is an abbreviated chromosome 22 that was short changed on a reciprocal exchange material crumbs of nine but Okay, the transaction occurs in a cell in the bone marrow oh causes cml chronic lymphocytic leukemia.
+1:42:39
+Andrew Ippolito: A form of it i'm sorry acute lymphoma oh no, no, chronic miles it causes CMO is also found in a form of acute lymphoblastic leukemia so they're cml.
+1:42:49
+Andrew Ippolito: Their cml that's chronic lymphocytic leukemia and then a ll that's acute lymphoblastic leukemia okay so leukemias are just cancers of the blood and there are the opposite of, say, solid tumors.
+1:43:03
+Andrew Ippolito: Okay, so look so you have solid tumors and think of cancer growing in your like a like a tumor.
+1:43:09
+Andrew Ippolito: Okay, so that's called week what we call those kinds of cancer solid tumors and then there's leukemias okay leukemias don't form masses, they just the key is is the blood cells normally right would grow up let's say this is like a T cell here, and this would be.
+1:43:28
+Andrew Ippolito: The stem cell. Andrew Ippolito: looky leukemias are when the stem cells end up mutating and just forming a bunch of immature cells.
+1:43:37
+Andrew Ippolito: And so that's why we think about your blood cell count, so we do white blood cell counts, if your White blood cell counts are going down.
+1:43:43
+Andrew Ippolito: That means that you know normally your White blood cells are dying and they're not getting replaced, and the reason they're not getting replaced is because the cells aren't differentiating they're just dividing and dividing and dividing that's what makes it look.
+1:43:54
+Andrew Ippolito: Like it's a leukemia as the accumulation of amateur cells that don't do what they're supposed to do.
+1:44:00
+Andrew Ippolito: that's the general idea. Andrew Ippolito: Alright, so, in addition to the mutations that can occur within a chromosome, we can also have the abnormal numbers of chromosomes and Montessori and trisomy so now, you can see here's an example of just aneuploidy conditions.
+1:44:19
+Andrew Ippolito: You don't have to memorize this chart, but you can read through this and you can understand it now let me so, for example, if I said.
+1:44:28
+Andrew Ippolito: So let's look at here's Turner syndrome so here i'll tell you what i'll put a little dot next to the ones you need to know you've already learned them or work or about to Turner client filter.
+1:44:37
+The Sheen. Andrew Ippolito: cried the child.
+1:44:49
+Andrew Ippolito: that those are the ones on this slide anyway so i'll show you now. Andrew Ippolito: over here there's four that are just abnormal promise of number, we got down syndrome client filter X, Y y and Turner syndrome and.
+1:45:03
+Andrew Ippolito: So this is just the wrong number of chromosomes trisomy 21 three copies of chromosome 21 and I know where at one o'clock so let me just gloss over these really quick right, you can see here the carrier type there's three copies of 21.
+1:45:17
+Andrew Ippolito: client filter is having multiple X chromosome and this case, you can see, they have four of them.
+1:45:24
+Andrew Ippolito: Okay they're phenotypically male you would say this, they present phenotypically as male. Andrew Ippolito: Okay, but they have particular attributes that are deviant from typical male so inclined filters the genitalia, for example, will have a.
+1:45:39
+Andrew Ippolito: hair growth pattern that is distinctly female the V shape instead of the square shape, they will also have slightly enlarged secondary sexual characteristics and they tend to have elongated faces.
+1:45:52
+Andrew Ippolito: All of these tend to also be associated with learning disorders go ahead.
+1:45:59
+Andrew Ippolito: Oh, I thought I thought okay all right X, Y y that's having one extra y chromosome.
+1:46:07
+Andrew Ippolito: Okay, sometimes it goes Meta mouse.
+1:46:12
+Andrew Ippolito: Turner syndrome, I told you about already that's the low. Andrew Ippolito: and female, so they present female.
+1:46:21
+Andrew Ippolito: sexually secondary sexual characteristics, they tend to have broad shoulders the thick neck and limb deformities you can see, if you look carefully at this you'll see the toes are slightly deformed and you can kind of see the hands a little deformed there.
+1:46:38
+Andrew Ippolito: They can also be flat chested they're there they can have children, though they're fertile Okay, and they have learning disorders.
+1:46:48
+Andrew Ippolito: Alright, so that's inappropriate numbers and then the last thing we're going to cover here for human genetics and be done with this is abnormal structures okay so there's cry you would say cried your child it's French for cry of the cat.
+1:47:02
+Andrew Ippolito: This is when you're missing the very top portion of chromosome five. Andrew Ippolito: And the reason it's called that is children who are born with this, the bb when it's in in the crib for the first time after it's born when it cries it sounds like a cat mewing.
+1:47:17
+Andrew Ippolito: which I assume is very disturbing for parents when they hear. mewing sound instead of a crime.
+1:47:25
+Andrew Ippolito: So that's that's credit shot and. Andrew Ippolito: that's all i'll say about that and the fragile X is the part of the X chromosome that has just held on by like a really thin thread, and so it tends to fragment very easily.
+1:47:38
+Andrew Ippolito: People will try to check like down syndrome have a facial countenance that's a little not countenance I forgot the word to use, but basically there are structural signatures where everybody that has it tends to look similar, just like in down syndrome.
+1:47:53
+Andrew Ippolito: So they might look like siblings when in fact they just have the similar. Andrew Ippolito: chromosome.
+1:48:00
+Andrew Ippolito: mutation okay so that's correct. Andrew Ippolito: And then fragile X syndrome just we'll just say that there's a part of a randomly in various cells as the divide, they lose little chunks of their their X chromosome.
+1:48:14
+Andrew Ippolito: This particular little chocolate, I should say. Andrew Ippolito: Okay, and then let me just see.
+1:48:27
+Andrew Ippolito: All right, i'm not going to cover this in any great detail there's ways we can do genetic testing there's two that we would have talked about and I guess i'm over time here, so I should stop talking.
+1:48:37
+Andrew Ippolito: i'll just say there's amniocentesis in chorionic daily sampling or villas sampling and we'll talk about we'll start here on Thursday so on Thursday Wednesday so on Wednesday, when I cover.
+1:48:52
+Andrew Ippolito: The idea of chromosomal so beyond mental we're going to learn about some exceptions to his rules.
+1:48:59
+Andrew Ippolito: code dominance in complete dominance and all that piece thesis clear trophy and then we're going to learn about Morgan and his fruit flies.
+1:49:06
+Andrew Ippolito: Okay, so I want to say on Wednesday work not going to have a quiz we're just gonna we're gonna hit the ground running and it's going to be an intense lecture Okay, because there's some really good concepts here that I want to make sure I get to before Friday.
+1:49:22
+All right. Andrew Ippolito: If you want, you can also, I believe I have some previous recordings, if you want to get a head start.
+1:49:33
+Andrew Ippolito: On my YouTube channel. Andrew Ippolito: If you just just go yeah I have a few, the reason why I don't tell you guys I didn't tell you guys about this because we record everything here now but i'm holding you to.
+1:49:49
+Julia Lakchin: It if we have time, can we also do a review day on Wednesday.
+1:49:54
+Andrew Ippolito: Oh yeah we can do a little bit. Andrew Ippolito: So here here's i'll link this into.
+1:50:01
+Andrew Ippolito: Our main zoom chat yeah sorry bro I just saw your I know. Angela Harbeck: We have a test on Friday this Friday.
+1:50:08
+Andrew Ippolito: I believe so, I have to look at the schedule, but some of you have talked about the test on Friday so i'm assuming you've already looked at the schedule and see if there's my YouTube channel.
+1:50:19
+Andrew Ippolito: So you can just dig in there, I have a playlist for. Andrew Ippolito: But you can, if you look at the non majors there there's some stuff in there for genetics.
+1:50:29
+Andrew Ippolito: That 90% of it is. Andrew Ippolito: yeah so you hear like this would be.
+1:50:38
+Andrew Ippolito: A lot of what we're covering that's that's the non majors but still mostly relevant.
+1:50:48
+But I have a majors genetics recorded in here.
+1:50:53
+We see our aspirations cells DNA no I don't.
+1:51:00
+Andrew Ippolito: know, I do have the entirety of my DNA like for like the beginning of the next unit, I have that recording here.
+1:51:08
+Andrew Ippolito: So you can look at that, but the but that that's genetics lecture just paste it in that's mostly what we're doing anyway there's very little distinction between the majors of the nominators for that okay so i'm going to stop the recording here.

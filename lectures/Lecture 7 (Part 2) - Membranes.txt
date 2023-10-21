@@ -1,0 +1,1690 @@
+0:01
+Andrew Ippolito: This is a part two of membranes we're talking about men brief historical journey through how we get from the idea that cells are covered in some kind of lifted, all the way up to the fluid mosaic model and.
+0:19
+Andrew Ippolito: So we go from overton saying that cells are covered in the lipids quarter and grendel are talking about the by layer and they actually did the calculation to show that it was always twice the amount and that's exactly Julia and I listened, I listened and Davidson and daniella.
+0:44
+Andrew Ippolito: Davison and Danielle come up with this idea that proteins are associated with the membrane and so, how are they associated and they proposed something called the sandwich model.
+0:56
+right here. Andrew Ippolito: The sandwich model is this idea that, and you can doodle out your membrane like this.
+1:06
+Andrew Ippolito: And then on the surface of the top of the cell, or rather and underneath inside the cell there are these collections of proteins and it kind of makes it makes a sandwich right yeah two pieces of bread, would be the proteins and the the meat of the sandwich would be the fossil.
+1:27
+Andrew Ippolito: Now they're just their hand waving they're just coming up with this idea. Andrew Ippolito: And when electron microscopy got better and better and better over the.
+1:37
+Andrew Ippolito: First, half of the 20th century, we went from being able to use it for just looking at Ionic substances like metals and then eventually people figured out, you can use heavy metals as steen's in biological samples like like.
+1:52
+Andrew Ippolito: Uranium acetate or your yeah forgot to your uranium St anyway heavy metals that can bump electrons and they got the techniques well enough where they can start looking at membranes under the electron microscope.
+2:05
+Andrew Ippolito: And the electron microscopes seem to confirm this membrane model and this guy Robertson.
+2:13
+Andrew Ippolito: proposed what was called the standard unit membrane model and, if you look at an old biology textbook one that maybe your parents or grandparents used in school, you would see this in the cell chapter as a unit memory model.
+2:27
+Andrew Ippolito: So here was the idea right remember, we were learning about sugars and lip sugars and amino acids.
+2:34
+Andrew Ippolito: And, proteins and nucleic acids, those were all things that had this kind of fundamental building block that we would then pull them arise.
+2:43
+Andrew Ippolito: Right remember you had the amino acids, making poly peptides mono saccharine is making polly saccharine and nucleotides making nucleic acids.
+2:49
+Andrew Ippolito: Right, so it stood, the reason that the other constituent of the cell lipids also had some kind of standard unit membrane and that's what Robertson coined this idea of the unit membrane model.
+3:05
+Andrew Ippolito: That there's the er and the goal gee you know license homes in the approximate homes and they all these different membranes inside you carriers that they must all have a similar fundamental structure.
+3:17
+Andrew Ippolito: The problem with the unit memory model was it failed to make accurate predictions of some experimental data, for example, one of the observations early on in the game here, probably let's see 1960s, was that.
+3:33
+Andrew Ippolito: Like water could go through some membranes really fast, but other memories not so fast.
+3:39
+Andrew Ippolito: Right, so there were there were differential permeability for different membranes.
+3:45
+Andrew Ippolito: And so having a standard memory model doesn't make any sense. Andrew Ippolito: So in the 70s early 70s sanger Nicholson came up with this idea that the membrane is actually a mosaic of proteins, where the proteins are embedded in the membrane not on the top and the bottom, but integrated into it and that they moved around.
+4:06
+Andrew Ippolito: And so the experimental confirmation of this i'm just going to skip ahead to this we don't want to gloss over some of this.
+4:13
+Andrew Ippolito: The the experimental confirmation of this was they did something called freeze fracture microscopy and the idea it's actually kind of fun you take cells you drop them in liquid nitrogen.
+4:24
+Andrew Ippolito: freeze them instantly and then you shatter them. Andrew Ippolito: You magically throw them against the wall and they just explode in their frozen self and then you look at the pieces under the microscope.
+4:36
+Andrew Ippolito: Right, and so the idea here, so, if you look at this picture on the left hand side there, so you can picture taken imagine taking a little knife and cutting through the two leaflets of the membrane.
+4:48
+Andrew Ippolito: If the unit memory models correct the sandwich model idea if that was correct, and we were able to look directly.
+4:56
+Andrew Ippolito: At the underneath part of the leaflets, we would notice there would be no proteins there right proteins not being in that inner membrane space.
+5:05
+Andrew Ippolito: In contrast, at the food was a model was correct, I mean look there, we would see proteins embedded in the membrane Okay, and so sure enough they did these initial.
+5:15
+Andrew Ippolito: Experiments what they saw exactly what they would expect, they saw exactly what they would predict if the fluid memory model was current a fluid mosaic model is correct.
+5:24
+Andrew Ippolito: So what you're looking at here is imagine taking imagine taking a cell okay so here are the two by late here are the two leaflets i'm just exaggerating the leaflet so you can get an idea here alright so here's the protein.
+5:38
+Andrew Ippolito: They shatter it so that imagine you can see something more like this now Okay, so we can we see the exposed under underside of the leaflets right and so maybe on the side here, we would have like that Okay, so what you're looking at here, this is the surface of the cell.
+6:02
+Andrew Ippolito: Okay, so what we're looking at here is the top of the outer leaflet and then what we're looking at here this it says inner lifted by layer well we're looking at here is the top of the inner leaflet and Sure enough, we can see.
+6:20
+Andrew Ippolito: All of these little bumps everywhere.
+6:26
+Andrew Ippolito: It makes sense. Andrew Ippolito: Okay, so right if if the unit memory model was correct this whole region here this whole region here would be even in smooth just like this.
+6:41
+Andrew Ippolito: Okay, now, if you look at the picture you'll see that the proteins are kind of randomly distributed so that's the idea of the mosaic.
+6:49
+Andrew Ippolito: So this experimentally confirms mosaic right but it's frozen what's where's the third part, so they did a second experiment that I don't have a slide, for these are just more pictures of the freeze fracture you can click here to look at some more cool stuff.
+7:04
+Andrew Ippolito: Okay, I did I added this last semester, so this is the FRY it didn't.
+7:12
+Andrew Ippolito: It didn't he did no I didn't I don't know it didn't i'm trying to pronounce this guy's name, right here it didn't.
+7:21
+Andrew Ippolito: It didn't edit that I never seen that name before until I was like Why did I put on the slide but I didn't register my head anyway.
+7:29
+Andrew Ippolito: So this is crazy right take a mouse cell and human cell and bring them together and whenever you have two cells and their membranes are close enough together sometimes they fused together.
+7:39
+Andrew Ippolito: they'll form these fusions these these Chi America cells that are.
+7:48
+Andrew Ippolito: Both organisms, right now, this isn't we're not like creating human mouse hybrid embryo thing this isn't the island of Dr Moreau, or whatever.
+7:57
+Andrew Ippolito: we're just talking about like some weird version of Jurassic Park we're just talking about doing things experimentally in the petri dish.
+8:04
+Andrew Ippolito: Alright, so like the cells and viable to go and do anything beyond this, but here's the thing they were able to label the proteins in the mouse cell.
+8:12
+Andrew Ippolito: And separately label the proteins and the human cell and, and so the idea here is if the membrane proteins can move, we will see them slowly over time to fuse together and form this like evenly distributed network and that's exactly what this.
+8:28
+Andrew Ippolito: Within 40 minutes.
+8:33
+Andrew Ippolito: And the reason why. Andrew Ippolito: i'm that's in German, is this was a German website I stole this picture from.
+8:45
+Andrew Ippolito: So to our best understanding, this is the best explanation for how cell membranes behave it's within this food mosaic and depending on the temperature and depending on the presence or out.
+8:59
+Andrew Ippolito: there's a couple variables so temperature is one of them. Andrew Ippolito: that's, the most important one, the hotter the more fast everything moves the faster everything moves, and so the more liquid it's the more fluid it's going to be right, another one would be the nature.
+9:17
+Andrew Ippolito: Of. Andrew Ippolito: The fast phil libin i'll just abbreviate that PL fossil lipids the nature of the fossil limpid.
+9:26
+Andrew Ippolito: tales. Andrew Ippolito: Right, whether they are fully saturated or they are unsaturated.
+9:35
+Andrew Ippolito: So go back to remember your triglycerides remember oil and fats and all that we talked a lot about that so now, you can take that idea home, and you can understand that we can actually change the fluidity of a membrane by changing the fossil that constituents.
+9:52
+Andrew Ippolito: and Andrew Ippolito: Then the last one is the presence or absence of the cholesterol.
+10:00
+Andrew Ippolito: Right, remember that cholesterol sits in here like so, and if there's a if there's a steroid in there.
+10:09
+Andrew Ippolito: What it does is it slows down it constrains it constrains the movement of the tails so that they can't move as much, and so that's going to make it more rigid more more gel like okay.
+10:23
+Andrew Ippolito: Alright, so that's the idea now these proteins, what I want you to do is imagine these proteins can bop around and they're kind of like boats on the water.
+10:33
+Andrew Ippolito: So these aren't. Andrew Ippolito: don't pay for them is anchored some of them are and, but when they are anchor they're anchored to like the act inside oh skeleton down here.
+10:43
+Andrew Ippolito: Okay, so so just all things being equal, if a protein is embedded in a membrane that protein can undergo what's called lateral excuse me lateral diffusion.
+10:54
+Andrew Ippolito: Okay, they come over. Andrew Ippolito: Alright, so this is just for your own studying, you can use this for your review.
+11:03
+Andrew Ippolito: And here, it is so we're going to start looking at the different kinds of proteins in the memory. Andrew Ippolito: All right there, so you can see here's your integrals or your question earlier here's here's an integral protein here's a peripheral protein.
+11:15
+Andrew Ippolito: Right notice this peripheral protein is actually associated with an integral protein doesn't have to be any any protein that is associated with a membrane but not stitched into it is just roughly called the peripheral.
+11:28
+Okay. Andrew Ippolito: The other thing I want to call your attention to on this slide, though, are these yellow chains right we've talked about this a few times.
+11:37
+Andrew Ippolito: i'm going to say it again now, sometimes some proteins and some lipids have sugars attached to them, this is occurs in the goji apparatus in a process called like constellation.
+11:50
+Andrew Ippolito: And what this results in are some of these objects called glycol proteins or clinical limits.
+11:59
+Andrew Ippolito: Right, so the one I just circled here, you could see I circled this one, because it's maybe it's hard to see on your screen, but here is this why right you that's like backwards, why that's attached to a fossil iPad right there.
+12:12
+Andrew Ippolito: Okay, so we got fossil lip i'm sorry it yes attached to a forceful of is we call it glycol limpid alright, so the outside of the eukaryotic cell is decorated with sugars in a in a layer appropriately called the glycol calyx.
+12:31
+Angela Harbeck: So all the sugar that's on the protein is called look like Okay, he looks. Andrew Ippolito: So, so we wouldn't talk about the sugar.
+12:39
+Andrew Ippolito: itself, we would talk about the whole structure of the protein and sugar connected together and that thing is called the glycoproteins.
+12:52
+Andrew Ippolito: Okay, and so this is kind of a it's a little sticky and there's a little like WikiLeaks provides two major functions, the first is that allow cells to adhere to each other, pretty strongly.
+13:04
+Andrew Ippolito: Okay, so cell the cell. Andrew Ippolito: cell to cell adhesion.
+13:14
+Andrew Ippolito: The second thing it does is it helps us in.
+13:19
+Andrew Ippolito: cell recognition. Andrew Ippolito: In other words, cells can recognize each other and make it like talk to each other through what's decorating their surfaces.
+13:30
+Andrew Ippolito: This is our, this is the basis of our immune system.
+13:36
+Andrew Ippolito: And we'll talk more about that in a bit.
+13:42
+Okay. Andrew Ippolito: This is the original abstract from the original science article published in 1972 on the flu mosaic model if you want to ever read what actual science sounds like or.
+13:54
+Andrew Ippolito: If you're really, really suffering from insomnia, you can't fall asleep pull this open and start reading it and I guarantee you'll be asleep before you get to the end.
+14:06
+Andrew Ippolito: it's that anyway. Andrew Ippolito: All right. Andrew Ippolito: As far as the composition goes the membrane itself is about 5050 liquid protein.
+14:19
+Andrew Ippolito: So 4545 with the 10% being carbohydrate. Andrew Ippolito: Right it's like brings us up to 100.
+14:29
+Andrew Ippolito: And we call it semi permeable and it's pretty than the older books that was semi permeable we now more accurately say selectively permeable semi semi permeable means there's a it's it's a static non changing variable you just a little leak, you know, like a.
+14:50
+Andrew Ippolito: Like a paper towel and contrast selective permeability denotes the idea that we can control it, we can like If so, imagine we can add a protein to the membrane and now it's different selectively permeable right you remove the protein, so we can change okay.
+15:06
+Andrew Ippolito: All right. Andrew Ippolito: here's a does anybody know what to means yet remember so go back to your laughter for for your microscopy.
+15:16
+Andrew Ippolito: Do we need to know those people tori no go Gordon grindle that's that's, the only real big and then I guess the Davidson model, so you don't have to expect to i'm not going to ask you like, who is Davidson it's not one of those.
+15:31
+Topics there.
+15:37
+OK. Andrew Ippolito: So tm transmission electron microscopy.
+15:46
+Andrew Ippolito: Okay, whenever you look at a picture like this. Andrew Ippolito: And it's the green black and white in this case is color but so there's no color in real life here there's this color does not exist at this level, so any color you see an electron micro graph.
+16:00
+Andrew Ippolito: Is is added by an artist, to increase the contrast, for your eyes all right, then you got SEM scanning electron micro graph the SEM those are the cool 3D pictures, you see, like dust mites, and you know fly eyes and stuff.
+16:16
+Andrew Ippolito: Okay. Andrew Ippolito: All right. Andrew Ippolito: We talked about cholesterol, but here I want to click on this link really quick because I really want you to get an intuitive understanding of what the membranes.
+16:30
+Andrew Ippolito: What the membrane the order leaflet of the liquid by layer is enriched in single limits the title of this guy's talking really fast let's try this.
+16:41
+Andrew Ippolito: what's interesting I have it set right to where the lipid membrane Okay, here we go. Andrew Ippolito: So, by the way this, this is the fully narrated version of what I showed you earlier on, this is a seven minute video of a guy talking and teaching you about sells.
+16:53
+Andrew Ippolito: The outer leaf lifted by layer is enriched in single limits and foster title there's a surface of a cell it's the ocean of the surface of the cell.
+17:02
+Andrew Ippolito: that's this don't worry about the detail, you don't even call it liquid wraps are This is like cell biology level material, but I want you to get a feel for how things move.
+17:12
+Andrew Ippolito: Alright, so you can see that you see everything looks like it's it's bouncing around like it's water right so those and you can see in this picture there's a couple of.
+17:22
+Andrew Ippolito: glycol limpets right you see the little things sticking out those little spiky things those those are glee club is okay here, right here, this is the part that I still the screenshot from this slide.
+17:31
+Andrew Ippolito: What I want you to do is I want you to look at the Cross section here and notice that, in the you know the.
+17:37
+Andrew Ippolito: Both sides of the screen you'll notice that the memory looks a little more chaotic and then in the middle of the screen you'll see.
+17:44
+Andrew Ippolito: This they call it the lipid raft you'll notice that the fossil liquids are kind of rigid in there that's what cholesterol does.
+17:52
+Andrew Ippolito: You see, that so they're either moving a lot in there fluidity or the clusters in the middle and they're just not able to move as much Okay, so it makes it more like a gel.
+18:00
+Andrew Ippolito: Okay, and then you can see, this chemo kinda it's a protein the idea it's moving okay.
+18:06
+Andrew Ippolito: And so, this is how so actually what you're seeing here is a cell way up on the surface, the ceiling of this picture is another cell, this is a cell to cell communication.
+18:15
+Andrew Ippolito: Okay, and so now we're inside the cell we're looking up. Andrew Ippolito: Okay notice there's no glycoproteins there's never any glycoproteins underneath the cell and there's a trans membrane protein, you can see the spans going across the membrane that's a peripheral protein, you can see it's just stuck in there, a little bit.
+18:30
+Andrew Ippolito: Okay, so feel free to watch this movie on your own the link of it is on the slide Let me share my screen again differently.
+18:43
+Andrew Ippolito: Right so go ahead click on the link down here and watch this movie on your own.
+18:48
+Andrew Ippolito: You know, or you know search around Google or YouTube and see if you can.
+18:54
+Angela Harbeck: find any other cool movies, like that so where the cholesterol is that's.
+19:01
+Angela Harbeck: Again, where the cholesterol is that's high concentration. Andrew Ippolito: yeah yeah yeah the high kind of implied here is of cholesterol.
+19:13
+Andrew Ippolito: And you could see them if you look carefully these little dark things in there, those are little bowser cluster all sitting in the memory.
+19:25
+Okay. Andrew Ippolito: alright. Andrew Ippolito: Alright, so we're going to go through a brief little whirlwind tour of the different jobs these integral proteins have.
+19:37
+Andrew Ippolito: All right, you know we talked about most of this already i'm going to skip the slide this this come back to this slide for your review when you want to study this stuff Okay, this gives you everything a little bit.
+19:48
+Andrew Ippolito: And these are just I tried to show you just different ways of viewing these things, so you could just look through all this all right here we go we've already talked about these a bit channel proteins, these are proteins that let things come into the cell.
+20:02
+Andrew Ippolito: That otherwise can't. Andrew Ippolito: An example would be the chloride transporter.
+20:10
+Andrew Ippolito: Which is mutated in a disease called cystic fibrosis people that suffer from cystic fibrosis can't make.
+20:18
+Andrew Ippolito: mucus in their respiratory tract it's properly, they can make it it's just terrible it's really, really, really, really thick.
+20:27
+Andrew Ippolito: And that beats all sorts of problems and we'll talk more about that way to genetics i'll teach you the genetics of cystic fibrosis later, too, so this is the functional consequence of it.
+20:36
+Andrew Ippolito: Okay, so remember chloride is normally negatively charged and remember that things that are charged can't get in and so we put this channel protein here that allows the chloride to transfer to go across okay so channels are simple, there are a whole.
+20:54
+Andrew Ippolito: carrier proteins are moving parts and they allow bigger things like glucose molecules are small proteins.
+21:02
+Andrew Ippolito: Okay. Andrew Ippolito: So channels and carriers.
+21:09
+Andrew Ippolito: Some carriers can be pumps. Andrew Ippolito: Okay, so pumps would require energy.
+21:20
+Andrew Ippolito: we'll talk more about that later. Andrew Ippolito: you're just more pictures channel proteins.
+21:26
+Andrew Ippolito: Alright, so that's that the next layer or the next level the next type the next type of protein in the membrane is called a cell recognition protein think of these like your ID badge.
+21:40
+Andrew Ippolito: If a cell from your immune system demands to see your papers and looks at your surface of your cell and it's not what it's supposed to be that cell will get targeted for destruction.
+21:55
+Andrew Ippolito: This is the basis of immunity. Andrew Ippolito: Okay, and the class most classic example of a cell recognition protein is called mhc, this is not one protein, this is actually a family of proteins it stands for major.
+22:10
+Andrew Ippolito: Major because there are minor players to So this is the major one, he has his sto compatibility of the ages histone this year's compatibility so histone come come pat to.
+22:26
+Andrew Ippolito: ability history histology the study of tissues okay so histocompatibility is tissue compatibility, in other words, these are the proteins that are responsible for whether or not a tissue graft from one organism to another rate so.
+22:47
+Andrew Ippolito: or any any tissue so a kidney transplant or a heart transplant lung transplant right the donor has to have similar enough compatibility to not be rejected.
+23:00
+Andrew Ippolito: This is the basis of that rejection. Alexa Deprisco: Okay, excuse me, yes.
+23:07
+Alexa Deprisco: So, like. Alexa Deprisco: Would there be a possible no idea that like if you were to have a skin graft but it's like from your own body that like your body would reject it.
+23:19
+Andrew Ippolito: No, no that's a great question. So. Andrew Ippolito: there's different kinds of graphs there's their self graphs there's graphs from one individual to another and then there's grass from one species to another.
+23:31
+Andrew Ippolito: xena grabs yeah that those don't work, as you can imagine, but except for just the there's words for these things right, I forgot the term, and this is all anatomy physiology stuff but um the.
+23:44
+Andrew Ippolito: graphs from one part of your body to another part of your body is totally fine, but I know my operation Okay, so I had my right ear.
+23:51
+Andrew Ippolito: They went behind it and they did this incision and they folded my earphone word to get to my ear canal and.
+23:58
+Andrew Ippolito: yeah they had to do a step and that to me they tried to fix my Daddy are and they said they killed in that's another story for another time, and this is back when I was 18 i'm over it.
+24:08
+Andrew Ippolito: But um well one thing they had to do was they had to re reattach my arm.
+24:14
+Andrew Ippolito: My eardrum, and so what they do is they went down here into the neck, and they made another incision they pulled a little bit of fat tissue out.
+24:22
+Andrew Ippolito: And they use that essentially as glue to keep the eardrum closed, while it was healing right so that's that's the idea of like and then that's very common and most surgeries they'll take a little bit of tissue from another part of the body to help with the other part of the body okay.
+24:38
+Andrew Ippolito: Yes, and that's totally fine in terms of rejection nice you don't reject yourself so you're the best match possible would be a twin So if you have an identical twin keep them handy.
+24:51
+Andrew Ippolito: You never know where you're going to need a tissue okay.
+24:57
+Andrew Ippolito: And there's a whole world there to have cloning right so there's this idea of taking an animal that has been genetically modified to not have an immune system.
+25:06
+Andrew Ippolito: they're called skid animals see severe combined immunodeficiency there's that's the name of the disease in humans.
+25:14
+Andrew Ippolito: Right, where you have to live in an isolated Chamber your whole life because you have no immune system and that's actually we can cure that now, with stem.
+25:21
+Andrew Ippolito: Stem cells there things we'll talk about the end of the Semester. Andrew Ippolito: But you could take a skit animal and then you can put your stuff in there and then grow, you know they said, take a skid pig and grow a heart in there.
+25:33
+Andrew Ippolito: And then now you have a heart that's not going to be rejected, this is the kind of stuff they're working on right now, but they haven't often they haven't perfected, all this, but i'm.
+25:43
+Andrew Ippolito: Particularly deliver would probably be more a better idea for that, like the pig heart, I don't think in supporting human is just too small, I don't know unless it's a really big pig I don't know I don't know.
+25:56
+Andrew Ippolito: Okay we're talking. Andrew Ippolito: Like who cares we talked about this already skip that like oscillation we talked about that all right, the classic example of when this plays a role is in the blood system, the blood typing system so i'll teach you how this works roughly.
+26:11
+Andrew Ippolito: we're going to tell you what i'm just going to teach you the very basic this will revisit this one, would you genetics okay well we'll really learn this in genetics so for now i'm just going to tell you that the blood type, you have a or B.
+26:21
+Andrew Ippolito: plus or minus has to do with cell recognition proteins associated with the membranes of red blood cells.
+26:29
+Andrew Ippolito: Okay, and so there's a protein and that protein comes in two types two flavors right a or B.
+26:37
+Andrew Ippolito: And you get one from your mom and your dad. Andrew Ippolito: right if you get if both parents give you an A you're a type it both need to be your be type if long gives you they won't give you a beer one gives you gives you know you're a B type and then there's also a mutation that breaks the gene that doesn't give you any protein.
+26:56
+Andrew Ippolito: And so, if you have if both of your parents give you a broken gene thanks mom thanks for nothing, then you have oh type blood.
+27:08
+Andrew Ippolito: Okay, so oh type blood is a mutated gene that leads to a non functional protein.
+27:14
+Andrew Ippolito: Okay, so so if your mom gives you a and your dad gives you broken that's still a type blood that's the complexity here.
+27:21
+Andrew Ippolito: You get two genes once broken ones good your blood type is, whatever the good one, is that right that picture to faucets in the same as long as ones on you have something there.
+27:31
+Andrew Ippolito: Okay, as for the plus or minus that's a separate gene is a separate protein, and you know, have a year don't that's called the memory you pay her this the rh factor.
+27:41
+Andrew Ippolito: Okay, so you're either rh positive or your rh minus negative. Andrew Ippolito: And so you can be oh type with an rh positive rotate within our reach minus and that leads to all the different blood types o o positive or negative HIV positive baby negative blah blah blah.
+27:55
+Andrew Ippolito: Okay, and so it makes sense right if you get if you so i'm be on be positive Okay, so I have B plus blood not so bad right, it could be better B pluses okay right.
+28:07
+Andrew Ippolito: I don't have a type blood right so and then you get to a plus type of those are the best right now, this i'm just being ridiculous right now, but so be positive.
+28:18
+Andrew Ippolito: right if you saw my immune system knows be positive it knows the be protein and it knows the rh protein which means I can receive any blood that has.
+28:30
+Andrew Ippolito: Either nothing oh type I can go anywhere there's just nothing there to bother you about right, I can get be blood, but it has to be positive.
+28:38
+Andrew Ippolito: I can't get a blood and I can't get negative right, I suppose you can get negative, you can give positive if you're rh negative, this is where the problem that we're pregnancy if you're a woman that has rh negative.
+28:51
+Andrew Ippolito: And you marry, a man that's rh positive and the fetus developing inside you is rh positive that's a problem because your immune system has no idea what it's looking at and it might attack it.
+29:05
+Andrew Ippolito: So your first pregnancy kid number one will be fine because your immune system is just getting to know this thing to attack it kid number two is when you're going to start having problems, and so what you do is you inject the mom with the antigen.
+29:21
+Andrew Ippolito: The Orange the rh factor, basically, and you train immune system it's kind of like an allergy you train the immune system to not worry about it.
+29:31
+Andrew Ippolito: Okay, so if you've ever heard about these issues in pregnancy that's that's the fundamental basis for it and i've already spent too much time talking about this will focus more on this one, would you genetics i'll teach you more about that later okay.
+29:42
+Andrew Ippolito: So carriers and channels cell recognition receptors.
+29:49
+Andrew Ippolito: receptor proteins are. Andrew Ippolito: essential for communicating between cells.
+30:00
+Andrew Ippolito: And that's that's the basis of it really receptors have a specific.
+30:07
+Andrew Ippolito: substance they bind to and we call that thing the like.
+30:14
+Andrew Ippolito: Just like enzymes have substrates receptors have like. Andrew Ippolito: And that, like it could be any of a number of classes of thing, so you can have proteins, you can have peptides you can have.
+30:29
+Andrew Ippolito: steroids lipids are so there's different kinds of you not to know any of this just understand receptors are things that bind to a login or a ligand and it causes something to happen.
+30:43
+Andrew Ippolito: The key here, and this is going to be a motif we talked about all semester now proteins when they interact with something can change shape.
+30:52
+Andrew Ippolito: Okay, so think of it like it acted by take my hand for 740 so I have to confirmations the word confirmation here.
+30:59
+Andrew Ippolito: con for mission we touched on that, when we do proteins earlier my hands are protein and it's got to confirmations the closed and the open closed open.
+31:08
+Andrew Ippolito: right if I take something and I bind it to the closed version of it that opens it and when it falls off it closes it again okay so week so receptors.
+31:18
+Andrew Ippolito: are an example of something that when it binds to a login it will change its shape and that changing shape will have consequences it'll change what it can interact with, and it will affect downstream events okay.
+31:30
+Andrew Ippolito: So when we do chapter 11 we'll talk about how these kinds of pathways work.
+31:37
+Andrew Ippolito: Setting the stage for that Okay, so this this actually we're going to talk about this in Chapter 11 is called signal transduction, the idea is very simple, if this is the cells membrane here is the receptor.
+31:52
+Andrew Ippolito: here's The thing that binds to the receptor the ligand when the ligand binds to the receptor.
+31:58
+Andrew Ippolito: When the League in bonds, so the receptor that causes downstream consequences that can ultimately result in some let's just call it an affect your response.
+32:16
+Andrew Ippolito: Maybe a gene just got turned on as a consequence, maybe I started breaking down some glycogen as a consequence.
+32:25
+Andrew Ippolito: Okay, so that's the idea of signal transduction it starts with the receptor interacting with the link.
+32:33
+Andrew Ippolito: Okay, and the ligand in this case would be classified as what's called a signaling molecule.
+32:39
+or signal molecule. Andrew Ippolito: Okay, so ligand is the generic signaling molecules would be involved for signal transduction.
+32:54
+Andrew Ippolito: And there you go just the same people that brought you the inner life of the cell this, this is the name of the company ex vivo if you go to the website, you see all sorts of cool stuff.
+33:05
+Andrew Ippolito: alright. Andrew Ippolito: This one is i'm just going to say some integral membrane proteins are enzymes and we've already learned a little bit of enzymes and we'll learn more about enzymes later, I want to gloss over that.
+33:17
+Andrew Ippolito: And then some proteins allow cells to adhere to each other they're called appropriately cell adhesion molecules are cams.
+33:32
+Andrew Ippolito: April, you have something on your shoulder. Is that a kitten.
+33:38
+April Neeld: gets a fair. Andrew Ippolito: Oh. Andrew Ippolito: Oh, my God. Andrew Ippolito: I wanted a fair my whole life.
+33:44
+Andrew Ippolito: That when I was a kid That was a pet I. Jordan Russell: wanted oh nice okay April i'm in love. Andrew Ippolito: Oh, my God.
+33:51
+Jordan Russell: He. Jordan Russell: doesn't have a little color on. Andrew Ippolito: Taking a break and looking at.
+33:56
+Andrew Ippolito: april's fair i'm sorry if you're watching fast forward ahead. Jordan Russell: here. Andrew Ippolito: Oh, my God.
+34:02
+Andrew Ippolito: now wait, so I was totally. Andrew Ippolito: encouraged to never get a ferret because they smell really bad is that a myth.
+34:11
+April Neeld: They smell but it's like almost like a light musty smell not.
+34:17
+Something. Andrew Ippolito: it's not terrible it's not. April Neeld: No, not at all, but he has his they have like sensex like some like skunks and they have removed them when they're born, so they could smell really bad, but they don't.
+34:30
+Andrew Ippolito: Oh, maybe that's new maybe they didn't do that back in the 80s and 90s, when I was interested oh he's so cute oh my God okay.
+34:40
+Andrew Ippolito: See I try like there's that's an animal I love like cats, I could know take them or leave.
+34:46
+April Neeld: Cat though they're pretty much like Martin katz. Andrew Ippolito: Just don't talk like that.
+34:54
+Andrew Ippolito: Okay, and I feel bad for you watching this from home because I remember I changed the setting where all you can see, is me now and the PowerPoint you can see the class anymore, so if you're in the future, watching this you just totally missed out on watching a fair bit.
+35:10
+Andrew Ippolito: And that's makes i'll make you a little sad so or your fast forwarding this right now, and you can't hear anything i'm seeing other.
+35:16
+Jordan Russell: way you see me doing this and I did okay. Now we're gonna get back to class.
+35:22
+Andrew Ippolito: Okay, so cam protein a camper so cameras the generic class right, so we got proteins within the proteins, we got integral proteins, with an integral proteins, we have cams.
+35:35
+Andrew Ippolito: And within cams there's, for example, integrations and then their specific members of the integration super family okay So these are proteins that help cells attach to either other cells or something we're going to call the extracellular matrix.
+35:54
+Andrew Ippolito: Which we'll talk about later Okay, so the outside of the cell and a multi celled organism like in your body, the world in between the tissues and the cells will talk about as being filled with proteins and sugars and water.
+36:06
+Andrew Ippolito: we're going to attach to that. alright. Andrew Ippolito: So here's here's a more realistic rendering of it all, you could see the different kinds of proteins alright so on from left to right you got the proton pump right so we're gonna see we got protons I can flow downhill here.
+36:25
+Andrew Ippolito: Each plus okay calcium channel calcium ions but only calcium ions can pass through and then there's an uncle pouring that allows water in.
+36:36
+Andrew Ippolito: Okay, and the receptor will bind to it's like and. Andrew Ippolito: Then here's some ends i'm involved in that signaling pathway.
+36:44
+Andrew Ippolito: So on the left here, you can imagine the receptor bind through it's like in that changes this thing sheep that causes this enzyme here to get activated this enzyme then gets released and goes and does something.
+36:54
+Andrew Ippolito: That would be the signal transduction pathways which again we'll talk about more detail in Chapter 11. Angela Harbeck: Wait so like so.
+37:00
+Angela Harbeck: are just floating around in our body, and then they just attach to proteins to activate them.
+37:07
+Andrew Ippolito: Sometimes, not all the time. Angela Harbeck: And then, when like a cell dies does that does that login like get off of.
+37:13
+Angela Harbeck: That. Andrew Ippolito: hold on you just broke up little hold on, let me click on zoom sometimes that that fixes it.
+37:19
+Andrew Ippolito: All right, good. Angela Harbeck: Like what a cell dies is that login like break off of that and then go to somewhere else.
+37:26
+Andrew Ippolito: Oh, oh that's a very interesting question yet yes when cells die there's different kinds of cell death we'll talk about that later too and.
+37:38
+Andrew Ippolito: Sometimes when cells die, they will release things to the environment, and that was released so, for example, one back there bacterial cells gram negative bacteria have.
+37:48
+Andrew Ippolito: A protein called lipo poly saccharine and then, when those cells die they'll release that into the environment and that's actually an endo toxin that's what gives you the fever and not makes you feel so good so yeah yeah great question.
+38:02
+Julia Lakchin: So in that picture what what's the ligand is that the thing in the middle between the purple things.
+38:09
+Andrew Ippolito: ask that question again oh yes yeah the yellow. Andrew Ippolito: The yellow is. The.
+38:14
+Andrew Ippolito: Details of the phosphor limits this this part. Julia Lakchin: So that's the ligand.
+38:21
+Andrew Ippolito: No, no, no, no, no, no i'm sorry there you don't see the link in here there's no yeah I have that's why I had to draw that all there so there's the login okay.
+38:33
+Andrew Ippolito: You know what actually. Andrew Ippolito: I want to say, like. Andrew Ippolito: there's a like that looks like this looks like the binding groove right in there, so that's that's where they're receptor we're buying something.
+38:44
+Andrew Ippolito: That make more sense alexa good. Alexa Deprisco: The ligand would be then like that picture, where it was like the purple me class but.
+38:52
+Andrew Ippolito: Now okay now I can hear you now know it's just it's for some so there's a bug with the bluetooth hearing aid in zoom spit specific to zoom and other people have this problem to when they have a bluetooth headset and zoom they just lose connection for no reason.
+39:06
+Andrew Ippolito: And it's just really so what i've learned in my walk when it happens, I find if I click on zoom so like it brings it to the attention of windows like zoom is the main program now, instead of PowerPoint then it works so anyway so glad I can hear you now.
+39:19
+Alexa Deprisco: Okay, so that picture from the textbook. Alexa Deprisco: Like. Andrew Ippolito: Oh no oh my God i'm gonna bring my dongle over here all right try again try again.
+39:29
+Alexa Deprisco: Okay, can you hear me. Alexa Deprisco: Yes, Okay, so the picture from the book, like the purple protein that was sitting on top of the membrane the ligand would be that little like when that little orange.
+39:41
+Andrew Ippolito: Yes, yes. Andrew Ippolito: that's the ligand. Alexa Deprisco: Okay yeah you're welcome.
+39:48
+Andrew Ippolito: So he's a triangle. Andrew Ippolito: I don't know why, even here there's a triangle here.
+39:54
+Andrew Ippolito: Okay, so this now this picture has a couple extra things in it that your book doesn't touch on and that i'm not going to expect you to know for the test Okay, this is just some from another book and it's useful in this sense, this is like a concept map, so you got membrane proteins.
+40:12
+Andrew Ippolito: And if they're classified by positioning like where are they you have integral proteins versus peripheral proteins okay.
+40:21
+Andrew Ippolito: If you classify them by what they do, but their function, then you have your receptor proteins your carrier proteins.
+40:29
+Andrew Ippolito: This picture calls it anchoring proteins, we talked about the cell adhesion molecules recognition proteins enzymes and then channel proteins.
+40:41
+Andrew Ippolito: You don't need to know the differences between gated and elite channels for this class, if you take anatomy physiology or a cell biology class you'd go on and learn the different kinds there OK, now the one the one thing I do want you to know it's not in any of this is.
+41:02
+here. Andrew Ippolito: Here is a carrier protein Okay, sometimes.
+41:11
+Andrew Ippolito: Some of these will work by bringing one thing in, and one thing out.
+41:19
+Andrew Ippolito: And that's their job and so these are called. Anti port.
+41:26
+Andrew Ippolito: Sometimes the carrier protein will bring one thing in and a separate thing in at the same time, this will be called simple.
+41:40
+Andrew Ippolito: Okay, this makes in this is intuitive it's just a new level of detail right so some carrier proteins will just bring one thing I forgot maybe it's called monitor port.
+41:51
+Andrew Ippolito: I think that might be the phrase, but I could be wrong right just one thing mana so let's for our purposes just called monique port I don't know if that's right or not.
+42:00
+Andrew Ippolito: You maybe it's a unique port I don't know but it's one thing that's the straightforward one sometimes they'll bring one thing and one thing out.
+42:08
+Andrew Ippolito: Okay, not only one of them, but they'll bring something in in something out at the same time anti port they're going against each other, like opposing traffic and then other times they'll bring one thing in along with another like so think about like piggyback simple.
+42:24
+Andrew Ippolito: Okay. Andrew Ippolito: Any questions on that. Okay.
+42:31
+Andrew Ippolito: Now we get to one this is fun I like teaching this stuff this is this lets you start understanding like you'll walk out of the room today, like everything looks different now because you're going to start seeing things in your mind that.
+42:43
+Andrew Ippolito: kind of like learning how the inside of the inside of a trees anatomy isn't going outside in the forest and like you can see any of that.
+42:51
+Andrew Ippolito: So if you listen to me, and you follow, along with what I say i'm going to build up to us Moses and Moses, is going to make perfect sense to you the first time okay and i'll tell you what i'll use.
+43:06
+Andrew Ippolito: i'll use the whiteboard right now to go through this once.
+43:12
+Andrew Ippolito: This is the order of operations. Andrew Ippolito: So the the category we're learning right here is molecular movement.
+43:26
+Andrew Ippolito: And you're going to learn this as a spectrum of increasingly stringent conditions to observe, whatever the thing is.
+43:34
+Andrew Ippolito: In other words, you can't see us Moses, without X y&z also being in place, you can observe diffusion without this thing being in place etc Okay, so the first one is called Brownian.
+43:47
+motion.
+43:52
+Andrew Ippolito: The requirements for Brownian motion. Andrew Ippolito: Is you have some kind of molecules.
+44:04
+Andrew Ippolito: free to move around.
+44:09
+Andrew Ippolito: Okay, so not a solid liquids and gases.
+44:16
+Andrew Ippolito: So you can imagine, I have these little dots correspond to some kinds of molecules and literally they could be anything air molecules water molecules sugar molecules doesn't matter.
+44:29
+Andrew Ippolito: cells, I don't know doesn't matter. Andrew Ippolito: Remember i've been hitting you over the head with this all semester everything's always moving with its own internal energy right and so everything's doing this everything's always juggling.
+44:46
+Andrew Ippolito: and Andrew Ippolito: that's Brownian motion.
+44:51
+Andrew Ippolito: Okay it's it's driven its its internal energy.
+44:59
+Andrew Ippolito: Of the substance.
+45:07
+Andrew Ippolito: Okay, so if this is a gas molecule. Andrew Ippolito: This gas molecule.
+45:14
+Andrew Ippolito: will have some trajectory it'll move in some direction and that's completely random.
+45:22
+Andrew Ippolito: Okay.
+45:27
+Andrew Ippolito: Now, if I take a substance. Andrew Ippolito: let's say that I have let's just let's say I have this arbitrary chamber.
+45:37
+Okay. Andrew Ippolito: So So the first thing is just imagine that I had a random collection of molecules moving around in this Chamber.
+45:46
+Andrew Ippolito: Like so. Andrew Ippolito: Right, so in this state here, these are all jiggling around.
+45:56
+Andrew Ippolito: everything's evenly spread out right, so this this system here let's call this a system here.
+46:04
+Andrew Ippolito: That collection of molecules. Andrew Ippolito: is at a dynamic equilibrium.
+46:14
+Andrew Ippolito: equilibrium is a state, a system reaches where the temperature the pressure.
+46:23
+Andrew Ippolito: And the concentration of whatever in there are all evenly distributed.
+46:31
+Homogenous. Andrew Ippolito: In other words, if I took a sample temperature of any point in that system, it would be exactly the same.
+46:39
+Andrew Ippolito: If I took a sampling of the concentration of the substance, it would be exactly the same, and if I measure the pressure and any point to be exactly the same that's a state of equilibrium I call the dynamic equilibrium, because these molecules are freedom of around.
+46:54
+Andrew Ippolito: Okay, the opposite of dynamic equilibrium which we're not seeing here would be static equilibrium.
+47:02
+Andrew Ippolito: You can imagine. Andrew Ippolito: A classroom classroom of people sitting evenly distributed and not moving static okay.
+47:15
+Andrew Ippolito: All right, well we're going to do now is we're going to ask some energy to the system in a particular kind of way imagine, I had a plunger and I was able to compress that let's call this a guess, I was able to compress that gas so that I had a whole bunch of it now.
+47:36
+Andrew Ippolito: Here down at the bottom here. Andrew Ippolito: And of course it's a gas so some of its going to also be up here.
+47:45
+Andrew Ippolito: Right, but I have a high so now now, you can see, I have a there's a constant This is called a concentration gradient.
+47:56
+Andrew Ippolito: Right i'm going from high here. Andrew Ippolito: too low up here.
+48:06
+Andrew Ippolito: To establish a concentration gradient. Andrew Ippolito: You need to put energy in.
+48:22
+Andrew Ippolito: Energy is required to establish a concentration gradient.
+48:28
+Andrew Ippolito: Now, what I want you to do is I want you to apply the concept of Brownian motion to the system, and you tell me what do you think is going to happen.
+48:42
+What do you think.
+48:48
+Zachary Lucas: will be like the fusion where it goes from the high concentration low concentration. Andrew Ippolito: Why, yes, you are spot on why would that happen.
+49:03
+Taylor Campbell: To establish equilibrium. Taylor Campbell: That would. Andrew Ippolito: That is a.
+49:08
+Andrew Ippolito: Okay, so so that thought process what you just did there Taylor.
+49:14
+Andrew Ippolito: you're what you're doing there imagine you're you're giving this the system this mindless system purpose like it's going to do this thing, but you just described as a consequence of of it it's going to.
+49:29
+Andrew Ippolito: Establish equilibrium Okay, so when I say why I don't mean why why so, so why would the molecules move from high to low concentration like what's the mechanism here.
+49:45
+Andrew Ippolito: play the game in your head to imagine, these are little marbles moving around.
+49:50
+Andrew Ippolito: Okay, you put a whole bunch of them together at first, because you compress them you put some energy into get them tight together.
+49:57
+Andrew Ippolito: Okay, imagine this imagine we were in the classroom and I had everybody stand up move to the Center of the room.
+50:02
+Andrew Ippolito: And I put a little chain link fence around you all, and so you're all standing really close together uncomfortably but your shoulder to shoulder you're just in a little pen tighten up and then suddenly I was able to drop the the chain link fence, what would you immediately do.
+50:19
+Angela Harbeck: move around. Taylor Campbell: yeah get out. Andrew Ippolito: You would spread out right. Andrew Ippolito: Is the everybody give yourself some elbow room.
+50:27
+Andrew Ippolito: So Julia said because they want to move so yeah so just like what Taylor said right you're you're you're giving the molecules of mind you're anthropomorphizing them I think that's the word right they want to move more freely.
+50:43
+Andrew Ippolito: Okay, they are able to already do that right. Andrew Ippolito: nobody's constraining their emotion in this case we've just shoved them closer together and remember they're always bopping around and so get this.
+50:56
+Andrew Ippolito: To have those molecules when they hit each other what are they going to do remember basic Newton from third grade what happens when two things hit each other.
+51:08
+Andrew Ippolito: don't they bounce off yeah. Angela Harbeck: right they. Andrew Ippolito: Think of if you ever played a game of pool when the balls hit each other, they go in equal and opposite directions right.
+51:19
+Andrew Ippolito: So if you miss all this together, and then you just let go all by themselves they're just gonna punch each other and punch each other and punch each other and they're going to spread out okay that right there that's diffusion.
+51:38
+Andrew Ippolito: diffusion is that movement. Andrew Ippolito: from high to low.
+51:45
+Andrew Ippolito: Okay, so it's not that they want to move from high to low it's not that they want to achieve equilibrium Okay, so what I want you to start to do as you study science is start looking at the underlying mechanisms hiding behind what you see.
+52:03
+Andrew Ippolito: And you'll because when you get the mechanisms you'll be able to predict things that might not be obvious anymore.
+52:13
+Andrew Ippolito: Wait so okay so so in order to observe diffusion what do we need.
+52:19
+Angela Harbeck: What are the requirements of diffusion now. Andrew Ippolito: Now that you understand this. Andrew Ippolito: In order to observe the process of diffusion in a system, what must that system have in terms of its characteristics.
+52:33
+Sami Jordan: Energy. Sammy. Sami Jordan: said energy.
+52:46
+Sami Jordan: we're gonna say energy. Andrew Ippolito: Energy yeah Okay, so we got to put energy into the system in order to establish the.
+52:53
+Sami Jordan: Concentration gradient. Andrew Ippolito: Right so so really technically the criteria, there is. Sami Jordan: Concentration gradient.
+52:59
+Andrew Ippolito: Right in order to get to the concentration gradient you need energy. Andrew Ippolito: Okay, not just sending energy right sometimes energy to make things heat up right, so we we it's not all energy is used in the same way, we can do different kinds of work.
+53:11
+Andrew Ippolito: So in this case the work is I guess we'll call compression we're going to push everything together okay What else do we need.
+53:24
+Sami Jordan: equilibrium. Sami Jordan: So. Andrew Ippolito: equilibrium is what we're.
+53:29
+Sami Jordan: going to achieve at the. Andrew Ippolito: End of it right so. Andrew Ippolito: Again let's say I show you a picture i'm like hey i'll show you a little movie.
+53:36
+Andrew Ippolito: here's a movie of diffusion Okay, we need a concentration gradient and we, I mean really, this is not that intuitive we need temperature, we need them to be able to move around and that's it.
+53:50
+Andrew Ippolito: OK, so the key here is diffusion itself is energy independent it will happen spontaneously.
+54:05
+Andrew Ippolito: Yes, you needed energy to get to the point where you have the concentration cream. Andrew Ippolito: But now that you have that concentration gradient you can do some work with it.
+54:17
+Andrew Ippolito: The movements, going to be spontaneous you're not going to need to put energy into the system to observe diffusion diffusion of is a passive process.
+54:30
+Andrew Ippolito: that's another way to describe it. Okay.
+54:35
+Andrew Ippolito: It just take a glass of water and drop a single a single drop of food coloring into it.
+54:42
+Andrew Ippolito: And just watch it. Andrew Ippolito: that's diffusion.
+54:47
+Andrew Ippolito: Okay, if you're looking at the water itself. Andrew Ippolito: that's not the fusion right why isn't it why, if i'm just looking at it like how come why isn't this diffusion.
+55:03
+Andrew Ippolito: Because it's not up at the top one Angela low concentration.
+55:08
+Angela Harbeck: it's just staying at the same. Andrew Ippolito: You talking because I can't hear you I see your see your yellow highlight there so so you don't need energy for diffusion you only need temperature.
+55:21
+Andrew Ippolito: yeah. Andrew Ippolito: yeah and let's let you know what let's just say. Andrew Ippolito: The the The system needs to be able to move it can't be frozen.
+55:29
+Andrew Ippolito: Right, so there needs to be oh how about this, this is the best way to say it Brownian motion.
+55:36
+Andrew Ippolito: Right so so as we learn these things. Andrew Ippolito: Right, so we learned two things so far right, we learned Brownian motion and we learned diffusion and we're going to learn the next one, so each one of these requires the other thing to be present.
+55:51
+Andrew Ippolito: So we're building on top of it so in order to observe Brownian motion you just need stuff there.
+55:57
+Andrew Ippolito: As long as it can move in order to observe diffusion you need the concentration gradient and Brownian motion.
+56:06
+Andrew Ippolito: Okay, good. Andrew Ippolito: And now we get to us Moses.
+56:14
+Andrew Ippolito: And so i'll start by saying all osmosis is is it's the diffusion.
+56:21
+Andrew Ippolito: of water. Andrew Ippolito: So, when you say it like that you're like oh that makes sense.
+56:27
+Andrew Ippolito: you're just what it's just water moving down with concentration gradient ah, but there's a catch or, of course, there is otherwise this wouldn't be so hard to understand.
+56:37
+Andrew Ippolito: Okay So here we have that same exact. Andrew Ippolito: system here.
+56:43
+Andrew Ippolito: OK now i'm going to so here the requirements, this is a little more strict now it's not just having a concentration gradient i'm going to separate this thing into two chambers.
+56:53
+Andrew Ippolito: The Chamber eight and Chamber be. Andrew Ippolito: And it's separated by a selectively permeable membrane.
+57:08
+Andrew Ippolito: Alright, so right off the BAT. Andrew Ippolito: US Moses requires two isolated.
+57:17
+Andrew Ippolito: region. Andrew Ippolito: separated by a membrane that is selectively permeable and the key is that a water molecule is freely able to move.
+57:30
+Andrew Ippolito: across that membrane. Andrew Ippolito: But a solid particle.
+57:40
+Andrew Ippolito: cannot.
+57:52
+Andrew Ippolito: Furthermore. Andrew Ippolito: We have to have so therefore Therefore, we need both a solid solvent.
+58:03
+Andrew Ippolito: and Andrew Ippolito: A solid so, in other words, we need what's this called again when you have those two things together.
+58:13
+Zachary Lucas: Listen, you should.
+58:20
+Andrew Ippolito: Start randomly calling on people oh God don't do that don't do that. April Neeld: Can you hear us.
+58:28
+April Neeld: Hello. Andrew Ippolito: I tried to get people panic attacks during class, I know that some people.
+58:34
+Victoria Bloemker: Just don't like getting oh. Andrew Ippolito: Oh you're talking. yeah.
+58:39
+Andrew Ippolito: I wish there were something, let me, let me just check my windows sound settings really quick there might be.
+58:48
+Something now.
+58:53
+Show disabled, let me a high disabled device, let me disable this thing here disable and then I hate disabling us bombing try.
+59:06
+Andrew Ippolito: This evil okay say something.
+59:14
+Andrew Ippolito: That might have fixed it okay alright so did somebody say out loud solution.
+59:20
+Andrew Ippolito: yeah who who said it out of curiosity.
+59:26
+Andrew Ippolito: admitted that they got it right. Andrew Ippolito: Julie, I guess, because you wrote it there too.
+59:33
+Andrew Ippolito: or no, can I not hear you again did it just do it again. Julia Lakchin: Someone said it first, but then I realized that you couldn't hear them, so I just wrote it out, thank you okay.
+59:43
+Andrew Ippolito: All right, well let's let's show here i'm gonna go over to the whiteboard right now okay so so um so let's see April say something.
+59:54
+Andrew Ippolito: hello, I can hear you all right. April Neeld: where's your fair. April Neeld: he's in the cage because he was scratching.
+1:00:02
+Andrew Ippolito: alright. Andrew Ippolito: Alright, so you guys get this right, we need a solution and and really technically technically, we need to solutions right solution and solution we.
+1:00:13
+Andrew Ippolito: see that Okay, so let me, let me redraw this now, in a way, where we can play the game, instead of just setting up the rules.
+1:00:24
+Andrew Ippolito: Alright, so on the bottom of this Chamber i'm going to put.
+1:00:30
+Andrew Ippolito: a bunch of the saw your particles, you know what is that saw you it doesn't matter all that matters is that it can interact with water, it is hydro felt like.
+1:00:42
+Andrew Ippolito: Right, so these aren't small rocks not a solution.
+1:00:49
+Andrew Ippolito: Okay, so I want you to think now what's water gonna do.
+1:00:55
+Andrew Ippolito: On the bottom there again let's separate let's call this A and B so in be in Chamber be.
+1:01:01
+Andrew Ippolito: I want you to picture the little water molecules that are bopping around in here some of those water molecules are necessarily going to be interacting with those saw your particles picture of those saw you particles as little sponges.
+1:01:18
+Andrew Ippolito: Little molecular sponges and then there's water molecules in between them that aren't bound okay so here's the key here's, the key to us Moses there's free water.
+1:01:31
+Andrew Ippolito: And there's bound water.
+1:01:37
+Andrew Ippolito: Okay, so again both chambers are filled with water. Andrew Ippolito: The bottom Chamber in my example is also filled with a solid i'm sorry yeah a site.
+1:01:50
+Andrew Ippolito: And then push play in the game and allow things to just diffuse and what's going to happen well look at the bottom here notice that, because the solid particles are there there's less free water.
+1:02:05
+Andrew Ippolito: You would say that be. Andrew Ippolito: Has a lower concentration.
+1:02:14
+Andrew Ippolito: of free water.
+1:02:19
+Angela Harbeck: Because there's more solid you. Andrew Ippolito: Exactly the saw you particles are binding water to them until they can't hold anymore like think of think of a sponge throw a sponge in the ocean and what's going to happen to the sponge is just going to get completely saturated right so imagine being underwater with a sponge.
+1:02:42
+Andrew Ippolito: You you can't hold anymore right so so these saw your particles have grabbed what water, they can.
+1:02:50
+Andrew Ippolito: And so. Andrew Ippolito: where's the water gonna flow.
+1:02:58
+Andrew Ippolito: Okay, so think of the free water now.
+1:03:06
+Andrew Ippolito: Try to into it, this is it going to go from A to B or B to a or not, are not going to do anything.
+1:03:12
+Zachary Lucas: will go, can you. Andrew Ippolito: say again go ahead Zack. Zachary Lucas: go from A to B.
+1:03:19
+Exactly. Andrew Ippolito: Okay. Andrew Ippolito: So if you got that, for the rest of you who chimed in there.
+1:03:24
+Andrew Ippolito: Or if you just quietly said it to yourself if you imagined the water moving from A to B, you understand us Moses now.
+1:03:32
+Andrew Ippolito: Okay, so the definition Now you can adjust it's the diffusion of free water.
+1:03:42
+Andrew Ippolito: separated.
+1:03:49
+Andrew Ippolito: don't write this yet i'm making up this definition to combine it with what we just covered the definition of free water across.
+1:04:00
+Andrew Ippolito: A semi permeable membrane.
+1:04:09
+Andrew Ippolito: From and there's two ways, you can think about this, and this is why people have such a hard time with us Moses, if I talk about a solution.
+1:04:22
+Andrew Ippolito: Your first question when you think about a solution is like what is it is it salted sugar we think about the thing in the water.
+1:04:31
+Andrew Ippolito: We don't think about the water. Andrew Ippolito: If you think about the water now.
+1:04:37
+Andrew Ippolito: you're moving from regions. Andrew Ippolito: So yes, have high concentration to low concentration of free water, but then put that on a spin and now think about the Salyut it's the water moving from areas of a low concentration of solitude to a high concentration of saw you.
+1:04:58
+Andrew Ippolito: And that thinking right there is why I asked Moses is hard to think about.
+1:05:06
+Andrew Ippolito: So you can see it in two ways from high concentration of free water too low concentration, for your water that's not usually what we talked about.
+1:05:12
+Andrew Ippolito: You should we talk about solids so we would say regions of low sodium concentration a high side of concentration anyway it's going against the hell, no, no it's going downhill it's just so think of the soluble particles as little magnets pull on the water.
+1:05:29
+Andrew Ippolito: Okay now my mom went to nursing school when I went to college, we got her bachelor's degree the same year.
+1:05:37
+Andrew Ippolito: And so I remember studying this stuff at the same time she was studying this stuff it was this one of these little cross sections and space and time or education's we're learning the same topic.
+1:05:48
+Andrew Ippolito: And I think was like over Christmas break I was talking about how hard my understanding us Moses was and she said, well, they just taught us water follow salt.
+1:05:58
+Andrew Ippolito: And I remember thinking that that doesn't help us understand what us Moses is like no but it gets the job done and that's really an nurses have to get the job done right she was learning dialysis, then you just had to know like water, so you can write that down, but when in doubt water.
+1:06:13
+Andrew Ippolito: follows. salt.
+1:06:24
+Andrew Ippolito: Okay, and that's the big gist of what I wanted to get out of today.
+1:06:29
+Andrew Ippolito: Is this understanding of molecular movement.
+1:06:34
+Andrew Ippolito: Okay, so now we can play a game, now we can think freely about this stuff already I want to give you a scenario here.
+1:06:41
+Andrew Ippolito: Here is. Andrew Ippolito: A.
+1:06:48
+Andrew Ippolito: Just a cup of water. Andrew Ippolito: And I have a cell and that water it's an animal cell.
+1:06:57
+Andrew Ippolito: And this is fresh water.
+1:07:03
+Andrew Ippolito: And this is a cell. Andrew Ippolito: what's gonna happen. Andrew Ippolito: You tell me.
+1:07:13
+Andrew Ippolito: Thank you i'll tell you what don't tell me think you're everybody's writing notes right now write it down in your notebook everybody just take take 30 seconds and just ponder this problem what's gonna happen what's the fate of that so.
+1:07:28
+i'll give you a minute.
+1:07:41
+Jordan Russell: i'm sorry, could you. Andrew Ippolito: repeat the question what's the feet.
+1:07:47
+Of that cell. Andrew Ippolito: What happens to the cell.
+1:07:55
+Jordan Russell: The cell is just sitting in fresh water. Jordan Russell: Yes, okay.
+1:08:42
+Andrew Ippolito: Alright, so many give me it what's happened to that so.
+1:08:51
+Jordan Russell: um I would my hypothesis is that the sun would most likely.
+1:08:58
+Jordan Russell: Slow until it exploded. Andrew Ippolito: Data exactly right okay.
+1:09:05
+Andrew Ippolito: This is called osmotic laces.
+1:09:12
+Andrew Ippolito: And this is the feet of any cell. Andrew Ippolito: That confronts an environment that has less stuff in it than it does.
+1:09:23
+Andrew Ippolito: Alright, so what I intentionally didn't want to do is draw dots anywhere because watch this now i'm going to draw the dots to represent.
+1:09:30
+Andrew Ippolito: The conditions here right cells have more stuff and then fresh water does right there might be some stuff in Here we see fresh water fresh water alright so let's say this pond water.
+1:09:42
+Andrew Ippolito: Okay, so i'm going to teach you these words now if these are relationship words we talked about the cell versus the freshwater.
+1:09:54
+Andrew Ippolito: Okay, the inside of the cells got more stuff in it, compared to the fresh water right so we're going to see that the cell is hyper tonic and that the fresh water relative to the cell is a Hypo tonic.
+1:10:12
+Andrew Ippolito: see that. Andrew Ippolito: So, so the cells so so the layer now here you don't put your head is that water is going to flow into the hyper tonic environment.
+1:10:25
+Andrew Ippolito: And the idea here is right it's just a fusion what's the consequence of diffusion what's the end game of diffusion you guys have been saying this, a couple of times now, when diffusion goes until what.
+1:10:39
+Angela Harbeck: equilibrium. Andrew Ippolito: Exactly and that's exactly what is most as is going to do. Andrew Ippolito: The problem is, is that poor cell can't withstand the pressure of the water on the inside of it and that's why it blows up.
+1:10:54
+Andrew Ippolito: Okay, but now let's replace that sell that so let's say let's now see, this is an animal so.
+1:11:01
+Andrew Ippolito: Okay, what would happen if we put in the same environment.
+1:11:08
+Andrew Ippolito: A plant so. Andrew Ippolito: there's a plant so.
+1:11:16
+Andrew Ippolito: same question different cell Maybe you can tell me immediately what happens to that plant so.
+1:11:30
+Taylor Campbell: doesn't lose its form. Andrew Ippolito: Does it lose its form, is that we said. Taylor Campbell: doesn't it yeah what.
+1:11:36
+Andrew Ippolito: Why would it loses for. Taylor Campbell: Like I feel like that was like one of the questions that we did at least in my learning module.
+1:11:45
+Andrew Ippolito: Forget forget the questions and all that just do what I want you to do here, this one i'm trying to teach your brain to. Andrew Ippolito: Do. Andrew Ippolito: Just critically think through the game here without drawing on your past just the rules.
+1:11:54
+Andrew Ippolito: we've learned some rules apply those rules to this situation what's going to. Taylor Campbell: happen for thing.
+1:12:00
+Andrew Ippolito: Sagan. Taylor Campbell: So, then, the same thing. Andrew Ippolito: Okay, so what's the difference, you know plant and animal cell. Andrew Ippolito: what's one of the biggest differences.
+1:12:07
+So. Taylor Campbell: yeah the cell. Andrew Ippolito: The cell wall exactly, and so a plant cell cell wall is strong and it's going to prevent that license so instead what's going to happen.
+1:12:21
+Andrew Ippolito: Is the the the membrane right remember there's a membrane just underneath here that membrane is going to swell as well as well until it pushes up against the wall and then the wall is going to push back and this thing is going to now become rigid.
+1:12:37
+Andrew Ippolito: So this is actually the happy place for a cell for a plant cell, so this is the kind of pressure that's in.
+1:12:43
+here. Andrew Ippolito: Okay, so here let's let's let's read draw this self just bigger here, I want to show you this so there's the plant cell.
+1:12:50
+Remember the central vacuum. Andrew Ippolito: Okay, so here's what's happening, you can understand the Center of actual now the central vacuum, if you recall, has a bunch of stuff in it.
+1:12:59
+Andrew Ippolito: I told you that the plan cell doesn't have license homes, they just dump everything in their central vacuum, this is the build up the stuff in here as much as possible, so that this becomes hyper tonic.
+1:13:15
+Andrew Ippolito: Right, so the water rushes in here and then this causes the central vacuum to push.
+1:13:24
+Andrew Ippolito: Until it reaches so there's a pressure there and then eventually the the cell wall pushes back this is called implants trigger pressure.
+1:13:38
+Andrew Ippolito: Okay generically it is osmotic pressure.
+1:13:43
+Andrew Ippolito: In plants we refer to that as trigger pressure and a plant that is undergoing this a happy plant is called target or turgid and the property is.
+1:13:54
+rigidity. Andrew Ippolito: I why. Jordan Russell: couldn't that also kill the plan.
+1:14:01
+Jordan Russell: Because like if you over like because if you over water. Jordan Russell: Plant, you can. Andrew Ippolito: Well that's the that's.
+1:14:07
+Jordan Russell: For different reasons. Andrew Ippolito: It doesn't blow them up that dilutes their nutrients and it prevents them from.
+1:14:12
+Jordan Russell: Okay yeah well, I was thinking, I was like why didn't they just well you're saying that the cell Wall would push back on the membrane and.
+1:14:23
+Jordan Russell: And so. Andrew Ippolito: yeah as much right rate asthmatic exactly and. Andrew Ippolito: The thing is, if you just keep adding water.
+1:14:31
+Andrew Ippolito: There the equilibrium point is just fresh water versus this hyper tonic solution, so you just adding more water is not going to give you more pressure.
+1:14:39
+Andrew Ippolito: Now it's just popping or it's kind of like imagine blowing up water balloon underwater and then just tying it off right there's there's the water is not going to keep swelling until blows up.
+1:14:52
+Andrew Ippolito: Okay, so so plants like being in.
+1:14:57
+Andrew Ippolito: High photonic environments. Andrew Ippolito: Animal cells would blow up in hypersonic environments.
+1:15:04
+Okay. Andrew Ippolito: All right now now let's talk about that brandon you were breezing through something there you look a little confused, you want to definitely question.
+1:15:19
+Branden Lane: me oh. Andrew Ippolito: yeah sorry yeah lean brandon Lee. Branden Lane: yeah i'm fine i'm fine.
+1:15:25
+Andrew Ippolito: Okay, good okay okay does anybody else have any questions this is this took me a while to really get in my head when I was a student, so I imagine, some of you are still ask me questions.
+1:15:36
+Jordan Russell: So is that, like the property that allows like certain species of plants to live on the water like algae or.
+1:15:45
+Jordan Russell: Like lily pads and you know. Jordan Russell: I mean how like a question, or you can. Jordan Russell: live under the water.
+1:15:52
+Jordan Russell: So I guess that would kind of be. Andrew Ippolito: So so out. algae.
+1:15:59
+Andrew Ippolito: yeah. Jordan Russell: Well i'll say yeah whirling CV. Andrew Ippolito: yeah well no actually see.
+1:16:04
+Andrew Ippolito: You so that that brings another thing to my here so here's a third system i'm becoming too smart let's let's think of a system like this, so let's think about the ocean alright so here.
+1:16:18
+Andrew Ippolito: Imagine you have this cell and it has stuff in it and the water had the same amount of stuff in it, so this in this were the same.
+1:16:29
+Andrew Ippolito: that's called isotonic. Andrew Ippolito: Okay, so there's no net movement of the water.
+1:16:37
+Andrew Ippolito: Okay, so you have hyper tonic solutions hypersonic solutions mean there's a hyper tonic solution somewhere.
+1:16:43
+Andrew Ippolito: Okay, and then isotonic is they're the same So if you wear contact lenses and you have a little bottle of ice of sailing solution that seeming solution if you look at it carefully says isotonic.
+1:16:57
+Andrew Ippolito: it's isotonic with respect to your tears, so that when you put it in your eye it feels good.
+1:17:03
+Andrew Ippolito: Okay, have you ever got water in your eye you go out in the rain and you accidentally get some water in your IRA you're in the shower and you open your eyes your swim in the pool or the lake right so fresh water right.
+1:17:15
+Andrew Ippolito: If you've ever been in a fresh water situation you've opened your eyes what happens. Angela Harbeck: It burns.
+1:17:21
+Andrew Ippolito: It burns it. Andrew Ippolito: hurts okay why. Andrew Ippolito: here's your eyeball.
+1:17:28
+Andrew Ippolito: Your eyeballs got stuff in it. Andrew Ippolito: Okay, and so here's your eyeball underwater.
+1:17:34
+Andrew Ippolito: Which means the water going to go. Alexa Deprisco: into your I. Andrew Ippolito: Exactly until it blows up.
+1:17:41
+Andrew Ippolito: i'm just kidding your eye doesn't blow out it's more like the plan, so there are these tunics in your eye that keep it together it's not gonna.
+1:17:50
+Alexa Deprisco: I don't ever blow out. Alexa Deprisco: yeah. Andrew Ippolito: The your eyes just it just hurts you there's like a there's a pressure buildup and then So if you ever swam in the ocean.
+1:18:00
+Andrew Ippolito: And you tried to open your eyes under the ocean water that also burns. Andrew Ippolito: Right primarily for other reasons too and there's a lot of stuff in this, you know that that'll burn but, but the idea, there is that, like the water would leave your eye.
+1:18:13
+Andrew Ippolito: Until it's shovels up and falls out of your head that doesn't happen either, but the idea, there is that that gives you something to think about right so like you're just thinking about how you're I works with the freshwater it'll come in salt water, it will shrivel up.
+1:18:28
+Angela Harbeck: I have a question. Andrew Ippolito: Go ahead Angela. Angela Harbeck: So osmosis deals more with water and then diffusion is could be like anything from a low concert.
+1:18:40
+Angela Harbeck: Like. Angela Harbeck: Yes, I below. Andrew Ippolito: That is a perfect way of thinking about it.
+1:18:46
+Okay. Andrew Ippolito: And and raisa I was just kidding the that you're I would you know that you can imagine the water would come in and swell the I know your eyes not gonna burst in fresh water.
+1:19:01
+Alexa Deprisco: Now, what about something like like when people have issues with like there is pressure, I think that is that glaucoma yes.
+1:19:08
+Andrew Ippolito: And that's. Andrew Ippolito: that's not. Andrew Ippolito: Necessary you know what that There probably isn't asthmatic variable in there that i'm not familiar with right.
+1:19:16
+Andrew Ippolito: Any anytime yeah actually Of course there is any time we have fluid. Andrew Ippolito: Issues right if you have.
+1:19:22
+Andrew Ippolito: A DEMO right if you have a swelling of a joint or. Andrew Ippolito: You know if you if you had a really, really, really salty meal and you retain water that's why Okay, you can now also understand why your sweat is salty right let's just end this so we'll take a little little break here after.
+1:19:44
+Andrew Ippolito: So here's this here's the surface of your skin and hair sweat.
+1:19:50
+Andrew Ippolito: Okay, how did the water get out there, right now, you can think about this, how does sweat leave our skin, how do we get water to collect on the surface osmosis.
+1:20:01
+Andrew Ippolito: This is really, really salty and which way does the water go. Andrew Ippolito: waterfall assault that's why your sweat is salty.
+1:20:11
+Taylor Campbell: Ever question. yeah. Taylor Campbell: So, like.
+1:20:18
+Taylor Campbell: Trying to think of the right way to ask. Taylor Campbell: People drown right and they're left and the swell up.
+1:20:27
+Andrew Ippolito: Yes, that. either. Taylor Campbell: swelled or their stomach will swell they don't explode with the swell.
+1:20:35
+Andrew Ippolito: What right and that's because your skin, a strong enough to not write your skin isn't a cell membrane.
+1:20:41
+Taylor Campbell: and your eyes won't they'll still be intact, but your totals well. Andrew Ippolito: yeah everything swells because your body can no longer pump the water out.
+1:20:51
+Taylor Campbell: Okay, exactly. Andrew Ippolito: So so. Andrew Ippolito: You guys remember pair museum memory learned about the water expulsion bicycle.
+1:20:57
+Andrew Ippolito: The web, that was a cell memory so go back to your Chapter six go back to cells you learned about back fuels and there was a central vacuum and then there was a specialized back then, there was this little cell called para museum.
+1:21:13
+Andrew Ippolito: museum looks kind of like this.
+1:21:19
+Andrew Ippolito: Right and he's a ciliate he's got little silly everywhere, and he has this.
+1:21:26
+Andrew Ippolito: thing.
+1:21:32
+Andrew Ippolito: The specialized vacuum tool, called the web and water expulsion back you can you can understand this now he lives in freshwater the fresh water comes in, because of US Moses.
+1:21:45
+Andrew Ippolito: And then the water goes into here and then that thing contracts and squirts the water out.
+1:21:53
+Andrew Ippolito: that's how he mean that's how he doesn't blow up. Andrew Ippolito: And so there are drugs that you can add to the museum and culture that paralyze the water expulsion back you'll.
+1:22:06
+Andrew Ippolito: And then the cell wall eventually. Andrew Ippolito: automatically lies, if you go to YouTube and type parent museum osmotic licenses there's all sorts of videos on this.
+1:22:17
+Andrew Ippolito: Okay. Andrew Ippolito: yeah. Alexa Deprisco: backtracking of that and, like branching off what tailored side like when you.
+1:22:27
+Andrew Ippolito: Do me a favor you're. Andrew Ippolito: Closer to your microphone you're kind of tinny. Alexa Deprisco: If you it. Alexa Deprisco: Just gets hear me now yeah okay so branching off of what Taylor and suddenly you have a body and water and it swells so like hypothetically if we didn't have like our outer layer of skin and you were to like be submerged in water and like die, I guess, would you blow up.
+1:22:49
+Andrew Ippolito: Now, because if you don't have your skin then you're just connected like you have your that would expose your muscles and connective tissue and so the be all there's nothing holding in the water, it just would just leave your skin holds everything together right your skin is this.
+1:23:05
+Andrew Ippolito: Again, think of like a water balloon. Andrew Ippolito: Just underneath their skin, we have our connective tissue ever muscles, we have our bones, we have our blood vessels and nerves, and all that so So if you remove skin.
+1:23:17
+Andrew Ippolito: Then there's nothing to contain them water it'll just all diffuse that the cells, the individual cells themselves will probably start lighting, yes, like you know any cells that.
+1:23:26
+Andrew Ippolito: don't have remember and yeah the inside, would, so I went to about the bloating that happens there's all sorts of damage going on to the various organs because of that too.
+1:23:37
+Taylor Campbell: But your skin cells themselves. Andrew Ippolito: Right like how we talked about you. Andrew Ippolito: Strong character.
+1:23:43
+Taylor Campbell: And there's animal cells in water will eventually explode but if we talk about like a skin cell.
+1:23:50
+Taylor Campbell: That think about the fact that, as a. Andrew Ippolito: tissue right so are our cells don't. Taylor Campbell: exist.
+1:23:55
+Andrew Ippolito: Multiple cells right exactly. Andrew Ippolito: And there's the extracellular matrix and there's there's um there's a the slums the there's very thin membranes that basically bind everything so like, if you look at them if you ever have chicken and you go to the store to buy a piece of chicken.
+1:24:12
+Andrew Ippolito: Like like chicken breast. Andrew Ippolito: there's a very thin membrane that holds the whole thing together so so are our tissues has all those two so so the and that's what made of cells.
+1:24:24
+Andrew Ippolito: So our guys. explode. Andrew Ippolito: The probably swell.
+1:24:29
+Andrew Ippolito: You know it's not, these are not more questions that i've normally. Andrew Ippolito: Sorry it's really fun, no, no don't apologize, I think this is really.
+1:24:36
+Andrew Ippolito: fun and more didn't. Taylor Campbell: Mention dead people in like. Andrew Ippolito: it's a simple question Dr if you throw somebody in water, while they explode.
+1:24:48
+Andrew Ippolito: Honestly, so. Jordan Russell: I like I like I find that really odd, though, how like our bodies will like like would explode like you know after we swell up.
+1:24:58
+Jordan Russell: So when you're like how. Taylor Campbell: it's like. Taylor Campbell: The kind of like that, like what you were talking about with the plants in the ocean and stuff like like they hit that osmosis right.
+1:25:12
+Andrew Ippolito: But remember remember that the the plant cells.
+1:25:17
+Andrew Ippolito: there's. Andrew Ippolito: completely different tissues in a multicellular analogy. Andrew Ippolito: Right actually in testing out yeah might even multi like seaweed stuff there's there's still there's stuff beyond the cell that we are not talking about are considering here.
+1:25:30
+Andrew Ippolito: If you think of a tree right tree has got think of bark there's there's no cells there that's all like a secondary.
+1:25:37
+Andrew Ippolito: layer of stuff that we're not going to learn this semester so it's we're just learning to sell what you guys are pondering here requires an in depth understanding of multi cellular physiology that I can provide you because I don't know it well enough.
+1:25:55
+Andrew Ippolito: So. Andrew Ippolito: right but, but of course now i'm gonna have to Google all this and research it because i'm curious now.
+1:26:03
+Jordan Russell: But. Jordan Russell: I have another question okay good, because now i'm curious so like.
+1:26:10
+Jordan Russell: alone with the swelling wouldn't there be like some sort of gas build up to, or is that just.
+1:26:15
+Andrew Ippolito: To get gas always accumulates. Andrew Ippolito: In our in our tissues, I mean you know when you crack your knuckles right that cracking your knuckles you're.
+1:26:24
+Andrew Ippolito: you're producing gases. Andrew Ippolito: All the time constantly like carbon dioxide and that builds up in your various tissues and it's everything's under pressure, our bodies are under pressure because of this sealed you know, we have the sealed skin.
+1:26:37
+Andrew Ippolito: And so, when you track your knuckles you're just popping little bubbles that's what that sound is low popping bubbles.
+1:26:44
+Andrew Ippolito: it's not going to give you arthritis. Andrew Ippolito: cracking your knuckles does. Andrew Ippolito: Nothing, you can crack anything as.
+1:26:49
+Andrew Ippolito: Much as you want it's not going to give you health issues down the road, I know that some people think that and some people I remember my mom or somebody one of my parents was like don't think you're not gonna you're gonna get arthritis that's just not true.
+1:27:00
+Julia Lakchin: i've tried, explaining that to my parents multiple times because I learned it in many classes. Julia Lakchin: Like no that's not true you're gonna get arthritis i'm like you're not, though.
+1:27:09
+Julia Lakchin: We. Andrew Ippolito: I keep forgetting you're the one that's going through the education not me right. Andrew Ippolito: yeah i've had similar arguments I still remember my dad thought that the sky was blue because of the ocean that's why I give you that, like that lecture in the beginning of class Member, we talked about that that's like one of the scientific method that's, the first question.
+1:27:25
+Andrew Ippolito: Why is the sky blue. Andrew Ippolito: Because I had a conversation my dad my dad was convinced that you know, as it was during Christmas break when I first started teaching and i'm like hey dad you know why the sky is blue means like.
+1:27:36
+Andrew Ippolito: it's because it reflects the ocean right i'm like no but thanks for validating what I thought.
+1:27:45
+Andrew Ippolito: yeah. Jordan Russell: well. Jordan Russell: I was because I back in history class when we would worry about like you know the world wars and stuff under there is one battle, where, like all the all the dead soldiers their bodies would start like it's expand the swelling and then exploding.
+1:28:06
+Andrew Ippolito: that's. Jordan Russell: yeah that because. Jordan Russell: I think like it was like a mix of like the heat and just to build off of gases, or something like that.
+1:28:14
+Andrew Ippolito: that's yeah that's. Andrew Ippolito: Totally totally totally different situation has nothing to osmosis and that has to do with.
+1:28:21
+Andrew Ippolito: I mean i'm sure that there's classes and Medical School that cover this stuff I just.
+1:28:28
+Andrew Ippolito: I tend to not think about. Andrew Ippolito: Until you guys forced me to.
+1:28:33
+Andrew Ippolito: I think during that conversation with his mom now that was going on there.
+1:28:40
+Jordan. Jordan Russell: Ah i'm sorry. Andrew Ippolito: I said, an address for having conversation with his mom no.
+1:28:47
+Jordan Russell: No well my mom just finished her class and. Jordan Russell: She was like okay it's time for me to go out now.
+1:28:54
+Andrew Ippolito: And we're wrapping up to it, so if you're looking at my PowerPoint here. Andrew Ippolito: Okay, you see the slide.
+1:28:59
+Andrew Ippolito: you're going to see this in the homework, I promise you that you will have a quiz question and a test question that looks like this, so so understand how this works, the questions going to variable We ask you things about the system.
+1:29:11
+Andrew Ippolito: Alright, so this YouTube Do you know what this is the original YouTube.
+1:29:18
+Andrew Ippolito: No that's not funny i'll come on YouTube the website No, this is the original YouTube anyway.
+1:29:29
+Andrew Ippolito: yeah this YouTube. Andrew Ippolito: And it's separated by a semi permeable membrane Okay, and so one side is going to have stuff in it the other oh you're just getting it now okay good.
+1:29:42
+Andrew Ippolito: Okay, good good Those are my Those are my favorite jokes the ones that like we this way Oh, I get it YouTube okay um.
+1:29:54
+Andrew Ippolito: understand the consequences of these games. Andrew Ippolito: Right so, on the one in front of you here let's look at it on the left hand side there's less sugar than on the right hand side.
+1:30:08
+Andrew Ippolito: You see, that there's there's less green dots here, compared to here, so you would describe this side as what well how would we what would be the description of this side.
+1:30:20
+Andrew Ippolito: Compared to the side. Zachary Lucas: it's hyper tonic. Andrew Ippolito: Good good. Andrew Ippolito: So, so you would say this sides hyper time though right size hypersonic left side side.
+1:30:27
+Andrew Ippolito: Excuse me Hypo tonic. Andrew Ippolito: And so the water is going to go this way, and you see, on the other side, the water actually went up.
+1:30:39
+Andrew Ippolito: We did work that's the crazy part here we literally.
+1:30:46
+Andrew Ippolito: were able to do some work here. Andrew Ippolito: This is how plants stand up on terrestrial environments to get to the sun.
+1:30:55
+Andrew Ippolito: If you think of Moss the masses the simplest terrestrial plan they don't have a bark they don't have a secondary cell wall, so they, but they can stand up anyway from the trigger pressure.
+1:31:10
+Andrew Ippolito: Okay, so there you go that's that's us most and i'll show there's parent museum and we we usually cost the web, but this slide here talks about it as the contract tile vacuum interchangeable with Web.
+1:31:33
+Andrew Ippolito: This up so i'm trying to teach a little differently i'm not teaching my PowerPoint you use the PowerPoint to learn on your own and as a reference we've talked about all this there's nothing new here.
+1:31:43
+Andrew Ippolito: Okay, all right so intimate stop here and there's This is where coronation here, this is what happens when a red blood cell is faced with a high bow tonic and i'm sorry hyper tonic environment.
+1:31:56
+Andrew Ippolito: So if you imagine the red blood cell here.
+1:32:02
+Andrew Ippolito: In the presence of a hyper panic solution.
+1:32:10
+Andrew Ippolito: The water is going to leave. Andrew Ippolito: And so it's going to cause the cell to shrivel up a little bit, and so it looks kind of like like a reason that's called coronation.
+1:32:22
+Created so. Andrew Ippolito: i'll show you a picture here, and then a plant cell.
+1:32:28
+Andrew Ippolito: Instead of shriveling up like coronation the cell membrane will pull back against.
+1:32:38
+Andrew Ippolito: The the cell wall so that's the cells wall and that's the cell membrane.
+1:32:44
+Andrew Ippolito: If you put a plant in a hypersonic solution, what happens is.
+1:32:52
+Andrew Ippolito: The membrane literally rips away from the wall, this will kill the cell.
+1:33:00
+Andrew Ippolito: And so, this process is called pause melissa's.
+1:33:17
+Andrew Ippolito: There are times in biotechnology, when we want to take a plant and put genes into it and we have to get rid of the cell wall, I imagine, this is one of the process, they use to do that.
+1:33:33
+Okay. Andrew Ippolito: Alright, so let's want to skip ahead to look at here, this is where I want to get so here's a visual of all this.
+1:33:40
+Andrew Ippolito: And there's actually two pictures here once from your book of ones from another book, yes, you can see, the different ways, all right, but I want to have an isotonic.
+1:33:47
+Andrew Ippolito: So, in an isotonic environment that's when your red blood cells are happiest which makes sense because there's nothing to help them.
+1:33:55
+Andrew Ippolito: there's nothing to prevent them from blowing up so an ISIS so your blood is isotonic to everything right your internal body tissues are isotonic to the cells around them.
+1:34:07
+Andrew Ippolito: We take advantage of US Moses and specialized places like our kidneys, for example, and that helps us reclaimed water.
+1:34:15
+Andrew Ippolito: or long your gut to reclaim our. Andrew Ippolito: Okay, when a plants in an isotonic solution, though the cell becomes placid limp, this is what happens when you don't water your plants and they wilt.
+1:34:29
+Andrew Ippolito: Right, if you have a wilted plant and you give them water they come back pretty quickly right that's just Moses working.
+1:34:37
+Andrew Ippolito: If your salt your plant. Andrew Ippolito: it's not coming back from that.
+1:34:44
+Andrew Ippolito: You can understand why now if you salt, the land and the reason why you can't farm insulted land right so back in the old days back in like Greek warfare and stuff you read the in the ancient stories.
+1:34:57
+Andrew Ippolito: The armies will defeat the enemy, and then there are salt their land.
+1:35:02
+Andrew Ippolito: that's how you prevent any like, if you want them to never come back again and threaten you that's the way to permanently defeat your enemies to salt their land, now they can't farm.
+1:35:15
+Andrew Ippolito: you've ruined it because the salt doesn't come out of the soil easily doesn't evaporate and it's hyper tonic now and so plants can establish and grow.
+1:35:23
+Okay. alright. Andrew Ippolito: koo koo koo that's so here's the thing, even an isotonic environment cells are continually struggling to maintain their volume.
+1:35:36
+Andrew Ippolito: Sales experience a lot of leakage. Andrew Ippolito: ions like sodium chloride diffuse into the cell down their concentration gradients from her channel proteins and so without an active mechanism to counter this the cell would necessarily increase in Salyut.
+1:35:52
+Andrew Ippolito: Becoming hyper tonic and therefore exerting and asthmatic pressure on the hype atomic environment drawing in water and eventually blown up.
+1:36:02
+Andrew Ippolito: So the question now is it well why don't sell slice. Andrew Ippolito: living cells.
+1:36:08
+Andrew Ippolito: Not dead bloated bodies. Andrew Ippolito: So, think of a rowboat with a leak it's not going to sink immediately, but as long as you can bail the water over the side quicker than the boat fills you can prevent the boat from singing.
+1:36:24
+Andrew Ippolito: But if you start putting in the effort over time, the boat will sink, and so this leads us into this next section of active transport.
+1:36:31
+Andrew Ippolito: or diffusing asked Moses, or both spontaneous processes active transport requires this cell to expend energy pumping molecules against their concentration gradient.
+1:36:44
+Andrew Ippolito: And so we're going to learn here about transport by carrier proteins. Andrew Ippolito: So after transport protein has two important things it's specific.
+1:36:58
+Andrew Ippolito: And while and the obvious one, it allows things to go across the membrane that otherwise could not weather because they're charged or they're too big.
+1:37:09
+Andrew Ippolito: And so you can roughly categorize into two different types passive transport and active transport.
+1:37:17
+Andrew Ippolito: Passive transport is sometimes referred to as facilitated transport or facilitated diffusion.
+1:37:25
+Andrew Ippolito: See facilitated here, in other words it's helping its facilitation.
+1:37:31
+Andrew Ippolito: Okay, I have to transport, when you see active there you're thinking energy. You need energy.
+1:37:38
+Andrew Ippolito: Okay, so facilitated transport is basically diffusion. Andrew Ippolito: it's a passive process it doesn't require energy to work and it's just diffusion across the membrane with some help and this happens for small molecules that can't otherwise go across the memory right so ions are a common one.
+1:37:58
+Andrew Ippolito: So any of the ions we've talked about sodium potassium chlorine calcium, they all require their own carrier proteins, therefore, their own channel proteins okay.
+1:38:13
+Andrew Ippolito: Now for active transport, these are proteins that use eight generally it's ATP.
+1:38:20
+Andrew Ippolito: And they will help the cell establish and maintain concentration gradients.
+1:38:29
+Andrew Ippolito: which you could argue, is essentially what life is all about.
+1:38:35
+Andrew Ippolito: Life is all about establishing and maintaining gradients.
+1:38:43
+Andrew Ippolito: we're making the outside of the cell and the inside of the cell different.
+1:38:52
+Andrew Ippolito: And so the one example you're gonna get to know here is this sodium potassium pump.
+1:38:58
+Andrew Ippolito: We touched on this last time, a couple times we've talked about this now we're going to learn how it works, the key here is that a typical eukaryotic cell.
+1:39:07
+Andrew Ippolito: Has a net negative charge on the inside, to the net positive charge on the outside all living eukaryotic cells established this basic radium, so this is something that is found in every you carry it so one thing we share in common.
+1:39:25
+Andrew Ippolito: The pro care so eukaryotes and just for context for contrast the prokaryotes they also establish this.
+1:39:35
+Andrew Ippolito: same Gray, and the negative on the inside, but they use a proton pump.
+1:39:43
+Each plus. Andrew Ippolito: Okay, so we'll see that again when we do in the mitochondria and the chloroplasts will see proton palms will see establish ingredients of protons right so early earth was acidic.
+1:39:58
+Andrew Ippolito: Right, you can tie all this together with pH now, and so they were pumping the acids out they didn't want the the inside of the cells not acidic they don't want it to be acidic.
+1:40:07
+Andrew Ippolito: it's not an environment conducive to metabolism. Andrew Ippolito: Okay, so how does the sodium potassium pump work.
+1:40:14
+Andrew Ippolito: here's the basic idea that don't look at that look at me for a second, this is how you imagine him.
+1:40:20
+Andrew Ippolito: So this is a protein that has to shapes you can think of it like an A shape or a V shape okay so it's a pump like this.
+1:40:30
+Andrew Ippolito: Okay, and so, whatever director so think of like a funnel so if it's in this configuration the stuff is coming in from the bottom of the screen.
+1:40:38
+Andrew Ippolito: and collecting inside and if I go like this it's leaving to the top of the screen.
+1:40:44
+Andrew Ippolito: And it's also collecting things from the top of the screen Okay, so I can bring things from the down to the top from the top down.
+1:40:51
+Andrew Ippolito: And the sheep change happens with the This is where the energy comes in, to change the shape requires the energy okay that's the idea alright, so you got sodium and potassium both of them are a plus one charge.
+1:41:05
+Andrew Ippolito: Okay, so this the equivalent of like $1 bill. Andrew Ippolito: If I want to go into debt.
+1:41:13
+Andrew Ippolito: i'm going to give you more money than you give me. Andrew Ippolito: So i'm going to give you $3 and then you're going to turn around and give me $2.
+1:41:23
+Andrew Ippolito: And then i'm going to keep doing that, until i'm in debt i'm in now and negative cash flow and you're now positive, so the outside of this sells positive because it's getting more positive charges than the insides getting so it's going to be three out for two in.
+1:41:38
+Andrew Ippolito: So forget the names of sodium potassium just think about so the bottom of my screen is the inside of the cell and the top of my screen is the outside of the cell and I go like this i'm going to collect three ions here.
+1:41:50
+Andrew Ippolito: And then i'm going to do this, I will release them and now i'm going to bind to two ions and i'm going to bring them into the cell and release them three out to in three hours to in that's the that's the pump okay so let's look at a cartoony version of this now.
+1:42:08
+Andrew Ippolito: Alright, so i'll start like this and i'm going to bind 123 so here's the cell surface alright, so we we buy three of these what are these these are sodium ions.
+1:42:22
+Andrew Ippolito: The sodium want to stay in the south now. I say remember it.
+1:42:28
+Andrew Ippolito: sodium do you want to stay now i'm good. Andrew Ippolito: Right Okay, and so what we're going to do now is we're going to burn some ATP we're going to add ATP to this and what the ATP does his his boss formulates we learned about phosphorylation.
+1:42:41
+Andrew Ippolito: There phosphor ELISE is and what that does is it changes the shape into this.
+1:42:48
+Andrew Ippolito: And so those three molecules now leave now, you might be asking like well how are those molecules sticking and leaving that is.
+1:42:55
+Andrew Ippolito: What we talked about as electrostatic interactions alright so here here's a little piece of fun tech right, this is a fun tech can stick to my hand a little bit right but.
+1:43:12
+Andrew Ippolito: Eventually, is going to fall off right that's how everything works inside the cell that's not coincidentally bound they're going to stick, but then eventually they're going to fall off and so those ions bind to the inside of that protein so there's an on again off again relationship.
+1:43:29
+Andrew Ippolito: Right, like those friends of yours. Andrew Ippolito: Are on again off again right.
+1:43:36
+Andrew Ippolito: And so it goes on and so let's see it takes one second right so as long as within that second we change shape it's gonna fall off again I was gonna go outside.
+1:43:47
+Andrew Ippolito: Okay, all right, and then that phosphate eventually you can just for our purposes, it just falls off and that causes the change Oh well.
+1:43:57
+Andrew Ippolito: Before that, before that, so so these go out and then let's make these squares, this is potassium potassium binds here hey potassium you want to come inside okay.
+1:44:09
+Andrew Ippolito: Alright, so the potassium comes in the sodium leaves and then the change and cheap happens the phosphorylation gets undone the phosphate leaves.
+1:44:24
+Andrew Ippolito: And those two potassium is come in.
+1:44:31
+Andrew Ippolito: And then the gameplay is again and again and again and again and again, and it is happening, even hundreds of times per second probably I don't know what the exact rate is, but these kinds of things at the molecular level happen.
+1:44:43
+Andrew Ippolito: There are some enzymes that turn things over millions per second. Alexa Deprisco: So insanely fast, excuse me.
+1:44:51
+Andrew Ippolito: yeah. you're still. Alexa Deprisco: In the hallways three sodium sodium ions out and to potassium ions then or is that just trying to illustrate that like.
+1:45:02
+Andrew Ippolito: Knowing it's always it, it is literally three and do for this. Alexa Deprisco: Okay yeah.
+1:45:08
+Alexa Deprisco: All right, thank you you're welcome. Andrew Ippolito: And so there it is there's the young.
+1:45:16
+Andrew Ippolito: Apparently that's cooked in there now I don't know I circled in a previous lecture and saved it, I cannot do that without editing the PowerPoint itself alright, so you can see here here's sodium rushing in.
+1:45:30
+Andrew Ippolito: Okay, you could see three sodium is binding here, and then you can see the ATP binding to it, causing the shape to change.
+1:45:39
+Andrew Ippolito: Okay, and then the potassium comes in and binds to it's two groups, and you can see the phosphor ELISE and gets undone.
+1:45:48
+And then. It opens up. Andrew Ippolito: And the potassium falls in Okay, so this is active transport because what's happening is there are still.
+1:46:01
+Andrew Ippolito: So there's other ions in the cell there's other pluses and minuses right, so what this does we're just taking advantage of to ions in an ocean of other islands.
+1:46:09
+Andrew Ippolito: that's why we have an exact so there's Korean somewhere, you know, potassium and sodium including are the three key ones so chlorine concentrations are relatively high in the cell that's why it's negative.
+1:46:21
+Andrew Ippolito: Okay, so. Andrew Ippolito: All things being equal, there's still a higher concentration of of potassium outside of the cell and so we're despite that we're still bringing it in that's the active transport part we're fighting gradients here we're going against the grain were establishing and maintaining gradients.
+1:46:43
+Okay. Andrew Ippolito: Alright, so here's here's a an animation of it now, if I can oh that's what the.
+1:46:54
+Andrew Ippolito: hold on. Andrew Ippolito: I have to run the PowerPoint and say yes to something here.
+1:47:03
+I can do this. Andrew Ippolito: Or we can, maybe, maybe that's just a screenshot let me.
+1:47:10
+check here really quick.
+1:47:19
+Andrew Ippolito: that's just a screenshot nevermind when I imported this I didn't take the video with it, which is fine if you type sodium potassium pump on YouTube there's 1000 videos of it.
+1:47:35
+Andrew Ippolito: You guys can see the PowerPoint right. Andrew Ippolito: Okay, all right, so there here's a nice clean flow of the whole thing you can use this for your own studying now.
+1:47:44
+Andrew Ippolito: Okay, so what this calls into question this idea of.
+1:47:49
+Andrew Ippolito: We established. Andrew Ippolito: An electrical gradient just now there's also chemical gradients.
+1:47:56
+Andrew Ippolito: And so. Andrew Ippolito: I realized this is a wall of text so just ignore this just listen to me here's a cell we just talked about a cell maintaining an electrical grid.
+1:48:16
+Andrew Ippolito: Technically it's a voltage. Andrew Ippolito: So, yes cells deal with electricity, just like batteries.
+1:48:27
+Andrew Ippolito: In addition, there are things inside and outside the cell there are chemical gradients.
+1:48:35
+Andrew Ippolito: And yes, these are two completely separate phenomena. Andrew Ippolito: They don't relate to each other, directly necessarily right they're just it's like temperature mph right two completely different things that we have to consider at the same time.
+1:48:52
+Andrew Ippolito: And so we talked about the cells electro.
+1:48:58
+Andrew Ippolito: electro chemical gradient. Andrew Ippolito: This is a combination of the concentrations of the solids and the voltage difference.
+1:49:11
+Andrew Ippolito: And the reason why we want to think about this is. Andrew Ippolito: we're always considering this question which way.
+1:49:22
+Andrew Ippolito: Does it flow. Andrew Ippolito: what's it anything.
+1:49:27
+Andrew Ippolito: glucose chlorine. Andrew Ippolito: malthouse insulin well I don't know insulin not if it's a bad example but, but the idea of whenever we're considering the flow of something in or out of the cell it's not just it's concentration gradient.
+1:49:46
+Andrew Ippolito: it's not just it's charged gradients like there are instances, you can imagine, where something will be strongly negatively charged like chlorine.
+1:49:54
+Andrew Ippolito: Right and we've learned that the inside of the cell is negative, and so you your intuition would be like well chlorine shouldn't get into the cell it's negatively charged going to be repelled.
+1:50:01
+Andrew Ippolito: But what if there's no chlorine inside the cell and there's a whole bunch of it outside the cell, so the chemical gradient is extreme then it's going to go into this up.
+1:50:12
+Andrew Ippolito: Even though it's negatively charged so there's two things to consider when we think about the flow of substances across the membrane.
+1:50:19
+Andrew Ippolito: Now, fortunately, for us we're never going to be confronted with specific nitty gritty detailed questions about this, this is high level physiology stuff that you're not going to get in this class okay just understand the concept of the electrochemical gradient.
+1:50:33
+Okay. Angela Harbeck: Wait so it's like the flow. Andrew Ippolito: So so everything has the potential to flow in or.
+1:50:41
+Angela Harbeck: Out of the cell. Andrew Ippolito: Right everything. Andrew Ippolito: You know if we have a carrier protein for glucose now we can move so so the really the underlying question is, do we need energy to do it or not.
+1:50:52
+Andrew Ippolito: Does the cell require energy to pump chlorine ions in or can it use just a passive channel.
+1:50:59
+Andrew Ippolito: that's the kind of consideration in a critical thinking that goes on, when we ruminate over electric chemical caribbean's.
+1:51:09
+Andrew Ippolito: So we talked about you know cystic fibrosis and the chloride transporter so does chlorine just flow out of the cell, probably, so we have to pump it into the cell.
+1:51:20
+Andrew Ippolito: Both because of the electrical gradient of being negatively charged and it's already highly concentrated inside the cell so it's really gonna pop.
+1:51:31
+Andrew Ippolito: Okay. All right.
+1:51:37
+Andrew Ippolito: So we're going to skip this oral rehydration therapy the shorter the long here is calera is a very common killer in the Third World.
+1:51:45
+Andrew Ippolito: it's one of the most easily treated diseases and the short of the long is you mix both, sugar and salt in water and you feed it to the person who is sick and the way it works is what you're looking on the screen here is a cross section of our gut you can see your blood on the left.
+1:52:03
+Andrew Ippolito: The blood epithelial cell wall, the gut and then the gut itself the lumen of the gut okay.
+1:52:09
+Andrew Ippolito: And normally the way we reclaim water, the way we establish So the idea here is here is your fecal matter and we're going to pull water we're going to reclaim water from our waste, so that we don't die right, we need the water back.
+1:52:26
+Andrew Ippolito: The way we do, that is, we establish a hyper atomic environment by Cobra transporting so there's your Sim port glucose and sodium at the same time.
+1:52:35
+Andrew Ippolito: You can't So if you just have glucose it doesn't work if you just have sodium it doesn't work, you need both.
+1:52:41
+Andrew Ippolito: that's the simple so there's this protein Sim porter in the gut Okay, and so that pulls the sugar and salt in so we're also reclaiming we're also reclaiming this stuff from the gut to right and then on this side of the cell we're going to have there's your sodium potassium pump.
+1:52:59
+Andrew Ippolito: And there's a you need port mana port whatever glucose transporter that pumps glucose in the blood.
+1:53:06
+Andrew Ippolito: Right so so the water is going this way. Andrew Ippolito: Here, so this is normal physiological circumstance, this is how you are right now, this is what your body's doing when you get sick.
+1:53:20
+Andrew Ippolito: And you have the clarity, so what so what the bacteria calera does is it produces this toxin this protein that binds to the cells membrane.
+1:53:32
+Andrew Ippolito: and pushes salt out of the cell massive amounts of salt get pushed into the gut we've reversed the osmotic flow now waters now going to go this way.
+1:53:45
+Andrew Ippolito: that's what causes the severe dehydration and diarrhea of color.
+1:53:51
+Andrew Ippolito: And if you're untreated, you have about a 5050 chance of surviving.
+1:53:56
+Andrew Ippolito: flip a coin heads or tails and you're dead. Okay.
+1:54:03
+Andrew Ippolito: What the treatment does. Andrew Ippolito: What the treatment does.
+1:54:08
+Andrew Ippolito: Is it greatly dramatically increases the concentration of this in no you don't have to know the specifics of clarity now now, this is just a, this is just a contextual example of why osmosis is important in health.
+1:54:22
+Andrew Ippolito: we add the sugar and the salt, to the gut. Andrew Ippolito: Massive amounts of it, you drink you for somebody to drink this stuff when they have Claire and what you're doing is you're just buying them time so that their own immune system can kill the calera itself.
+1:54:35
+Andrew Ippolito: Okay, so this isn't an antibiotic this isn't a drug to kill the Claire this is you keep the person hydrated enough so that their body can fight in defeat that calera hopefully.
+1:54:49
+Okay. Andrew Ippolito: So that's why, if you look back the right here this these little these are like things the Salvation Army doles out that that that scooper right there.
+1:54:58
+Andrew Ippolito: Okay, but you'll notice that one side of the scoopers a little bigger than the other side and then written in the middle here in like four different languages are the directions.
+1:55:07
+Andrew Ippolito: Okay, and so you'll get these um they'll ship to these places that are being hit but Claire hard these little cubes of glucose.
+1:55:15
+Andrew Ippolito: it's dexterous and they'll dumping them water, though, you know dissolve it and then they'll or or it's a powder whatever and they skip it and one scoop of sugar and then the other side that little bit of salt and that that's the exact ratio, you need for this important to work.
+1:55:31
+Okay. Andrew Ippolito: All right. Andrew Ippolito: Okay, so we just learned about how things get across the membrane through a protein transport.
+1:55:41
+Andrew Ippolito: Okay, now I want you to imagine the elephant in the room, and the elephant runs at the rooms wall.
+1:55:46
+Andrew Ippolito: And the rooms was made out of rubber and the elephants able to stretch that rubber and break it and they're surrounded self in a rubber little membrane and keep going.
+1:55:56
+Andrew Ippolito: Okay, so, in other words we're going to see here that we can take the cell membrane itself and use it for transport purposes.
+1:56:04
+Andrew Ippolito: And there's basically two types there's coming in and going out there's no psychosis and exercise.
+1:56:11
+Andrew Ippolito: Exercise hostess is the easier one to understand this, is that idea of when we learned about the endo membrane system and the goal G and the budding of vessels that fuse with the membrane and secrete things Okay, so that the active secretion is called XO psychosis.
+1:56:29
+Andrew Ippolito: cells are pushing things out of the cell through these little vessels.
+1:56:37
+Andrew Ippolito: And oh psychosis is one cells bring things in this is where it's a little more fancy there's two basic types.
+1:56:45
+Andrew Ippolito: vago some people pronounce that fat Joe. Andrew Ippolito: Whatever feature say to his fingers he I say figure psychosis that's a potato potato thing and then Pino site toes so figure means eat.
+1:57:00
+Andrew Ippolito: And Pino. means drink.
+1:57:05
+Andrew Ippolito: Right pinos where you come across in some wines right, so you drink wine Pino.
+1:57:14
+Andrew Ippolito: You can see Figo psychosis under the microscope under the light microscope you can watch an amoeba eat apparent museum, for example.
+1:57:21
+Andrew Ippolito: Okay, so you can swap cells eat other cells, remember, we learned about set theory, this is the basis of set theory, this is our cells each other, because they told us.
+1:57:33
+Andrew Ippolito: This is how we are immune system defeats bacteria, there are cells called.
+1:57:41
+Andrew Ippolito: figure sites. Andrew Ippolito: That that's a class of cell there's all sorts of fake news sites so like maybe you've heard of macrophage or a monastery those are.
+1:57:51
+Andrew Ippolito: Those are fake acidic cells. Andrew Ippolito: Right. Andrew Ippolito: You can't see people psychosis.
+1:57:56
+Andrew Ippolito: Oh go ahead, go ahead Angela. Alexa Deprisco: I was gonna say to the stages.
+1:58:02
+Alexa Deprisco: You, the eating, are they eating. Andrew Ippolito: i'm having a lot of trouble understanding you again, because the microphone issue.
+1:58:09
+Andrew Ippolito: is like on the computer itself. Alexa Deprisco: No i'm using headphones. Andrew Ippolito: Oh. Alexa Deprisco: And i'm trying to like talk into the headphone.
+1:58:16
+Andrew Ippolito: gotcha I can hear you better now. Alexa Deprisco: Okay, great so he said staging site, or whatever is that the one that does the eating or the one that is.
+1:58:26
+Andrew Ippolito: Oh that's the one that does the. Alexa Deprisco: eating. Andrew Ippolito: If you're a finger stuff that's a great question.
+1:58:31
+Andrew Ippolito: The finger site is the cell that does the eating. Alexa Deprisco: I think you know.
+1:58:37
+Andrew Ippolito: there's no specific word I guess. Andrew Ippolito: Other than pray. Andrew Ippolito: The prey cell.
+1:58:44
+Andrew Ippolito: The cell that got eaten all right Pino Santos is you can't see under the microscope you actually have to use an electron microscope and artists to observe it and the idea here is we're just non specifically scooping up liquid from the environment.
+1:58:58
+Andrew Ippolito: Okay, so this would be the equivalent going down to the creek with a bucket and just scooping up stuff from the creek right you're going to bring everything in that's in there.
+1:59:07
+Andrew Ippolito: Okay that's pinos I choose. Andrew Ippolito: reset but let's say you wanted to get specific things out of the creek so imagine taking a bucket.
+1:59:17
+Andrew Ippolito: pop in the bottom out of the bucket and then putting some kind of mesh on there or filter or let's say you covered it with magnets and so now only magnetic things will come into the bucket alright so receptor mediated endo psychosis.
+1:59:35
+Andrew Ippolito: receptor mediated endo psychosis is when we have receptor proteins in the membrane that bind to some specific like end.
+1:59:45
+Andrew Ippolito: And so now, we will just bring that thing in.
+1:59:52
+Andrew Ippolito: Okay, so if we want to reclaim something from the environment in a specific way we would use receptor mediated endo psychosis.
+2:00:00
+Andrew Ippolito: Okay, so so recap this. Andrew Ippolito: We can bring really big things in like other styles fagles psychosis we can bring in.
+2:00:10
+Andrew Ippolito: The sub the solution in the water around us Pino psychosis or we can bring in specific saw you particles receptive mediated en dos Santos.
+2:00:22
+Andrew Ippolito: make sense. questions.
+2:00:28
+Alright cool. Andrew Ippolito: So there's there's an alert, so this is SEM, this is a scanning electron micro graph of an amoeba eating apparent museum.
+2:00:40
+Andrew Ippolito: it's a really beautiful picture. Andrew Ippolito: Whoever the the techniques needed to do that this is like master level photography stuff the fact that you can see the individual cilia on the parent museum cell, you can see, the underlying filaments of the membrane of the site oh skeleton This is just such an amazing shot.
+2:01:05
+Andrew Ippolito: And on the left here this animation I forgot, where I got this from now, but the idea here is there's there's two concepts illustrated here, the first is called the kiss and run model.
+2:01:18
+Andrew Ippolito: And the idea, there is that we don't just take a vessel in a cell it's not like a lava lamp it's not just.
+2:01:25
+Andrew Ippolito: Okay there's there's a specificity here so vessels are generally coated with proteins.
+2:01:33
+Andrew Ippolito: Like like a skin and those proteins talk to the membrane so you can picture there's proteins in the membrane to and those secret handshakes that's the kiss the kiss each other and then, once they.
+2:01:46
+Andrew Ippolito: lock it successfully that's when the fusion occurs so that's why on the left hand side that's why what you're seeing here is the vehicles on the inside of the cell see other bouncing a little bit first that's the kiss part.
+2:01:58
+Andrew Ippolito: that's to make sure that the specificities there and then, once it happens.
+2:02:04
+Andrew Ippolito: The membrane fusion occurs okay so that's The first principle illustrated here, the second principle that's illustrated is that so this side here that's XO psychosis right that stuff coming out.
+2:02:19
+Andrew Ippolito: And if you look right here that's endo psychosis that stuff coming in and so cells, maintaining equilibrium, this is part of homeostatic control the amount of liquid leaving is equal to the amount of the food coming in, and so the cell doesn't gain or lose a net amount of volume.
+2:02:39
+Andrew Ippolito: Okay, so you would say the rate of endo psychosis an extra psychosis is the same for cell that is maintaining equilibrium.
+2:02:49
+Angela Harbeck: I have a question. Angela Harbeck: God, who is this particular transport isn't that basically like the Channel protein about how like.
+2:02:58
+Andrew Ippolito: Oh no, no, no, no, so so there's channel transfer this transport proteins that's one mode of transport.
+2:03:05
+Andrew Ippolito: And then there's the singular traffic. Andrew Ippolito: A completely independent mode of transport.
+2:03:12
+Angela Harbeck: What makes it different like what makes the large so go to that okay. Andrew Ippolito: So, so there so there's two so there's really there's two.
+2:03:19
+Angela Harbeck: Questions there. Andrew Ippolito: What makes them different and then why do we have two different things.
+2:03:24
+Andrew Ippolito: Is that sound reasonable is that your actual quote yeah Okay, so what makes them different is that, on one hand we just have this machine in the membrane so that's like your door.
+2:03:36
+Andrew Ippolito: Okay, on the other hand, i'm trying, let me think of an analogy for this.
+2:03:47
+Andrew Ippolito: There is no analogy for real I think of a rubber wall. Andrew Ippolito: Imagine going up to a rubber ball and just pushing in on it really hard so that the the rubber bends you know use a bird's eye view here here's you pushing on the wall it bins and bins and bins until.
+2:04:04
+Andrew Ippolito: And it's self healing rubber so that when you leave you're able to grab some of the rubber and now it's around you but you turn around in the wall still intact again.
+2:04:15
+Andrew Ippolito: Okay that's that would be XO psychosis if you're leaving or that would be no psychosis if you're coming in.
+2:04:21
+Andrew Ippolito: Okay, so the question is, is now, why do we have these two different modes and the answer to that is it depends on the job at hand, you would never want to use.
+2:04:31
+Andrew Ippolito: endo psychosis to bring in chlorine or chloride ions right ah, I think I started to understand more of the crux of your question here so remember we had you know, like a glucose transporter or i'm sorry.
+2:04:46
+Andrew Ippolito: A glucose transporter rate the carrier channel carrier protein.
+2:04:52
+Andrew Ippolito: But let's say that we had something that was too big, even for that.
+2:04:57
+Andrew Ippolito: that's when we might need Pino psychosis or receptor media to enter psychosis that's I think yeah so like we have this vessel that has this receptor that binds to this thing but it's too big to come in through the carrier, so we have to use the barn door.
+2:05:15
+Andrew Ippolito: yeah so so receptor mediated Pino psychosis would be.
+2:05:21
+Andrew Ippolito: reserved for things that don't have a transport protein. Andrew Ippolito: And their prices are too big.
+2:05:28
+Andrew Ippolito: Great question, I never thought about that, before.
+2:05:33
+Andrew Ippolito: Alright, so in your book they use an example of the HIV virus is co transporters oh sorry that cold receptors so you'll see here there's the CD for and the ccr five colorist receptor and co channel coat coat receptor.
+2:05:46
+Andrew Ippolito: So this is our T cells in our body, and we have these cells called CD for positive cells and those are the ones get attacked by the HIV virus and it turned out that there's an order for the virus itself to get into the cell It required a Co transport protein or co receptor protein.
+2:06:06
+Andrew Ippolito: So there's a double handshake here and it turns out that people with a mutation in the ccr five gene that lack the ability to bond to the HIV have a natural immunity to HIV.
+2:06:20
+Andrew Ippolito: And so they don't develop AIDS.
+2:06:27
+Andrew Ippolito: All right, you can use this to study on your own. Andrew Ippolito: And now we get to the point where we're at the end of your Chapter six, and this is the one thing that's at a place in your book compared to my notes, and I should fix this at some point.
+2:06:41
+Andrew Ippolito: This goes, but this is just an artifact of there was another book I used to teach out of and they put this stuff in the memory chapter your book puts it in the cell chapter.
+2:06:53
+So. Andrew Ippolito: So, technically, this is right, this is section 6.7 that we skipped in the study guide and we skipped in the last test.
+2:07:02
+Andrew Ippolito: And it makes more sense to put it here, this is cell the cell stuff cell membrane stuff so we're going to learn about junctions in between cells now and just here's the laundry list of it, there are things, called adhering junctions which your book skips.
+2:07:16
+Andrew Ippolito: Does Muslims, which your book emphasizes, and so these two things collectively.
+2:07:23
+Andrew Ippolito: These are collectively called anchoring junctions.
+2:07:30
+Andrew Ippolito: All an anchoring junction is is a junction between cells that allows us to build tissues it just it's the Lego building block it's the it's the staple.
+2:07:41
+Andrew Ippolito: To build things Okay, they don't do anything fancy. Andrew Ippolito: they're the most generic junction you got.
+2:07:48
+Andrew Ippolito: Okay, so so cells that have anchoring junctions between them they'll let water right between them they're not going to necessarily let anything happen in between cells they're just generic sutures kind of.
+2:08:02
+Andrew Ippolito: Okay tight junctions. Andrew Ippolito: as the name suggests, allows two cells to get very, very, very close together, such that it creates an impermeable layer between them, in other words, water can't get across that this is why we have tissues that can hold water in them think about your your kidney.
+2:08:27
+Andrew Ippolito: or your gut or your heart right things aren't leaking across everything because of these tight junctions.
+2:08:36
+Andrew Ippolito: A gap junction. Andrew Ippolito: So it's so I even your brain might be thinking there's a gap between the cells that's not what this talking about a gap junction allows two cells to share their cytoplasm.
+2:08:48
+Andrew Ippolito: It forms a gap in their membrane so that they can share what's ever inside so essentially those two cells become a larger single entity.
+2:09:01
+Andrew Ippolito: And so, an example for this would be your heart. Andrew Ippolito: The muscles in your heart, if you look at me for a second the way your muscles in your heart are shaped look like finger like projections like this, so they they can grab each other, like this, this maximizes the surface area.
+2:09:15
+Andrew Ippolito: And then in between each cells contact is a whole bunch of these gap junctions so there's a ton of gap junctions here.
+2:09:22
+Andrew Ippolito: And what this does is it allows the hearts muscle to be one uniform system with the same electrochemical gradient so it can pump at the same time, so all the action potentials can make the cells.
+2:09:35
+Andrew Ippolito: constrict at exactly the same time okay so gap junctions allow the sharing of the cytoplasm between two cells.
+2:09:44
+Andrew Ippolito: All of the all of the above here, these are animals specific.
+2:09:51
+Andrew Ippolito: And there's probably protests in there, too, but the reason why I want to see animal specific is because plants have that cell wall, and so they can't do these things, instead, they have something called a plasma plasma plural plasma does model.
+2:10:05
+Andrew Ippolito: And to understand the plasma does Mata I have one simple picture here, right here okay so ready to plant cells sit next to each other.
+2:10:13
+Andrew Ippolito: The white outer layer is the wall, the cells wall, the pink that's the membrane of the cell, and so what I want you to focus on here is right here, you can see that the cells membrane this cell membrane is continuous with the other cells membrane.
+2:10:34
+Andrew Ippolito: So, Dr, this is the best way to understand the plasma does withdraw like this just start with me so here's here's the left side of the cell i'm drawing the membrane of the cell right now okay so here, so one.
+2:10:46
+Andrew Ippolito: And i'm just going to draw a little tunnel here and then it's all continuous your cell to.
+2:10:52
+Andrew Ippolito: Okay, and so that's the cell membrane and then I can just build the wall around it like this.
+2:11:05
+Andrew Ippolito: There, so now, even though we have these walls, we can still share cytoplasm.
+2:11:13
+Andrew Ippolito: And so, this interface here is called the plasma plasma. Andrew Ippolito: And this is how plants solve the problem of their cell wall, so, in other words the plasma plasma is the same solution as the gap junction.
+2:11:28
+Andrew Ippolito: and animals. Okay.
+2:11:39
+Andrew Ippolito: So this slide gives you there's Asian junctions. Andrew Ippolito: Which your book doesn't talk about the adhesion injunction allows the stretching of things, this is why.
+2:11:49
+Andrew Ippolito: When you breathe in your lungs can greatly expand or if you haven't gone to the bathroom and too long, you have to really P that's your bladder filling up the reason why we have these things that can greatly expand is because of these adhesion junctions they're very flexible.
+2:12:05
+Andrew Ippolito: As Muslims are like the class on the back of a dress where you have those two hooks that do this Okay, so it doesn't as long as a very simple it's a hook like protein that sits on the surface of the cell and they can just poke each other, like this.
+2:12:21
+Andrew Ippolito: So your skin, the reason why you can't just rip your skin off the reason why you can hold your skin to pull on it pretty tightly is because of desmond's.
+2:12:28
+Andrew Ippolito: And there's actually a rare disease, where people have miss cheapened doesn't zones or maybe not at all and their skin falls off, you can just rip it comes off.
+2:12:39
+April Neeld: What about those people with like the extra stretchy skin like contortionists can do that, sometimes, because.
+2:12:45
+Andrew Ippolito: there's that's different than so contortionists that that's connective tissue disorder. Andrew Ippolito: that's that's the ligaments.
+2:12:52
+April Neeld: That connect the bonds to each. Andrew Ippolito: Other have a problem they're not strong Actually, I have a friend that has this my friend Ralph he he can touch he's he's not Mr athletic.
+2:13:03
+Andrew Ippolito: And we were sitting there one day just hanging out and we were talking I forgot how it came out like Oh, we can't touch your toes like you know tried to touch your toes he could put his palm the palm of his hands on the floor, he just bend down and did that we were all like.
+2:13:18
+Andrew Ippolito: Anything that's part of what he has this ligament disorder, you know if you've ever seen somebody that can take your finger and bend it all the way back that's not double jointed that's that's a connective tissue disorder their bones are not.
+2:13:32
+Andrew Ippolito: able to be strongly tied together so those people are severe risk for some really bad injuries like they should not be going skiing on double diamond courses.
+2:13:41
+Andrew Ippolito: If they take a bad spell they could really dislocate something and cartilage and Lee because their bodies aren't strongly holding things together so that's.
+2:13:49
+April Neeld: I have another question so when you get older your skin's elasticity is less does that do like something with the junction or with the does Muslims are.
+2:14:03
+Andrew Ippolito: Not Desmond zones so you're there's a bunch of aging does all sorts of. April Neeld: crappy things to your body.
+2:14:10
+Andrew Ippolito: And one of the things it does is it dehydrates you a little bit so your skin's desiccated. Andrew Ippolito: Down there's less water in the skin, so, if you look at somebody who's very old and you look at their skin is like that paper thin almost right that's because they're their top layers of the epidermis are no longer fully hydrated.
+2:14:28
+Andrew Ippolito: The other thing that happens is your character sites produce less and less of the fibers proteins.
+2:14:34
+Andrew Ippolito: The wrinkles are caused by a breakdown of the extra so really the next slide here the extracellular matrix here, we talk about.
+2:14:42
+Andrew Ippolito: let's see see elastin and collagen these are things that stopped getting so produced them high levels in this skin and an Asian person, and this is why, if you think about.
+2:14:54
+Andrew Ippolito: I don't know how it you guys don't know who Angelina Jolie is right and her far famous lips.
+2:14:59
+Andrew Ippolito: The idea is is you ingest college and antelopes to get them to be really big collagen isn't extracellular matrix component that lens strength to a tissue alright so that's another reason why everything is so strong in our skin, we have this collagen.
+2:15:15
+Andrew Ippolito: elastin provides the flexibility college and provides the strength Where does this stuff live it gets excluded by cells So these are Secretary proteins and it lives in the world, between cells, so if you see in this picture here here sell one.
+2:15:31
+Andrew Ippolito: Here sell to and there's this world in between the cells Okay, and so that's we collectively call that world the extracellular matrix.
+2:15:40
+Andrew Ippolito: So this is what tissues have right so apparently so you don't have an extracellular matrix right.
+2:15:46
+Andrew Ippolito: And the extracellular matrix and animals is completely different than the extracellular matrix and plants, so this slide here is specifically talking about animal extracellular matrix so we have fibers proteins.
+2:16:00
+Andrew Ippolito: Okay, we have poly saccharine.
+2:16:05
+Andrew Ippolito: And here's the thing if you take a very small chain of peptide.
+2:16:12
+Andrew Ippolito: A couple of amino acids long and attach a whole bunch of sugars to them.
+2:16:17
+Andrew Ippolito: This thing here is a new class of molecule you didn't learn yet, and this really maybe we should put this in there, somewhere, but it doesn't fit it's not a sugar and it's not a protein, this is called a pro to.
+2:16:30
+Andrew Ippolito: Pro do for protein glide can for sugar Okay, a protein glycogen is a long chain sugar anchored to a little seed of peptide.
+2:16:41
+Andrew Ippolito: And they are super duper hydro Scott pick which means they they attract water.
+2:16:47
+Andrew Ippolito: Okay, so you're not the reason why you're not is slimy and wet and gooey is because of protein glycan.
+2:16:58
+Andrew Ippolito: Okay, the reason why your joints are filled with this is because it's slippery Okay, so this provides the the it reduces the friction in joints.
+2:17:09
+Andrew Ippolito: And, and so your whole respiratory system and your nose your butt and your gut track and inside your your entire alimentary canal is filled with mucus.
+2:17:20
+Andrew Ippolito: The mucus helps things stick to it right you're the mucus in your nose when you're breathing in dust the dust particles stick to the goofy stuff and then our mission we blow it out it's a protective mechanism.
+2:17:32
+Okay. Andrew Ippolito: And then the sea fibro Neptune and integrates Oh, by the way, where are we with time Oh well, okay we're almost done here fiber connections and integrations here.
+2:17:43
+Andrew Ippolito: Briefly, if this is a cell, this is another cell and here's the extracellular matrix fibers remember cam number cam proteins okay so integral we're going to focus on integrate here.
+2:17:57
+Andrew Ippolito: And you got have to know this so here's where you learn this stuff it's not really well I don't know if this is in the book very good or not here's integral.
+2:18:08
+Andrew Ippolito: integral membrane protein what integration does is a binds to another protein right here called fibro neck done.
+2:18:21
+Andrew Ippolito: fibrin next and connect cells to the matrix. Andrew Ippolito: And this connection keeps the cell alive.
+2:18:32
+Andrew Ippolito: Okay, so here's kind of a crazy thing if that connection gets broken, so, in other words, if a cell leaves i'm out of here I hate this place i'm leaving i'm running away that cell will then slowly kill itself.
+2:18:45
+Andrew Ippolito: This is a Defense mechanism against cancer. Andrew Ippolito: Because cancer cells, we don't want them growing and then detaching and then going somewhere else to grow that's called Meta status.
+2:19:00
+Andrew Ippolito: Or rather metastases. Andrew Ippolito: So cancer cells are growing and growing and growing and then, and if that tumor shedding cells those cells will then go into your blood and they'll find the capillary beds deposit themselves and start growing your secondary tumors those are the ones that ultimately get you.
+2:19:19
+Andrew Ippolito: Okay, and so this thing here this idea here of the fiber next and integrating handshake this prevents this cell, this is an active think of in the movies, if somebody has been.
+2:19:29
+Andrew Ippolito: captured by the bad guys and they have a bomb Sue put on them and they're holding what's called the dead man switch.
+2:19:35
+Andrew Ippolito: Right you're holding a trigger as long as your thumb is on that trigger everything's fine, but the second the thumb comes off the trigger boom, this is a dead man switch at the cellular level.
+2:19:46
+Andrew Ippolito: that's a perfectly analogy for this I didn't realize that until just now that that this is a dead man switch that fiber next and integration detaches that causes the cell to kill itself.
+2:19:56
+Andrew Ippolito: Okay. Andrew Ippolito: I think we're done is there's you know here here's there's integration, and you can see fiber so the fibro so collagen fibers in.
+2:20:11
+Andrew Ippolito: instagram that's the that's the secret connection there and then below that the integration itself is connected the act and filament.
+2:20:21
+Andrew Ippolito: Right, so now, you can see, this is kind of neat actually if this is the act and filaments here's the cell membrane here's the collagen.
+2:20:30
+Andrew Ippolito: What the integration is doing and here's fiber next in the integration is grabbing both of them and tethering the inside of the cell to the outside of this up right so it's all connected and you get this really strong tissue.
+2:20:46
+alright. Andrew Ippolito: and Andrew Ippolito: we're done with this lecture I want to go look really quick at our schedule, I want to see if we're behind or not.
+2:20:58
+let's see 24th. Andrew Ippolito: Oh no we're exactly yes.
+2:21:05
+Andrew Ippolito: Today was day two of memories and we had two days to do membranes are different memories, so we are X and it's one or two i'm I did two minutes over damn it I could I could have done better anyway here i'm going to end with this.
+2:21:20
+You guys appreciate this i'm going to share my screen here. Andrew Ippolito: If you have to go, you can go classes formally dismissed, but if you want to hang off for a second and watch a video that's gonna.
+2:21:31
+Andrew Ippolito: Okay, so this video was created by the same people that made the inner life of the cell video.
+2:21:40
+Andrew Ippolito: But what this does is it, this is going to be a creepy video and being in next class i'll show you i'll explain why it's creepy.
+2:23:10
+Angela Harbeck: Wait Is this the Walker.
+2:23:19
+Taylor Campbell: I think so yeah. Taylor Campbell: I don't think he can hear us anymore.
+2:23:29
+Jordan Russell: it's like just more yeah that was yeah That was the Walker, but I think of war, like realistic.
+2:23:35
+Taylor Campbell: yeah like adding on more stuff now that we have more knowledge so like I look there's more stuff.
+2:23:40
+Jordan Russell: it's just creepy because it's all jittery. Taylor Campbell: it's realistic.
+2:23:45
+Jordan Russell: yeah. Angela Harbeck: So what's the fibro directing is that, like the strand, and then the integration is just like the ball that holds it right Hello.
+2:24:01
+Andrew Ippolito: you hear us fade to black. Andrew Ippolito: So what were you creeped out a little bit.
+2:24:10
+Angela Harbeck: yeah. Andrew Ippolito: Like it's like Why is just proteins bopping around, why was that so damn creepy Angela What was your question.
+2:24:18
+Angela Harbeck: My question was like the fibro neck done is that, like the string and then the integration is like the ball that holds it.
+2:24:28
+Andrew Ippolito: yeah sure if you'd like in the cartoony version of it yeah. Angela Harbeck: Okay. Andrew Ippolito: Yes, you're here let's go back to the PowerPoint.
+2:24:35
+Angela Harbeck: there. Andrew Ippolito: Can you see that did I share my screen right. Now.
+2:24:42
+All right, great. Andrew Ippolito: Okay, so. Andrew Ippolito: You can see here.
+2:24:49
+Andrew Ippolito: where's my mouse. Andrew Ippolito: Right so there's a membrane right, you can see the fossil membrane right and then here's.
+2:24:57
+Andrew Ippolito: here's the instagram profile boy they're really make this complicated don't think this is integration that whole thing Okay, and so you can see it's got this trans membrane part as the intracellular part and the extracellular apart the intracellular part buys to act in here.
+2:25:19
+Andrew Ippolito: And then, this right here is fiber neck didn't really these are probably.
+2:25:24
+Andrew Ippolito: These are polymers actually this, so the fiber next in is probably just this alone, you can see there's filaments of it, and so the integration this component of the integration binds to the fiber next.
+2:25:39
+Angela Harbeck: Okay, thank you. Angela Harbeck: um. Taylor Campbell: I have a question about our exam are you still working.
+2:25:47
+Andrew Ippolito: Yes, yeah I have I finally everybody's taking it and so now, I can do my data analysis I just have to get around to it so right now in the in your head, just as a rule of thumb at 12 points that might be more than that, but right now it's 12.
+2:25:59
+Taylor Campbell: Okay, thank you you're welcome.
+2:26:05
+Andrew Ippolito: Tyler you said when you say cancer is when Okay, no, no, no, so um what one of the defense's.
+2:26:14
+Andrew Ippolito: To prevent the spread of cancer Oh, she left.
+2:26:19
+Andrew Ippolito: i'll answer that question next time.
+2:26:29
+Andrew Ippolito: All right. Julia Lakchin: You too good day you too.

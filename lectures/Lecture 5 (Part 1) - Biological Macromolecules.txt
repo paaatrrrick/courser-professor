@@ -1,0 +1,1952 @@
+0:00
+Andrew Ippolito: Alright, so we're picking up right where we left off last time talking about what I call the big four.
+0:07
+Andrew Ippolito: We talked about the concept of the monitor and the polymer we talked about the four major classes, a little bit.
+0:14
+Andrew Ippolito: The key here is is lipitor the black sheep of the family, because they don't stick to this whole monomers polymer rule of thumb right there just the, the only thing that all of us have in common is they don't like water, I told enemy of my enemy is my friend sort of thing.
+0:30
+Andrew Ippolito: The others are all monitor partner, you can learn all the monitors and connect them all the Palmer and we're going to go through that all today.
+0:36
+Andrew Ippolito: Right, we learned about dehydration synthesis sometimes you might see the phrase condensation synthesis.
+0:45
+Andrew Ippolito: Okay, I guess, the idea is your perspective, you should be thinking about the system itself, and when I see the system chemical reaction happens you think about the components of the reaction as the system.
+0:58
+Andrew Ippolito: And so we talked about changes to the system and we talked about things coming into the system and going out of the system, so in this case waters, leaving the system that's why we call it dehydration.
+1:08
+Andrew Ippolito: condensation would be from the perspective of the consequences that the water condenses you know if you think about on a hot.
+1:15
+Andrew Ippolito: Claiming day water condenses on your ice cold lemonade right but I don't think our book uses condensation but if you're out in the wild and you're reading on the Internet, you might see that instead somewhere to say it's exactly the same it's just a different name.
+1:30
+Andrew Ippolito: All right, we talked about anabolic will learn more about organic reactions, but we do thermodynamics later on in the next unit beginning of the next unit.
+1:40
+Andrew Ippolito: We use an example here which we'll talk about sugars today to glucose molecules form altos through a dehydration reaction.
+1:49
+Andrew Ippolito: also keep in mind that when we're making things it's not just putting two monomers together but it's also taking a polymer and being able to extend it to add more monomers to it, so to grow jeans right.
+2:03
+Andrew Ippolito: And then the opposite of dehydration synthesis we have the hydrolysis reaction okay so be able to recognize this in various forms, we have hydraulic enzymes.
+2:12
+Andrew Ippolito: But it's really the only other major word, the only other change of the word you'll see hydro hydro hydro etic reaction.
+2:19
+Andrew Ippolito: Right, you have hydraulic enzymes in your stomach to break down your food. Andrew Ippolito: And this is just the opposite of the hydration reaction you think about just add water and and things break down right this what's going on, if you cook some eggs and you leave the pan too long.
+2:35
+Andrew Ippolito: And the eggs get crusted over they get dehydrated right and whenever water evaporates from a system it causes things to stick together, you can think of that as the dehydration reaction.
+2:46
+Andrew Ippolito: And when you add water to it you're going in the opposite direction, with a hydraulic hydrolysis reaction.
+2:51
+Andrew Ippolito: Okay, so this is how we eat her food, these are the. Andrew Ippolito: Breaking the bonds a catabolic reaction, the extra government relations right so start tying these were just to each other so like when you see catabolic you're taking extra gonna that's always true right you break down and reaction is going to release energy.
+3:08
+Andrew Ippolito: And then the example just one of the other dissect rides of lactose being broken down into its constituent mono saccharine glucose and galactose.
+3:18
+Andrew Ippolito: Alright, so again, we can take a chain and melt it slowly by popping off monomers.
+3:25
+Okay. Andrew Ippolito: Alright, so we're going to go through now we're going to start with the sugars.
+3:34
+Andrew Ippolito: And we're just going to take a whirlwind tour through all four of these, which is all this is essentially Chapter five at this point.
+3:42
+Andrew Ippolito: Okay, now, before we start here, are there any questions about understanding, where we are at this point we have carbon backbones functional groups.
+3:50
+Andrew Ippolito: Forming these various classes of molecules and now we're gonna take specific examples of these and build single you know monomers timers in jeans right that's where we are here.
+4:05
+Andrew Ippolito: We help me here, did we did we start this last time, I think we did a little yeah we did we start Okay, so we talked about simple sugars and.
+4:12
+Andrew Ippolito: die so simple sugars, meaning moto and dissect rides, and the reason why we've lump them together is because they're functionally the same in terms of what they tend to do plants tend to store their energy in the short term, as dissect rides hold on I see some chat messages here.
+4:31
+Andrew Ippolito: yeah this is for be it's like lecture for bb Chapter five, the reason why it's broken down like that is most textbooks put this information, together with what you saw in Chapter four.
+4:44
+Andrew Ippolito: Chapter four is like carbon and organic chemistry, the generic stuff Chapter five is this specific instances most books will put all that together.
+4:53
+Andrew Ippolito: And the first part of the lecture or the first part of the chapter would be carbon and organic chemistry and then the second part would be this stuff your book, just like splitting things into little chapters, instead of one big chapter Okay, and so my story was originally.
+5:06
+Victoria Bloemker: Designed around. Andrew Ippolito: A book that had multiple or one chapter for the so for be is Chapter five.
+5:16
+Andrew Ippolito: I have a quick question. Victoria Bloemker: Like the quizzes and stuff are just like basic knowledge, for we know how to um well, should we know how to build like the actual bonds.
+5:28
+Andrew Ippolito: Ah that's a great question so there's you should be able to know the named bonds that I give you here so every single one of.
+5:35
+Andrew Ippolito: The four molecules that we're. Andrew Ippolito: going to talk about the format or molecules is going to have a special bond that keeps the stuff together so and so i'll just rattle them off just so you can hear them once.
+5:45
+Andrew Ippolito: In the sugars, you have your like acidic linkage and the proteins, you have your peptide bonds. Andrew Ippolito: And lipids you have your Esther bonds and in nucleic acids, you have your foster diaster bonds and we'll see all that here, but yeah so no those you're not going to ever have to draw stuff for me you're gonna have to be able to pull things out of a lineup basically.
+6:05
+Andrew Ippolito: Okay, that makes sense to me that help okay. Andrew Ippolito: All right, so your simple sugars and then.
+6:13
+Andrew Ippolito: And these are buried we're gonna see a couple names here we're going to see glucose and galactose and lactose and malthouse etc, etc.
+6:20
+Andrew Ippolito: With a complex carbs they're building block is always glucose which keeps that simple you don't we don't have big long chains of galactose or.
+6:29
+Andrew Ippolito: fructose we just have big long lines of glucose so those names will come with basically how we arrange the glucose molecules how that and you'll see that could be different.
+6:40
+Andrew Ippolito: Right, we talked about our trials pen towson heck so sugars, we understand now the concept of an ice summer.
+6:46
+Andrew Ippolito: And summer is a set of molecules that have the same chemical formula, but different structural formula, so you would say things like this, this how you would talk the heck so the common Texas sugars include glucose galactose some fruit does.
+6:59
+Andrew Ippolito: The common pintos sugars include ribosome romulus and there's also to the oxy rainbows we'll talk about later.
+7:07
+Andrew Ippolito: And then the trial sugars, which generally your metabolic byproducts are intermediate or glycerol the hyatt and I had roxy acetone.
+7:14
+Andrew Ippolito: Alright, so try ios doesn't exist it's a class of sugar it's a three carbon sugar right there's no such thing as Texas it's like I told you there's no such thing as the element carpet.
+7:25
+Andrew Ippolito: there's only isotopes of carbon right I show you an atom of carbon and you asked me which isotopes of carbon is that that's carbon 12 if I say here's the heck so sugar you say which XO sugar, and I say Oh, this is good goes okay.
+7:40
+Andrew Ippolito: Alright, so the key to all. Andrew Ippolito: sugars, is that ratio that golden ratio of one to two to one that's sorry I don't mean to call it the gold it's not the golden ratio that's something else, but this is the the special ratio of what makes sugar sugar's is they generally have this this ratio.
+7:58
+Andrew Ippolito: Okay, and for mono saccharine they serve as immediate energy sources.
+8:05
+Andrew Ippolito: that's their major goal. Andrew Ippolito: There was their second say goal their second purpose is to actually serve as building blocks for more complex thing.
+8:16
+Okay. Andrew Ippolito: All right, so here are the chemical structures, the structural formulas of the three common texas's notice that fruit toasts his pen turmeric or as glucose and galactose or hex America right, you see, this is a five member ring.
+8:34
+Andrew Ippolito: And you can see that it's got these two carbons sticking up in space here. Andrew Ippolito: Okay, this is part of the reason why fructose is special why we shouldn't be eating it, not because of its structure, necessarily, but that is metabolized fundamentally differently.
+8:47
+Andrew Ippolito: than glucose i'll teach you that a little bit later then there's also something called glucose mean which becomes a special sugar in some polymers like titan which will see in a bit.
+9:00
+Andrew Ippolito: glucose one is basically a modified sugar what we're gonna do is rip one of these hydroxide is off and put it in amino group in there.
+9:08
+And so it becomes a glucose to me. Okay.
+9:13
+Andrew Ippolito: All right, so they're your hex of sugars and three colonizers I should just popped up I don't know why I had that animated I silly all right and here's ribosome regulus.
+9:23
+Andrew Ippolito: These are the two Pinto sugars that will will find in nucleic acids shortly, at the end of this lecture will see these and on the bottom here this right below so we're going to see him play a role in the Calvin cycle and photosynthesis later in the Semester it's chapter 10.
+9:47
+Andrew Ippolito: Should capitalize that minus one okay. Andrew Ippolito: Creating my own powerpoints that.
+9:55
+Andrew Ippolito: Was the joke all right dissect cries like the the model sack rides.
+10:02
+Andrew Ippolito: Their short term energy storage and we most commonly find these implants.
+10:07
+Andrew Ippolito: Right, if you think of maple syrup or or tree SAP if you stop includes within it all bunch of things there's a bunch of things in tree SAP it's complex.
+10:19
+Andrew Ippolito: call it a solution or cold or whatever it is a lot of hydrophobic stuff and that's what makes it so sticky fingers.
+10:25
+Andrew Ippolito: But included in there bunch dissect Christ that's that's how plants transport there that's how they feed their their entire system your body okay and they're held together all these dissect rides are held together by these things, called like acidic linkages.
+10:41
+Andrew Ippolito: Okay, now, you might be like well what's a linkage versus a bond. Andrew Ippolito: here's my take on that the linkage includes a bunch of bonds right so here, let me just draw cartoony version of this, this is a glucose molecule.
+10:52
+Andrew Ippolito: we're going to link it to an oxygen that is linked to another glucose molecule right so typically there's what there's 123 there's four cobell and bonds there.
+11:03
+Andrew Ippolito: Right, so the linkage concept is just there's a there's a system, there are bonding that has a special name to it, because it has a special role to play.
+11:13
+Andrew Ippolito: in chemistry, so we would call out the like a city linkage. Andrew Ippolito: Okay, you could call it look like acidic bond but technically it's like well that's that's like a city bond, I suppose, and that's a bond right, but the idea here is we're taking to mono saccharine and putting together.
+11:29
+let's all say about that. Andrew Ippolito: Okay, so now we're going to talk names and got to put these names in your head.
+11:38
+Andrew Ippolito: So the way to remember these is understand that there's always a glucose glucose is you know, a busy body kind of hands and everything.
+11:48
+Andrew Ippolito: And so just remember these as remember these for their partner that's the easier way to do it so malthouse is just to glucose is okay, and these all have three letter abbreviations to So you can see glue glue.
+12:01
+Andrew Ippolito: Okay sucrose is glue frou. Andrew Ippolito: As an art glue through and then lactose is glue go.
+12:12
+Andrew Ippolito: All right, and then these internal so have there's now there's suck and there's like I still like later on this semester, one about the lack opera.
+12:21
+Right. Andrew Ippolito: So just just be aware that these things all have three letter abbreviations to write mottos is commonly a solid give you like context where we find these things well we'll see very shortly, that starch is a polymer of glucose is.
+12:39
+Andrew Ippolito: Right big long chain of glucose and it turns out that the enzyme that breaks down the cellulose or rather rather aren't glycogen.
+12:50
+Andrew Ippolito: Or the starch fabulous. Andrew Ippolito: The byproduct of that what POPs off here isn't just a single glucose it's actually the dissect right motos so we're just going to pluck glucose is off your two at a time and so that's where we usually find Maltese.
+13:05
+Andrew Ippolito: sucrose is just table sugar that's the most common sugar we find in most plans that's why we we raise things like sugar cane.
+13:15
+Andrew Ippolito: Okay, and then lactose is found in a million milk in the mother's milk that's that's the common location of actors.
+13:23
+Andrew Ippolito: Are cow milk, which is another mammal that makes milk goat milk it's all it's all the same sugar underlying it all alright so each one of these sugars, in turn, has their own.
+13:38
+Andrew Ippolito: ends up. Andrew Ippolito: hydraulic ends on there it is hydrolysis breaking so there's if you put as the end of a word that signifies that it's the name of an enzyme always you can just make up your own enzymes there's like a police.
+13:54
+Andrew Ippolito: Slowly breaks down it believes over time their names are jack and joey.
+14:03
+Andrew Ippolito: Man my kids are watching this in the future they're gonna hate me. Andrew Ippolito: Tired You are insulting us in class know you're just wearing me down sometimes guys you're like little enzymes like little hydraulic enzymes break me down.
+14:19
+Andrew Ippolito: and building me up I know we're gonna get all mushy no that's fine.
+14:25
+Andrew Ippolito: mall taste sucrose like these. Andrew Ippolito: People who are lactose intolerant they don't make lactase they lack lactase.
+14:38
+Andrew Ippolito: that's a bad pun in there somewhere would like but i'm not gonna they do not have like taste damn it black black teas I have to say it, they lack lactase there's my pod, and the reason they lack lactase.
+14:52
+Andrew Ippolito: Is because there's a mutation that hit us about 40,000 years ago and shut the gene off after you winning winning is when a mammal stops drinking milk.
+15:05
+Andrew Ippolito: All mammals being all mammals have the gene off normally know mammal drinks milk as adults.
+15:11
+Andrew Ippolito: don't feed your cat milk that's why they're grumbling all the time they like it, but it's going to give them a tummy ache that's why caster jerks i'm just kidding I just made that up there they're just jerks naturally they don't have to drink milk to be jerks.
+15:25
+Going what cats again. The cats. Andrew Ippolito: So.
+15:31
+Andrew Ippolito: I mean teaching occurs. Andrew Ippolito: Or the gene doesn't get shut off when it's supposed to.
+15:38
+Andrew Ippolito: And so, as a result, you have all these adults walking around with this lactase gene wasting your energy making this enzyme but, at the benefit of being able to drink milk or yogurt or cheats, this is what gave the Mongols an edge and more.
+15:55
+Andrew Ippolito: That you guys didn't know this, the Mongolian invasion, the reason why the Mongolian horde was so wildly successful as a combat force.
+16:05
+Andrew Ippolito: was because they were all for the most part lactose tolerant and so, therefore, they were able to very easily move around.
+16:15
+Andrew Ippolito: One of the things that keeps our means from moving is a supply lines being able to feed your troops, if you can bring your food with you very quickly, because they also have legs.
+16:27
+Andrew Ippolito: Like cows and goats. Andrew Ippolito: You can have an army that moves very quickly, and so the mongol invasion was basically subsidized on lactose products, a cheese and milk.
+16:37
+Andrew Ippolito: And so, as a result of that they conquered everybody and all the kids that came out of that, over the centuries were mostly lactose tolerant to and that's pretty much how humans became lactose tolerant as a species from a horrible extended war, and if you don't believe me go Google it.
+16:57
+Andrew Ippolito: Just not right now focus on the lectures, I know you're all going to go look it up there's I think a netflix documentary on this.
+17:04
+Andrew Ippolito: Now i'm totally gonna go watch that. Andrew Ippolito: it's not that interesting i'm way more interesting.
+17:19
+Andrew Ippolito: User delay tactic, so you guys can get your notes down all right i'm gonna move on.
+17:25
+Andrew Ippolito: sack rides. Andrew Ippolito: Macro molecules of polymers of models that cries very long chance hundreds of thousands alright so we're way beyond dissect ride down.
+17:37
+Andrew Ippolito: And they can roughly be classified as two different functions, they can either be used again for short term energy storage.
+17:50
+Andrew Ippolito: or they can actually be used to build things. Andrew Ippolito: And this is something we're going to see a lot this semester, so one of the like if if I had to write a bullet list of fundamental principles of biology.
+18:02
+Andrew Ippolito: That that kind of permeate the whole semester, you know one already form follows function. Andrew Ippolito: That that's something you're going to have in your head by the end of the Semester you priority habit in there here's another one now there are some things you can describe this functional and other things you can describe a structural.
+18:19
+Andrew Ippolito: Think of the difference between an enzyme and a filament protein that builds your site oh skeleton.
+18:24
+Andrew Ippolito: Right some things have cool moving parts and do cool things others just stand there and do nothing, and without them, things would fall apart.
+18:32
+Andrew Ippolito: Right and so so some poly saccharine play a role in storing energy okay so they're functional and others are just strong and we can use them to build things like plant cell walls or the exoskeleton arthropods.
+18:50
+Andrew Ippolito: or tardigrade. Andrew Ippolito: So what we're going to do now is talk about just the energy storage policy records and so here's what I want you guys to start to do to me um.
+19:03
+Andrew Ippolito: I guess i'll just go here this This is called a concept map, and this is how I would be building your brains information here you got your macro molecules let's call macros and then you got your carbs and within the carbs you have your mom knows.
+19:21
+Andrew Ippolito: Your dies, and your polly's. Andrew Ippolito: Right and then within the polly's Jaeger functional long's your structural ones.
+19:31
+Andrew Ippolito: And then, and so like that, like build a taxonomy of this stuff. Andrew Ippolito: Your brain will think, because this is how our brains kind of work, our brains memories.
+19:43
+Andrew Ippolito: are built on these connections between words it's like a relational database your brains a relational database, and so the more connections, you can build to a word.
+19:53
+Andrew Ippolito: The quicker you'll be able in the more efficient able to recall it. Okay.
+19:59
+Andrew Ippolito: So i'm going to delete that now that's just you can do that, however, you want that's that can be part of a studying session that you do.
+20:05
+Andrew Ippolito: Like lay it all out connect the dots if you're using index cards which I generally don't recommend, but if you're using them, you can lay them out on your ground on the ground and put them into particular shapes based on their relationships.
+20:21
+Andrew Ippolito: So the energy storage polly saccharine. Andrew Ippolito: Long chains of glucose and only glucose.
+20:28
+Andrew Ippolito: Okay, and we're going to see that their helical structure, generally, and the reason why they're helical like this is the formula like spring shapes is to make them accessible.
+20:40
+Andrew Ippolito: To get a hydro politically clean cleaved by enzymes.
+20:46
+Andrew Ippolito: Okay that's why they're shaped like this is what we're going to see in the structural poly saccharine the form stacks of their flat stack so they're hard to get to right, so the key here is their spring and so they're easy to get to form follows function.
+21:04
+Andrew Ippolito: Okay, and we'll see more pictures of this. Andrew Ippolito: So in plans we're going to see starch think eat your potatoes your beats and all that you got your starch and so starch is a combination of two.
+21:21
+Andrew Ippolito: varieties. Andrew Ippolito: there's AMA Los which is completely on branched it's just a big long chain and glucose that coils up like a spring.
+21:32
+Andrew Ippolito: And then there's mo pectin.
+21:38
+Andrew Ippolito: Which is branch right So if you wanted to doodle amarillo so it'd be like this amarillo pectin you can do it like this.
+21:49
+Andrew Ippolito: it's got a couple branches to it, not too many don't put too many just enough.
+21:54
+Andrew Ippolito: here's why the next one and animals, we have just one and it's called glycogen glycogen is highly branched, to the point where it's just a godly mess.
+22:06
+Andrew Ippolito: You store about two pounds of this in your liver when you're well fed.
+22:11
+Andrew Ippolito: And when you start exercising you start melting that glycogen this is your temporary energy storage for your blood.
+22:17
+Andrew Ippolito: So, as your blood sugar's go down your body taps into the glycogen reserves and it melts it into the blood keeping your blood at a relatively constant homeostatic amount of glucose that's okay lexus.
+22:34
+Alexa Deprisco: Excuse me, yes. Andrew Ippolito: Your excuse. Alexa Deprisco: So for the amarillo pectin does that have anything to do with like when you put pectin and like you know, like when you're making like a gel your jam stuff like that.
+22:46
+Andrew Ippolito: Oh no. Andrew Ippolito: No peck pectin is a my gosh I haven't thought about this it's a probably a protein it's a.
+22:55
+Andrew Ippolito: it's a protein that helps cross linking things to create.
+23:01
+Andrew Ippolito: A matrix which is like the jellies right you put i'm guessing you put back tenement jellies that's my brain is kind of you got pectin you got a.
+23:11
+Andrew Ippolito: agger you have. Andrew Ippolito: gelatin right Those are the three things that give us that kind of Nice texture and foods, the jelly like substance the jelly like substance.
+23:22
+Andrew Ippolito: And the guy that discovered I gross you know, do you know me petri dishes right, you know it stuffing petri dishes agra's that was discovered by a guys, he was working in the late 1800s and his wife was a.
+23:37
+Andrew Ippolito: She was doing a lot of baking and she learned that in the South Pacific they use them anger and the other foods.
+23:45
+Andrew Ippolito: And it has a much higher melting point and gelatin which they used to use when you bring gelatin to 37 degrees Celsius it melts you can't grow anything.
+23:54
+Andrew Ippolito: You bring a gross to that and it's still solid okay pectin I don't know anything about beyond what I said already, but amarillo pectin that's glucose molecules in chains that include some branches.
+24:11
+Andrew Ippolito: Okay, and i'll show you pictures of all these now So here we go here's your envelope on the right hand side, you can see both the you know chemical structure of it and quasi 3D and you can see.
+24:21
+Andrew Ippolito: The loops there that's not from your book you'll see that here, I forgot, where I found this I mean that might be from the Wikipedia article, for all I know.
+24:29
+Andrew Ippolito: Okay, so we find that most some plants. Andrew Ippolito: And so here's where i'm going to start to do some chemistry now Okay, you can you should understand this and you're going to need this organic chemistry leader anyway so pay attention.
+24:41
+Andrew Ippolito: These are called alpha or beta one four or one six linkages here, let me, let me I realized this, let me get to a simple group, let me go all the way back to glucose for a second so bear with me.
+24:58
+Andrew Ippolito: I want to get you a big picture of glucose were there okay okay look at this.
+25:04
+Andrew Ippolito: that's glucose and see the see the red numbers. Andrew Ippolito: Those numbers are the counting of the carbons so we would call this the one carbon to carbon the three carbon the for carbon the five carbon and then a six carbon sticking up my space there right so like this.
+25:22
+Andrew Ippolito: 123456 right, and this is an oxygen over here so we're not paying attention to that right now.
+25:32
+Andrew Ippolito: One we're going to build chains of glucose. Andrew Ippolito: we're going to take this one carbon and here, let me draw a second glucose right here.
+25:41
+Andrew Ippolito: i'm just trying the carbon backbone. Andrew Ippolito: Okay, so this again 1-234-561-2345 six i'm going to build the bond here here's the like acidic linkage between the one carbon of the first glucose and the for carbon of the second glucose.
+26:04
+Andrew Ippolito: Now. Andrew Ippolito: me the space my toys out here.
+26:09
+1234512345.
+26:17
+Andrew Ippolito: Right this, this is a concept that you're going to see more when you take your organic chemistry.
+26:25
+Andrew Ippolito: Okay, so here, you see this, this is let's just forget the six carbon so i'm doing a mirror image here I gotta remember so.
+26:33
+Andrew Ippolito: Okay, so like one right 12345 right that's what we're looking at there.
+26:40
+Andrew Ippolito: here's the second one here.
+26:45
+Okay. Andrew Ippolito: So we're we're doing it like this right Okay, so when you build these when you build these bonds, you see how the carbon here.
+27:00
+Andrew Ippolito: You see how I can go. Andrew Ippolito: I can go up like this to that so up or or I can I could go down to that.
+27:12
+Andrew Ippolito: Right, so if so understanding that in 3D here, look at the screen again the way you represent, that in 3D.
+27:19
+Andrew Ippolito: Is here I mean draw another exit gone over here. Andrew Ippolito: Is I would draw like this.
+27:27
+Andrew Ippolito: Or, I would draw like this up or down you see that so that corresponds to that remember that the carbons tetrahedral it's a it's a triangle shape rate or pyramid so, so this is alpha.
+27:39
+Andrew Ippolito: And this is beta that's all that means alphas and betas down, I think it might be the other way around, but i'm pretty sure alpha alpha is up pretty sure So you see how I drew this over here, I put the oxygen going up like it up angle right, that would be an alpha one for.
+27:59
+Andrew Ippolito: Okay, in contrast. Andrew Ippolito: If I was attacking this one carbon or sorry attaching this one carbon to the sixth carbon, which would be up here, so this to this that I would be a one six linkage.
+28:18
+Andrew Ippolito: Okay, and so these chains that you're forming if I if I just doodle a bunch of chains like this, the change themselves the unbranded again, these are all one force.
+28:30
+Andrew Ippolito: Okay, if I want to put a branch in there, you can imagine, all these glucose has had that that six carbons sticking up here, I can now build a bond going up this way that would be a one and six.
+28:43
+see that. questions. Alexa Deprisco: So the same chain can have like different carbon linkages then.
+28:52
+Alexa Deprisco: Yes, that's the. Andrew Ippolito: Key is one glucose molecule. Andrew Ippolito: You can think of them as like the keystone or the crossroads they'll have one force going in both directions and a one six going up.
+29:05
+Andrew Ippolito: You got it. Alexa Deprisco: One straight chain, though it would typically be like all in 1416 but then going the other direction that's when it would change link.
+29:15
+Andrew Ippolito: got all. Andrew Ippolito: The chain it's one for is always the chain one six is the branch so you'll see only an occasional one six.
+29:24
+Andrew Ippolito: Because yeah you're right yeah the big change coming off of it so most of the bonds are always one force and here let's now that you understand the molecular side of it let's look back at the bigger picture of it now.
+29:34
+Andrew Ippolito: Go back to this. Andrew Ippolito: Okay, so that's animals, right here on branch meaning those are all the ones one force.
+29:46
+Andrew Ippolito: Okay. Andrew Ippolito: And right here so that's that's the oh, and I did drop so i'm sorry alpha goes down not up, I know, one of the other.
+30:00
+Andrew Ippolito: It doesn't matter, because if you look at, if you look at the glucose 3D structure you'll see this carbon coming up into space, right here, right if you doodle the cartoony version of glucose it's always got this tail it's got a carbon that sticks up out of it like an antenna.
+30:14
+Andrew Ippolito: Okay, and so that would be alpha. Andrew Ippolito: And that would be beta.
+30:21
+Andrew Ippolito: So beta would be the the less energetically favorable one because you're closer to that carbon, which is going to be repelling you so that's not a good bond, so the Alpha one for is the one that makes the most sense and it turns out, when you build this chain of glucose is.
+30:35
+Andrew Ippolito: The glucose is have this this dance they do with each other, they repel each other, they attract each other, this is a organic molecule that is polar right so there's going to be hydrogen bonds everywhere.
+30:45
+Andrew Ippolito: And it turns out there, these little hydrogen bonds that are formed within these Ulysses and that's what keeps the helix intact.
+30:52
+Andrew Ippolito: we're going to see that in protein structure to. Andrew Ippolito: Okay, so that's that's a most look at amyloid pet him oh so one one little more detail here's their so because they're not branched they're more soluble in water.
+31:06
+Andrew Ippolito: they're awesome more compact can cover like a spring think of it like a slinky Okay, you can compress it and so it's going to be harder to break this down this is harder to digest.
+31:20
+Andrew Ippolito: This molecule okay so don't immediately start thinking rice has hellos and potatoes have mo pectin starch starch is a combination of both of these things.
+31:32
+Andrew Ippolito: Okay starch has both animals and i'm affected so let's go to the next slide here, where you can see that the branches now Okay, so the mo pectin has both the Alpha one force and some alpha one success.
+31:48
+Andrew Ippolito: Okay. Andrew Ippolito: As you can see over here.
+31:59
+I don't like to T glucose. Andrew Ippolito: don't worry about that remember in the antivirus the LM the deform you don't have to know this level of detail at all.
+32:10
+Andrew Ippolito: You don't don't worry about this in terms of studying for the test. Andrew Ippolito: This is, this is the stuff I wanted to know I ripped us off the Internet, the reason why I stole this picture, was it shows you the higher level structure of amarillo pectin you can see the branching and the pattern and it's more open.
+32:29
+Andrew Ippolito: So it's easier to digest. Andrew Ippolito: Okay, so you can think of, think of starch itself as having a combination of easy to digest and harder to digest components to it.
+32:44
+Andrew Ippolito: Okay, so that's i'm a little pectin you can see in this picture here here's the Alpha one six or here, so if I was doodling this that's the Alpha 114 and then there's the one six coming off like that.
+32:58
+Andrew Ippolito: And so, this one glucose right here that one glucose molecules three different bonds it's got one coming in from the side it's got one going out that side, so one coming up over here.
+33:11
+Andrew Ippolito: Okay. Andrew Ippolito: All right, so Sam or Sam or picking them out the last one here is what we have in our leverage, this is called glycogen glycogen is only found in animals it's a highly branched and it includes many, many of the Alpha.
+33:29
+Andrew Ippolito: We store this in our liver, and this is the reservoir we use to maintain our homeostasis of blood sugar concentration.
+33:39
+Okay. Andrew Ippolito: And you can see, it forms basically these worlds w H Ai R worlds you've if you've seen that were before you know, like whatever i've seen that before flowers for the pedals of a flower world that's what that world word means turns.
+33:57
+Andrew Ippolito: A whirlwind spinning right things that are twisted so you would say, like the glycogen is a world structure.
+34:07
+Okay. Andrew Ippolito: And just as a you know point of interest we're not really, this is not an applied science class but there's occasionally we come across things that are of human interest so most people know a diabetic and most some of us are diabetic.
+34:21
+Andrew Ippolito: type one diabetes is an autoimmune disorder that people acquire early in life very, unfortunately, I have a cousin natalie that has that.
+34:31
+Andrew Ippolito: And people with type one diabetes have to suffer their whole life by maintaining manually maintaining their blood sugar levels using insulin here's how that works.
+34:42
+Andrew Ippolito: The simplest way to think of it as if here's your blood vessel. Andrew Ippolito: You know, some sugar in it.
+34:47
+Andrew Ippolito: And you got your liver over here, and you got your clothes i'm sorry your glycogen.
+34:53
+Andrew Ippolito: Right, so the the basic mechanism is making some go enter go out and there's like as you'll learn later in life, if you take any other classes like anatomy and physiology or any physiology class enzymes.
+35:07
+Andrew Ippolito: Control this and there's always there's usually opposing enzymes to maintain the seesaw going in one direction or the other okay so insulin is the enzyme that pulls sugar out of our blood and into the glycogen there by decreasing the amount of sugar in the blood.
+35:27
+Andrew Ippolito: And the opposite, we want us called glucose glucose oh my gosh glucagon glucagon.
+35:34
+gone. Andrew Ippolito: And that puts it into blood. Andrew Ippolito: There are no known human diseases or pathologies that involve a mutation and glucagon, and the reason for that is most likely a mutation and glucagon would be lethal.
+35:51
+And the. Andrew Ippolito: Embryo wouldn't develop because it can't get past a certain point, because you need glucagon.
+36:01
+Andrew Ippolito: Whereas insulin we lose later in life, whether quickly like in type one diabetes.
+36:07
+Andrew Ippolito: And then type two diabetes cuz two variants it's called insulin resistance Okay, and so what how insulin does this is basically cells have receptors on our surface that bind to insulin.
+36:20
+Andrew Ippolito: And that allows the transport of glucose and.
+36:25
+Andrew Ippolito: insulin and glucose and people that develop a resistance to insulin as because they had this chronically high blood sugar for many decades.
+36:33
+Andrew Ippolito: And they end up just needing even more insulin to do the same amount of work kind of like being addicted to a drug, you need more to get the same effect and so that's that's the concept of insulin resistance.
+36:45
+Okay. Andrew Ippolito: So you have to supply them with extra insulin. Andrew Ippolito: You can avoid type two diabetes generally by having a well balanced diet eating healthy exercising regularly and not drinking a whole bunch of what we call high fructose corn syrup.
+37:03
+Andrew Ippolito: Okay, and so fructose the reason why fructose is bad for us is because, when we eat, so we got this stuff called sucrose.
+37:12
+Andrew Ippolito: sucrose is both glucose and fructose.
+37:18
+Andrew Ippolito: High fructose corn syrup just has more of this stuff in it from chemical processes for extracting corn.
+37:26
+Andrew Ippolito: Okay, when we eat glucose we either use it, or we lose it it goes out through your urine if you don't use it in your your P would have a higher concentration glucose fructose has to go to the liver.
+37:40
+Andrew Ippolito: Where is then processed into a fatty acid, and if you don't use that right away, it goes into your adipose tissue.
+37:50
+Andrew Ippolito: Okay, so nature, this one, I was, I remember, I was still I still remember the moment I had this thought I was walking out my neighborhood around the circle, and I was thinking about sucrose.
+38:01
+Andrew Ippolito: And isn't it amazing so we're going to see you later on with your genetics plants.
+38:07
+Andrew Ippolito: Co evolved with animals right flowering plants in particular are so wildly successful because the Insects are so wildly successful.
+38:16
+Andrew Ippolito: You know the idea of insects pollinating flowers that whole relationship there and nectar nectar was the thing that got the flowers to convince the insects to come and get their pollen.
+38:30
+Andrew Ippolito: Stick the pollen to their bodies and. Andrew Ippolito: Go to the next flower and pollinate that flower you give an insect just a little bit of nectar and you entice it enough to go in and dig around and get the pollen all over it, but you don't give it too much if you give it too much.
+38:44
+Andrew Ippolito: Then it's going to go home and eat it, whereas if you just give it a little bit it's going to go have to find more and more and more that's why you see the bees sitting there going to multiple flowers.
+38:52
+Andrew Ippolito: There you know it's like collecting pennies right imagine, so a penny on the ground, you like Oh well, maybe $1 I guess a penny really most of us probably walk past a penny at this point.
+39:02
+Andrew Ippolito: Especially if it's like dirty in the mud right, but if you saw $1 bill, maybe you're like a you know $1 coin, you know there's $1 coin, and if you kept walking and you kept seeing these dollar coins.
+39:13
+Andrew Ippolito: And you didn't have the paranoid thought somebody leading me into a trap, I suppose you just kept collecting them you just go wherever those qualities that's what the bees are doing so flowers have convinced bees, not just bs ball and sex.
+39:26
+Andrew Ippolito: that's that's how they sexually reproduce they control us.
+39:32
+Andrew Ippolito: Plants convinced us were in charge, but really the plants are in charge. Andrew Ippolito: And so um.
+39:40
+Andrew Ippolito: Oh boy I just lost my train of thought there sorry.
+39:45
+Andrew Ippolito: I very rarely have a senior moments I just had one say.
+39:51
+Give me a second.
+40:00
+Julia Lakchin: Be is going to different plan something with sucrose. Andrew Ippolito: yeah.
+40:07
+Andrew Ippolito: that's what chronic sleep deprivation does to. Andrew Ippolito: i'll get back hold on hold on i'm getting there i'm.
+40:18
+Andrew Ippolito: me look at the screen oh there we go I just had to look at the screen sucrose so nectar is got sucrose right that's the sugar that plants entice us with, and if you think about it sucrose is made 5050 images immediate energy use and store some for a rainy day.
+40:37
+Right. Andrew Ippolito: which we use the glucose only store, the fructose and that's an optimal survival strategy is to eat a food that gives you both immediate storage and then save a little for leader.
+40:51
+Andrew Ippolito: Now, if only we can all do that with our paycheck right imagine being able to put half your paycheck in the bank and just watch it grow over time.
+40:58
+Andrew Ippolito: that'd be nice some of you are doing that I hope if you can't do that yet. Andrew Ippolito: live below your means.
+41:07
+Andrew Ippolito: become fat and happy financially. Andrew Ippolito: Just not with sugar.
+41:12
+Andrew Ippolito: Alright that's that's my little contextual tangent for the day here we go.
+41:20
+Andrew Ippolito: So there's, this is a summary slide for that, and you can use this later and then here's this is from my old textbook that I used to use and mako non majors but this slide is just great you can see.
+41:33
+Andrew Ippolito: visually the animals in the animal pectin you can start to see how the chains and branches work and then the electron micro graph is my favorite, this is a This is called a.
+41:43
+Andrew Ippolito: Look at past Lou go past Luca past or in sometimes they're called ammo past, these are plastics within a plant so.
+41:55
+Andrew Ippolito: we'll learn about those in a bit and what's just need about these is, if you look at these little starch granules they themselves look like little potatoes.
+42:04
+Andrew Ippolito: potatoes have potatoes. Okay. Andrew Ippolito: form follows function as well that's a smooth regularly shaped thing made out of smooth regularly shaped molecules.
+42:20
+Andrew Ippolito: If you look at glycogen in your liver, you can see the world's if you look carefully, you can see the world shapes here is little splotches of glycogen right but it's very disorganized because it's highly branched.
+42:33
+Andrew Ippolito: Okay, and that's all i'd say about that starch granules glycogen granules and now we're going to talk about the structural poly saccharine.
+42:42
+Andrew Ippolito: Including cellulose. Andrew Ippolito: Okay, so here's the simple version of silos unlike.
+42:49
+Andrew Ippolito: Unlike. Andrew Ippolito: starches. Andrew Ippolito: You sell these are all alpha one for see how I do that they're all the same that's going to give rise to a nice helix.
+43:02
+Andrew Ippolito: Okay, instead, if I do this.
+43:08
+Andrew Ippolito: Down up down up and altering Alpha and beta.
+43:13
+Andrew Ippolito: What that's gonna do is cause those carbons that are sticking out to also alternate like this, and when you have that situation.
+43:22
+Andrew Ippolito: You create flat chains, instead of phila seas and when you have these flat chains, you can also picture.
+43:31
+Andrew Ippolito: These carbon sticking up, which have a hydroxyl group on them or polar they're going to be able to engage in hydrogen bonds with the chain above it like this that I have drawn up here in the right side these light blue light blue lines correspond to hydrogen bombs.
+43:50
+Andrew Ippolito: And those hydrogen bonds are keeping these cellulose fibers stuck together this gives them strength, this is a strong structural component, and this will plan cells walls or may not have that's What if you're wearing a cotton shirt, this is what your shirts are made out of.
+44:09
+Is what papers made out of. Okay.
+44:17
+Andrew Ippolito: And i'm sorry I always do this I always I don't know why I do this every semester, I have this burned into my head that they're alternating they're not all funny they're just betas.
+44:27
+and Andrew Ippolito: i'm not. Andrew Ippolito: quite sure why I had that in my head wrong, so I was, I was mistaken with the alternating things and you were just drawing this and, instead, the correct response, I want to do is for the slide was they are beta they're all beta.
+44:50
+Andrew Ippolito: Instead of alpha. Andrew Ippolito: Okay, so, if you look up at the top here.
+45:00
+Andrew Ippolito: That what i'm circling is the sixth carbon that's sticking into space and you'll see that, for reasons that I don't fully understand that the moment, instead of so what the beta does because it's opposing that carbon sticking out, it allows it to sit flat instead of to form these Ulysses.
+45:23
+Andrew Ippolito: And the name of one of these is called a microfiber ill. Andrew Ippolito: And you put them together in stacks to form these fibers.
+45:38
+Okay. Andrew Ippolito: So here, this is probably why I have it in my head, this is the very first slide ever used teaching us many years ago, and if you look carefully.
+45:49
+Andrew Ippolito: You can see that these are zigzagging but.
+45:55
+Andrew Ippolito: it's if you look closely you'll see. Andrew Ippolito: That this is drawn like this, so it's that one's inverted upside down and then we're going to invert it again, so this inverted one or the carbon sticking down here.
+46:13
+Andrew Ippolito: This is still up compared to him standing on his head right, if you think about glucose always staying like this and the beta is this.
+46:28
+Andrew Ippolito: Right, so, in other words, this is going up this is here.
+46:33
+Andrew Ippolito: see that going up, and this is here, the next one for it's upside down.
+46:39
+Andrew Ippolito: Right it's like this, and so from that if you were to turn the monitor upside down this would still be up with respect to this and that's why I did this exactly, so it is correct that it's a zigzag but it's incorrect to say it's alternating alpha betas.
+46:53
+Andrew Ippolito: That was a mistake, I mean it's all beta one for. beta wonderful.
+47:02
+Andrew Ippolito: And what that does is it basically relaxes the helix and let it stay as a stack.
+47:08
+Andrew Ippolito: hey Have you ever had a like a 50 foot extension cord. Andrew Ippolito: And you've had to wrap it up on your hand raised and if ever had to do that before just a big long cord okay.
+47:19
+Andrew Ippolito: Have you ever learned how to do it, where you go through you wrapped around at once, and then you grab it and as you're wrapping around the second time you twisted Have you ever done that.
+47:30
+Eric Mathew: I don't listen like. Andrew Ippolito: Eric knows what i'm talking about Okay, I learned this on a YouTube video for years ago when I was putting towards the way it turns out, when you twist the cord every turn it sits Nice and flat.
+47:44
+Andrew Ippolito: Whereas the way we do it without doing that it's kind of puffy and the weight and the reason for that is you're relaxing as you call it.
+47:52
+Andrew Ippolito: And you twist it at the same time you're relaxing the tension in the coil twist and that's pretty much what this is doing if you don't twist this every other one and you just put them all the same.
+48:08
+Andrew Ippolito: you end up with a helix. Andrew Ippolito: So if you have a really big long extension cords somewhere in your House and your garage.
+48:17
+Andrew Ippolito: undo it and then grab grab one side of it and then start doing this, but every time you go around once grab it like outside of the loop and then twist it as you're coming in twisted like this and you'll notice that it stacks beautifully for the same reason, this stacks beautifully.
+48:38
+Andrew Ippolito: Okay, so form follows function, we can't eat this The simple reason is our enzymes only attack one force that are alphas.
+48:49
+Andrew Ippolito: Okay, we are hydraulic enzymes in our stomach can't eat beta one force we can't attack those bonds are not accessible that's why we can't eat cardboard.
+49:00
+Andrew Ippolito: right if you had an enzyme if you were able to engineer an enzyme that broke this down very easily you can order your pizza and eat your pizza and then for dessert eat the box that came in.
+49:13
+Andrew Ippolito: And you just also happen to solve world hunger.
+49:19
+Andrew Ippolito: Why didn't somebody do that yet then. Andrew Ippolito: yeah they did, but they hit it and there's a conspiracy now they didn't do that you can't The reason is is the bonds are not easily accessible by the enzymes they the stalking kind of prevents the enzymes from getting in there, so an enzyme never evolved to break it like that.
+49:37
+Andrew Ippolito: Okay, at least, at least in our stomachs and our species. Andrew Ippolito: Alright guys that's how you pronounce it, by the way, it's not cheating i'm sorry to break that to your brain you've been saying that your whole life wrong it's not cheating it's not cheating it's cotton.
+49:53
+Andrew Ippolito: Even though this word is arch. Andrew Ippolito: And this word here is our enemy.
+50:01
+Andrew Ippolito: archenemy some people say arch enemy right but it's titan.
+50:06
+Andrew Ippolito: This is not a potato potato moment. Andrew Ippolito: This is being wrong I was wrong my life too until somebody I said chin chin and somebody say if you just say chin like what is it that it's kiting I looked it up it's gotten.
+50:22
+Even saying it wrong. Andrew Ippolito: chin you still want to say it is no cotton all kindness ready here, it looks see over here just die saccharin.
+50:33
+Andrew Ippolito: So die sack right you see there's one there's two sugars that are these aren't just ordinary sugars.
+50:38
+Andrew Ippolito: That thing right here, you don't have to memorize this structure i'm never going to make you memorize the structure for this class, but you can see there's an there's an A nitrogen attackers are rest of the molecule there's a nitrogen and then you have basically have.
+50:53
+Andrew Ippolito: What is that that's formaldehyde. Andrew Ippolito: i'm sorry that's not formaldehyde that's acetone this is acetone so ketone number ketones so take keep telling us stick it on nitrogen a stick it on glucose and you've got something called glucose to me and it's not just glucose mean it's a CEO glucose and mean.
+51:11
+Andrew Ippolito: Technically, because of where it's located on the structures and a pseudo glucose me and for reasons i'm not going to get into this is an organic chemistry thing.
+51:18
+Andrew Ippolito: Okay, you put two of these together, though, and this is the building block of came.
+51:24
+Andrew Ippolito: This is collectively called nsc to glucose.
+51:35
+Andrew Ippolito: And when you form palmer's of this, it is far stronger than sellers.
+51:43
+Andrew Ippolito: We find this in the cell walls of fun guy. Andrew Ippolito: he's an eye plants Bongo Bongo have Katyn in their walls, we also find these in the animal kingdom remember, I told you guys that fungus and animals were more related them plants and animals.
+51:59
+Andrew Ippolito: Are we've learned about the Epistle the cons and the family tree Well, this is one of the things we have in common with her our fungus friends, we have cotton.
+52:09
+Andrew Ippolito: humans have cut into we don't know what we do with it, though, but we have the gene for it.
+52:15
+Andrew Ippolito: The Roger law originally of mollusks is their tongue, but their tongue is coated with a kindness.
+52:22
+Andrew Ippolito: it's like sandpaper but worse you don't ever want to get licked by snail.
+52:28
+Andrew Ippolito: good thing they're small. Andrew Ippolito: They could borrow right into your head.
+52:33
+Andrew Ippolito: They linked to enough. Andrew Ippolito: Now I mean not really kidding but they don't do that they could they just choose not.
+52:45
+Andrew Ippolito: kidding aside, if you if you go to YouTube and type of watch us now eat. Andrew Ippolito: you'll see these got the circular a little mouth suction cup on to the glass tank and there might be some light green algae there, and you can see it's little Roger coming out and just like him liking it so it's like sandpaper now the cephalopod Beak.
+53:05
+Andrew Ippolito: And so, so cephalopods are things like squints and cuttlefish and their beaks are made out of pain.
+53:13
+Andrew Ippolito: And their tongues they also have Roger and those things look like things out of a nightmare go ahead and Google squint dunk and go take a look at that thing right if a giant squid licked you you wouldn't have skin left it would be terrible that would be the worst experience.
+53:33
+Andrew Ippolito: don't ever get leaked by a large a large squid.
+53:39
+Andrew Ippolito: And lastly, the scales of fish and amphibians, have titan in them that's what makes them so strong if you've ever D scaled the fish are gone fishing before you have you ever had you know the flakes of scales coming off on you that's all that's all cutting.
+53:59
+Andrew Ippolito: yeah on people who fish they they deal with this stuff regularly you know you gotta got the fish and clean the fish and.
+54:09
+Alexa Deprisco: Do all sorts of bad things to the fish, so you can eat it. what's up alexa data bonds.
+54:19
+Andrew Ippolito: paid up you know um.
+54:24
+Andrew Ippolito: You can't tell from that picture. Andrew Ippolito: it's like they did that on purpose they made that like neutral it's like you know yeah left handed scissors and right hand is scissors and I like or like shoes that are for know but it's like they just go straight instead of curb I don't know I don't I don't know if it's alpha beta.
+54:45
+Andrew Ippolito: It yeah it's just in the middle there. Andrew Ippolito: it's like half and half.
+54:51
+Andrew Ippolito: It is, it is one of the other, the other boys what i'm looking at you see how there's a symmetry to the molecule. Andrew Ippolito: You see how the market themselves or asymmetrical, so there is definitely an alpha or beta there if those are if it was symmetrical wouldn't matter we wouldn't call it anything but because there is a symmetry there is something I just don't have the answer for you sorry.
+55:08
+Andrew Ippolito: All right, that's that for sugars one out of four we can move through these guys a little faster now lipids aren't.
+55:18
+Andrew Ippolito: that's complicated in terms of their bonding and all that. Andrew Ippolito: This is the most diverse family of.
+55:28
+Andrew Ippolito: wow say the most proteins are the most diverse, this is a diverse family in terms of its foreign function lip is do a lot of different things.
+55:36
+Andrew Ippolito: What unifies them as a class of molecules are hydrophobic the fact that they do not form hydrogen bonds with water.
+55:48
+Andrew Ippolito: Okay, and so what do they do. Andrew Ippolito: One of the main uses of lip is for energy storage.
+55:56
+Andrew Ippolito: And the reason for that as we'll see later in the Semester is that the chemical bonds within leptin molecules are stronger and therefore can provide more energy to systems, then sugars sugars are more easily broken, and so the amount of energy they release is less.
+56:15
+Andrew Ippolito: will see them as structural components right, I mean they form the cell membrane.
+56:21
+Andrew Ippolito: And they also help protect us, and this is really for the Multi cellular creatures, like us, are fat padding protects us from mechanical stress like bumping into things and getting bruises.
+56:33
+Andrew Ippolito: they're also useful and cell to cell communication what will learn about very lightly will learn about hormones, and so there are steroid hormones, which is a class of lifted.
+56:44
+Okay. Andrew Ippolito: Alright, so we're going to learn about a few family, these are not all of the families of lipids, these are the common families eliminates that you should learn about as an introductory biology student.
+56:54
+Andrew Ippolito: it'd be triglycerides your fossil lipids and your steroids, and those are the ones, your book covers i'm going to add one here that should be in your book and it's not and it's kind of criminal that it's not notion of the waxes.
+57:07
+Andrew Ippolito: OK so again, the only way you're going to be able to learn about waxes through this PowerPoint my study guide there's nothing in the book about waxes at least I wasn't able to find it maybe it's somewhere in some weird later chapter.
+57:20
+Andrew Ippolito: But it's definitely not in this. Andrew Ippolito: Okay, so we're going to go through all these.
+57:26
+Andrew Ippolito: And I want to make a note here your book, you should the bottom and great here your book refers to these things as fats, this is a gross oversimplification of fats are a name, we use to define triglycerides that are solid at room temperature and that's.
+57:43
+Like a.
+57:49
+Andrew Ippolito: Well i'll talk more about this later, but first let's understand what they are so when we say try the lesser ride you see the ID.
+57:59
+Andrew Ippolito: Okay, that molecules that end an ID these her family of things, called esters.
+58:05
+Andrew Ippolito: And as we'll see an ester is a special kind of it's not really a function on group per se.
+58:12
+Andrew Ippolito: But we'll see these instead of drawing it there i'll show it to you in a second first let's learn about the building blocks here it's important understand these aren't monomers.
+58:21
+Andrew Ippolito: This is an ammonium or polymer thing these are just building bus we're going to put together we're going to assemble triglycerides the most common component.
+58:29
+Andrew Ippolito: Is glycerol, which is a three carbon 123 a three carbon alcohol.
+58:37
+Andrew Ippolito: And then we have these things, called fatty acids, a fatty acid chain is a huge long hydrocarbon chain that ends and not functional group the carb oxalic acid that we learned about last time.
+58:52
+Andrew Ippolito: And you see here, you see how it's usually 16 to 18 notice that's an even number.
+58:58
+Andrew Ippolito: When we do the Krebs cycle later we're going to see that as we metabolize these we're going to rip these often chunks of two's that's why they're always even.
+59:09
+Andrew Ippolito: Okay, so we're going to take three fatty acids and we're basically going to react this functional group with this functional group three times and we're going to fuse them together in something called a certification and I have that on the next slide.
+59:25
+Andrew Ippolito: Okay, so here it is ready here's a certification. Andrew Ippolito: Let me just jump over here, Australia, what what it is so if you're looking at the, this is a condensation reaction right and remember condensation reactions require an O H, and an H so we're going to take this oh ah, and this ah.
+59:46
+Andrew Ippolito: i'm going to pull them off into water. Andrew Ippolito: And in the process of pulling those off we're gonna take this carbon that's was attached to the O H, are going to take this oh that was attached to this age and we're going to form a bond here and that's what you're looking at right here.
+1:00:06
+Andrew Ippolito: Okay, so the ester is some side chain with an oxygen.
+1:00:14
+Andrew Ippolito: A carbon. Andrew Ippolito: that's what I just drew there that's an ester notice that it's just an unusual configuration of oxygen and carbon.
+1:00:25
+Andrew Ippolito: Okay, and so that's the named bond you had like acidic linkages for sugars, you have Esther bonds for triglyceride for for leopards you'll see these and other places do Okay, so this is how you assemble the triglyceride.
+1:00:40
+Andrew Ippolito: Through an extra vacation reaction questions.
+1:00:47
+April Neeld: Some of you like a little confused or you're thinking it looks like the same thing as dehydrated.
+1:00:54
+Andrew Ippolito: Oh. Andrew Ippolito: Sorry, there you go okay. April Neeld: um it looks like dehydration, since this is to me is that, like the same thing.
+1:01:01
+Andrew Ippolito: Like yeah yeah did I said condensation I might my brain I learned all this back in the day is condensation but now it's.
+1:01:07
+April Neeld: called dehydration it's the same thing, yes. Andrew Ippolito: This is a dehydration reaction.
+1:01:17
+Andrew Ippolito: right and just like we've learned about those it requires energy, this is an organic reaction right, so we, in which makes sense right, we need energy to build things and we're building a triglyceride here.
+1:01:28
+Okay. Andrew Ippolito: Alright, so once you have that in mind, you can do to these like this draw capital E and then just put some chance on it like this, and I should triglyceride.
+1:01:38
+Andrew Ippolito: And you can put double bond goes in here to or the old double bond or, if you want to get technical, but just if you want to just get something in your head draw something that looks maybe like a jellyfish.
+1:01:51
+Andrew Ippolito: Right it's just that's that's the triglyceride.
+1:01:56
+Andrew Ippolito: And this is a like a unit of storage in ourselves that we use for.
+1:02:02
+Andrew Ippolito: for energy. Andrew Ippolito: Okay, so here's just a cauterized version of that and, again, you can see the ester bonds in here Okay, but but we're now going to transition to talking about the bonds within the fatty acid chains Okay, so, if you look carefully right here you're not sure that King can achieve.
+1:02:21
+Andrew Ippolito: Right, we talked about this on Monday, where we talked about the degrees of freedom that a single Kobe on bond has, if you look up at me for a second right we've talked about this right there's your single bond.
+1:02:32
+and Andrew Ippolito: If we take a double bond. Andrew Ippolito: put that on the chain.
+1:02:45
+and the rest of the chain here now.
+1:02:55
+Andrew Ippolito: Okay, so here's a double bond within a hydrocarbons, and let me lay all this out, Nice and even now, so these things, these things in the cell these things in nature they're doing this okay look at me.
+1:03:05
+Andrew Ippolito: they're juggling with their own intrinsic energy remember everything's always juggling so they're juggling so as the jiggle they will tend to fall into the most comfortable.
+1:03:17
+Andrew Ippolito: shape Okay, we call that their lowest energy confirmation.
+1:03:22
+Andrew Ippolito: they're the easiest okay and So here we go okay now if you step back and look carefully at what I just did here, you see how this looks just like any other zigzag we've drawn there's no kink in that chain.
+1:03:37
+Andrew Ippolito: Right this looks just like as if that double bond, there was a single bond see that.
+1:03:44
+Andrew Ippolito: Okay, now, when we have three fatty acid chains that look like this, where they're fully saturated.
+1:03:53
+Andrew Ippolito: Right well here let's so let's do me a favor pretend, this is a single bond for our purposes right now i'm gonna hold it like this, just pretend in your head, these are all single bonds okay.
+1:04:03
+Andrew Ippolito: If I had three of these 123 you see how they would stack Nice and evenly on top of each other, in other words, if you took three of your fingers and did this, they would stack like nice wet spaghetti noodles on top of each other.
+1:04:15
+Andrew Ippolito: In other words, excuse me. Andrew Ippolito: They would be highly ordered, this would be an ordered structure right, so this would be a solid at room temperature, this is a fat, this is your butter or your crisco or your lard okay.
+1:04:34
+Andrew Ippolito: Now, look at this now, when I say that is a double bond there it is, but the notice that this double bond renders this fatty acid chain to look as if it was saturated right now look closely and look at the summer, it is, is this sister trans.
+1:05:00
+Andrew Ippolito: You tell me, is it just a SIS or a trans. Andrew Ippolito: configuration.
+1:05:08
+Andrew Ippolito: Trans good. Andrew Ippolito: This is trans why okay so here's the double bond and in your head, what I want you to do is you're drawing an imaginary.
+1:05:18
+Andrew Ippolito: plane. Andrew Ippolito: across that double bond like this Okay, and then you're looking at this carbon.
+1:05:27
+Andrew Ippolito: And this carbon and you're asking yourself where's the how is a built it's this this connection here is on the opposite side of this connection here.
+1:05:39
+Andrew Ippolito: i'm sorry it's hard to see this connection here, so this, these are the two carbons engaging the double bond right these two carbons here we're going to look at this carbon we're going to see this is going up on the side.
+1:05:50
+Andrew Ippolito: And miss carbon is going down on the other side, in other words on opposite sides this connection to this carbon is on the opposite side.
+1:05:57
+Andrew Ippolito: Of this connection to this carbon you see that okay so here watch let's make this this watch this i'm just going to i'm going to take this whole going to break that whole part off the chain here.
+1:06:10
+Andrew Ippolito: Right so so it was right here, right i'm going to do this now want to take this off, and when I put it up above it now.
+1:06:19
+Andrew Ippolito: Now that SIS see two assists okay now watch this there's not see how that looks different that's that's not an evil that's a kink in the chain right, I can rotate around this bond here.
+1:06:34
+Andrew Ippolito: And I can put a hold this is a mess, you see this, this is not a nice evenly sitting.
+1:06:42
+Andrew Ippolito: molecule I can't rotate around this bond that this is the kink in the chain, and so this molecule and solution is always going to be more chaotic, it has a has more degrees of freedom, it has more jiggle room.
+1:06:57
+Andrew Ippolito: This is a cyst fatty acid. Andrew Ippolito: Okay, this is a trans fatty acid and so now, you can understand why you're not supposed to eat trans fatty acids, a trans fatty acid will be a solid at room temperature, just like a fat, these are more dangerous for our bodies.
+1:07:16
+Andrew Ippolito: assist fatty acid. Andrew Ippolito: is healthier for us because it's a liquid at room temperature Okay, and that right, there is the difference between the words oil and, in fact.
+1:07:29
+Andrew Ippolito: Right so fats are solid at room temperature oils are liquid at room temperature.
+1:07:36
+Andrew Ippolito: And that's actually the chemical definition at standard temperature and pressure under stp circumstances if the molecules solder, at 25 degrees Celsius at one atmosphere pressure we call that a fat.
+1:07:50
+Andrew Ippolito: And if it's liquid at room temperature it's an oil your book does not distinguish these, and I think I would like to say it's wrong, it calls all triglycerides fats.
+1:08:03
+Andrew Ippolito: And it would, so it would it would call an oil a fat which hurts my brain a little bit.
+1:08:10
+Andrew Ippolito: Okay, so here's the speech still model, you can get to understand now there's there's a world of fatty acids you don't have to memorize these This is just for flavor at this point.
+1:08:21
+Andrew Ippolito: no pun intended Paul medic acid is a fully saturated fatty acid, and you can see it stacks very nicely linoleic acid, on the other hand, has not one, but two.
+1:08:35
+Andrew Ippolito: bonds that are both SIS. Andrew Ippolito: Right and so, if you're questioning like, how do you know it sister not look at this and, like zoom into it you'll see here's your see double bond see.
+1:08:45
+Andrew Ippolito: Okay that's going up in that direction and that's going in the other direction, so they're on the same side of the double bottom that says.
+1:08:54
+Andrew Ippolito: Okay, now the way they drew this over here. Andrew Ippolito: We can't determine if that sister trans because this line is going straight here, but because it's a kink in that chain, we could surmise it's another SIS bond, because if it was a trans it would be another zigzag would just it would just.
+1:09:17
+Andrew Ippolito: let's see how would it look, this would go down like this, it would continue.
+1:09:23
+Andrew Ippolito: This is exactly like that okay so because it's not doing that i'm going to see it's another SIS okay So you see this molecule here that's got a permanent kink in the gene.
+1:09:35
+Andrew Ippolito: And so I tried cholesterol oh my gosh I triglyceride has the potential.
+1:09:43
+Andrew Ippolito: To have three different fatty acids, you can imagine a fatty acid chain of pathetic acid all three of them.
+1:09:52
+Andrew Ippolito: Are you can imagine it's got to palm medic acids and one linoleic acid, so you can see the diversity, here we don't have to know the diversity just be aware that it exists, if you take a bio chemistry class that's where you start getting into the nitty gritty of this.
+1:10:05
+Andrew Ippolito: Okay, so the take home to all this, what I want you to make sure you understand is the difference between assists and a trans fatty acid and the consequences of being.
+1:10:16
+Andrew Ippolito: also understand the concept of saturation when we say a fatty acid or amy organic molecule is saturated What that means is it's saturated with hydrogen in particular so here, let me.
+1:10:30
+Andrew Ippolito: To hit on that concept let's just take a simple hydrocarbon chain like this Okay, you see how these are all single bonds.
+1:10:37
+Andrew Ippolito: The reason, these are all single bonds is because the carbons which always have for bonds are occupied, although it's not shown here all these other bonds are to hydrogens.
+1:10:50
+Andrew Ippolito: And so we would say this is fully saturated with hydrogen to can't hold any more, just like if you had a sponge and you held it underwater for a couple minutes.
+1:10:58
+Andrew Ippolito: You would say that the sponges fully saturated or you pull it out of the water you can't use that to mop anything up it's already full this can be used to mop up any more hydrogen, if you want to think of it that way.
+1:11:10
+Andrew Ippolito: On the other hand, if you got that double bond, this has some room to get some hydrogens in it right so imagine a chemical process that forced hydrogens in here it broke this bond and it forced hydrogen to be attached to the carbons instead that's a process called hydrogen nation.
+1:11:33
+Andrew Ippolito: Hydrogen nation. Andrew Ippolito: And you've probably all heard the phrase partially hydrogenated vegetable oil.
+1:11:44
+Andrew Ippolito: margarine country crack. Andrew Ippolito: The reason why margarine exists as a product is because, as we were learning.
+1:11:54
+Andrew Ippolito: Jordans literally holding up country cry Thank you Jordan. Andrew Ippolito: The reason why we have these things is we used to think that butter was bad for us.
+1:12:06
+Andrew Ippolito: Because it was a soldering temperature might give us clogged arteries, and it was heart attacks, and so they invented they took vegetable oil and they chemically treated it so that they could force it to be more saturated but not too much.
+1:12:21
+Andrew Ippolito: And so you can think of a spectrum between you know hardcore butter and extra virgin olive oil and margarine is kind of in the middle there this mushy semi solid.
+1:12:35
+Andrew Ippolito: And turns out from a health perspective that butters just as fine as margarine to you so it's just a matter of preference and so ready what i'm about to teach you is going to blow your mind.
+1:12:50
+Andrew Ippolito: The reason why you leave your butter in the refrigerator right raise your hand if you put your butter on their fridge.
+1:12:56
+rater if you don't. Andrew Ippolito: Who leaves or butter at room temperature.
+1:13:02
+Andrew Ippolito: Anybody. Andrew Ippolito: room temperature yes okay why.
+1:13:09
+Taylor Campbell: Go ahead any of you just start talking my mom likes to keep it out so it's soft.
+1:13:15
+Andrew Ippolito: Okay, that that's a that's why we do it right it's right it's a pain in the ass to spread cold butter, nobody likes spreading called butter.
+1:13:24
+Andrew Ippolito: Okay. Andrew Ippolito: But here's the thing. Andrew Ippolito: you're not supposed to refrigerated.
+1:13:30
+Andrew Ippolito: that's the mind blowing thing I learned this back in 2008 when I went to England, I went on a trip to England, with my wife and we went all throughout the English countryside went to Scotland and Wales, it was a wonderful trip I fell in love with Scotland and the one thing we noticed.
+1:13:47
+Jordan Russell: Everywhere, we went. Andrew Ippolito: We stayed in bed and breakfasts and various places and their butter was always at room temperature and we learned when we asked about it.
+1:13:54
+Andrew Ippolito: They said, like Oh, Chris butter, the room temperature but but it doesn't go bad butter doesn't spoil it doesn't go it doesn't go rancid it takes for like weeks and weeks and weeks for butter to go rancid, and so we refrigerated because.
+1:14:08
+Andrew Ippolito: I don't know the origin of it but here's the thing. Taylor Campbell: It tastes so much better at room temperature to.
+1:14:14
+Andrew Ippolito: So here's what I wanted to do now here's the thing if you don't use butter normally like if you keep the butter and the refrigerator it's been there for like six months.
+1:14:23
+Andrew Ippolito: don't put it at room temperature, it will eventually spoil after about three or four months.
+1:14:28
+Andrew Ippolito: Even then it might not obviously I don't know what the actual life is, but like we have a butter dish we throw butter in there, we leave it in the counter and maybe every two or three months we wash it.
+1:14:38
+Andrew Ippolito: It doesn't go bad you think it would but it doesn't and now you suddenly have easily spreadable butter that tastes yummy.
+1:14:46
+Taylor Campbell: What about margarine. Andrew Ippolito: What about what. Andrew Ippolito: margarine margarine margarine.
+1:14:53
+Andrew Ippolito: The reason why we refrigerate that is still spreads easily is. Andrew Ippolito: Because margarine is essentially vegetable oil that has been partially hydrogenated so it's not as saturated as fat but it's more saturated oils it's in the middle can go.
+1:15:06
+Taylor Campbell: Bad if you left that out. Andrew Ippolito: Oh no winkle bed, but you know what it would probably become almost like a like mayonnaise quality quality to it.
+1:15:16
+Andrew Ippolito: If I had to guess, if I had to guess. Jordan Russell: This has been left out for for a day now probably and it seems perfectly fine I mean it's only been a day but.
+1:15:30
+Andrew Ippolito: So there you go there's your answer and we've empirically determine that margins okay at room temperature.
+1:15:36
+Victoria Bloemker: I thought margarine was like fake butter. Andrew Ippolito: Well, when we say fake it is fake butter, in the sense of it's it started out as vegetable oil you I think it's usually canola oil.
+1:15:49
+Andrew Ippolito: You guys know what. Jordan Russell: This one has an oil canola oil blend it's. Andrew Ippolito: There you go what's is there such thing as a canola leaf is or canola plan what's canola.
+1:16:01
+Andrew Ippolito: Do you want to know the goal the plant that can all comes from it's called rapeseed.
+1:16:09
+Andrew Ippolito: that's why we don't call it rapeseed oil. Andrew Ippolito: nobody's gonna buy rapeseed oil.
+1:16:15
+Andrew Ippolito: So we call. Andrew Ippolito: It stands for, like kidney Canada something, something I forgot what the actual acronym is.
+1:16:21
+Jordan Russell: Well, it also has palm oil and this one. Andrew Ippolito: Oh that's Okay, then know.
+1:16:27
+Jordan Russell: In lactic acid. Taylor Campbell: I mean. Andrew Ippolito: I guess it isn't an inhibitor of bacteria which is a killer.
+1:16:33
+Taylor Campbell: whales okay to eat, but apparently there's not a lot of palm and so it's being like like deforest like all the places where the palm is.
+1:16:42
+Taylor Campbell: By the things of palm oil, even though a lot of the margin products contain it.
+1:16:48
+Taylor Campbell: Oh that's good to know. Andrew Ippolito: yeah so just by butter and leave it at room temperature and I just have all your problems for you you're welcome.
+1:16:57
+Andrew Ippolito: All right, let's move on here. Andrew Ippolito: So there's your system trans you can watch that slide later I just skipped that okay so there's two ways we define these things there's kind of like the the chemical definition and the cooking definition.
+1:17:13
+Andrew Ippolito: We use all the culinary definition that's what they call it so from a connery perspective, we would say fats come from animals and oils come from plans.
+1:17:22
+Andrew Ippolito: Okay chemically though text so technically.
+1:17:27
+Andrew Ippolito: coconut oil. Andrew Ippolito: Is kind of a fat because it's a solid at room temperature right if you've ever dealt with coconut oil it's like it looks like mayonnaise like thick mayonnaise.
+1:17:40
+Andrew Ippolito: It smells very, very cooking it you put it in your food and, if you like, coconut it's, the best thing in the world if you'd not a fan of coconut it just saturates everything.
+1:17:53
+Andrew Ippolito: But uh that's what they they pop popcorn in the movie theaters and because that's the tastiest one coconut oil is a trans fatty acid that's why it looks like that.
+1:18:02
+Andrew Ippolito: And that's why you want to try to avoid it it's not super I mean like getting everybody's diet everybody decides is constantly changing on this because we're learning new things.
+1:18:11
+As that. Andrew Ippolito: Did you have a question Teller it looks like healing for like you had a question.
+1:18:16
+Taylor Campbell: I was just looking at the PowerPoint. Andrew Ippolito: I was just trying. Taylor Campbell: To get better clarification on like this system trans like if there was a way that we should.
+1:18:24
+Andrew Ippolito: Okay here you go. Taylor Campbell: So. Andrew Ippolito: You want to do ready, this is a. Andrew Ippolito: SIS would look like this.
+1:18:31
+Andrew Ippolito: Okay, the key is drawing this as opposed to this.
+1:18:37
+Andrew Ippolito: So it'd be doodle this just follow this exact you would normally and it's always going to put a kink in the chain, whereas this one just continues the kink or rather it continues the alternating is exactly.
+1:18:53
+Andrew Ippolito: This. Has the king. Andrew Ippolito: The King is in assess the kink is in SS trans.
+1:19:02
+Andrew Ippolito: Trans looks just like a saturated one.
+1:19:09
+Andrew Ippolito: This isn't even the best picture here, because the graphic artist made these all linear like this.
+1:19:16
+Taylor Campbell: and see ya doing this exact so yeah so. Andrew Ippolito: So the system is the one that has the the.
+1:19:21
+Andrew Ippolito: Permanent bending it. Andrew Ippolito: And that's the one that's good to eat them right that's like yes, yes.
+1:19:27
+Alexa Deprisco: Because that's a liquid at room temperature you got it this this this says okay.
+1:19:34
+Taylor Campbell: The one with the kink is good to eat. Taylor Campbell: Because it's a liquid at room temperature. Andrew Ippolito: yeah it keeps it in that chaotic.
+1:19:41
+Taylor Campbell: forum, and so it stays as a liquid and doesn't clog your arteries. Andrew Ippolito: Now that that said you'll still meant like that doesn't mean you can go around drinking vegetable oil you're still going to get fat, because your body will break that down and then it will start into your adipose tissue, which is a saturated triglyceride.
+1:19:55
+Andrew Ippolito: Right, so you break your food down to build up things, and so, if you eat too much your body has to store it somewhere and because that's what we got good what.
+1:20:05
+Taylor Campbell: city trans fat is solid. Taylor Campbell: At room temperature correct yeah.
+1:20:11
+Angela Harbeck: I have a question, so you said that we need to know the bonds and stuff for these so.
+1:20:18
+Angela Harbeck: Right. Angela Harbeck: As. Angela Harbeck: And then i'm.
+1:20:24
+Andrew Ippolito: Esther Esther Esther bond you call that an extra linkage know you're like acidic like goo.
+1:20:31
+Siddiq linkage. Andrew Ippolito: Know you're one for offer one for being a one for, and then the 1616 is just a 160 know alpha beta there that's just one six.
+1:20:44
+Andrew Ippolito: And then system trans. Andrew Ippolito: fatty acid.
+1:20:49
+Angela Harbeck: understand the concept of saturation.
+1:20:55
+And, and then obviously no closer all glycerol.
+1:21:01
+And fatty acids. Andrew Ippolito: Right so that's that's just like a little list of things we just covered.
+1:21:07
+Okay. Victoria Bloemker: I have a quick question your effort definition of a certification again.
+1:21:15
+Andrew Ippolito: The process of building an ester bond so that would be.
+1:21:20
+If we had. Andrew Ippolito: This is cholesterol. Andrew Ippolito: Okay, and then.
+1:21:29
+Andrew Ippolito: there's your fatty acid. Andrew Ippolito: And so, taking the water out.
+1:21:36
+Andrew Ippolito: And then that's going to result in. Andrew Ippolito: That bond that justification.
+1:21:45
+Taylor Campbell: And Esther bonds are part of the triglycerides you got it okay.
+1:21:52
+Andrew Ippolito: With not just triglycerides as we'll see in a moment. Andrew Ippolito: we'll also see some fossil lip is and yeah yeah. Taylor Campbell: But yes so far.
+1:21:59
+Andrew Ippolito: that's where it so far correct. Andrew Ippolito: All right, any other questions.
+1:22:06
+Okay onwards. Andrew Ippolito: So here here's a very simple visual now, you can see that's going to stack neatly because it can again it was juggling, this is the worst kind of fall into this is it's easiest most comfortable positioning, whereas the oil is going to always be chaotic.
+1:22:25
+it's like an angry octopus. Taylor Campbell: that's better for your body, yes, exactly.
+1:22:32
+Andrew Ippolito: it's just not going to clog your arteries. Taylor Campbell: can go through better yeah okay.
+1:22:38
+Taylor Campbell: And so. Andrew Ippolito: As far as functions go fats tend to be used in storage and protection, I have to cough sorry.
+1:22:46
+Andrew Ippolito: Oh, my goodness hold on a second.
+1:22:54
+Andrew Ippolito: oui i'm back alright so fast our energy storage and for protection oils are also for energy storage and protection, but they can also serve as a lubricant.
+1:23:08
+and
+1:23:14
+Andrew Ippolito: I mean there's there's I can think was like so an earwax your wax has oils in it.
+1:23:20
+Andrew Ippolito: and Andrew Ippolito: People who. Andrew Ippolito: Are of Western descent have earwax gunky and people of Eastern does tend tend to have your wax that is solid and that has to do with the differences in the liquid composition.
+1:23:40
+Andrew Ippolito: Okay, so that's that's triglycerides one too fast olympians these are easy to build because we just built them what we're gonna do ready we're going to take that glycerol molecule again.
+1:23:53
+Andrew Ippolito: The O H O H and E O H we're going to attach to fatty acids like we did last time to make a triglyceride but for this third one we're going to change it we're going to put a phosphate group on there instead.
+1:24:05
+Andrew Ippolito: And because these bonds here can swivel right, because these are all a single single box, this is how you would draw the fossil that been.
+1:24:21
+Andrew Ippolito: Just very cartoony version of it just to get you the impression. Andrew Ippolito: And the phosphate group actually has an our group on it that you don't have to know but it's just it's there's a variable there so there's different possibilities.
+1:24:35
+Excuse me. Andrew Ippolito: Okay, the cartoony cartoony version of this there we take this concept here and we further reduce it in complexity, to look essentially like this, like a two year olds version of a person.
+1:24:51
+Andrew Ippolito: A stick figure without any body or arms or anything and so we're going to call this the head.
+1:24:59
+Andrew Ippolito: i'm going to call this the the tails because their heads and tails.
+1:25:05
+Andrew Ippolito: The head, because it has that phosphate group in it is polar.
+1:25:14
+Andrew Ippolito: And the tales because they're hydrophobic or nonpolar.
+1:25:22
+Andrew Ippolito: This makes the phosphor little bit of very, very special molecule all right Eric no problem.
+1:25:30
+Andrew Ippolito: Okay, this makes this a very special molecule it's both hydrophobic hydrophobic we call this property there's there's a word that your book uses called am fi filmic.
+1:25:42
+oops and fi.
+1:25:48
+Andrew Ippolito: filmic yancey means both.
+1:25:53
+Andrew Ippolito: amphibian right do you live in two places both places if you feel like there's another word that I use that I grew up with, and, for some reason, your book doesn't use it anymore and C and D pathak.
+1:26:07
+Andrew Ippolito: And I think this is the difference between a good in a positive and negative outlook on life, and if you fill it complies it likes phyllis remember five most hydrophobic fellows Philadelphia love right means love, so it loves both water and and do you see.
+1:26:27
+Andrew Ippolito: limits, so, in other words it's lifted and water soluble.
+1:26:36
+Andrew Ippolito: And fi pathak means it hates both so it just depends on your perspective in life.
+1:26:44
+Andrew Ippolito: This gives rise to a molecule that can do some really incredible things.
+1:26:50
+Andrew Ippolito: all by itself, simply because it has both of these chemical properties in it, at the same time on two places.
+1:26:59
+Andrew Ippolito: You can form various shapes in water so let's go over and look at that now.
+1:27:07
+Angela Harbeck: They hate the water and what else. Angela Harbeck: limpets. Andrew Ippolito: Lip so not so, in other words the the head is soluble in water but it's not soluble and and fats and lipids that tail is not soluble in water.
+1:27:24
+Andrew Ippolito: But it is seibel effects, so, in other words, things that are hydrophobic well like details and things that are hydrophobic like the heads.
+1:27:31
+Andrew Ippolito: Right so water will like the heads and things like oxygen gas and carbon dioxide and cholesterol things that are hydrophobic well like details.
+1:27:42
+Andrew Ippolito: And so that's going to give us all these implications we're about to see now, so I want to, I want to delete this So if you want to take a screenshot or whatever, but we're going to see all this like.
+1:27:54
+Andrew Ippolito: Right so there's you can see, if you look at the train your brain to see this right you're looking at this mess on the screen ready, I want to this is what you're going to train your eyes here, you see the glycerol.
+1:28:06
+Andrew Ippolito: You see, the phosphate group, you see the our group attached to it, you can see the ester bonds and you can see the saturated hydrocarbon chain.
+1:28:15
+Andrew Ippolito: Right so here like a B, C D, be able to look at that be able to see that without me doodling on that screen, be able to see this this isn't just a mess anymore to you.
+1:28:28
+Andrew Ippolito: Okay you're being trained to look at these things. Andrew Ippolito: Alright, so i'm going to delete all that red now, and I want you to do that Okay, see the our group so find the car find the extra bond.
+1:28:41
+Andrew Ippolito: Okay use your nine do this on your own, but just to change the other find the cholesterol just circle, the glycerol with your finger okay look for the the kink in a chain of the unsaturated SIS fatty acid hey look at the phosphate group.
+1:29:00
+Andrew Ippolito: Okay, and so we call this region, the head. Andrew Ippolito: Right, and this, our group can be several different things so i'll give you one example of that here.
+1:29:10
+Andrew Ippolito: there's a molecule called coleen Okay, you can see here, this is coleen coleen is if I was to doodle it out, it would be like that it's just got a nitrogen and there so it's a little positively charged okay it's got this big phosphate group it's negatively charged.
+1:29:30
+Andrew Ippolito: Okay, and so this here this molecule becomes the building block of our cells membranes as well see.
+1:29:42
+Andrew Ippolito: Okay here's here is again, you can see, this is coleen. Andrew Ippolito: But you don't have to know the difference is, if you take a biochemistry class sometime in the future you'll learn about the different foster lipids okay.
+1:29:55
+Andrew Ippolito: Alright, so these are the structures that we can get depending on the temperature of the environment, depending on the pH of the system.
+1:30:05
+Andrew Ippolito: Depending on how many of them are there, so the lipid concentration and, depending on what else is in the solution, whether it's the calcium sodium mcclarty and whatever you're going to be able to form basically three different styles of higher order structure.
+1:30:22
+Andrew Ippolito: The lip ISM or life ISM is essentially a sphere, within a sphere it's got a hollow inside.
+1:30:33
+Andrew Ippolito: Okay, the lip ISM is essentially the by layer but in 3D so just wrap the buyer layer after the lip his own you can think of, is a teeny teeny tiny cell.
+1:30:46
+Andrew Ippolito: Right, because our cell membrane just just blow that middle part up and that's a cell on.
+1:30:51
+Andrew Ippolito: A missile is just a model layer of these were all of the hydrophobic tales are crowded on the inside of the molecule of the structure itself.
+1:31:02
+Andrew Ippolito: Okay, so you throw this on water and shake it up, and this is what happens why because water in this polarity is going to be both attracted to it's going to be attracted to the heads.
+1:31:14
+Andrew Ippolito: Okay, so though it's kinda like a magnet game, and these are the confirmations that this system takes depending on the variables we mentioned earlier.
+1:31:24
+Andrew Ippolito: Okay, so we're going to focus for the rest of the Semester we're going to very, very rarely talk about these things will talk about things, called vessels and the cell chapter of vessel is essentially a life isn't.
+1:31:40
+Andrew Ippolito: Okay life isms are artificial things that we can put in a test tube but they're also natural building blocks of the cells trafficking within it.
+1:31:51
+Okay. Andrew Ippolito: All right, so here's how we build a fossil lifted by later, now we take a whole bunch of fossil lip is we line them up, we can see that they're going to be attracted to water remember what we did.
+1:32:02
+Andrew Ippolito: We looked at sodium chloride, or we looked at water itself, we talked about the hydrogens being slightly positive.
+1:32:10
+Andrew Ippolito: chloride slightly negative are very native the same concept Okay, and then the towels are just there for the ride and so there's a second layer that forms also connected to water.
+1:32:22
+Andrew Ippolito: Okay, and that's the basic building block of a cell, this is the boundary of life.
+1:32:27
+Andrew Ippolito: We zoom out a bit now and see that. Andrew Ippolito: And we call this thing either the plasma membrane.
+1:32:36
+Andrew Ippolito: Or the fossil the head by layer Andrew Ippolito: You could just say membrane and that'd be fine, this is a biological cellular membrane.
+1:32:46
+Andrew Ippolito: And so anything that's outside of the cell, we can just call that the extra cellular environment and anything inside the membrane itself we call that area, the inner membrane space.
+1:33:01
+Andrew Ippolito: And then inside the cell we talk about something called the cytoplasm. Andrew Ippolito: Now i'm going to right here cytoplasm itself, you can divide into the liquid component, called the site is all know that word i'm going to use that a lot this semester psycho saw that's the liquid component.
+1:33:21
+Andrew Ippolito: Okay, that you can think of that as a solution of the cell. Andrew Ippolito: And the psycho skeleton.
+1:33:30
+Andrew Ippolito: So the cytoplasm. Andrew Ippolito: has to further phases to it it's got the site is all in a silo skeleton.
+1:33:39
+Andrew Ippolito: Okay, going back to the memory now waking up here if we consider just the top layer of a membrane those so so a single layer of it is called a leaflet.
+1:33:52
+Andrew Ippolito: Okay, and so we have the outer leaflet the entirely foot.
+1:33:58
+Andrew Ippolito: And they're different. Andrew Ippolito: there's things, so there are some fossil lip is that only live in the outside one and only then loved the inside one.
+1:34:07
+Andrew Ippolito: And, as will learn later when we do the membrane anytime we have sugars attached here the sugars are always on the outside, because glycol lipids and glycoproteins will get there we're not there yet.
+1:34:20
+Andrew Ippolito: And you have to understand that this basic building block this concept here is the same for most all membranes and the eukaryotic cell.
+1:34:29
+Andrew Ippolito: Your nucleus your endoplasmic reticulum goji apparatus license own proxies on yada yada they all have membranes that are built fundamentally like this.
+1:34:43
+Andrew Ippolito: Okay bacterial cells to. Andrew Ippolito: Our cans have their own special brand and flip it's in there membranes that are essentially like a dumbbell.
+1:34:55
+Andrew Ippolito: So there's just one fuse together that's why, if you need to put something in your head that separates your cans from everybody else, this is a good one, our cans have these weird phosphate limits I don't even know their name I just learned about these a few years ago.
+1:35:11
+called dumbbell. Andrew Ippolito: And this is just a slide to show you the diversity of them again you don't have to study this, this is just a flavor is just fyi fyi.
+1:35:23
+Andrew Ippolito: How to study this don't memorize these structures, but you can just see there's phosphor title coleen. Andrew Ippolito: there's finger Milan there's like ghosts fingal lipids themselves, so this is technically, not a fossil it but it's a.
+1:35:35
+Andrew Ippolito: client goes fingal whip and you ought to know the, though, and then this is going to be our segue into the next category of lipids the cholesterol or i'm sorry the sterile sterile.
+1:35:49
+Andrew Ippolito: Okay, so what's a sterile well. Andrew Ippolito: The class of molecules called steroids sterols are a subclass of steroids and steroids, are very unique in the lipids in that they're always formed by the same basic ring they're formed by a ring of rings this channel rather chain of rings.
+1:36:13
+Andrew Ippolito: Okay, if you wanted to doodle it, you would do a hexagon another hexagon and then the next axon be up here and then you end with a Pentagon like that that's the core of every steroid in existence.
+1:36:31
+Andrew Ippolito: Okay. Andrew Ippolito: And then you just let her them with bells and whistles different functional groups give them different functions so that's the difference between your estrogens and your cholesterol and your testosterone and all the other steroid hormones.
+1:36:46
+Andrew Ippolito: Okay, and we find these in and really now that i'm teaching Microbiology mar i'm going to clarify and mostly eukaryotic membranes prokaryotes slack stairwells and their membranes that's one of the distinctions between them.
+1:37:01
+Andrew Ippolito: And essentially what they're doing is forming their original board, and so they reduce the ability of those spaghetti noodle fatty acid chains from moving so much they slow them down and they make the cell little more solid, so this would be like cold butter versus warm butter.
+1:37:22
+Andrew Ippolito: Except chemically not not with a temperature change.
+1:37:27
+Andrew Ippolito: Okay, all right, so one of the here's here's another reason. Andrew Ippolito: Why, we believe that the fungus announced that a common ancestor they have this common biochemical pathway, in order to build steroids, in order to build cholesterol rather okay so plants and animals and fungus all use cholesterol.
+1:37:47
+Andrew Ippolito: Only the episode the cons the fungus and the animals use something called Len auster all as a precursor so there's just an enzymatic pathways to build cholesterol.
+1:37:58
+Andrew Ippolito: Plants use a different pathway. Andrew Ippolito: From cholesterol so cholesterol has two functions it's it's in the cell membrane, as we said earlier.
+1:38:12
+Andrew Ippolito: Where it serves to stabilize or rather. Andrew Ippolito: let's say it helps to maintain.
+1:38:23
+Andrew Ippolito: viscosity. Andrew Ippolito: It also serves as a precursor.
+1:38:32
+Andrew Ippolito: To all other steroids.
+1:38:38
+Andrew Ippolito: Okay vitamin D to testosterone cortisol.
+1:38:45
+Andrew Ippolito: He got astra die all. vitamin E.
+1:38:50
+Andrew Ippolito: there's all these different molecules that come from cholesterol, based on their different biochemical pathways.
+1:38:59
+Andrew Ippolito: Alright, so that's classroom that starts. Andrew Ippolito: So you can see here the only difference between two radically functionally different hormones right what what makes the male gender the male gender really, really, what makes the male sex the mouse sex is testosterone concentration is much higher in the male body than the female body.
+1:39:23
+Andrew Ippolito: And if you look at the difference between testosterone and one of the estrogens Esther daya which is estrogen to or.
+1:39:30
+Andrew Ippolito: you'll see that there's there's a ketone there versus the hydroxyl group testosterone has a methyl group here that's literally the double bond missing here tiny little changes profound functional implications.
+1:39:47
+Andrew Ippolito: Excuse me yeah. Alexa Deprisco: Why is that little oxygen considered a ketone at the end of the testosterone not the.
+1:39:54
+Andrew Ippolito: Okay, so this functional group anybody remember what's the name of that actual functional group.
+1:40:04
+Andrew Ippolito: Good car bottle that's the car bottle functional group, and because the carbon is attached to his intern attached to additional carbons it's within the chain, and so this region, you could just Lucy Lucy call ketone.
+1:40:24
+Andrew Ippolito: Okay, remember how the hides it would be at the end of it cheating.
+1:40:30
+Andrew Ippolito: Right so so, for example, let's say. Andrew Ippolito: This carbon here let's say this carbon had a double bondo at the end of it, that would be more out of the hyphen because at the end.
+1:40:41
+Alexa Deprisco: So, like if it's coming off of the tale of a tail like the tail of hotels and how to hide that the tail of just like a ring.
+1:40:47
+would be a kid yeah. Andrew Ippolito: that'd be an hour to hide. Andrew Ippolito: And then it doesn't matter what's here, as always, our carbons you know anything else could be there, this would be a ketone configuration.
+1:41:02
+Okay. Andrew Ippolito: This would be yeah so think. Andrew Ippolito: out the hides end of the road you can't keep going.
+1:41:10
+Andrew Ippolito: ketone is along the way.
+1:41:16
+Okay, all right. Andrew Ippolito: And so what cholesterol does in the membrane I stole this from a review Article that was published, like last two or three years ago.
+1:41:27
+Andrew Ippolito: You don't have to you don't have to know the details here, this is shop talk the ripple phase and pre transition don't worry about it, what I want you to focus on.
+1:41:36
+Andrew Ippolito: Is the difference between these two States here okay so on the left hand side, you can see that the fossil lip is are very evenly ordered and what we talked about earlier with butter that leads to a solid right.
+1:41:51
+Andrew Ippolito: So, this would be like in a very cold temperature the cells membrane would become rigid.
+1:41:58
+Andrew Ippolito: Okay, to heat it up too much now look at the right hand side it's going to be very, very disorder, to be more fluid like.
+1:42:06
+Andrew Ippolito: Okay, now the reason why this matters to us, I haven't mentioned this part yet if this is a cartoony version of a memory we're going to see very shortly, that there are proteins embedded in here.
+1:42:18
+Andrew Ippolito: Those proteins can diffuse across this like a boat on the water they're not locked in place, and in fact the foss Phillip is themselves can also move.
+1:42:28
+Andrew Ippolito: Think of a whole bunch of people in a very crowded place, they can still move the people themselves can move within the crowd right.
+1:42:36
+Andrew Ippolito: that's what the festival that you're doing and so there's a lot of movement here lots of movement and there's really at this point there's no movement.
+1:42:46
+Andrew Ippolito: Okay, so no movement and your cell dies, because it can do, but it's got to do too much movement in the south dots because everything falls apart, and so what cholesterol does.
+1:42:55
+Andrew Ippolito: Is it allows a maintenance of a homeostatic goldilocks location where it's just fluid enough but not too fluid and just solid enough but not too solid okay so by adding and taking away cholesterol onto the membrane this can modulate the fluidity of it.
+1:43:15
+Angela Harbeck: So these like the fossil lifted by layer that's like the membrane of the cell.
+1:43:23
+Angela Harbeck: Correct okay. Andrew Ippolito: And it's also the membrane that we see in the nucleus, and all the other organelles we're talking about next chapter six next chapter.
+1:43:34
+Okay. Okay. Andrew Ippolito: Chapter seven is all about the memory so we'll revisit all this in more detail later for now it's just enough to understand the role of that cholesterol place.
+1:43:48
+Andrew Ippolito: Okay, so here it is again, you can see it it's sticks in there it's slides in there and it basically serves as a little bouncer or a little stabilizing board it prevents the phosphor liquid fatty acid chains from moving too much.
+1:44:07
+Okay. Andrew Ippolito: And that's that that's that's the roots, you know waxes.
+1:44:17
+Andrew Ippolito: If you understand so here don't look at the slide just look at me for a second so if we go back to triglyceride the idea here.
+1:44:31
+Of. Andrew Ippolito: This molecule right so remember glycerol is a three carbon.
+1:44:39
+Andrew Ippolito: Alcohol. Andrew Ippolito: And these fatty acids are, I think, was like what 16 to 22 carbons long.
+1:44:51
+Andrew Ippolito: Okay that's triglyceride So if I was to draw a triglyceride as a cartoony version let's just make it this rectangle here.
+1:45:00
+Andrew Ippolito: To scale to waxes because now you're going to see all of waxes.
+1:45:06
+Andrew Ippolito: Is a long chain alcohol. Andrew Ippolito: Instead of go off instead of it being a three carbon alcohol like cholesterol let's just make it like imagine a ridiculously long strange version of a capital E.
+1:45:21
+Andrew Ippolito: Okay long chain alcohol and then.
+1:45:27
+Andrew Ippolito: very long. Andrew Ippolito: fatty acids.
+1:45:32
+saturated ones.
+1:45:37
+Andrew Ippolito: Okay, and so this molecule that's what a wax is.
+1:45:43
+gonna be like. Andrew Ippolito: This in terms of how big it is and here's my stupid joke, you could say that waxes are essentially triglycerides on steroids.
+1:46:02
+Andrew Ippolito: it's funnier when I said it by accident that one time.
+1:46:08
+Andrew Ippolito: But it's it's true waxes are basically triglycerides on steroids.
+1:46:14
+Andrew Ippolito: Okay that's it so what a wax is do faxes waxes oh my gosh what do they do waxes serve as barriers hydrophobic barriers right, if you think of a leaf on a plan.
+1:46:29
+Andrew Ippolito: Right just just pulling off a plan. Andrew Ippolito: And you watch a rain and after the rain, you can see, the little beautiful water droplets ball up on it right because it's surrounded by something called the waxy cuticle.
+1:46:45
+Andrew Ippolito: which essentially traps all the water in so that water can't evaporate.
+1:46:52
+Andrew Ippolito: OK, so the wax traps, the water in their. Andrew Ippolito: Animals use waxes in maintaining their skin and their for.
+1:47:02
+Andrew Ippolito: Right, so we have we have waxes the wax in our ears, we tend we so sorry i'm in here it's not sorry man is a combination of waxes and dead cells and some other organic molecules that are essentially insecticides.
+1:47:20
+Andrew Ippolito: And just think about that for a minute Why are there, insecticides inside our ear.
+1:47:25
+Andrew Ippolito: something about that, which means something at some point in time was fighting a war with insects in their ears and had to evolve, the ability to get them out.
+1:47:34
+If it. Andrew Ippolito: wasn't your wings though they're still yeah so.
+1:47:41
+Andrew Ippolito: we're still battling them. Andrew Ippolito: But there was probably much worse at some past some poor animal species, long before there were humans had to evolve sorry.
+1:47:53
+Andrew Ippolito: yeah so our ears were one of the few places in our body that so long as you don't have like I have a mile the reflection actually my hearing it.
+1:48:00
+Andrew Ippolito: So my ears just a little inflamed and I had to choose between hearing and pain and not being in pain and being deaf is super fun.
+1:48:08
+Andrew Ippolito: But uh so outside of having your infections your your ears are self maintaining one of the few places in your body that is self cleaning you're not supposed to clean your ears if you're healthy.
+1:48:18
+Andrew Ippolito: Like sticking Q tips in your ears all you're doing is shoving the wax back and, eventually, you know if this is your eardrum.
+1:48:25
+Andrew Ippolito: And you start putting wax against this you stop making this vibrate and you start going a little death.
+1:48:30
+Andrew Ippolito: So you go to the doctor, because your hearings going and they put an aspiration and there and they suck all the wax and now suddenly got your hearing back.
+1:48:37
+Andrew Ippolito: So if you use Q tips regularly and you notice that you're hearing is not as good as it used to be that's not you getting old I mean you are getting old.
+1:48:44
+Andrew Ippolito: But it's not why you're going deaf necessarily right so go to the doctor make them look in there, and he might see impacted your wax and be able to take it out for you and that's something you'll get like 10% you're hearing back Sunday.
+1:48:57
+Andrew Ippolito: They see the rule of thumb is don't stick anything in your ear that's bigger than your elbow.
+1:49:05
+Okay. let's see where are we on time here.
+1:49:10
+Andrew Ippolito: Okay we're gonna take a five minute break, because I know you guys are overwhelmed I told you, I mean you're hard today. Andrew Ippolito: And proteins are going to be complicated not not hard it's just there's just a we're doing a lot today and so like I know your brains, a little tired right now so we're going to take a five minute break.
+1:49:25
+Andrew Ippolito: That might bleed into like seven minutes and then we'll come back and we'll do protein so i'm going to mute this i'm not going to pause the video, though, because that's going to break it in half.
+1:49:34
+Andrew Ippolito: And you have to watch the second video so i'm just going to pause the video or i'm just gonna put myself on mute and so, if you're watching this in the future.
+1:49:41
+Andrew Ippolito: But I want you to do is fast forward this at this point now until you see me come back from from the video, and you can start listening again alright alright so everybody else hey siri start a timer for five minutes.
+1:49:56
+Andrew Ippolito: There we go i'll see in five.
+1:56:33
+Andrew Ippolito: Alright i'm back. Andrew Ippolito: I give you guys a minute to settle back in.
+1:56:40
+Andrew Ippolito: There we're gonna start I think what I want to do here is i'm.
+1:56:52
+going to whiteboard this. Andrew Ippolito: I want to, I want to condense this part of the lecture i'm going to hear a lot me.
+1:57:02
+Andrew Ippolito: This, this is the probably the easiest thing for me to teach because I. Andrew Ippolito: I worked on proteins personally that was like my specialty and in Grad school and i've taught this so many times, I could do this in my sleep, and I think that.
+1:57:16
+Andrew Ippolito: What i'm going to do for you is just cover the salient points so that we can get to nucleic acids and we can say that we're caught up so you guys can keep up with your homework in your study and then, when we meet next time well i'll.
+1:57:35
+have to look at the schedule will be where we are will be fine.
+1:57:40
+There we go. Andrew Ippolito: So this is my this is Microsoft have I use this for you guys, yet I think a little bit now.
+1:57:48
+Andrew Ippolito: This is the best program ever, this is a for for teaching anyway. Andrew Ippolito: This is um it's called Microsoft whiteboard if you have windows 10 you have this installed, by default, and we can even share it, we can draw together on here it's kind of cool.
+1:57:59
+Andrew Ippolito: But this is wonderful, because it lets me zoom in and out and move all over and use different colors it's it's better than a whiteboard and then so my default state here is about, I think.
+1:58:15
+Okay, let me just double check why I have some chats here.
+1:58:21
+Okay.
+1:58:29
+Okay. Andrew Ippolito: All right, so proteins i'm just going to wait for proteins.
+1:58:35
+Andrew Ippolito: First of all, the word protein comes from the word pro Dios which means first our first place.
+1:58:43
+Andrew Ippolito: The idea is when we first discovered these. productions there's an eye on their produce.
+1:58:51
+I think that's no no i'm gonna cheat will use my PowerPoint.
+1:58:58
+Andrew Ippolito: Oh produce produce it's a Greek word produce first first place when we first discovered these we realized that most of the stuff in a cell is this and other words 50% of the cells mass is protein right that's just enormous So these are the most abundant.
+1:59:18
+Andrew Ippolito: And the most diverse of anything we're going to talk about this semester.
+1:59:24
+Andrew Ippolito: Understanding proteins right so so you spending a little extra time on these will benefit you because you'll be able to understand so much about what's going on in the world.
+1:59:35
+Andrew Ippolito: Everything from coronavirus to cancer therapy to immunotherapy to everything proteins just do all the work of life.
+1:59:48
+Andrew Ippolito: Jordan, yes that's a dumb question you didn't know the answer.
+1:59:54
+Andrew Ippolito: Or did you then it's done wish.
+2:00:00
+Jordan Russell: More than I looked at it and I saw that, like the three summers were fructose glucose in lactose I was thinking, I was dumb question, of course, we need to do that yeah.
+2:00:09
+Jordan Russell: You don't think each other. Andrew Ippolito: Alright, so what we're going to do here is we're gonna.
+2:00:15
+Andrew Ippolito: we're going to gloss over the function of these because they do everything you can mean that slide they're involved in everything I want to get to building them and understanding them physically.
+2:00:23
+Andrew Ippolito: So they are the traditional marmor polymer configuration, just like the sugars and and, just like the nucleic acids will be okay, the monomers termed and amino acid so we're going to talk about those first the polymer is called a poly peptide.
+2:00:47
+actually use the undo button here. peptide. Andrew Ippolito: And as we're going to see.
+2:00:54
+Andrew Ippolito: poly peptides one or more of these.
+2:01:02
+Andrew Ippolito: folded up into a sheep.
+2:01:09
+Andrew Ippolito: lead to what we call a protein. Okay. Andrew Ippolito: Most books don't make this distinction, and so I think it's the state of perpetual confusion poly peptide is nothing more and nothing less than a chain of amino acids bound together a protein is a functional thing.
+2:01:31
+Andrew Ippolito: It has a form and function, and it can be built from one poly peptide or multiple ones I want that's where we're going to get to today.
+2:01:38
+Andrew Ippolito: So first let's focus on amino acids. Andrew Ippolito: what's an amino acids and amino acid is.
+2:01:47
+Andrew Ippolito: A very simple molecule that consists of an alpha carbon right sorry i'll draw this.
+2:01:54
+Big. Andrew Ippolito: get a little further down here, and I can always scroll up later, but I want to hear.
+2:02:04
+Andrew Ippolito: Carbon and then it has. Andrew Ippolito: What we're just calling our group or just our okay and we're going to call that you can literally call out the our group, if you want, but most times you'll call this the side chain.
+2:02:23
+Andrew Ippolito: In addition, and I always want you to draw this the right way on the left side there is an amino group and each to.
+2:02:35
+esteem, you know group. Andrew Ippolito: And then on the right hand side.
+2:02:41
+Andrew Ippolito: Is a car buck silicon group, which consists of a carbon.
+2:02:47
+Andrew Ippolito: Double bound to an oxygen single bound to an O h. Andrew Ippolito: Alright, so this is the draw this little thinner here the car box.
+2:02:59
+Andrew Ippolito: And if you want to call it a carb oxalic acid.
+2:03:05
+Okay. Andrew Ippolito: And so you can see here, this is the cool part, this is what makes these so crazy and awesome all of the chemical properties we've talked about up to this point.
+2:03:17
+Andrew Ippolito: hydrophobic and hydrophobic acidic and alkaline functional and structural phosphorylation methylation self hydro, all of the chemistry we've talked about.
+2:03:31
+Andrew Ippolito: can be represented within the 20 different amino acids that make up all of life's proteins.
+2:03:40
+Andrew Ippolito: Okay, so all amino acids have this common structure, plus to our group okay so within life, and this is the crazy part there's an infinite we can just make up our we can make whatever we want there.
+2:03:55
+Andrew Ippolito: Every single cell on this planet uses only 20 and they're all the same.
+2:04:02
+Andrew Ippolito: Okay, once we discovered that right Darwin would have probably been jumping around enjoy.
+2:04:09
+Andrew Ippolito: He there was no way Darwin could have predicted any of this he just came up with this general concept everything we discover after that just keeps confirming this idea of common ancestry.
+2:04:21
+Andrew Ippolito: Okay, so let me keep the colors the same here there are 20 of these.
+2:04:27
+20 different. Sites chains.
+2:04:34
+Andrew Ippolito: And they fall into different categories there's a. Andrew Ippolito: let's say there's a cynic ones there's alkaline ones.
+2:04:45
+Andrew Ippolito: there's hydrophobic ones. Andrew Ippolito: there's Hydra filet.
+2:04:53
+Andrew Ippolito: there's big ones and little ones. Andrew Ippolito: Right so like big chains or one that's just hydrogen.
+2:05:03
+Okay. Andrew Ippolito: there's polar. Andrew Ippolito: ones, so you can say polar nonpolar you know what.
+2:05:13
+Andrew Ippolito: Technically, you could put polar an extra hydrophobic. And nonpolar next hydrophobic.
+2:05:21
+Andrew Ippolito: Okay, so Basically, this is, this is the cells chemical toolbox.
+2:05:28
+Okay. Andrew Ippolito: You are not responsible for knowing all of the names and the structures and whatnot just be aware that there are 20 of them and they bought these various categories.
+2:05:39
+Andrew Ippolito: It might be useful to get to know a few of the important ones i'll talk about them later for now that's good enough what we're going to do now is start to build the bonds between them and build the poly pepped up it's Okay, so what we're going to do i'm going to scroll down here again.
+2:05:58
+Andrew Ippolito: And i'm going to redraw one of them all in one color let's make it blue alright so here.
+2:06:15
+Andrew Ippolito: i'm going to draw another one actually know what.
+2:06:22
+going to do this. Andrew Ippolito: But here's the problem.
+2:06:27
+here's the problem. Andrew Ippolito: This is technically down here remember, we talked about in in cellulose the glucose went every other one upside down right side up it's the same thing with these so they don't form the natural HALO sees either, these are all flat, so what i'm going to do here is just.
+2:06:50
+Andrew Ippolito: yeah i'm just going to redraw this with a different i'll do a different color just use a green.
+2:06:56
+April Neeld: yeah God i'm so I pronounce the notes that you have on canvas and it says and for Jesus has over 100,000 identified is that just for proteins and then our groups is 20.
+2:07:11
+Andrew Ippolito: yeah so there's 20,000 or there's like 100,000 different proteins discovered that have names and functions.
+2:07:23
+Andrew Ippolito: All right, I just read through this but not see it's upside down now that's it.
+2:07:28
+Okay. Andrew Ippolito: But notice how I align them notice how I put the car box silica group right next to the amino group Those are the two they're going to react here.
+2:07:40
+Andrew Ippolito: And the reaction is going to occur, right here there's your dehydration synthesis again.
+2:07:46
+there's a oh H and H Andrew Ippolito: Just like the Alpha beta one fours and the one sixes and sugars, the same exact concept here, so what we're gonna do is we're going to take this pair of molecules this pair of amino acids and we are going to remove water from the system.
+2:08:09
+Andrew Ippolito: Okay, and then what we're going to the bond we're gonna build is going to be between this carbon and nitrogen.
+2:08:21
+Andrew Ippolito: So i'm going to redraw this now and you'll see, though the formed bond here okay so let's do the left hand side there's the out there close the Alpha carbon the middle one okay there's a side chain.
+2:08:33
+here's the amino group. Andrew Ippolito: Okay now we're going to do this carbon.
+2:08:40
+Andrew Ippolito: And you see has got the double see the car bottling group there the double bond oh i'm going to point this down like this.
+2:08:47
+Andrew Ippolito: i'm going to come up like this. Andrew Ippolito: And that's the nitrogen from the other one.
+2:08:54
+Andrew Ippolito: that's the nitrogen the amino group of the second amino acid i'm going to draw a hydrogen going up here.
+2:09:04
+Andrew Ippolito: here's the Alpha carbon of the second amino acid. Andrew Ippolito: The our group pointing down.
+2:09:10
+Andrew Ippolito: And then here is. Andrew Ippolito: The carb oxalic group.
+2:09:16
+Andrew Ippolito: Okay, so what you're seeing here is called a peptide bond, and this molecule that we just drew formerly is called a boy.
+2:09:26
+Andrew Ippolito: Is formerly called. Andrew Ippolito: A di peptide.
+2:09:32
+Andrew Ippolito: And let me highlight for you now.
+2:09:41
+Andrew Ippolito: This right here, that is called.
+2:09:46
+Andrew Ippolito: The peptide bond.
+2:09:52
+Andrew Ippolito: And it's special just like water, do you see, they see the polarity there notice that that double bond oxygen which loves electrons this is going to be slightly negative and amino the nitrogen nitrogen is basic like it's a little positive, and so this side is going to be slightly positive.
+2:10:13
+Andrew Ippolito: there's a polar Kobe ella bond there, so the peptide bond is polar Kobe.
+2:10:19
+Andrew Ippolito: which gives us all sorts of interesting consequences.
+2:10:24
+Andrew Ippolito: Okay, any questions.
+2:10:30
+Okay. Taylor Campbell: So you want us to be able to identify this not necessary.
+2:10:36
+Taylor Campbell: Yes, you got it. Andrew Ippolito: Just be able to if I show you i'm going to show you I tell you right now that test is going to have this this picture, with a whole bunch of different molecules.
+2:10:47
+Andrew Ippolito: And there's going to be a list of molecule names and you're going to have to put a name to a face right so each one of the molecules i'll have a letter.
+2:10:53
+Taylor Campbell: next to it. Andrew Ippolito: And then i'll ask you what's this what's that what's this it'll be like a matching.
+2:11:00
+Andrew Ippolito: Right so like i'm giving you that knowledge ahead of time i'm not telling you what the molecules are what the names are just know that's coming that's on the test.
+2:11:11
+Andrew Ippolito: The level of detail here, I will not be asking you questions like which one of these amino acids is 16.
+2:11:20
+Andrew Ippolito: Okay it's gonna be more like the level of which one of these is an amino acid.
+2:11:25
+Okay. Andrew Ippolito: Now here's the thing, though let's look at one actual amino acid, so that you get an idea beyond this are so that you can see it alright so watch this if I just put an H there Oh, by the way, by the way.
+2:11:41
+Andrew Ippolito: I should have mentioned this earlier if we go all the way back up here to the amino acid right does anybody catch the technical mistake that I made.
+2:11:52
+Andrew Ippolito: Right we're gonna call this this here. Andrew Ippolito: and call that the Alpha carbon what's wrong with the Alpha carbon in this picture.
+2:11:59
+Jordan Russell: need another bond. Jordan Russell: Because exactly makes for bonds, you only have three. Andrew Ippolito: Good job good job, Jordan, so the fourth bond.
+2:12:09
+Jordan Russell: Is. Andrew Ippolito: Hydrogen the boring one. Andrew Ippolito: Why didn't the triangle, there you know what don't worry about the triangle kind of make it fancy closet 3D just boom.
+2:12:21
+Taylor Campbell: But everything that you drew below it. Andrew Ippolito: everything's correct yeah I just I just neglected to talk about the hydrogen so.
+2:12:29
+Taylor Campbell: While we're talking see if I have.
+2:12:40
+Andrew Ippolito: Here, if this if this was the Alpha carbon i'm holding up the Alpha carbon if i'm not building an amino acid with my little toys here, but if I was here's the hydrogen I left out here's how you traditionally draw.
+2:12:50
+Andrew Ippolito: like this, which is how I drew it on the screen right, if you think about how.
+2:12:57
+Andrew Ippolito: The tetrahedron works.
+2:13:02
+Andrew Ippolito: So here i'm not i'm not building a full on amino acid but i'm building a here's the Alpha carbon with three things attached to it right, so how I do it on the screen, our group.
+2:13:13
+Andrew Ippolito: amino group carb oxalic group or whatever carb oxalic group amino group depending on mirror image on the hydrogens hiding in the back that's the handle.
+2:13:23
+Okay. Andrew Ippolito: Alright, so now we scroll all the way down here sure oops.
+2:13:30
+Andrew Ippolito: You feel free to go back to your little drawings here the hydrogen here the hydrogen here.
+2:13:38
+Andrew Ippolito: And you see now I we we draw things the way we do right those that doesn't contribute anything new to the information we have, and it's just more you know visual information that you're bringing us to process.
+2:13:54
+Hydrogen there. Taylor Campbell: For a moment. Andrew Ippolito: yeah go. Andrew Ippolito: Go go. Andrew Ippolito: Go go back up.
+2:14:00
+Taylor Campbell: Just to just to bet yeah that's perfect okay.
+2:14:10
+Andrew Ippolito: Do you guys like this style. Andrew Ippolito: Do i'm doing this with the whiteboard.
+2:14:15
+Andrew Ippolito: Anybody have yeah because I think it works, but. Andrew Ippolito: i've never heard anybody criticizes but that's probably because people don't like criticizing it public.
+2:14:24
+Andrew Ippolito: I needed guide tori I have a quick question. Victoria Bloemker: um so for the acids in the bees, the acids always have hydrogen right and then.
+2:14:35
+Victoria Bloemker: What is it hot hydroxide know we. Andrew Ippolito: Here, let me, let me show you this so let's go back to this, the generic amino acid i'll show you how this works if we dropped this in water.
+2:14:48
+Victoria Bloemker: Okay. Andrew Ippolito: What would happen immediately. Andrew Ippolito: Is that hydrogen here would fall off.
+2:14:57
+Andrew Ippolito: Right so that's what makes it an acid so yeah so acids always have that extra ah now here's the thing just because something hasn't each doesn't make it an acid right we learned about glycerol earlier right cholesterol, we said it was a three carbon molecule that looks like this.
+2:15:11
+Andrew Ippolito: right that was rough that's not an acid you drop that in water these hydrogens don't fall off the system is stable.
+2:15:18
+Andrew Ippolito: Okay, what makes carb oxalic acid acid is the fact that you have these double oxygens all of this is siphoning the electron density away from that hydrogen that's why that falls off.
+2:15:30
+Andrew Ippolito: that's what makes it an acid Okay, and so, when you drop the some water neutral pH seven that's going to happen right, but then go back, we hit you enough with this number that free pair of electrons that nitrogen as that lone pair of electrons that's going to actually pick this up.
+2:15:48
+Andrew Ippolito: And so, in reality, you might see this in your book and you might see this and videos you watch, you might see this.
+2:16:06
+Andrew Ippolito: Right, you might see a positive charge here in a negative charge there we call this when when we're at the pH that that amino acid does this at this is called that amino acids ISO electric point.
+2:16:21
+Andrew Ippolito: Something you're going to learn about your chemistry class Okay, the ISO electric point of any molecule is the point in which its charges net neutral.
+2:16:31
+Andrew Ippolito: Right so even on the carb oxalic acids positive i'm sorry, even though the carb oxalic acid is negative, the amino group is positive and so that molecule as a whole is uncharged right think of that as like an extreme version of polarity.
+2:16:46
+Andrew Ippolito: Those are full on charges there's just a plus one out of minus one on the same molecule Okay, so this is the acid, this is the base.
+2:16:55
+Andrew Ippolito: And how cool is that we have this one molecule that I mean it's it's a little chemistry kit it's as efficient as you get right and the crazy part is we find these things in space.
+2:17:09
+Andrew Ippolito: When we look at a there's there's scientists that have shot. Andrew Ippolito: probes out into comments right, this is a Comet and we can see Scott it's you know it's trail we've taken probes and we've went into the the dust there we've collected material from it, to see what was in there and guess what we found one of the things we found were amino acids.
+2:17:33
+Andrew Ippolito: That tells us they're everywhere in the cosmos this is this is like. Andrew Ippolito: A complicated version of water, in other words, it just we just find it everywhere.
+2:17:42
+Naturally. Andrew Ippolito: When you see Tyler. Taylor Campbell: What are they doing up there.
+2:17:49
+Andrew Ippolito: hanging out. Andrew Ippolito: So. Andrew Ippolito: Remember that all.
+2:17:55
+Andrew Ippolito: All the atoms were formed at one time or another, when stars exploded right here's a star and here's a.
+2:18:00
+Taylor Campbell: star they explode. Andrew Ippolito: And so they released these gas clouds into the cosmos and where those guests clouds mix that's called the nebula.
+2:18:09
+Andrew Ippolito: beulah and when those guests, cosmetics, the gravitational forces ultimately force new stars to be born.
+2:18:18
+Andrew Ippolito: Okay, and in that process of gravity those the hydrogen and helium crumpled together and that's where you form your higher elements like your hydrogen nitrogen oxygen and then those stars blow up.
+2:18:29
+Andrew Ippolito: And they mix and our stars a third generation star so by this point in our galactic timeline the cosmos is littered.
+2:18:37
+Andrew Ippolito: With all 92 elements out there and so they're bumping into each other and spontaneously forming chemical reactions and that's where the amino acids come from there they're completely natural things that don't require a living cell to create.
+2:18:51
+Andrew Ippolito: And this starts to establish the theory of how life started called a bio genesis the theory that life got started from an organic matter.
+2:19:02
+Andrew Ippolito: So sorry i'm sorry dead matter yeah. Taylor Campbell: said matter and then that's different and then how like the spontaneous right.
+2:19:11
+Andrew Ippolito: spontaneous generation. Andrew Ippolito: yeah right so spontaneous generation is the idea that today on earth right now life can arise from from dead matter like flies coming off of spoiled meat and mice coming out of garbage this you could argue, is the original.
+2:19:27
+Taylor Campbell: spontaneous generation. Andrew Ippolito: And yes, it did happen. Andrew Ippolito: Maybe it happened multiple times right.
+2:19:34
+Andrew Ippolito: So yeah if you want Google that. Andrew Ippolito: A bio genesis there's there's um. Taylor Campbell: We just proved.
+2:19:40
+Andrew Ippolito: The very good good. Taylor Campbell: um What would the spawn the spontaneous.
+2:19:47
+Taylor Campbell: What was a generation generation that was disproved through that experience with the swan flu is, but this is like something that is believed correct.
+2:19:59
+Andrew Ippolito: Well, so yeah yeah I mean. Taylor Campbell: This wasn't this truth, even though it's sort of part of what that claim is saying it's.
+2:20:06
+Andrew Ippolito: Not so so what the. Andrew Ippolito: What Louis Pasteur disproved. Andrew Ippolito: This notion of spontaneous generation.
+2:20:13
+Andrew Ippolito: idea sorry. Taylor Campbell: had to do with life. Andrew Ippolito: had to do with today's life, right now, at this moment, where we have this complexity of eukaryotic cells in mice in everything in between.
+2:20:26
+Andrew Ippolito: The idea was originally I mean this This makes sense right bacteria are really, really primitive and they're very, very simple.
+2:20:34
+Andrew Ippolito: And so, it stands to reason that you can just mix a bunch of chemicals together and eventually they'll just make a cell and they believe that that was a common thing that happened and that's where.
+2:20:44
+Andrew Ippolito: spoilage came from like beer and wine being spoiled or or my sauce oh did that eventually we realized that no cells are way too complicated to just.
+2:20:52
+Andrew Ippolito: fall together like that all the time, and what Louis pastor showed was when things are contaminated they're getting contaminate from the air that there's micro organisms and so that's what eventually.
+2:21:02
+Andrew Ippolito: gave rise to the germ theory of disease, but the concept that life arose from this combination of been organic or I keep saying inorganic this dead material.
+2:21:13
+Andrew Ippolito: If you rewind time three and a half billion years early earth reducing environment and that's what, if you read about the Uri Miller experiment.
+2:21:21
+Andrew Ippolito: that'll teach you about that that's where they put a bunch of simple stuff into a bunch of test tubes that were close to the environment.
+2:21:27
+Andrew Ippolito: And then added energy to it and found, you know as the months went by they started getting more and more complex organic molecules okay so so that so instead of saying spontaneous generation we've termed that a bio genesis to distinguish it from spontaneous.
+2:21:43
+Andrew Ippolito: Great question. Taylor Campbell: Okay. Andrew Ippolito: Back to proteins we. Alexa Deprisco: Can I just backtrack first hot stuck in there.
+2:21:50
+Alexa Deprisco: yeah I saw electric protein that you drew do you think there's any correlation there because there's like you circle, the nh three which could be like ammonia and then like the CO2 is like kind of like.
+2:22:02
+Alexa Deprisco: How you're saying like these, I guess, early earth elements that like defined what we are.
+2:22:07
+Alexa Deprisco: Oh. Andrew Ippolito: yeah I mean, so the the current belief is that the the building blocks of life were seated on earth, there was this 500 million year period of constant bombardment.
+2:22:18
+Andrew Ippolito: And in that bombardment we got a lot of water, but we also got this stuff, and so there were thinking of it like a jumpstart we cut some corners, instead of having to.
+2:22:27
+Andrew Ippolito: Have amino acids form themselves spontaneously on earth, they work they came prefabricated from the cosmos that's the idea and there's this this that whole theory is called panspermia.
+2:22:39
+Andrew Ippolito: This is all wonderful interesting stuff that has nothing to do with evolution. Andrew Ippolito: This has to do with the origin of life there's books written on the subject, you can go to websites and blogs, if you like this stuff Google panspermia and.
+2:22:54
+Andrew Ippolito: And dig into the Uri geller experiments it's really interesting stuff. Andrew Ippolito: All right back to our regularly scheduled program here i'm running out of time you.
+2:23:06
+Victoria Bloemker: need the whole thing. Taylor Campbell: yeah the one that right. yeah.
+2:23:11
+Andrew Ippolito: yeah so this right here. hold on one second.
+2:23:27
+Listen.
+2:23:34
+Andrew Ippolito: here's just a sampling alone so so so let's see.
+2:23:45
+Artists the one I want. Andrew Ippolito: I don't think this week 12345.
+2:23:54
+Were. Counting.
+2:24:12
+Andrew Ippolito: i'm kind of see how their present this might be too confusing for you guys, let me delete this i'm just i'm searching out, you know what let me go to my PowerPoint just grab that one here we go.
+2:24:23
+Okay. Andrew Ippolito: It says, this is what we're more familiar with and looking at, so I don't explain things to you Okay, if you look right here that's that's the amino acid glycine.
+2:24:36
+Andrew Ippolito: glycine Okay, all I mean West is a three letter code, so this would be GL why and a one letter code g.
+2:24:46
+Andrew Ippolito: OK, so, if you look closely at this now. Andrew Ippolito: here's the Alpha carbon.
+2:24:54
+Andrew Ippolito: here's a car bucks a lead carbon. And here's the amino group.
+2:25:01
+Andrew Ippolito: Okay, so I want you to be able to see that. Andrew Ippolito: So this right here is the our group, even though it's just a plain old hydrogen you see there's two hydrogens here right all the amino acids have.
+2:25:14
+Andrew Ippolito: The hydrogen bound to them on their alpha carbon Okay, but glycine is the simplest amino acid, and this is the one we find in the cosmos most commonly in the stardust is just a hydrogen.
+2:25:29
+Andrew Ippolito: Okay, so, if you look at this chart here. Andrew Ippolito: i'm going to highlight for you that's way too thick i'm going to highlight for you here the side chains, so you can see, get to see them.
+2:25:41
+Andrew Ippolito: Right so understand the core of the amino acids always the same to here i'll highlight the core of the amino acids in orange here.
+2:25:51
+Andrew Ippolito: Right so there's the core there's the amino group the Alpha carbon and the carb oxalic group.
+2:25:57
+Andrew Ippolito: Okay, there are a few special cases as that last slide showed the biggest one that you can look at as proline proteins, a special amino acid because it's our group it side chain wraps back around and interact with the amino group.
+2:26:11
+Andrew Ippolito: You can see it going like this, so it actually it forms a ring here, the consequence of this is that what proline does is it puts kinks in the chain, like a double bond in a fatty acid.
+2:26:23
+Andrew Ippolito: So, in other words, if this is the poly peptide chain, you can put a hard angle in there, that would be proline.
+2:26:31
+Andrew Ippolito: So you would see that this is a structurally important amino acid, not a chemically important or functionally important Okay, so if you want to build a protein in 3D printing would be important.
+2:26:44
+Andrew Ippolito: Okay, so i'm going to say oops I Double Click to that brought me to 100% sorry, let me go all the way to 500 and then back out to to something.
+2:26:53
+About there. Andrew Ippolito: Okay, so that's the tour the tour of the amino acids, you have let me erase all those.
+2:26:59
+Victoria Bloemker: gobbledygook now, and I can give you the tour. Andrew Ippolito: You got. Victoria Bloemker: Go back out all the way.
+2:27:05
+Andrew Ippolito: Go back out all the way. Victoria Bloemker: yeah this really quick because I wanted to take it oh wait, maybe not that.
+2:27:10
+Andrew Ippolito: you're not gonna be able to the resolution is going to stink now what I can do is I could actually save this and put this up on onedrive for you, I don't know yeah you know what i'll do that, but if I do do that i'll clean this up a bit like i'll get rid of the nebula.
+2:27:23
+Andrew Ippolito: nebula. Andrew Ippolito: i'll do that later all right, but let's zoom all the way in here for a second let's look.
+2:27:29
+Andrew Ippolito: let's look right here so just a quick whirlwind tour you see glycine alanine over here okay they're neutral nonpolar.
+2:27:36
+Andrew Ippolito: meaning there are groups so alanine is just a carbon that's methyl methyl group glycine is just a plain old.
+2:27:44
+Andrew Ippolito: Okay, we have a cynic ones, let me lock, this is annoying. Andrew Ippolito: Okay, we have acidic ones, the spark guests and include tannic acid, you can see, they have carb oxalic acids on them, the only difference is is that lieutenant guess is just a little longer.
+2:27:58
+Andrew Ippolito: Okay, they have basic amino acids. Andrew Ippolito: His sittings weird because it has this nitrogen is ringing in the others are these big long chains right but they all notice have.
+2:28:11
+Andrew Ippolito: And amino group Those are all amino not so they're very rich and nitrogen so remember nitrogen oxygen or like opposing forces nitrogen tends to be alkaline oxygen tends to be acidic that's the way to think of it.
+2:28:23
+Andrew Ippolito: All right, V lean ISO leucine these are just hydrocarbon chains right so that looks like a why and this looks like an l.
+2:28:35
+Andrew Ippolito: trip the fan has these big huge large and every other word that means bigger chains rings right, these are bulky.
+2:28:46
+Andrew Ippolito: Probably the one that wraps around on itself. Andrew Ippolito: Matthias mean has a sulfur in it.
+2:28:52
+Andrew Ippolito: and refining if you had to just know one amino acid my Fine, is the most important because that turns out to be the first amino acid that every single protein gets built from that's that's the starting point as well learn about later in the Semester.
+2:29:06
+Andrew Ippolito: Okay, and Lucy and looks like vili and except it's a little longer.
+2:29:12
+Andrew Ippolito: 16 has a cell phone group, this is another special 116 has the the quiet one dish this of hydro group.
+2:29:20
+Taylor Campbell: So you know these structures, like to be. Andrew Ippolito: You don't have to memorize any of this.
+2:29:26
+Taylor Campbell: What i'm trying to do, and the reason i'm. Andrew Ippolito: Spending some time here is to impose upon your brain that this is life's chemistry set it's all here all the chemistry we're going to talk about forever.
+2:29:37
+Taylor Campbell: is here and. Andrew Ippolito: So, in other words you don't need any more amino acids. Andrew Ippolito: Beyond 20 to do everything in life that's part of the reason why life settle down on 20.
+2:29:48
+Andrew Ippolito: This is what evolved we didn't need more too many more right and that would be too complex and life wouldn't survive it wouldn't be out competed by simpler life and not enough complexity and it will be able to do everything it needs to do.
+2:30:01
+Okay. Andrew Ippolito: And then, lastly, you see neutral neutral polar so these right here, see me three entire scene, these are my three favorite, these are the three amigos.
+2:30:11
+Andrew Ippolito: These are the ones that all have hydroxyl group here, and these are the ones that get phosphor elated.
+2:30:20
+Andrew Ippolito: And I said what phosphorylation was last time phosphorylation is this modification to substances phosphate brings energy with it.
+2:30:32
+Andrew Ippolito: And this is the universal mechanism all life uses to control things if you want to turn the system on or off, you can just for later defaults for later right, so you want to turn the enzyme on you phosphor ELISE.
+2:30:44
+Andrew Ippolito: Where do you us for lead it well i'm one of those guys Syrian 300 tyrese.
+2:30:49
+Andrew Ippolito: So mutate, so when we look at enzymes and we look at diseases and we look at pathologies that are arising from enzyme problems sometimes we come across the mutation impacting one of those amino acids.
+2:31:02
+Andrew Ippolito: Okay alright so that's that now we're going to talk about the, this is the thing that traditionally most students struggle, the most with and i'm going to give it to you in a way that makes perfect sense we're going to talk about protein structure or just to say structure.
+2:31:18
+Andrew Ippolito: Okay, and it's so here's what I want you to do you and if you're tired pay careful attention to my voice and watch what i'm doing don't even take any notes just watch this like a movie.
+2:31:29
+Andrew Ippolito: Okay watch it through the first time it'll make sense to you, hopefully, and then go back and do your study ready okay so Level one we call this the primary sequence for the primary structure.
+2:31:42
+Andrew Ippolito: Your book says structure, but really there's no structure here, so I say sequence.
+2:31:47
+Andrew Ippolito: And all this is. Andrew Ippolito: Is the linear chain.
+2:31:53
+Of amino acids. Andrew Ippolito: Okay, in a particular order.
+2:32:06
+Andrew Ippolito: We call that the poly peptides primary structure or primary sequence, you can abbreviate it with a one degree primary so as an example.
+2:32:15
+Andrew Ippolito: And he says a K P El que en I just those are just one letter abbreviations of various amino acids Okay, we call that the primary sequence.
+2:32:27
+Andrew Ippolito: it's like a word Okay, if you want it to cartoon that you can just do it like this.
+2:32:36
+Andrew Ippolito: Okay, so at the primary sequence level, you can talk about a di peptide.
+2:32:44
+Andrew Ippolito: You can talk about a try peptide. Andrew Ippolito: You can talk about a Tetra peptide okay So these are peptides.
+2:32:52
+Andrew Ippolito: peptides are important classes of molecules involved in all sorts of things, for example, the bacterial cell wall has special Tetra peptides in in.
+2:33:00
+Andrew Ippolito: Your brains neuro chemistry includes a whole bunch of various kinds of peptides. Andrew Ippolito: Okay, so peptides go up to about 12 amino acids or so.
+2:33:12
+Andrew Ippolito: Okay, beyond that. Andrew Ippolito: So now we're going to talk about polly peptides the common poly peptides of poly peptide.
+2:33:22
+Andrew Ippolito: A poly peptide has on average in our by in humans about 300 amino acids long right so i'm just going to doodle it this way now i'm just going to literally draw a line like this, and I want to call that a poly peptides.
+2:33:41
+Andrew Ippolito: tied all right now here's the thing at the end of this chain, right here we've zoomed all the way in we would see a free and available amino acid free and available amino group right, it would be an amino group at the end of that.
+2:33:56
+Andrew Ippolito: And so we're going to call this the end terminus.
+2:34:02
+Andrew Ippolito: And on the other side over here that's a free carb oxalic acid group and that's the C terminus.
+2:34:11
+Andrew Ippolito: that's why I told you earlier, always draw it the same way okay it's a convention, we just had to agree upon something like this to communicate with each other.
+2:34:21
+Andrew Ippolito: assigned you could put this see on the other side, but we don't we always draw it this way and to see okay so here's the thing, as you start growing a chain of amino acids.
+2:34:36
+Andrew Ippolito: You start to get into some interesting three dimensional structural territory and so here's what i'm going to do i'm going to now introduce you to a toy that you can buy on Amazon.
+2:34:47
+Andrew Ippolito: Some of you might have these already. Andrew Ippolito: Is magnetic beads anybody have these.
+2:34:54
+Andrew Ippolito: If you don't haven't gone Amazon they're called bucky bars Alex has got some so go ahead Alexis you've got a leg up now here you go primary sequence.
+2:35:03
+Andrew Ippolito: Right each ball represents an amino acid there's peptide bonds and between them all okay so by zoom all the way out here, and then see terminus just as a draw on the screen here's what we're going to do now we're going to zoom into some particular region here somewhere in the middle.
+2:35:19
+Andrew Ippolito: And i'm going to form. Andrew Ippolito: This little cylinder here.
+2:35:25
+Andrew Ippolito: see that nope hold on, let me do a better we do a better job here.
+2:35:35
+There we go. Andrew Ippolito: Okay, see that it's a beautiful little cylinder.
+2:35:42
+Andrew Ippolito: Like micro trivial. Andrew Ippolito: i'm going to now step back and hopefully it doesn't fall apart from the gravity.
+2:35:49
+Andrew Ippolito: Okay, so you see that So you see it's just one little region of the protein i'm sorry it's just one letter region on the poly peptide zoom all the way in, and I can see a structure there somewhere else i'm going to fold it in a way that it's flat.
+2:36:03
+Andrew Ippolito: So that it's a it looks like a sheet. Andrew Ippolito: Okay, so these various structures all along here, I can put a loop, and I can put a little sheet another loop, so I can doodle that so watch this i'm going to scroll down right here.
+2:36:20
+Andrew Ippolito: And i'm going to do this.
+2:36:29
+Andrew Ippolito: Right, you see that. Andrew Ippolito: These we can call structural motifs.
+2:36:37
+Andrew Ippolito: That word motif just means a little identifiable structure of some kind.
+2:36:44
+Andrew Ippolito: Of a song think of when you're playing jazz you listen to jazz music jazz music is free form right the players of jazz music.
+2:36:51
+Andrew Ippolito: riff on things they just make it up, but they have these very recognizable repeatable areas they call motifs so there's musical motifs.
+2:37:00
+Andrew Ippolito: Okay, if you ever listened to your favorite song, and it has a chorus line and it keeps repeating, you can call that a motif okay So these are called secondary structures that's the second level of structure beyond the the primary Okay, we call we call the secondary structure.
+2:37:24
+Andrew Ippolito: And there's two classic examples there's the Alpha helix.
+2:37:31
+Andrew Ippolito: which, as its name suggests, is helical which I do it all over here Okay, and then there's something called the beta.
+2:37:41
+Andrew Ippolito: it's called a pleaded sheet. Andrew Ippolito: Okay, if you have pants that have a platinum or hear her tick tick a business letter that you fold up and put in an envelope.
+2:37:57
+Andrew Ippolito: Okay, that zigzagging. Andrew Ippolito: Okay now now think of your pants that have pleats right, if you think of a pair of pants.
+2:38:07
+Andrew Ippolito: That are pleaded. Andrew Ippolito: it's like an accordion folding up right that's what this looks like in 3D it's not a flat plane I can't do it with magnets but that's what it looks like it looks like this and that's called the pleated cheap.
+2:38:21
+Andrew Ippolito: Alright, so there's other ones are some more exotic ones like zinc fingers and lucene zippers but we're not going to talk about them there's alpha beta alpha helix beta sheet.
+2:38:31
+Andrew Ippolito: OK, so now, you can imagine if I gave you a pipe cleaner or, if you have a pipe cleaner at home or a really big paperclip or.
+2:38:39
+Andrew Ippolito: A clothes hanger a wire clothes hanger you can imagine folding it up and bending and into these various shapes right now, overall, this is still not a thing right, this is just a weird zigzag he bendy thing right this this thing here.
+2:38:54
+Andrew Ippolito: Right whatever this is that's not a thing, so what we're going to do now, and this is where we're going to end for one poly peptide there we're going to take that.
+2:39:02
+Andrew Ippolito: All the various three dimensional loops and sheets and whatever and we're going to fold it up into a single, unified three dimensional structure we're going to call that as tertiary sequence or i'm sorry tertiary structure.
+2:39:19
+Andrew Ippolito: tertiary. Andrew Ippolito: The third level of protein structure.
+2:39:24
+Andrew Ippolito: Now, remember somewhere in there, there is still the end.
+2:39:29
+And the sea. Andrew Ippolito: there's still loose ends there.
+2:39:39
+Andrew Ippolito: And that's the end of the story for a single poly peptide.
+2:39:47
+Andrew Ippolito: If that poly peptide that is folded up into that 3D confirmation if this has its own function.
+2:39:57
+Andrew Ippolito: We would call that. Andrew Ippolito: A tertiary protein we're going to introduce this word protein now of protein implies function, this is insulin.
+2:40:09
+Andrew Ippolito: Or, this is a transcription factor, whatever it's, a thing that does the job we're going to call it a protein, because it has a job okay now some proteins let's take two of these now so i'm just gonna grab this and I copy it put it over here.
+2:40:28
+And i'm going to replace the. boundary here the border.
+2:40:38
+Andrew Ippolito: Okay, and so here let's take this let's take another one, just like if let's say that these two things, let me turn it upside down a little let's see what these interactive like this.
+2:40:51
+Andrew Ippolito: And that this thing or let's hear it let's do it again let's take two more of these now and let's put it like.
+2:40:58
+Andrew Ippolito: Like let's do. Andrew Ippolito: let's do this okay so let's see this thing whatever this thing is.
+2:41:08
+Andrew Ippolito: let's see if it had it had a job, like hemoglobin. Andrew Ippolito: This would be coronary structure.
+2:41:22
+Andrew Ippolito: And if that had a functional if that was the functional unit of the thing we would call this a core ternary protein.
+2:41:32
+Andrew Ippolito: again an example of that would be hemoglobin.
+2:41:39
+Andrew Ippolito: Okay, so for hemoglobin if this was hemoglobin all right let's say that, so this we would now call the sub units right that that what I just circled there.
+2:41:50
+Andrew Ippolito: You would call that from a functional perspective, a subunit of hemoglobin even though it's a folded up 3D shape of one poly peptide it doesn't have a standalone function in nature it's part of a bigger thing.
+2:42:04
+Andrew Ippolito: Okay, and so will say there's two of those and then there's another two of these So these are the blue and the red i'm signifying are different poly peptides, even though I copy and pasted them let's pretend that they're different.
+2:42:19
+Andrew Ippolito: Okay, and for hemoglobin this would be called alpha.
+2:42:25
+Andrew Ippolito: globe in. Andrew Ippolito: And this would be called.
+2:42:31
+Andrew Ippolito: beta global.
+2:42:40
+Andrew Ippolito: And so that's the difference between a protein and a poly peptide and so to summarize all this and put it all together now, and this is where your brain needs to be at some point, it might not be there yet and that's Okay, you need to be able to build up.
+2:42:56
+Andrew Ippolito: From the linear chain. Andrew Ippolito: To the various secondary structures.
+2:43:05
+Andrew Ippolito: To a fold it up 3D molecule.
+2:43:14
+Andrew Ippolito: To the idea of there being complexes Okay, so do I only put two there, the idea of cautionary structure just means more than one.
+2:43:25
+More than one poly peptide. Andrew Ippolito: In other words, there's no fifth for just means more than one.
+2:43:41
+Okay, and that's protein. Andrew Ippolito: i'm gonna look.
+2:43:47
+At our class schedule for a moment. And I want to see.
+2:43:52
+Andrew Ippolito: Think today, we were supposed to completely finished this which would have included the amino acid nucleic acids.
+2:44:00
+instead.
+2:44:05
+Andrew Ippolito: It looks like we've got two days of cells and then the exam. Okay, I could totally do that.
+2:44:13
+Andrew Ippolito: we're not behind so that's good. Andrew Ippolito: This is just a guide to help keep us on track as long as we get through cells were and we finished exam one we're good so where we are today i'm looking at the schedule, when the 10th.
+2:44:25
+Andrew Ippolito: We finished, it said chapter 5.4 to the end that includes nucleic acids, which we did not cover here, and then on Monday we're supposed to start cells, so instead what we're gonna do on Monday.
+2:44:41
+Is we're going to finish. Andrew Ippolito: Chapter five and we're going to focus on nucleic acids.
+2:44:50
+Andrew Ippolito: And then we're gonna start Chapter six cells.
+2:44:55
+Victoria Bloemker: We have unit tests, or do we just have like the quizzes. Andrew Ippolito: We have the so next Friday is your first big test the first test right so so Wednesday of next week, we will finish cells.
+2:45:12
+Andrew Ippolito: And then Friday of next week so make sure your schedules are cleared, we have our first test test or exam one.
+2:45:20
+Andrew Ippolito: And that's going to include Chapter one three Chapter six and then we'll also include that little handout on knowledge and science.
+2:45:29
+Taylor Campbell: When like what time on Friday. Andrew Ippolito: i'm going to start the ELENA start officially at 10 o'clock just like you guys start normally.
+2:45:40
+Andrew Ippolito: All right, i'm going to invite the afternoon class they could come in in the morning and take it to and then i'll just keep.
+2:45:46
+Andrew Ippolito: practicing it until there are no more students left to take the exam if you work on Friday and you haven't planned ahead to take off if you could.
+2:45:57
+Andrew Ippolito: And you have a conflict just let me know in zoom chat privately and all accommodate you, I am aware of the fact that you did not sign up for a Friday class.
+2:46:07
+Andrew Ippolito: But as we discussed all the way back on day one, this is giving you a little bit more time to study and get ahead of the game, so to speak, and.
+2:46:17
+Andrew Ippolito: And everybody seemed to want to do that, so if you have a conflict, I will be happy to accommodate you, you have been means having to take it on Saturday or Sunday.
+2:46:25
+Andrew Ippolito: The only excuse for, that is, if you have a conflicting work schedule that you can't get out of it's not a convenience thing like I don't feel like taking it Friday it's I can't physically take it Friday, because I have work that I can't get out of.
+2:46:40
+Okay. Andrew Ippolito: And so do me a favor look look at the rest of the schedule for the Semester. Andrew Ippolito: And let's just make sure that we have these dates locked into your so they pull your phone out and put these dates in these aren't changing the next test so here i'll write these out on the wall whiteboard here.
+2:46:56
+Give me a second just set this up sorry tests.
+2:47:02
+Andrew Ippolito: doing it, by the way, if you have to go right now it's after one o'clock if you have to go to work or whatever or another class go ahead, you can watch this later.
+2:47:10
+Danuta Despagne: Otherwise, to print anything for the test. Andrew Ippolito: Sorry, I didn't.
+2:47:16
+Danuta Despagne: print for it, or is it going to be in the computer. Andrew Ippolito: Do you have to put.
+2:47:23
+Danuta Despagne: Some classes by the email the paper, and then we print it, it will take it like.
+2:47:28
+Andrew Ippolito: Oh no, no, no, your test will be on canvas. Danuta Despagne: and Andrew Ippolito: The way we're going to do this is you're going to have to set your phone up you're going to connect to the meeting on your phone.
+2:47:42
+Andrew Ippolito: And then you're going to set your phone up in the room, so that I can see you very clearly. Andrew Ippolito: So that I don't see anybody, you know pulling out papers or books or whatever.
+2:47:50
+Andrew Ippolito: You have to so maybe figure that out today, so that you don't stress about it on Friday, because some students really struggle with figuring out where to put their phones and I had some students put their phone behind them where all I see is like.
+2:48:03
+Andrew Ippolito: their shoulders and i'm not suggesting they're cheating, but if they had a book on their lap and they were just referencing it the whole time I would wouldn't have been able to tell so and I had to interrupt their test and be like I can't see you.
+2:48:17
+Andrew Ippolito: I mean it's kinda like being in the classroom and like turning around from me and huddling like that'd be a little suspicious in your life.
+2:48:24
+Andrew Ippolito: So you want to set yourself up where the cameras behind you at about 45 degrees on on top of something looking down, so I see your screen, I see you, I see your keyboard.
+2:48:34
+Andrew Ippolito: And if you want to do a dry run on that, next Monday, just so you can set it up, we can do that if you want, so that when the time comes, you can just take a test so speaking of test we got i'm looking at the schedule here.
+2:48:48
+exam one is the 19th the 19th. Victoria Bloemker: exam to is march 26.
+2:48:58
+exam. Three is may alarm sorry April 16.
+2:49:09
+And then exam for is may 7.
+2:49:16
+Andrew Ippolito: And then the final is may 14 which all you guys have a whole week there that's great this jump here that you're lucky it doesn't always work out that way, sometimes you have your test on like Monday.
+2:49:29
+Victoria Bloemker: Excuse me, and then the final like three days later, I have a quick question um so for this are we actually able to like take our time on it and read each like question by ourselves.
+2:49:41
+Andrew Ippolito: Or do you yes yeah oh yeah yeah no i'm not reading through it. Andrew Ippolito: you're gonna have the freedom to bust through it yeah okay.
+2:49:48
+Andrew Ippolito: So there'll be a timer. Andrew Ippolito: And the time limit is going to be, as a rule of thumb about a minute, a question.
+2:49:54
+Andrew Ippolito: Okay, and you'll be able to see multiple questions at the same time i'll unlock it that way, so I can be one question at a time i'm also gonna not gonna lock the question so that once you answer a question you can't go back to it because i'm.
+2:50:07
+Victoria Bloemker: Drinking I can see you. Andrew Ippolito: Okay, so the alternative to this is tighter time locking questions, one question at a time.
+2:50:18
+Andrew Ippolito: And so, like if your camera is not set up that way that would have to be how I did it and I don't want to do that to you so i'd rather give you that comfort comfort.
+2:50:26
+Andrew Ippolito: of being able to kind of go around your test and answer them and your own otter and go back and check your answers and there'll be a timer, but you can hide the timer to there's a little bit you can just hide timer so you don't just see it ticking away driving you crazy okay.
+2:50:42
+Victoria Bloemker: I think. Jordan Russell: Emily how many questions should we expect on the test. Andrew Ippolito: All of them.
+2:50:51
+Andrew Ippolito: You know, Jordan that's that's the most common question I get and my answer is always less than 200.
+2:50:59
+Jordan Russell: Okay. Andrew Ippolito: So we mean it could be 190 questions yeah i'm not gonna do that to you, but I don't know, and the reason why I don't have a definitive answer is.
+2:51:11
+Andrew Ippolito: Every semester I tweak it a little bit so here's the real answer more than 50 fewer than 80.
+2:51:19
+Jordan Russell: Okay, OK. Andrew Ippolito: OK so it's it'll it'll take you about two hours or so, to get through.
+2:51:25
+Andrew Ippolito: The other reason I can't answer, that is, I do sometimes I do matching and, like the matching might be 10 questions, but really each a question right there just 10 slots and that goes away faster than 10 national multiple choice questions I have a paragraph so.
+2:51:39
+Andrew Ippolito: So there'll be some mapping there'll be some multiple choice i'll probably i'm not going to do the multiple multiple choice, those are just nightmares at this point in the system.
+2:51:47
+Andrew Ippolito: And then, after the test when you're finished, you know you can log off and go and once every single student every single student has taken a test, including the ones that campus are working so whenever after that happens.
+2:52:00
+Andrew Ippolito: I then go into the system, I dump all the data in excel and I look for questions that were terrible there's always a little set of questions that everybody gets wrong, and then I throw those in the way I do that as I add up the number of questions that I decided I didn't want to count.
+2:52:15
+Jordan Russell: And then I come up with some percentage from that. Andrew Ippolito: Right, so if there were 78 questions and there were seven I didn't like I would do seven divided by 70 and get some you know percentage, and then I would go in and add that to everybody score.
+2:52:27
+Andrew Ippolito: So your final score don't freak out if it's a little lower than you expect that's going to go up I adjust them it's not a curve I just throw out the bad questions.
+2:52:38
+Andrew Ippolito: Okay. Andrew Ippolito: It might be there's a curve a curve, is when I take the average. Andrew Ippolito: Right let's say that everybody got a.
+2:52:44
+47. Andrew Ippolito: I say every single student got a 47.
+2:52:50
+Andrew Ippolito: let's see. Andrew Ippolito: that's that's a curve, is where you take the average I mean you calculate the standard deviation so let's say you guys know you guys still see my screen right i'll teach about cursor that's kind of fun so let's say that the spread was about curve.
+2:53:07
+Andrew Ippolito: right we call this a normal distribution. Andrew Ippolito: The average person got this grid and we call that a see.
+2:53:15
+Andrew Ippolito: All right, the standard deviation is a measure of how spread across the data is so, in other words let's say that everybody got about the same score.
+2:53:25
+Andrew Ippolito: That would look like this, whereas let's say that everybody got a very different score it would look like this see that spread so standard deviation as a measure of how spread apart, it is so you do is you calculate the average you calculate the standard deviation and then you do this.
+2:53:41
+Andrew Ippolito: You go up or down one standard deviation and that's your be in your D you go up another standard deviation and that's your a and your F and that's why we have.
+2:53:54
+Andrew Ippolito: that's BBC def I don't know why it's just make that in a I don't know because F means fail and they needed to know I don't know alright, so I don't do this, this is curving and that way let's say that the average was.
+2:54:09
+Andrew Ippolito: A 52% with a standard deviation of 7%. Andrew Ippolito: Okay, so I would say, so I would set it in a system where, if you got a 52 to a 50 so be would be what are 59% if you got a 59 on the test you get a B.
+2:54:26
+Andrew Ippolito: that's a curve I don't do any of this, what I do is I say out of these 75 questions I hated seven of them right so seven out of 75 i'm making this up is like whatever 4.2%, and so I just go into the system, I just add 4.2% everybody's great I call it an adjustment, the difficulty adjustment.
+2:54:46
+Andrew Ippolito: Okay, you see how that's fundamentally different like this doing this is for honestly it's for people who are lazy to teach.
+2:54:54
+Andrew Ippolito: I don't imagine, I just didn't teach you imagine, I was a terrible teacher and you had no idea what was going on, you take the test and everybody bombs it and i'm like but that's okay i'll curve it, and now you got your a and you have no idea what you learned.
+2:55:09
+Andrew Ippolito: that's a lazy teacher. Andrew Ippolito: Okay, so so like I remember years and years ago when I still cared a little bit about rate my Professor.
+2:55:17
+Andrew Ippolito: Some kid wrote in there, it from makkah I was a kid it was like some 18 year old that was always asking it just you know you have your annoying students occasionally.
+2:55:27
+Andrew Ippolito: And they were just one of those ones that like they were just all they cared about was there a grid right and they stick they compliment he he curves this tests like I don't my tests.
+2:55:39
+Andrew Ippolito: Part of the other reason for that is the other faculty. Andrew Ippolito: When they heard that I curve test or like you can curve these tests these students are going to be nurses you don't want a nurse like killing people because they don't know what you don't want to send a person into anatomy physiology the class.
+2:55:55
+Andrew Ippolito: With a see in your class that really didn't earn a senior class if you curbed right, so these were these were pre nursing students.
+2:56:02
+Andrew Ippolito: And at Monaco, in order to get into a MP, you had to take the general biology class 121 over there.
+2:56:10
+Andrew Ippolito: which was like a mixed majors class, it was like not quite bio one on one here, but not what you guys are doing you guys are majors majors biology.
+2:56:17
+Andrew Ippolito: And so, if I curved my tests in that non majors class and everybody got their see even if they didn't know biology they then subsequently went to take bio one, at one and bomb it and then they'd be take it and bombing because they really shouldn't have been there, to begin with.
+2:56:35
+Jordan Russell: And i'm sorry to interrupt. Andrew Ippolito: me too. Jordan Russell: I gotta I gotta go, but I have one question.
+2:56:41
+Andrew Ippolito: yeah good. Jordan Russell: i'm weird does. Jordan Russell: Like it's Chapter four be technically Chapter five.
+2:56:50
+Andrew Ippolito: So three ready three is water and pH for is generic organic chemistry carbon functional groups skeletons carbon skeleton Chapter five biological macro molecules.
+2:57:08
+Jordan Russell: The case of Chapter four B is. Andrew Ippolito: Also it's lecture lecture for be.
+2:57:13
+Andrew Ippolito: And i'm sorry I Maybe I should rename all these systemically so that it's not as confusing my original lecture was Chapter four.
+2:57:22
+Andrew Ippolito: And that had the carbon stuff in it as an introduction and then we started with limpets carbohydrates, your book made a new chapter, and so I just caught my Chapter four and half and I call the day MB.
+2:57:35
+Jordan Russell: Okay. Andrew Ippolito: that's the only time in the Semester that that'll be confusing.
+2:57:43
+Jordan Russell: Because when he says, like Chapter six is next I was like well. Andrew Ippolito: where's Chapter five.
+2:57:49
+Jordan Russell: I was like where's Chapter five. Andrew Ippolito: yeah well today we almost but not quite finished.
+2:57:57
+Okay. Jordan Russell: six. Jordan Russell: Like to keep all my notes organized yeah.
+2:58:02
+Andrew Ippolito: So a traditional like, if I had to write it to if I was to write a textbook Chapter two would be chemistry.
+2:58:08
+Andrew Ippolito: And and water would be in there, Chapter three would be organic chemistry, including the macro molecules in Chapter four will be cells.
+2:58:20
+Andrew Ippolito: But your book, just like splitting things into smaller and smaller pieces.
+2:58:26
+Andrew Ippolito: lifesaver. Andrew Ippolito: All right, i'll stop recording here. well.

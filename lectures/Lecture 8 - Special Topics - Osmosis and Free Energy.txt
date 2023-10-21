@@ -1,0 +1,416 @@
+0:00
+cloudier.
+0:01
+Andrew Ippolito: we're not covered we're not lecturing right now we're just talking about things like the Princess bride no that's really not what we're doing we're taught we just finished Moses, and now we're doing.
+0:12
+Andrew Ippolito: What are we doing we're doing enzymes basics of enzymes and so feel free, if you want to just cut to the chase and go to Chapter stuff, this is not the the video for you so just.
+0:23
+Andrew Ippolito: Nothing to see here move along so okay enzymes, the question was you know, in the chapter eight homework, there was this issue of it's on one hand, it said the enzymes unchanged.
+0:33
+Andrew Ippolito: And the other hand, it's it's slightly changed right so what's the difference there it's all about context.
+0:38
+Andrew Ippolito: When they see the enzymes unchanged, with the mean is that, when you start the reaction, the enzyme looks like this and then the reaction doesn't stuff and then at the end of it all the enzyme looks like this, and if you look at the before and the after it's the seat.
+0:54
+Andrew Ippolito: Okay.
+0:55
+Andrew Ippolito: Now, in the middle there in the meat of the story that we're glossing over during our forensic analysis of a chemical reaction, the enzyme.
+1:05
+Andrew Ippolito: Changes a cheap a little bit when it binds to its substrate Okay, the analogy, there is imagine a baseball glove or softball glove it doesn't matter but it's got to be one of them.
+1:15
+Andrew Ippolito: Okay, the idea is it's it's large enough to hold the ball easily in its middle right, and if you think about it when the ball comes into the glove what's the globe do it hugs it right.
+1:29
+Andrew Ippolito: It changes, a cheap a little bit or imagine putting your head down into a pillow the pillow kind of.
+1:35
+Andrew Ippolito: cuddles around your head it's not you know it's not like putting your hand on a piece of wood that would not be comfortable right the pillow.
+1:42
+Andrew Ippolito: changes its shape to meet your head the contours of your head, especially memory foam memory foams, a perfect example of this Okay, so this concept of slight change that's called the induced fit model.
+1:57
+Andrew Ippolito: Okay, we used to think that an enzyme and a substrate interact with each other in the same way that a lock in a key interacted they call that the lock and key model, the problem with that.
+2:07
+Andrew Ippolito: is in your head when you're thinking about locking the key neither of those mechanisms, neither of those objects changes their shape really.
+2:15
+Andrew Ippolito: Right, if you think of the key going into the key slot what's happening on the inside of that if you've ever seen the way a keyhole works is you have these little.
+2:23
+Andrew Ippolito: These little slats of metal little metal cylinders that move up and down right but they're all rigid metal okay and contrast an enzyme is kind of more like silly putty in that it's going to bend around a substrate so that's one thing we buy slightly change versus not changeable.
+2:43
+Andrew Ippolito: Okay next question.
+2:48
+Andrew Ippolito: This is good stuff.
+2:50
+Alexa Deprisco: In the book, it was talking about energy coupling and it's the use of an extra organic process to drive and undergone and what would an example of that be the sodium potassium pump.
+3:07
+Andrew Ippolito: Yes, and no so the the idea, there is not yes i'll say yes, yes, but that's a complicated example there's there's easier examples to wrap your head around.
+3:18
+Andrew Ippolito: And the reason why I said yeah so is he yes, the idea, there is you put energy into build the gradient right, but then the question is like what do we do with that gradient and the answer is there's so many things.
+3:29
+Andrew Ippolito: Okay, so let's think about one one simple thing the cells do that some cells, then that is the action potential which we're not covering in this class, this is more of a physiology thing but, but basically a neuron.
+3:40
+Andrew Ippolito: Does this all are non response it's either going to elicit an action potential so it's kind of like a little electric shock or it's not.
+3:49
+Andrew Ippolito: Okay, and so, in order for a neuron to do that, there needs to be a pre existing gradient already established in its environment so for example here, this is the neuron here's the the neurons head and then you have this thing called the axon.
+4:05
+Right.
+4:07
+Andrew Ippolito: And so the idea is the sodium potassium pump builds up this gradient.
+4:13
+Andrew Ippolito: All lots of the inside of the neuron the inside of the axon is negative, and the outside is positive because of the sodium potassium pump so we have established that gradient we put some energy.
+4:22
+Andrew Ippolito: Okay, so that's intergalactic right and then let's just say something happens, and what that does is it causes a very rapid opening of channels, such that the sodium rushes into the cell.
+4:38
+Andrew Ippolito: instantly and what that does is it causes the neighboring channels to open, and so what you end up having is this very rapid what's called the polarization of the membrane.
+4:49
+Andrew Ippolito: That is kind of like a branch that catches fire Okay, or if you've ever seen the movies, where they got the.
+4:55
+Andrew Ippolito: Somebody blowing up the gas station and they they pour the gas, all the way up to the street, and then they dropped the match on the gas, and it was wrong.
+5:02
+Andrew Ippolito: Okay, that traveling of the flame down the gasoline that's kind of how an actual potential is it as an analogy okay so and that would absolutely be a extra ganache reaction it's it's being it's releasing all that energy.
+5:24
+Andrew Ippolito: A much simpler example would be the ATP cycle, which is what you'll you'll see I think in this chapter, the ATP cycle is basically try the triphosphate Okay, and you know the Di phosphate.
+5:41
+Andrew Ippolito: Right adenosine triphosphate adenosine triphosphate so you can think of the ATP, this is the charge battery.
+5:48
+Andrew Ippolito: Right, so you can imagine a little if there was a little battery single symbol kind of like you have on your phone.
+5:55
+Andrew Ippolito: This would be the fully charged battery right and then adp would be kind of like.
+6:07
+Andrew Ippolito: The flashing like we can't do anything now our batteries too low right and then, and then a MP really that there, there is a continuum here don't worry about what this is that's a secret.
+6:18
+Andrew Ippolito: This is secret knowledge that you you'll see this at the end of the Semester good so remember that picture I remember that let's see if you can remember that all right going away now okay you got a MP, the model phosphate.
+6:32
+Andrew Ippolito: And and that's that's when you're at like critical levels and you're like should I throw this battery out or not.
+6:39
+Andrew Ippolito: Right so so ATP to adp high to low that's going to give off energy to do some work and so will kind of energy all sorts of stuff.
+6:50
+Andrew Ippolito: Or will see a slide here today there's three basic kinds of work that cells do there's mechanical work there's transport work and there's chemical work.
+6:58
+Andrew Ippolito: Right so think about enzymes doing their thing think about sodium potassium pump doing this thing and think about me busy doing their thing.
+7:06
+Andrew Ippolito: Okay, so those are the three basic classes of work that sells do, and most of that work, almost all of that work is fed through ATP.
+7:15
+Andrew Ippolito: Not all of it, but a lot, most of it Okay, and so, when we have the EDP remember we eat our food, we have all those catabolic reaction down here, we got like calluses on will learn about cell respiration and the Krebs cycle and yada yada yada.
+7:28
+Andrew Ippolito: Okay, that energy from those breakdown reactions comes in here and puts the energy back into a dp to make it ATP let's charge the batteries back.
+7:40
+Andrew Ippolito: Okay, and so that's the coupling the idea of our food over here the breakdown of our food the tablet over food is coupled to the building up of the ATP energy and then the ATP energy lets us build anything we need.
+7:59
+Andrew Ippolito: Okay, great question.
+8:01
+Alexa Deprisco: So then, just to follow up really quickly so then like when you're eating food and it's being broken down the energy that would be released as the ATP that you can go on to us.
+8:11
+Andrew Ippolito: I mean like, no, no.
+8:13
+Andrew Ippolito: Careful there the energy that's being released.
+8:16
+Andrew Ippolito: is so i'll give you a little quick thing here there's glucose glucose is a six carbon molecule that's that's got some features in there right 668 1206 right.
+8:29
+Andrew Ippolito: And what we're gonna do with that we're going to see in glycol says there is a series of 10 chemical reactions.
+8:36
+Andrew Ippolito: Okay, and really early on there's one where it breaks in half into a pair of three carbon molecules and in that fall down hill at the bottom of the chain here, so this is a six carbon molecule 123456 this is going to be a three, and this is going to be a three, these are called pi reveal.
+8:58
+Andrew Ippolito: And in the process, what this does is we take this empty bucket called any D and we're gonna fill it with some energy.
+9:08
+Andrew Ippolito: And then we're going to go and use that energy to go make some ATP.
+9:14
+Andrew Ippolito: Okay, in a process will we'll talk about later, so this full bucket would be called nadh.
+9:23
+Andrew Ippolito: Okay, so so basically we're trapping a pair of high energy electrons in there Okay, and all of this comes down to electrons, and this is stuff we'll talk about in more detail so.
+9:32
+Andrew Ippolito: Okay, so so that's the basic idea, though, so there are these complicated chemical reactions these catabolic reactions that feed.
+9:39
+Andrew Ippolito: The monster of the ATP machinery right it's all that's happening in the mitochondria.
+9:45
+Andrew Ippolito: Right now, yes, there is a little bit of ATP made here there's there's basically two net ATP being meeting like houses to.
+9:54
+Andrew Ippolito: Okay that's that's 2% of the energy and the glucose that's hardly anything Okay, at the end of all this again this this part over here requires oxygen, but if you got oxygen there and you're doing all the good stuff ideally you're making up to 30 ATP.
+10:08
+Andrew Ippolito: Which is about 30% efficiency.
+10:11
+Andrew Ippolito: that's a win okay.
+10:16
+Andrew Ippolito: All right.
+10:19
+Andrew Ippolito: next question or thought or concern or just where's your where's your brain hitting a mental block on this stuff and you can't get past it.
+10:32
+Victoria Bloemker: For me i'm like stuck on gives free energy.
+10:36
+Andrew Ippolito: yeah willard.
+10:38
+Victoria Bloemker: Good old willard gibbs okay.
+10:40
+Andrew Ippolito: Well, I have a.
+10:41
+Andrew Ippolito: good for you, I have the whole slide on that today so well we'll dig into that in grotesque detail.
+10:48
+Andrew Ippolito: anybody else so yeah so tori i'm not ignoring your question i'm saying, well, it will definitely absolutely answer that.
+10:55
+Andrew Ippolito: In the PowerPoint.
+10:57
+Andrew Ippolito: Any others are you guys want to get going on on the media today.
+11:02
+Andrew Ippolito: And by the way these kinds of questions you're asking these are amazing questions I love these kinds of questions feel free to ask these during my lectures.
+11:10
+Andrew Ippolito: don't think of my lecture as like it's not like a Ted talk where i'm up there on a stage roaming around and I don't want anybody talking to me.
+11:17
+Andrew Ippolito: Okay, I mean I might come across that way, sometimes just because of the way I chat but i'm I like people stopping me, but you do oh just hold on a second, can you go what's going on over there, that makes absolutely no sense to me.
+11:29
+Andrew Ippolito: Right and then i'll and when you do that, that that stimulates my brain to come up with a new analogy or to think of it in a completely different way.
+11:36
+Andrew Ippolito: Okay, so, so please, I know that it's uncomfortable to interrupt people, and if you really don't if you really don't like being like Dr to eight.
+11:44
+Andrew Ippolito: nevermind just type something say I have a question type, I have a question, then, you know, then i'll notice it and then i'll stop and then you can ask your question okay.
+11:55
+Andrew Ippolito: All right, Tyler says, is it possible for entropy to increase when free energy both increases and decreases.
+12:04
+Andrew Ippolito: I remember reading something contradiction okay okay so that's another that's another example of like what the enzyme situation it's all about the context of what you're learning about so.
+12:14
+Andrew Ippolito: So, first of all let's make sure we understand the cost of entropy so Tyler do me a favor what, in your opinion, your own words what's entropy mean to you.
+12:22
+Taela Shahid: Just increasing complexity.
+12:25
+Andrew Ippolito: Did you say increasing or decreasing complexity.
+12:27
+Taela Shahid: increasing complexity oh interesting.
+12:32
+Andrew Ippolito: I like I use the word complexity there so, so in that context.
+12:38
+Andrew Ippolito: What do you mean by complexity.
+12:40
+Taela Shahid: Like things get more chaotic there's just more.
+12:43
+Andrew Ippolito: yeah okay.
+12:44
+Andrew Ippolito: that's what I thought you were gonna say, which is good okay so So when I hear complexity.
+12:50
+Andrew Ippolito: i'm thinking order not chaos here's why think about the difference between a car that's put together.
+13:00
+Andrew Ippolito: and doing its job and so think about associate how complex that is right, think about how complicated the moving parts in the car.
+13:07
+Andrew Ippolito: And now take all the car imagine you know, everybody knows somebody who can take a car engine apart and put it back together again right and again, not a single bolt is missing.
+13:18
+Andrew Ippolito: My hat my father in law is one of those people he showed me his show you these pictures of the way he does it is he'll he'll label everything.
+13:25
+Andrew Ippolito: little piece of the tape and sharpies and like it's a nightmare, and then he puts it all back together again.
+13:30
+Andrew Ippolito: it's yeah not not for fun, I mean he's rebuilding engine, sometimes, and this is back when he was younger he's he's older now he doesn't do stuff like that.
+13:38
+Andrew Ippolito: But it was a mechanic back in his day part time he's a lawyer now he's he's been a lawyer for his entire life really so but, before the lawyer part he was a mechanic he's a brilliant engineering type.
+13:48
+Andrew Ippolito: brain and so he could take the whole car apart, and so I want you to just think imagine imagine instead of doing it his way we did it like let's pretend it my way I would never do this, but I would say everything apart, I just throw it on a bin.
+14:03
+It just.
+14:04
+Andrew Ippolito: Is a rattle it up there's my engine right that's a mess right so so the difference between that bucket of parts and the beautiful engine.
+14:14
+Andrew Ippolito: Is that the engine is put together and it's ordered in this wonderfully complex way.
+14:19
+Andrew Ippolito: Whereas that bucket of bolts is just chaos there's just it could be in any order in any way anywhere okay so So the question so ty let's see we got this which one of those systems, the bucket of bolts or the beautiful car has more entropy.
+14:34
+Taela Shahid: Car.
+14:36
+Andrew Ippolito: Okay.
+14:37
+Andrew Ippolito: And so, so the answer is the opposite and what you're doing is exactly what I did when I first learned this and here's why you're doing it.
+14:43
+Andrew Ippolito: As humans, we are storytellers right we like a good story, we are builders we built the car.
+14:52
+Andrew Ippolito: Right we're builders, so what we want to do is, we want to associate some value to the thing we like to do building.
+14:59
+Andrew Ippolito: or telling a story putting putting something together not breaking it apart, although there is something very cathartic about destroying something right.
+15:06
+Andrew Ippolito: we've all had to use a sledgehammer to break something or you know just there's something very I just blow it up and it feels good you guys have cathartic there's a word for some of anybody who will catharsis is.
+15:21
+Andrew Ippolito: Okay let's say that you have all this pent up frustration about something.
+15:26
+Andrew Ippolito: Right let's see if somebody in your life that just keeps doing something just greeting on you, for months or years and, finally, one day, you just lose your shit and you're like I just will you stop do.
+15:37
+Andrew Ippolito: You feel like crying and you just like you just cut this like emotional breakdown and you start yelling at them and they're like I had no idea you didn't like the sound of my chewing.
+15:49
+Andrew Ippolito: right when you just did that feeling where you're like and then afterwards, like oh my God, I feel so good, to get that off my chest.
+15:56
+Andrew Ippolito: stop eating with your mouth open right when we do that that's catharsis catharsis is that release of of negative emotion and it feels good afterwards okay so.
+16:12
+Andrew Ippolito: So our brains are all about the building.
+16:17
+Andrew Ippolito: entropy is the opposite of that.
+16:20
+Andrew Ippolito: Okay it's kind of like the addition makes sense multiplication makes sense division.
+16:27
+Andrew Ippolito: got it you got to kind of think two steps away entropy is one of those things.
+16:32
+Andrew Ippolito: So entropy is a measure of chaos it's not a measure of order, which is what our brains want we wouldn't it be nice if it wasn't measure border, because then it would make more sense to us Oh, as this thing gets built up it gets more of these numbers.
+16:44
+Andrew Ippolito: Right instead is getting less of the numbers.
+16:48
+Andrew Ippolito: it's kind of like understand the difference of the pH number and the exponent being negative right What do you mean it gets bigger to get smaller Is this a riddle what is this okay so entropy.
+17:00
+Andrew Ippolito: is a measure of how far along a system is along with equilibrium journey right so let's go back to the car now okay so Tyler get this you got the car thinking, I was going to happen in that car for the next hundred thousand years, is it always going to look like that.
+17:18
+Andrew Ippolito: what's going to happen over time, inevitably.
+17:20
+Taela Shahid: it's gonna break down.
+17:22
+Andrew Ippolito: Of course, and that's what entropy is a measure.
+17:24
+Of.
+17:25
+Andrew Ippolito: entropy is a sad thing.
+17:29
+Andrew Ippolito: it's the end of the story it's health how much time do we have left that's what entropy is a measure of.
+17:35
+Andrew Ippolito: Right you're watching your favorite TV show I just finished watching that this last month I just finished watching agents of shield marvel's agents of shield anybody watched any of that.
+17:45
+Andrew Ippolito: Oh, a couple of you have you watched the whole thing you don't with it okay yeah so the last two seasons are just what they're just campy cheesy weirdness.
+17:55
+Andrew Ippolito: They were still good at the end of it ended and it's very satisfying so if you're if you're a fan, you should definitely watch it through the end but um.
+18:03
+Andrew Ippolito: You know, you can imagine you're like Oh, this is the last episode, how many minutes, do I have left, how many minutes, do I have left, right that's entropy because you're just inevitably getting to the end.
+18:14
+Andrew Ippolito: Okay, so now let's talk free energy.
+18:18
+Andrew Ippolito: free energy counters entropy free energy delays the inevitable free energy lets you go up hill free energies the building stuff Okay, at the end of the day, we have to come back down again it's temporary right so that that idea I came up with the other day, where you have the sun.
+18:38
+Andrew Ippolito: there's a sun earth and remember we do this energy chart right the energy goes down down as you get further away from the sun it gets colder But then when you get to earth, because we have the atmosphere there's a bump.
+18:48
+Andrew Ippolito: A bump in the road is life.
+18:53
+Andrew Ippolito: Do we just run number something yeah life.
+18:57
+Andrew Ippolito: that's what the bump is okay, so if you zoom into that.
+19:02
+Andrew Ippolito: they're right here this this up hill that's the positive delta G that's the game in the free energy that lets us live Okay, but but look at where the story goes there is no other outcome to that because entropy is inevitable right so energy flows through the system.
+19:22
+Andrew Ippolito: You can never have a situation where you're gaining free energy and entropy.
+19:27
+Andrew Ippolito: Okay now with the books, probably said there and what might have concern a confused you is whenever there is a change in free energy going up, there is another side that's going down.
+19:40
+Andrew Ippolito: With the coupling right So if you think about it, your life as you walk through your life you're leaving a trail of destruction behind you.
+19:48
+Andrew Ippolito: Right you eat a nice hamburger and it turns into poop.
+19:53
+Andrew Ippolito: I mean that's that's the energy continuum right, so you can go and have your life that hamburger doesn't have its life anymore.
+20:00
+Andrew Ippolito: Right, we have to we are evil wizards we suck that the force out of the good and we eat it so that we can live and I never thought of it that way, maybe, where the baddies.
+20:15
+Andrew Ippolito: anybody here ever watch the dragon Prince.
+20:19
+Andrew Ippolito: yeah yeah Okay, and so so Alexis number of the dragon prints we talked about that the humans get their power from from nature right the elves naturally have their power so they're the good guys they get their power from like the sun or the moon, the wind or whatever.
+20:32
+Andrew Ippolito: humans have to take like this beautiful butterfly and we have to suck the magic energy out of it, so we can do our spells right and like when you're hit with this in the show.
+20:43
+Andrew Ippolito: you're like wow that's kind of like eating meat.
+20:47
+Andrew Ippolito: that's.
+20:49
+Andrew Ippolito: right because, because the person is explaining this magic rule to you or you know, in the in the show doesn't seem to come across as a bad person.
+20:57
+Andrew Ippolito: Until they take this beautiful butterfly and suck the life out of it and kill it so that they can cast a magic spell and you're thinking as the audience Member oh that's evil, and then you might think that's what I do with my food.
+21:12
+Andrew Ippolito: Right what she has she doesn't have to cast a spell right but I mean they kind of do in order to compete with the rest of this stuff going on anyway dragon prints if you haven't seen that it's yeah it's a cartoon but it's amazing good storytelling good world building.
+21:26
+Alexis Micewski: And if you watch Avatar the last airbender it's like the same creators, is that.
+21:31
+Andrew Ippolito: yeah oh I didn't realize that.
+21:32
+Andrew Ippolito: it's the same authors.
+21:33
+Andrew Ippolito: Are the same I don't as the author, the right word or I.
+21:36
+Andrew Ippolito: guess.
+21:36
+Alexis Micewski: The writers I don't know.
+21:38
+Alexis Micewski: Right yeah yeah there you go okay.
+21:39
+Andrew Ippolito: Well that's good to know.
+21:40
+Andrew Ippolito: And I guess that's Cora right isn't Cora another one of those.
+21:43
+Andrew Ippolito: that's a.
+21:44
+Alexis Micewski: spin oh yes she's the sequel.
+21:46
+Andrew Ippolito: hmm right, I never finished out the airbender stuff I watched the movie I know that it wasn't.
+21:53
+Andrew Ippolito: It was terrible for those yeah yeah I know I thought it was Okay, but.
+21:57
+Andrew Ippolito: But um yeah I love any system, you have that world building of the.
+22:02
+Andrew Ippolito: magic like there's got to be like a suck not as like a science behind the magic to.
+22:06
+Andrew Ippolito: catch my interest.
+22:07
+Jordan Russell: Is it correct me if i'm wrong, but it seems like the dragon prints on netflix isn't thought about like nasza.
+22:16
+Jordan Russell: Chinese folklore or am I thinking of something else.
+22:20
+Andrew Ippolito: I don't know, maybe there, I mean most most.
+22:23
+Andrew Ippolito: Modern stories.
+22:24
+Andrew Ippolito: have a basis in some earlier myth, you know.
+22:28
+Andrew Ippolito: And you can trace anything back to anything there's a saying in the writing world, and that is that every story is already been told.
+22:37
+You know it's just different spins on it and.
+22:41
+Andrew Ippolito: And subverting the audience's expectations.
+22:47
+Jordan Russell: Okay yeah yeah i'm thinking of a different a different.
+22:49
+Jordan Russell: movie, this is a TV series.
+22:52
+Andrew Ippolito: yeah okay.
+22:53
+Jordan Russell: that's cool.
+22:55
+Jordan Russell: yeah.
+22:55
+Andrew Ippolito: that's part of the reason why I play D amp D I played under the dragons and i'm the DM and I get to make up the stories and it's so much fun.
+23:03
+Andrew Ippolito: yeah anyway.
+23:06
+Andrew Ippolito: Alright, so that's that that's the end of the term so Tyler did that um oh Eric what you want to drop class but it's extra okay so Eric wrote.
+23:17
+Andrew Ippolito: Is the dragon Prince good, yes, it is very good, I highly highly highly recommend it it's one of those.
+23:25
+Andrew Ippolito: it's one of those shows where you start washing it and you just oh it's over what, why is the episode over already we, why is this season over already we where's the next season it's like one of those it just keeps going the story, so good.
+23:36
+Andrew Ippolito: And they schumer's pretty good too I yeah Okay, and then Tyler said.
+23:40
+Andrew Ippolito: So I can say entropy.
+23:41
+Andrew Ippolito: increases and an extra ganache reaction, because of the heat release from it.
+23:49
+I have to think about that for a second.
+23:51
+yeah.
+23:53
+Because of the heat.
+23:58
+Andrew Ippolito: yeah yeah you could so you could say that you could your brains definitely seeing this in a way, my brain does it and it's not wrong whatever you're doing keep doing it and I kind of hope, I get there at some point.
+24:11
+Andrew Ippolito: So the heat being released right, so you start with a system with some energy in it and then something happens to that system, and now it has less energy right extra got it right, and so that that new state of the system with the lower energy that has a more entropy in it.
+24:28
+Andrew Ippolito: Good good good and then the last thing you could say is just think about 10 things think about the very, very basic physical.
+24:36
+Andrew Ippolito: characteristics of a system temperature pressure density right everything has temperature pressure and density interviews a measure of how far along it is where all those things become the same within the system.
+24:49
+Andrew Ippolito: So if you measure, so you know the picture my screen as a system so by measure the temperature here is a picture were in whatever this beautiful setting is with the mountain in the background, and so, if I measure the temperature here.
+25:00
+Andrew Ippolito: It would be colder than if I measured it here right so there's differences in the temperature and maybe the air is a little more dense here, compared to up here but someday you know, imagine all that being even.
+25:15
+Andrew Ippolito: That would have more entropy so right now there's less entropy here, which makes sense because the sun's beating down on us all the time, and so the sun gives us energy to counter the chaos.
+25:24
+Okay.
+25:27
+Andrew Ippolito: All right, any last words any last questions.
+25:35
+Andrew Ippolito: Alright, seeing as how there are none, I will.
+25:40
+delete all this.
+25:43
+Andrew Ippolito: will go over to the PowerPoint here, and I should stop the recording and then started again, so this is going to break it into two videos so if you're watching this video from home.
+25:54
+Andrew Ippolito: or later in the future this this was kind of a Q amp a session and what we're going to do now is start an official lecture on the second half of Chapter eight chapter.
+26:04
+yay okay.

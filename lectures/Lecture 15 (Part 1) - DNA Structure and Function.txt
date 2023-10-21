@@ -1,0 +1,1338 @@
+0:01
+Andrew Ippolito: This is our DNA structure and function lecture this is chapter 16. Andrew Ippolito: Chapter 16 in the book and I also have a YouTube video on this that I formally recorded for Class two years ago, so you can also watch that my post that in in class chat.
+0:18
+Andrew Ippolito: i've already posted on class chat so if if you are looking for that go scroll up to the chat on what's today today is April 19 you can find the link there.
+0:31
+Andrew Ippolito: So i'm gonna, and this is just basically from.
+0:37
+Andrew Ippolito: From this point on this semester, things are going to be a little different we're gonna learn historical experiments.
+0:44
+Andrew Ippolito: And one of the things you're going to want to study are the names and so these These are big famous names, and these are very classical experiments.
+0:52
+Andrew Ippolito: So you're gonna understand both how the experiments worked and who did them, and so one of the helpful ways of thinking about this is that is it in a timeline and how we're going to hit the milestones basically.
+1:04
+Andrew Ippolito: So i'll walk it through this alright so just briefly, so we know Mendel already right.
+1:11
+Andrew Ippolito: Number Bari were the ones that we're not going to talk about them, but they're the ones that established chromosomes and meiosis mitosis like like seeing the separations rate that you see under the microscope.
+1:22
+Andrew Ippolito: We talked about Morgan right he connected the dots and he's the one that said the genes are on chromosomes what we're going to cover today is Griffith who established the idea that.
+1:38
+Andrew Ippolito: Changing the genome type changes the phenotype. Andrew Ippolito: Right, he found the transforming substance he just couldn't identify.
+1:47
+Andrew Ippolito: And people thought it was protein yeah we'll explain that, in a bit and then every mclean mccarty they come in in the 1940s and they're the ones that.
+1:57
+Andrew Ippolito: convince most people that the genetic material is actually DNA and not protein but Percy and cheese for the ones that really put the last nail in the coffin.
+2:06
+Andrew Ippolito: they're the ones that showed definitively that its DNA the molecule that is the actual transforming steps that genes are made of DNA.
+2:17
+Andrew Ippolito: And, in parallel to a lot of this work back, starting in like the 1960s back when we were almost but not quite fully convinced that DNA was the master material.
+2:28
+Andrew Ippolito: We have sharp graph we had wilkins Franklin Watson and Crick in Linus Pauling working on the structure of DNA the double helix.
+2:36
+Andrew Ippolito: Alright, so we're going to do, and then, once once hershey and cheese did their work once we basically we're all in agreement that it was the double helix and DNA muscles and install were the ones.
+2:47
+Andrew Ippolito: That took Watson and Crick this idea of replication and showed it experimentally okay so that's that's what we're going to do today we're basically it's all about the DNA.
+2:59
+Andrew Ippolito: So the problem is, this is a really good so you're going to see this whole story as a case study of science and action.
+3:09
+Andrew Ippolito: Science being replaced by better solutions and the pitfalls we fall into with our confirmation bias and as humans, we like to We strongly believe things that makes sense to our brains.
+3:21
+Andrew Ippolito: Are here, so I just want to set up one little thing here so think about DNA and compare DNA and proteins for a second think of the language right so in DNA, we have four.
+3:31
+Andrew Ippolito: nucleotides rate, we have our adenosine or thymus seen are studying and our quantity right those those nucleotides therefore letters.
+3:43
+Andrew Ippolito: proteins i'm not going to write them all out of 20 amino acids.
+3:48
+Andrew Ippolito: Okay, that can be put together in any order.
+3:54
+Andrew Ippolito: and go as long as you want the average human proteins like 300 amino acids all right, we know that so so forget am pairing with T they didn't know that, back then, so like so we basically we have four things versus 20 things.
+4:09
+Andrew Ippolito: And so the question is alright, so if what we look like if our phenotypes are controlled by our genes.
+4:16
+Andrew Ippolito: And Mandel showed all that the particular theory of inheritance if we have these things, these particles these jeans or they made out of.
+4:24
+Andrew Ippolito: And the idea is me just go out in the world and look at life it's ridiculous diverse think of a single bacterium and Compare that to a microscopic worm.
+4:37
+Andrew Ippolito: Compared to a tardigrade the water bears Compare that to a jellyfish or a sponge and then Compare that to a bird or a dinosaur or a human or a primate or snail whatever mollusks right the tree of life is amazingly diverse and so some and yet they're all made of cells.
+4:57
+Andrew Ippolito: They all look the same under the microscope more or less nuclei gold geez any ours mitochondria.
+5:06
+Andrew Ippolito: And they all contain the stuff in the nucleus called DNA and they all contain an entire cells worth of proteins.
+5:15
+Andrew Ippolito: So for early researchers, this is the only thing that made sense.
+5:21
+Andrew Ippolito: How can you get that incredible diversity of life with four letters verses 20 letters, and so this is what made matters even worse, there was this guy named fee based levine.
+5:34
+Andrew Ippolito: FIBA Slovene was an American scientists working out of the University of Rochester back of the the early very early 1900s.
+5:42
+Andrew Ippolito: He discovered rainbows he discovered eventually discovered the oxy rainbows and so he was a biochemist.
+5:52
+Andrew Ippolito: And the question was is how is DNA structured and he hypothesized based on his data so his data was all about trying to purify at this point trying to think about trying to separate etc and.
+6:09
+Andrew Ippolito: chemically he wasn't able to do it with her in great precision, so the numbers he got were about 25% each.
+6:19
+Andrew Ippolito: Right and so he proposed that there was this.
+6:24
+Andrew Ippolito: Tetra nucleotide. Andrew Ippolito: Where DNA in the cell was composed of these four letters in a standardized unit, etc, etc, and so he proposed this model here now to be fair, he got the sugar phosphate backbone right actually.
+6:42
+Andrew Ippolito: He got the sugar phosphate you know the phosphate I asked her bonds that linkedin nucleotides together.
+6:49
+Andrew Ippolito: But that was it and so Jenny was a boring molecule. Andrew Ippolito: That was the idea.
+6:56
+Andrew Ippolito: We couldn't have been more wrong right and so that's that's the Lord just this story is.
+7:01
+Andrew Ippolito: In today's day and age we think we know everything right, and so we have to be really careful.
+7:09
+Andrew Ippolito: Assuming that what we think we know, without evidence is the truth there was no evidence of this Tetra nucleotide there were glimmers.
+7:19
+Andrew Ippolito: And sometimes glimmers of data barking up the wrong tree.
+7:25
+Andrew Ippolito: Okay. Andrew Ippolito: So whatever the genetic material was right, we knew that so we knew that genes wrong chromosomes we could even map them.
+7:37
+Andrew Ippolito: Right, so the next question is what are they what are they made out of. Andrew Ippolito: and whatever.
+7:42
+Andrew Ippolito: They were made out of we knew at this point that genes had to obey a certain number of core principles.
+7:50
+Andrew Ippolito: Right, so a gene had to be able to store information so whatever the molecule was had to be able to store information, it had to be able to replicate.
+8:00
+Andrew Ippolito: And it has to be able to replicate not just replicate but with with very high fidelity what's this word mean here what's fidelity let's make sure we understand this word.
+8:12
+Andrew Ippolito: Where else do we see that word.
+8:20
+Andrew Ippolito: Any anybody here. Andrew Ippolito: An audio file like vinyl records.
+8:29
+Andrew Ippolito: No. April Neeld: No that's It is like an investment.
+8:34
+Andrew Ippolito: Okay fidelity investments sorry. Andrew Ippolito: How about um. Andrew Ippolito: So there's the word infidel.
+8:42
+Andrew Ippolito: Right. Andrew Ippolito: People who are infidels and in.
+8:47
+Andrew Ippolito: and Muslim religion infidels or people who are non believers. Andrew Ippolito: Okay.
+8:53
+Andrew Ippolito: When you get married. Andrew Ippolito: You pledge to be that that's fidelity.
+9:00
+Andrew Ippolito: Okay, and so people who cheat are being that's infidelity. Andrew Ippolito: And then the music high fidelity means a very, very accurate copy of what it sounds like in real life so when you record So if you go to a concert and you hear it right that's the original real deal that's as good as you get.
+9:17
+Andrew Ippolito: If you record that live recording and that recording goes on to a vinyl record vinyl records are the best for capturing the full dynamic range of the sound versus you know digital recordings which aren't as good, so the word fidelity itself means faithful.
+9:37
+Andrew Ippolito: Alright, so we not, we need to be able to replicate DNA with a very high amount of precision.
+9:45
+Andrew Ippolito: that's the key here now think about it, your jeans I think about a selector mitosis number s phase right I cells have six and 6.2.
+9:53
+Andrew Ippolito: billion base pairs total 3.2 per genome right mom's genome is three and a half or 3.2 dads are 3.2 6.4 total and the amount of mistakes made during an s phase amounts to about six mistakes per billion base pairs.
+10:12
+Andrew Ippolito: Okay, which is nothing. Andrew Ippolito: Okay, and and now, on the other hand, look at that last one.
+10:21
+Andrew Ippolito: It has to be able to change so mistakes have to happen right mutation has to be done.
+10:28
+Andrew Ippolito: Okay, so the working assumption here was that whatever jeans for me that it was protein because that's the one that had the more letters, it was more diverse.
+10:37
+Andrew Ippolito: So we're going to walk through three key experiments now i'm just going to hit you with the mechanisms i'm going to hit you with how this works and we're going to walk through.
+10:44
+Andrew Ippolito: And these experiments go from the idea of the mysterious gene all the way down to it, is DNA the double helix well DNA anyway.
+10:56
+Andrew Ippolito: there's Fred Griffith it was a microbiologist back in the late 1800s early 1900s it was British and he was in the Royal arch he was basically he worked in the Liverpool boyle infirmary so he was a military guy.
+11:14
+Andrew Ippolito: And he was researching a vaccination for the pneumonia that was plaguing everybody back in the.
+11:23
+Andrew Ippolito: early 20th century. Andrew Ippolito: So he we kind of reached through time and we have a familiar kind of emotional reaction here, the world is sick and we're racing for a vaccine.
+11:36
+Andrew Ippolito: So he was now he was working instead of with a virus, he was working with a bacterium the streptococcus pneumoniae pneumoniae.
+11:44
+Andrew Ippolito: Right and when he did his work he published a paper in 1928 that was very curious.
+11:53
+Andrew Ippolito: Because Fred Griffith was a very conservative careful detail oriented microbiologist people knew him, he was he was famous at the time, because he was just so good at his job.
+12:09
+Andrew Ippolito: He was known he worked in a lab that hardly had any funding and he was able to do this amazing work with, but basically spitting sealing wax.
+12:16
+Andrew Ippolito: Like his his sterile technique was second to none, he was really good at you know, making sure things didn't get contaminated, which was everything in Microbiology right now, this is important back then right so 1900.
+12:31
+Andrew Ippolito: The idea in Microbiology was if you had a bacterium a bacterial cell.
+12:38
+Andrew Ippolito: Okay, it was fixed there was no, you know let's call this you know, whatever this was streptococcus pneumoniae.
+12:46
+Andrew Ippolito: Whatever there's a cell and and this stream of it was very.
+12:54
+Andrew Ippolito: very violent means it cause sickness Okay, and so we're gonna so they call the stream the stream.
+13:01
+Andrew Ippolito: And the reason they call it s was when you grew on a petri dish it formed these very nice round smooth colonies.
+13:12
+Andrew Ippolito: Okay, so that was a stream there was another stream of pneumonia that was not there was a very.
+13:19
+Andrew Ippolito: It was harmless. Andrew Ippolito: And when you grew that on a petri dish the.
+13:27
+Andrew Ippolito: colonies were very rough looking they were messy so we call this the our stream.
+13:35
+Andrew Ippolito: Right so so people who are dying of pneumonia when we do the autopsy and we recover the bacterium from their lungs, that would be s right and we also identified a laboratory strain for our okay so there's a safe strain and the Nazi upstream.
+13:53
+Andrew Ippolito: So as part of his work he needed an animal model to perform experiments to develop a vaccine and so he used mice that's the most common one of the most common might animals, even today, to use so.
+14:05
+Andrew Ippolito: So just think you take a healthy mouse, and you infected with the S kind of the strain the mouse eventually gets sick and dice.
+14:15
+Andrew Ippolito: And you recover from its body some bacterium and you look on the petri dish and sure enough it's the same bacteria, these are called koch's postulates if you take Microbiology koch's postulates is the idea of how do you identify a.
+14:31
+Andrew Ippolito: microbe that causes the disease right in order to prove its this microbe this is how you do it right so up the animal sick.
+14:39
+Andrew Ippolito: You recover some bacteria from it, you take a pure colony of it a pure culture of it so like you know scoop one of these off and put in another petri dish so you have just just that one pure species.
+14:49
+Andrew Ippolito: put that into a healthy animal that I don't get sick and dies, and you recover the same bacteria from that that's how you prove that that infectious diseases caused by that back to him and So here we go okay so.
+15:03
+Andrew Ippolito: He is trying to create a vaccine right now, at this point louie pastore has already shown how to create vaccinations.
+15:12
+Andrew Ippolito: The idea is is you try to develop either a living version of the bacterium that is harmless, which is what the our stream would be and you do that by passing it through animals that survive survive survive and eventually you mutate it to the point where you get a.
+15:30
+Andrew Ippolito: An a very old version of it The thing is, is that necessary I don't know if the Austrian actually turned out to be a good vaccine or not I don't know the vaccine side of the story.
+15:39
+Andrew Ippolito: I just know that DNA stuff so so anyway he's doing this, this this kind of work where he's trying to develop a vaccine so here's what he does.
+15:48
+Andrew Ippolito: Okay, so so there's the slide that shows you, the S versus the are all right.
+15:54
+Andrew Ippolito: And it's all here, I do a little spoiler alert the reason why the stream was dangerous was it turns out that bacterium had.
+16:04
+Andrew Ippolito: So here's the cell. Andrew Ippolito: It had a nice thick.
+16:10
+Andrew Ippolito: code around it called a capsule.
+16:16
+Andrew Ippolito: And that capsule protected the cell from being destroyed by the immune system okay it's like Armor.
+16:27
+Andrew Ippolito: Now we know about DNA so i'm gonna i'm going to cheat a little bit here, instead of leading you through this like he did i'm going to give you.
+16:34
+Andrew Ippolito: The reality of it, there was a there was a little ring and DNA in there, so here's the genome right there's the genome, of the bacterium and then there's a small little piece of DNA called a plasmid.
+16:45
+Andrew Ippolito: let's learn about these today a plasma is a small ring of DNA that holds a few genes on.
+16:52
+Andrew Ippolito: It gets replicated along with the rest of the bacteria's DNA, and it goes along with okay.
+17:00
+Andrew Ippolito: So, so the S version of this had that little plasmon the our version liked it.
+17:08
+Andrew Ippolito: And so it didn't have a capsule wasn't protected it could get eaten by the immune system and so that's why it was a very sways harmless.
+17:15
+Okay. Andrew Ippolito: We all, we all clear on this, so for you go ahead alexa.
+17:22
+Andrew Ippolito: they're the type bar so has a class right so again. Alexa Deprisco: there's the type are still have a plasma, though.
+17:29
+No. Andrew Ippolito: there's no plasma it's just it's just has its DNA it's normal chromosomes I mean it might have positives for other things like they're there, I mean the plasmids are all over there's all sorts of different kinds of positions so we didn't have the plasma that produce the capital.
+17:46
+Andrew Ippolito: Right, so what what i'll tell you guys is there's a gene on that plasma that includes for protein that makes the caption for Griffith had no knowledge.
+17:54
+Andrew Ippolito: He just knew that he had these two different kinds of bacteria gut. Alexa Deprisco: So the plasmid that contains it's like few genes is separate from like I guess the DNA that would just like make the.
+18:06
+Andrew Ippolito: virus itself exactly exactly there's genomic DNA. Andrew Ippolito: That that's where all you know the all the bacteria would have, and then there is just like extra DNA.
+18:17
+Andrew Ippolito: To think of it as you know, must haves a nice stabs.
+18:24
+Okay. Andrew Ippolito: Alright, so here's what he did. Andrew Ippolito: Oh, then so this, this is actually what he published this is i'm going to give you a little bit of the history here, so he says the following is an example of many similar experiments which I have made.
+18:39
+Andrew Ippolito: to discover whether an a violent are pneumococcus can be transformed into the virulent s form by growth in the body of the mouse.
+18:49
+Andrew Ippolito: This is the crazy thing okay everybody who worked in the field at this point in time, hearing this idea of transforming and are into an s would be like us today hearing somebody saying i've managed to turn a cat into a dog.
+19:07
+Andrew Ippolito: that's insane that that's impossible you can't do that a little bit really that'd be good, though.
+19:15
+Andrew Ippolito: Turn cast into dog wow there you go.
+19:21
+Andrew Ippolito: So the idea here is Fred Griffith a world renowned microbiologist who doesn't say crazy things is saying a crazy thing.
+19:33
+Andrew Ippolito: Okay, that was the beginning Okay, so this is how scientific revolutions happen.
+19:38
+Andrew Ippolito: there's actually a book from the 1960s, about the history of scientific revolutions people like to think that science just moves slow and steady like the hair i'm sorry, like the tortoise and the hare and the tortoise very slow and steady wins the race.
+19:50
+Andrew Ippolito: Every day work when you're in the lab that's true little bits little bits little bits you publish something here you publish something there and then you build a mountain of data and eventually you show something, but in reality.
+20:02
+Andrew Ippolito: The way science works is, we have a lot of these false starts start stop start start started, but then every once in a while.
+20:08
+Andrew Ippolito: And this is the beginning of it, somebody publishes something that doesn't make any sense, given the current understanding of things, so in this case it's.
+20:19
+Andrew Ippolito: Bacteria can't be changed, you can't just make one species into another, and yet so until I said species there these, these are the same species, they didn't know that you can't change one kind of bacteria into another kind of bacteria that's just impossible and Fred griffis like.
+20:36
+Andrew Ippolito: Well, I did it and i've experimentally confirm this many times he's he says here, an example of many similar experiments.
+20:45
+Andrew Ippolito: Right like he publishes a representative example of I did this experiment 10 times and they did the same thing, every time and here's what it looked like.
+20:53
+Andrew Ippolito: And when you publish something you publish your methods and materials you um. Andrew Ippolito: And then any scientist that wants to repeat your experiments, you know you correspond with them, and if they want some a sample of your you know bacteria you give it to them that's how science works, you should everybody shares everything so that we can all confirm or refute the work.
+21:15
+Andrew Ippolito: Okay, so here's here's how that experiment work. Andrew Ippolito: Okay, the first experiment is simple control that's verify the lethality of the strings that stream right, so we infect the cell we infect the cute little mouse with.
+21:29
+Andrew Ippolito: The little red dot represents the aspect Miriam the mouse dies Okay, and, in contrast, we infected with the rough bacteria the mouse doesn't die.
+21:39
+Andrew Ippolito: Okay, so, so now we know we have this very less strain on this a real extreme Okay, now the next experiment here's where things get interesting.
+21:47
+Andrew Ippolito: Let me explain this idea of heat killing things if you take bacteria it's just say you have you know, a cloudy.
+21:54
+Andrew Ippolito: test a test to filled with some liquid media and it's all cloudy because it's got a bunch of bacteria Okay, if you put that in a water bath and you bring it up to just before boiling you will kill those bacteria.
+22:09
+Andrew Ippolito: Okay, so they're dead cells. Andrew Ippolito: dead debt and to verify that you take those key inactivated cells, a column it's called tikkun activation.
+22:26
+Andrew Ippolito: I don't know what i'm writing there that's the word in activation but that's. Andrew Ippolito: In activision he inactivation we can do some proteins to you D nature i'm just a bit.
+22:38
+Andrew Ippolito: Okay, you inject that into a mouse the mouse lives, just to verify right so see we have this smooth yet dead.
+22:47
+Andrew Ippolito: bacterium and the mouse lives three. Andrew Ippolito: Now, and that's that's the idea of the vaccine right, it turns out that didn't vaccinate yeah I forgot again I don't know the vaccine side of this I should learn at some point, anyway, not relevant to the story.
+23:00
+Andrew Ippolito: Now Fred Griffith is a very I told you this he's a very particular scientist he's very careful in his work, so he does every possible control so he does this right think test tube one living s test tube two.
+23:16
+Andrew Ippolito: s that has been heat inactivated test tube three living our test tube for our that has been heat inactivated.
+23:27
+Andrew Ippolito: Okay test tube five. Andrew Ippolito: let's mix them together our plus s.
+23:35
+Andrew Ippolito: test tube six let's mix heat inactivated s plus living our test tube seven let's mix heat inactivated s plus heat inactivated our test tube eight let's mix heat inactivated s with living our and test tube nine let's mix living s with heat inactivated hr.
+23:57
+Andrew Ippolito: Right we're just we're just throwing it all out there. Andrew Ippolito: That that's how you'll be because here here's why you do this kind of intense amount of control, sometimes when you're working with something that.
+24:09
+Andrew Ippolito: Is mysterious and you're not quite sure how it works you do as many controls as possible so that whatever outcome, you get you can interpret it as best as possible.
+24:20
+Andrew Ippolito: OK, so the other thing you do when you do a good experiment is you come up with your expected outcome.
+24:29
+Andrew Ippolito: Right so let's think about for 123456789 So what do we expect so in test to one you know experiment one let's go on now you you infect a mouse with living as we would expect the mouse to die.
+24:44
+Andrew Ippolito: Right so X means death right test tube to we would expect the mouse to live, because we previously do that experiment and Sure enough, you know the mass lives right test tube three we would expect the mouse to live because it's just it's the rough a real and stream.
+25:00
+Andrew Ippolito: test to for wi fi inactivated the very the very least strain that should also keep the mouse.
+25:06
+Andrew Ippolito: test to five we're not sure here, but we can hypothesize that the very live Stream will probably overcome the April and straining that would kill the mouse.
+25:15
+Andrew Ippolito: Okay, whereas here in activated as plus the living our that would probably white great that would keep the mouse healthy.
+25:24
+Andrew Ippolito: Because the the dangerous stuff is dead and the living stuff is a real and so the mouse should be healthy.
+25:30
+Andrew Ippolito: test tube seven they're both heat in activated it should be healthy test tube eight heat in that irie oh whoops I did a duplicate here right do you see that test to eat I accidentally made the same as test tube six so here here's what i'll do i'll.
+25:49
+Andrew Ippolito: i'll wipe this and i'll make this living s plus keaton activated are and did I also do that one first no I didn't do that one yet Okay, so we don't have to do, nine here.
+26:03
+Andrew Ippolito: All right, did I miss any combinations so Snr.
+26:08
+Andrew Ippolito: s Heaton activated in our seat and activated are activated.
+26:15
+Andrew Ippolito: s and. Jordan Russell: Our heat activated yeah.
+26:20
+Jordan Russell: So, again I said you got them all okay. Andrew Ippolito: So so eat here living s plus he inactivity that's probably kill them out.
+26:30
+Andrew Ippolito: Okay right so do we all see that we've made these predictions, and so we do the experiment and we come into the lab you know, two or three days later, and we look at the mouse.
+26:39
+Andrew Ippolito: And Sure enough, the first mouse is dead, the second mouse is living the third mouse is living the fourth mouse is living the fifth mouse is dead, the sixth mouse.
+26:52
+Andrew Ippolito: is dead. Andrew Ippolito: The seventh mouse is alive the eighth mouse is dead.
+27:01
+Andrew Ippolito: So he's like I messed something up he burns the lab down know he he he starts over again.
+27:10
+Andrew Ippolito: You know Fred Griffith again very careful scientist he repeats all this, the whole experiment super carefully he throws out all this media he throws out all he throws anything that he thinks could be contaminated he repeats it he gets the exact same results again.
+27:25
+Andrew Ippolito: Okay, and this makes him very much pharaoh his brow.
+27:32
+Andrew Ippolito: That was not unexpected results How on earth can a dead very olin bacterium possibly.
+27:39
+Andrew Ippolito: cause death in the presence of the harmless one so so what he does after this right again because remember koch's postulates tell us, we have to then recover the same bacteria from the body of the infected dead animal.
+27:54
+Andrew Ippolito: So what do we recover from this, we recover a smooth much higher all right as right they recover smooth here that he didn't act to be well he's alive very so all these are so the dead, one here number five they recover he recovers s there from six he recovers s.
+28:13
+Andrew Ippolito: And he's like come on. Andrew Ippolito: So you repeat the experiment and he does it again gets, in other words.
+28:19
+Andrew Ippolito: He injected this mouse with a living strain of the rough bacterium.
+28:25
+Andrew Ippolito: Just like he did in test tube three here. Andrew Ippolito: or experiment three so right three and six living are the only differences, he mixed a little of the dead s in first with the number six and that killed the mouse and then he was able to recover, so the only explanation for that.
+28:44
+Andrew Ippolito: Is that he somehow managed to convert or transform the avery live stream into a very live stream.
+28:55
+Andrew Ippolito: And he publishes this because it's such an unusual thing. Andrew Ippolito: Now he attempted and failed to do all of this within a test tube into a petri dish.
+29:08
+Andrew Ippolito: Right so think about it so so if he grows the rough bacteria into a petri dish she sees a rough colonies right if he grows the stream he gets the smooth colonies, but if he takes this s heat in activated and raw and he puts that on a test to a petri dish he only grows our.
+29:27
+Andrew Ippolito: Okay, so, in other words, he needed the mouse, in order to the transformation something was happening in the mouse his body.
+29:36
+Andrew Ippolito: to transform it that's why in the experiment when he says, when I read this quote here let's reread this now, the following example, maybe some experiments, where I have just discovered what whether.
+29:45
+Andrew Ippolito: I made it I made to discover whether an a violent are pneumococcus can be transformed into the violent s form by growth in the body of the mouse.
+29:58
+Andrew Ippolito: Okay, so this kind of experiment where you're doing in a living organism is called an in vivo experiment.
+30:07
+Andrew Ippolito: That literally means in life that's what vivo is in Latin.
+30:16
+Andrew Ippolito: Okay, he failed to repeat his experiments.
+30:21
+Andrew Ippolito: In vitro. Andrew Ippolito: Okay, in vitro experiments.
+30:28
+Andrew Ippolito: literally means in glass, so, in other words in test tubes now we use plastic today what we still call them in vitro experiments Okay, so in vitro experiments are experiments that are done outside of the body of a living organism.
+30:43
+Andrew Ippolito: If you're a molecular biologist like I was and you're dealing with cell culture. Andrew Ippolito: We actually had arguments, whether or not the experiments, we were doing and so cluster work technically in vivo experiments or in vitro experiments.
+30:56
+Andrew Ippolito: And so I very much am on the side, and I think there's enough support for this to say if if you're researching something happening inside of a cell that's in vivo also it's in life, the cells are living right.
+31:10
+Andrew Ippolito: On the other hand, people who are more conservative might just call that a cell free experiment.
+31:16
+Andrew Ippolito: So i'm sorry i'm sorry um. yeah.
+31:24
+Andrew Ippolito: that's what the free yeah so that I think they just avoided in vitro and Bebo and our left but.
+31:29
+Andrew Ippolito: We call themselves free experiments versus in sales we just avoided in between in between in vivo.
+31:35
+Andrew Ippolito: Its context dependent if you're reading a paper about a mouse that's me both reading the context of the cell is in vivo well so it's just you know you have to take the whole context of the experiment it anyway.
+31:45
+Andrew Ippolito: So. Andrew Ippolito: He had something that he would call.
+31:55
+Andrew Ippolito: The transforming substance. Andrew Ippolito: And he had no idea what it was.
+32:01
+Andrew Ippolito: there's something in the heat inactivated s right which is just much dead cells.
+32:09
+Andrew Ippolito: there's something in there, that when you inject that, together with the are into a mouse, you can produce us again, in other words, somehow, something is happening to the living our cells.
+32:26
+Andrew Ippolito: Okay, and that's it that's what Griffith experiment that's what his experiment was OK, he discovered what we call the transforming so he couldn't identify it and he couldn't repeat it in vitro.
+32:38
+Andrew Ippolito: And this is how science works so others then take his work and tried to carry the torch forward a little bit more.
+32:48
+Andrew Ippolito: So here's the idea of changing the genome type leads to a change in the phenotype that's the working model here.
+32:58
+Andrew Ippolito: But what was it. Andrew Ippolito: was a DNA was that arnie was a protein.
+33:04
+Okay. Andrew Ippolito: So that's you could draw on there, and your nose that's Griffith.
+33:10
+Andrew Ippolito: Okay. Andrew Ippolito: And again, as you guys are learning this i'm gonna you know i've done this enough times, where i've seen the common mistake students make.
+33:18
+Andrew Ippolito: Griffith is associated with the transforming substance and that's it and he did it in vivo and that's it he has nothing to do with the word DNA he did nothing about DNA okay Griffith got the ball rolling.
+33:36
+Andrew Ippolito: Now, I see this guy here, this is Dr avery. Taylor Campbell: So he didn't ever figure that out.
+33:42
+Taylor Campbell: No, no, he. Andrew Ippolito: brought the question every. Andrew Ippolito: Life yeah. Andrew Ippolito: exactly right.
+33:48
+Andrew Ippolito: This was, like the spark of the revolution. Andrew Ippolito: The the shot that was heard around the world.
+33:56
+Andrew Ippolito: Okay, so this is avery mclean and mccarty they go together here, they were a research group again in the University of Rochester or fetus levine was.
+34:07
+Andrew Ippolito: and Andrew Ippolito: And so, this is a part of the story that you don't read about in the textbooks, this is the part that bugged me enough, where I did the research, this is me.
+34:18
+Andrew Ippolito: researching this. Andrew Ippolito: The disconnect between Griffith and avery when you learn about it as freshman biology students is that there's this jump that avery was suddenly able to do all this work in vitro.
+34:33
+Andrew Ippolito: But he wasn't it turns out there was this pair of guys that really this was a technical article a technical paper which is boring, which is why it doesn't get put into the cool stories.
+34:43
+Andrew Ippolito: But in 1931 there was this guy this parrot guys Martin Dawson and Richard SIA they published a small report, demonstrating that they could induce transformation in vitro.
+34:55
+Andrew Ippolito: Okay, so they were able to hear here's how you would do that you would have a test tube here of us in a test tube here of our.
+35:05
+Andrew Ippolito: Okay, and the key to these experiments is making sure that the environment that chemical environment was appropriate to do these things right, so they had to figure out what kind of salts and the pH and.
+35:19
+Andrew Ippolito: All that stuff. Andrew Ippolito: The Ionic concentration, so we hear the heat in activate this.
+35:26
+Andrew Ippolito: Okay. Andrew Ippolito: And then they take a little bit of this they put it on test tube they take the heat and activation they put it in a test tube the incubated for some amount of time.
+35:37
+Andrew Ippolito: Alright, so this is our plus heat and activated us, and then they put it on a petri dish and Sure enough, they get living us.
+35:46
+Andrew Ippolito: Right now, as a control right we'll grab some of that will put on petri dish will get as well grab some of this as a control will put on a petri dish will get our alright well grab some of this will put on a petri dish What would we expect to see there.
+36:06
+Jordan Russell: Nothing nothing. Good. Andrew Ippolito: No growth because it's eaten activated Okay, we mix this heat and activated and are into a test tube and we incubated in a special way and we get us alright so that's that's Dawson and SIA.
+36:23
+Andrew Ippolito: Now what avery does so every here, he is an American researcher and he very much believed everything for Griffith set up to this point, but but avery read his paper and it's like this is rubbish he didn't believe it.
+36:38
+Andrew Ippolito: He was like you can't transform things you know, he was that conservative view of and that's how most scientists are most scientists scoff.
+36:46
+Andrew Ippolito: at people who come along and say the opposite of what they all believe there's an arrogance their hubris there's a word that you should know.
+36:54
+Andrew Ippolito: This is something that holds us back a lot of the time human hubris it's a pejorative version of arrogance or against isn't exactly a good word either, but hubris.
+37:07
+Andrew Ippolito: He got sick he leaves the lab for a couple months mclennan mccarty in the meantime, are working on this, and they want to know what really an avery was so let's let's let me, let me walk a little bit of that back avery was skeptical as you're supposed to be okay.
+37:27
+Andrew Ippolito: Being so skeptical that you don't even work on it that's the hubris of some things okay avery avery was willing to kind of put it, he didn't want to put too much time into this, he thought it was a dead end but then he got sick and mcclain mccarty carried on the work.
+37:42
+Andrew Ippolito: Okay, and so here's i'm going to show you what they did now, so the question is the question they asked is what.
+37:50
+Andrew Ippolito: Is the transforming substance.
+37:58
+Andrew Ippolito: What is it. Andrew Ippolito: So here's how they do this work and, by the way this guy avery, even though he played such a pivotal role in the story of DNA never won his Nobel Prize he's one of the unsung heroes of the story.
+38:14
+Andrew Ippolito: Most scientists that hit these milestones win the Nobel Prize.
+38:21
+Andrew Ippolito: he's a highly decorated scientist you want those other words but he never wants to know about and the Nobel Committee is Ashley and record is regretting not having given him the Nobel Prize when he was alive and they don't as a rule.
+38:33
+Andrew Ippolito: And I don't know they might have broken this role once they don't award Nobel Prizes posthumously they're there to living scientists.
+38:42
+Andrew Ippolito: Okay yeah yeah every died. Andrew Ippolito: while ago, I mean his his heyday was in the late 40s.
+38:50
+Andrew Ippolito: He was an old man when Watson and Crick republishing their work in the 60s. Andrew Ippolito: Actually, so there, he is there's there's every passing the torch kind of I have no idea what this is it looks like some kind of.
+39:02
+Andrew Ippolito: Actually, what this probably is what you're looking at here is a picture from some kind of international scientific Convention.
+39:08
+Andrew Ippolito: And avery was being you know he's you see how he's at that table, he was probably being honored for some of the science work and that's Watson and Crick shaking his hands.
+39:19
+Andrew Ippolito: And the ones that discover the double helix so it's just neat to see the three of these guys together in this picture I forgot, where I found this i'm sure their story I don't know the details of this stuff here.
+39:29
+Andrew Ippolito: In any case, here's how avery's group did their work okay so ready here i'll walk you through this um.
+39:38
+Andrew Ippolito: it's Okay, so we have in this test tube.
+39:43
+Andrew Ippolito: We have the S that's been heat inactivated plus the living are right, so if we then take this directly.
+39:53
+Andrew Ippolito: And do it, you know, in the fancy multi step process that they established, we will show that we can have.
+40:00
+Andrew Ippolito: We can recover an s bacteria right so there's the transformation that's the control, we can transform it we take heat in activated us we add it with living are we get living us we've transformed the aren't and you can see it, even though you can do like this art.
+40:16
+Andrew Ippolito: All right now what we're going to do. Andrew Ippolito: This here i'll say well let's let's build a little bit more of a granular pathway here so here's.
+40:25
+Andrew Ippolito: here's a. Andrew Ippolito: heat activated us.
+40:31
+Andrew Ippolito: All right. Andrew Ippolito: And here.
+40:36
+Andrew Ippolito: Is our just fresh are. Andrew Ippolito: Okay, and so we're going to take as as the control we're going to take the heat and activated s and the living are we're going to recover s okay so here that's why just rewrote exactly what I just said over here just in a more detailed way, so I can show you what they did.
+40:58
+Andrew Ippolito: Okay, so that would be like control, you know, the first control that we're just repeating what we can.
+41:04
+Andrew Ippolito: All right now what we're going to do is before we mix these i'm going to take heat and activated ass and i'm going to pre treat it with an enzyme called a protein.
+41:24
+Andrew Ippolito: What protease does is it basically shreds proteins and breaks them down to their amino acids and the idea here is.
+41:34
+Andrew Ippolito: If the transforming substance is made out of protein.
+41:40
+Andrew Ippolito: And we destroy the proteins, we would expect not to see transformation happen.
+41:46
+Andrew Ippolito: Right so here, so we mix he inactivated so that has been treated with protein with living are.
+41:56
+Andrew Ippolito: And we recover s. Andrew Ippolito: Alright, so here that's us that's us right so so that shows us.
+42:05
+Andrew Ippolito: That protein is not essential for transformation.
+42:13
+Andrew Ippolito: proteins are not essential for the transformation, you can add alexa. Alexa Deprisco: Really quick, could you describe the protease enzymes as like a D metering and zone.
+42:23
+Andrew Ippolito: No it's more like a paper shredder. Andrew Ippolito: Okay it's like we're ripping if If you recall, you know polly peptide chains are strings strings of amino acids held together by peptide bonds right protein cases break the peptide bonds.
+42:44
+Andrew Ippolito: And there's a whole world here proteins is that i'm not getting into there's XO protease is an endo proteins is there's protein aces which are specialized in ripping apart three dimensional proteins.
+42:56
+Andrew Ippolito: As opposed to a. Andrew Ippolito: pep to this, which is specific to peptides so it's a whole world, but so we're just going to oversimplify this and say they treated this with enzymes that shredded proteins.
+43:11
+Andrew Ippolito: Okay, because the key here is that proteins are not important to transformation, they are disposable there dispensable.
+43:21
+Andrew Ippolito: OK now let's recall what what are sales made out of right they're made out of lipids they're made out of carbohydrates.
+43:31
+Andrew Ippolito: they're made out of proteins. Andrew Ippolito: they're made out of nucleic acids right, those are the number of those are the big four macro molecules of all sales.
+43:40
+Andrew Ippolito: And so, whatever the transforming sentence is is probably one of those because those are the most abundant amount, because in this.
+43:47
+Andrew Ippolito: All right, they were able to cross off limits and carbohydrates immediately why because up to this point, we know that, whatever the transforming substance is is whatever chromosomes are made out of.
+44:02
+Andrew Ippolito: right because think of all the work we did with genetics. Andrew Ippolito: Right, the White i'd fly in the red i'd fly we transformed right we transform the phenotype.
+44:14
+Andrew Ippolito: And so, if you go back and you think of morgan's work the white i'd fly had a different gene on it, then I read I find I was on the X chromosome.
+44:22
+Andrew Ippolito: is all about chromosome three so we were able to already established that whatever the transforming substance wasn't you carriers was what about chromosomes.
+44:29
+Andrew Ippolito: Right changing us into our is also changing a phenotype. Andrew Ippolito: Just like making a red i'd fly into a wide eyed fly So the idea here is is.
+44:41
+Andrew Ippolito: chromosomes contained the transforming substance but chromosomes when we look at the structure of chromosomes or when we do the biochemistry purification, we see that they're made out of both proteins and gas and we're chromatin.
+44:55
+Andrew Ippolito: Right, so the transforming substance has to be made out of either protein or nucleic acids.
+45:02
+Andrew Ippolito: You guys still with me. Andrew Ippolito: Any questions.
+45:09
+Okay. Andrew Ippolito: They do this experiment again now let's think about nucleic acids right there's two of them right there's RNA and there's DNA.
+45:20
+Andrew Ippolito: So we've got to accommodate for both so they pre retreat with an rnas.
+45:26
+Andrew Ippolito: Which is a enzyme that shreds RNA but at least proteins intact and that leaves DNA intact.
+45:36
+Andrew Ippolito: and actually. Andrew Ippolito: right we eat we pre treat the heat and activated within rnas and then we mix that with an r.
+45:47
+Andrew Ippolito: And Sure enough, we still recover the US. Andrew Ippolito: For number three here we recover the as still as.
+45:59
+Andrew Ippolito: I see how much room, I have here to draw this if I accidentally touch past that boundary all accidentally delete everything I just drew i'm trying to be really careful not to do that.
+46:08
+Andrew Ippolito: Alright, so the last one is we're going to take that heat in activated so we're going to pre treat it with DNS.
+46:16
+Andrew Ippolito: same idea we're going to shred the DNA but it's gonna leave the RNA and the proteins in fact.
+46:21
+Andrew Ippolito: we're going to bring that along here. Andrew Ippolito: To the living our and sure enough.
+46:30
+Andrew Ippolito: That fourth experiment fails to transform.
+46:39
+Andrew Ippolito: So this convinced so so we would see DNS prevents transformation, but not are nice and not produce and, therefore, whatever the transforming substance is is made out of DNA.
+47:00
+Andrew Ippolito: Now, when I just organically wrote all this out these arrows let me be confusing, but hopefully listened along, while I said those things but let's go to the slide now.
+47:09
+Andrew Ippolito: Alright, so i'll clarify this, so we take the heat and activated ass.
+47:14
+Andrew Ippolito: We extract the lip is in the carbohydrates. Andrew Ippolito: And then we separate those into refresh needed every Allah quad it into three different tubes to the first tube we add some protein aces.
+47:28
+Andrew Ippolito: which read whole proteins to the second to we got a rival nucleus or rnas.
+47:33
+Andrew Ippolito: The third we added the oxy rabbit nucleotides. Andrew Ippolito: Right, so the idea here is we get rid of the protein, but we keep all the nucleic acids, the RNA and the DNA to the second one.
+47:45
+Andrew Ippolito: We remove the RNA but we keep the proteins and DNA and to the third one, we get rid of the DNA, but we keep the proteins and the RNA and then we mix it in with the living ourselves.
+47:59
+Andrew Ippolito: And we see whether or not the S pop up and Sure enough, the protein aces and the rnas is still allowed the S to appear in other words, they did not block transformation, whereas the DNA splott transformation completely.
+48:18
+Andrew Ippolito: And so, therefore, the conclusion is transformation because transformation cannot occur unless DNA is present DNA must be the hereditary material.
+48:32
+Okay. Andrew Ippolito: So these I forgot, these are from.
+48:40
+Andrew Ippolito: I forgot, where I found it from this is our from your book, but this says the same thing right so his summer here as transforms are.
+48:49
+Andrew Ippolito: Neither nor our nieces prevent transformation.
+48:54
+Andrew Ippolito: DNS does prevent transformation. Andrew Ippolito: You have to say it both ways you can't just say one of those things if I if the conclusion simply was produce an artist is prevent transformation Okay, so does everything.
+49:10
+Andrew Ippolito: Or if I just said DNA prevents transformation, so does everything you have to say, both of those things right, do you see that that's why we have to do, positive and negative control sometimes.
+49:23
+Andrew Ippolito: Right, so this shows us that.
+49:29
+I mean, think of how to put this.
+49:34
+Angela Harbeck: weight so for the rns sell Does that mean we're still looking at pneumonia.
+49:40
+Andrew Ippolito: yeah. Andrew Ippolito: Now, except we're replete we're culturing it we're not putting them animals.
+49:46
+Okay. Andrew Ippolito: yeah that that's that's key here is that he reads group work with the exact same stuff that Griffith did, and he they just carried the experiment, they just kept going with the same work so.
+50:03
+Andrew Ippolito: You know and i've never read anything about Griffith reaction to all this i'm sure I don't even know I don't know when he passed away so Fred Griffith maybe he was he was already dead by the time he was doing all this work better.
+50:14
+Andrew Ippolito: Or maybe he was an old man, you know smiling and is rocking chair pettiness dog saying I was right, the whole time I wasn't crazy.
+50:25
+Andrew Ippolito: Okay. Andrew Ippolito: So to summarize for you're studying here right so Griffith there's transformation, but I have no idea what it is, and I can only do it in animals.
+50:34
+Andrew Ippolito: avery we took Griffith this work, we were able to do it in test tubes and culture, this stuff and we were able to show that it was DNA through process of elimination.
+50:44
+Andrew Ippolito: Okay, and what's more. Andrew Ippolito: Okay, they were able to isolate it, they were able to fraction ate it in the lab.
+50:53
+Andrew Ippolito: And essentially way it, they were able to discover its molecular mass and so they said that you know, whatever the transforming substance is its enormous such that, if it was DNA.
+51:09
+Andrew Ippolito: What we were able to purify would be the equivalent of 1600 nucleotides.
+51:16
+Andrew Ippolito: So, even though it was just a empty empty and C and D 1600 of them avery's group felt was more than enough to accommodate the simple idea of putting a capsule on onto the bacterium.
+51:34
+Andrew Ippolito: Alright, so here's how it's working, this is the impression I want you to get here they're blind in the dark feeling around the cave.
+51:41
+Andrew Ippolito: And they finally got their hands on the double helix they have no idea is a double helix but they're like they're getting closer and closer to the truth here.
+51:50
+Andrew Ippolito: Right. Andrew Ippolito: 1600 and turns out like a plasmid is a small ring of DNA with about that that Plaza in private about 1600 nucleotides on it.
+51:59
+Andrew Ippolito: They just didn't know was a plasma of double stranded DNA in a closed circle, they had no idea, just to them, it looks like a bunch of snuck.
+52:08
+Andrew Ippolito: When you purify DNA from a cell and whole fraction Asian it looks very I mean chromatin is very gunky it's this white gunky stuff.
+52:27
+Andrew Ippolito: So, through the 1950s, even though every published that in the late 40s the evidence was overwhelming some people still didn't accept it.
+52:36
+Andrew Ippolito: Because scientists need a lot of evidence before they believe anything right and also avery was one of those scientists that did not write things very dramatically, he was very conservative and how he wrote things, and so the way he wrote his conclusions.
+52:54
+Andrew Ippolito: He didn't he wasn't a good marketer he wasn't able to pitch it in a confident way, so people were still skeptical.
+53:01
+Andrew Ippolito: So, so the lesson learned here is that one on the aspects of being a good scientist is also being a good communicator and avery was not that.
+53:12
+Andrew Ippolito: His writing was too conservative when he published things right, and actually This is something that monitor scientists have to consider to like when we use the word theory.
+53:22
+Andrew Ippolito: there's people who believe we should stop using the word because common everyday people see the word theory is the word hypothesis.
+53:30
+Andrew Ippolito: Right it's not been tried and true it's not there's when we see evolution theory, I mean just just yesterday, I read an article that in in the state of Arkansas.
+53:42
+Andrew Ippolito: Hello was. Andrew Ippolito: passed that allows them to teach creationism and the science classroom.
+53:49
+Andrew Ippolito: As 20 freakin 21.
+53:57
+Andrew Ippolito: So a lot of people think we should start just using the word principle, the principles of instead of the theory of.
+54:05
+Andrew Ippolito: Mine, so this is, this is a whole sidebar conversation i'm not going to get too much into but the idea here is even back in the 50s right when when scientists published things they have to make sure they say it in a way.
+54:15
+Andrew Ippolito: That is as convincing as the data is right, you know the data itself is convincing, but if you pitch it in a way that's not convincing and people going to walk away scratching their heads.
+54:27
+Andrew Ippolito: So, in other words, people were still doing experiments to determine what the genetic material was is it DNA, is it proteins DNA is a protein.
+54:33
+Andrew Ippolito: people wanted to believe that it was really protein so badly that it just made more sense in their minds. Andrew Ippolito: there's 20 amino acids, if you put together in any order and these four letters seem to be just put together in the same they're just some basic scaffold.
+54:47
+Andrew Ippolito: right they believe that so like the version in their head of a chromosome was it was some kind of think of like a three dimensional matrix like jello.
+54:56
+Andrew Ippolito: or like a chain link fence and that's DNA and then somehow embedded in there are pro tenacious genes, that was the model of a chromosome in their heads, because they refuse to accept the idea of DNA as being the genetic alright so.
+55:14
+Andrew Ippolito: The reason why also we knew almost nothing about this molecule. Andrew Ippolito: levine summed it up best in his book he wrote in 1931 on nucleic acids, he wrote this the chemistry of nucleic acids can be summed up very briefly.
+55:27
+Andrew Ippolito: Indeed, a few graphic formulas which need not even a single printed page might suffice to express the entire store of our present day knowledge on the subject.
+55:39
+Andrew Ippolito: Right, we knew one it was a one pager on the most what we now know, is the most important molecule in history.
+55:47
+Andrew Ippolito: Okay. Andrew Ippolito: In 1952 hershey and chase published their their results of their experiment, and this was the one.
+55:58
+Andrew Ippolito: That put the last nail in the coffin the last proof that it was DNA and people after this point people stop doing research on the question.
+56:07
+Andrew Ippolito: And if they did, that nobody's publishing anything anymore so i'm gonna explain now hershey and chase Okay, so this is experiment number three we had Griffith transformation, we have avery oh look it's probably DNA and then hershey and chase it's totally DNA.
+56:23
+Andrew Ippolito: Okay here's how they did their experiment they took advantage of a very simple chemical difference between proteins and DNA proteins have a whole lot of sulfur in them and not not a lot of phosphorus and DNA has a whole lot of phosphorus but not a lot of sulfur.
+56:41
+Andrew Ippolito: Okay, and so we have to radioactive isotopes of phosphorus and software, we got P 32 women got s 35 Both of these are radioactive.
+56:56
+Andrew Ippolito: They take a virus called the bacteria feeds bacteria or viruses that only infect bacteria that can affect ourselves so that's good.
+57:06
+Andrew Ippolito: And, like most viruses, like all viruses, the bacteriophage they used to call it to the bacteria feeds T to.
+57:15
+Andrew Ippolito: Had I mean it had a relatively simple structure, compared to a cell but, honestly, this thing it looks like a moon lander.
+57:22
+Andrew Ippolito: Right, it looks like something would land on the moon, actually, if you look at the electron microscope slides of I mean this really it looks like something that would land on this trip so.
+57:29
+Andrew Ippolito: So here's here's how they work, the they have a DNA genome and they have this fancy body around them made out of proteins so black would be protein blue would be DNA.
+57:43
+Andrew Ippolito: And and i'll tell you this now they didn't know how this works, but the secret is is one these little filaments buying to the cell surface of the bacterium they actually this whole body in the middle here compresses like a syringe.
+57:59
+Andrew Ippolito: And it basically injects the DNA into the cell it's ingenious it's pretty cool.
+58:07
+Andrew Ippolito: Now they didn't know any of that they just knew that that so what they didn't know was that a virus.
+58:15
+Andrew Ippolito: transforms cells.
+58:20
+Andrew Ippolito: Right and so viruses have to have.
+58:26
+Andrew Ippolito: Both nucleic acid and protein.
+58:31
+Andrew Ippolito: And they transform cells, meaning they are changing the genome type meaning they are delivering the genetic material.
+58:38
+Andrew Ippolito: So they knew that much right viruses have genetic interior, the question is is which one of these is the genetic material for the buyers is that the protein that nucleic acid.
+58:50
+Andrew Ippolito: So it's a very ingenious setup. Andrew Ippolito: Okay, so here's what they do, they do to experiments in parallel, one on the experiments uses review after phosphorus one of the experiments uses radioactive self okay so imagine you take a petri dish.
+59:09
+Andrew Ippolito: filled with bacteria ECO lie. Andrew Ippolito: I think that's what they used Okay, they infected with the T to feige.
+59:19
+Andrew Ippolito: The media in here is supplemented with P 32 okay.
+59:28
+Andrew Ippolito: Which means that as those T to bacteria features and eco lie, as they make their new DNA their DNA will then to incorporate the radioactive phosphorus so they will have radioactive.
+59:45
+Andrew Ippolito: DNA. Andrew Ippolito: Okay separately.
+59:51
+Andrew Ippolito: We do the exact same thing we culture some tea, too, but, in the presence of the supplement containing s 35.
+1:00:00
+Andrew Ippolito: So in this case we have radioactive.
+1:00:05
+Andrew Ippolito: Protein. Andrew Ippolito: So i'm going to replace radio after i'm gonna say hot we'd say that the DNA is hot weather proteins hot that's what we talked about this woman do radioactive work in the lab cold and hot.
+1:00:21
+Andrew Ippolito: temperature it's radioactivity. Andrew Ippolito: So we'd say the hot DNA the hot protein nickel Dini and corporate that's how i'm gonna talk from here on out so we're gonna take.
+1:00:32
+Andrew Ippolito: The feige with the hot DNA we're going to inspect some cells, but just for a little while Okay, so the life cycle of the teacher is very fast.
+1:00:45
+Andrew Ippolito: Alright, so within the early within early infection the fields will have brought its.
+1:00:54
+Andrew Ippolito: genetic material into the cell Okay, so I want you to picture here's this cell.
+1:01:00
+Andrew Ippolito: The alien bobblehead moon lander lands on it. Andrew Ippolito: And then inject something into the cell.
+1:01:07
+Andrew Ippolito: Okay, and so, at that moment in time, so they wait, maybe 20 minutes They infect the cells in a liquid test tube.
+1:01:16
+Andrew Ippolito: And then. Andrew Ippolito: They take that liquid and they put it in a blender.
+1:01:22
+Andrew Ippolito: Like a common household blender. Andrew Ippolito: And the idea is is that when it's in the blender it's going to knock the virus off the cell.
+1:01:31
+Andrew Ippolito: it's going to take the whole body of the virus and just bought but away so we separate the two so, in other words, the idea is the virus lands on us so and jack's its thing does its business, and then we knock it off, and then we centrifuges.
+1:01:45
+Andrew Ippolito: Okay, and when we centrifuges. Andrew Ippolito: When you centrifuge anything like this there's a solid and there's a liquid the solid we call the pellet.
+1:01:57
+Andrew Ippolito: The liquid we called anybody know the name of this you guys run this on the classes, yet what do we call the liquid fraction of a centrifuge sample.
+1:02:06
+Andrew Ippolito: Okay ready you're going to learn that from me then it's called the super super.
+1:02:12
+Andrew Ippolito: And then end at. Andrew Ippolito: A empty the super name.
+1:02:17
+Andrew Ippolito: I mean there's an e in there. Andrew Ippolito: Now I don't think a whole lot super I always miss spell this word or maybe I don't super.
+1:02:30
+Andrew Ippolito: supernatural super super in a tent yeah right okay super name some people pronounce it separate and I think it's super Nice and we call it the soup it's just soup.
+1:02:49
+Andrew Ippolito: which makes sense because soup is liquid so there's the soup and the palette palette on this.
+1:02:56
+Andrew Ippolito: Okay, so here's here's what they do. Andrew Ippolito: They they can now ask the simple very simple question right so in the super name here, and these experiments the virus particle is going to be there, the caps it.
+1:03:10
+Andrew Ippolito: Okay, the caps, that is the name of the part of the virus that has the the protein and.
+1:03:15
+Andrew Ippolito: Or, I should just say the caps ID which is made out of protein and then the pellet is going to have within it.
+1:03:21
+Andrew Ippolito: The cells. Andrew Ippolito: The bacterial cells, because there are bigger and they're heavy they're going to precipitate to the bottom, and the centrifuge while the viruses are too small.
+1:03:31
+Andrew Ippolito: To do that they're going to remain in the liquid, so we were able to separate the cells from the buyers and then we just asked a very simple question which fresh in his heart.
+1:03:41
+Andrew Ippolito: Is the pellet hot, or is the soup hot. Andrew Ippolito: Whichever ones hot is going to contain the molecule that we tracked right, and so the cells, we know God transformed.
+1:03:56
+Andrew Ippolito: And so, if DNA is the transforming substance the hot DNA will be found in the pellet.
+1:04:02
+Andrew Ippolito: If protein is a transforming substance, then the hot protein is going to be found in the palette.
+1:04:12
+Andrew Ippolito: That makes sense Okay, so the the experiment and they showed as clear as day that the bacteria were hot when the DNA was hot.
+1:04:23
+Andrew Ippolito: And then the follow up experiment i'm not sure if the book gives you this, the fire experiments to take that radioactive bacteria and played it out.
+1:04:33
+Andrew Ippolito: and recover features that themselves are radioactive. Andrew Ippolito: In other words, the DNA could get replicated and keep passing on that phosphorus.
+1:04:44
+Andrew Ippolito: Okay, so this is her, she enjoys. Andrew Ippolito: Her she ends and chase were able to use radioactive isotopes to demonstrate irrefutably.
+1:04:56
+Andrew Ippolito: That the DNA was the transforming substance and that protein was not.
+1:05:01
+Victoria Bloemker: I have a quick question. Victoria Bloemker: yeah what. Victoria Bloemker: Was it the centrifuges centrifuge that made it hot or was a different component.
+1:05:12
+Andrew Ippolito: Thank you so here let's let's let's look at the picture here. Andrew Ippolito: So So here we go. Andrew Ippolito: In this there's two slides here there's experiment one experiment Okay, so in this slide we have features that were grown in the presence of S 35 and therefore their proteins are hot.
+1:05:28
+Andrew Ippolito: Alright, so you can see here this glowing yellow that so that's already radioactive there tori okay so we've previously made radioactive viruses.
+1:05:40
+Andrew Ippolito: Okay, we incubate them for a little while the caps it stay outside the bacteria they inject whatever it is they're going to inject and then we put them in a blender we knock them off.
+1:05:54
+Andrew Ippolito: Okay, then we centrifuge them and what the centrifuge does is it just separates right, so if the original tube had a bunch of bacteria in it.
+1:06:03
+Andrew Ippolito: And then, a bunch of by can't right, just imagine tiny little dots of viruses so we're going to separate the heavy cells from the light biases.
+1:06:12
+Andrew Ippolito: So these are the cells, and these were the viruses, this is where the viruses are, and so in this experiment, because we use the protein that was radioactive the super name the liquid is radio.
+1:06:25
+Victoria Bloemker: Okay. Andrew Ippolito: Good. Victoria Bloemker: i'm nothing I just said Okay, thank you because, like I know a centrifuge works it's just also confused like how they got warmed up but.
+1:06:36
+Andrew Ippolito: Oh okay i'm using so again when I say hot, I mean radioactive. Victoria Bloemker: yeah that's why.
+1:06:42
+Andrew Ippolito: yeah i'm Sorry, I guess, I should use a radio.
+1:06:48
+Andrew Ippolito: you're welcome. Andrew Ippolito: and actually yeah sounds. Andrew Ippolito: If you're so centrifuges in lab if there's refrigerators centrifuges and there is not refrigerated centrifuges if you put something in a non refrigerated centrifuge and spin it for 1015 minutes, yes it's definitely going to get hot.
+1:07:01
+Andrew Ippolito: or warm it'll get more money so that's why you always in the lab whenever you're dealing with biological materials, everything is refrigerated every step of the way you have a you have a little a.
+1:07:13
+Andrew Ippolito: bucket of ice that you keep your stuff on and you go to the Center for years that's already previously refrigerated so, otherwise the heat would start breaking things down okay alexa.
+1:07:24
+Alexa Deprisco: So if you were to just expose the bacteria cells to either like the radio active so for or the radioactive phosphorus it wouldn't be able again this to like penetrate the bacteria so that's why you would need the pages there.
+1:07:39
+Andrew Ippolito: Oh, if you. Andrew Ippolito: Let me see if I heard that right so you're saying, if I just had plain old DNA that was radioactive.
+1:07:47
+Alexa Deprisco: Not even just like exposing bacteria cells themselves to either radioactive isotope like.
+1:07:53
+Andrew Ippolito: Okay. Andrew Ippolito: The separate okay so so here's the thing. Andrew Ippolito: When we so here let's say that um.
+1:07:59
+Andrew Ippolito: let's see, I have a little brick of radioactive phosphorus just like solid just that's radioactive right so i've little just pretend, I have a magic pellet of Peter I don't know what it's made out of but.
+1:08:09
+Andrew Ippolito: Okay, so this is radioactive right What that means is it's shooting out particles alright, so if I shoot if I So if I have a radioactive substance and so let's say this is DNA.
+1:08:21
+Andrew Ippolito: i'm not going to make the DNA radioactive. Andrew Ippolito: Okay i'm going to damage the DNA.
+1:08:27
+Andrew Ippolito: that's so so when when I have something that's radioactive, but when we let's say that I had a vial of radioactive bus for some lab.
+1:08:36
+Andrew Ippolito: And I accidentally spilled some. Andrew Ippolito: And then I wiped it up with some paper towels that paper towels now radioactive because it's got the liquid on it right.
+1:08:47
+Andrew Ippolito: In contrast, if I want to make. Andrew Ippolito: DNA radioactive I don't just expose it to phosphate so imagine this is now an atom of P 32.
+1:09:00
+Andrew Ippolito: Okay, so I have atoms of P 32 that I add to a petri dish right, so I have a liquid that contains elemental phosphorus in the petri dish and the.
+1:09:12
+Andrew Ippolito: organisms in there, take up that Adam and they incorporated into their molecules so now I literally have a molecule that has phosphorus in it best radio act.
+1:09:25
+Andrew Ippolito: Okay, so like the Kobe and bonds also remember isotopes are pretty much the same whether or not the radioactive we're not radioactive rate.
+1:09:32
+Andrew Ippolito: there'll be incorporated into the chemistry of the cell regardless so so we're not exposing the cells to radiation to make it radioactive we're supplementing the media with radioactive add.
+1:09:47
+Andrew Ippolito: That makes sense. Okay. Andrew Ippolito: So, so the second experiment, where they have radioactive phosphorus.
+1:09:57
+Andrew Ippolito: So remember there's a preceding adventure here, where we take a petri dish with some bacteria in it.
+1:10:03
+Andrew Ippolito: And we add some radioactive phosphorus to it and we infect those cells with Tito. Andrew Ippolito: Tito features and we let them grow and blow up everything and kill everything, and then we have the viruses those viruses now have radioactive DNA in it, and now we infect the cells with radioactive viruses just for like 20 minutes.
+1:10:20
+Andrew Ippolito: long enough for them to it turns out, they inject their DNA into the cell and then we knock them off okay so so again these viruses don't have radioactive of sulfur so they're proteins are not radioactive only their DNA is.
+1:10:36
+Andrew Ippolito: And then, when we send our fusion and we hold our a Geiger counter up to the pellet we see that the radioactivity is in the pellet telling us that the therefore the DNA is in the Palate and therefore the DNA is transforming substance.
+1:10:51
+Andrew Ippolito: OK so again the logic is the virus is giving hereditary material to the bacterium they already established that up to this point in time, in the 1950s, they understood how buyers has worked a little bit.
+1:11:03
+Andrew Ippolito: The virus is giving transforming substance to the cell and this experiments shows that it gave DNA to the cell and therefore the transforming substances DNA.
+1:11:20
+Andrew Ippolito: You don't need to know the dates tori I just saw your question there from before about you don't need to know dates.
+1:11:28
+Andrew Ippolito: If I say a name I mean it would be helpful they'll put it or it'll organized into your mind if you put them in chronological order honestly but i'm not going to ask you what happened in 1942.
+1:11:40
+Andrew Ippolito: This isn't that kind of history class. Andrew Ippolito: So that's hershey and cheese.
+1:11:48
+Andrew Ippolito: This is a electron micro graph of the team to feed and fighting and equalize cell and you can see.
+1:11:53
+Andrew Ippolito: That actually Actually, this is probably an infected cell that's giving rise to new batches of these are features actually emerging out of the cell, because you can see some of them on the inside, too.
+1:12:04
+Okay. Andrew Ippolito: And there's hershey himself I love these old photographs of, by the way, we're in color now.
+1:12:12
+Andrew Ippolito: Right we're now into the realm of what we're learning about science, that is new enough where we're seeing color pictures.
+1:12:18
+Andrew Ippolito: And one of the best things with these old pictures, as you look at the I love looking at old labs I told you this one we looked at a Alfred sturtevant lab right, so you can see here like this thing right here.
+1:12:30
+Andrew Ippolito: What that is is a way of observing radioactive petri dishes without getting radioactive yourself so it's a safe box Basically, this is a thick piece of glass, this is all shielded.
+1:12:41
+Andrew Ippolito: You know and there's a slot somewhere in the back you put the petri dish and you can you know manipulate it somehow right um.
+1:12:48
+Andrew Ippolito: there's a little timer you can see, the little vials of various paraphernalia little bulbs for pipettes it's just it's just fun and you see these little flash in the back here, this is, we still use these today.
+1:12:58
+Andrew Ippolito: Right and, in fact, when I started working at del Valle briefly for for as an adjunct for a couple semesters there was a lab I worked in.
+1:13:06
+Andrew Ippolito: For the invertebrates biology lab and honestly opening I went through the the lab and I open the drawers it wasn't used that much by that many people and it turns out for for decades, because.
+1:13:18
+Andrew Ippolito: The stuff I found on those drawers essentially looked like this stuff it was a lab from like the 1960s.
+1:13:25
+Andrew Ippolito: So all right so that's that's the science here. Andrew Ippolito: Alright, so there's here's the Nice summary, and these are each quotes directly from the original papers I extracted these So you can see what the science actually sounds like so here's avery.
+1:13:38
+Andrew Ippolito: The evidence presented supports the belief that nucleic acid of the dnc ribosome type DNA, is the fundamental unit of the transforming principle of pneumococcus type three.
+1:13:51
+Andrew Ippolito: So okay so so, in other words like well, maybe.
+1:13:57
+Andrew Ippolito: He could have made way more profound statements at this point so that he was a it was a very specific limiting statement.
+1:14:05
+Andrew Ippolito: hershey and chase we infer that sulfur containing protein has no function and feeds multiplication and a DNA has some function.
+1:14:18
+Andrew Ippolito: Right that's how scientists talk I proved it was DNA we don't talk like that all we can say with absolute confidence is that the sulfur containing protein had absolutely no functioning fades multiplication and their DNA add some function.
+1:14:37
+Andrew Ippolito: Okay. Andrew Ippolito: So, so what is the structure of DNA here's a re again if the results of the presence study on the chemical nature of the transforming principal are confirmed.
+1:14:50
+Andrew Ippolito: The nucleic acids must be regarded as possessing biological specificity biological specificity, in other words, it has a code in it the chemical basis of which is yet to be determined.
+1:15:06
+Andrew Ippolito: In other words, levine must be wrong, the tension, the Tetra nucleotide model is inconsistent with current understanding that the key.
+1:15:15
+Andrew Ippolito: Up to this point in time we used to think that DNA was this molecule this boring Tetra nucleotide and so avery without knowing anything about the biochemistry behind nucleic acids and with levine admitting that we just had a one pager on the whole thing.
+1:15:31
+Andrew Ippolito: there's something here. Okay.
+1:15:36
+Andrew Ippolito: we're starting to get to the heart of the matter, but we're not there yet.
+1:15:43
+Andrew Ippolito: Okay, so the problem. Andrew Ippolito: purifying the components of DNA, so, in other words, separating the a and the T and the sea and the G and asking a simple question what percentage of a sample of a given nucleotide is at any.
+1:15:57
+Andrew Ippolito: Right love all of you, was able to say is about 25% because they weren't able to biochemically fraction eight days in the season, the season.
+1:16:07
+Andrew Ippolito: Alright, so this guy here irwin irwin shark Jeff it was kind of unfortunate story at the end of all this, he was the one that was able to use his his novel he developed techniques in.
+1:16:23
+Andrew Ippolito: People chromatography to separate them to precision that included decimal points and that's when things start to get interesting.
+1:16:35
+Andrew Ippolito: Okay, so up to this point two facts were already known about DNA The first was it's in the nucleus of every single cell.
+1:16:43
+Andrew Ippolito: The second is it consists of two bases. Andrew Ippolito: Okay appearing remember those are the big ones and permitting PR or a pyramid.
+1:16:58
+Andrew Ippolito: pyramid Dean. Andrew Ippolito: Right and each one of these had two types right, so the periods, the a's and the g's and the perimeter means the season at ease.
+1:17:10
+Andrew Ippolito: Right so so that was interesting What did it so here's what he did he purified the nuclei from cells, it was able to biochemically isolate just the DNA.
+1:17:22
+Andrew Ippolito: It was then able to chemically break it down into individual nucleic acids and then he was able to separate the periods from the perimeter things using chromatography techniques.
+1:17:36
+Andrew Ippolito: And the exposed separated components. Andrew Ippolito: i'm sorry when when he exposed the separate components to ultraviolet radiation, each one of those four bases absorbs light at a very particular wavelength that was very different and so he was able to deduce exactly how much space was in the DNA, based on the absorbent values.
+1:18:02
+Andrew Ippolito: Okay. Andrew Ippolito: So. Andrew Ippolito: He established without knowing anything at all about the structure of the nucleic acids just looking at the chemistry here, he was able to say that adenine and Simon existed in equal proportions.
+1:18:20
+Andrew Ippolito: And all organisms. Andrew Ippolito: Regardless of what he looked at a always equals T.
+1:18:29
+Andrew Ippolito: and C always equals G, no matter what.
+1:18:34
+Andrew Ippolito: The proportions between two different pairs. Andrew Ippolito: dependent on the organism.
+1:18:42
+Andrew Ippolito: The species. Andrew Ippolito: Not the individual, in other words, if you took 10 random samples of humans and 10 random samples of fruit flies and 10 random samples of corn within those 10 samples or hundred samples, the numbers were always about the same.
+1:18:59
+Andrew Ippolito: or they were always the same. Andrew Ippolito: between species, they were different.
+1:19:07
+Andrew Ippolito: This is starting to so this evidence rather these data further supported the notion that DNA was the transforming substance, because it shows species.
+1:19:19
+Andrew Ippolito: variability between species and it shows consistency within months PCs which would be the requirements of something that was hereditary all starfish look alike, because they had this same DNA all starfish have the same proportions of the a's and the t's and c's and the GS alexa.
+1:19:34
+Alexa Deprisco: Is there any correlation between like the complexity of an organism and, like the ratios of the entity to g to see because it looks like the bacteria have like a more equal dispersion.
+1:19:44
+Andrew Ippolito: that's a great question, I never. Andrew Ippolito: I never thought of that question before I never asked your answer that and I off the cuff, I would say, not necessarily the key is.
+1:19:53
+Andrew Ippolito: A binds to tea, with two hydrogen bonds and see pairs with G with 300 of bonds so within the double helix of DNA, if you have regions where you want to pop them open.
+1:20:05
+Andrew Ippolito: you're going to want those areas to be rich and a's and t's whereas if you want to keep them pretty close and tight it's the season geez that's one function, the other is is, if you want to messily DNA it's always on early as quantity.
+1:20:16
+Andrew Ippolito: So and methylation as a way to turn things off in a permanent way so. Andrew Ippolito: So those ratios 10 more to speak about how the DNA is being utilized during gene regulation, not the complexity of the organism but that's the kind of question people always ask in terms of.
+1:20:32
+Andrew Ippolito: Like does the fact that humans have 23 chromosomes and mice only have 16 mean that we're better okay it's the turns out, no, the number of chromosomes doesn't correlate with complexity.
+1:20:43
+Andrew Ippolito: My guess is is the number of chromosomes correlates with the amount of mutability the amount of change, but that's just me that's just me spit balling.
+1:20:52
+Andrew Ippolito: And the reason for that is is the more chromosome pairs, you have the greater diversity, you have when you're crossing over and you're shuffling around an independent assortment.
+1:20:59
+Andrew Ippolito: Right like your softball only have four so they don't have a lot of variation that could happen so organisms that need a lot more biodiversity probably have a higher number of chromosomes but again that's just me.
+1:21:12
+Andrew Ippolito: Taking an educated guess based on what I did Okay, but, but the so the takeaway for everybody here to take home for everybody here is that species have their own numbers basically.
+1:21:22
+Andrew Ippolito: it's or you can just simply say there's differences between the species, but within a species is to say, like all humans have 31% of their DNA is a.
+1:21:31
+Andrew Ippolito: Whereas all corn has 25.6% Okay, but so what I want you to do here is just look at these numbers compare 31 now experimental differences occur, you know, plus or minus a couple percent points but.
+1:21:48
+Andrew Ippolito: You would say that these are about 31, and these are about 19 these are about 27, and these are about 22 right.
+1:22:02
+Andrew Ippolito: So ready here's here's the skill, you need to have now i'm going to teach it to you, right here i'm just going to throw this up.
+1:22:09
+Andrew Ippolito: Think about the idea that each one of these has some percentage to it. Andrew Ippolito: Okay, I just would have to give you one number, and you can guess all the others, or you can calculate all the other so here ready i'm going to give you this so see if you can figure out how to do the rest of those now.
+1:22:25
+Andrew Ippolito: On your own, you know that a is always TMC is always G, so I said 13% seat go ahead, everybody work on this CT which go and give you a minute.
+1:23:40
+Andrew Ippolito: alright. Andrew Ippolito: So anybody want to walk me through your logic.
+1:23:49
+Andrew Ippolito: Go ahead. April Neeld: April oh um so basically what you do is, you know that C and D are pretty much equal so G will be 13.
+1:23:59
+April Neeld: And then you add those 13 together.
+1:24:06
+April Neeld: And then you take that number and you subtract it from 100. Andrew Ippolito: Good that's okay that's the part that a lot of people can't get to the hidden idea here is that you have to add those numbers up to 100% so 100 is like the missing number okay so 100 minus 26 is what.
+1:24:27
+Andrew Ippolito: 74. Andrew Ippolito: I had to do that. And then okay. Andrew Ippolito: And then, what do you do.
+1:24:33
+April Neeld: He divided by two. April Neeld: Okay, and then. April Neeld: you'll get 37 and that's what AMT equal.
+1:24:41
+Andrew Ippolito: Good okay now here's a shortcut see this divided by two part. Andrew Ippolito: So instead of saying 100 minus 26 you can see 15 minus 13.
+1:24:53
+Andrew Ippolito: Okay, so here's here's our graph actual role here's the person it's basically if you're given then so if we were given this right if you're asked to calculate an opposite a complimentary or not, not a compliment right.
+1:25:10
+Andrew Ippolito: So if you're given a. Andrew Ippolito: A C or a G and you're asked for an A or a T you do 50 minus that number.
+1:25:20
+Andrew Ippolito: Okay, so that, so you could have done 50 minus 13 equals 37 see how fast, that is so that's the skill 50 minus X is either that or or it's X equals y.
+1:25:32
+Andrew Ippolito: right if I give you a and I asked for T same number.
+1:25:38
+Andrew Ippolito: Okay, if I tell you that the 80s and 90s equal 74, what are the season, the GS equal now you have to say 26 right, then you have to do a little more work, but the idea is it's the 50 minus X not 100 minus X didn't you have to go into bye bye to do you might as well do that up front.
+1:25:56
+Andrew Ippolito: Alright cool that's the end of the skill set lesson there so here's his actual data from 1949.
+1:26:01
+Andrew Ippolito: here's Shah graphs original publications and what he did was he showed that the ratio, so he was able to purify a get the percent for a in the present for GE and the percent per day.
+1:26:09
+Andrew Ippolito: And he said things like he was just playing with the math and if I take the ratio of adenine for guanine right the a to the G OK, this is the T to the see this is the eighth to the T see this and see how all these are one more or less.
+1:26:26
+Andrew Ippolito: Right, these are all over the place. Andrew Ippolito: Right, but the sea and the G are all one also so he was able to say as, for whatever reason, equal this T and C is for or equal the G.
+1:26:41
+Andrew Ippolito: He had absolutely no insight beyond that and that's that's an I want this file that in the back your head here shark graph had no idea how important this was.
+1:26:53
+Andrew Ippolito: Right, this was just an interesting curiosity at the time. Andrew Ippolito: Okay, published part of the reason was published in 1949 back when hershey and cheese we're just starting to show their work to actually I actually did have hershey and she's like I don't have the dates in my head all the time, either with this is 19.
+1:27:17
+Andrew Ippolito: That yeah 52 right so so shara graph showed all that before her, she and she's to their work so so sharp graphs publication comes if you put it in the historical context we're still not 100% confident that DNA is the hereditary material right so but he's like.
+1:27:34
+Andrew Ippolito: This supports the idea that DNA not protein.
+1:27:39
+Andrew Ippolito: Okay, and that's that's D BC that's right here jb see is one of the more popular journals inside and biology that's the journal of biological chemistry.
+1:27:49
+Andrew Ippolito: that's a that's a tear to publication. Andrew Ippolito: Sure graph was always playing he was always in the tier two here so he's part of the story, but he never got his Nobel Prize and that's what the grumpiness starts.
+1:28:01
+Andrew Ippolito: Okay, now I get to tell you about Rosalind Franklin and i'm sure you've all heard of her and she's she's one of the more famous female scientists of our time.
+1:28:10
+Andrew Ippolito: there's documentaries, on her there there's even a stage production, that was a pushed out in London years back when Nicole kidman played her and.
+1:28:20
+Andrew Ippolito: The problem with that stage production was they have the history wrong there's a lot of interesting.
+1:28:25
+Andrew Ippolito: Stories here and now that we're in 2021 the true a lot of the truth has already come out in the dust has been settled, but i'll tell you when I was younger and I was learning about all this, there was just there was a lot of interesting.
+1:28:40
+Andrew Ippolito: There were claims that wilkins stole her data and showed it to Watson and Crick and Watson and Crick were being nefarious and that stage production actually does all that.
+1:28:50
+Andrew Ippolito: to the point where wilkins state I don't know if they sued for libel, or they basically wrote a they I think they took a one pager out in some publication and said, like everything they showed in that was a lot.
+1:29:03
+Andrew Ippolito: Because in the stage production, they show wilkins like breaking into her office and like stealing some of our data like he didn't do any of that the reality is she laughed.
+1:29:11
+Andrew Ippolito: And when you're doing government funded research that government funded research is actually owned by the place that you got even in private industry, it doesn't matter if you get a grant you don't get the grant.
+1:29:22
+Andrew Ippolito: The Institute gets the grant it's their grant and then they pay you through it, and the reason why they want to recruit you there for us because you're good at writing grants and getting grants and they get the money for it.
+1:29:31
+Andrew Ippolito: Right so usually about 20% of my grants overhead goes directly to the institution and the other 80% goes to you, but you write that into your budget.
+1:29:39
+Andrew Ippolito: This it's not like they just come out of left field here right so but technically an institution and academic institution owns all the material and all the research that gets.
+1:29:50
+Andrew Ippolito: Rather, all the data so when she left her data was still there and wilkins had full reign of that data was it was their data.
+1:29:58
+Andrew Ippolito: So. Andrew Ippolito: The other fun fact here is that Rosalind Franklin didn't believe in the double helix she's scoffed at initially.
+1:30:07
+Andrew Ippolito: to the point where she played a little bit of a kind of a cool not a kind of a mean joke, on her colleague here so.
+1:30:15
+Andrew Ippolito: There I can honestly I can spend a whole bunch of time telling you the story instead i'll tell you that the science behind it, the important stuff.
+1:30:22
+Andrew Ippolito: So the bottom line here is that her work in X Ray crystallography was critical for the it was the final puzzle piece that Watson and Crick needed in order to finally show that DNA was a double helix.
+1:30:36
+Andrew Ippolito: Alright, so we have two kinds of science going on here in parallel right we have.
+1:30:42
+Andrew Ippolito: Actually i'll write it like this, you guys have seen this structure and function.
+1:30:49
+Andrew Ippolito: Right remember my mantra from the beginning in the beginning in class form follows function. Andrew Ippolito: there's people that study the form of it and there's people that say the function of it up to this point we've learned everything about the function of it.
+1:30:59
+Andrew Ippolito: Right, how it works, the passage on the transformation, but we're not talking about what it looks like what the structure is.
+1:31:08
+Andrew Ippolito: And so, these are two parallel tracks and Watson and Crick and Rosalind Franklin and wilkins were all working on the structural components, they weren't interested in.
+1:31:19
+Andrew Ippolito: transformation, they were interested in what's this stuff look like right so part of being a researcher is you, you go into the field and you start focusing in on projects that that strikes your curiosity.
+1:31:34
+Andrew Ippolito: And they weren't interested in what it did in sales they weren't doing what it looked like because it's a mystery.
+1:31:41
+Andrew Ippolito: there's a whole exhibit on her notebooks at the Royal I don't miss a while a museum or the there's a museum that's that's all published online, you can go through our notebooks you can read about everything she did.
+1:31:55
+Andrew Ippolito: This is all original stuff so roslyn was essentially politely asked by her institution to start working on the structure of DNA fibers, as they call them alright, so let me just give you a little little context here X Ray crystallography.
+1:32:16
+Andrew Ippolito: Is a technique we use. Andrew Ippolito: To gain insight into the three dimensional structure of molecules that are complex.
+1:32:26
+Andrew Ippolito: Okay macro molecules in particular things like proteins and real and things like DNA.
+1:32:32
+Andrew Ippolito: And the whale works it's a very simple principle we we crystallize the material that we want to look at.
+1:32:40
+Andrew Ippolito: And, once we have a crystal of it. Andrew Ippolito: We can take pictures of it using an x Ray camera essentially and so here's the analogy i'm going to use imagine, I had on me see if I can do this for you somehow.
+1:32:57
+Andrew Ippolito: In the classroom it's so much easier, except the overhead projector here I don't really.
+1:33:03
+Andrew Ippolito: Okay, so imagine, I took my Green screen here I turn my background off I got a light directly in front of me here imagine, I held my hand up like this.
+1:33:13
+Andrew Ippolito: Okay, so you're gonna have to use a little bit of your imagination, right now, but not too much so i'm holding my hand up like this.
+1:33:19
+Andrew Ippolito: And behind me, you can see the shadow of my hand right that shadow, you can you could take a picture of it it's a two dimensional representation of my three dimensional hand in this position.
+1:33:32
+Andrew Ippolito: Okay, so I take that picture of my shadow and it looks just like this Okay, then I rotate the crystal I wrote in my hand by by a non number of degrees.
+1:33:44
+Andrew Ippolito: And I take that picture and then I take a picture like this, and I take a picture like this, and I take a picture like this right and I go all 360 degrees this way and all 360 degrees that way, as you can imagine, I build up a library of shadow pictures.
+1:33:59
+Andrew Ippolito: Right. Andrew Ippolito: And then I can use some insanely fancy math but i'm not gonna even begin to get into.
+1:34:08
+Andrew Ippolito: The word busy areas in there and. Andrew Ippolito: We can then reconstruct the three dimensional picture.
+1:34:19
+Andrew Ippolito: Okay, that makes sense that's that's the gist of X Ray crystallography okay.
+1:34:24
+Andrew Ippolito: And so the hard part is making the crystals. Andrew Ippolito: Once you got the crystal everything else is gravy everything else is deep so when they say DNA fibers it turns out, when you purify your DNA.
+1:34:40
+Andrew Ippolito: And you figure out the conditions in a little think of it like an ice cube tray this is how X Ray crystallography is work.
+1:34:49
+Andrew Ippolito: And they always and I know this because actually one work downstairs for me when I was in Grad school and she actually helped me troubleshoot a few my experiments.
+1:34:55
+Andrew Ippolito: But she was an x Ray crystallography so you want to go into this stuff this is biophysics Okay, I do all the math, which is so.
+1:35:03
+Andrew Ippolito: biophysics the ideas, think of like a mini a mini multi cell thing looks like an ice cube tray and each one of these cells contains a specific known chemical solution.
+1:35:17
+Andrew Ippolito: You know salts sugars, whatever whatever and your sample and then you put in refrigerator and you have all different temperatures and the idea is you're looking for the one that has a little crystal in it.
+1:35:30
+Andrew Ippolito: Okay, most of them don't they're just little it's some of it gets goopy gel like but you're looking for like a crystal solid crystal.
+1:35:39
+Andrew Ippolito: Think about if you were when you were in elementary school, you probably grew like rock candy. Andrew Ippolito: You ever do that before you can very easily take a take a cup you could do is today you take a cup.
+1:35:48
+Andrew Ippolito: You know super saturated water with a bunch of just take your white sugar dump it in the water boil it get it super saturated take a pencil put it across the cup tie a string to it.
+1:35:59
+Andrew Ippolito: And maybe put a little weight on the bottom of the string so the string stays in there and it's cool it down and and you'll see crystals form around the rope you that's rock candy.
+1:36:08
+Andrew Ippolito: You can go make it today, if you want that's crystallization, the key is is a crystal.
+1:36:15
+Andrew Ippolito: Is a repeating unit of the same thing over and over and exactly the same 3D orientation that's what makes it a crystal.
+1:36:23
+Andrew Ippolito: Okay, so regardless of how complicated the thing is whether it's a protein or a piece of DNA they're all in the same every single one of those trillions of molecules are all in the exact same atomic position.
+1:36:36
+Andrew Ippolito: that's why we can take pictures of like this okay now. Andrew Ippolito: This was all being done before modern computer work, I just want to emphasize this, the amount of brain brain energy you needed to do us to do this kind of work.
+1:36:54
+Andrew Ippolito: was ridiculously hard okay we're talking advanced three dimensional calculus stuff pre calculators.
+1:37:02
+Andrew Ippolito: And that was Rosalind Franklin that was she she was super guru genius and it turns out, in retrospect, based on interviews with Watson.
+1:37:12
+Andrew Ippolito: that she could so They all worked with her, she would in modern day she would probably have been diagnosed with asperger's or or even more severe autism based on her demeanor her personality and her.
+1:37:28
+Andrew Ippolito: very rigid nature and her work, to the point where her interpersonal conflict is what instigated all this and missy she left.
+1:37:35
+Andrew Ippolito: Watson stayed friends were there, and actually when she was diagnosed with ovarian cancer that took her at a very early age, she was like 39 when she died at 38 or 39 she would was convalescing in his his home and her and his wife were good friends so she passed away actually.
+1:37:54
+Andrew Ippolito: before she turned 40 years old, which is part of the reason, which is the main reason why she didn't want win the Nobel Prize with them because, again, the Nobel Committee doesn't get posthumous works, but.
+1:38:06
+Andrew Ippolito: The stories that I was told when I was in your seats back when I was 18 years old, was Rosalind didn't get the Nobel Prize, because he was a woman and because her work was underreported and they stole it and and there's some truth to that.
+1:38:22
+Andrew Ippolito: women in science, even today, sometimes have a really strong uphill battle, if you look at all the deans and all the administrators all the Senior Level people in the biomedical Community they're mostly men.
+1:38:34
+Andrew Ippolito: and Andrew Ippolito: In the 1950s in Britain, it was terrible they had separate lunch rooms, they had the women had their own lunch room and the men had their own lunch room, but the thing was is men were allowed to go into the women's lunch room, but the women weren't allowed to go into the men's lunch room.
+1:38:51
+Andrew Ippolito: It was awful and. Andrew Ippolito: A woman showing her lab work would be criticized more heavily and they would be more skeptical about it than a man's so there was a whole lot of sexism in the 1950s in Britain in in science and it's still there.
+1:39:12
+Andrew Ippolito: to a lesser extent, obviously, but but it's very. Andrew Ippolito: it's it's still a thing, unfortunately, so, in any case.
+1:39:21
+Andrew Ippolito: This is what her pictures look like they were very hypnotizing. Andrew Ippolito: These these beautiful and so she was the world's best X Ray crystallography her.
+1:39:32
+Andrew Ippolito: And she therefore was when she was pivoted to do this they did this because it here if you go back to the original request of her work.
+1:39:41
+Andrew Ippolito: here's just a little take home quote as you no doubt no nucleic acid as an extremely important constituent themselves, and it seems to us that I would be very valuable if this could be followed up in detail.
+1:39:53
+Andrew Ippolito: We do feel that the work on fibers so again, these are the crystallized version of DNA, they were able to get the work on fibers would be more immediately profitable and perhaps fundamental.
+1:40:08
+Andrew Ippolito: when somebody tells you to work on something that's fundamental to science you don't say no.
+1:40:13
+Andrew Ippolito: Although she was irritated apparently at this pivot from her work.
+1:40:19
+Andrew Ippolito: Okay, so these are these are X Ray crystallography place these are basically silver emotions emotions like black and white photography except instead of being exposed with visible light was exposed with X rays.
+1:40:33
+Andrew Ippolito: Okay, and from her notebook we glean, so this is all this happen way later, when we were able to get our hands on this stuff she was starting to try to understand the hydrogen bonding between the aids in the season, the season, the GS using sharp gas rules.
+1:40:50
+Andrew Ippolito: She didn't really have a quiet exactly right. Andrew Ippolito: there's a bond here she was missing, but she was almost spot on with a lot of this and as the story goes if she had another two weeks or so of time to work on this she might have independently developed the double double stranded helix but she did.
+1:41:14
+Andrew Ippolito: And here's another interesting part of the story you've heard this guy's name before Linus Pauling.
+1:41:20
+Andrew Ippolito: he's the one that helped with hemoglobin and sickle cell disease he's also the one that came up with the Alpha helix so he was heavy duty into 3D protein structure.
+1:41:32
+Andrew Ippolito: Linus Pauling was the first excuse me, the first famous American scientist in this in this field, so he was an American and, of course, the Brits and the Americans have always had their fun little.
+1:41:45
+Andrew Ippolito: rivalry so when when Britain learned that Linus Pauling was working on the crystal structure of DNA that's when they very tried to quickly scramble and scoop the Americans.
+1:41:59
+Andrew Ippolito: And so they got Watson and Crick on board here so Watson and Crick are old British dude young American post, so they were kind of an article.
+1:42:10
+Andrew Ippolito: And they were tasked with trying to beat Linus Pauling to the punch. Andrew Ippolito: They worked in the same building as Gavin wilkins and Rosalind Franklin who are working on extra Chris crystallography okay so here's how it works.
+1:42:23
+Andrew Ippolito: When you're dealing with structural biology when you're dealing with structural anything structural science there's two world philosophies Okay, one is to model.
+1:42:38
+Andrew Ippolito: The other is to experiment and really this comes down fundamentally there's two kinds of scientists and all of you are either one or the other, so.
+1:42:46
+Andrew Ippolito: Everybody has to do a little of both but everybody identify strongly with one of these you're either a theorist and you like coming up with ideas and putting things together, or you like doing the work and getting your hands dirty and getting you know in there.
+1:43:02
+Andrew Ippolito: So Watson and Crick were modelers they were theorists they wanted to try to figure out how the DNA double helix work by just kind of playing with the puzzle pieces.
+1:43:12
+Andrew Ippolito: Rosalind Franklin and wilkins were not interested in make believe and they want to actually look at it.
+1:43:21
+Andrew Ippolito: In fact rosalyn scoffed at everybody that was part of her cantankerous personality, she she looked down on Watson and Crick modelers were crap.
+1:43:30
+Andrew Ippolito: They weren't getting the hardcore work done, they were just playing with legos like they were playing with people Michelle are you know why are models.
+1:43:38
+Andrew Ippolito: Which is what they were doing that's, that is true, they were basically kind of winging it where she was doing some hardcore serious work so it's kind of like the difference between the developers behind like.
+1:43:50
+Andrew Ippolito: Like bitcoin and those coins I don't know if you guys are familiar with modern cryptocurrency but those corners a joke it started out as an ironic joke and.
+1:43:59
+Andrew Ippolito: It, to the point where like today, I just an interview, the other day with the guy who founded a theory is like those coin is a is a mockery of our hard work over the last few decades.
+1:44:09
+Andrew Ippolito: yeah yes so so that's that's the idea. Andrew Ippolito: Now Linus Pauling had a son his son is in is in Europe for a meeting he meets with Watson and Crick and he shows Watson and Crick an early version of his dad's work and that's this picture you're seeing in front of you.
+1:44:29
+Andrew Ippolito: This is the DNA triple helix. Andrew Ippolito: With the basis facing out.
+1:44:36
+Andrew Ippolito: Okay, was an incorrect look at this and they're like oh thanks for sharing this and they look at each other and they're like okay we're good this this guy's barking up the wrong tree.
+1:44:47
+Andrew Ippolito: Right, and so this this relax them a little bit. Andrew Ippolito: But here's the problem you see how Linus Pauling has his bases on the outside, you see other facing outward so did Watson and Crick.
+1:44:59
+Andrew Ippolito: here's why. Andrew Ippolito: You think about it you're you're trying to put together this molecule what's his job its job is to store information right, which means the cell has to read it.
+1:45:10
+Andrew Ippolito: And if you're reading these these in season season geez it makes absolute perfect sense that they're on the outside of the molecule because you got to read them, it makes no sense to point them in.
+1:45:21
+Andrew Ippolito: Right, so this is yet another example of human arrogance or hubris or like wait it just makes sense that you're actually Actually, this is an example of using tenacity, instead of reason and logic.
+1:45:33
+Andrew Ippolito: Okay they're they're like it just makes sense, without evidence, they had no evidence of the basis facing in around.
+1:45:39
+Andrew Ippolito: Okay, and here's the thing they couldn't put it together they were there, they were so close they had a lot of it, work together, but they couldn't figure out how it worked and it turns out.
+1:45:49
+Andrew Ippolito: That Rosalind Franklin with her latest X Ray gun, this is actually an advertisement from from the museum again.
+1:45:56
+Andrew Ippolito: You can read this if you want i'm not going to read out loud to you, but basically this, this was an advertisement from a scientific periodical featuring the latest and greatest X Ray gun.
+1:46:05
+Andrew Ippolito: produced by North American Philips company in New York.
+1:46:11
+Andrew Ippolito: And then, this Oh, this is, I had to show you this because this you're going to appreciate this this is from her notebook directly.
+1:46:19
+Andrew Ippolito: So this is actually literally her handwriting in her notebook Okay, and when you should when you're scientist and you're looking at your data you're keeping notes to yourself you're always writing to yourself, and so this is what she wrote if you see oops if you see here.
+1:46:34
+Andrew Ippolito: In a little bit she writes here the next layer sits on top, giving maximum bandra walls energy three chain arrangement involves twist therefore helix twist therefore he'll she was the skull and crossbones there because she hated the idea.
+1:46:50
+Andrew Ippolito: that's why she wrote that like this is horrible this is bullshit she wrote she actually took time to draw on cross that's right there's her Tetra nucleotide model 14 arrangement right so she's still on this idea of what levine said originally.
+1:47:07
+Andrew Ippolito: Okay, so anyway. Andrew Ippolito: She hated it so much. Andrew Ippolito: that she wrote this insult note.
+1:47:15
+Andrew Ippolito: This is like this is a scientist play jokes on each other alright so just as a quick bit of background, there was DNA and DNA be.
+1:47:22
+Andrew Ippolito: Okay, so there were two they were able to when they made the crystals there were two different fibers that came out of that and they call the main be rosalyn was handed a and wilkins was handed be.
+1:47:31
+Andrew Ippolito: Okay, and so this is what she writes, it is with great regret that we have to announce the death on Friday 18th July 1952 of the DNA helix Kristalina that would be DNA That was when she was working.
+1:47:44
+Andrew Ippolito: Death followed a protracted illness, with an intensive course of best allies injections that's a play on the Matthews, a bestseller curve, is how you do the fancy math.
+1:47:55
+Andrew Ippolito: best allies injections had failed her leave a memorial service will be held next Monday or Tuesday, it is hope to the doctor mhf wilkens the goddess she worked with will speak in memory of the late helix which he was convinced it was she slides this under his office door on a Friday.
+1:48:11
+Andrew Ippolito: This is how scientists give each other the middle finger. Andrew Ippolito: Right so she was infuriating to work for it, she was arrogance you believed in her heart of hearts it wasn't a double helix and that's part of the reason why they they.
+1:48:25
+Andrew Ippolito: parted ways, she was just really hard to work with. Andrew Ippolito: Now, to be fair, they probably treated her like crap.
+1:48:33
+Andrew Ippolito: And, probably because she was a woman inside right, so we really can't hold any of this against her in any way, but it's really good you know.
+1:48:42
+Andrew Ippolito: historical context here, if you want, you can click on this link here and go to her notebook you can cruise through it yourself.
+1:48:49
+Andrew Ippolito: Okay. Andrew Ippolito: that's the famous pictures photo 51 has nothing you area 51 although i'm sure, a lot of people like to connect those two stuff.
+1:48:58
+Andrew Ippolito: And there, she is looking in a microscope for a picture, this is a very strange picture, how they published it really it's look at this week, but that's that's published it.
+1:49:09
+Andrew Ippolito: So now here so here it is we're November 1951. Andrew Ippolito: Okay, so far, the publication of Watson and Crick happens, the famous one happens the next spring.
+1:49:21
+Andrew Ippolito: Okay, so here she is at king's college in London and she has her lecture notes, and this is what she writes the results suggest a helical structure.
+1:49:32
+Andrew Ippolito: which must be very closely packed containing two, three or four coaxial nucleic acid chains per helical unit and having phosphate groups near the outside.
+1:49:47
+Andrew Ippolito: This is her doing her own work by yourself that nobody bother.
+1:49:53
+Andrew Ippolito: Okay, we all know, people who are a little stubborn and do things their way and it turns out that they're probably like that, because they're always probably the right way, not all the time.
+1:50:03
+Andrew Ippolito: But in this case it totally was nice this picture here. Andrew Ippolito: The reason why she knows that the phosphates are on the outside, is because of these really dark areas here, I can interpret this i'm not going to pretend to but basically what you're seeing here is a side view of the DNA like this.
+1:50:18
+Andrew Ippolito: Right So you see these lines here, those are the steps on the ladder.
+1:50:23
+Okay. Andrew Ippolito: that's the idea, so this is what helps us understand that the thickness of the double helix is two nanometers and the phosphates are on the outside.
+1:50:33
+Andrew Ippolito: Okay now so here's how the story goes Watson and Crick or inches away from this she leaves wilkins has their stuff.
+1:50:41
+Andrew Ippolito: and correct the young American comes over across the campus and has a chat with wilkins afterwards, if he wants to look at your stuff.
+1:50:47
+Andrew Ippolito: And he shows him wilkins the remaining guy that's working on a DNA be shows crikey this picture and Crick looks at it, and he goes oh my God the phosphates around the outside, he runs it back across campus immediately and him and watch him basically within the next few days.
+1:51:06
+Andrew Ippolito: put together this now famous model of the double helix all they had to do was rotate them in words and then it was like puzzle pieces the 80s and 90s, and the season that geez everything just at the atomic level made perfect sense.
+1:51:21
+Andrew Ippolito: Okay, and the work of wilkins and Franklin confirmed this with their X Ray data, so we had two independent groups.
+1:51:30
+Andrew Ippolito: intentionally one working on the modeling and one working on the experimental verification of the model and they all fit together beautifully.
+1:51:39
+Andrew Ippolito: And so they agreed when they when they push the publication out. Andrew Ippolito: That Washington crick's paper was going to go first, probably because it looked pretty and it made more sense for people for the reader to see the double helix.
+1:51:50
+Andrew Ippolito: And then, right after them on the next page, it was going to be rosalyn and wilkins his paper on the X Ray data to support all that.
+1:51:57
+Andrew Ippolito: Okay, the original story goes like this Watson and Crick saw that so wilkin stole the the picture showed Watson and Crick in appropriately Watson and Crick then published it and didn't even mention her.
+1:52:10
+Andrew Ippolito: Right, and that was what I grew up with, so I learned all this on my own and to the point where we have to set the record straight everything's you know shades of grey.
+1:52:19
+Andrew Ippolito: Yes, they probably miss treated her but, to be fair, her paper was right next to his or there's Okay, and then she died a few years later, so when they all won the Nobel Prize she wasn't part of that because she wasn't there anymore.
+1:52:32
+Andrew Ippolito: Okay, so there's there's Nobel Prize committees pictures there there's Francis Crick James Watson and Maurice wilkins.
+1:52:42
+Andrew Ippolito: And they won the Nobel Prize couple years later, in 1962 they didn't wait that long for them to get the Nobel Prize right so usually.
+1:52:51
+Andrew Ippolito: The time of publication, to the time of the award that could spend decades, and the reason is because we don't recognize how important it was until years later, this was like we knew how important this was.
+1:53:04
+Andrew Ippolito: Okay, so Chris died in 2004. Andrew Ippolito: And he was a quiet guy he actually moved by thinking with the California and i'm and Watson I don't actually I don't know if he's still alive any Watson pathway I think watson's dead now to.
+1:53:24
+Andrew Ippolito: Lots died yeah he I.
+1:53:36
+Andrew Ippolito: Know he's he's still alive, but here's the thing, and so this, this is what happens if you get around long enough, he turned out, he turns out to be a horribly racist individual who's okay with eugenics.
+1:53:47
+Andrew Ippolito: And he's also very sexist and he was the director of cold spring national harbor on long island until he said some things about black people.
+1:53:58
+Andrew Ippolito: And how genetic supports the idea that they're less intelligent, it was it was like so horrible and embarrassing and point where they basically fired them and so now he lives somewhere I think in in like Rhode island or something so.
+1:54:13
+Andrew Ippolito: yeah it's kind of like it's like a bill cosby story.
+1:54:18
+Andrew Ippolito: You grow with bill cosby and then it turns out he's a monster you grow with learning about the famous Watson and Crick and it turns out Watson not such a great guy after all so.
+1:54:28
+So there you go. Andrew Ippolito: So now, I can teach you about the actual DNA double helix in a way that we were going to add from Chapter five here.
+1:54:37
+Andrew Ippolito: So it's a double strand helix it's got the sugar face phosphate backbone on the outside it's thickness it's thicknesses two nanometers.
+1:54:46
+Andrew Ippolito: And that spacing between them basis is point three four nanometers such that exactly one twist gives us exactly 10 base pairs, which is very satisfying number, because we have 10 fingers no relation.
+1:55:01
+Andrew Ippolito: The strands are anti parallel You might remember that so revisit what you learned in the past and now go into the details here we have a five to three or three to five anti parallel right.
+1:55:13
+Andrew Ippolito: And when they see the horizontal pairing is restricted they're talking about this right if there's a T on one strand there's got to be an A, on the other, there's a G on one strand there's gotta be a G, on the other, but vertically.
+1:55:28
+Andrew Ippolito: Any order. Andrew Ippolito: Can you see now how different this is from the Tetra nucleotide model that fetus initially put forth people have been reset it was boring, and I was always at cmg right and that instigated a decades long halt on learning about it because it seemed emotionally boring.
+1:55:51
+Andrew Ippolito: So imagine he didn't publish that and somebody said hey there's something here, we could be 20 years ahead of the game right now.
+1:55:58
+Andrew Ippolito: crispr could have been something we came up with in the 1970s. Andrew Ippolito: Anyway, that's how science works, you can see here, why you can't put two periods or two per meeting per meetings together right so basically the the uniform thickness of the double helix is due to the fact.
+1:56:16
+Andrew Ippolito: that you have a big one, and a little a little one in a big one, if you put two big ones together, you get what's called a bulky agent so like if this is two a's.
+1:56:28
+Andrew Ippolito: Right, that was a so that would be a form of DNA damage that would be that would be a mistake that happens during replication or whatever, and so we would have to fix that.
+1:56:36
+Andrew Ippolito: And if you could say to tease together, you would get something that looks like this, like a pinch.
+1:56:46
+Andrew Ippolito: Okay, so the idea is is we have these repair enzymes that ticker tape along the DNA looking for bumps or potholes and they find them they They fix them but alexa.
+1:56:58
+Alexa Deprisco: So with this like incorrect pairing the basis for opportunities or would it just be like a genetic mutation.
+1:57:04
+Andrew Ippolito: It would. Andrew Ippolito: Actually, it would be neither be called a lesion when it first happens and then it gets fixed it's nothing if it gets permanently fixed into the wrong as like if this a gets fixed incorrectly and that becomes gc.
+1:57:19
+Andrew Ippolito: that's that that would be a mutation. Andrew Ippolito: So mutations or heritable changes so first is damaged or mistake second is attempt to fix it.
+1:57:31
+Andrew Ippolito: So it's called a lesion at that point if it's fixed it's nothing if it stays broken that we call that a mutation.
+1:57:40
+Okay. Andrew Ippolito: And now we can introduce our guests, so the reason why shark gift didn't win the Nobel Prize, along with the others was because his work wasn't foundational enough to support it and the Nobel Committee his eyes.
+1:57:58
+Andrew Ippolito: shark gap disagreed shark gaff got really angry and she wrote letters to the world scientists complaining about the Nobel Prize Committee snub them.
+1:58:07
+Andrew Ippolito: to the point where he quit science and he became a grumpy old man. Andrew Ippolito: And to this day he's known as being the guy back in the late 70s, who was warning everybody about biotechnology and how we're not supposed to be messing with DNA that we're not gods and that we're going to lead to nothing but we're going to destroy humanity with this technology.
+1:58:28
+Andrew Ippolito: hold on a second what's up. Andrew Ippolito: Like yeah like yeah actually you know what i'll be done in a few minutes i'll make you some food afterwards.
+1:58:37
+Andrew Ippolito: Like can you cook some pizza because there's already some there well for now have a piece of fruit okay.
+1:58:46
+Andrew Ippolito: All right, so so here's all I do actually it's we got three minutes left really i'm i'm going to skip through here to show you.
+1:58:56
+Andrew Ippolito: And now we already did most of this, but what i'm gonna do for you.
+1:59:03
+Andrew Ippolito: See here's get replica Okay, the rest of this lectures on YouTube but you guys aren't gonna watch it because i've tried to do this, three different semester three different times, and if you tell students go watch the video they're like yeah no.
+1:59:17
+Andrew Ippolito: They but but we're not going to cover it in class that's fine, then they just get all the questions wrong on the test that that's what's happened.
+1:59:23
+Andrew Ippolito: Three times now so i'm not gonna lie, you know nothing personal, but most of you aren't going to watch the video you're gonna if I asked you to.
+1:59:29
+Andrew Ippolito: Maybe if I say there's going to be a quiz on the next material, but then you're just not going to do on the quiz for there's something about watching the recording that people just would rather do the live stuff so what i'm going to do is i'm just going to pick this up next time.
+1:59:41
+And we'll be fine here so whoops I just discarded all that alright. Andrew Ippolito: Alright, so we're just gonna pick up exhibit G 30 hours I just like your chat message about the answers okay alright so we'll pick up where we left off on Wednesday and no no quiz.
+1:59:57
+Victoria Bloemker: we're just going to burn through this. Andrew Ippolito: And then maybe i'll give you a practice quiz or something we have time. Andrew Ippolito: And the way the.
+2:00:03
+Andrew Ippolito: way the schedule is. Victoria Bloemker: me see here the way the schedule is.
+2:00:08
+Andrew Ippolito: I don't mean to interrupt but i'm going to just keep my flow in here week.
+2:00:14
+Andrew Ippolito: yeah gene expression I got two days of gene expression that's fine but we're also going to go over the test, so all right go ahead, oh, let me, let me stop the recording here.

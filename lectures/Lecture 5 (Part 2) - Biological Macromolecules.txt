@@ -1,0 +1,1002 @@
+0:01
+Andrew Ippolito: Alright, so we're picking up this is lecture for be we're in the middle of it we finished the sugars The carbohydrates, we finished the lipids and we got a little bit of a storm proteins so to review proteins proteins are.
+0:15
+Andrew Ippolito: derived from the root of protest meaning they're just when they were first discovered scientists realized that they were the most abundant molecule and cells they're also the most diverse okay so as much as half the cell itself is made for protein.
+0:31
+Andrew Ippolito: We have humans have well over 7000 different genes that are expressed in every single tissue of our body right so there's a whole bunch of thing you think of these as housekeeping jeans.
+0:47
+Andrew Ippolito: Right, overall, we have almost 20,000 protein coding genes and the number of proteins themselves expressed in human tissue.
+0:55
+Andrew Ippolito: range from about 20,000 which would be even with the number of genes, we have all the way up to a million or higher and we'll understand later in the Semester when we do gene expression, how you can get.
+1:08
+Andrew Ippolito: Multiple proteins from a single gene. Andrew Ippolito: Alright here's just a laundry list of the kinds of examples of functions and proteins do they basically do the work of the cell and everything's there.
+1:19
+Andrew Ippolito: Alright, enzymes can i'll just just very give you a quick spiel on each of these enzymes are protein catalysts right they speed up chemical reactions are being used up in the process, and they are the driving force behind your entire metabolism.
+1:32
+Andrew Ippolito: When we talk about support or structural rules we're talking about things like act in 2 billion, the microbial network, the act and filament network, the microfilm and network right, so this helps keep cells together.
+1:46
+Andrew Ippolito: it's also important for things like your hair and your nails alright so where arthropods have cotton and their exoskeleton, which is what we learned as a polly.
+1:56
+Andrew Ippolito: polly saccharine animals, like us, we have protein on our we have protein Armor basically keratin will learn about that later do movement contraction that's the way your muscles work is all through muscles all through proteins rather you have them actin and myosin fibers.
+2:17
+Andrew Ippolito: defensive you got antibodies that's that's the key example there for Defense will talk about the immune system, a very little bit the Semester you'll get more about immunity in.
+2:28
+Andrew Ippolito: Microbiology and I think anatomy physiology we'll talk about that to.
+2:34
+Andrew Ippolito: an MP to. Andrew Ippolito: Communication we're talking about hormones there so there's protein hormones and steroids hormones will talk about receptors at the beginning of the next unit.
+2:46
+Andrew Ippolito: Transport we're talking about carrier proteins and transport proteins a sodium potassium pump and for storage we're talking about.
+2:56
+Andrew Ippolito: Stories be things like albumin in eggs, you have for food save it for later alright so.
+3:05
+Andrew Ippolito: We learned about the amino acid a lot we did talk at length about this i'm going to gloss over here here the 20 you don't have to memorize their names or their structures.
+3:15
+Andrew Ippolito: But what I want you to get a feel for is the fact that there's different families of them right all the chemistry that we've learned about the Semester, for example.
+3:25
+Andrew Ippolito: alkalinity or acidity being hydrophobic Roger Phillips or polar right you'll see here that there's families of acidic amino acids and basic amino acids and polar amino acids and nonpolar amino acids right Basically, this is like.
+3:40
+Andrew Ippolito: Chemistry toolkit right we don't need any more than 20 to represent the the diverse the chemistry diversity, we need to have life okay.
+3:52
+Andrew Ippolito: Again, you don't have to memorize this stuff This is just in particularly important amino acids right and the ones that I talked about a lot, are these three this year and three an entire scene, those are the ones that except philosophy.
+4:03
+Andrew Ippolito: Which as we'll see later in order to turn on approaching making do stuff like an enzyme to turn on the enzyme sometimes you have the phosphor ELISE them will see that, when in communication with gene expression to okay.
+4:21
+And then. Andrew Ippolito: This this blows everybody's mind when they first learned it and that idea that everything on earth that lives, the bacteria, they are cans and then all the Multi select the plants, the animals in the fungus the medicine medicine medicine.
+4:34
+Andrew Ippolito: start to get to know that word but that's that's the animal kingdom. Andrew Ippolito: that's just the actual technical term for the animal kingdom, as you guys being budding biologists that you are, you should know that medicine oh and means animal.
+4:45
+Andrew Ippolito: So all of these things use exactly the same 20 amino acids mind blown right, I mean there's not a separate set of 20 for the bacteria, or even two or three different they're literally, all the same.
+4:59
+Andrew Ippolito: All right, then we learned about how to build peptide bonds, we saw the carb oxalic group of one. Andrew Ippolito: Of the amino acids interacting with the peptide with the amino group of the next one right, so if you're looking at this figure here.
+5:12
+Andrew Ippolito: This is one amino acid, this is the other amino acid and. Andrew Ippolito: Remember the dehydration reaction and so here it is we're going to take a nation and all each one, this is one monitor this is one monitor we're going to rip an hmo each off we're going to get water.
+5:27
+Andrew Ippolito: Right we're going to make water and then we're going to synthesize the bond between the things that lost the water and that right here is the peptide bond, this is a polar bond slightly negative slightly positive and that's going to lead to hydrogen bonding throughout the chain.
+5:45
+Andrew Ippolito: Okay, so there it is, and then we call this thing here a di peptide right there's di peptides there's try peptides there's Tetra peptides.
+5:54
+Andrew Ippolito: all the way up to what we say all ago peptide and all ago peptide just means up to about 12 or so and then pass that we have poly peptide and that's where we start talking now about protein structure Okay, so this is how proteins work.
+6:13
+Andrew Ippolito: Every protein starts as at least one chain of amino acids and we'll call this chain here, this is a poly peptide.
+6:22
+Andrew Ippolito: Alright it's important to know that at the very end here if we looked at this amino acid it we zoomed all the way into it, we would see that, on this side of it would be a free and available amino group.
+6:34
+Andrew Ippolito: Right and then, on the other side, this would be a free and available carb oxalic group, and so we call this side the N terminus.
+6:43
+Andrew Ippolito: And we call this side over here the C terminus.
+6:48
+Andrew Ippolito: All right, and you see that order the end on the left and the see on the right that's the Convention we use when we're talking about proteins that's just we had to pick one how to pick a side right, and so we picked the side, where, when we build it it goes this way.
+7:03
+Andrew Ippolito: Okay, so the ends on the left in the season right. Andrew Ippolito: Okay, so.
+7:10
+Andrew Ippolito: If you notice that each one of these has a name those are the you know various 20 amino acids, that you don't have to memorize revealing so you should also know this, that all the amino acids have their full name like searing.
+7:23
+Andrew Ippolito: They have a three letter code like Sir, and they have a one letter abbreviation and this one letter abbreviation does not always correlate to their actual name, for example, a trip to fan boy trip.
+7:39
+Andrew Ippolito: trip to fan, which is T our P is w.
+7:47
+Andrew Ippolito: And so, when you get into biochemical to memorize all this stuff your Professor will probably tell you just say this in the same way that elmer flood would say it you guys know who elmer flood was from bugs bunny Okay, the old bugs bunny cartoons.
+8:03
+Andrew Ippolito: Right wabbits Twitter fan w.
+8:09
+Andrew Ippolito: Maybe that's why they picked it who knows. Jordan Russell: When that's now. Andrew Ippolito: that's probably not even sure we could look it up, but that's.
+8:16
+Andrew Ippolito: Anyway, so not all of them are one to one and i'm getting into a really weird tangent right now stop doing that, so what you're seeing here this chain of amino acids.
+8:25
+Andrew Ippolito: We call this the primary sequence right, this is the protein sequence, we talk about sequencing jeans and sequencing proteins that's the sequence for the protein right, so we call this the primary sequence.
+8:38
+Andrew Ippolito: Alright, you you're both calls it structure, so you could say primary structure, I hate that phrase because there's no structure here is just a sequence but.
+8:50
+Andrew Ippolito: There is secondary structure and tertiary structure so just to keep it consistent, we can see the primary structure the secondary structure, etc.
+8:56
+Angela Harbeck: it's not a structure. Andrew Ippolito: So the primary structure is a. Andrew Ippolito: literal sequence of amino acids, we can read it from left to right.
+9:06
+Andrew Ippolito: Okay, so it would be like in this one be like be Ay Ay s l s P l a it's such like a it's like a it's like a big run on English word.
+9:20
+Andrew Ippolito: The average human protein has about 300 amino acids, to give you a context of how many there are.
+9:28
+Okay. Andrew Ippolito: Alright, so here's what we do now we're gonna see this this it looks like a you know Pearl necklace.
+9:40
+All these. Andrew Ippolito: Most important toy of the Semester is the one that teaches.
+9:46
+Andrew Ippolito: right here okay I showed you did I show you guys this last week yeah I showed you so here we're basically we're gonna fold it up into 3D.
+9:54
+Andrew Ippolito: Right so i'm going to show you how we get here, so we go from we call this the primary we call this the tertiary we're going to jump the secondary right now Okay, so the overall shape of that one folded up poly peptide that folded up shape we call it the tertiary tertiary.
+10:14
+Okay. Andrew Ippolito: And again that's a single poly peptide.
+10:19
+Andrew Ippolito: Somewhere in there let's look at this carefully okay see right here so it's like the open ended arrow that's probably the C terminus and then.
+10:34
+Andrew Ippolito: There there's the other one right so there's an internist and a C terminus Those are just thinking that was just folded up you know metal.
+10:44
+folded up metal. Andrew Ippolito: coils like Oh, take a pipe cleaner and bend it around like that they're still going to be to end somewhere all right.
+10:55
+Andrew Ippolito: Okay that's that's that's the tertiary so. Andrew Ippolito: Now let's talk about with the word proteins.
+11:03
+Andrew Ippolito: A protein is either one or more than one folded up poly peptides.
+11:10
+Andrew Ippolito: That have a function right and why see more than one we can be talking about to poly peptides interacting with each other right so here.
+11:17
+Andrew Ippolito: Look at my toys for a second here is one folded up poly peptide here's another folded up holly peptide and they stick together, and now this thing this thing here now has some job so we'll call this thing right here, oh protein.
+11:32
+Andrew Ippolito: Okay, so a single poly peptide folded up, we would call this a moto America protein, you can also call this a tertiary protein, because it has a 3D it has it only goes up to level three of the.
+11:48
+Andrew Ippolito: The different echelons of folding right if it is a protein that has multiple pieces to it right so watch the watch this here's a monolithic protein here's another.
+11:58
+Andrew Ippolito: it's exactly the same let's say, these are exactly the same, and they interact homo because they're the same dimer so you call this a hormone dynamic protein.
+12:09
+Andrew Ippolito: You can also refer to this and all the others up here as quadrant dairy proteins okay so let's introduce that here quad ternary, and this is the last layer of structure.
+12:20
+coronary. Andrew Ippolito: that's when you have multiple.
+12:26
+Andrew Ippolito: poly peptides that are folded up right and so at this at this point, if you have a question or a protein like hemoglobin.
+12:33
+Andrew Ippolito: You would call these The sub units. Andrew Ippolito: Because they don't have their own function by themselves they're a piece to something bigger.
+12:41
+Andrew Ippolito: Okay, so context is everything here. Andrew Ippolito: Alright, so you would roughly divided proteins into tertiary proteins in quadrant a.
+12:54
+Andrew Ippolito: quadrant a proteins can be two things, or more than two things, and so you can call them things like all the way up to multi metric.
+13:05
+Andrew Ippolito: Right so try merrick quad turmeric or Tetra merrick depending on who's talking Liga merrick.
+13:12
+Andrew Ippolito: And then hormone hetero. Andrew Ippolito: homo if they're all the same pieces if they're all the same peptide i'm sorry poly peptide hetero they're made out of multiple ones, thank you so let's do hemoglobin as a simple example hemoglobin consists of there's two genes that make to poly peptides So these are the genes.
+13:34
+Andrew Ippolito: you're gonna make poly peptides and there's alpha. Andrew Ippolito: globe in.
+13:41
+Andrew Ippolito: And beta globe. Andrew Ippolito: globe and we used to do not want when we start studying blood we've done all these different proteins and blood we call them Globe things.
+13:53
+Andrew Ippolito: Are globulin okay so alpha globulin folds up into some fancy 3D structure and so does the beta Okay, and then what happens is to have these.
+14:06
+Andrew Ippolito: and two of these come together and form this hetero Tetra American complex call that we call hemoglobin.
+14:16
+Andrew Ippolito: Okay, so we don't call that that's not a plural thing that's one thing that that is one molecule of hemoglobin or one protein, of the one molecule so.
+14:33
+Andrew Ippolito: that's one thing, and so we call that our quality protein okay.
+14:38
+Andrew Ippolito: That makes sense. Right.
+14:47
+Andrew Ippolito: Alright, so this tertiary structures your raw 3D shape now it's talking about secondary structure, this is the bond, I think a lot of students struggle with but it's really it's really simple.
+14:57
+Andrew Ippolito: If you take that overall 3D shape and you zoom into some regions of it, where there's something interesting there some structural motif that's the idea.
+15:07
+Andrew Ippolito: We will see repeating motifs over and over, just like in a really complicated piece of music there's different motifs that pop up that sound familiar little chunks of music that's get scattered throughout.
+15:21
+Andrew Ippolito: Right or if you ever watched a big epic movie that has a really good. Andrew Ippolito: Music score to it like Star Wars, you know, whenever Luke skywalker comes up on the screen he's got his own theme song right so you'd say that's looks motif and lay his motif right so there's two basic motifs that all all proteins have most common one is called the Alpha helix.
+15:43
+Andrew Ippolito: This is essentially one of the key building blocks to to protein, so the point where, when you doodle proteins, you can do this.
+15:51
+Andrew Ippolito: You can just put a bunch of Ulysses together and there's a protein Okay, and then you have something called the beta sheet which here, I have this little actually made one I have a pamphlet, for you know, asking the beta pleaded sheet literally looks like this.
+16:05
+Andrew Ippolito: In 3D and actually I have it right here, you can see here, so these oh wow look at that I just that's so cool just confused zoom.
+16:14
+Andrew Ippolito: Okay, so you can see very clearly, there is the that dark line I drew you can see, the little lines in between it those are hydrogen bonds between the poly peptide chain.
+16:23
+Andrew Ippolito: Okay, so we're going to take this you and you can even if we started up here let's say this is the end of this, the N terminus you can imagine me rattling off the different amino acids that make this up.
+16:34
+Andrew Ippolito: Okay, and then because of whatever their nature is there's hydrogen bonds between them and then they do this watch this, then they do this they form a sheet and we call this thing of being depleted.
+16:47
+Okay. Andrew Ippolito: And those are the two I wanted to know. Andrew Ippolito: There are other more exotic motifs like sink fingers and lucene zippers we find those and proteins go transcription factors, but you don't have to know that.
+17:03
+Andrew Ippolito: Alright, so you can see here so here's the leucine zip or the lucien zipper is found in proteins called transcription factors that bind to DNA directly and you can see that these proteins buying literally bind to DNA.
+17:16
+In a sequence specific matter. Andrew Ippolito: And then the zinc finger, you can see, actually use the zinc guy on there.
+17:24
+Andrew Ippolito: But again, you don't you don't need to fill in all that. Andrew Ippolito: there's a finger itself consists of an alpha helix in the beta sheet, you can so everything can be pretty much divided the Alpha helix is everywhere, I mean you can see, even here in the lucene zipper that is an alpha helix right there.
+17:40
+Andrew Ippolito: Okay, so these are just these are the sub structures that when when you put them all together, you build up into the tertiary okay there's a big there's depleted seat again.
+17:51
+alright. Andrew Ippolito: So your primary structure your amino acid sequence and and unraveled poly peptide all the way up to the question or a structure where you have to have more folded up polly peptides and tracking.
+18:06
+Andrew Ippolito: And there's hemoglobin you can see, the two alpha subunits and the two beta so.
+18:13
+Andrew Ippolito: We call that heterosexual. Andrew Ippolito: don't worry about what he means the team is a carbon.
+18:20
+Andrew Ippolito: structure it looks kind of like a steroids, and not it's got a bunch of cleaner carbon rings in it and that's where oxygen bonds and that's where iron is and we're not going to go into that level of detail here.
+18:35
+Alexa Deprisco: Excuse me. yeah. Alexa Deprisco: So hetero Tetra America is referring to, like four different components, because it's like head around this room petrol.
+18:46
+Andrew Ippolito: Right, so this is telling hetero touch them or tells us that this molecule has different components hetero meaning they're different so you got alphas and betas.
+18:56
+Andrew Ippolito: And Tetra merrick meaning, we got four, so the word itself this doesn't tell us that there's two alphas and betas this just tells us there's multiple things and they're different so there could be three alphas and one beta.
+19:06
+Andrew Ippolito: You know it's not it's not usually how things work but there's so this doesn't tell you everything it's still it's just more specific than saying there's a protein.
+19:16
+Alexa Deprisco: Okay, so like an umbrella term that like. Alexa Deprisco: yeah there's different things going on, but like not specifically yes.
+19:22
+Andrew Ippolito: Right it's you can say hetero touch America. Andrew Ippolito: So, like okay let's say the most gentle hey look that's a thing, what is that thing this thing is a protein okay well we'll kind of protein is it it's a header it's a.
+19:36
+Andrew Ippolito: it's a question or a protein what kind of cautionary protein is it all right fine it's a hetero Tetra americ protein okay well, what are the building blocks of well there's two alphas and betas and you can just keep going from there, so that's the level of detail, you get.
+19:53
+Julia Lakchin: So on the test or you will you like, give us like a picture of that and we have to say that that's hetero touch America.
+20:01
+Andrew Ippolito: Now I mean there's I don't do a lot of pictures on the tests, but i'm know you understand the nature of like if we talk about a.
+20:08
+Andrew Ippolito: situation where a. Julia Lakchin: Protein is. Andrew Ippolito: be somewhat like when I say had our controller.
+20:16
+Andrew Ippolito: Understand it's just got multiple pieces to it that are that and the key there is ready, if I pull if this is a quad ternary protein.
+20:26
+Andrew Ippolito: Okay, that what that means is if I pull these two things apart, they still have their intact tertiary structures right, these are still fully intact they're just not stuck together doing their job right so so there's quadrant Harry.
+20:42
+Andrew Ippolito: there's tertiary. Andrew Ippolito: And then, if we started pulling us apart will call DNA cheering we can tell if there's an alpha helix is a beta sheet, all the way to the point where we can.
+20:54
+Andrew Ippolito: pull this apart and say okay there's the end terminus there are, and we can start reading the individual amino acids are primary so primary, secondary.
+21:05
+Andrew Ippolito: tertiary coronary.
+21:12
+Andrew Ippolito: Does that help. Andrew Ippolito: Alright cool.
+21:17
+Andrew Ippolito: Okay, now I can finally teach you a little bit about the self hydro bridge or the self hydro. Andrew Ippolito: functional group that we only touched on lightly, when we first learned about it, remember, this was the quiet one nourish the sh here's the key if you have a amino acid chain like this and right here and right here are two amino acids, where they have that sulfur.
+21:39
+Andrew Ippolito: That can engage in a coal ballon bond, as you can see here is this little cartoony and so kind of acts like a staple or a.
+21:49
+Andrew Ippolito: A joint that holds the protein structure intact and makes it stronger.
+21:55
+Andrew Ippolito: Okay, so that's the function of US it's called sometimes assault bridge and sometimes called the dice sulfide bond and there's whole variations here, some of them are Ionic some other Mirko ballin but but suffers almost always engaged there and that's all you have to know.
+22:11
+Andrew Ippolito: Okay, it increases the strength of the 3D structure.
+22:17
+Andrew Ippolito: Okay, so they're here here's a little bit more of a detail there's the dice all five branch, you can see that there would be so like the Alpha carbon be right here.
+22:25
+Andrew Ippolito: Okay, and this would be the side chain and the Alpha carbon be here on the other side, and this will be a side chain, and so you can see here, that would be this function on group, and that would be this function grip and they're engaging in that coviello box.
+22:38
+Alexa Deprisco: Okay, is this what would help that form then it's back in their instructions.
+22:46
+Andrew Ippolito: yeah sure you can it can like maybe this will help support you know i'll be depleted sheet or something but, more importantly, this is the kind of stuff we find in hardy proteins that don't easily break.
+22:57
+Andrew Ippolito: So, for example, you guys have probably all heard that there are you know bacteria that live in the salt lake and you know salt lake utah or in the thermal in the hot springs I there's life in those places these very inhospitable places they're called extreme of files.
+23:15
+Andrew Ippolito: And so they have enzymes that can survive in these crazy environments, and this is one of the reasons why they can survive in their environments is there proteins are have these kinds of modifications within them help them with Stan the crazy environment.
+23:28
+Andrew Ippolito: Okay alright so here's here's right here's the summary of it all here's your approach, so this is a good slide for that if you want to come back to this one, there is your primary sequence right primary string of amino acids it folds up into secondary structures there's your secondary.
+23:46
+Andrew Ippolito: Okay overall one single poly peptide gives us tertiary three tertiary alright, and so this is an example here of the neat how you pronounce this transparency.
+24:00
+Andrew Ippolito: Transparent 10 is a protein we find in our neurons okay so that's the transparent and poly peptide because watch this we're going to take transparent to we're going to take four of them so transparent in the protein.
+24:15
+Andrew Ippolito: cautionary protein has four. Andrew Ippolito: Sub units that are all the same, and so this is a homework.
+24:24
+Andrew Ippolito: Okay, and so you can see here this overall fancy three dimensional shape that will be it's quadrant a structure, this would be it's tertiary it would have various secondary structures.
+24:39
+Which when you. Andrew Ippolito: spread it all apart called DNA creation, you can see.
+24:46
+Andrew Ippolito: The primary structure and that's that okay.
+24:51
+Andrew Ippolito: primary, secondary tertiary quarter.
+24:58
+Andrew Ippolito: All right, let's talk about proteins themselves now so so we got this thing all right, just like any other molecule it's doing this.
+25:05
+Andrew Ippolito: Right, so it was vibrating everything's always vibrating right and and so, because this has a structure to it relatively delicate structure, if we keep this up too much too fast eventually falls apart that's called D nature.
+25:22
+Andrew Ippolito: Okay, so proteins can do nature if you cook eggs, this morning you crack an egg over on the skillet and it starts out as a liquid and it's a little goofy.
+25:31
+Andrew Ippolito: Because that's albumen which is soluble in water, and as you heat it up the album and starts to fall apart.
+25:38
+Andrew Ippolito: Right and so here, if I have two albums and proteins watch so don't wait this down just look at me for a second.
+25:45
+Andrew Ippolito: I got to album and proteins this called globular proteins are seibel and water Okay, as opposed to a filament is protein which would have a.
+25:55
+Andrew Ippolito: structure that's like this Okay, so this would be a filament is protein like your hair like character right not soluble in water.
+26:03
+Andrew Ippolito: soluble in water Okay, so you have globular and filament is chickens to globular protein, like to add.
+26:09
+Andrew Ippolito: To our demons floating around the water okay these get hotter and hotter and hotter all right now let's think about this for a second let's consider this protein here, the reason why it's soluble in water right let's go back to our water chemistry.
+26:24
+Andrew Ippolito: The amino acids on the surface here what kind of.
+26:32
+Andrew Ippolito: Right what likes water there's water out here they're going to like each other, so this is polar or charged right.
+26:39
+Andrew Ippolito: Whereas watch this now, if I was to go inside the protein and look in here at these amino acids, these would be hydrophobic amino acids, these would be amino acids that have side chains that are just hydrocarbons like vaguely.
+26:55
+Andrew Ippolito: OK, so the overall shape of the structure is driven by the primary sequence right, and so, if this is a water soluble approach like.
+27:05
+Andrew Ippolito: The happy long as it's in the shape, as it gets hot what happens it gets so hot it's secondary structure start to fall apart.
+27:16
+Andrew Ippolito: kind of like how water melts right but, instead, what we're doing here is we're breaking all these hydrogen bonds and we're getting this kind of it doesn't look exactly like this it just falls apart.
+27:27
+Andrew Ippolito: And so, when they all fall apart in the same way, the fossil if it's you know, in the middle of the fossil it's been by layer all the hydrophobic tales are doing this to each other right because he.
+27:40
+Andrew Ippolito: Was. Andrew Ippolito: Rushing them together in the same way.
+27:45
+Angela Harbeck: proteins, as the D. Andrew Ippolito: Nature their hydrophobic areas will tend to aggregate and you get these big clumps of just messy protein that are solids they're called aggregates.
+27:58
+Andrew Ippolito: And that's what that word down there says aggregation okay so teenager ation leads to protein aggregates.
+28:07
+Andrew Ippolito: an egg white when you fry your egg that's solid that is D natured protein that has been aggregated.
+28:17
+Andrew Ippolito: Okay, and in general that kind of DNA Theresa when you heat it up like that you can't go backwards, so you would talk about that being irreversible teenagers.
+28:27
+Andrew Ippolito: Okay, other times so by took this let's say this is albumin again.
+28:33
+Andrew Ippolito: If I put this. Andrew Ippolito: into an environment where its pH is different than it's used to that might also teenagers right so changing the pH will do nature, but if I change the pH back that might read nature so there's a reversible and irreversible D major Asian.
+28:53
+water. Alexa Deprisco: Now aggregation is irreversible, Dimitri yeah and.
+29:00
+Andrew Ippolito: I have trouble saying that now because. Andrew Ippolito: It turns out a couple years back, scientists figured out how to reverse egg integration through a chemical process like why.
+29:11
+Andrew Ippolito: I don't know honestly I can imagine. Andrew Ippolito: That. Alexa Deprisco: That news conference where. Andrew Ippolito: somebody like, why did you do this and they're like.
+29:18
+We want to. Alexa Deprisco: cook an egg huh.
+29:24
+Andrew Ippolito: yeah yeah. Andrew Ippolito: Exactly you know and i'm sure that there was like enough camera there was whatever like chemistry was they use probably made it not fit for consumption, after that, but.
+29:35
+Andrew Ippolito: Do you think they could recreate the idea of taking a traditionally irreversible process and reversing it, they did it.
+29:41
+Andrew Ippolito: So that's why it's hard for I can't really say anymore that's irreversible like you're you're talking like in the old days, we could say that, but everything you know there's exceptions to everything and things more complicated than you think.
+29:53
+Andrew Ippolito: So we say in general that's that's the best way to do so, there it is here's a slide on that right, this is your normal tertiary tertiary normal.
+30:04
+Andrew Ippolito: Properly folded protein meets a properly folded protein that's how we would talk and then here's your teenager.
+30:12
+Okay. Andrew Ippolito: So this is why you can heat up a chemical reaction and get faster and faster and faster and then just stop eventually things fall apart.
+30:22
+Andrew Ippolito: Okay we'll talk all about enzymes in Chapter seven so i'm going to kind of gloss over this.
+30:27
+Andrew Ippolito: So don't worry too much about temperature and pH just yet just understand that understand the nature Asian at this point and that temperature mph are the two big variables that influenced that.
+30:38
+Andrew Ippolito: And that's beyond everything else is not to worry about alright a chaperone is a protein that helps other proteins fold some proteins are delicate little snowflakes and they fall apart easily at the drop of a hat and so they need help So these are called chaperones.
+31:01
+Okay that's that. Andrew Ippolito: enzymes are protein catalysts right make sure you understand what a catalyst, is go back to your chemistry a catalyst, is some substance that.
+31:13
+Andrew Ippolito: Increases the rate of a chemical reaction, but is not itself used up in the process, so it can be reused over and over and over again and proteins that are catalysts are called enzymes.
+31:25
+Andrew Ippolito: Okay, for context RNA can also be a catalyst okay and RNA catalyst is called arrive, is it.
+31:35
+Andrew Ippolito: Okay, so there's two kinds of catalysts in yourself there's enzymes and rub his arms and they make the world go round.
+31:45
+Andrew Ippolito: And the only reason you don't know this word, the only reason that's less familiar to you is because RNA biology is in biochemistry is still in it's very it's in its infancy.
+31:58
+Andrew Ippolito: we've only been paying attention to art, I still remember the moment it happened, I was sitting there in Grad school at some students seminar.
+32:06
+Andrew Ippolito: In like my second or third year and somebody throw up this slide show, and they were talking about all this crazy stuff about RNA.
+32:14
+Andrew Ippolito: And they're like so yeah it turns out that aren't a continual jeans and RNA can differentiate cells and like is what.
+32:21
+Andrew Ippolito: It was like Oh, we thought things were complicated with proteins there's a whole nother parallel universe of RNA.
+32:27
+Andrew Ippolito: And and we're still in the dark ages with it now say Dark Ages, where the Renaissance right now.
+32:33
+Andrew Ippolito: um so i'm going to try to introduce you guys more and more to this notion here so that's that's the beginning of it there rob his arms or.
+32:40
+Andrew Ippolito: A common thing there's things will drive a switches which your book doesn't even mention yet, but my Microbiology textbook does reba switches help regulate gene expression to will learn about those later.
+32:50
+Andrew Ippolito: So enzymes protein catalysts. Andrew Ippolito: rob his arms aren't in catalysts.
+32:59
+Andrew Ippolito: And we end when we name them we end them in a SEC, so if you see a word that has a SEC, at the end of it as an answer.
+33:13
+Andrew Ippolito: And I will teach you this later in thermodynamics i'm going to introduce this concept, called the energy of activation right now, very briefly, because this is what enzymes, do you see energy enzymes lower the energy of activation.
+33:28
+Andrew Ippolito: Okay, and here, let me give it to him playing with first so don't even look at the slide just look at me for a second here's a marker and here's a marker where the CAP rate is, I want to take this CAP off here we go so like this is a, and this is be.
+33:43
+Andrew Ippolito: All right, and so the reaction here is a plus B.
+33:48
+Andrew Ippolito: And this is see the product. Andrew Ippolito: Okay, so how did I get the product, what did I have to do, I had to take this CAP and I had to take this marker and I had to align them.
+34:01
+Andrew Ippolito: perfectly right, I mean I can't just let's put the CAD cam put the cap on the market right, you have to align them perfectly.
+34:08
+Andrew Ippolito: Right and then it's not just enough to align them, you have to push them together and not just a little bit right I can't just lightly push this together, I have to put some force into this.
+34:20
+Andrew Ippolito: Right now, I have my product So what did I have to do, I had to line them up in space and I had to push them together.
+34:29
+Andrew Ippolito: Right so two things we're gonna this has been a thread we've talked about a couple times now so i'm going to give it to you again remember entropy.
+34:38
+Andrew Ippolito: Chaos right so degrees of freedom, think of the degrees of freedom these things have with these are floating around in a solution right.
+34:46
+Andrew Ippolito: They can move in any direction wherever they want the chances that they're going to line up just perfectly.
+34:53
+Andrew Ippolito: At the same time that they're moving next to each other, the chances of that are very low right okay so there's two things, though there's there's their alignment.
+35:03
+Andrew Ippolito: The order their degrees of freedom so there's a measure there somewhere about entropy and there's how faster moving their temperature.
+35:13
+Andrew Ippolito: Okay. Andrew Ippolito: And so what an enzyme does is look at my hands my hands are enzyme right i'm going to line them up and push them together, so what enzymes do is they take away.
+35:25
+Andrew Ippolito: In the solution the randomness there, the amount of energy would take for them to line up perfectly and hit each other at just the right speed.
+35:35
+Andrew Ippolito: The enzyme does that work for it. Andrew Ippolito: So, if you look at the slide now.
+35:40
+Andrew Ippolito: Okay, if the starting components start here, so this is energy Okay, they start here on the energy continuum and they fall down to the products.
+35:53
+Andrew Ippolito: You see how they have to go up the hill first this raise in that energy is that's the energy it takes to get the reaction and go, this is why the sugar in your cupboard isn't just spontaneously blowing up right, you need to put energy into a system for it to go forward.
+36:11
+Andrew Ippolito: And so what the enzyme does is it reduces that amount of energy by lining things up just.
+36:18
+Andrew Ippolito: Okay, basically, it sets it up for a win. Andrew Ippolito: All right, and we'll talk more about this one we do enzymes later, so if that just kind of made a little sense to you great.
+36:28
+Andrew Ippolito: that's all I wanted to do just I want you to start thinking about this now, so that by the units incubating in your head a little bit so when we get to it later it won't be shocking and new.
+36:39
+Andrew Ippolito: Okay, so for this test right now for the pullback now for this lecture for this test for the series of assessments.
+36:46
+Andrew Ippolito: it's enough to understand that enzymes are protein catalysts, and the reason why they are catalysts is because they lower the energy of activation Okay, and you would rate E sub a that's the energy of activation.
+37:03
+Andrew Ippolito: And by activation we mean that's the threshold, upon which the reaction will then go to completion rapidly.
+37:11
+Andrew Ippolito: Okay here's the last analogy i'll use for that you have a soccer ball you're up on a hill you put the soccer ball down.
+37:18
+Andrew Ippolito: Okay, so you can imagine there's a soccer ball on a hill right here or a cliff right and then there's there's the floor block and you're up here that soccer ball so there's no wind, the soccer balls stable right.
+37:35
+Andrew Ippolito: Until you do what to it, you kick it a little bit just a little bit let's say you give it just a little nudge.
+37:41
+Andrew Ippolito: Okay, that little nudge that you give it that's the activation energy is now just going to fall down hill right it's going to go all the way down rapidly and do whatever it's going to do, and give up energy until it comes to rest Okay, so that little kick is your energy of activation.
+37:57
+Andrew Ippolito: raise your hand that made a little sense. Andrew Ippolito: Okay, good that's all I need you to be right now.
+38:04
+Andrew Ippolito: So enzymes let's give you some vocabulary. Andrew Ippolito: Now. Angela Harbeck: You have the substrate. Andrew Ippolito: The substrate is just the thing and acts upon right, so in this example here on the right, we have an enzyme called.
+38:14
+Andrew Ippolito: That could be laughed tastes like Oh, this is to crease and this example, so your sucrose glucose and galactose so you would see sucrose is the substrate sucrose bind to the enzyme in a little groove here that fits perfectly and we call that the active site.
+38:31
+Andrew Ippolito: So the substrate bucks the act of sex. Andrew Ippolito: Okay, you would write that mathematically like this enzyme plus substrate.
+38:40
+Andrew Ippolito: i'm going to make this a bi directional arrow because all chemical reactions are theoretically reversible we get this thing called the enzyme substrate.
+38:49
+Complex. Andrew Ippolito: Right, so this would be substrate.
+38:55
+Andrew Ippolito: This would be enzyme this would be the enzyme substrate complex.
+39:01
+Andrew Ippolito: And then, what that does is a catalyze is the event to where you get an enzyme with a product in it so yeah the enzyme product complex.
+39:11
+Andrew Ippolito: And all this is bi directional and then the product.
+39:16
+Andrew Ippolito: associates you get enzyme plus product.
+39:23
+Andrew Ippolito: Right so here i'll write that out all linearly enzyme substrate. Andrew Ippolito: The enzyme substrate complex.
+39:31
+Andrew Ippolito: leads to the enzyme product complex. Andrew Ippolito: leads to the enzyme plus product.
+39:38
+Okay. Andrew Ippolito: And so, this is an example, right here on the slide of a hydraulic enzyme hydrolysis remember that there's there's water molecule or somewhere.
+39:59
+Okay. Andrew Ippolito: Any questions.
+40:08
+Andrew Ippolito: Alright, so here are some specific names of some specific proteins Just to give you some context insulins approaching I didn't know that.
+40:15
+Andrew Ippolito: insulin you've heard me everybody's heard of insulin before it's a protein it's a protein hormones glucagon is a counterpart to insulin and the yin Yang of that system hemoglobin.
+40:26
+Andrew Ippolito: high density lipoproteins low density lipoprotein These are the things in your we talked about your cholesterol levels.
+40:34
+Andrew Ippolito: Those are the two assessments you put in your your blood tests growth hormone sometimes you'll see G F as a growth factor actin and myosin, these are the two proteins involved in your muscle movement and literally all.
+40:51
+Alexa Deprisco: I did was we should. Alexa Deprisco: All right. Andrew Ippolito: This is the last part of this chapter that we're going to start. Andrew Ippolito: cells today and Wednesday we're going to finish cells and the Friday get your test on at all So here we go nucleic acids.
+41:03
+Andrew Ippolito: The first thing I want to hit home here impress upon you, is the phrase nucleic acid is a polymer like poly saccharine or poly peptide nucleic acid you put those in your head in the same cluster of meaning in your head Okay, these are polymers.
+41:23
+Andrew Ippolito: What are the polymers of the monitors are called nucleotides.
+41:31
+Andrew Ippolito: let's talk about a nucleotide now in the same way we so I want you to put this in your head, alongside the amino acids okay as a refresher the amino acid has the Alpha carbon the carb oxalic group the amino group in the site.
+41:44
+Andrew Ippolito: here's a nucleotide. Andrew Ippolito: there's a phosphate group phosphoric acid there's a five carbon sugar of pintos sugar.
+41:55
+Andrew Ippolito: And it's either ribosome the oxy rainbows. Andrew Ippolito: And then, what we call them nitrogen is base, or you call it just the base some books will call it a nuclear obese.
+42:08
+Andrew Ippolito: New Clio be I hate this phrase because i've never heard it before it's just a lack of familiarity, is why I hate it I don't say hates a strong word I I call it a nitrogen is bs.
+42:20
+Andrew Ippolito: it's more meaningful, though, but just make sure if you see the phrase nuclear base out in the wild it's just synonymous with nitrogen the space.
+42:29
+Andrew Ippolito: And the nitrogen this piece. Alexa Deprisco: is coming to families have have have. Andrew Ippolito: Two families of organic molecules there's the permissions and the periods.
+42:40
+Andrew Ippolito: Okay, yes, you do need to i'll show you how this all gets here but you're going to need to know all this.
+42:47
+Andrew Ippolito: So that's that's the building blocks now let's see some some structures here.
+42:54
+Andrew Ippolito: The first thing I want to tell you is the word period the periods are the big ones in terms of their structures, when we say big you're going to see that there's one ring or two rings Okay, so the puritans that weren't periods very guttural purity.
+43:12
+Andrew Ippolito: that's the big that's the moment the two weeks. Andrew Ippolito: And then you have you can mumble have on your breath perimeter seems not to be a high.
+43:22
+perimeter. Okay.
+43:28
+Andrew Ippolito: And if you can burn Maybe you can say that periods are silver right, you know the atomic element silver is pretty big.
+43:37
+And I had no good memory thing for TC. Sorry.
+43:44
+So just remember ag silver and then everything else you can derive.
+43:50
+Okay. Andrew Ippolito: So let's talk about the nucleotide.
+43:56
+Andrew Ippolito: By themselves called nucleotides you can mean two things right, so a single new just like mono saccharine have a function right like glucose has a function, the short term energy use.
+44:08
+Andrew Ippolito: Mano nucleotides like ATP right have that they are immediate energy for the cell.
+44:15
+Andrew Ippolito: there's also timers of nucleotides right, so we have things, called die nucleotides these are very important molecules and if you write this word down now die nucleotide and you think of them as a pair of nucleotides is a dime American thing this will help you understand stuff later.
+44:37
+Andrew Ippolito: Okay you've probably seen these before in your earlier classes and ED ED to remember you're starting to like oh that's like Krebs cycle stone for metabolism stuff oh I hate man.
+44:50
+Andrew Ippolito: nad and fat and so that these words here are simply descriptors of dynamically types of deals die nuclear decay so n is Nikitina mind.
+45:01
+Andrew Ippolito: You have to memorize any of this just yet, but Nick attend to mind is just another nitrogen space adenosine the a's adenosine that's the a an ATP that's that's the the am the alphabet have a you know, a PSE amp G OK, and then fs flavin.
+45:18
+Andrew Ippolito: But will learn about all this later, for now, I just want to impress upon you this word diet nucleotide Okay, and then you have poly nucleotides and we don't usually use that phrase, but a poly nucleotide as a nucleic acid.
+45:32
+Okay, and there's only two of them there's DNA and RNA.
+45:37
+Andrew Ippolito: All right, alright. Andrew Ippolito: We hold them together here's the special named bond for the nucleic acids, the phosphor diaster bond.
+45:45
+Andrew Ippolito: Alright, so the phosphor diaster bond sounds a lot, like the one that holds liquids together the ester bond right, so we have if there's an ester in there, but it's fast formulated so there's the phosphor.
+45:58
+Andrew Ippolito: learn how this adele later.
+46:04
+Andrew Ippolito: The double stranded helix of DNA is held together by hydrogen bonds as we'll see i'll show you that later that's really, this is an inappropriate place to put this right now so don't worry too much about the hydro bods in this slide.
+46:19
+Andrew Ippolito: All right, so you can burn this into your head the a pairs with the tea and the G pairs with the CN DNA and the way I remember that is a empty or both letters that have straight lines.
+46:31
+Andrew Ippolito: and G and C have curves So if you have to memorize a mountain but, honestly, though this time you play with this enough you'll see just you'll put a empty in your head and gnc.
+46:43
+Andrew Ippolito: And a pairing with T forms two hydrogen bonds and G pairing with see forms three.
+46:51
+Andrew Ippolito: Right so way I used to write this to remember it. was a in a tea would look like my initials my initials are Ai so there's two laws of top and the bottom and then G and C.
+47:03
+Andrew Ippolito: The G thing has an extra one there's one in the middle there more carefully so there's those two and then there's that middle one.
+47:14
+I still can't put them on the same plane there we go.
+47:20
+Andrew Ippolito: Right so gnc form three hydrogen bonds when they pair and anti only form to, and that has a lot of important implications leader or in terms of unwinding the double helix to do things.
+47:33
+Okay. Andrew Ippolito: All right, so why is that a pairing with the T and G pairing with the see well, it turns out, you take a big one, and pair it with a low one and you end up getting a uniform helix that has that's the same size.
+47:51
+Uniform diameter there. Andrew Ippolito: Which is about a.
+47:56
+Two nanometers. In terms of the size that's two nanometers.
+48:01
+teeny tiny. Andrew Ippolito: And there, they are you don't have to memorize these structures but here's the take home, you can see that adenine.
+48:12
+has two rings. Andrew Ippolito: cytosine has one ring because he Simon has one ring and guanine has two rings right, so the idea there big those are the right a n G remember the periods.
+48:30
+And they're big. Andrew Ippolito: And then see in T or the perimeter.
+48:39
+Andrew Ippolito: And there are small. Okay. Andrew Ippolito: Now, and RNA.
+48:46
+Andrew Ippolito: There is no fine me. Andrew Ippolito: Instead there's another beast called yourself.
+48:56
+Andrew Ippolito: If you look closely, though you'll notice that you're selling fine mean are the same molecule the only difference being we methylation yourself.
+49:05
+Andrew Ippolito: So you could think of five mean as methylation yourself.
+49:11
+Andrew Ippolito: Okay, so just swap out the tea and put a you in there when you're dealing with RNA sequences rate, so if the DNA sequence is a T g.
+49:24
+C. Andrew Ippolito: Okay let's say that this is one strand of DNA the compliment to that let's think about that, if this was the RNA compliment.
+49:33
+Andrew Ippolito: That a would pair with the key normally but because of RNA we would see you right but here's the mistake students make that T does not pair with you the two pairs with a.
+49:47
+Andrew Ippolito: Right, the G pairs with this si si pairs with the G, so the compliment to a is you a compliment of tea is a compliment or talking about compliment the base pairs.
+49:58
+Okay, this is DNA, and this is RNA that's the idea there.
+50:04
+Andrew Ippolito: Okay, that is replaced with the you and then T is i'm sorry the a would complement a you and the team of correspond to the.
+50:16
+Andrew Ippolito: One we're translating for bass player. Right now.
+50:24
+Andrew Ippolito: So yeah so you pairs with a or two pairs with that.
+50:30
+Okay pairs with T rk pairs with you. Andrew Ippolito: Okay T does not pair with you that's the mistake, I see sometimes students will mistake that that's the key there okay so just swap you empty in your head don't they don't they they're never in the same place they're like Clark Kent Superman they're never the same place the same.
+50:54
+The same thing. Andrew Ippolito: All right now we can start you know what here i'm going to go to the whiteboard now.
+51:02
+Andrew Ippolito: where's whiteboard. might have accidentally closed it.
+51:09
+whiteboard Where are you. yeah I don't know why closed, I want to share my screen here.
+51:38
+Andrew Ippolito: This is a PR so you have to pay attention this we're going to draw so feel free to get your colors out if you want.
+51:44
+sure that. i'm at my correct amount here.
+51:54
+oops. Andrew Ippolito: Okay, here we go so nucleotide.
+52:02
+Andrew Ippolito: here's how you draw nucleotide I always start with drawing something that looks kind of like the big dipper.
+52:09
+like that. Andrew Ippolito: And then have a ball drop in it and there's there's the carbon backbone to rainbows.
+52:22
+Okay. Andrew Ippolito: We name is blue here we name these carbons like this that's the one prime carbon right here, the two prime carbon right here, the three prime carbon.
+52:37
+For prime. Andrew Ippolito: Five right, so this this is.
+52:43
+The pen to sugar. Andrew Ippolito: i'm not saying I boast or dlc rivals just yet, because that's just the carbon back.
+52:53
+Andrew Ippolito: attached to the one problem is wherever whatever base is attached to the nucleotide that's the piece.
+53:02
+Andrew Ippolito: Okay, and this combination.
+53:09
+Andrew Ippolito: Of the base and the sugar here is called a nuclear side.
+53:24
+Andrew Ippolito: attached to the five prime carbon. Andrew Ippolito: we're going to put the phosphate group.
+53:32
+To three minus I can remember it's I think it's peel for my appeal for.
+53:38
+You know let's just keep this symbol let's just make it a pure the circle around it that's usually how I do it.
+53:44
+phosphate group.
+53:51
+Andrew Ippolito: Okay, and when all three of them are together that's the nucleotide.
+54:02
+Andrew Ippolito: nucleus sides don't have phosphate nucleotides.
+54:11
+Andrew Ippolito: All right now. Andrew Ippolito: If the two prime carbon.
+54:16
+Andrew Ippolito: Has the hydroxyl group on it, along with the three prime carbon there's a pair of hydroxyl groups there.
+54:22
+Andrew Ippolito: that's the default state of rainbows.
+54:28
+Andrew Ippolito: And I see are an RNA. Andrew Ippolito: Okay, if the two prime carbon.
+54:36
+Andrew Ippolito: Has. Andrew Ippolito: You can't really see purple against black, let me find a better color here use orange.
+54:45
+We get fitter. Andrew Ippolito: Okay, if it's just a hydrogen.
+54:51
+Andrew Ippolito: Okay, so, in other words, I removed the oxygen from the to prime carbon, I want to call this to dash.
+54:59
+Andrew Ippolito: d oxy by bus okay So these are two different sugars there's the Rainbow sugar or there's a dlc rainbow sugar.
+55:11
+Andrew Ippolito: And so we have two kinds of nucleotides. Andrew Ippolito: OK, we have rainbow I mean use the color coding here is i've created here ribosome will give rise to rainbow nucleotides.
+55:28
+Andrew Ippolito: And the oxy rivals will give rise to D oxy rainbow nucleotides.
+55:40
+Still with me. Okay. Andrew Ippolito: All right.
+55:47
+Andrew Ippolito: So this is the right, this is the building block for nucleic acids either rival nucleic acids, or the oxy ribonucleic gases.
+55:59
+Andrew Ippolito: we're building things we're building polymers of things we're doing anabolic reactions were needing energy right.
+56:10
+Andrew Ippolito: So the question now is where has the energy come from to build these things, and the answer to that is from the nucleotide itself what we're gonna do is we're going to take that phosphate and we're going to add two more to it.
+56:25
+Andrew Ippolito: In other words, we're going to give this thing a bunch of energy. Andrew Ippolito: This thing here with the three phosphates that's called.
+56:34
+Andrew Ippolito: A nucleotide or a diner or a Dr Robin nucleotide new Clio tied.
+56:42
+Andrew Ippolito: triphosphate.
+56:48
+Andrew Ippolito: And we can abbreviate that as a nucleotide try phosphate NTP.
+56:57
+Andrew Ippolito: So this is a generic word NTP. Andrew Ippolito: Okay, if the sugar is just plain old ribosome we call them NTP.
+57:08
+Andrew Ippolito: If the sugars, the oxy right but we put a lowercase D in front of it.
+57:13
+Andrew Ippolito: So there's no GPS and there's DNS GPS. Andrew Ippolito: Okay, so, in other words.
+57:20
+Andrew Ippolito: there's nucleotide triphosphate or dioxide nucleotide triphosphate and again in two molecules there's there's the molecules if the sugar is rainbows it's an NTP if the sugars, the oxy rainbows it's a lowercase T in front of it.
+57:39
+Andrew Ippolito: Okay, so. Andrew Ippolito: This is also, I am very fully aware, this is a lot to digest okay so bear with me i'll give it out you're going to keep talking here ready let's cartoon this just as a cartoony version of this i'm just going to doodle.
+57:57
+This again. Andrew Ippolito: Okay, I just doodled a nucleotide triphosphate.
+58:07
+Okay. NTP i'll use white.
+58:12
+Andrew Ippolito: Right that's an NTP it's a nucleotide because it has a fast feed a sugar and obese has got three he's got three phosphates through we're going to see that's a try nucleotide i'm sorry i'm sorry I misspoke it's a triphosphate at a nucleotide triphosphate.
+58:30
+Andrew Ippolito: Okay now if I ripped one of those phosphates off. So here, let me, let me do this.
+58:40
+Andrew Ippolito: watch this if I take that same molecule right I just copied that molecule i'm going to rip one of the phosphates off.
+58:49
+Andrew Ippolito: We can now call this a nucleotide triphosphate.
+58:54
+Andrew Ippolito: Right you're never going to see NDP so let's let's hear let's give a specific example of an NTP let's say that this base let's say that we set this base equal to a OK, so the name of that is adenine.
+59:12
+Andrew Ippolito: Okay, which we saw earlier adenine is one of the four bases in DNA and RNA.
+59:18
+Andrew Ippolito: And so we're going to call this here. adenosine.
+59:24
+Andrew Ippolito: triphosphate. Andrew Ippolito: You see what I did there adenine is the name of the base.
+59:32
+Andrew Ippolito: When adenine is a component of a nucleotide the name of that nucleotide is adenosine.
+59:39
+Andrew Ippolito: big word big molecule small word small molecule.
+59:44
+Andrew Ippolito: adenosine is the name of the nucleotide or the nucleus side, whatever and adding is so so this right here, I just drew a mark of ATP you've already you've heard of ATP before that's what it is okay, as long as the sugars rainbows right, this is this is rainbows here.
+1:00:06
+Andrew Ippolito: So ATP is an RNA nucleotide. Andrew Ippolito: When I take ATP and I rip a phosphate off of it.
+1:00:14
+Andrew Ippolito: So let me get rid of this and here and just make it a that's a dp okay so ATP ATP are the same molecule just you just ripping off petals of the flower, so to speak, ripping off the phosphate if I rip off another one.
+1:00:27
+Andrew Ippolito: So if I if I take this molecule here i'm going to get off over here.
+1:00:33
+Andrew Ippolito: There we go, I want to rip off another phosphate.
+1:00:41
+Andrew Ippolito: i'm not gonna call this adenosine Mano phosphate see that, so we have ATP falls down to a dp which falls down to a MP.
+1:00:55
+Andrew Ippolito: So we can get the lingo in your head. Okay.
+1:01:01
+Andrew Ippolito: All right. So.
+1:01:07
+Andrew Ippolito: I just realized i'm writing on a whiteboard I use last week don't ignore all the bottom right here not to worry about any of this.
+1:01:15
+Andrew Ippolito: All right, let's give me some names I said adenine here.
+1:01:22
+I don't know why the color change in the middle of it that was really weird try that again and I see, I have a chat message along.
+1:01:30
+Okay i'm gonna get the message. Andrew Ippolito: The names are yeah not the am PDP to we're going to talk about this all next all throughout the Semester so i'm not going to ask you, specific questions about this.
+1:01:48
+Andrew Ippolito: right but you'll you'll and you'll see i'm not going to say what's adenine what's the timing, but you're going to see these words everywhere so let's do this adenine fine mean.
+1:02:01
+Andrew Ippolito: cytosine. Guan. years.
+1:02:08
+Okay, those are the names, these are the basis.
+1:02:13
+Okay they're either appearing.
+1:02:18
+Here let's do this. they're either appearing.
+1:02:25
+or primitive. Andrew Ippolito: let's make this a circle and as an x so adenine and guanine remember AG, those are the periods.
+1:02:37
+And then finding cytosine and yourself or the perimeter.
+1:02:44
+Andrew Ippolito: Okay adenine gives rise to the nuclear side.
+1:02:50
+adenosine. Andrew Ippolito: Timing gives rise to the nuclear side.
+1:02:59
+Andrew Ippolito: Fine Medina. Andrew Ippolito: cytosine gives rise to sit a Dean.
+1:03:08
+Andrew Ippolito: guanine gives rise to guana scene. Andrew Ippolito: And you're still gives rise to your read Dean you'll notice that the scene and the Dean, have to do with the period and the perimeter.
+1:03:21
+Andrew Ippolito: So the periods, give rise to science and the PR mediums give rise to dion's so there's no such thing as time missing there's time eating.
+1:03:30
+Those this thing is identity identity, I guess there's adenosine.
+1:03:36
+Andrew Ippolito: Okay, so you can put the name Now you can take this that there's a tip or there's DTP right So these are the.
+1:03:45
+Andrew Ippolito: Rather, that these would be the RNA nucleotides and these would be the DNA nucleotides.
+1:03:51
+Right, you have ttp. Andrew Ippolito: I should say you have D ttp there is no RNA with a tna.
+1:04:04
+You guys see tp and DC tp. You got ddp and ddp.
+1:04:11
+And then you have you tip. You don't get do you to be.
+1:04:17
+Andrew Ippolito: And these right here are the building blocks of DNA and RNA.
+1:04:31
+Okay. Andrew Ippolito: Again, you don't have to memorize all this right now just yet, but this is, as you get deeper and deeper into biology these where you're going to see these words everywhere and they'll confuse you if you don't know what they are.
+1:04:45
+Okay. Andrew Ippolito: And i'm going to zoom out for a second just to delete all this other stuff from my Microbiology class that.
+1:04:52
+i'm just gonna go in here and delete all this.
+1:04:58
+Andrew Ippolito: You know I taught them the basics of this, the other day to that's kind of funny.
+1:05:05
+Oh boy. people's the rabbit hole go there, we go here's you guys.
+1:05:11
+Andrew Ippolito: Alright, so let's build an employee uh let's say you guys are I see you guys are copying furiously here don't again don't worry about getting all the sounds in the slides do all this isn't the slides.
+1:05:21
+Andrew Ippolito: Right, what I want to do, the most important thing right now is to build, so this is, this is the most important part of this whole spiel what i'm about to do i'm going to zoom in here.
+1:05:36
+alright. Andrew Ippolito: So let's reconstruct the sugar backbone here.
+1:05:47
+Taylor Campbell: This is still part of Chapter five right. Yes.
+1:05:55
+Andrew Ippolito: These are the two most important carbons here, this is the five prime carbon and this is a three prong carving.
+1:06:04
+Andrew Ippolito: The three prime carbon has an available hydroxide group hydroxyl group sorry.
+1:06:13
+Andrew Ippolito: Five prime has. Andrew Ippolito: The phosphate on it.
+1:06:20
+Okay, and here's the rule, the incoming nucleotide right, let me, let me copy this here.
+1:06:31
+Andrew Ippolito: And what i'm going to do is add another phosphate here and another philosophy.
+1:06:38
+Andrew Ippolito: Here alright So you see that that's the the triphosphate and let's let's see that this one has a.
+1:06:46
+Andrew Ippolito: adenosine on it so rather adding on it and let's see this one has a Simon on it i'm just making that up it doesn't matter.
+1:06:53
+Andrew Ippolito: So this year, though this is the incoming nucleotide you can see me i'm going to kind of automate this so this we're going to build these together we're going to put these together how the high energy phosphate group sits over here by the three prime carbon.
+1:07:10
+Okay, and then we engage in. Andrew Ippolito: A condensation reaction sorry a dehydration reaction.
+1:07:19
+Andrew Ippolito: In which we're going to pull off to have these phosphates.
+1:07:26
+Put that over here. Andrew Ippolito: This thing over here is named pyro phosphate.
+1:07:35
+Andrew Ippolito: Okay, and then while that's getting ripped off. Andrew Ippolito: The call bail bond gets bound here.
+1:07:44
+Andrew Ippolito: And right here this here is called the phosphor diaster bond.
+1:07:56
+Andrew Ippolito: And that's especially named bond and nucleic acids.
+1:08:01
+Andrew Ippolito: So the key here the key here is we build it from the five prime to the three prime by adding on to the three prime carbon.
+1:08:12
+Andrew Ippolito: And that's, the only way we can build nucleic acids from five to three.
+1:08:21
+Andrew Ippolito: Okay, so this is a cartoony version of a nucleotide, and this is the available three prime.
+1:08:27
+Andrew Ippolito: cartman and this here is the five prime carbon Okay, this is the point where we can grow it from and that's it we can't ever grow it this way, you can only grow polymers in one direction this becomes very important when we learn about replication later in the Semester.
+1:08:49
+Okay. Andrew Ippolito: So just like a poly peptide.
+1:08:57
+Andrew Ippolito: A nucleic acid has to end. Andrew Ippolito: And instead of it, the end and the C terminus we can call this the five prime end and we can call this the three primary.
+1:09:13
+Right. Andrew Ippolito: So what I just doodled here, this is a nucleic acid.
+1:09:19
+Andrew Ippolito: Now nucleic acid is a polymer. Of nucleotides.
+1:09:36
+Andrew Ippolito: And I know I just hit you with a whole lot. Alexis Micewski: Really fast and you guys look a little overwhelmed right now so.
+1:09:44
+Alexis Micewski: Where the phosphate bond it to the which the hydrogen removed.
+1:09:49
+Andrew Ippolito: Remember that we. Andrew Ippolito: pull water out.
+1:09:55
+Andrew Ippolito: Right, and so I just stole it I don't know if that's totally you know i'm cartooning it so maybe, let me look back at the PowerPoint.
+1:10:02
+let's go.
+1:10:08
+Andrew Ippolito: So this is the if you want to actually you know, be more accurate with a chemistry there you go that's that's the actual bond, you have the five prime carbon would be actually this isn't even actually write the five prime carbons missing here, so this is dunkle I this.
+1:10:26
+Andrew Ippolito: let's see if we could find an accurate version of this somewhere. Andrew Ippolito: yeah yeah okay here, this is this there's there's as accurate as going to get here yeah Okay, I did remove the age, that is correct, so here's the five prime carbon right here my hand the hand thing is over that's the five prime carbon right oops so here five prime carbon.
+1:10:46
+And then the oxygen. Andrew Ippolito: phosphenes phosphate oxygen two three prime carbon and that right there that if we look at this slide now let's focus on the slide for a second you'll see so here's the five prime and here's the three prime end.
+1:11:01
+Andrew Ippolito: right but importantly here, so I want you to look at this and see it, I want you to see the see the dlc rainbows.
+1:11:10
+Andrew Ippolito: Okay, see the five prime and the three prime carbon right so there's the five there's the three, there is a five there's a three there's the five there's a three.
+1:11:20
+Andrew Ippolito: Okay, so we're going this way from five to three so if we wanted to add more to this a nucleic acid we'd have to add it right here.
+1:11:29
+Andrew Ippolito: there's your three prime and right we can't add here, we can only grow this chain in this direction okay so ready here's the sugar here's the philosophy, so we call this right here, we call this the sugar phosphate backbone.
+1:11:55
+Andrew Ippolito: that's the sugar phosphate backbone of DNA. Andrew Ippolito: Okay now let's add the basis, you can see here in green there's adenine, and so this right here is adenosine.
+1:12:08
+Andrew Ippolito: Linked underneath it to what is that looks like cytosine this is cytosine how do I know that because I see this name down here with a color coding so that would be sitting.
+1:12:22
+Andrew Ippolito: Okay, and then a purple one is fine mean. And then the light are the light blue purple one is gone.
+1:12:32
+Andrew Ippolito: Okay, so this is. Alexa Deprisco: What I want to circle right now. Andrew Ippolito: This is one nucleic acid that has an A bound to a see bound to a TEE bound to a G that's what you're seeing here.
+1:12:50
+Andrew Ippolito: Five prime three prime you see how I labeled it five five and three prime only name nucleic acids, when we when we write them out Okay, if this was a word document you would write this right five prime.
+1:13:01
+Andrew Ippolito: A C T G three I didn't put a dash there but dash.
+1:13:10
+Andrew Ippolito: Five prime dash. Andrew Ippolito: At AC tg yes.
+1:13:15
+Angela Harbeck: I have a question yep good I thought you said that a empty or islands together, why is it good for ABC.
+1:13:23
+Andrew Ippolito: that's a great question okay. Angela Harbeck: So when we build nucleotides i'm sorry. Andrew Ippolito: When we've done nucleic acids daisy chain them together the basis can be in any order.
+1:13:35
+Andrew Ippolito: This is the link right there, this is how we build jeans right so that's that's the beginning of a genetic sequence.
+1:13:41
+Andrew Ippolito: So you can put them in any order you want, you can just literally ramble a TT ag ag ACC tg that's that's the sequence of the.
+1:13:49
+Andrew Ippolito: The key there, though, the rules we're going to get to now is let's look at the other side of this picture right I I haven't talked about this side at all that's another nucleic acid, these are two different chains.
+1:14:03
+Andrew Ippolito: Right, we talked about proteins, we talked about this being a three dimensional folded up poly peptide in this being a different one we can interact, you can get a dimer DNA is a double strand molecule Okay, and so what we're going to do here, let me give you a simple version of it.
+1:14:20
+Andrew Ippolito: here. Andrew Ippolito: Is a single nucleic acid there's five prime three prime.
+1:14:27
+Andrew Ippolito: Okay, and let's now draw the basis sticking out into space right so let's say a long one here like that would be an A.
+1:14:35
+Andrew Ippolito: And then, a shorter one here let's say that's a C and then i'm just making this up let's make that another a and let's make this a wider know a tea and let's make this a G let's put two g's together and then another a.
+1:14:52
+Andrew Ippolito: Okay, I just made that up but it's always a big one or a little one right okay.
+1:14:59
+Andrew Ippolito: On this side i'm going to draw another nucleic acid i'm going to turn it upside down notice this is now three prime, and this is five prime you see that it's upside down that's the first insight here for the double strand the dealers.
+1:15:14
+Andrew Ippolito: Okay, we call this anti parallel.
+1:15:20
+Andrew Ippolito: You would say that the.
+1:15:26
+Andrew Ippolito: Here here's a little I printed this out last year, this is DNA right, you would say that this is an Anti parallel molecule and other words if I was to zoom in here, that would be if this was five prime this one here would be three.
+1:15:41
+Andrew Ippolito: Okay there's always one end of the DNA molecule like one end of the double helix has a five and a three and this one has the three and five.
+1:15:49
+Okay. Andrew Ippolito: All right, then so Angela This is where the base putting rules commands on this side.
+1:15:57
+Andrew Ippolito: If this over here is a this over here is a tea.
+1:16:03
+Andrew Ippolito: right if that sees over there. And this is a g.
+1:16:09
+Andrew Ippolito: Alright, and I just realized I should have made the cheese longer here.
+1:16:16
+Angela Harbeck: And the t's short so within an RNA that it would be the a's will be used them okay so so two things there first.
+1:16:26
+Andrew Ippolito: Of all. RNA. Is single stranded.
+1:16:32
+Andrew Ippolito: Okay, we don't have double stranded RNA but. Andrew Ippolito: If this was a piece of RNA that i'm going to doodle here RNA can form secondary structures, like proteins.
+1:16:47
+and other words watch this.
+1:16:53
+Andrew Ippolito: see that so aren't you can do this, it can base pair with itself when we see these based pairing rules there if that's a that's a you.
+1:17:04
+Andrew Ippolito: Okay, and then in other instances we're going to see if this is our messenger RNA as we'll see later.
+1:17:11
+Andrew Ippolito: And so the messenger RNA is that another single stranded piece of RNA and those are the basis sticking up we're going to see the T RNA come in here and there's going to be based pairing here and that's another time we'll see days in the US.
+1:17:27
+Okay. Andrew Ippolito: In DNA we don't have a you anywhere, and so this isn't a this would be a tea.
+1:17:35
+So the tea, this would be an A. si.
+1:17:41
+si. Andrew Ippolito: Okay, and forgive me what I what I really wanted to do is hit on this idea that there's always a long and short.
+1:17:55
+Andrew Ippolito: So that. Andrew Ippolito: Each when you add it together it's always the same total distance right if I put two shorts together.
+1:18:04
+Andrew Ippolito: right if there were two shorts I understand that if there was a mistake here, what would happen is the DNA would actually pension together like this to get that closer and that'd, be a mistake, and if there were two big ones together, it would bulge up.
+1:18:18
+Andrew Ippolito: Okay, so that's why the DNA helix his uniform in diameter because there's always a pure in match with a permanent.
+1:18:25
+Alexa Deprisco: know if you were to have a DNA that was like Boeing or bowing out or like going in like How would that translate to like a creature, you know.
+1:18:35
+Alexa Deprisco: That. Andrew Ippolito: that's Those are two examples of DNA lesions and those get repaired.
+1:18:42
+Andrew Ippolito: The DNA ever looked like. This. Andrew Ippolito: right if it's like this and then there's this just crazy thing here that's called a bulky agent.
+1:18:52
+Andrew Ippolito: And this is stuff you're not gonna have to know here, but so there's there's enzymes, we have here, this is your DNA here, so we have these enzymes.
+1:19:00
+Andrew Ippolito: You know that will ticker tape along DNA looking for stuff like this and then finds a little bump it will call it friends over and try to fix it.
+1:19:09
+Andrew Ippolito: or but she's a little pinch right so there's a whole world of DNA surveillance and repair and your DNA is constant getting damaged, and so we have all sorts of stuff happening in there.
+1:19:20
+Andrew Ippolito: But that's where that's molecular biology level stuff let's say you'll learn more about that stuff in.
+1:19:27
+Andrew Ippolito: Your third year when you take molecular biology you want, maybe genetics, maybe you'll learn a little bit more detail that when you take your genetics class.
+1:19:35
+Andrew Ippolito: Your transfer Institute in the meantime i'll give you a little bit of this, we have a whole chapter on DNA structure and function and we learned about mutations and repair and all that.
+1:19:43
+Andrew Ippolito: But that's like at the end of the Semester. Andrew Ippolito: The point of this part of this chapter in Chapter five is to introduce you to these natural molecules and give you a little bit of information and i've probably giving you a little bit more information than you need for this test.
+1:19:58
+Andrew Ippolito: Right, but the reason for that is DNA, is the most important molecule on the planet and we're going to revisit this three or four times a semester, so you will have, by the end by the time we get to the final exam everything I said today you're going to need to know.
+1:20:12
+Andrew Ippolito: I think of like a slow burn okay so i'm gonna go back to the slide now i'm going to show you the double stranded helix here.
+1:20:21
+Andrew Ippolito: Right, so the double stranded helix of DNA this thing here you don't have to know all the specs and how deep everything is but you'll notice that it's an asymmetrical helix it's it when you draw DNA here's how you draw me ready you draw like this it dropped a little a symmetrical.
+1:20:41
+Andrew Ippolito: And then you select your first strand your second strain you start not in the middle here you don't want to start in the middle, I want to start a little bit up to one side, like here and then just try to parallel everything you just do it old like this.
+1:21:00
+Andrew Ippolito: And what you're see is, if you can think of the 3D of this let's try to make this a ribbon now.
+1:21:09
+Andrew Ippolito: you'll notice that there is a big groove and a little groove we call it the the minor the minor groove.
+1:21:19
+Andrew Ippolito: And the major. Minor groove major group.
+1:21:26
+Andrew Ippolito: Okay here i'll draw draw a little simpler, so you can see it. Andrew Ippolito: i'll draw more exaggeratedly rather alright so minor groove.
+1:21:35
+Major group. Andrew Ippolito: here.
+1:21:40
+Andrew Ippolito: Actually, this this 3D molecule is inaccurate and that is to symmetrical so this actually doesn't have a major minor in grief, this is even so this is wrong, I just realized that.
+1:21:53
+Andrew Ippolito: Okay, so here, I can do it better like this, because I can move these around watch this.
+1:22:00
+Try this. Andrew Ippolito: Okay, I want to just copy this.
+1:22:06
+Andrew Ippolito: and paste it, and now I can show you Okay, so if this was a perfectly symmetrical helix I would put it like.
+1:22:13
+Andrew Ippolito: This Okay, but watch this this this will give you the insight, I want to take this piece i'm going to move it up to the top now it's a symmetrical.
+1:22:23
+Andrew Ippolito: And DNA Z symmetrical. Okay. Andrew Ippolito: And you don't have to know the details anymore past that just understand it's.
+1:22:31
+Andrew Ippolito: it's a symmetrical got a major minor group. Andrew Ippolito: Okay, the major groove would be right here like that.
+1:22:42
+Andrew Ippolito: The minor groove would be the one right above it there. Taylor Campbell: And does that follow, along with the piercings and.
+1:22:50
+Andrew Ippolito: Ah that's a great question know. Andrew Ippolito: The DNA. Andrew Ippolito: doesn't matter what order you put so if you think of the steps if you think of this like a spiral staircase Okay, the step is a base pair and that could be an either or the beach I should I should say either of the base pairs is like binary there's you're either at or your CG.
+1:23:11
+Andrew Ippolito: Right or you're a ta or a gc whatever, but the idea here is this order is arbitrary, this could be any order.
+1:23:20
+Okay, this this could be any order. Andrew Ippolito: This is always minor to major minor major the DNA helix is asymmetrical.
+1:23:32
+Andrew Ippolito: For reasons that you'll learn in organic chemistry to or something.
+1:23:38
+Alexa Deprisco: Okay, with the major the minor groups just depend on like what angle you're looking at the DNA strand.
+1:23:44
+Andrew Ippolito: Ah, no, no, so. Andrew Ippolito: There are angles here, but if you if you were holding this up and looking at it you'd be like there's a major groove like.
+1:23:54
+here. Andrew Ippolito: Okay watch this like it do this here this this pretend, this is a protein that buys the DNA i'm in one of the groups right now see that.
+1:24:09
+watch this i'm in a group OK now i'm in the next group. Andrew Ippolito: CDs So these are the group so if I rotate it.
+1:24:17
+Andrew Ippolito: That that groove is still. Andrew Ippolito: it's still the same size of that group so yeah it doesn't matter if you're doing this, if you're twisting it now again, this is a symmetrical helix, so this is not right, if this was a symmetrical Am I start rotating it.
+1:24:30
+Andrew Ippolito: You would very easily see that the spacing here yeah here we go i'll closing it before it gets blurry ready this right here would be the minor groove.
+1:24:43
+Andrew Ippolito: And then this would be the major group if this was a symmetrical imagine me taking this strand here and moving it up like I did in the word the whiteboard.
+1:24:52
+Andrew Ippolito: right if I was able to compress this if I was able to make the distance here shorter Can you see that that would necessarily make the distance here bigger.
+1:25:02
+Andrew Ippolito: right if I if I moved this up the distance between here, and here we get bigger and so you'd have a minor groove and a major group.
+1:25:12
+Andrew Ippolito: And now look at the screen now, and you can see that imagine the the pipe cleaner that I just held up right here like this, so compare what I just doodled to what you're looking at on my video right and now look now do this and you'll see the major.
+1:25:28
+on the screen. Right here's a matrix roof.
+1:25:35
+Okay. Andrew Ippolito: Minor major minor.
+1:25:42
+Andrew Ippolito: And you know what if you can't see this that's okay this this is this is advanced, this is more advanced than we need to be.
+1:25:49
+Right. Andrew Ippolito: All right, that's that's it.
+1:25:55
+Andrew Ippolito: we're gonna we're gonna learn about jeans and proteins, and all this stuff later in the Semester so with gene expression leader that's it that's Chapter five.
+1:26:06
+Andrew Ippolito: And you can just I don't know, I have to I feel like this. Andrew Ippolito: The nitrogen slide is like everywhere on these earlier powerpoints I gotta delete that one.
+1:26:17
+Angela Harbeck: I just did all right, is there any way, we could have a break. Andrew Ippolito: yeah yeah I need to bring.
+1:26:22
+Angela Harbeck: To that was a lot. Andrew Ippolito: All right, i'm gonna i'm going to stop the video because that's the end of Chapter five.
+1:26:28
+and

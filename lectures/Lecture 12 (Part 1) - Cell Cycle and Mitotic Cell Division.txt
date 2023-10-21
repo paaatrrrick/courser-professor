@@ -1,0 +1,1726 @@
+0:03
+Andrew Ippolito: Last time we met we. Andrew Ippolito: We started digging into. Andrew Ippolito: This would be chapter 12 chapter 12 and our textbook right now.
+0:16
+Andrew Ippolito: covered we covered the portions 11 we need and now we're going to do the cell cycle and what I said last time was that chromosomes were.
+0:26
+Andrew Ippolito: Really, this is going to be the focal point for the rest of the Semester in a lot of ways, not chromosomes necessarily but the idea of the gene.
+0:36
+Andrew Ippolito: How they work, how they're passed on how they change because understanding the gene understanding.
+0:45
+Andrew Ippolito: Not only how they work, but how they're protected other organized helps you better understand life itself and it lets you really smoothly, think about things like evolution.
+0:56
+Andrew Ippolito: And how it works and it gives your brain a tool that lets you understand the distinctions between various species.
+1:03
+Andrew Ippolito: Right, so those kinds of conversations where you're like well why is our arm like you know, like a cat or a whale it all comes down to this, so what we're going to do in this first unit is we're gonna learn how cells duplicate them.
+1:19
+Andrew Ippolito: Along with the rest of the cell that's all about the cell cycle and then we're going to learn how cells divide we're going to learn how cells shuffle their genes around.
+1:29
+Andrew Ippolito: And then we're going to learn how genes, give us the outward expression of themselves the phenotype your physical appearance your genetics.
+1:40
+Andrew Ippolito: And then, once we finished genetics we're going to look at. Andrew Ippolito: A hardcore view of DNA structure and function.
+1:48
+Andrew Ippolito: replication. Andrew Ippolito: DNA synthesis and.
+1:56
+Andrew Ippolito: Then we'll do gene regulation and your gene expression engine regulation that's that's the rest of the Semester, for the most part.
+2:02
+Andrew Ippolito: Once you're at the end of it you're gonna be able to look back and be like Okay, I get biology now.
+2:08
+Andrew Ippolito: Really. Taylor Campbell: forum exams which which that's that's.
+2:14
+Andrew Ippolito: that's to Sam worth of material yeah there's two example yeah. Taylor Campbell: yeah so like which is are recovering for the next one, the.
+2:22
+Andrew Ippolito: word is oh so right now, so this current unit is going to finish with genetics. Andrew Ippolito: We got we got basically the the little footnote at chapter 11 with the G protein couple receptors that's kind of like the way the cell membrane was in the last unit, where some of you just like glossed over that so don't gloss over chapter 11 here right and then.
+2:46
+Andrew Ippolito: that's cell cycle mitosis meiosis and then there's the alien genetics and chromosomal genetics that's that's this year.
+2:56
+Andrew Ippolito: Okay, and you know it's all it's on that first page and in cameras. Andrew Ippolito: Alright, so to review what we did last time we started with the double helix and we essentially built chromosomes.
+3:09
+Andrew Ippolito: And if you recall, I drew a line right here.
+3:14
+Andrew Ippolito: Alright, so i'm going to teach you, I want to start teaching the cell cycle, now the cell cycle is a way that we can think through the life cycle of a cell itself.
+3:28
+Andrew Ippolito: Right, if you think about the human life we totally you'll learn about life cycles right juveniles adult sexual reproduction babies etc right that's that's the life cycle of an organism of some species.
+3:41
+Andrew Ippolito: The life cycle of a cell is what we're going to talk about. Andrew Ippolito: Okay.
+3:47
+Andrew Ippolito: And we will also talk about death cell death. Andrew Ippolito: So the first thing I want to teach you here before we do any slides is this this whole realm.
+3:58
+Andrew Ippolito: Up to the loop chromatin. Andrew Ippolito: Self spend the majority of their time with their DNA in this kind of loose configuration this phase of the cells life is called interface.
+4:18
+Andrew Ippolito: And now, technically technically. Andrew Ippolito: interface is considered the cell cycle, which means the cells are cycling, meaning that they're getting ready to Dubai.
+4:32
+Andrew Ippolito: Okay, so there's an even more relaxed state for cells your book doesn't use this word, but this is the word we use it's called a state of quiescence.
+4:45
+Andrew Ippolito: I want you to know this word like I want you to be familiar with this word a quiescent cell is a cell that is alive.
+4:54
+Andrew Ippolito: And as a cell that has been paralyzing. Andrew Ippolito: it's just not dividing.
+5:00
+Andrew Ippolito: Right, most of your body cells are quiescent.
+5:06
+Andrew Ippolito: In the formal stating of the various phases of the cell cycle your book is going to use this phrase, this would be a capital G with a super script zero, this is the G zero state of the cell cycle.
+5:21
+Andrew Ippolito: Okay, so a G zero cell in your book is synonymous with class.
+5:34
+Andrew Ippolito: makes sense, so far. Andrew Ippolito: Okay, so class and cells have their nucleus in a state where the chromatin is a new chrome attendant hetero button and they have those comments and territories right, so this is a G zero nucleus.
+5:53
+Andrew Ippolito: that's a quiet and cells nucleus, the everyday life of a cell.
+5:58
+Okay.
+6:05
+Andrew Ippolito: When the cell does divide so i'm going to just kind of do a little spoiler here what when the cell is going through mitosis the DNA condenses.
+6:13
+Andrew Ippolito: Okay it's like packing up your House to move you put things in boxes they're not very accessible.
+6:19
+Andrew Ippolito: Right and you generally don't your stuff doesn't last and I stayed very long just long enough to get moved and then you put open up the box again in the same way chromosomes will.
+6:29
+Andrew Ippolito: condense you know they'll they'll duplicate first then they'll condense then they'll move and then i'll D condense Okay, so what we're looking at here is a condensed chromosome and we can actually distinguish features of it.
+6:45
+Andrew Ippolito: in real life cells never have their chromosomes in this State this is artificial for illustration purposes.
+6:53
+Andrew Ippolito: cells would have them in this state only why because cells only in condensed i'm sorry chromosomes bonnie condense after they are duplicated and when they're duplicated there's two copies of them, this is what you get with that that X.
+7:12
+Andrew Ippolito: X shape right this, this is one copy. Andrew Ippolito: And this is the other copy.
+7:19
+Andrew Ippolito: So let's teach some some lingo now so here's here's what you can do you can take a fresh piece of paper and just label things we're going to do, like chromosome anatomy all right i'll build it for you in whiteboard here right so we'll say chromosome.
+7:36
+Andrew Ippolito: anatomy. Andrew Ippolito: These are eukaryotic.
+7:42
+Andrew Ippolito: Right bacterial chromosomes If you recall, so let's see pro chaotic chromosomes are circular.
+7:53
+Andrew Ippolito: Right, this is double stranded DNA. Andrew Ippolito: there's no beginning or end. Andrew Ippolito: And there's one of them, and in a cell one personal.
+8:04
+Andrew Ippolito: Alright, so pro charismatic cells have a genome that consists of a single circular chromosome.
+8:13
+Andrew Ippolito: eukaryotes have what we call linear chromosomes.
+8:22
+Andrew Ippolito: And they vary. in number.
+8:28
+Andrew Ippolito: In a species specific.
+8:35
+way. Andrew Ippolito: So one of the ways, not the definitive way, but one of the ways we can distinguish different species is by counting their chromosomes.
+8:47
+Andrew Ippolito: different species have different numbers of chromosomes, this is a special number for a species, so we call this number the end we would say for humans, the number is 23 and we'll learn more about that women do genetics really when we do meiosis okay.
+9:13
+Andrew Ippolito: Since we're on that topic sexually reproducing organisms.
+9:23
+Andrew Ippolito: sexually reproducing species. Andrew Ippolito: Have.
+9:31
+Andrew Ippolito: It bear. Andrew Ippolito: Each chromosome.
+9:38
+Andrew Ippolito: they're like socks. Andrew Ippolito: Okay, so when I say chromosome to you know human chromosome to has the gene for whatever okay there's two copies in yourself.
+9:50
+Andrew Ippolito: that's the default generic idea of eukaryotic cell that the genome, is it exists as two sets of chromosomes a maternal copy and a paternal copy all right so there's the maternal.
+10:10
+Andrew Ippolito: You can even call it the maternal genome. Andrew Ippolito: The maternal copies.
+10:17
+Andrew Ippolito: And the paternal.
+10:23
+Andrew Ippolito: Or the paternal copies. Andrew Ippolito: And now i'm going to introduce the form of word for this this pair of chromosomes alright so here i'll draw one here.
+10:35
+Angela Harbeck: Harry can you go, we what's the maternal chino.
+10:40
+Andrew Ippolito: Maternal I just wrote copies these there's there's you have two sets or two copies of the genome, you have the maternal copy and the paternal copy.
+10:50
+Angela Harbeck: Okay, I thought it was like. Angela Harbeck: Yes, i'll explain more now. Andrew Ippolito: know so you got.
+10:55
+Angela Harbeck: genome. Andrew Ippolito: Is a copy and here's the formal word right here let's use different colors here.
+11:01
+Andrew Ippolito: Okay, so these signify those so those two chromosomes are the same size.
+11:08
+Andrew Ippolito: They have the same genes. Andrew Ippolito: They have the same you see the middle part i'm not going to give you names, yet they see how their pinched off, so these two things have the same pinch off point the same size and the same genes, so this is called a pair of hormones.
+11:29
+Andrew Ippolito: I spelt that homo la. Andrew Ippolito: Sometimes we say homologous.
+11:37
+Andrew Ippolito: pair. Andrew Ippolito: This word is a generic evolution word, this is not specific to chromosomes homologous simply means common ancestry.
+12:01
+Andrew Ippolito: You can use this word in many different contexts, for example, you could save that our bones, and our arm our homologous to the bones and a whale flipper.
+12:16
+Andrew Ippolito: You would say that our eyes are homologous to a cat's eyes.
+12:21
+Andrew Ippolito: Okay, what this tells you when you say like when you talk like this is that.
+12:27
+Andrew Ippolito: Far far in the past long long ago there was an ancestor that we branched off from.
+12:36
+Andrew Ippolito: Okay, so at some point in time way in the distant past, there was a chromosome just one that went through a duplication event a mutation and and that one cell and now there's two and then that cell started to buy it, and now we have to.
+12:52
+Andrew Ippolito: that's the idea there that's the your mom's copy of chromosome one and your dad's copy of chromosome one can ultimately be traced to a common ancestor gene chromosome.
+13:06
+Andrew Ippolito: Is that makes sense. Andrew Ippolito: Okay, so the reason why this starts to get convoluted is simply because sexual reproduction evolved, as the predominant mode of reproduction on the planet.
+13:21
+Andrew Ippolito: Go ahead alexa. Alexa Deprisco: So then, this is just taking like the whole chromosome was like the like kind of an egg shape, so this is just taking like one side of it from like the maternal and paternal mixed methods together to make you.
+13:34
+Andrew Ippolito: know, oh no okay so let's look at it, can you see my screen here let's see the different colors the different colors of the different.
+13:41
+Andrew Ippolito: lineages so so blue is paternal and read his material Okay, so that X shape what so here's what we're gonna do we're gonna take this and i'm going to copy it during the cells cell cycle and when we copy it, we now have what we call a duplicated chromosome.
+14:01
+Andrew Ippolito: So this is an unduplicated chromosome is called chromosome, this is a duplicated chromosome that duplicated chromosome has to have snow right, it has two parts, we call this thing here so so one half of a duplicated chromosome has this word chrome anted.
+14:20
+Andrew Ippolito: Okay, so here let's go back. Andrew Ippolito: Now that you understand all those.
+14:26
+Andrew Ippolito: Okay, so humans have 46 chromosomes right we got 46 chromosomes we have 23 sets of chromosomes.
+14:35
+Andrew Ippolito: And we'll learn more about this when we do meiosis okay so for now let's just get we got to get to the cell cycle here So here we go here's chromosome.
+14:43
+Andrew Ippolito: here's a chromosome i'm going to draw like this and there's a couple different ways, you can draw this never, never do this.
+14:49
+Andrew Ippolito: Never draw a chromosome like that why because your brain the way you draw things helps inform the way you think about them if you draw this you're going to see this as a thing.
+15:03
+Andrew Ippolito: that's not a thing. Andrew Ippolito: Okay, if you want to do to them fast at least do this.
+15:10
+Andrew Ippolito: You see how he did that does two halves that's how you see the X okay all right so.
+15:18
+Andrew Ippolito: One way to draw this is you start with the end. Andrew Ippolito: that's kind of rectangular and then you pinch off.
+15:27
+Andrew Ippolito: like that, and then you can end it again. Andrew Ippolito: So almost like an hourglass shape that's one way to draw it.
+15:35
+Andrew Ippolito: Okay, honestly, the the simplest fastest way to do it is to start in the middle.
+15:42
+Andrew Ippolito: And then just draw kind of an oval. Andrew Ippolito: and make sure that you draw them.
+15:50
+Andrew Ippolito: slightly different sizes. Andrew Ippolito: So you see how I made the bottom longer on the top shorter now it's like a Bowling pin whatever doesn't matter.
+16:00
+Andrew Ippolito: Okay, so let's do this pinch off point let's give that a name now that's the Center part you can think of it's not really the Center but it's a central location we're going to call this the central part and in Greek m E R E whenever you see mirror, that means part.
+16:17
+Andrew Ippolito: So ready, this is. Andrew Ippolito: The central near.
+16:27
+Andrew Ippolito: The end of the chromosome is called the telomere or kilometer. Andrew Ippolito: telos means and or terminus telomere.
+16:37
+Andrew Ippolito: And so there's two telomeres right. Andrew Ippolito: I say PM here, but I hear so many video when you watch videos people say telomere but I grew up with telomere.
+16:48
+Andrew Ippolito: And mitosis We appeal of fees or telephone is right, the last fees telomere the last part.
+16:56
+Andrew Ippolito: And now I have these arms. Andrew Ippolito: See how that's a small arm So these are arms that's, the first thing you got the arms of the chromosome.
+17:06
+Andrew Ippolito: To art of the chromosome separated by the centromere.
+17:15
+Andrew Ippolito: The little arm, you can think of as the petite arm i'm not short on petite.
+17:23
+Andrew Ippolito: p. Andrew Ippolito: And then the bigger arm.
+17:32
+Andrew Ippolito: Has a ridiculous name for bus it's a normal name for ridiculous reason.
+17:37
+Andrew Ippolito: There was some committee at some point that probably had to sit down and agree on this, because this is what we're learning right now is a standard way of referring to all chromosomes in genetics you're learning like a formal language structure here that the longer arm is Q.
+17:53
+Andrew Ippolito: Because the letter Q comes after the letter P, and the alphabet.
+17:59
+Andrew Ippolito: that's actually why I stayed that way it's a little silly so just remember petite and then just go, then the next letter Q.
+18:06
+Andrew Ippolito: Alright, so there's so you can now say there's you know chromosome one P, you know that's the petite arm if you're talking about where a gene is.
+18:17
+Andrew Ippolito: All right now there's one more detail i'm gonna throw to hear when you.
+18:23
+Andrew Ippolito: observe cells that are going through mitosis and the chromosomes condense, to the point where you can see them.
+18:32
+Andrew Ippolito: If you lock the cells, there you treat them with chemicals to freeze them and lock it all up so you can visualize it under the microscope and you apply a steam to it.
+18:44
+Andrew Ippolito: so that you can visualize it better, it turns out chromosomes to this amazing thing with stains where they they're banded.
+18:54
+Is it slightly different. Andrew Ippolito: Like like a barcode.
+19:01
+Andrew Ippolito: And they're different. Andrew Ippolito: different numbers of chromosomes have different barcodes.
+19:11
+Andrew Ippolito: And i'm just doodling this i'm just making this up right now.
+19:18
+Andrew Ippolito: Some so some of the bands are thin and some of the bands are thick they're beautiful.
+19:24
+Andrew Ippolito: I mean there's there's art if you type chromosome art you'll probably see all sorts of cool stuff.
+19:30
+Andrew Ippolito: Okay, so these are called bands. Andrew Ippolito: and Andrew Ippolito: They represent hetero chromatin the dense dense stuff right.
+19:41
+Andrew Ippolito: And they serve as markers because so here's the thing here's here's the key that banding pattern is exactly the same between this.
+19:52
+Andrew Ippolito: to haul monologues this is how we know their home Alex Ray so your mom's chromosome one and your dad's chromosome one you're staying on both they look exactly the same in their banding and they are exactly the same across people.
+20:05
+Andrew Ippolito: everybody's chromosome one looks the same. Andrew Ippolito: everybody's chromosome 17 looks the same the same exact banding pattern, the same barcode the same complexity identical.
+20:20
+Okay. Andrew Ippolito: And we number of these bands, starting in the centromere so watch this, this would be banned one band to band, three and four, and you know, in reality, these bands have.
+20:35
+Andrew Ippolito: You can think of them as some bands, so that might be 3.1 and 3.25678 910 right and then this side 123456 so we call these regions of a chromosome now right, these are distinct regions swaths of promise them we call these regions low sigh aren't here a single one would be a locus.
+21:03
+Andrew Ippolito: Not a locus not the bug. Andrew Ippolito: A locus, this is a mathematical freeze Has anybody come across this word in their their math travels and their math classes, we refer to these as Luke so so you define in geometry anybody know the formal definition of a circle.
+21:28
+Andrew Ippolito: You see, so just look at consider a circle and in a Cartesian plane. Andrew Ippolito: Every point in the circle.
+21:36
+Andrew Ippolito: Is equidistant from the Center right that's what makes it a circle, so you would just this is the formal definition of circle, it is the locus, it is the locus of points in a plane equidistant from a single point.
+21:53
+Andrew Ippolito: that's how we formally defined circle, so a locus is a region or a set of things Okay, so a locus of points in geometry, or what we would call.
+22:07
+Andrew Ippolito: A genetic Lucas or or a genomic look. Andrew Ippolito: Depending on what you're talking about.
+22:13
+Andrew Ippolito: Okay, so those bands are called low side and plural of that is low side.
+22:20
+Andrew Ippolito: And the reason, this is a useful word is, we can see things like this now i'm making this up don't quote me on it, the gene for human insulin is found on chromosome 17 P 32.2.
+22:34
+Andrew Ippolito: Now it's an address, so I can say something like this seven P for.
+22:41
+Andrew Ippolito: chromosome seven the petite arm locus for are banned for.
+22:46
+Andrew Ippolito: Okay, so this so this that we map chromosomes so we can map genomes.
+22:53
+Andrew Ippolito: Your insulin gene is in the exact same place mind, sometimes, yes, so when we talk about genetic Kemal when we talk about being identical genetically when we say that we share 86% of our gene genome with mice we're not just talking at season geez we're talking physical locations of things.
+23:13
+Andrew Ippolito: there's a whole branch of science now called comparative genomics where we sequence this and we sequence that and we compare the two, and we look at the similarities and when we started doing that the story of evolution POPs out even more.
+23:26
+Andrew Ippolito: Because independent of the fossil record and independent of developmental biology and independent and cell biology just all becomes together to tell this one compelling story that everybody shares a common ancestor.
+23:40
+Andrew Ippolito: And the fingerprints of that are all over the place here. Andrew Ippolito: Alright, so what makes a pair of chromosomes homologous they have the same size, the same genes, the same central miracle location, the same banding pattern.
+23:57
+Andrew Ippolito: to the point where, if I give you pictures of these you'd be able to pair them up and that's what people call site, or they call.
+24:04
+Andrew Ippolito: Well there's there's a job called carrier typing a carrier type is when you walk you take pictures of people's chromosomes.
+24:13
+Andrew Ippolito: it's one of the diagnostics, they use when they're trying to assess people. Andrew Ippolito: When they're having difficulty having children they might look at a carrier type.
+24:23
+Andrew Ippolito: i'll teach all that later when we do genetics okay so that's all i'm going to give you right here i'm gonna go back to the PowerPoint now.
+24:30
+Andrew Ippolito: And now you can see, this right now there's one last little nugget here literally a nugget here that I didn't talk about you so little yellow thing.
+24:38
+Andrew Ippolito: that's a protein complex that stuck to the centromere you see that think of like a tow hitch on a car is what we're going to do here is eventually we're going to grab that that's what we're going to bolster our fishing lines on and pulling things apart later.
+24:52
+Andrew Ippolito: These are called kinetic course. Andrew Ippolito: OK, so the kinetic core is a protein complex located at the central the central mirror isn't a thing, the central mere is a reference point.
+25:07
+Andrew Ippolito: Okay, it is a geographical reference point on a chromosome there's nothing physically different.
+25:15
+Andrew Ippolito: I mean there are physical pinched off a little it's a little denser but it's not a thing it's just chromatin, just like the telomere.
+25:23
+Andrew Ippolito: Okay, in contrast, the kinetic cores of thing it's a protein complex.
+25:29
+Andrew Ippolito: All right. Andrew Ippolito: that's all i'll say about that this again, this is all chromosome, this is a chromosome notice i'm referring to these is a chromosome That is one thing it's not two things that's one thing, just like a pair of scissors.
+25:43
+Andrew Ippolito: or a pair of pants nobody has a scissor. Andrew Ippolito: Nobody has a pant you would say a pant leg right you wouldn't say you know what's a scissor it's just like a knife with a weird.
+25:57
+Andrew Ippolito: angle to it right, if you take a pair of scissors and break them apart right you wouldn't call those each a scissor nobody does that right, because the functional thing is a pair of those things right, this thing, therefore, is I duplicated chromosome with a pair of sister chrome and ted's.
+26:16
+Andrew Ippolito: sister chrome methods. Andrew Ippolito: sister chromatic sister chrome into their columns they are genetically identical copies.
+26:29
+Andrew Ippolito: Okay. Andrew Ippolito: So that when when they separate one one sister goes this way and one sister goes that way when they separate from you know they're the bath of the hip there, so to speak, when when they separate each cell.
+26:40
+Andrew Ippolito: Each daughter cell mitosis going to get one of them, and those cells are clones of each other, so it makes sense that they're close to each other.
+26:49
+Andrew Ippolito: And contrast the relationship between this chrome knitted and Miss chrome.
+26:55
+Andrew Ippolito: So assist a chromatic from the maternal chromosome and a chromatic from the paternal chromosome they're called non sisters.
+27:03
+Andrew Ippolito: And the reason why we have a special name, for that is as we'll see in meiosis we're actually going to shuffle these we're gonna watch as a pair of.
+27:14
+Andrew Ippolito: Two decks of cards essentially shuffle and that's one of the ways we get diversity that's the power of sexual reproduction that's why you don't look like your siblings or your parents, because the decks have been shuffled between the non sisters.
+27:31
+Andrew Ippolito: All right, that's all say about chromosomes.
+27:36
+Andrew Ippolito: Now we're going to talk about the cell cycle. Andrew Ippolito: So this is this is frames in a movie, so to speak, we're looking at the dynamics of life of a cell or you carry a eukaryotic so.
+27:48
+Andrew Ippolito: Okay, so what i'm about to teach you holds true for all sexual reproductive organisms it holds true for all fungus plants, animals and on almost all protests there's always exceptions.
+28:06
+Andrew Ippolito: So you know, obviously opportunities i'm going to throw that out there, so this this is universe.
+28:13
+Okay. Andrew Ippolito: And you see here, you see the G zero G sub zero knows how that's sitting outside the track.
+28:20
+Andrew Ippolito: Okay, this is not part of the cell cycle, you would say appropriately cells into the cell site cells exit the cell cycle, there is an entry point and exit point.
+28:32
+Andrew Ippolito: And in a physical place it's right here. Andrew Ippolito: Okay, the first place, the cell start.
+28:41
+Andrew Ippolito: Is we call G one. Andrew Ippolito: The first growth phase and i'll tell you what i'll map this out briefly for you and then we'll go through this will run this track of your times so G one leads to s phase.
+28:58
+Andrew Ippolito: s phase leads to jitsu Jiu. Andrew Ippolito: jitsu leads to em phase notice, I refer to that as m phase and not mitosis just like I say s phase and not DNA synthesis.
+29:15
+Andrew Ippolito: And then, and then assuming the cells will continue dividing em phase will lead to the next one.
+29:24
+Andrew Ippolito: Okay, so just burn this into your head G one. Andrew Ippolito: g two m.
+29:32
+Andrew Ippolito: g one. Andrew Ippolito: g two m G one just keep going.
+29:40
+Andrew Ippolito: Okay. Andrew Ippolito: Go. Andrew Ippolito: Ahead Angela. Angela Harbeck: So, you said that, like in the book they label the questions or whatever was the cell can't divide as G zero.
+29:52
+Andrew Ippolito: Okay care careful that's that's a there's a difference between a cell back can't divide and a cell, that is not currently dividing Okay, so a cell I can't divide is called.
+30:06
+Andrew Ippolito: A senescent sell. Andrew Ippolito: You like sorry I asked.
+30:13
+Angela Harbeck: So so. Andrew Ippolito: So go ahead, ask your question now so in a cell Aquinas and sell that is not currently dividing.
+30:20
+Angela Harbeck: Okay, so a questions is what it doesn't divide and assessment is one it like can't divide.
+30:28
+Andrew Ippolito: Even if you tell it to you. Angela Harbeck: Okay. Andrew Ippolito: yeah exactly so. So. Andrew Ippolito: The default life, the default state of all cells that are eukaryotic is to not be growing not be cycling.
+30:44
+Andrew Ippolito: they're outside the cell cycle this This is where they spend the majority of their life.
+30:51
+Andrew Ippolito: Unless they're like a stem cell stem cells are just constantly dividing. Andrew Ippolito: Okay, but 90% of your body is in a state of quiescence and a lot of those cells are in a state of sin that senescence means the cell will not respond to growth factors.
+31:09
+Andrew Ippolito: So, like your neurons. Andrew Ippolito: Right neurons don't regenerate neurons can create their axons and pull them in but that cell itself does not regenerate the cell itself won't go through mitosis they're called a my tonic cells or terminally differentiated.
+31:32
+Andrew Ippolito: And senescent okies in this the worst stump starting to dig deeper than your book does then and I apologize, remember, I might have mentioned this earlier, that this is my wheelhouse.
+31:43
+Andrew Ippolito: This is where I spent a lot of my time in Grad school and in my own research, so I know I could have written this part of the textbook and given them pointers this was like the stuff I worked on.
+31:57
+Andrew Ippolito: A lot of the stuff you might learn when you take cell biology molecular biology immunology like the higher level junior and senior level courses you'll see these words again.
+32:08
+Andrew Ippolito: they're useful though right it's the these words give you a tool mental tools to think about, we can only think, as well as our language is right, you guys might have heard that before and some of the other classes.
+32:19
+Andrew Ippolito: Without language you can't really think right so i'm giving you the tools to think through things.
+32:26
+Andrew Ippolito: So quiescence cells are sleeping cells, you can think of them as sleeping just like you sleep right.
+32:33
+Andrew Ippolito: you're not dead, when you're asleep you're just sleeping is he dead nope you just sleeping, how do you not well he's breathing.
+32:42
+Andrew Ippolito: Okay class and cells are metabolized and they're maintaining homeostasis they're making their proteins are bringing their saw you to bring you in there, did you play calluses and some transport chain blah blah all the stuff we learned about their living.
+32:55
+Andrew Ippolito: OK, and now ready now let's play the game.
+33:00
+Andrew Ippolito: there's your growth factor there's your mind a gigantic stimulation.
+33:07
+Andrew Ippolito: This is your alarm going off in the morning how many of you use alarm to wake up in the morning, keep your hands up washes how many of you hit snooze at least once.
+33:17
+Andrew Ippolito: Oh, we got the go getters how many of you pitch news at least twice.
+33:23
+Andrew Ippolito: Three times. Andrew Ippolito: that's about where I am four times.
+33:28
+Andrew Ippolito: Five times. Andrew Ippolito: How many Jordan.
+33:34
+Jordan Russell: i'm like today. Jordan Russell: You see, I woke up five minutes before class.
+33:42
+Andrew Ippolito: Nice that's. Andrew Ippolito: 925 Okay, so I had. Andrew Ippolito: I had one semester, where.
+33:48
+Andrew Ippolito: we're one of the women said that she said she her room is filled with different alarms in different places and she has to physically get up and go shut them off and come back to bed, because she can't get up otherwise it's like an obstacle course the rest of the class was like.
+34:04
+Andrew Ippolito: It was like 20 times, she said it takes two hours to week i'm.
+34:11
+Andrew Ippolito: Not very efficient. Jordan Russell: i'm not that bad, but like. Andrew Ippolito: I do enjoy myself yeah I even a 45 years old you're not supposed to be as much sleep when you get older I need six hours you guys paid me like eight right now right.
+34:27
+Jordan Russell: I can sleep for like 10 hours. Andrew Ippolito: yeah all right okay. Andrew Ippolito: With you right right.
+34:32
+Andrew Ippolito: And that's the everybody if you're under the age of 26 you should be getting about eight hours of sleep. Andrew Ippolito: If you're not a less number on your high school, you might have felt for 12 hours like that's normal that's not lazy that's your brain, you need that you need sleep sleep is so important to life as you get older.
+34:47
+Andrew Ippolito: Like by about by the time he was reached by 26 years old you'll stop to need as much sleep and you'll notice that you can wake up a little earlier than normal.
+34:54
+Andrew Ippolito: And then, by the time you get into your 30s and 40s papers down like I I can I can i'm fine on six hours of sleep most days now, or I used to need eight.
+35:05
+Andrew Ippolito: Now I just need about really ideally six and a half, seven would be you know the ideal, but so so like us when we're sleeping.
+35:14
+Andrew Ippolito: The alarm goes off that's our growth factor, and so what this tells the cell signal transduction pathways we can think about this, then we have mapped case we have a receptor.
+35:24
+Andrew Ippolito: And we're gonna do is trigger an entire cascade of signal transduction I want to teach this to along these lines now.
+35:34
+Andrew Ippolito: I don't usually teach it like this, but this we just got done talking about receptors and signal transduction.
+35:41
+Andrew Ippolito: Okay, so a bomb glossing over it, the idea here is we're going to turn.
+35:47
+Andrew Ippolito: On genes. Andrew Ippolito: That push us into s phase.
+35:58
+Andrew Ippolito: You see, that so think of G one as preparing the cell to entrust us.
+36:06
+Andrew Ippolito: So what we're gonna do is we're going to turn genes on those genes are going to come on and they're gonna start doing things.
+36:13
+Andrew Ippolito: All right, one of the genes that gets turned on is called a cycling gene cycling's cleanse or proteins that only get expressed during a specific fields of the cell cycle.
+36:28
+Andrew Ippolito: So there are G one cyclones there are, so there are two cyclones and there are em cyclones.
+36:38
+Andrew Ippolito: This is how the cell knows, to keep going forward.
+36:45
+Andrew Ippolito: What a cyclist do they buy into a kinase called a cycle independent kinase or a CD K.
+36:53
+Andrew Ippolito: And so the CD key is always there. Andrew Ippolito: Those genes are always on those kinases or always present when the cyclones show up and bind to their partner that activates them.
+37:07
+Andrew Ippolito: Just like a G protein couple of receptor activates G protein, just like cyclical emp activates protein kinase a cyclist activate CD case, and so you get what's called a cycling CB K complex.
+37:28
+Andrew Ippolito: The first cycling to wake up is cycling D.
+37:34
+Andrew Ippolito: You can remember this word D, the A, B D don't be a deep thing to be deep deep they're cycling de cycling cycling cycling be and that's the order they go in.
+37:48
+Andrew Ippolito: cycling deactivate cycling cycling he activates a cycling a activates be cycling be active hd.
+37:58
+Andrew Ippolito: Your book does not go into this level of detail and i'm not going to ask you, specific detailed questions on this, but this is part of the circuitry of life that just makes sense used to do this, we do this, everybody does this.
+38:11
+Andrew Ippolito: In fact, these some of some of the circuitry was discovered initially and you cells okay so here's how it works ready i'm going to give you a visual of this to make it easier so here's time I should use the whiteboard here.
+38:27
+Andrew Ippolito: This is gonna be really cool you're gonna like this, this this, this is a very elegant system, this is time.
+38:35
+Andrew Ippolito: This is expression level. Andrew Ippolito: When I say expression level turn the gene on make the RNA make the protein here's the protein.
+38:45
+Andrew Ippolito: Okay, and we're going to use colors here.
+38:53
+Andrew Ippolito: cycling D. E.
+39:01
+hey. Andrew Ippolito: And being now your book is going to call cycling, be the my tonic promoting factor or MTF So if you see, I know it's so it's the it's at the end of the game cycling be is what's going to help mitosis happen.
+39:22
+Andrew Ippolito: So your book is going to describe this as MPs. Andrew Ippolito: Which is a cycling see DK complex, the reason why it's got two names, because it was originally discovered in frog oh sites.
+39:33
+Andrew Ippolito: And called although here's there's, a factor that promotes mitosis and then, when they figured out what it was molecular Lee they're all it's a cycling CD complex so cycling be sometimes has this MTF name.
+39:46
+Andrew Ippolito: But here's so here's how we're going to do it right G zero. Andrew Ippolito: g one, let me move this time down here oops.
+39:57
+Andrew Ippolito: minus i'm. Andrew Ippolito: g one.
+40:06
+g two. Andrew Ippolito: All right, watch this cycling D so cycling D expression levels during quiescence is non existent.
+40:18
+Andrew Ippolito: All right. Andrew Ippolito: My agents bind to the cell my agents activate a signal transduction pathways that signal transduction pathways leads to the gene for cycling D to be activated cycling D levels come up.
+40:42
+Andrew Ippolito: cycling D will bind to it see DK partner. Andrew Ippolito: And i'm sorry here's the complexity of that their CV key to their CV K for their CD case six their CD key one i'm not going to give you any of the details.
+40:57
+Andrew Ippolito: On the chart but just understand there's different CD case there's not one, so you would say the cycling dcd key to complex if we were digging into molecular biology here.
+41:08
+Andrew Ippolito: So, again now here let's just say CV let's make Siddiq a Green Party so here let's let's simplify this right, so these guys all buying to some partner.
+41:18
+Andrew Ippolito: CD came. Andrew Ippolito: The expression levels for the CD K is always the same.
+41:26
+Andrew Ippolito: there's always a constant amount of them in the cell they're just always there they're on call.
+41:31
+Andrew Ippolito: Think of them as military reservists who are just ready or picture, like the Air Force has those special pilots that can be scrambled within seconds right.
+41:42
+Andrew Ippolito: Like at this exact moment in time, right now, there are a bunch of people in a room somewhere dressed in full gear ready to jump into an airplane a fighter jet and attack the enemy within seconds.
+41:56
+Andrew Ippolito: Right when 911 happened, they were in the air within minutes.
+42:02
+Andrew Ippolito: Okay, so CD k's are always there just waiting.
+42:09
+Andrew Ippolito: cycling D levels go up they activate their CD K ready their CD K, one of the things they do is they turn genes on for cycling he.
+42:21
+Andrew Ippolito: cycling, he is the S phase cycling. Andrew Ippolito: Now here's where things get interesting.
+42:29
+Andrew Ippolito: One of the things cycling he does.
+42:36
+Andrew Ippolito: Is inhibit the expression of cycling de.
+42:41
+Andrew Ippolito: cycling D levels.
+42:46
+Andrew Ippolito: go down. Andrew Ippolito: Because cycling he levels go up and that same is true now for cycling a so cycling a gets turned on.
+43:02
+Andrew Ippolito: By cycling he. Andrew Ippolito: Like when he shuts off he.
+43:08
+Andrew Ippolito: said he couldn't he levels go down. Andrew Ippolito: and cycling a turns on cycling be.
+43:17
+Andrew Ippolito: cycling be levels come up for mitosis and cycling be shuts off cycling a.
+43:25
+Andrew Ippolito: and cycling a levels go down.
+43:31
+Andrew Ippolito: Then, ultimately, once the south finishes the cell cycle cycle MP levels go down.
+43:40
+Andrew Ippolito: The mechanism by which they shut these off, so this is all controlled by phosphorylation just like everything else we've talked about right, so we have so CD case for us for our lead and then there are things, called cycling kindness inhibitors ck is, these are phosphate thesis.
+43:57
+Andrew Ippolito: And those are the ones that shut things off, so there are ck is controlling.
+44:02
+Andrew Ippolito: I don't know if your book gives you that detail or not I can't remember I want assess you on ck eyes, but you're getting this now, you see the phosphorylation.
+44:12
+Andrew Ippolito: You know that that activates you know that phosphate cases in activated i'm giving you the names of these things, this is how the world goes around.
+44:20
+Andrew Ippolito: Go ahead alexa. Alexa Deprisco: So, like what is the link between these like geez cyclones and these de cycling.
+44:30
+Andrew Ippolito: So. Andrew Ippolito: Between the what cyclones. Alexa Deprisco: The Justice league because we talked about like inside the cycle, it was like G one s.
+44:38
+Andrew Ippolito: Jeff oh OK OK. Andrew Ippolito: yeah there's alphabet soup at this point so you would say that cycling cycling D is the G cycling.
+44:48
+Andrew Ippolito: cycling he say actually I in directly correlated these with the with the chart Let me give it to more explicitly here i'll use 'em use a different color here.
+44:59
+Andrew Ippolito: purple pink I guess fuchsia okay cycling D is associated with G one cycling, he is associated with s phase cycling aids associated with g to cycling be as opposed to embrace.
+45:16
+Andrew Ippolito: It so if you're just remember D A, B and then you know G one G two.
+45:25
+Andrew Ippolito: that's the USA cycling D is the G one cycling cycling, he is the SP cycling cycling as a G cycling gee i'm sorry GT GT.
+45:34
+Andrew Ippolito: You still look a little confused. Andrew Ippolito: or your process. Alexa Deprisco: wiser two names for them.
+45:39
+Andrew Ippolito: OK, so the G one G two m that's that's how we there's lots of things that happened during the cell cycle.
+45:46
+Andrew Ippolito: Right so s phase synthesis phase we have DNA polymerase doing its job we have sister chromatin is being made.
+45:52
+Andrew Ippolito: there's a whole bunch of stuff going on here during G one G two the cells taking on water they're cranking up the rhizomes and i'll teach you all this in a second.
+46:00
+Andrew Ippolito: So there's a lot going on, and so, those are the names of the cell cycle steps or the the phases of the cells like.
+46:06
+Andrew Ippolito: cycling D Second, the second, the second be there, named, you can think of those as arbitrary names there's no rhyme or reason why it's D or e or a or B, probably in the way they were.
+46:17
+Andrew Ippolito: They were probably discovered and cycling a was the first one discovering the call that cycling a etc, etc.
+46:26
+Alexa Deprisco: i'm sorry one last thing so then G one G two and they're like more so stages and then the D amp D or the site ones.
+46:35
+Andrew Ippolito: Yes, those are the master control switches.
+46:41
+Andrew Ippolito: and other words, the reason why a cell goes into s phase is because of cycling be cycling D turns the genes on the cell needs for s phase cycling he turns the genes on necessary for g to each one of these turns the genes on for the next phase.
+47:03
+Andrew Ippolito: So, so, for example in s phase one of the genes we're going to need is something called DNA polymerase.
+47:11
+Andrew Ippolito: will learn about this in Chapter 16 DNA polymerase is that ends on that makes DNA. Andrew Ippolito: All right, it's an expensive enzyme we don't want to just have it there all the time, we only needed during this one period of time in the cells life.
+47:25
+Andrew Ippolito: And so we're only going to manufacture it. Andrew Ippolito: When we need it, and so the way we control that sort of thing is by turning genes on and off at key moments so cycling D, which is activated right by the nitrogen.
+47:42
+Andrew Ippolito: So management bites of the cell signal transduction turn cycling dion cycling D then goes and turns on DNA plumbers, among other things.
+47:51
+Andrew Ippolito: Okay, so it's starts the machine weeks the machine up everything starting to wake up and do.
+48:00
+Andrew Ippolito: Right, where it's like you're getting out of bed in the morning.
+48:07
+Andrew Ippolito: Okay. Andrew Ippolito: So we can reduce this complexity now.
+48:15
+Andrew Ippolito: By simply saying. Andrew Ippolito: So step back now get rid of the complexities and just say this growth factors.
+48:24
+Andrew Ippolito: stimulate the cell to start the cell cycle.
+48:29
+Andrew Ippolito: And the first phase is G one. Andrew Ippolito: The cell during G one is getting ready to divide.
+48:40
+Andrew Ippolito: and think about the basic requirements of dividing a cell and half you're going to need to get bigger right the cells are going to need more water so they're bringing water in.
+48:49
+Andrew Ippolito: they're going to need to ramp up their protein production they're going to need other enzymes, which means we need more ripe isms they're gonna make more ripe isms okay so that's the free under the microscope we don't see anything it looks just like it's just a cell under the microscope.
+49:05
+Andrew Ippolito: The only way you know something's going on as if you chemically analyzed it doing fancy experiments so in the early days of all this, we could just see the salad say it's just growing.
+49:18
+Andrew Ippolito: The only visual distinction, we had under the microscope was mitosis.
+49:24
+Andrew Ippolito: Right so here's The first way we define the cell cycle it's think of it like a clock right.
+49:31
+Andrew Ippolito: The cell starts growing. Andrew Ippolito: And then, at some point.
+49:37
+Andrew Ippolito: It goes through mitosis mitosis last like this long so we'll call this m phase.
+49:45
+Andrew Ippolito: And then the rest of this it's not dividing so we're going to call the rest of that.
+49:50
+Andrew Ippolito: The in between fees interface. Andrew Ippolito: So that's why we have that word interface is simply this broad generic you're in the cell cycle, but you're not going through mitosis.
+50:04
+Andrew Ippolito: Because in the early days of this when all we had was the microscope to observe things we didn't have any of the biochemistry or molecular biology, we could just look, all we did was watch those go nothing, nothing, nothing, nothing, nothing, nothing.
+50:18
+Andrew Ippolito: Nothing nothing, nothing, nothing no divide so so there was so they were clearly there were two things they were doing, they were either not dividing and then suddenly dividing mitosis takes I think in a normal human cells like 20 minutes.
+50:34
+Andrew Ippolito: Which is why, when you're looking at cells in culture, you almost never see it because it's such a quick event why because it's a dangerous thing cells don't want to get caught with their guard down.
+50:46
+Andrew Ippolito: So they do this fast. Andrew Ippolito: Once we started to parse the molecular biology of this once we started to distinguish what's going actually going on in the cell, we were able to take interface and start subdividing it.
+51:02
+Andrew Ippolito: And that's where your G one G two are okay, so you can see.
+51:07
+Andrew Ippolito: g one G two that's interface. Andrew Ippolito: And then you have employees so interfaces subdivided into G one G two.
+51:19
+Andrew Ippolito: And the simplest way to think about all this is just each phase is getting ready for the next phase.
+51:29
+Andrew Ippolito: And the molecular circuitry is this that's all driven by cyclists.
+51:36
+Andrew Ippolito: And you can actually understand to with with with this idea here, you can see life uni directional you can't go from aspect that you want.
+51:48
+Andrew Ippolito: it's like burning your bridges. Andrew Ippolito: invading army comes and then the captains of the army, destroy the boats, so the army has no choice but to go forward.
+52:00
+Andrew Ippolito: One of the ruthless ways that conquers make their armies do their job.
+52:09
+Andrew Ippolito: Now that said. Andrew Ippolito: So, like I just kind of been both this idea of it being irreversible.
+52:16
+Andrew Ippolito: Alright, so what happens when your when your alarm goes off in the morning you wake up, you get conscious and you hit snooze and you're fed back into dreamland.
+52:24
+Andrew Ippolito: there's this idea of being able to kind of come in and out of consciousness there's this idea of being able to come in and out of the cell cycle and the reality is there's a point.
+52:36
+Andrew Ippolito: within one. Andrew Ippolito: Where the cell could So if you withdraw the growth factors, the cell can go back to sleep again.
+52:45
+Andrew Ippolito: And this correlates to the whole signal transduction cascading gene expression yada yada yada if you take so you know you treat the solid growth factors they start their cat cascades they start turning genes on if you remove the signal.
+52:56
+Andrew Ippolito: Factors the agents, the cells can stop doing all that and they could go back to sleep.
+53:03
+Andrew Ippolito: that'd be a little grumpy. Andrew Ippolito: But, just like you finally planting your feet on the ground and committing to consciousness every day and standing up and doing whatever you're going to do.
+53:16
+Andrew Ippolito: A rolling over and turning zoom on. Andrew Ippolito: You reach what's called the restriction point or the our point sometimes it's just our, this is the point of no return.
+53:30
+Andrew Ippolito: We can call this a state of mito janneke independent growth you don't need my agents anymore, the cell is just gonna might a gigantic independent growth we don't need my agents they're done they've done their job they can go home now.
+53:48
+Andrew Ippolito: Okay. Andrew Ippolito: At this point, the cell has a choice to make.
+53:53
+Andrew Ippolito: I either can divide. Andrew Ippolito: or go kill myself that's it.
+54:00
+Andrew Ippolito: divider die that's the divide or die.
+54:07
+Andrew Ippolito: This is where we start talking about death, a little bit now. Andrew Ippolito: You see, that blue arrow see a blue arrow right there that's called a checkpoint.
+54:18
+Andrew Ippolito: By checkpoint is a moment in time for the cell during the cell cycle, where it assesses itself for damage its health and it asks itself self can I keep going on, or should I kill myself.
+54:34
+Andrew Ippolito: If its DNA is damaged. Andrew Ippolito: it's going to try to fix itself not going to give up just yet, it will arrest.
+54:46
+Andrew Ippolito: it's called cell cycle arrest, so a cell has my agents added to it, it is dividing it is in G one, and then it gets hit with some UV radiation.
+54:55
+Andrew Ippolito: or a carcinogen, and something damages this DNA the cell stops and it tries to fix itself at the same time it's trying to fix itself it's quietly also turning on all these machines to kill itself.
+55:09
+Andrew Ippolito: it's called programmed cell death and it's called apoptosis.
+55:14
+Andrew Ippolito: You see, at the bottom of the screen apoptosis that's how you pronounce that word if you don't pronounce that word right you found my class.
+55:23
+Andrew Ippolito: it's apoptosis, it is not a pop doses.
+55:30
+Andrew Ippolito: If you hear another Professor say a pop toast is tell them die try says you're wrong and make sure you see in a really sarcastic voice so the heat, you can see, well, nobody likes being told that they're pronouncing things wrong.
+55:43
+Andrew Ippolito: But they're pronouncing.
+55:49
+Andrew Ippolito: If you stay after class will tell you the story of this this word it's like a trigger point for me at this point.
+55:54
+Andrew Ippolito: Okay, so apoptosis you can see a potosi's a potato separatists, as you can see a pop the second piece silent and you definitely can't see able to assist that's just silly.
+56:12
+Andrew Ippolito: Alright, so a potosi's apoptosis program cell death, the cell has genes and puts energy into neatly offing itself it's ritualistic cellular suicide.
+56:25
+Andrew Ippolito: This is the way we remove cells from multicellular organisms without eliciting an inflammatory response or any kind of immune response, it is a natural cell death and all of your cells on the surface of your body are dead, right now, from apple.
+56:42
+Andrew Ippolito: Your body is shedding cells at a rate of 100,000 per second and you're making 100,000 new ones per second using my growth.
+56:51
+Andrew Ippolito: And they're balanced out that's why you don't get bigger and bigger and bigger the cell death equals the cell growth okay.
+56:58
+Andrew Ippolito: So let's say that the cell does not have damage, and I can keep going, then it gets through s phase.
+57:06
+Andrew Ippolito: there's another checkpoint in s fees there's another checkpoint in g to notice that there at the boundaries there's a g to em checkpoint there's a G one s checkpoint that's how we talked about them.
+57:17
+Andrew Ippolito: This is the checkpoint, this is the G to em checkpoint, and this is the Inter s phase checkpoint I think those are the ones, your book talks about there's other ones there's an interface checkpoint but your book doesn't give you the details here go ahead alexa.
+57:30
+Alexa Deprisco: Really quick, what is the difference in between this restriction point versus the checkpoint. Andrew Ippolito: Okay.
+57:36
+Andrew Ippolito: The restriction point is recognized is that moment in time, when growth factors can be removed from the environment and the cell will still continue to divide anyway, whereas before the our point if you remove the growth factors, the cell will stop and go back into classes.
+57:57
+Andrew Ippolito: In one arrest it'll just go back to sleeping.
+58:03
+Andrew Ippolito: Whereas a checkpoint is a quality control, but this is what protects us from cancer.
+58:10
+Andrew Ippolito: These are cancer protections and multicellular organisms because mommy look at cancer, we see, they all have a disrupted cell cycle, in fact, you could define cancer as a state of cell cycle pathology.
+58:30
+Andrew Ippolito: or a state of cell instability.
+58:36
+Andrew Ippolito: Some cancers will have a mistake in the G one so i'm gonna have an energy to him, but basically sells camp sense their damage or they sense their damage they can't do anything about it and they can't kill themselves.
+58:50
+Andrew Ippolito: The machinery to kill themselves has been rendered inactive from initiation they can't activate apoptosis.
+58:56
+Andrew Ippolito: it's a Now you can really understand cancer here at a broader level ready cancer isn't just sell cells growing where they're not supposed to its cells drawing when they're not supposed to and also not being able to die when they're supposed to.
+59:10
+Andrew Ippolito: Okay, when a normal cell removes itself by accident from its environment, it will kill itself.
+59:16
+Andrew Ippolito: You guys remember integrations number one we talked about two cells talking to each other and we talked about them being able to tell so when sell stop that handshake.
+59:27
+Andrew Ippolito: They kill themselves. Andrew Ippolito: that's a protective mechanism to.
+59:32
+Andrew Ippolito: Okay, so basically this contact point is each cell reassuring each other, they should they should keep living.
+59:40
+Andrew Ippolito: Okay. Julia Lakchin: So a little off topic, but it's like related to like cancer, so when someone gets chemotherapy what does that do.
+59:49
+Andrew Ippolito: So. Andrew Ippolito: chemo therapeutic agents. Andrew Ippolito: And radiation therapy targets cycling cells, remember, I told you like 90% of your cells are in cycling.
+59:59
+Andrew Ippolito: Right that's why you can take chemo therapeutic agents and and not kill the cell so chemotherapy agents target the cell cycle and so only sells going through the cell cycle will die those that are in G zero walk.
+1:00:12
+Andrew Ippolito: Okay, so the cells in your body that aren't going through the cell cycle or your hair follicles your skin cells your endothelial cells your microbiome in your gut.
+1:00:22
+Andrew Ippolito: Okay, so people that are exposed to chemo therapeutic agents that's why they get sick you've killed all the bacteria in your gut now you can't really eat that well your hair falls out and your skin gets lesions.
+1:00:33
+Andrew Ippolito: Right, so the idea of all chemotherapy is kill the cancer cells.
+1:00:40
+Andrew Ippolito: But don't kill the good cells. Andrew Ippolito: Right, so the idea is.
+1:00:45
+Andrew Ippolito: That you need to be healthy enough overall to survive chemotherapy. Andrew Ippolito: If you are not a healthy person if you're not exercising and you smoke a lot of you drink a lot and you're really overweight and you're just not taking care of yourself and then you get cancer and go the doctor the doctor says.
+1:01:00
+Andrew Ippolito: Okay, so I need to treat you with this level of chemotherapy to kill your cancer.
+1:01:06
+Andrew Ippolito: This is going to kill you. Andrew Ippolito: I can only give you this amount this isn't going to kill you but it's also not going to kill the cancer so basically your cancer is going to kill you.
+1:01:17
+Andrew Ippolito: And that's what happened my cousin curtis he got skin cancer and he was also really not taking care of themselves, it has big weird lump underneath his arm he waited too long ago the doctor.
+1:01:26
+Andrew Ippolito: And they came with the doctors told them that they could not give him the dose the lethal dose for the cancer, because he wasn't healthy enough.
+1:01:34
+Andrew Ippolito: Yet. Andrew Ippolito: So, think about life as training for the big day.
+1:01:43
+Andrew Ippolito: everybody gets cancer. Andrew Ippolito: that's the reality of it if you live long enough, you get cancer, not necessarily the worst time that kills you right away, something else will kill you obviously everybody dies right.
+1:01:55
+Andrew Ippolito: This is stuff we don't usually think comfortably about talking about, but the idea is is cancer is the other side of evolution.
+1:02:06
+Andrew Ippolito: it's a double edged sword. Andrew Ippolito: Right, you need to change in order to keep up with the environment and cancer is all about change, so the key is keep the organism alive long enough to have kids.
+1:02:19
+Andrew Ippolito: And then, after that nothing matters for them anymore. Andrew Ippolito: From an evolutionary perspective right every organism has a kind of a program def point like tortoise is live what like 300 years we live about 70 to 100 years depending right that bowl, on the other, room last couple months.
+1:02:39
+Andrew Ippolito: Right, these are programmed responses that can be overcome, and so there are some people now that are researching death from the perspective of death is a curable disease, just like any other disease that natural death aging that aging is a disease that can be cured.
+1:02:58
+Andrew Ippolito: Now it's looking into a car and get into a car accident die. Andrew Ippolito: But if you're careful, some people are saying the first person to 1000 years old, is alive today right now.
+1:03:11
+Andrew Ippolito: And then there's a question of who wants to up to 1000 years old, all right that's it that's a totally different question.
+1:03:18
+Andrew Ippolito: All right. Andrew Ippolito: here's another way of looking at the cell cycle, this one now digs into a little bit more detail so you can see interface, you see interface here.
+1:03:28
+Andrew Ippolito: At one sgt there's interface, and now we can break em face down and there's your mitosis and now you can see mitosis is part of emphasis.
+1:03:41
+Andrew Ippolito: The other part of this thing here called psycho can nieces.
+1:03:46
+Andrew Ippolito: site to sell can he says move we're basically splitting the cell and half this is where the cytoplasm divides.
+1:03:53
+Andrew Ippolito: Everything else or glossing over this because we still don't fully understand it and it's insanely complicated my so think of the mitochondria the er the goji the proximate like everything kind of evenly partitions itself in half.
+1:04:08
+Andrew Ippolito: that's called. Andrew Ippolito: starts.
+1:04:15
+Andrew Ippolito: After my toe so really this slide isn't even that accurate let's let's do this here here's the reality of it, this is mitosis.
+1:04:25
+Andrew Ippolito: Alright pro phase mcafee's Anna fees caliphates trophies trophies and a face to face.
+1:04:34
+Andrew Ippolito: Okay side Oh, can he says begins let's see how much somewhere and Anna fees and continues after to feed into the next one, so it bleeds into the next cell cycle.
+1:04:51
+Andrew Ippolito: site to kind Nice.
+1:04:56
+Andrew Ippolito: Alright, so these are two independent events there's there's nuclear division and cytoplasm division cytoplasm division begins, a little bit more than halfway through the my topic division.
+1:05:09
+Andrew Ippolito: and ends after mitosis is done.
+1:05:15
+Andrew Ippolito: And you'll see it once you see more of this it'll make more sense but that that's all say about that.
+1:05:24
+Andrew Ippolito: Okay. Andrew Ippolito: This gives you a kind of a way to think of a 24 hour clock This gives you the relative durations of each of the phases now, you can see that mitosis is really short.
+1:05:38
+Andrew Ippolito: s phase is about two hours long from a million cell. Andrew Ippolito: Interestingly, the mammalian cell cycle takes about 24 hours.
+1:05:47
+Andrew Ippolito: Just a good day yeah it's all in sync with their circadian rhythms.
+1:05:55
+Andrew Ippolito: g one G two are highly variable. Andrew Ippolito: Okay, the cells don't go through a very specific.
+1:06:03
+Andrew Ippolito: exact amount of time for G one g to. Andrew Ippolito: not think of the implication there if I have a petri dish.
+1:06:12
+Andrew Ippolito: Converting normal, so there are the cells called an hdfs normal human deployed fibroblasts Okay, and here they are there's a bunch of an hdfs in here.
+1:06:24
+Andrew Ippolito: they're human, these are human for skin fibroblasts hdfs as another word for these hospitals doing circumcisions have a ready supply of fresh cells that they give researchers.
+1:06:39
+Andrew Ippolito: Their control cells, and so they go through mitosis right.
+1:06:44
+Andrew Ippolito: But what's going to happen if every single one of those cells is going through the cell cycle right and it's highly variable.
+1:06:51
+Andrew Ippolito: let's say you have 1000 cells now those cells are all over the place, some cells are in G one summer summer in summer right there, those are called an asynchronous population.
+1:07:11
+Andrew Ippolito: I can't say the word synchronous anymore, because of the zoom and asynchronous teaching and synchronous.
+1:07:18
+Andrew Ippolito: Okay, so so cell cycling in a petri dish will be asynchronous they'd be all over the place.
+1:07:26
+Andrew Ippolito: And there are some drugs, you can treat them with to lock them into just one of those so you can have them all after 24 hours in G one G two or somewhere.
+1:07:34
+Andrew Ippolito: If you're studying this, though, and those are called synchronous cells synchronous populations.
+1:07:43
+Alexa Deprisco: Really quick so, then, do you think if you left these cells in the future, just like alone growing long enough, but they get cancer.
+1:07:52
+Andrew Ippolito: No, they don't, and the reason for that is so these cells here, these n hdfs they will only divide that's a really great question, they will need to buy it about 20 between 20 and 30 cycles before they we use in the lab we say they'd crap out.
+1:08:09
+Andrew Ippolito: They would stop dividing that's called terminal. Andrew Ippolito: Send essence that was that word I used earlier when Angela talked about sales that can't vs don't at the moment okay so that's how they that's how they present themselves getting cancer alright guys divide nope.
+1:08:31
+Andrew Ippolito: And, and this is controlled by their telomeres shortening. Andrew Ippolito: So remember the chromosome remember how the end of the chromosome it turns out every single cell every single time cells divide their children gets a little shorter.
+1:08:44
+Andrew Ippolito: little shorter a little short until it starts cutting into important areas and when that happens that's when the cells stop dividing.
+1:08:50
+Andrew Ippolito: Cancer cells are immortal. Andrew Ippolito: there's a cell line.
+1:08:56
+Andrew Ippolito: That hasn't been growing since the 1950s, called the killer cell. Andrew Ippolito: in depth, or a woman Helen loud I forgot her last name is la something, it was a highly aggressive breast cancer and they it was, though this is a famous along because it's the very first I said cell line a cell line.
+1:09:17
+Andrew Ippolito: In in the research world a cell line is a cultured specific type of cell that we can use in research.
+1:09:28
+Andrew Ippolito: Right so in hdfs aren't a cell line because they die that you can you can only grow them so much you have to have a ready supply of them right hela cells.
+1:09:39
+Andrew Ippolito: Are immortal and they've been being grown since the 1950s and pretty much any any lab in the world that does any research on cells has a hela cell in their lab somewhere.
+1:09:52
+Andrew Ippolito: Right frozen and liquid nitrogen and some of its growing and they grow like crazy and they're they're very fast and they grow all over each other, they don't obey any of the laws of normal cell growth because their cancer cells.
+1:10:07
+Andrew Ippolito: So there's something called contact inhibition when cells grow, they normally stop growing when they see each other when they meet each other, they stopped growing.
+1:10:15
+Andrew Ippolito: Okay, and so, so a petri dish that's covered in normal cells, you know it's a nice even model layer that's called a confluence.
+1:10:24
+Andrew Ippolito: This is sell this is cell cultures stuff you want to know this, but a confluent play a full 100% confident plan would be completely covered, you know 20% confluence they'd be growing healthily 70% you start to think about splitting them.
+1:10:38
+Andrew Ippolito: Okay hela cells when once they get conflict, they just keep growing they grow on top of each other, they just can't they don't respect boundaries that's one of the hallmarks of cancer.
+1:10:52
+Andrew Ippolito: Alright, and honestly I could i'm starting to pivot this into a cancer lecture I gotta stop that we gotta we gotta learn the basics before we can learn the complexities rate and a.
+1:11:02
+Andrew Ippolito: Tyler I just saw you wrote the first one was better what we're talking about what's the context.
+1:11:07
+Taela Shahid: Well, in the beginning, the class, you were asking about the resolution of the white. Andrew Ippolito: Oh right right okay okay.
+1:11:12
+Taela Shahid: yeah. Andrew Ippolito: And then tori. Andrew Ippolito: Her laptop died.
+1:11:18
+Andrew Ippolito: I wonder if it went through apoptosis was a program to die, that was a terrible joke Doc try stop talking about yourself in third person okay.
+1:11:26
+Andrew Ippolito: i'm tired and delirious here we go, so the rest of the slides think of these as remember, I told you, we don't have formal lecture notes here your lecture notes i'm not gonna sit here and read these slides that would just be boring.
+1:11:37
+Andrew Ippolito: But let me skim this and make sure that I got all I touched on everything it looks like I did resting.
+1:11:45
+Andrew Ippolito: You see, I have that where there's quiescence. Andrew Ippolito: Sales arrest.
+1:11:53
+Andrew Ippolito: here's here's the map K cascade rate so let's look at this really quick.
+1:12:00
+Andrew Ippolito: they're here might, let me zoom out again I can't really I can't draw on this Oh well too far.
+1:12:08
+Andrew Ippolito: Right so here's a nitrogen see this that's protein kinase see we didn't learn about him protein kinase see.
+1:12:15
+Andrew Ippolito: You see RAF wrath is ag protein mech kinases these are a specific family of map case.
+1:12:25
+Andrew Ippolito: So you got the Mex activating the arcs map activating all sorts of other downstream kinases various Seidel plasma targets there's your relays all your complexity of the relays.
+1:12:37
+Andrew Ippolito: And then you see this this big grouping here, this is the alphabet soup, I was warning you about earlier.
+1:12:43
+Andrew Ippolito: These are transcription factors, a lot of these are oncogene it's like you see see MC MC MC there that's a that's a gene that when it's mutated causes cancer there's one I want you didn't know here CP 53.
+1:12:57
+Andrew Ippolito: Every biology students should be familiar with Has anybody heard of.
+1:13:04
+Andrew Ippolito: Okay, p 53 is called the guardian of the genome. Andrew Ippolito: and guardians of the galaxy.
+1:13:13
+Andrew Ippolito: 100% of cancers have a mutation either in the gene itself or a longest pathway.
+1:13:20
+Andrew Ippolito: P 53 is a master control switch for the cell cycle. Andrew Ippolito: orchestrator the conductor.
+1:13:28
+Andrew Ippolito: want to sell gets damaged. Andrew Ippolito: pathway sense the damage P 53 tells us sell to arrest itself P 53 tells the cells are fixing itself MP 53 tells us to start preparing for death.
+1:13:41
+Andrew Ippolito: Okay, it does it all, so people who are born with a mutation and. Andrew Ippolito: Have a disease called leaf remaining syndrome and people that suffer from leaf rimini get cancer early in life.
+1:13:53
+Andrew Ippolito: Of all different kinds of cancer, and they have a life expectancy in their 20s maybe their 30s depending on what kind of cancers crop up it's random because people to do some of them all cancers.
+1:14:05
+Andrew Ippolito: Okay. Andrew Ippolito: But all these others er you see are there that's the estrogen receptor.
+1:14:14
+Andrew Ippolito: See when you see the see what the dash I mean cellular, which means that there was a target identified and viruses there's V MIC and simic cellular versus viral.
+1:14:24
+Andrew Ippolito: Okay, but all they're all these are acronyms based on the whims of a researcher who discovered it and wanted to name it.
+1:14:33
+Andrew Ippolito: And I don't even remember what happy stamper anymore, because it's been since 2004 or five that I was dealing with this stuff.
+1:14:41
+Andrew Ippolito: Okay, but do you see how some of these okay So these are various there's a, so there are my energetic pathways there are stress pathways.
+1:14:51
+Andrew Ippolito: And there are stress management pathways there were ones that kind of cross talk so notice that these four different signal transduction pathways.
+1:15:01
+Andrew Ippolito: Have overlap there's perks over here there's perks over there, but there's different family members as arcs one into vs or five, but if you look here, so you see forces here see forces here okay P 53 is not here.
+1:15:19
+Andrew Ippolito: So what you're seeing here is we pull apart these circuits of cellular behavior based on stimuli.
+1:15:28
+Andrew Ippolito: So you stimulate a cell with i'm just making this up, stimulate a cell with hydrogen peroxide or stress it with hydrogen peroxide or stress it with arsenic.
+1:15:39
+Andrew Ippolito: Are activated with a growth factor right different parts of the pathways flare up and get activated and, depending on their downstream consequences.
+1:15:52
+Andrew Ippolito: The cell will do stuff the cell might kill itself the cell might go through mitosis the sunlight start producing targets for the immune system, whatever okay.
+1:16:06
+Andrew Ippolito: So that's the basic idea, everything is driven by these signal transduction pathways.
+1:16:14
+Andrew Ippolito: Alright, more lecture notes, you can study on your own, but the take home here is that, during the first growth phase g.
+1:16:22
+Andrew Ippolito: The cell is getting ready to divide it is taking on mass it is increasing or scaling up its ability to make proteins, so it will turn on rhizomes the rate of our RNA synthesis will increase ribosomal RNA.
+1:16:41
+Andrew Ippolito: And really. Andrew Ippolito: If you haven't been studying the earlier stuff well i'm going to start talking in jibberish at this point to you this is why we talk about a class like this is being cumulative I can't talk intelligently about G one till i've already explained to you the basics of RNA, for example.
+1:17:01
+Andrew Ippolito: Okay, so if you're struggling to learn this material and there's a lot of concepts in here that are kind of foreign.
+1:17:08
+Andrew Ippolito: I will encourage you to go back and rewatch bits and pieces of the older lectures and go back to older chapters and revisit some of these ideas that will help you understand this current stuff.
+1:17:23
+Andrew Ippolito: Alright, so. Andrew Ippolito: arguably the most important phases, because this deals with the chromosomes during s phase, each one of those chromosomes is duplicated exactly one time.
+1:17:45
+Andrew Ippolito: And we could spend an entire chapter just studying as phase.
+1:17:52
+Andrew Ippolito: This is the rabbit hole.
+1:17:57
+Andrew Ippolito: we're going to keep it simple chromosomes duplicate sisters emerge, so you can kind of visualize it like this, if this is the chromosome linearly.
+1:18:07
+Andrew Ippolito: You can imagine that in different points there are these things, called origins of replication which we'll get to i'm going to Chapter 16 or origin of replication and what happens is the double standard helix opens get these little bubbles.
+1:18:24
+Andrew Ippolito: there's multiple points of this. Andrew Ippolito: These are called replication bubbles, those are single stranded pieces of DNA and then the DNA is replicated.
+1:18:35
+Andrew Ippolito: And these bubbles move by directionally like zippers.
+1:18:41
+Andrew Ippolito: And when it's all done you basically have to genetically identical copies of the double stranded helix but they're bound together by proteins we're gonna call.
+1:18:56
+Andrew Ippolito: cohesive runs.
+1:19:02
+Andrew Ippolito: In class what I would do is I would take two meter sticks and clap them together, and I will put a bunch of rubber bands around it.
+1:19:10
+Andrew Ippolito: You can call that thing a duplicated chromosome now. Andrew Ippolito: With a pair of sister.
+1:19:19
+Andrew Ippolito: Alright, so that that is created during s phase.
+1:19:29
+Andrew Ippolito: I talked about all this already so. Andrew Ippolito: All right, once the cell is done duplicating is DNA.
+1:19:37
+Andrew Ippolito: So, again SS synthesis so you can say once this is done synthesizing its DNA but duplicating is a better word, because you know you get exactly one COP.
+1:19:48
+Andrew Ippolito: The cell will then go into jitsu. Andrew Ippolito: and G two is the calm before the storm G two is that last part of the cell cycle, where we're still we're gonna.
+1:20:01
+Andrew Ippolito: we're we're gonna leave G two and we're never coming back as the cell, we are today we're going to be forever changed because we're going to go through mitosis.
+1:20:10
+Andrew Ippolito: And the key that happens in g to the key moment is when the centrism divides, which is a where you haven't seen in a few weeks now, so let me refresh your memory.
+1:20:20
+Andrew Ippolito: i'll tell you what before I am refresh your memory Maybe you can refresh our memory what's the centrism.
+1:20:27
+Andrew Ippolito: Anybody remember try to pull it out of your head, if you can.
+1:20:36
+Andrew Ippolito: Okay here's a eukaryotic cell. Andrew Ippolito: here's the nucleus.
+1:20:42
+Andrew Ippolito: Somewhere in the Center of this cell. Andrew Ippolito: Is a structure that when we zoom into it.
+1:20:50
+Andrew Ippolito: Has a pair of cylinders. Andrew Ippolito: That we call them we remember the name of the cylinders.
+1:21:01
+Julia Lakchin: Central central's. Andrew Ippolito: Good. Andrew Ippolito: Those are our central's these are only found in animals and fungus plants slack century, they have the central zone it's just empty.
+1:21:15
+Andrew Ippolito: And normally If you recall the Center zones job. Andrew Ippolito: is to help arrange the microbial network number micro to people's.
+1:21:30
+Andrew Ippolito: Right so micro tutorials go everywhere.
+1:21:35
+Andrew Ippolito: What we're gonna do angie to is we're going to duplicate these.
+1:21:41
+Andrew Ippolito: So let me show you that.
+1:21:49
+Andrew Ippolito: stuff you share wait alright so here's a century all.
+1:21:55
+Andrew Ippolito: You can imagine the century oh. Andrew Ippolito: Extending this way.
+1:22:05
+Andrew Ippolito: Dividing basically that's how they provide, so this one over here.
+1:22:12
+Andrew Ippolito: Let me think how does this division occur. Andrew Ippolito: Man whatever i'm not gonna do this we're really going to do, travel they divide, and so you go from this you go from one pair at 90 degrees.
+1:22:26
+Andrew Ippolito: To two pair and 90 degrees in a mechanism I can't remember exactly how basically take your take your fingers like this, you got the owl right so here's one century century oh here's another century on 90 degrees and just kind of imagine them doing this and said he got.
+1:22:43
+Andrew Ippolito: All right, so here, if this is the century. Andrew Ippolito: And so those lines represent this i'm sorry the centrism, and this is the centrism and these lines, represent the central's you can imagine it as busting apart.
+1:22:58
+Andrew Ippolito: All right, and here's the key ready, this is the important parts of this is gonna help us understand mitosis.
+1:23:06
+Andrew Ippolito: While we fully separate them what I want you to do is understand that they each have.
+1:23:15
+Andrew Ippolito: These micro tools coming out to do, different colors So you can see this.
+1:23:23
+Andrew Ippolito: it's almost like, if you take your hands. And do this.
+1:23:33
+Andrew Ippolito: In between those micro tutorials i'll draw this and orange here zoom in a little you can get a better feel of this in between them, these pairs.
+1:23:43
+Andrew Ippolito: Is a motor that orange is a motor and what this is going to do.
+1:23:50
+Andrew Ippolito: Is your take just two of my fingers here so imagine this is from one century old or one centrism and and others interesting okay.
+1:23:58
+Andrew Ippolito: there's a motor and me to my fingers here this use my pen like this watch this.
+1:24:03
+Andrew Ippolito: See, I can do this okay so i'm going to slowly move away from each other and at the same time, they can pull memorize they can grow.
+1:24:14
+Andrew Ippolito: As they're rolling apart, and so the end game here is that the two Center isms can just keep going, and this is eventually going to be the driving force that separates the cells.
+1:24:28
+Andrew Ippolito: Okay, so this is the molecular motor of division itself.
+1:24:33
+Andrew Ippolito: Alright, so these blue things we're going to now call that.
+1:24:38
+Andrew Ippolito: A spindle fiber.
+1:24:44
+Andrew Ippolito: It is equivalent of calling it a micro to below you can use either word.
+1:24:52
+Andrew Ippolito: spindle fibers or the micro tutorials observed during my DEMO.
+1:24:58
+Andrew Ippolito: And yes, Tyler when you see motor is that the Walker motor protein that yes, exactly that is a kind neeson.
+1:25:10
+Andrew Ippolito: Number there's dining dining and kindness and dying remember dining and kindness and those are the little walkers and the video that we saw and it just so happens, these are kinase OK, so the motor good good memory.
+1:25:26
+Andrew Ippolito: Alright, so i'm going to do matt again here. Andrew Ippolito: Not that far.
+1:25:32
+here. Andrew Ippolito: Alright, so here's here's how you would draw that here's a here's a g to sell.
+1:25:39
+Andrew Ippolito: there's a nucleus, and you might see something like that.
+1:25:55
+Andrew Ippolito: And now we're getting ready for my. Andrew Ippolito: PowerPoint now.
+1:26:08
+Andrew Ippolito: Alright, I want to tell you the story of mitosis. Andrew Ippolito: A couple times so you can get the feel for it So the first thing I want to say is that.
+1:26:17
+Andrew Ippolito: It isn't again i'm going to say this again, it is not cell division it isn't nuclear division, there are some cells that have more than one nucleus there by nuclear multi new created and the way they do that as you go through mitosis without Seidel cases okay.
+1:26:35
+Andrew Ippolito: So this is how you can write this down so that you can really hit hit this home.
+1:26:42
+Andrew Ippolito: And phase equals. Andrew Ippolito: mitosis plus say do, can you guess that's one thing you can say you can also say that cell division.
+1:26:58
+Andrew Ippolito: is equal to nuclear. Andrew Ippolito: Division plus.
+1:27:06
+Andrew Ippolito: Side oh cosmic. division.
+1:27:12
+Andrew Ippolito: So we would appropriately say my. Andrew Ippolito: cell division.
+1:27:21
+Andrew Ippolito: And we usually say mitosis. Andrew Ippolito: Just understand when we say cells going through mitosis we're really saying so they're going through my tonic seldom.
+1:27:40
+Andrew Ippolito: So let's tell the story of mitosis. Andrew Ippolito: The first thing we want to do is, I want to tell it to you i'm not going to draw anything i'm just going to tell it to you so just listen to my voice.
+1:27:53
+Andrew Ippolito: The first thing that happens. Andrew Ippolito: Is the chromosomes condense.
+1:27:59
+Andrew Ippolito: Which means they they crumble up. Andrew Ippolito: And we can actually start to see them as like what's rules.
+1:28:07
+Andrew Ippolito: Second. Andrew Ippolito: The Center isms the two Center zones.
+1:28:14
+Andrew Ippolito: get to opposite sides of the nucleus, they line up getting ready to pull everything apart.
+1:28:20
+Andrew Ippolito: Then the nuclear envelope fragments falls apart.
+1:28:26
+Andrew Ippolito: Where does it go it turns out, it surrounds all the chromosomes each chromosome gets a little skin, so to speak.
+1:28:35
+Andrew Ippolito: Once the nucleus is done once the nuclear envelope is gone. Andrew Ippolito: The Center isms push out all these micro tutorials into the Center and grab the kinetic course remember the kinetic cores are those protein complexes on the Center isms i'm sorry on the central years.
+1:28:55
+Andrew Ippolito: Basically it's like a fishing expedition OK, so the micro tutorials latch onto the kinetic course.
+1:29:02
+Andrew Ippolito: And if you remember the duplicated chromosome with the sister chromatic.
+1:29:07
+Andrew Ippolito: Have Connecticut on the underside so each centrism grabs one of the two sisters at the Connecticut and then the grand tug of war occurs there's a tug of war.
+1:29:21
+Andrew Ippolito: Right, the Center isms both pull on their chromosomes and what ends up happening as a result of this tug of war, this pulling is the chromosomes all end up lining up in the Center of the cell.
+1:29:35
+Andrew Ippolito: And they just kind of hang out there for a second like suspended in space at this moment in time, and this this beautiful alignment of the chromosomes.
+1:29:43
+Andrew Ippolito: And what's going on there as they're just seemingly frozen is those Center the sisters there's an enzymatic degradation going on to pull them apart.
+1:29:54
+Andrew Ippolito: And so, eventually, all at once they all go wow the whole cell starts divided in half now.
+1:30:02
+Andrew Ippolito: Two sets of chromosomes start to get pulled apart and then at that moment the cell itself begins to cave in in the middle and pull and migrate apart.
+1:30:17
+Andrew Ippolito: Okay i'm going to show you a video Now this is this is right in the.
+1:30:22
+Andrew Ippolito: In the course documents unit three mitosis one Okay, I want to show you i'm going to share my screen here.
+1:30:36
+Andrew Ippolito: All right, ready.
+1:30:42
+Why.
+1:30:47
+isn't this working.
+1:30:52
+You slow it down.
+1:30:59
+Andrew Ippolito: There we go okay so let's just say let's consider what we're looking at here so here's one cell.
+1:31:06
+Andrew Ippolito: The bright orange. Andrew Ippolito: The visualization here is just microbial.
+1:31:14
+Andrew Ippolito: Okay, this is called them, you know fluorescence what we've done is we've been able to tag a living cell with the flora, or rather we've been able to grow cells, with a fluorescent version of the 2 billion proteins, that we can visualize them under a specific kind of microscope.
+1:31:29
+Andrew Ippolito: Right, so when you're looking at here is one cell going through mitosis and then there's at that point where the two centers zones had done their fishing already they've pushed i'm sorry, they have done the chromosome dance the tug of war, where now all the chromosomes are in the middle.
+1:31:48
+Andrew Ippolito: Okay, and now they're pulling them apart you can't see the chromosomes here because they're invisible, because the only color that we're showing you here is from micro tutorials so you're watching the dance of the micro tutorials without seeing the invisible DNA okay.
+1:32:14
+Andrew Ippolito: And I don't know this is just. Andrew Ippolito: These are tough okay there we go watch slowly so we're pulling them apart now watch the edges of the cells.
+1:32:23
+Andrew Ippolito: we're going to now start to go through side of cases. Andrew Ippolito: I see that so now the cells are pinching apart.
+1:32:33
+Andrew Ippolito: Two separate things nuclear division inside of cases okay.
+1:32:43
+Andrew Ippolito: And then. Andrew Ippolito: The next the next video i'll show you is after we start naming the pieces so that's that's the story without words without the names now let's go through one more timeless let's add some names here, so we got pro phase.
+1:33:05
+Andrew Ippolito: And during trophies you have.
+1:33:10
+Andrew Ippolito: You know what, let me just look at the slide so i'm not gonna write this out, I want to get through this before the end of the class and we're we're kind of coming up on the end the class here.
+1:33:21
+Andrew Ippolito: Oh, I guess. Andrew Ippolito: I guess, I remember I forgot I put all this in here I write this so pro fees.
+1:33:32
+Andrew Ippolito: chromatin oh. Andrew Ippolito: yeah I know you can I just realized that you. Andrew Ippolito: know, but I just realized, I actually have.
+1:33:41
+Andrew Ippolito: A separate lecture here.
+1:33:47
+Andrew Ippolito: My apologies I forgot that I split this out, so let me.
+1:33:58
+Andrew Ippolito: And I also forgot, just so yesterday, when I was teaching my Microbiology class we just after class we had our stem division meeting.
+1:34:06
+Andrew Ippolito: And department meeting and that that's at 1230, and so I was I had it again in my head that we had class ended in four minutes of class doesn't it for 45 minutes, so it just.
+1:34:18
+Andrew Ippolito: A little mini battling back okay Casey Can you see PowerPoint right now.
+1:34:25
+Andrew Ippolito: And then, so let me go back to my other lecture here.
+1:34:37
+Andrew Ippolito: Alright, can you see my toast it says mitosis on their side. Can you see that.
+1:34:43
+yeah okay. Andrew Ippolito: All right, so yeah so Molar and this further in the next lecture this this we're we're focusing again on the cell cycle itself we're not so we're not going to go into the nitty gritty of mitosis right now I gave you a little preview.
+1:34:57
+Andrew Ippolito: we're going to step back now and say that we're dealing with cycling cells, we could go through mitosis Okay, or we can go through apoptosis so let's talk about this death thing.
+1:35:10
+Andrew Ippolito: apoptosis. Andrew Ippolito: cells so apoptosis is a process similar to mitosis and that there are defined steps to it right we're not going to go into the details here.
+1:35:23
+Andrew Ippolito: But the basic idea is the cell will round up, in other words, it will it will go from being relatively flat if we're thinking about a petri dish it'll go from being flat it'll start pulling away from its neighbors okay so it'll detach itself.
+1:35:39
+Andrew Ippolito: The nucleus starts to fragment the chromosomes condense, just like in mitosis but the nucleus ends up just kind of falling apart.
+1:35:52
+Andrew Ippolito: The cell itself then begins to blab.
+1:35:58
+Andrew Ippolito: and eventually it falls apart into fragments called apathetic bodies.
+1:36:10
+Andrew Ippolito: Is apathetic bodies are then ingested by the rest of the body, there are cells that called fingers sites.
+1:36:19
+Andrew Ippolito: figured there's all different kinds of cells that have the ability to eat things so collector we just call them figure sites so macrophages and mana sites or figure sites there's various kinds of figures that excels.
+1:36:31
+Andrew Ippolito: You might remember figure psychosis as a way of bringing things into the cell cell eating alright so in our bodies, when we shed cells that we don't need any more therapeutic doses, we have cells that basically eat the bits that are.
+1:36:48
+Andrew Ippolito: That come out of this and then you know, recycle the components.
+1:36:54
+Andrew Ippolito: sell yourself digestion. Andrew Ippolito: There is a whole complex sequence of events that occur here.
+1:37:04
+Andrew Ippolito: What you're looking at here is a schematic like a circuit diagram that we looked at what the reactor them here's the idea here's the very basic and you see this two up here and this one over here there's basically two pathways for appetite.
+1:37:20
+Andrew Ippolito: there's an intracellular we call it the intrinsic pathway. Andrew Ippolito: So a cell might kill itself from something happening inside of it.
+1:37:30
+Andrew Ippolito: For example, DNA damage will trigger the intrinsic episodic pathway.
+1:37:36
+Andrew Ippolito: Other times we can actually tell a cell to kill itself with a hormone.
+1:37:42
+Andrew Ippolito: or a signaling factor, a death factor.
+1:37:48
+Andrew Ippolito: So there's the extrinsic and intrinsic pathways.
+1:37:54
+Andrew Ippolito: You don't need to know all the details here but there's some fun names here, for example, this receptor is called a death receptor.
+1:38:02
+Andrew Ippolito: And the domain down here that activates it is called the death domain.
+1:38:09
+Andrew Ippolito: And then the proteins that basically act as the relay system are called cast pieces, which is a kind of a cool name a cast bass.
+1:38:19
+bass bass. Andrew Ippolito: And like cyclones there's a bunch of them, and they have their own fancy dance, and you don't have to know any of this cast base eight activates cast based seven caspi three to six that whatever blah blah blah.
+1:38:34
+Andrew Ippolito: Ultimately there's this structure called the pod ISM. Andrew Ippolito: Not the POP to zone.
+1:38:42
+Andrew Ippolito: And this is what ultimately instigates the death. Andrew Ippolito: Number side of crumbs and the electron transport chain, so it turns out, what happens with them, so the mitochondria plays a key role in this.
+1:38:53
+Andrew Ippolito: The mitochondria loses its structural integrity and the cytokines are leaking into the surrounding solutions of the cell into the cytoplasm inside of chrome see is found in the cytoplasm that's death right there.
+1:39:04
+Andrew Ippolito: You know that that's like that would be the equivalent of somebody being.
+1:39:10
+Andrew Ippolito: disemboweled. Andrew Ippolito: And their their intestines are outside of their body that is an indicator they're going to be dead very soon, when you see side of chrome see you December, the mitochondria.
+1:39:23
+Andrew Ippolito: that's going to kill the cell, so this side of chrome see is not doing its normal job anymore, and the electron transport chain instead there's a protein called a path, one that abides do and that triggers the episodic response.
+1:39:37
+Okay. Andrew Ippolito: So I did I grabbed this slide from some details molecular website that taught about apoptosis, this is not your textbook you don't have to memorize any of this just understand that.
+1:39:51
+Andrew Ippolito: It is programmed there are genes that have evolved, who played direct roles and killing the cell, these are protective mechanisms, we want the self that dive it's damaged, because otherwise it might lead to further harm at the organism so think of it as cellular altruism.
+1:40:08
+Andrew Ippolito: This cell killer so for the greater good. Okay.
+1:40:13
+Andrew Ippolito: All right now i'm going back a slide. Andrew Ippolito: This is just dark humor.
+1:40:19
+Andrew Ippolito: The title of this slide going anywhere buddy. Andrew Ippolito: So.
+1:40:25
+Andrew Ippolito: there's your nuclear fragmentation right and we have these things that there's microbial Spikes basically the micro true is push out the apathetic bodies.
+1:40:35
+Okay. Andrew Ippolito: You have these beat in some of these words are ridiculous the.
+1:40:41
+I don't only see if I can say this. Andrew Ippolito: APP it's a podium.
+1:40:47
+Andrew Ippolito: appa to podium he's beating up at the podium Basically, this is the blessing.
+1:40:53
+Right. Andrew Ippolito: and honestly my brain when I see this and think about this, this is probably one of the ways in which cells can pick up DNA and do things with it.
+1:41:11
+Andrew Ippolito: In unusual ways, in other words it's not just mutations that drive evolution there's something called horizontal gene transfer when some organisms actually get DNA from others.
+1:41:23
+Andrew Ippolito: I think that this is all unknown right now, this is me conjecturing to you off the cuff, there are probably mechanisms by which cells will take up these apathetic bodies.
+1:41:37
+Andrew Ippolito: And then do something with the DNA that's in there and sometimes that helps cells and Bob why just or mutate in certain ways.
+1:41:47
+Andrew Ippolito: I think this is one of the mechanisms of horizontal gene transfer. Andrew Ippolito: It may be somebody who's already dug into this and I just haven't studied I haven't done any research on this.
+1:42:02
+Andrew Ippolito: It could also just be waste. Andrew Ippolito: Maybe sales just avoid this like there's a reason why that cell died don't think its DNA same reason why you don't ever want to use us textbook and pay attention the highlights.
+1:42:17
+Andrew Ippolito: Right somebody selling their textbook but I didn't do very good in the class that I didn't care enough that's why it's being sold.
+1:42:26
+Andrew Ippolito: Right this here that this is. Andrew Ippolito: A summary are pretty much everything we've talked about now.
+1:42:35
+Andrew Ippolito: there's your receptor tires and kinases there's your G protein couple of receptors.
+1:42:41
+there's integrations. Andrew Ippolito: there's the extracellular matrix.
+1:42:46
+Andrew Ippolito: there's hormones. Andrew Ippolito: there's growth factors.
+1:42:51
+Andrew Ippolito: I didn't mention this out loud, but there are things will serve Bible factors survival factors are ways of preventing cells from dying.
+1:43:00
+Andrew Ippolito: From apoptosis. Andrew Ippolito: All right, if you look deep into the slide now you'll see there again the heart of it all gene regulation turning genes on turning jeans off.
+1:43:11
+Andrew Ippolito: cell proliferation that would just be that's the cell cycle.
+1:43:18
+Andrew Ippolito: there's apoptosis. Andrew Ippolito: Okay, so you can map this out now watch this if I zoom in here.
+1:43:30
+Andrew Ippolito: here's P 53 CP 53 the Guardian the genome.
+1:43:37
+Andrew Ippolito: let's look at what P 53 doing P 50 just an arrow to this protein called backs.
+1:43:43
+Andrew Ippolito: backs has an arrow to what's this empty that's the mitochondria. Andrew Ippolito: The mitochondria you can see, is activating apoptosis so when backs is on, so this is P 53 telling the cell to kill itself.
+1:43:56
+Andrew Ippolito: If mutated. Andrew Ippolito: Like it is in most cancers.
+1:44:02
+Andrew Ippolito: You can't tell the seller kills off. Andrew Ippolito: Right, and so the cell will survive, even when it's not supposed to meanwhile she bcl two you see it's got the inhibitory arrow there, so you would see that bcl two inhibits the mitochondrial.
+1:44:20
+Andrew Ippolito: pathway diagnosis it's a survival factor so some cancers will have an over expression of bcl two if they have a bunch of bcl two they're also not going to kill themselves.
+1:44:32
+Andrew Ippolito: Right. Andrew Ippolito: And then you have to see down here, we got death factors like fast l or tiana tnf is tumor necrosis factor, this is something our immune system produces to kill cancer cells.
+1:44:46
+Andrew Ippolito: Okay, so tnf binds to this fast receptor fast receptor says hey Ben go tell the mitochondria to kill itself, it also activates this fad protein, that it is cast basis that tells us all to kill itself.
+1:45:00
+Andrew Ippolito: And also protein appropriate bad. Andrew Ippolito: That tells us that appealed so.
+1:45:06
+Andrew Ippolito: Alright, so what you're seeing here, this is a surgery we study to learn about cancer to learn how to fight cancer, and this is also why you can see, you can start to get a glimmer of why cancer is really hard to cure.
+1:45:20
+Andrew Ippolito: Okay, because on top of this cancer cells lack the ability to repair the damage and so every generation that they grow they're introducing hundreds of new mutations.
+1:45:33
+Andrew Ippolito: Which means somebody that has cancer and they survive a chemotherapy round and somebody says they go into remission their cancer they're shrinking those cancer cells are constantly dividing and mutating they're evolving eventually they get resistant.
+1:45:48
+Andrew Ippolito: And so that second or third or fourth round of chemo therapy stops being useful and the person doesn't respond anymore, and they get sicker and ultimately that's what kills them because of that build up of resistance.
+1:46:03
+Andrew Ippolito: Okay. Andrew Ippolito: there's a there's G protein there's a dental cyclists are they printed they haven't written here is a dental late cyclist you can see either one there's protein kinase a.
+1:46:16
+Andrew Ippolito: there's the crib protein and then so crab activates jeans.
+1:46:23
+Okay. Andrew Ippolito: So this what you're studying here when you look at this, this is molecular biology when people say like me i'm a molecular biologist, this is the level of detail I studied things that I didn't look at.
+1:46:36
+Andrew Ippolito: The three dimensional protein structure bindings and they all that stuff I mean I occasionally would do that, but really it's more about trying to understand how the circuits work this protein bumps into this protein that makes this thing happen.
+1:46:51
+Andrew Ippolito: Like reverse engineering a machine. Okay, all right.
+1:46:57
+Andrew Ippolito: Now let me, let me, so I guess i'll end this apart, how do you say the word.
+1:47:04
+Andrew Ippolito: apatow says was discovered in the early 70s. Andrew Ippolito: It was published in the British journal of cancer in 1972 by curb wiley and Curie and when they.
+1:47:19
+Andrew Ippolito: discovered this mechanism, they actually went to a professor and another university that they were trying to figure out what to call it, and had some fun with it, they were like this is a novel process we have an opportunity to name this thing, and so it turns out.
+1:47:40
+Andrew Ippolito: This paper was published, it was a little footnote and explaining how the word came and how to pronounce it.
+1:47:47
+Andrew Ippolito: So they said they were most grateful to Professor James cormac of the Department of Greek University of Aberdeen for suggesting this term that we're not potosi's and so in the original, this is actually written in Greek letters.
+1:47:59
+Andrew Ippolito: But I change the font so the word you can't pronounce it Greek spelling about ketosis.
+1:48:05
+Andrew Ippolito: is used in Greek to describe the dropping off or falling off of pedals from flowers or leave some trees and other words natural forms of cell death not pathology.
+1:48:16
+Andrew Ippolito: To show the derivation clearly, we propose that the stress should be on the penultimate syllable the second to last syllable.
+1:48:22
+Andrew Ippolito: The second half of the word being pronounced like doses, and it says it with the p silent, which comes from the same route to fall and is already used to describe the drooping and the upper eyelid.
+1:48:33
+Andrew Ippolito: If you Google this word here in Google image search you'll see people were one I is just closed but it's very weak like this, like i'm pulling my eyelid down there so there's no muscles and gives them muscles are dead, it just falls that's called tosses.
+1:48:50
+Andrew Ippolito: Okay, so aiko means. Andrew Ippolito: to break away, I think, and toast this is to droop so apoptosis is the natural falling away of cells that's the way.
+1:49:03
+Andrew Ippolito: It is now I had a student, unlike so that's why you pronounce it that way, and once one student focused on.
+1:49:13
+Andrew Ippolito: where's my mouse, we propose and they're like no we're gonna say a pop doses, because that honestly even researchers I study this if there's two fields of people here it's like a war going on about how to say the word so most people say a pop quizzes.
+1:49:32
+Andrew Ippolito: Probably because when you read the word style in your head, you cannot see pop.
+1:49:37
+Andrew Ippolito: Anyway, so I jokingly say to my students, if you pronounce the word wrong you felt my class that's how important it is.
+1:49:44
+Andrew Ippolito: The reason why this is the thing for me is that my very, very, very first time ever, teaching anybody anything in biology my advisor came up to me and say, can you please give a lecture to the first year Grad students on cancer and oxytocin in the cell cycle.
+1:49:58
+Andrew Ippolito: And so, when I was putting the slides together, I remember thinking myself, how do you see this word because everybody says it differently, I heard you know all the different ways, so I just thought I went to the library.
+1:50:08
+Andrew Ippolito: And I dug into the stacks they call them would you guys are never gonna have to experience this probably back to this is like 1999 this like 2000 2001.
+1:50:21
+Andrew Ippolito: And so, back then, most things were getting put on the Internet, but if you needed to look at older journal articles, you still had to go to the library itself.
+1:50:29
+Andrew Ippolito: down into the archives and was called the stacks just you can go, you can look at science from 1856 it was really cool.
+1:50:36
+Andrew Ippolito: And so I looked it up in the card catalog and I found this and the first page explained how to say it, I didn't think this was contested I just told my students about it and it turns out, the very first class I ever taught how to Greek fluent speaker native from Greece.
+1:50:53
+Andrew Ippolito: And he said actually the words pronounced populaces. Andrew Ippolito: And I was like well.
+1:51:00
+Andrew Ippolito: in Greek, it is, but this this isn't that word, this is borrowed from that word and its program cell death it's not flowers falling off i'm sorry not pedals final flower that's a populaces.
+1:51:15
+Andrew Ippolito: in Greek. Andrew Ippolito: apoptosis is program cell death in this up totally different, but you it's the same word.
+1:51:23
+Andrew Ippolito: Anyway, that's that's my little fun story about that so. Andrew Ippolito: Now something about homeostasis in our bodies at every moment of every day, you are making 100,000 new cells through mitosis my cell division and 100,000 cells are dying throughout potosi's.
+1:51:39
+Andrew Ippolito: And so homeostasis is maintain so long as the rate of growth equals the rate of death mitosis equals opportunity.
+1:51:48
+Andrew Ippolito: If the growth rate is greater than. Andrew Ippolito: The overall mass increases, and so you can think of a solid tumor.
+1:51:57
+Andrew Ippolito: Like my poor dog Buttercup she's got this massive fatty tumor on our side that she's actually going to have to get surgery for.
+1:52:07
+Andrew Ippolito: which I never thought i'd like to see the day I give a dog surgery, but here we are.
+1:52:12
+Andrew Ippolito: And that's okay i'm okay with it it's like the whole her whole side at this point you've just this big round mass it's probably the size of a small kickball at this point and she's only like this big.
+1:52:26
+Andrew Ippolito: it's a it's not invasive it's so it's a benign tumor but it starts putting pressure and places it gets so big like it starts but it's starting to she's painting.
+1:52:36
+Andrew Ippolito: she's starting to get you know pressure on the lungs and the heart she's starting to sleep in weird places now so that but, but the bed keeper.
+1:52:44
+Andrew Ippolito: Two days ago she went to the vet and the vet said turn that we can probably take this out very easily and she'll have you know higher quality of life.
+1:52:53
+Andrew Ippolito: So. Andrew Ippolito: The rate of growth is greater than the rate of death solid.
+1:52:59
+Andrew Ippolito: If it's the opposite if the rate of death is greater than the rate of growth now you have what are called degenerative diseases.
+1:53:06
+Andrew Ippolito: And you've heard about a bunch of these parkinson's disease alzheimer's disease muscular dystrophy aids anytime we have cell slowly dying and population is the rate at which the replaced is lower, or they don't get replaced at all, like in terminal differentiated neurons.
+1:53:23
+Andrew Ippolito: Okay, so that's that's that. Andrew Ippolito: that's the cell cycle.
+1:53:31
+Andrew Ippolito: When we talk about cell division all, which is a slightly different take on things right you guys can see unit three lecture three does that say that there for you.
+1:53:41
+Can I share my screen right. Andrew Ippolito: Here are the stages yeah go ahead, tell her.
+1:53:48
+Taylor Campbell: This is the same chapter. Andrew Ippolito: yeah yeah.
+1:53:53
+Andrew Ippolito: yeah. Andrew Ippolito: 90% yes, yes, this is mitosis is in the same chapter is this.
+1:54:01
+Andrew Ippolito: You see how, in the slide I show you the side Oh, can you see this happening off to the side house blend it started around atrophies see that that's important here's you can see psycho analysis is occurring it's starting here and it finishes after.
+1:54:17
+Andrew Ippolito: I teach this simpler than the book does I go pro face to face face to face that's the old school way of doing it there's a new phase, they added in the middle here called pro Meta fees, which is the mixture between proof isn't.
+1:54:30
+Andrew Ippolito: The point, though the take home, there is that these are arbitrary designations Okay, the cell doesn't care what we call it sales going to do with this.
+1:54:41
+Andrew Ippolito: The only real distinct point and mitosis that as a thing is Meta fees, when you can just see it it's very obvious when everything's lined up in the middle, you can't miss it.
+1:54:55
+Andrew Ippolito: approach, the story from pro face to face, though, you can I mean you can divide it up into five phrases feet phases.
+1:55:07
+Andrew Ippolito: So here's the idea. Andrew Ippolito: let's let's dig into this now, I want to.
+1:55:13
+Andrew Ippolito: I want to give you the visuals here this isn't you know fluorescence this is live cells well, these are fixed cells that are now dead, but they've been stained and particularly.
+1:55:24
+Andrew Ippolito: And here's how you see this blue you see the blue Okay, the blue is his DNA, so in this slide the color blue is DNA, the first thing you notice is that the nucleus itself is still pretty well intact okay don't worry about the shape of the nucleus don't ignore the pinching here.
+1:55:43
+Andrew Ippolito: Okay, this is actually. Andrew Ippolito: just ignore the pitching here. Andrew Ippolito: All right, green the green color are the micro to people's.
+1:55:52
+Andrew Ippolito: notice it's chaos okay that's what tells us this is interface.
+1:56:00
+Andrew Ippolito: that's one of the things there's three hallmarks here the nucleus is still intact, you can see a well defined nuclear boundary.
+1:56:08
+Andrew Ippolito: You don't see any details of chromosomes in here it's all just blurry blue, so the chromosomes are D condensed.
+1:56:16
+Andrew Ippolito: But if you look carefully here you'll notice that there is a very large centrism that looks like it's starting to form spindles.
+1:56:31
+Andrew Ippolito: that's why we know it's cheap to. Okay.
+1:56:37
+Andrew Ippolito: you'll also see the nucleus, which is generally a dark area and the nucleus.
+1:56:44
+Andrew Ippolito: It wants stain. Andrew Ippolito: So a traditional generic immuno fluorescence that this is a nucleus you'll probably see a hole somewhere, and now we call the nucleus.
+1:56:54
+Andrew Ippolito: Some cells might have a couple of them.
+1:57:00
+Andrew Ippolito: The red, which is kind of a control here, those are the mitochondria. Andrew Ippolito: That you can start you can now, you can kind of see a step back and just look at all the red for a second like that's how many mitochondria so has a cell can have a few hundred to a few thousand depending on what kind of sentence.
+1:57:14
+Andrew Ippolito: it's you can also see you think of it as like a bacterial infection that's the size of bacteria right.
+1:57:21
+Andrew Ippolito: Okay. Andrew Ippolito: So what you're looking at here we can zoom out now, we can see, this is a colony of cells, all in interface they're just hanging out.
+1:57:33
+Andrew Ippolito: There, these are quiescent cells. Andrew Ippolito: or they're in G one or s or GT.
+1:57:40
+Andrew Ippolito: it's hard to say because we're just looking at the microscope and we don't have any context, so all we can say about these cells is that they are not currently going through mitosis.
+1:57:53
+Andrew Ippolito: You can distinguish a G one cell from an s from a GT unless you can start to parse the central zone.
+1:58:02
+Andrew Ippolito: and see the various spindles race Oh, but it's a look, look at the green.
+1:58:09
+Andrew Ippolito: And look for the centrism. Andrew Ippolito: You can see it in each cell is generally next to the nucleus right so here i'll circle them here's the centrism here here's the centrism here's the centrism here's the central zone right but that's where the this one's low this might be off camera or that's part of the central.
+1:58:30
+Andrew Ippolito: Okay, so that's the Center so notice each one of these has an intact nucleus well defined and now you can start to see.
+1:58:40
+Andrew Ippolito: The the you in the header of chromatin so just pick here's four cells on the screen notice that the Blue nucleus notice that there are dark splotches and bright splotches you see that you see the brighter areas, the brighter areas are you chromatin.
+1:58:58
+Andrew Ippolito: They can grab the dye very easily because they're open they're fluffy number talked about the paper, so you chromatin is available to get stand hetero competence tight least type, and so it can't get to the same you can also see in the cells.
+1:59:17
+Andrew Ippolito: You can see the nucleus, at least, like right here. Andrew Ippolito: But that the bright light areas bright and dark areas hetero chromatin you.
+1:59:27
+Okay. Andrew Ippolito: Now we can look at a profile so.
+1:59:34
+Andrew Ippolito: You can see it's like a bowl of spaghetti you can see chromatin condensation but it's not organized.
+1:59:44
+Andrew Ippolito: You can also see the nucleus, in this case is still intact. Andrew Ippolito: How do I know that the telltale sign is that the bright green Center zones are obeying a boundary point here, you see that there's no.
+2:00:00
+Andrew Ippolito: spindle fibers going into the nucleus, which means you can't get in there, which means the nucleus is still there, so the nuclear so so the chromatin has condensed.
+2:00:11
+Andrew Ippolito: We can distinguish individual chromosomes. Andrew Ippolito: But the nucleus is still intact, you can also see that the centrism there's two of them, you can see that they're starting to move apart here.
+2:00:24
+Andrew Ippolito: And so, in between them, you can see, the early portion of the my topic spindle.
+2:00:31
+Andrew Ippolito: and ask you seen us were a few times i've ignored it up to this point let me tell you what an aster is now.
+2:00:40
+Andrew Ippolito: here's the cell. Andrew Ippolito: i'm gonna ignore everything except the centrism right now.
+2:00:47
+Andrew Ippolito: here's the pair centrism. Andrew Ippolito: Okay. Andrew Ippolito: Let me do some whiteboard.
+2:01:00
+Andrew Ippolito: here's the cell. Andrew Ippolito: here's the nucleus.
+2:01:06
+Andrew Ippolito: here's one central zone you don't see the whiteboard i'm sorry. Alexa Deprisco: i'm sorry.
+2:01:12
+Andrew Ippolito: I keep forgetting to share multiple parts of my screen everyone.
+2:01:18
+keeps it. Andrew Ippolito: So yeah Now you can okay so here, let me start over so I know that the important thing here is me saying it out loud, at the same time, so here's the cell.
+2:01:30
+Andrew Ippolito: here's the nucleus. Andrew Ippolito: here's one centrism.
+2:01:36
+Andrew Ippolito: here's another centrism.
+2:01:41
+Andrew Ippolito: Now, in read i'm going to draw what are called asters so all What about to tell you are, these are all micro two bills, they just have different jobs asters anchor.
+2:01:52
+Andrew Ippolito: Those centrism to the cell memory. Andrew Ippolito: Okay that's what makes them asters.
+2:02:11
+Andrew Ippolito: And that makes sense if you're going to pull something you need to have an anchor point right if you're going to pull somebody up from a cliff you need to make sure you're holding on to something you're going to go along.
+2:02:24
+Andrew Ippolito: Okay, in orange notice that these are going completely across the pole of the cell the middle of the cell.
+2:02:32
+Andrew Ippolito: Okay i'm spanning across the nucleus. Andrew Ippolito: These are called polar.
+2:02:40
+Andrew Ippolito: spindle fibers. Andrew Ippolito: Sometimes you might call them polar micro.
+2:02:49
+Andrew Ippolito: These are the ones. Andrew Ippolito: That are gonna pull the cell apart, like, I told you earlier, with the dining.
+2:02:58
+Andrew Ippolito: Right, the motor protein. Andrew Ippolito: Okay they're the ones that are going to pull the cell apart ultimately.
+2:03:08
+Andrew Ippolito: And then lastly i'll do this in light blue you have your kinetic core micro tutorials the ones that will attach to the chromosomes themselves.
+2:03:26
+Andrew Ippolito: So there are three fibers here, there are the astor's that anchor it.
+2:03:31
+Andrew Ippolito: Or the polar spindle fibers that push the cells apart, and there are the kinetic or micro tutorials that push the chromosomes apart, or I should say pull the chromosomes apart.
+2:03:43
+Okay. Andrew Ippolito: All right back to the PowerPoint you guys can see that, yes, okay.
+2:03:53
+Andrew Ippolito: So profile profile is characterized by the condensing of the chromosomes.
+2:04:02
+Andrew Ippolito: The formation of the spindle but the nuclear envelope is still intact.
+2:04:09
+Andrew Ippolito: So pro metaphysics the next phase is when the spindles formed the nucleus is fragmented and the tug of war is going on, but not finished that's what pro metaphysics.
+2:04:21
+Andrew Ippolito: So here's pro phase, again, this is a beautiful picture of preface. Andrew Ippolito: Okay, now, why is it read this time that's an artist's you can on a women do this, you take basically take different pictures of different colors under the.
+2:04:35
+Andrew Ippolito: microscope and emerging together adobe photoshop and you put each picture into a color channel there's the red the Green and the blue and.
+2:04:43
+Andrew Ippolito: For any publication, you would generally put blue is associate with DNA that's just the Convention, but in this, for whatever reason, somebody wanted to be a maverick and make it read.
+2:04:56
+Andrew Ippolito: All right, but do you see the Center isms you see on the opposite sides and you see how the nucleus is still intact profile.
+2:05:06
+Andrew Ippolito: And then we're just going to jump to metaphors here i'm not going to show you a picture of pro metaphors pro metaphysics is just the in between part of this.
+2:05:13
+Andrew Ippolito: And you'll see here you'll see the spindle fibers have last on the chromosomes they've done the tug of war and all the blues in the middle now there's a there's a nice even.
+2:05:23
+Andrew Ippolito: line there, you can see that's called the metaphors plate, the reason called a plate is this is actually in 3D right we're just seeing the two dimensional version of this but, in reality, if you tilt it all this to the side.
+2:05:39
+Andrew Ippolito: The metaphor is played, so this is a three dimensional cell right so here's the 3D version.
+2:05:49
+Andrew Ippolito: that's that's a that's a plane and the chromosomes.
+2:05:56
+Andrew Ippolito: Are randomly scattered throughout that plane it's just that they're in the plane.
+2:06:02
+Andrew Ippolito: Right so here's one centrism here's another i'm trying to do is in 3D here.
+2:06:13
+Andrew Ippolito: that's the metaphors plate Okay, so there is no important ordering of them on that plate they're all just there.
+2:06:24
+Andrew Ippolito: that's Meta fees, the middle phase. Andrew Ippolito: Okay.
+2:06:30
+Andrew Ippolito: And the moment so so what's happening here is those cohesive proteins, these are the proteins that stick the sisters together right those cohesive are getting degraded and eventually.
+2:06:43
+Andrew Ippolito: They get separated, so you can just picture the MIC the spindles as yanking on them harder and harder hard until Finally, they give way and you get hold on, let me just get better you get an fps.
+2:06:56
+Andrew Ippolito: Okay, so Meta fees and a face that's the most distinct boundary, and all this.
+2:07:03
+Andrew Ippolito: And you would say that the sister chromatic kids are now full fledged chromosomes.
+2:07:09
+Andrew Ippolito: Alright, so one set of chromosomes goes to the left, the other goes to the right that's it.
+2:07:14
+Andrew Ippolito: Now, now that I said that i'm gonna go back a slide, this is another picture of Meta fees and what's cool about this one is you can actually visually distinguish the sister chrome entities within those chromosomes.
+2:07:27
+Andrew Ippolito: And you see this over here. Andrew Ippolito: oops.
+2:07:33
+Andrew Ippolito: This is the add kid that didn't line up with everybody else.
+2:07:38
+Andrew Ippolito: This is a mistake go ahead alexa. Alexa Deprisco: So when it's splitting up the chromosomes it's not like physically splitting the chromosomes themselves it's just like summer taking like one little pair and summer taking the other.
+2:07:54
+Andrew Ippolito: summer. Andrew Ippolito: You lost me at the summer, taking one pair summer taking when you see you say that in a different way.
+2:08:01
+Alexa Deprisco: So, like you have the chromosomes that are lined up in no particular order in the Center of the cells and then the the micro tutorials that are attaching to them the kind of course.
+2:08:12
+Andrew Ippolito: can of course. Alexa Deprisco: cannot of course okay so like they're not like physically separating the little x's themselves it's just pulling like one over to one side and one over to the other side as like a whole unit of a chromosome.
+2:08:29
+Andrew Ippolito: here. Do you see my screen. Andrew Ippolito: You see my whiteboard.
+2:08:35
+Andrew Ippolito: Okay, so that's one chromosome with to chrome right what's happening.
+2:08:42
+Andrew Ippolito: Here are those centrism there is a micro trivial attached either side, like this and they basically yank them apart, such that.
+2:08:55
+Andrew Ippolito: So these are you know, so the pink is the cohesive proteins are going to degrade those cohesive, proteins and so we're gonna pull this whole thing apart, so that it looks like this afterwards.
+2:09:17
+Andrew Ippolito: like that.
+2:09:29
+Andrew Ippolito: So they're getting pulled away so now this thing here remember the banding pattern each one of those is just a chromosome now so nobody's gotten the chromosome itself has not broken we've just separated the sisters.
+2:09:47
+Andrew Ippolito: So this happens for all of them. Andrew Ippolito: And then, in the PowerPoint here you'll see this one didn't separate rate and we'll learn about that, when we do meiosis it's called non disjunction.
+2:10:00
+Andrew Ippolito: The red is i'm. Andrew Ippolito: intermediate on it, I think.
+2:10:12
+Andrew Ippolito: I say it's intermediate it could be acting it doesn't matter it's a beautiful picture right and and really the.
+2:10:21
+What is going on here.
+2:10:27
+Andrew Ippolito: The point here is that this is the reason, this is so awesome to, as you can see, the very well defined microchip and you can see, this asters.
+2:10:34
+Andrew Ippolito: You can see the polar spindle fibers and you can see the kinetic or spindle fibers This is like a really, really nice picture.
+2:10:44
+Okay. Andrew Ippolito: Anna Anna fees is the beginning of psycho analysis what's happening here you can't see it but what's happening here is the cell itself is starting to pinch away.
+2:10:58
+Andrew Ippolito: you're going to see this pinching off point. Andrew Ippolito: Okay that's called the cleavage.
+2:11:05
+Andrew Ippolito: farro. Andrew Ippolito: me cleavage means cut in half, and a pharaoh is like i'm farmers take a hoe and they plow the field that creates a pharaoh all right, or if you file your brow you put a little pharaoh in your breath right just it's a physical it's a geographical I mean a geometrical thing.
+2:11:26
+Andrew Ippolito: All right now what's happening here is inside the cell there's actually.
+2:11:31
+Andrew Ippolito: This kind of rubber band that gets stuck around the cell on the inside this is me out of acting is called the contract tile ring.
+2:11:43
+Andrew Ippolito: And it's made of act and filament.
+2:11:49
+Andrew Ippolito: And you might see this as micro filaments. Andrew Ippolito: Micro filaments is an act and filament, and this is what makes the contract ring so basically it pinches it off like picture, putting a rubber band around a water balloon.
+2:12:03
+Andrew Ippolito: Okay, so at the same time as the Center isms are pulling the cell part the contract ring is pinching it apart and that's how you get the separation of the two daughter cells.
+2:12:21
+Andrew Ippolito: This would be a time lapse, starting at the upper left here and watching it go this way and then this way so it's a movie but snapshots and you can see that they're measuring the distance between the two.
+2:12:36
+Andrew Ippolito: Central isms. Andrew Ippolito: Okay, so this would be early Anna fees and then as Anna phase continues when we're done with it so notice notice here see how their D convincing.
+2:12:49
+Andrew Ippolito: They look blurry again that's what telephone is is that's the last phase so after everything gets separated they start the condensing again.
+2:12:57
+Andrew Ippolito: But notice that, while tell us so s&m mitosis notice that the cell still we're not done yet right, I mean we still have this whole.
+2:13:05
+Andrew Ippolito: thing in the middle here to deal with so you'll notice that the distance between the Center zones is about double that when it started which makes sense right we're splitting it in half we're going to give each one of these new daughter cells some elbow room.
+2:13:22
+Andrew Ippolito: Alright, so the last face to face is essentially pro fees and reverse.
+2:13:30
+Andrew Ippolito: proxies and pro menifee so the nucleus reforms, the chromosomes condense the spindle fibers fall apart, you get your microbial network back.
+2:13:42
+Andrew Ippolito: And you get what's called this mid body.
+2:13:54
+Andrew Ippolito: And that's it assuming that growth factors are still in there. Andrew Ippolito: The cell will condense each one of these new daughter cells will then go through mitosis again really they'll go through the whole cell cycle again, do you want to do you want as.
+2:14:10
+Andrew Ippolito: So you can see telephones is having early mid and late palefaces.
+2:14:16
+Andrew Ippolito: And really most of these, so the slides titled late telephones.
+2:14:22
+Andrew Ippolito: And you can see, the last thing here is the nucleus is starting to reappear.
+2:14:30
+Andrew Ippolito: Inside oh skeletal micro to bizarre visible. Andrew Ippolito: Those are just like the default micro tutorials and every day.
+2:14:38
+Andrew Ippolito: Okay, then they really mess, with the colors here, but whatever so read, in this case, you can see the deacon dancing chromosomes right below is the act inside of skeleton.
+2:14:53
+Andrew Ippolito: And there's the early mid body. Andrew Ippolito: And then here's here's a pair of cells, who are basically done right look at their nuclei.
+2:15:01
+Andrew Ippolito: that those are really, really good, you can see the header or chrome on the new chrome to very clearly there nucleus is fully intact, but you can still see the MID body, a little bit so technically we're still inside of cases.
+2:15:13
+Andrew Ippolito: Because you can see, this right here. Andrew Ippolito: Otherwise, the cells look like any other, so now that interface.
+2:15:21
+Okay.
+2:15:31
+Andrew Ippolito: By the way, these cells here, this would be what I told told you about in hdfs and normal human deploy deploy fiberglass, this is what they basically like.
+2:15:41
+Andrew Ippolito: Cancer cells look different you can immediately spot a cancer cell cancer cells nuclei don't have this nice football sheet to them instead they have some kind of weird.
+2:15:51
+Andrew Ippolito: Cancer cells are just all levels of messed up like all the Tom cells or cancer cells, there have so many problems that they're very unlike their cells, they came from.
+2:16:02
+Andrew Ippolito: All right, this is what the century those look like remember the the configuration of micro tutorials Member the three the nine plus zero configuration there it is.
+2:16:11
+Andrew Ippolito: And you can see, this picture here is looking down like see exactly like this, so here's this pair we're going to look down at it like this.
+2:16:21
+Andrew Ippolito: So ones off to the side, you can see a side view of it, and the other you're looking deep into right, so this is one on the side, and this is one facing up and then this is a side view of a pair of them, you can see one here and one here like that and here's the other pair.
+2:16:38
+Okay, so that's the sectionals. Andrew Ippolito: And then the rest of these you can study you can use these to study.
+2:16:48
+Andrew Ippolito: But here's here's pro face versus chromatic is here's the official view of that so here's pro fee is the key is the nucleus is still intact for the chromosomes of condensed.
+2:16:58
+Andrew Ippolito: Early my topic spindle pro metaphysics is the tug of war is going on, but it's not done yet.
+2:17:07
+Andrew Ippolito: And then, when all these settle in the middle that's when you call it.
+2:17:13
+Okay. Andrew Ippolito: And then these are just mark pictures from your book beautiful pictures.
+2:17:27
+Andrew Ippolito: Okay, this right here, this gives you the good view of the kinetic core and the canonical fibers so what you're seeing here is this, let me.
+2:17:38
+Andrew Ippolito: I realized one o'clock tiffany tell me this, this will be the last thing I cover here so here here's one sister.
+2:17:49
+Andrew Ippolito: And here's the other sister. Andrew Ippolito: And here's this kinetic core and this kinetic core and here are the micro tutorials coming down Okay, so what we're doing is we're looking at this.
+2:18:02
+Andrew Ippolito: Here that's what this is all right, so you can imagine here's the other parts of the arms of the sisters here's the kinetic core.
+2:18:14
+Andrew Ippolito: And here's the spindle fibers. Andrew Ippolito: And they're being yanked apart.
+2:18:20
+Andrew Ippolito: Great picture, these are skinny like these are transmission electron microscopes.
+2:18:25
+Andrew Ippolito: Alright, so this is just a bigger view right, you can really see you can see the kinetic core and you can see, all these micro two bills.
+2:18:33
+Andrew Ippolito: Right, and this, so this is the heart of the centromere.
+2:18:41
+Andrew Ippolito: Alright we'll start here next time, this is the differences between plants and animals i'll talk about this i'll play, but we're done here.
+2:18:49
+Andrew Ippolito: So what are we covered today we covered the cell cycle itself, do you want to and we covered the detail phases of mitosis we talked about cyclones and CD keys the molecular mechanisms, we talked about apoptosis.
+2:19:03
+Andrew Ippolito: Okay, so on on Monday, you can expect a quiz on everything that we covered I won't talk about plants, I won't talk about binary division I mentioned this as a footnote ah and leisure and then we'll start meiosis.
+2:19:19
+Okay. Andrew Ippolito: Any questions. Jordan Russell: Will will the quiz include what we did what we covered in class today and will be on Monday.
+2:19:32
+Jordan Russell: Yes, yeah. Andrew Ippolito: yeah. Good question. Andrew Ippolito: So yeah so the title of the quiz will be signal transduction and the cell cycle.
+2:19:43
+Andrew Ippolito: or let's say my cell division.
+2:19:49
+Alexis Micewski: didn't really talk about pro Meta face a lot, should we expect that, on the test. Andrew Ippolito: Okay, so So yes, yes.
+2:19:56
+Andrew Ippolito: Pro Meta fees is simply.
+2:20:06
+Andrew Ippolito: The tug of war is going on that's this that's how I like to say so, so pro phase is the condensation and the beginnings of the Center isms separated and forming the spindle Okay, but the key is the nucleus is still intact, once the nucleus is fragmented.
+2:20:26
+Andrew Ippolito: Giving access to the kinetic course by the micro two bills that's problematic fees and we continue calling from menifee is until we see a nice distinct menifee his plate, then we call that Meta fees.
+2:20:45
+Andrew Ippolito: I call that whole thing pro fees, though I mean it's just. Andrew Ippolito: it's i'm sure there's a good reason my books have started to further associate them but I don't know what that is.
+2:20:57
+Andrew Ippolito: Maybe there's a something that happens in cancer that's specific to permit fees, and so we had to talk about that specifically or there's a controlling of when the nucleus collapses, and so we've that's the big things nuclear fragmentation.
+2:21:12
+Andrew Ippolito: Okay, any other questions. Alexa Deprisco: So, like it sounds like everything like you're saying, like everything gets cancer eventually so like is there any sort of like genetic predisposition that you could get like from your parent when it comes to like.
+2:21:29
+Andrew Ippolito: Oh yeah yeah yeah there's there's there's basically two types of cancers there sporadic cancer and there's familial cancer.
+2:21:36
+Andrew Ippolito: So people that have a mutation the very first oncogene ever just i'm sorry the very first tumor suppressor gene ever discovered was bracket BRCA one it's a breast cancer associated cancer and.
+2:21:51
+Andrew Ippolito: it's very rare to have a mutation in it like 90 95% of breast cancer sporadic.
+2:21:57
+Andrew Ippolito: So the whole idea like well my ankle breast cancer so i'm going to get it like know that just because I mean your ankle cancer that doesn't mean you're going to right, especially if she was older.
+2:22:05
+Andrew Ippolito: If you're an 65 and a breast cancer that sounds about right issues 20 or 25 and she got breast cancer that's not right so either she was exposed to some carcinogen, and the environment or she has familiar breast cancer.
+2:22:17
+Andrew Ippolito: And so they go to the geneticists and the geneticists does of research and they don't pull their blood and looks at oh look you haven't mutation in the bracket one gene so.
+2:22:25
+Andrew Ippolito: So some people are born with a mutation that basically fast forwards, the rate in which breast carcinogenesis happens.
+2:22:35
+Alexa Deprisco: And then, like specifically for breast cancer, because um I guess that's like primarily like illegal cancer for women, but like so if.
+2:22:45
+Andrew Ippolito: You get it, but yes my it's much more common and females. Andrew Ippolito: Because they have more breast tissue okay.
+2:22:50
+Alexa Deprisco: um so then like if someone like if you someone like on your paternal side had breast cancer, who like wasn't like your dad obviously.
+2:23:01
+Alexa Deprisco: Would that G, and if it was like familial breast cancer, do you think that that gene could be passed down to like you, if you like, you're born a girl woman whatever because, like of the I guess the chromosome because it's like the dads gene that determines the gender right.
+2:23:19
+Andrew Ippolito: That there's a lot going on there, so.
+2:23:24
+Andrew Ippolito: So right, the father gives the the sex of the child, based on whether the extra the y goes right that only if the gene is on the X chromosome.
+2:23:34
+Andrew Ippolito: Well, there are be sex specific patterns of inheritance, is what it's called excellent excellent traits and like color blindness, is an excellent treat with that means of the genes on the X chromosome so.
+2:23:51
+Andrew Ippolito: that's out of the family dad's got a brother, that the dad got rest of dad's brother got breast cancer okay.
+2:23:59
+Andrew Ippolito: Does dad have the same gene probably not or maybe I mean 5050 really right for any given gene there's a 50% chance you're going to get it or not get it if it's a simple pattern of inheritance and so.
+2:24:13
+Andrew Ippolito: If dad never got breast cancer and had kids right so like if your dad if your uncle got breast cancer that doesn't mean you're necessarily going to get breast cancer it's possible that, if the uncle got breast cancer.
+2:24:27
+Andrew Ippolito: That I mean dad could get a genetic screening and and see if he also has that gene.
+2:24:33
+Andrew Ippolito: And it'd be does, then he can start changing his lifestyle and making sure that you know it goes to the doctor regularly and that's what we when we have.
+2:24:40
+Andrew Ippolito: advanced knowledge of the genetic mutation that's a good thing, because that tells us, we can we can monitor it and catch it super duper early if it happens right and then, if dad's got it then the daughter or son can also get tested.
+2:24:57
+Andrew Ippolito: right but it's not inevitable that whole inevitability, I was talking about is just COMP multicellular organisms on earth with the way things are set up at the molecular level.
+2:25:07
+Andrew Ippolito: And the way we live in an oxidative environment with constant damage we're constantly getting our DNA they're called genetic insults.
+2:25:16
+Andrew Ippolito: are constantly being made fun of where we're constantly going through mutations and repairing them like your body's dealing with like 20,000 DNA hits a day.
+2:25:27
+Andrew Ippolito: And fixing them and if we can't fix them and kills those cells and we can't kill those cells that isolates themselves.
+2:25:32
+Andrew Ippolito: And if it can't do any of that then, then you get a cancer cell right now, at any moment on, we all have a couple cancer cells floating around our body somewhere and we're just dealing with them.
+2:25:40
+Andrew Ippolito: and eventually decades, it takes decades of living before it reaches that key seventh mutation that finally, it takes off and you get what's called genomic instability.
+2:25:55
+Andrew Ippolito: I have a whole lecture on this that I used in my non majors class to my very last lecture would be it was called cancer and evolution because they're the same thing basically and.
+2:26:07
+Andrew Ippolito: But when I started teaching majors biology I realized there's just too much in this curriculum to have that last lecture that does that so.
+2:26:15
+Andrew Ippolito: Instead I just kind of sprinkle it throughout the class. Andrew Ippolito: If you type in hallmarks of cancer.
+2:26:21
+Andrew Ippolito: Just type hallmarks of cancer into Google. Andrew Ippolito: And there's a couple of review articles that are written or even even a introductory biology student can probably understand, most of it if you want to learn more about that.
+2:26:35
+Jordan Russell: My dad actually has to get the. Jordan Russell: The genetic testing done to make sure he doesn't carry the.
+2:26:43
+Jordan Russell: The genes for colon cancer. Andrew Ippolito: yeah. Andrew Ippolito: We have an uncle or grandfather that had a really aggressive colon cancer.
+2:26:50
+Jordan Russell: My uncle has it again and it stage for this time and his daughter, had it.
+2:26:57
+Jordan Russell: Oh yeah mother. Jordan Russell: And my grandmother his mother had.
+2:27:02
+Andrew Ippolito: celiac. Andrew Ippolito: So alexa that's an example of that's not spontaneous now what or the whole family grew up.
+2:27:09
+Jordan Russell: near. Andrew Ippolito: or radioactive waste dump. Andrew Ippolito: I mean there's there just because we see a pattern of familial inheritance of something don't immediately assume is genetic It could also be everybody was exposed to the same environmental problem, but that honestly, the fact that his daughter had colon cancer that's rare.
+2:27:29
+Jordan Russell: Did you mean like do you consider Philadelphia radioactive waste. Andrew Ippolito: No, no, I mean no more than any other urban no.
+2:27:38
+Jordan Russell: yeah I mean. Andrew Ippolito: They grew up by five Mile Island Oh well, that's the.
+2:27:44
+Jordan Russell: way, it was quite shocking that that my cousin had it. Jordan Russell: And she's in her 40s 20 oh it's like.
+2:27:52
+Jordan Russell: yeah so she's she has like a. Jordan Russell: know if it's for our or just in general for the cancer, but she has like something she has like something in here the chest to get removed still because she's cancer free at the moment.
+2:28:06
+Jordan Russell: yeah but yeah her dad is stage for my uncle and then my grandmother had five different types of cancers so.
+2:28:16
+Jordan Russell: yeah I don't know how that will survive this one, she did she did. Jordan Russell: So yeah I got a I got quite a wide of cancer in my family so i'm hoping that I don't get cancer.
+2:28:28
+Andrew Ippolito: Well, we all will eventually it's just a matter yeah. Jordan Russell: We already have shitty eyes for 19 years old, I got I got cataracts.
+2:28:40
+Andrew Ippolito: that's fine. Jordan Russell: Great i've had him since I was seven.
+2:28:45
+Jordan Russell: it's like surprise you got cataracts makeup line by like 30 minutes get lasik surgery.
+2:28:52
+Andrew Ippolito: Well cat cataracts are fine, because we can very easily cheat those now. Jordan Russell: yeah. Andrew Ippolito: Sorry yeah actually you'll you'll probably walk out of cataract surgery, with better vision.
+2:29:02
+Jordan Russell: Have you ever seen final destination, it makes me nervous. Andrew Ippolito: know yet I can't watch those those movies, are so stupid.
+2:29:13
+Andrew Ippolito: movies. Andrew Ippolito: movies that takes supernatural things in everyday life for hard for me to stomach.
+2:29:18
+Alexa Deprisco: Oh so you're still recording. Andrew Ippolito: Say yeah you're. Alexa Deprisco: Still in the class recording.
+2:29:24
+Andrew Ippolito: Oh well, thank thanks for morning. Jordan Russell: Good job they can. Andrew Ippolito: be tough i'm on record forever now saying I hate horror movies.
+2:29:32
+Andrew Ippolito: I don't hate horror movies, I just think they're stupid.

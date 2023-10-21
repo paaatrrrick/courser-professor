@@ -1,0 +1,872 @@
+0:01
+Andrew Ippolito: we're picking up where we left off last time we're digging right into the deep dive.
+0:06
+Andrew Ippolito: into DNA structure nucleotides are made out of three parts, we got a phosphate group, we have a sugar.
+0:13
+Andrew Ippolito: which can either be ribosome galaxy rivals for DNA so i'll tell you what from this point on i'm just talking DNA forget RNA right now.
+0:20
+Andrew Ippolito: that's the oxy ribosome let's to D oxy rivals because it's lacking the hydroxide group in the two prime carbon recall, we have 1234 or five carbons right, so this is the five prime carbon, this is a three prime carbon.
+0:36
+Andrew Ippolito: Okay, like attach the one prime carbon is, we have some nitrogen is base of between one or two families of nitrogen the spaces, we have periods of audience okay.
+0:49
+All right. Andrew Ippolito: The numbering system you don't have to worry about this part of the numbering system, but really the 12345 should be important to you because the one the five and the three or everything that's going to come up and replication to.
+1:04
+Andrew Ippolito: Alright, so the other thing is when you're looking at this diagram here on the right, I want you to visualize this, these are two separate strands of DNA double helix is a double nucleotide i'm sorry a double nucleic acid.
+1:17
+Andrew Ippolito: Alright, a nucleic acid is a chain of nucleotides when I say nucleic acid.
+1:24
+Andrew Ippolito: When I say DNA, most people when they say DNA they mean double stranded DNA, meaning that there's two nucleic acid polymers binding together complimentary the teasing the a's and b's and c's.
+1:38
+Andrew Ippolito: held together by hydrogen bonds and they are anti parallel meaning ones upside down from the other meaning one runs from the five prime and down to the three prime and and the other one runs from the three prime men to the five minute.
+1:52
+Andrew Ippolito: Okay. Andrew Ippolito: All right, you don't have to memorize these structures.
+1:58
+Andrew Ippolito: it's useful in your future maybe, but again adenine has to guanine has to so you remember a n G as the periods and TMC as the permit ian's.
+2:13
+Andrew Ippolito: Okay, so that's one important pairing, then the other important pairing is the fact that the a and the T hydrogen bonds and the G and the see hydrogen bomb.
+2:24
+Right.
+2:30
+Andrew Ippolito: there's The anti paralleled gloss over that the phosphor diaster bond is the linkage between them right, so we have the three prime carbon.
+2:39
+Andrew Ippolito: attaches to the phosphate group of the next nucleotides five prime carbon right, and so we call this the sugar phosphate backbone of the molecule.
+2:51
+Andrew Ippolito: A fastball diaster as fast so die stir race is an enzyme that breaks this bond.
+3:01
+Andrew Ippolito: We can also call those kinds of enzymes a nucleus.
+3:09
+Andrew Ippolito: And we'll see later don't want to sleep. Andrew Ippolito: here's the original Article that Watson and Crick published and, if you look here if you feel free to read it, if you want.
+3:20
+Andrew Ippolito: April 1953. Andrew Ippolito: And at the very end of the article, they say this.
+3:28
+Andrew Ippolito: One little paragraph, it has not escaped our notice that the specific pairing we have postulated immediately suggests a possible copying mechanism for the genetic material.
+3:42
+Right. Andrew Ippolito: So what i'm going to now do is teach you how DNA gets replicated and we're going to learn the classic experiment.
+3:56
+Andrew Ippolito: That proved it was through a semi conservative model.
+4:02
+Andrew Ippolito: When Watson and Crick said it immediately we immediately note how a possible copying mechanism what they meant was if you take, let me, let me use a whiteboard here, if you take a chain of DNA and let's use a.
+4:18
+Andrew Ippolito: User green. Andrew Ippolito: and blue here I use a light blue alright so ready here's one sugar phosphate backbone.
+4:30
+Andrew Ippolito: And i'm just gonna put some random nucleotides here. Andrew Ippolito: Begin little ones.
+4:36
+alright. Andrew Ippolito: so little and big.
+4:45
+Andrew Ippolito: Right there's my double stranded DNA held together by hydrogen bonds. Andrew Ippolito: When you look at it this way.
+4:57
+Andrew Ippolito: This is what Watson and Crick men if we pull this apart.
+5:04
+Andrew Ippolito: And here's the profound statement we have lost no information content.
+5:12
+Andrew Ippolito: We know if this here. Is an all a.
+5:19
+Andrew Ippolito: g E a C T there I just made that up.
+5:28
+Andrew Ippolito: You guys can fill, on the other side for me right what's this one.
+5:35
+Julia Lakchin: T okay. Andrew Ippolito: And what's this one. Andrew Ippolito: g, and we can just go from there right i'm just looking at the other one for reference and i'm just falling on it.
+5:44
+Andrew Ippolito: So when I pull that apart i've lost nothing. Andrew Ippolito: Which means I could in theory, then build a brand new.
+5:54
+Andrew Ippolito: nucleic acid. Andrew Ippolito: brand new if, like acid.
+6:00
+Andrew Ippolito: And this one would be complimentary exactly as the other one is right, and the same with this one.
+6:10
+Andrew Ippolito: ingenious nature came up with this ingenious thing now watching a trick saw this and everybody nod their heads right but what's the one lesson that they probably took home from this whole story.
+6:19
+Andrew Ippolito: That just because it just makes sense doesn't necessarily mean it's true now, in this case, this is true i'll just give you a little spoiler here, this is actually how it does work.
+6:30
+Andrew Ippolito: Right, but the key is they have to experimentally confirm this, they have to prove it, they can't just hand wave and say Oh, it just makes sense.
+6:38
+Andrew Ippolito: So they go bit in the butt a bunch of times. Andrew Ippolito: Okay, so.
+6:44
+Andrew Ippolito: So let me explain to you now we're gonna walk into here muscle son and stuff that's that's this famous this, so this is the last classical experiment we're going to go through here muscles and.
+6:55
+Andrew Ippolito: Let me see if I can spell this right muscle. Andrew Ippolito: And I don't think that's about right hold on where's there that's how you spell it it's one s.
+7:05
+Andrew Ippolito: muscle. Andrew Ippolito: weight.
+7:10
+Andrew Ippolito: muscle so that's its. Andrew Ippolito: spelling spelled like it sounds and styles, the one that has each muscle sentence.
+7:23
+Andrew Ippolito: This is, this is probably this is up there with her, she and she said being very a very beautiful experiment classic it makes perfect sense well designed.
+7:33
+Andrew Ippolito: You can interpret the data any other way right so let's let's lay the groundwork here and i'm going to move a little fast here so feel free to rewatch this again in the future, or after you study it on your own.
+7:51
+Andrew Ippolito: There are three possible. Andrew Ippolito: Copying mechanisms.
+8:00
+Andrew Ippolito: three possible mechanisms of DNA replication, the first being semi conservative.
+8:10
+Andrew Ippolito: The second being. Andrew Ippolito: let's call it i'm.
+8:16
+non-conservative.
+8:23
+Andrew Ippolito: And the third being called disperse.
+8:31
+Okay. Andrew Ippolito: And i'll tell you what let me put these in the order that the book presents it, so I don't confuse you so conservative.
+8:39
+Andrew Ippolito: i'm sorry, you know what. Andrew Ippolito: I know you guys are writing this down not non-conservative isn't even part of this story that's part of the old story.
+8:48
+Andrew Ippolito: So it will do this too conservative conservative that's the first one, they present and then they do semi conservative and then they disperse it okay So there we are.
+8:59
+Andrew Ippolito: So conservative is the first one semi Conservatives, the second one disperses the third one.
+9:06
+Andrew Ippolito: Okay let's put a little space here.
+9:13
+Andrew Ippolito: Okay, so what we're talking about is these these words pertain to the relationship between the original DNA.
+9:23
+Andrew Ippolito: And the daughter molecules alright so let's do some colors here, so the initial DNA let's say is always white.
+9:35
+Andrew Ippolito: Okay, or here let's let's actually let's do strands heroes to read.
+9:40
+Andrew Ippolito: No, sorry green and blue those Those are the two we're going to use Okay, so they don't the original DNA conservative replication would be when we.
+9:52
+Andrew Ippolito: Keep the original DNA fully intact OK, so the original molecule is still alive in there and the new DNA is made out of completely new material okay so that's the key think of think of it this way there's old material, the original material and new material.
+10:14
+Andrew Ippolito: Right cells divide cells make DNA they make the new DNA out of some new material right there's got to be new material.
+10:23
+Andrew Ippolito: The question is, is where is it so in the conservative model, the idea is is the original DNA double helix remains intact, and so the new daughter strands are completely brand new.
+10:35
+Andrew Ippolito: So red material here let's let's keep our color coding healthy here, so all material is going to either be green or blue and new materials always going to be red.
+10:47
+Andrew Ippolito: or semi conservative replication we take.
+10:52
+Andrew Ippolito: The original DNA. Andrew Ippolito: And what we do is we have.
+11:03
+Andrew Ippolito: The new DNA is half old.
+11:08
+Andrew Ippolito: and half new. Andrew Ippolito: semi conservative.
+11:16
+Andrew Ippolito: And then the dispersal model. Andrew Ippolito: is one we have.
+11:22
+Andrew Ippolito: The original. Andrew Ippolito: And segments of each strand are made of old and new, in other words, it looks kind of like a candy cane.
+11:33
+Andrew Ippolito: So you would draw it like this.
+11:42
+Andrew Ippolito: it's hard to do this with these colors but you get the idea oh actually.
+11:48
+Andrew Ippolito: into that a little bit. Andrew Ippolito: i'll keep it simpler here so here green the original green.
+11:57
+Andrew Ippolito: The original green. Andrew Ippolito: The original blue.
+12:02
+Andrew Ippolito: The original blue and that each one of them has bits of new material in it.
+12:10
+Andrew Ippolito: Okay, so think of it like random. Andrew Ippolito: scattering.
+12:18
+Andrew Ippolito: of old and new. material.
+12:25
+Andrew Ippolito: Okay. Andrew Ippolito: So if we step back and look at this. Andrew Ippolito: Okay, you can think of it like this here's the before.
+12:34
+Andrew Ippolito: And here's the after right before and after before and after.
+12:44
+Andrew Ippolito: So those are our three hypotheses. Andrew Ippolito: are three models, we need to experimentally.
+12:52
+Andrew Ippolito: confirm one of them by experimentally refuting the others.
+13:01
+Andrew Ippolito: Okay alright so serving that as a basis now what we can do is, we can the color coding here makes a lot of sense when you see it this way.
+13:09
+Andrew Ippolito: remember how her, she and chased us radioactive phosphorus and sulfur to distinguish between the DNA and proteins right they were able to distinguish between what we're gonna do is, we need to be able to come up with a technique to distinguish between two strands of DNA.
+13:26
+Andrew Ippolito: Okay, so they chose nitrogen.
+13:31
+Andrew Ippolito: And they used to isotopes of nitrogen they used a heavy nitrogen and a light nitrogen okay so there's nitrogen 14.
+13:42
+Andrew Ippolito: And so i'm gonna i'm going to go to the powerpoints really quick, I want to use the same reference points here as your slides do so that.
+13:52
+Andrew Ippolito: You can look at my powerpoints and you can look at my notes and it all makes sense, so i'm going to this looks like it uses pink for 14 and blue for 15.
+14:03
+Andrew Ippolito: Alright, so pink for 14 wow so i'm going to use green green for so nitrogen 14 right we're gonna do nitrogen 14 is green.
+14:13
+Andrew Ippolito: and nitrogen 15 is blue. Andrew Ippolito: For our color coding.
+14:19
+Andrew Ippolito: So here's what we do. Andrew Ippolito: And let's look let's look over here, so the first step is we're going to take some bacteria in a test tube and we're gonna add to that test tube.
+14:32
+Andrew Ippolito: a bunch of heavy nitrogen. Andrew Ippolito: Nitrogen 15.
+14:38
+Andrew Ippolito: Okay, so let's let's see how that would work. Andrew Ippolito: what's our DNA gonna look like our DNA is going to be made out of 100% nitrogen 50.
+14:49
+Andrew Ippolito: Right we're going to grow bacteria in a test tube with heavy nitrogen from multiple generations so that we can guarantee that 100% of its DNA is filled with every every single nitrogen Adam in there is made out of heavy nitrogen.
+15:05
+Andrew Ippolito: Does this make sense. Andrew Ippolito: raise your hand this making sense.
+15:12
+Andrew Ippolito: Okay, raise your hand for your little confused because, because if you don't get this everything's going to fall apart very quickly.
+15:19
+Andrew Ippolito: So ask me questions.
+15:26
+Andrew Ippolito: Nobody. Andrew Ippolito: Why aren't you guys are raising your hands.
+15:31
+Taylor Campbell: I was just still working on the picture. Andrew Ippolito: over here okay yeah so don't don't look too far ahead.
+15:39
+Taylor Campbell: Now, the one that you were drawing. Andrew Ippolito: Oh. Taylor Campbell: I was telling it with you, so I was finishing that.
+15:45
+Andrew Ippolito: Okay. So it doesn't make sense. Andrew Ippolito: Okay. Andrew Ippolito: So what we're going to then do.
+15:55
+Andrew Ippolito: Is we're going to think about it this way, we have a we have a cell, we have a bacterial sorry here's what's really going on, we have a bacterial cell.
+16:02
+Andrew Ippolito: That has its DNA in it right and what we want to do is, we want to allow that bacterium to divide one time, and only one time we wanted to go through binary vision and divide one we don't want to just keep growing it we want to grow in one generation.
+16:22
+Andrew Ippolito: Why, because we want to catch it just after it copied its DNA one time.
+16:30
+Okay. Andrew Ippolito: And what we're gonna do is we're going to transfer that bacteria into a new test tube that is filled.
+16:39
+Andrew Ippolito: With nitrogen 14 the light nitrogen.
+16:47
+Andrew Ippolito: And now let's consider the three possibilities now right, so we transfer this.
+16:55
+Andrew Ippolito: into it, so if semi conservative, or rather we was the first one conservative right.
+17:01
+Andrew Ippolito: Can we do this console yeah so if conservative is true that tells us that we are going to see this molecule.
+17:10
+Andrew Ippolito: which has 100% nitrogen. Andrew Ippolito: And we're going to see this molecule.
+17:19
+Andrew Ippolito: Because it's made out of brand new material and the only material that's present is nitrogen 14, the only thing that the bacteria can use to make new DNA is what it is given nitrogen 14.
+17:31
+Andrew Ippolito: And so that strand will be 100% nitrogen 40.
+17:37
+Andrew Ippolito: And here's what they do, they can then isolate the bacteria. Andrew Ippolito: They can purify the DNA crudely.
+17:47
+Andrew Ippolito: And then they can also they can centrifuges like ridiculously high forces of gravity is called ultra central vacation.
+17:56
+Andrew Ippolito: 10s of thousands of times the force of gravity for 24 hours, the reason why you have to centrifuge things that are so small, like that is because we're dealing with we're dealing with a single neutron difference here.
+18:10
+Andrew Ippolito: Right, and so what they do is they run the centrifuge on this thing called a sucrose gradient.
+18:18
+Andrew Ippolito: So it's not just water it's a dense material it's a solution of sucrose.
+18:24
+Andrew Ippolito: And the way that test tube looks you can think of the test tube here after its centrifuge.
+18:30
+Andrew Ippolito: The DNA can be visibly detected just just by and you will see.
+18:37
+Andrew Ippolito: A band appear in your sucrose gradient.
+18:44
+Andrew Ippolito: So imagine running and control experiment, where you you grow up you grew up your bacteria and the heavy nitrogen and your centrifuge and what I just drew is what you would see.
+18:54
+Andrew Ippolito: Okay, so this tells us that we can mark the tube here, we can say that's nitrogen 15.
+19:00
+Andrew Ippolito: Right. Andrew Ippolito: Now, if we do a separate control if we grow the bacteria and just light nitrogen right, so you can imagine, imagine a little mini mini experiment here, where we do controls, just to see what things look like.
+19:13
+Andrew Ippolito: And we can mark this is heavy nitrogen and we can mark this as light nitrogen right it's lighter it's going to run higher it's not as heavy it's not going to go pull is not gravity is not going to pull it as far through the centrifuge or pull it through the sucrose.
+19:28
+Andrew Ippolito: So you're gonna have a light band or heavy. Andrew Ippolito: Okay, after a single generation of growth.
+19:36
+Andrew Ippolito: yeah if conservative replication is true, we would expect to see two bands, this would be our expected results.
+19:48
+Andrew Ippolito: After the experiment, we would see two distinct bands. Okay.
+19:56
+Andrew Ippolito: All right now let's look at semi conservative. Andrew Ippolito: And i'll go fast here, this is hopefully making sense now so here's your original parent DNA.
+20:05
+Andrew Ippolito: We transfer it to light nitrogen if semi conservative is true that means one of the original strands will be present.
+20:13
+Andrew Ippolito: And the new DNA oh hold on, let me use the right colors okay so here's the heavy nitrogen and here's the light nitrogen.
+20:23
+Andrew Ippolito: And both of the strands both of the daughter strands would look exactly the same so each one would be 50% nitrogen.
+20:34
+Andrew Ippolito: And 50% nitrogen 14 right, so, in other words, when we centrifuge that.
+20:41
+Andrew Ippolito: We would only see a single. Andrew Ippolito: i'm going to make this i'm going to put white here because there's no I don't have the ability to mix colors here a single band, that would be a hybrid.
+20:56
+band. Andrew Ippolito: Right, we would see one band. Andrew Ippolito: Because that DNA.
+21:01
+Andrew Ippolito: would be a combination on the 14 and 15 so would run lower than the light 14 but higher than the heavy 15.
+21:08
+Taylor Campbell: So there's no new material in that. Andrew Ippolito: No, no, no, so each new DNA molecule is made out of half old and half new.
+21:18
+Andrew Ippolito: Okay, oh so. Taylor Campbell: So. Andrew Ippolito: yeah I forget forget yeah yeah okay.
+21:23
+Andrew Ippolito: So that was me explaining the distinction. Andrew Ippolito: You know what Taylor I just realized my mistake in the original.
+21:34
+Andrew Ippolito: Okay, if we go back to this when I when I set all this up this new material.
+21:41
+Andrew Ippolito: This new material for the what we're running right now that's nitrogen 14.
+21:46
+Andrew Ippolito: So, technically, when I first mapped all this out, which would have been confusing to you before explaining this I would have had to make green.
+21:54
+Andrew Ippolito: And then that would have made no sense to you, if I use the same color for the new material as one of the old materials right the key here is.
+22:03
+Victoria Bloemker: So. Andrew Ippolito: So forget read that was just helping explain those three mechanisms now now let's just focus on using blue and green Okay, so in this case, the new material is always made out of light nitrogen and, therefore, is the green.
+22:19
+Andrew Ippolito: there's no red here. Andrew Ippolito: And the original DNA. Andrew Ippolito: Is. Andrew Ippolito: All 100% blue.
+22:27
+Andrew Ippolito: Because it's just made out of heavy nitrogen nitrogen.
+22:34
+Andrew Ippolito: Okay, you still with me, making sense. Andrew Ippolito: Now disperses.
+22:40
+Andrew Ippolito: The disperse of model we start with the pure 100% hundred and 15.
+22:47
+Andrew Ippolito: And if disperse of is true each new strand.
+22:57
+Andrew Ippolito: will be. Andrew Ippolito: A combination.
+23:03
+Of. Andrew Ippolito: 14.
+23:16
+Andrew Ippolito: In other words, if we ran that on the centrifuge after the first generation, we would also just get a single hybrid band.
+23:28
+Andrew Ippolito: For different reasons right.
+23:34
+Andrew Ippolito: When you see, and when you say in all of them tori. Andrew Ippolito: i'm not sure I just saw your question pop up but i'm not sure what the.
+23:42
+Victoria Bloemker: contract was. Victoria Bloemker: um so I was asking like for all three of them, the original.
+23:50
+Victoria Bloemker: Like DNA, is that all like 50%.
+23:55
+Andrew Ippolito: yeah it is. Andrew Ippolito: You know what. Andrew Ippolito: When I was first explaining this to you.
+24:02
+Andrew Ippolito: I could I would I probably should have done it say.
+24:10
+Andrew Ippolito: This is this is old material, this is new material.
+24:17
+Andrew Ippolito: So let me, let me just quickly sketch this out.
+24:26
+Andrew Ippolito: But, so this is what the in the absence of nitrogen, so we have the old material here.
+24:31
+Andrew Ippolito: Okay, if conservative is true, we would see the original and the new.
+24:37
+Andrew Ippolito: If semi conservative is true, we would see the original. Andrew Ippolito: split in half, and we would see half old half new.
+24:46
+Taylor Campbell: And then, what about the second replication. Andrew Ippolito: So don't worry about that one yet.
+24:52
+Taylor Campbell: Okay. Andrew Ippolito: And then, if dispersed of is true.
+24:59
+Andrew Ippolito: We would see.
+25:04
+Andrew Ippolito: A combination. Andrew Ippolito: of both so there'd be two each of the double strands would each have half old and half.
+25:13
+Andrew Ippolito: Okay, so that's. Victoria Bloemker: This is how. Andrew Ippolito: This is how I should have drawn it up here originally and I just made it I just realized, I made it more confusing adding all the different colors.
+25:26
+Andrew Ippolito: So, this would be. Andrew Ippolito: Conservative.
+25:31
+Andrew Ippolito: semi conservative.
+25:36
+disperse it. Andrew Ippolito: All right, good. Victoria Bloemker: that's your question.
+25:43
+Victoria Bloemker: I was just saying i'm like compared to like the colors and stuff so the originals always 15 nitrogen.
+25:51
+Andrew Ippolito: For the for the purposes of metal son install yes. Victoria Bloemker: Okay.
+25:56
+Yes.
+26:01
+Andrew Ippolito: All right now let's step back here and look here so here are three possible outcomes for the experiment remember before you run an experiment.
+26:12
+Andrew Ippolito: After you've designed it, you also want to make sure you understand the possible.
+26:20
+Andrew Ippolito: outcomes, so that you can interpret it. Andrew Ippolito: So they do this.
+26:26
+Andrew Ippolito: And they get a single band.
+26:32
+Andrew Ippolito: Okay, so they so they so you can think of this as theoretical.
+26:40
+Andrew Ippolito: versus actual. Andrew Ippolito: OK, so the actual experiment, they did they get one band.
+26:50
+Andrew Ippolito: How do we interpret that.
+26:58
+Alexis Micewski: It could be either semi Conservative or just. Andrew Ippolito: Good and what.
+27:04
+Andrew Ippolito: But really what's what's an alternative way of saying the conclusion. Taylor Campbell: That it cannot be conservative.
+27:09
+Andrew Ippolito: Right, in other words. Andrew Ippolito: Where we're able. Andrew Ippolito: To cross that one off the list.
+27:16
+Andrew Ippolito: Right remember science doesn't prove science disproves and we just destroyed the idea of Conservative replication.
+27:25
+Andrew Ippolito: Okay, we would need to see very clear to bands for that to be true, and we just don't see there's, not even a glimmer of it.
+27:34
+Andrew Ippolito: Alright, so so now, the problem is, as you guys were saying earlier, that as well, you can't distinguish between these two.
+27:41
+Andrew Ippolito: they're both a middling band here, so if we allow those bacteria, then so let's do we say we do a time point right, so we took them out of 20 minutes after we know they replicated once now let's take them out of 40 minutes and see what the second.
+27:56
+Andrew Ippolito: replication looks like. Andrew Ippolito: Excuse me so let's take this right, and this right here what i'm about to explain is the sticking point for mesclun install and why some people get confused but alright so here let's do this we're gonna take here.
+28:13
+Andrew Ippolito: So, this would be. Andrew Ippolito: One of the daughter ma this would be what the DNA looks like after the first replication if semi conservatives true, and this is what it would look like.
+28:23
+Andrew Ippolito: After the first generation of disperse it was true. Andrew Ippolito: Right, this would be semi.
+28:30
+Andrew Ippolito: Conservative and this would be dispersed now we're so here's the insight ready we're still in the presence of nitrogen 14.
+28:40
+Andrew Ippolito: meaning, the only way we can make new DNA is to make a green in this scenario right so let's do that let's take this one is split it in half.
+28:49
+Andrew Ippolito: We have an old Strand and then new strand i'm sorry we have the two old strands we have those two old strands we're in the presence of nitrogen 14, the only thing we can do is make green.
+29:03
+Andrew Ippolito: Okay, the disperse of model. Andrew Ippolito: Half old in half new so half half nitrogen 15 and 14 and really, let me just see myself the trouble here out there, we go that's nice right.
+29:21
+Andrew Ippolito: Okay, and now the new material. Andrew Ippolito: Is all green.
+29:29
+Andrew Ippolito: Right did that make sense.
+29:35
+Andrew Ippolito: The only kind of the only way we can make DNA in the present legend 14 is the new strands of DNA has to be made out of nitrogen 40.
+29:49
+Andrew Ippolito: Any questions. Julia Lakchin: Is it always going to be nitrogen 14. Andrew Ippolito: Well, and the experiment it's always got to be whatever it was so you know you can, in theory, if we go back.
+30:00
+here. Andrew Ippolito: You could have grown in the presence of light nitrogen and then put it in heavy.
+30:06
+Andrew Ippolito: Okay, but they didn't do it that way they did heavy and then put it into like the key is is, whatever the first isotope was to start with.
+30:15
+Andrew Ippolito: Where 100% of the DNA is that we're then going to put it into the other one for one generation and look at it and then we're going to look at it in the second generation and look at it.
+30:26
+Taylor Campbell: So, in your drawing there's only two in in the slides there's four for the second that's the second generation right.
+30:34
+Andrew Ippolito: Okay, so ready. Andrew Ippolito: This yeah this is this is second generation. Andrew Ippolito: This would be third generation.
+30:41
+Andrew Ippolito: Right, so the first generation, we already dead right first if here if I was to go back here let's go back and look at the first generation.
+30:48
+Taylor Campbell: Ah. Andrew Ippolito: There you go the original one looks like this right. Taylor Campbell: that's not parent.
+30:56
+Andrew Ippolito: uh let's do let me see what i've got here.
+31:01
+Andrew Ippolito: yeah yeah this is parents first your parents. Andrew Ippolito: Are they calling first generation.
+31:08
+Yes. Andrew Ippolito: Okay okay i'm just it's. Andrew Ippolito: My terminologies. Taylor Campbell: that's fine.
+31:13
+Andrew Ippolito: parent first second there we go. Andrew Ippolito: Okay, so the parent to the first generation.
+31:22
+Andrew Ippolito: would give us that.
+31:27
+Taylor Campbell: Two of them right. yeah.
+31:42
+Andrew Ippolito: Okay, and then what i've done here for the second generation and i've just taken one of those just to show you, but I could I could just duplicate all this to make it.
+31:52
+Andrew Ippolito: a reality.
+32:01
+Andrew Ippolito: that's that's if we if we account for every single molecule. Andrew Ippolito: So here here's the original parent okay that parent splits in half half or So those are the two original ones right then in each gets new material here's the original one.
+32:22
+Andrew Ippolito: here's the original one right, so you can see every generation that we go out we're going to get more and more just brand new material and the original pair molecule is going to get you know left behind in terms of the relative ratios of it.
+32:33
+Andrew Ippolito: Whereas in the disperse of model, the original molecules kind of gone.
+32:39
+Andrew Ippolito: And instead i'll tell you what instead of saying original molecule let's talk let's see nitrogen 15. Andrew Ippolito: trace out the nitrogen 15 through these generations.
+32:49
+Andrew Ippolito: But really the most important thing is just look at what happens in the second generation.
+32:56
+Andrew Ippolito: Compare this and this and centrifuge them.
+33:02
+Andrew Ippolito: Okay, if we centrifuge this. Andrew Ippolito: What are we going to see we're going to see a hybrid band that corresponds to this molecule.
+33:12
+Andrew Ippolito: And we're going to see a light band that corresponds to this molecule right we're going to see a 100% nitrogen 14.
+33:22
+Andrew Ippolito: And we're gonna see a hybrid 1514 with discursive we're just going to see a hybrid.
+33:31
+Andrew Ippolito: One band and don't even worry about where it runs one band versus two bands.
+33:39
+Andrew Ippolito: And so, of course, they saw two bands. Andrew Ippolito: allowing them to eliminate the dispersal model.
+33:49
+Andrew Ippolito: and demonstrate that DNA replication occurs in a semi conservative manner.
+33:56
+Andrew Ippolito: And that's muscle sentence.
+34:02
+Any questions.
+34:15
+Andrew Ippolito: Alright, so now that i'm walking through that i'll just very quickly walk you through this So here we are, we brought it in heavy.
+34:22
+Andrew Ippolito: If we were to take a sample of this out and look at it and the centrifuge we would see a heavy band right.
+34:28
+Andrew Ippolito: We then transfer some of it to the light and we allow it to grow one generation and then centrifuges.
+34:36
+Andrew Ippolito: And we see a single hybrid man. Andrew Ippolito: Okay, if we then allow it to continue growing so we take the same flask when we started timer 20 minutes later we do this one.
+34:50
+Andrew Ippolito: We then allow 40 minutes to pass on we do a second one, and we see the emergence of a second band, the only way to interpret that is that semi conservative replication is true.
+35:04
+Okay. Andrew Ippolito: it's all about interpreting the patterns of the.
+35:13
+Andrew Ippolito: The. Andrew Ippolito: alright.
+35:18
+Andrew Ippolito: So what we're going to now do freak forget history and experiments, I want to teach you the mechanism of DNA replication.
+35:26
+Andrew Ippolito: Okay, and you're going to very quickly see why.
+35:31
+Andrew Ippolito: This was not a designed process, but in an involved process because it's messy.
+35:39
+Andrew Ippolito: The simple version as shown on the screen in front of you here is, we simply unwind the to double helix the we unwind the double helix we pull apart the strands and then we add new material to each one.
+35:55
+Andrew Ippolito: Okay, in theory, very simple so there's three steps okay there's unwinding it.
+36:03
+Andrew Ippolito: there's pulling it apart there's adding new material. Andrew Ippolito: Okay.
+36:12
+Andrew Ippolito: You need replication requires an origin point we call it the origin of replication sometimes you can abbreviate that are the ori.
+36:23
+Andrew Ippolito: bacterial chromosomes have a single origin of replication.
+36:28
+Andrew Ippolito: eukaryotic chromosomes have multiple origins of replication. Andrew Ippolito: This explains why, despite the fact we have way more DNA than a bacterial cell, we can still replicate our DNA in about two hours.
+36:42
+Andrew Ippolito: And contrast you prokaryotes in their peak rate can replicate every 20 minutes.
+36:50
+Andrew Ippolito: Okay, they can grow much faster than us.
+36:55
+Andrew Ippolito: The first step in DNA replication is unwinding the double helix remember that the double helix is under tension at all times it's coiled and super coil.
+37:08
+Andrew Ippolito: And so there's a special kind of enzyme that releases the tension and the double helix by basically nicking one of the strands and allowing you to spend away.
+37:17
+Andrew Ippolito: Those kinds of enzymes called total I some races toto is the Latin base for surface think of a topographical map and geography and then remember that ISO ice summer is different different structures but same formula right so toe boy summaries means.
+37:38
+Andrew Ippolito: Different surfaces different different higher level structures.
+37:45
+Andrew Ippolito: Okay, so if you take. care.
+37:51
+Andrew Ippolito: here's some. Andrew Ippolito: here's some DNA.
+37:56
+Andrew Ippolito: let's say this is double stranded DNA so look at me for a second stop copying everything down here's.
+38:05
+Andrew Ippolito: here's the double helix see this is going to work very nicely here's a double helix okay now imagine see how i'm pulling these apart here.
+38:15
+Andrew Ippolito: If I pull us apart here, as I pull us apart here I want you to really consider what's happening downstream all right, I wish I had a way of increasing this somewhere.
+38:30
+Andrew Ippolito: don't worry about the PowerPoint right now look at me. Okay.
+38:44
+Andrew Ippolito: There we go alright so as I pulled these apart.
+38:51
+Andrew Ippolito: I pulled us so think of this as a fork see the fork here darn it doing this with one hand, is very difficult, it turns out.
+39:02
+alright. Andrew Ippolito: As I yank on this, as I pull these apart it's going to increase the tension going this way right i'm going to basically backup the knot and that puts too much tension, also with the toy summaries does down here okay so so.
+39:19
+Andrew Ippolito: The fork is controlled by an enzyme called healing case this pose the double strands apart.
+39:26
+Andrew Ippolito: Okay, the helix posey strands apart the toe boy summaries is up here relieving the tension that's happening as a result of this pulling apart, they work in combination, to prevent the DNA for becoming a tangled mess essentially.
+39:43
+Andrew Ippolito: OK. Andrew Ippolito: So the healer keys is pulling the strands apart the toe boy summaries is releasing the tension.
+39:52
+Andrew Ippolito: And here's where DNA. April Neeld: Go ahead. April Neeld: So the um the turbo summaries, how does it do that.
+40:02
+Andrew Ippolito: It introduces a Nick into one of the strands allowing the whole thing to very rapidly own coil and release the tension and then it puts it back together again.
+40:12
+Andrew Ippolito: Okay yeah it's it's a really. Andrew Ippolito: it's a really ingenious enzyme actually but. Andrew Ippolito: You don't have to know that for the test, but that's that's how it works it'll basically according to my little model, right here, and it basically does is it will take one of these and it'll cut it.
+40:27
+Andrew Ippolito: And then allow the whole thing go very quickly snap around that access and then glue them back together again.
+40:34
+Andrew Ippolito: Okay, this has to do, like not theory and all sorts of. Andrew Ippolito: Complicated higher level three dimensional math you don't have to worry about me at all right, so you see the DNA once it's separated.
+40:45
+Andrew Ippolito: DNA is at its most dangerous point in his life at this point, and so there are these proteins that swarm the single stranded pro single stranded DNA called appropriately single stranded binding proteins and they just protect the DNA from damage.
+41:00
+Andrew Ippolito: Remember, I told you dinis never found naked it's always associated proteins Okay, so these ssp us are these little purple balls.
+41:09
+Andrew Ippolito: Okay. Andrew Ippolito: Alright, so now we have access to the nucleotides on your side.
+41:17
+Andrew Ippolito: The other thing I want you to note here, you see the five prime here. Andrew Ippolito: and see the three prime here does anybody remember which side of the DNA were allowed to add new material two.
+41:31
+Andrew Ippolito: Three good. Andrew Ippolito: Okay, now the mistake you're going to make if you're not careful, is you're going to be like oh let's just add right here.
+41:39
+Andrew Ippolito: that's the original molecule right we're not interested in that we need a brand new molecule right, so in this diagram right we want something right here, right you want this guy.
+41:50
+Andrew Ippolito: So and they're anti parallel right, that would be the five prime this would be the three prime so which way, am I going here i'm going this way.
+41:57
+Andrew Ippolito: Right, the new strand is going to grow this way. Andrew Ippolito: And look at the top Now this is five.
+42:04
+Andrew Ippolito: Which means this here is going to be three, which means we got to go that way.
+42:11
+Andrew Ippolito: Do you see the problem. Andrew Ippolito: wouldn't it be nice if you were growing DNA like this.
+42:21
+But we can't. Andrew Ippolito: that's the problem of DNA replication is this whole anti parallel business, we have to grow them in opposite directions.
+42:32
+Andrew Ippolito: we'll see that a little bit better in detail here. Andrew Ippolito: OK so again so he'll a kiss is the enzyme that breaks apart the hydrogen bonding between the complimentary base pairs.
+42:46
+Okay. Andrew Ippolito: When we step back and look at a double helix of DNA that has its origin of replication opened we call that region of the DNA a bubble.
+43:01
+Andrew Ippolito: it's a replication bubble, you can do it like this in your notebook.
+43:11
+Andrew Ippolito: Okay that's the bubble. Andrew Ippolito: Do you see right here, if I zoomed in on that it would look like this.
+43:19
+Andrew Ippolito: Right, you can even cartoon it out like that this here is called a replication fork that makes sense it's like a fork in the road Okay, so, if you look at my hands now two forks make the bubble.
+43:34
+Andrew Ippolito: Okay. Andrew Ippolito: Now, at the higher level of this right, so I mean.
+43:42
+Andrew Ippolito: To to list again here, there is a complex of enzymes, that is insanely large and multi part burger going to bind to each of these forks so the circle i'm drawing here, because a complex we're going to call this the DNA polymerase.
+44:01
+Andrew Ippolito: hollow enzyme H O l O big hollow enzyme.
+44:06
+Andrew Ippolito: A hollow enzymes and enzymes enzyme with multiple parts. Andrew Ippolito: So the healer case that oh boy saw marines the polymerase the primates all that's the single strand the binding proteins is all and.
+44:18
+Andrew Ippolito: And each fork is associated with a hollow enzyme.
+44:27
+Andrew Ippolito: And for our purposes, you can imagine that the hall enzyme is going to move along that fork it is going to move away from the replication for it.
+44:39
+Andrew Ippolito: it's going to go this way, the whole thing is going to go this way. Andrew Ippolito: Right, and so this one's going to go that way, this is called bi directional bi directional replication.
+44:56
+Andrew Ippolito: You can in theory have uni directional replication.
+45:07
+Andrew Ippolito: stay with me. Andrew Ippolito: Okay. Andrew Ippolito: questions.
+45:13
+Victoria Bloemker: middle one is the bubble one right. Andrew Ippolito: Well, the bottom has a bubble to.
+45:18
+Andrew Ippolito: say here, let me, let me draw need oh here just look here so there's the bubble, so the hololens on will bind either here or here and I will go this way.
+45:29
+Andrew Ippolito: Okay, so do you see how each. Andrew Ippolito: hollow enzyme is going to have. Andrew Ippolito: To make two brand new strains of DNA.
+45:38
+Right. Andrew Ippolito: And those are the merging of the sister chromatin.
+45:44
+Andrew Ippolito: Those would be the sisters right genetically identical.
+45:50
+Andrew Ippolito: Alright, so in prokaryotes where we got that circular ring of DNA.
+45:57
+Andrew Ippolito: there's that single origin, and so, from that point the bubble occurs and you get this bi directional replication.
+46:06
+Andrew Ippolito: And you get to daughter molecules. Andrew Ippolito: And eukaryotes we have multiple origins of replication so that, over time, those hololens always bump into each other, you can think of them as the bubbles eventually merging together and eventually that's going to result in to daughter molecules.
+46:31
+Andrew Ippolito: Is your justice, just as humans, and you can see here. Andrew Ippolito: You can trace along here, you can see it's kind of neat you can see, this under the microscope honestly.
+46:41
+Andrew Ippolito: You can see the various multiple bubbles on the right there that's a eukaryotic chromosome replicating on the left hand side that's a pro chaotic.
+46:49
+Andrew Ippolito: circular chromosome replicating right and so you're looking at here the original loop would be this and then each there's the fork and there's the fork so here's a fork and here's a fork see that.
+47:17
+Andrew Ippolito: The enzyme that makes DNA DNA polymerase cannot make a new piece of DNA from scratch.
+47:27
+Andrew Ippolito: Okay, you can only extend an existing.
+47:33
+Andrew Ippolito: nucleotide i'm sorry an existing nucleic acid and other words.
+47:39
+Andrew Ippolito: The enzyme can't just take a nucleotide let's let's all here look i'm going to draw this a lot and I was represent this, you can see, this T thing.
+47:45
+Andrew Ippolito: Okay, when I when I draw this T let's recall that here's the ribosome the phosphate and the base right here's a nucleotide Okay, when you see this.
+47:56
+Andrew Ippolito: What you're looking at here are the two carbons that could either be the five or three prime carbon and then this, there is the base.
+48:05
+Andrew Ippolito: Okay, so when we draw a cartoon version of this, you can put a bunch of nucleotides together like this.
+48:12
+Andrew Ippolito: Right, and so this would be five, and this would be 30, and so we grow this this way, and this might be, you know, a CG whatever so I just want you to make sure you understand the T that's not find me that's that's a cartoony version of a nucleotide okay make sense.
+48:31
+Andrew Ippolito: Yes or no. Andrew Ippolito: I can't tell if you're hyper focused or inattentive.
+48:44
+April Neeld: I have a question. Andrew Ippolito: Yes, guide April. April Neeld: So um I read the chapter before this and they were talking about an RNA primer.
+48:53
+Andrew Ippolito: i'm about to explain that. Andrew Ippolito: Okay, just before I. Andrew Ippolito: Before I can I need to make sure you understand my cartooning with.
+49:00
+April Neeld: I was just confused because, like in the textbook they talked about the RNA primer before they talked about the DNA polymerase and I was one.
+49:07
+April Neeld: What so okay. Andrew Ippolito: So forget the book for a second. Andrew Ippolito: here's what i'm going to tell you.
+49:13
+Andrew Ippolito: Before DNA polymerase can do its job. Andrew Ippolito: All right, I should say what I just explained to you is the reason why we have the private alright so here ready here's the original.
+49:25
+Andrew Ippolito: Power molecule DNA let's see this is the five prime men, and this is a three primary and so these are the individual nucleotides.
+49:34
+Andrew Ippolito: Okay. Andrew Ippolito: So we want to build a compliment to that that's what let me use the whiteboard because I can use different colors So here we go.
+49:46
+Andrew Ippolito: here's the original DNA here's the five prime here's the three.
+49:53
+Andrew Ippolito: Okay, and so here are the individual nucleotides. Andrew Ippolito: Right, so I could rip this apart, you know you can imagine, right here, if I pulled this out like this, this would be the five prime this would be the three primary maybe that's an A.
+50:07
+Andrew Ippolito: Okay that's an individual nucleotide alright, so the new one right, in theory, we want to build this right, this is our goal we want this molecule three prime to five, and we want these to be complimentary.
+50:19
+Andrew Ippolito: Right that's our end game right there so so this thing here i'm going to delete this now, how do we build it well let's pretend let's just start at any random nucleotide let's just start right here.
+50:30
+Andrew Ippolito: Right, so this is what it would look like in theory right, that would be the first nucleotide Okay, if this wasn't a this would be a ti.
+50:38
+Andrew Ippolito: Right and so here, this would be the three prime how do I know that because i'm looking here, I see this is a five, this has to be a three.
+50:46
+Andrew Ippolito: And this has to be the five which way, am I, adding the next one left to right, am I, putting it here or here.
+50:54
+Andrew Ippolito: Good going to go this way, so the next nucleotide is gonna be right here. Andrew Ippolito: So here's the problem of DNA polymerase DNA polymerase can do this.
+51:03
+Andrew Ippolito: All DNA components can do is if I already have an existing strand of nucleotides and I have a three prime available and to add to I can now add nucleotides this way so that's the role of DNA polymerase we called DNA p.
+51:23
+Andrew Ippolito: Okay, so DNA deployments can't start the job, but it can finish the job, and so we need to prime it, and so what we do is, we have an enzyme that can start a nucleotide chain from scratch it's called RNA primates.
+51:37
+Andrew Ippolito: Okay, so what arnie primates does. Andrew Ippolito: Is after he'll a case.
+51:44
+Andrew Ippolito: Has unbounded. Andrew Ippolito: here's the concept of my slide so here's here's the five prime three prime okay.
+51:52
+Andrew Ippolito: The key is is that primates sets down a few nucleotides it's a starter set.
+51:59
+Andrew Ippolito: it's made out of RNA, though. Andrew Ippolito: So this is a weird DNA arnie hybrid molecule, which is a problem, but we're not going to deal with that problem just yet, because we have another problem DNA polymerase doesn't know where to start a job because he's an idiot he can't start this from scratch.
+52:19
+Andrew Ippolito: Okay, so we get primates to do it. Andrew Ippolito: And there's where DNA permission to start his job so we prime so we unwind it with your keys we release the tension with two boys summaries we've protected with single strand binding proteins, we now prime the track.
+52:37
+Andrew Ippolito: Okay, and again you're going to make this mistake if you're not careful you're going to want to grow this way because that's the three primary.
+52:43
+Andrew Ippolito: But it's anti parallel we're going this way because the new strands three prime and is the important strands three prime and that's the important three.
+52:54
+Okay. Andrew Ippolito: So DNA polymerase thing comes along here.
+52:59
+Andrew Ippolito: And as you see the DNA with the Roman numeral three, so this is DNA polymerase DNA polymerase three it turns out, there are multiple DNA polymerase is you don't have to know all of them, but know that three is the important one here that's going to extend the strand.
+53:20
+Andrew Ippolito: Okay, so watch this and then lay some tracks okay.
+53:26
+Andrew Ippolito: You see, the blue the blue tells us that's the oxy ribosome that's DNA the red tells us that's our.
+53:35
+Andrew Ippolito: Okay, so we now have like from here on out that's good DNA that's what we want right oops this is this is RNA we're gonna have to eventually get rid of that lead.
+53:47
+Andrew Ippolito: Okay, so DNA polymerase three that's the magic of all of it that's the one that says hey that's a T down here, I need to add on a nucleotide.
+53:58
+Andrew Ippolito: that's a a nucleotide that has to be a team nucleotide, this is the see, I have to so DNA polymerase three is the one that gives us the specificity within the base pair.
+54:09
+Andrew Ippolito: that's the secret sauce to all this.
+54:16
+Andrew Ippolito: And then, a perfect world DNA wouldn't be anti parallel and both strands would be easily synthesized and that would be that, but of course we don't live in a world that things are any nothing's easy.
+54:27
+Andrew Ippolito: Right, so what i've done now here is let's step back let's look at a single replication fork and its anti parallel nature and let's keep in mind that there's this hollow enzyme that is moving to the left, no matter what okay so there's this whole thing moving this way.
+54:46
+Andrew Ippolito: Right. Andrew Ippolito: And I want you to see that this new strand here the three PRIMES here notice that we're also going this way that's good we're gonna call this the leading strand.
+55:00
+Andrew Ippolito: Because it's going in the same direction as the whole hollow enzyme. Andrew Ippolito: it's moving away from the replication for think of like a zipper on your jacket you're coming down your jacket like that we're going down the road we're going away from the replication fork.
+55:12
+Andrew Ippolito: And so the strand that's being built in that direction is the leading strand that's the easy one, you get one primer and then you stick the DNA polymerase three on it and you just keep going until you're done.
+55:24
+Andrew Ippolito: Okay.
+55:30
+Andrew Ippolito: The other strand is a problem we call this the lagging strand because it's slow why because we have to keep starting and stopping and starting and stopping and starting and stopping.
+55:43
+Andrew Ippolito: This is called discontinuous synthesis.
+55:48
+Andrew Ippolito: whereas this is called continuous synthesis.
+55:53
+Andrew Ippolito: Those you're not the memorize that that just makes sense, we just keep going, or we have to start and stop and start and stop and start to see their continuous or discontinuous so we got the lagging strand because that's what's slowing us all down.
+56:07
+Andrew Ippolito: Okay. Andrew Ippolito: So, because only read the slide carefully or so, because the other strand is facing the other direction okay This strand is facing the wrong way it's going against the fork.
+56:22
+Andrew Ippolito: And because we can only extend on the three prime and the lagging strand is synthesized in the opposite direction of the overall fork movement.
+56:35
+Andrew Ippolito: synthesis of the lagging strand, therefore, must be continually restarted multiple primers then a short structure of DNA.
+56:46
+Andrew Ippolito: And each of these individual fragments we call these Osaka fragments named after the Japanese researcher that discovered them in the 1980s.
+56:57
+Andrew Ippolito: Okay, so each one of these blue lines can represent an oak Zaki fragment.
+57:03
+Andrew Ippolito: Go ahead go ahead Jay no problem.
+57:09
+Andrew Ippolito: Once the fragments are created. Andrew Ippolito: Okay, so ready here's where both the leading in the leg and strands get rid of that primer.
+57:17
+Andrew Ippolito: there's DNA polymerase one comes in it rips out the RNA primers here, I have a slide on this where's.
+57:27
+Andrew Ippolito: Here we go okay so here here here's the setup where we have the primer here and we have the normal DNA over here DNA polymerase one comes in and it basically rips out the RNA nucleotides and replaces them with DNA nucleotides.
+57:45
+Andrew Ippolito: Do you notice there's a little kink in the chain, right here there's there's a there's a break there, the sugar phosphate backbone is include together.
+57:54
+Andrew Ippolito: Right and so there's another enzyme that comes in seals, the deal literally it seals this break and that's called.
+58:02
+Andrew Ippolito: Like case. Andrew Ippolito: Okay, so DNA like he's.
+58:08
+Andrew Ippolito: Like it means the glue together when you like it, two things just to come together.
+58:13
+Andrew Ippolito: Okay, so here the keys polymerase like. Andrew Ippolito: that's the simplest way of looking at all this.
+58:22
+Andrew Ippolito: So the leading strand has DNA polymerase one come in once to get rid of that primer and then replace it, and then like exclusive together and the lagging strand.
+58:32
+Andrew Ippolito: We get primus doing its job over and over again, we have any appointments coming in and removing it over and over again and mikey is coming in, over and over again, all right title.
+58:42
+Alexa Deprisco: So, like this is like the opposite of like a fast food is threes is it called.
+58:47
+Andrew Ippolito: yeah. Andrew Ippolito: that's a really good way of putting it on does the damage of a facilitator streets.
+58:54
+Andrew Ippolito: Okay it's kind of like it becomes a tool in our toolbox and biotech when we when we want to you know stick piece of DNA together mixing and matching them in our labs we use leggings to glue them together to hey so think of like a says, the thing that joins nucleotides together.
+59:11
+Andrew Ippolito: Right, so one way of visualizing the synthesis of a new strand like this.
+59:19
+Andrew Ippolito: is to put down the railroad tracks, so to speak. Andrew Ippolito: And this is the job of DNA plumbers that specificity in the binding like yeast is going to glue these together.
+59:31
+Andrew Ippolito: So that we get the Nice sugar phosphate backbone. Andrew Ippolito: Okay, so polymerase recognizes the pairing and leaves the tracks down logs comes along and staples them together.
+59:42
+Andrew Ippolito: Okay it's a really beautiful coordinated movement of multiple enzymes.
+59:51
+Andrew Ippolito: Right, so this is a summary of it all you can read through this on your own I know we're running out of time here.
+59:58
+Andrew Ippolito: And, here are some key concepts I pulled out, for your studying right, so the double helix is anti parallel new strands have to be synthesized in opposite directions.
+1:00:08
+Andrew Ippolito: The second key here is that plumbers can't start a new strand, they can only build upon an existing one.
+1:00:14
+Andrew Ippolito: The third is that you have to remove those primers when you're done. Andrew Ippolito: The fourth is is that the leading strand is associated with continuous replication and that's going in the same direction as the fork.
+1:00:27
+Andrew Ippolito: Expanding so you would say it's moving away from the fork okay let's just make sure we can clear the directionality here this direction here is moving away from the fork.
+1:00:40
+Andrew Ippolito: And then the lagging strand of synthesize dis continuously guided April.
+1:00:46
+April Neeld: So when the RNA primer is on the line strand, and then the DNA.
+1:00:55
+April Neeld: DNA polymerase comes through is it putting it. April Neeld: On the three side or the five side when it's doing replication for that.
+1:01:05
+Andrew Ippolito: So here here's the lagging strand does this does this diagram look familiar like do you want to talk about this diagram.
+1:01:13
+April Neeld: I understand the diagram i'm just wondering, because I know you said, it has to add it to the three side and not the five side, but if it's moving to the left on that one is, it is the RNA ahead of it and then it's adding.
+1:01:27
+Andrew Ippolito: Ah, OK so here. Andrew Ippolito: here's the original wire. Andrew Ippolito: So here's the original fork.
+1:01:34
+Andrew Ippolito: Right and let's see this is five prime.
+1:01:40
+Andrew Ippolito: So what we're gonna do is we're going to add the primer here. Andrew Ippolito: And that's three prime.
+1:01:47
+Andrew Ippolito: And then we're going to have the DNA polymerase extended that way.
+1:01:52
+Andrew Ippolito: that's a leading strip so you would say so don't worry about left and right think about it in terms of the direction of the fork this is moving away from the fork.
+1:02:01
+Andrew Ippolito: Okay, in contrast, we would start the lagging strand here let's say we would grow it this way, but here's the thing eventually the entire hololens i'm just gonna leave it behind right, and so the idea is we do this here, I actually I have an anime I tried to make an animation where's it.
+1:02:23
+Andrew Ippolito: Okay here so here's the idea here's the item i'm going to replay it a bunch of times will stare at the screen a little bit on the left hand side, you can see.
+1:02:30
+Andrew Ippolito: The hololens i'm moving along in one direction, and the right hand side, you can see it moving along in the opposite direction okay one the green bubble here that represents one that's the leading strand.
+1:02:44
+Andrew Ippolito: Okay oops So you can see, the leading strand is going in the same direction, and then you can see, to the lagging strand, you see it, we can only do a little bit of it.
+1:02:53
+Andrew Ippolito: Right we're basically as this moves we're gonna have to continually start it again and again and again that's the key so we're gonna see primates priming again and again and again good.
+1:03:06
+Okay. Andrew Ippolito: All right, and then i've said this already probiotic replication is easier.
+1:03:15
+Andrew Ippolito: And it's more easily understood, because we can grow these cells easier and so all the early work and understanding this process is done in prob carriers.
+1:03:23
+Andrew Ippolito: eukaryotic DNA replication is way more complicated has way more moving parts there's like 18 different polymer races and most of them are involved in specific types of DNA repair go ahead alexa.
+1:03:35
+Alexa Deprisco: i'm sorry I already said this, but like i'm looking at the book and it looks like the lagging strand once it hits the origin, a replication ultimately becomes a leading strand, and vice versa.
+1:03:44
+Andrew Ippolito: Oh OK. Alexa Deprisco: Now let's talk about here. Andrew Ippolito: I skip that slide here Okay, so you can kind of draw a line in the middle here.
+1:03:52
+Andrew Ippolito: Right, and so the hololens i'm on this side is going to go this way and the hololens i'm on this side is going to go that way so for the left hand side of the screen.
+1:04:04
+Andrew Ippolito: The leading strand is going to be the one that follows along this way and the lagging strand, the opposite right, but when you look at the other side here this This strand of DNA here we don't you know it doesn't change is five and three that becomes the lagging strand going this way.
+1:04:19
+Andrew Ippolito: You see that, so if the if I bind to this fork here and I go this way the top strand, here is my leading strand.
+1:04:30
+Andrew Ippolito: If I bind on this side, instead, and they go this way the opposite direction this one becomes a lagging strand, because they still have to go that way.
+1:04:39
+Andrew Ippolito: Okay, so it's leading are lagging the identity of it being leading are lagging is dependent upon which side of the fork you're looking at.
+1:04:52
+Andrew Ippolito: I should say which side of the bubble you're looking at. Andrew Ippolito: So each parent strand of DNA serves as either a leading are lagging template depending on which direction the bubbles.
+1:05:11
+Andrew Ippolito: Okay, I would encourage you to go to YouTube and watch some animations they have some really wild animations on this, that would that might be able to help visualize this even better.
+1:05:27
+Andrew Ippolito: Alright, so this is directly from your book and so i'm going to help you in your studying here, make sure you know let's see all of this.
+1:05:38
+Andrew Ippolito: Right, this has all the you got your DNA par three your primates.
+1:05:43
+Andrew Ippolito: there's your DNA Paul one. Andrew Ippolito: Okay, and then this is a nice summary of it all.
+1:05:52
+Andrew Ippolito: The next slide, let me just get here. Andrew Ippolito: You don't have to know all of these this is this would be a nightmare, this would be your junior level molecular biology class okay so you're not to know that I just jumped out a few slides to show you that table to show you like just just know.
+1:06:13
+Andrew Ippolito: Three in one, so you got it no so you can understand this in the context of the others are involved and repairing damage that occurs they're not involved in the replication of DNA they're involved in a pair of DNA.
+1:06:25
+Andrew Ippolito: Okay, so i'm gonna go back a few slides now and talked about that so when we see the fidelity of replication how faithful isn't how accurate, is it.
+1:06:34
+Andrew Ippolito: all by itself plumbers, is going to make a mistake, one in every 100,000 basis with which is pretty damn good right, I mean imagine typing on the keyboard and only making a mistake one every 100,000 keystrokes.
+1:06:47
+Andrew Ippolito: High fidelity. Andrew Ippolito: But in the context of billions that's still too much right so during replication plumbers will occasionally put a wrong base down it's called based mismatch right it's using a and isolating puts a seat.
+1:07:02
+Andrew Ippolito: Okay it's being it's making mistake and so some of those mistakes are just missed.
+1:07:08
+Andrew Ippolito: But then there's other enzymes that come along to proofread it so that's the key here, is there a proofreading mechanisms here.
+1:07:18
+Andrew Ippolito: Okay, and so the most common type of DNA repair is called base mismatch repair when a base is bound to the wrong compliment.
+1:07:28
+Andrew Ippolito: And so the mismatch enzymes, which are involved with the DNA polymerase is like DNA polymerase two and four they're going to come in they're going to see hey he's not supposed to be there it's going to excise it so it's going to cut it out and it's going to put on the right one.
+1:07:45
+Okay. Andrew Ippolito: And so, when that happens, you get up to now is actually your book your book is wrong in this one area, it says that the mistake level gets to one and 10 billion.
+1:08:02
+Andrew Ippolito: And it says a confidently you're reading a textbook as a student you're going to read that it's going to stick in your head.
+1:08:07
+Andrew Ippolito: it's wrong, it turns out, the rate of replication errors is highly variable it depends on the organism it depends on the tissue it depends on the environment, it depends on too many things, so all we can safely say right now is it's about one in a billion for you carriers.
+1:08:23
+Andrew Ippolito: Okay, the average human cell dividing from up by mitosis will accumulate on average about six random mismatch mutations.
+1:08:33
+Andrew Ippolito: That stay there, that will then get passed on that's what makes it a mutation okay they're heritable, meaning that the next generation gets it just mitosis forget sexual replication your skin cells right so six is not a lot, but over 60 years and accumulate.
+1:08:53
+Victoria Bloemker: What was it six random. Andrew Ippolito: Say yeah six. Andrew Ippolito: Six mismatches.
+1:08:58
+Andrew Ippolito: Six random mismatches. Victoria Bloemker: Okay, thank you sure.
+1:09:04
+Victoria Bloemker: Okay. Andrew Ippolito: So.
+1:09:09
+Julia Lakchin: it's one o'clock, by the way. Julia Lakchin: I know i'm just. Julia Lakchin: yeah I realized we're done here. Andrew Ippolito: So, so do me a favor just read the rest of this on your own if something doesn't make sense, go to the YouTube video I showed you and learn about telomeres on your own.
+1:09:25
+Andrew Ippolito: Okay, I mean it's not on your own just watch my video, I have the recording on YouTube i've already shared that you guys have access to that right, and if anybody needs another link to it to scroll up in the zoom chat.
+1:09:36
+Andrew Ippolito: and actually we'll revisit some of this stuff when we do Jen regulation anyway so i'll tell you what i'll teach you the levels of DNA packaging in detail, from the slides i'll teach that to you when we do gene gene regulation.
+1:09:46
+Andrew Ippolito: So you have to overwhelm, and so the most important thing from this part is the replication stuff.
+1:09:53
+Okay. All right. Andrew Ippolito: So.
+1:09:59
+Andrew Ippolito: So we're off to rush were plenty of time, I know, if you look at the course schedule, it says we were supposed to cover gene expression today.
+1:10:07
+Andrew Ippolito: But there's a there's a whole day padded in the syllabus there's a button I call it a buffer day, I think, and we haven't used it the Semester, so we are exactly where we need to be super fun to have to stress about things.
+1:10:21
+Andrew Ippolito: i'm going to stop the recording.

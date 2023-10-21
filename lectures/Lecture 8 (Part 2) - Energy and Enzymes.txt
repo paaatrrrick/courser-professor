@@ -1,0 +1,1180 @@
+0:01
+Andrew Ippolito: We left off last time talking about entropy and the second law of thermodynamics, and so this slide in front of you here, this is a rough and dirty energy diagram of the path that.
+0:14
+Andrew Ippolito: Energy takes as it moves from the sun to deep space and the bumps into earth along the way.
+0:23
+Andrew Ippolito: So you can think of the red line here this meandering red line as as free energy.
+0:31
+Andrew Ippolito: So we get energy from the sun and then because we have this atmosphere and this water at the coffer seconds right.
+0:41
+Andrew Ippolito: hold on one second. Andrew Ippolito: All right, better because we have this oxygen and this water.
+0:49
+Andrew Ippolito: And, and what sells eventually did was evolve ways to trap that sunlight.
+0:56
+Andrew Ippolito: into these molecules. Andrew Ippolito: and move them up hill.
+1:02
+Andrew Ippolito: And so we can think about the sugar. Andrew Ippolito: Well, really, the sugar and oxygen so let's let's consider that system versus that system we're going up hill.
+1:14
+Andrew Ippolito: Okay, and. Andrew Ippolito: that's a higher ordered system now right, so this is the plus delta G going up hill this system here now has.
+1:28
+Andrew Ippolito: Much more order to it much more complexity to it Okay, so that system, compared to the one below it, I want you to immediately think the entropy here which which one of these states of the system.
+1:43
+Andrew Ippolito: let's call this a and this be which one has more entropy.
+1:56
+Julia Lakchin: Sugar and oxygen. Andrew Ippolito: More. Andrew Ippolito: entropy okay we're.
+2:02
+Still. Andrew Ippolito: Right so remember and true so here's what I want you to do from now on, for those of you who are still and, by the way, don't don't feel bad if you keep getting this backwards, I got this backwards my entire adult life.
+2:17
+Andrew Ippolito: And I only started being able to master it when I started teaching it because I had to see it every semester, I mean imagine having to take this class every semester that's essentially what I do.
+2:28
+Andrew Ippolito: I have to take majors biology it's kind of like Groundhog day. Andrew Ippolito: i'm doomed to repeat the this i'm in a time loop, you know, I have a screen of people in front of me that i'm doing the exact same conversation with every semester, and so it makes sense that I would get better at it right.
+2:44
+Andrew Ippolito: Just because i'm doing it, so much so so don't feel bad if you're only doing this once right and you might see this on another class a couple of times, but then you're done unless you're going to be a teacher someday so.
+2:54
+Andrew Ippolito: So here's what I want you to do here's the workaround when you see the word entropy replace it with literally with the word chaos just put the word cast in your head which system has more chaos and now you're like oh hey.
+3:07
+Andrew Ippolito: I hope, if not, then we can talk about what kept me. Andrew Ippolito: Right or just maybe maybe disorder which one is or less ordered okay just just replace the word in your head with its definition which system is less ordered.
+3:24
+Andrew Ippolito: Okay. Alexa Deprisco: All right. Andrew Ippolito: Go ahead alexa. Andrew Ippolito: Oh hey you're you're just give me the answer yes you're.
+3:31
+Alexa Deprisco: Right and realized oh sorry yeah. Andrew Ippolito: yeah Okay, and then yeah so that's the idea there and then so we're going to use that sugar energy now to bring a dp up to ATP but you see what I started doing here, this is just a cartoon but the sea there's a little subtle thing here see how sugars here and at peace here.
+3:52
+Andrew Ippolito: Okay, think about that idea of having a tire swing.
+3:58
+Andrew Ippolito: And you pull a tire swing back and you let it touch your nose and then you release it and you don't move your head.
+4:06
+Andrew Ippolito: And what happens the tire swing swings all the way back to you, but it doesn't ever quite get to where it started again.
+4:13
+Andrew Ippolito: Right you it's not going to plow through and punch in the nose unless you mean forward that's we have you have to be very stale.
+4:19
+Andrew Ippolito: Right, and so the idea, there is every time it comes back to swing because it's pushing through the air, because the the not of the rope has a little tension in it it's going to lose a little bit of its energy every swing.
+4:33
+Andrew Ippolito: And so it's never going to be able to get quite back to where it was this is the same things exist on different planes of energy.
+4:43
+Andrew Ippolito: Okay sugar lives up here and ATP lives down here and oxygen and carbon NASA live all the way down here Okay, so, in other words, you can never use ATP to make sugar.
+4:57
+Andrew Ippolito: Right that's the little insight, you need to have here you can't go further up pill without energy.
+5:03
+Andrew Ippolito: Right, so if this thing has 100 units of energy you can't use 100 units of energy to make something with 200 units of energy right so that's why it's like a staircase we're just going down Hill and so every molecule every molecule you start getting exposed to hear the.
+5:21
+Andrew Ippolito: The G be PG all the stuff we're going to get hit with in the cell respiration chapter that photosynthesis chapter put them somewhere in this energy spectrum they're going to live somewhere in.
+5:33
+Andrew Ippolito: There are high energy molecules are low energy molecules okay. Andrew Ippolito: All right, so here's another comic, so this is a I forgot, where I found this, but basically it's just mom and kid and the kid threw a soccer ball and broke the vase or something you know what happened here and the kid says entropy.
+5:51
+Andrew Ippolito: what's this mess entropy How did this happen entropy, this is why you don't teach kids about entropy.
+5:59
+Andrew Ippolito: Until they're older because they'll just use this against you. Andrew Ippolito: Right they'll figure, they could do whatever they want right everything eventually ends in a lower energy state everything tends towards chaos, so why not just help it along.
+6:15
+Andrew Ippolito: it's funnier I guess it's not funny that's tragic maybe I don't know that's the idea right.
+6:25
+Andrew Ippolito: So there's your car on the left hand side you have one molecule of you know arcane let's say high octane fuel raise eight eight carbon.
+6:36
+Andrew Ippolito: Gas and you need oxygen right, you were going to start to understand her like in order to combust you need to have oxygen there, think about when you have a little candle.
+6:46
+Andrew Ippolito: Or if it's if you start the candle of oxygen you put a little glass over it, it dies out right it's slowly stops, but you need oxygen to combust.
+6:55
+Andrew Ippolito: Think of oxygen is providing that that energy of activation we talked about the other day Okay, so these two molecules here this highly ordered state we're going to go downhill right, and this would be a much more convincing diagram if this showed the eight molecules here.
+7:15
+Andrew Ippolito: Instead of just one right there's a bunch of carbon dioxide is on the left hand on the right hand side.
+7:21
+Andrew Ippolito: Okay, so another quick and dirty ways to count the number of molecules whichever side has the fewer molecules has the highest amount of order and the lowest amount of entropy and the one that has the most molecules the broken.
+7:32
+Andrew Ippolito: bag of legos that's the one with the most entropy right, and so, what are we doing here we're converting this chemical energy and those chemical bonds to the mechanical energy of a car moving forward.
+7:48
+Andrew Ippolito: And in the process recall our cannonball talk right you can't the goal the cannibals to make the biggest splash.
+7:57
+Andrew Ippolito: But you can't also make cannibal silent, it will also make a large clapping sound.
+8:04
+Andrew Ippolito: In the same way, a car moving forward is our cannonballs version of splashing we want to move forward, but not all the energy goes to moving forward.
+8:13
+Andrew Ippolito: right when you turn your car over it, you can hear the engine rattling or humming or whatever the satisfying noises you can hear it let's sound energy.
+8:23
+Andrew Ippolito: And then, of course, after you finish driving a little bit you absolutely don't want to touch the engine block, it will be very hot and burn you Okay, because it's also giving off a ton of heat, so the idea here is no energy conversion is 100% efficient, nor can it ever be.
+8:45
+Andrew Ippolito: And we've already talked about this, these slides are useful for your studying, so I want to gloss over this, but the idea here is is that.
+8:52
+Andrew Ippolito: We have the ability to going downhill releasing energy it a spontaneous it is extra Gothic Okay, and so in this one here we're using a hydrogen peroxide okay so two molecules of h2o to.
+9:08
+Andrew Ippolito: can be degraded to two molecules of water, plus a molecule of oxygen house that has a spontaneous reaction.
+9:16
+Andrew Ippolito: Because h2o two is a card Castle, it is unstable, it will naturally do this on its own accord that's what spontaneous means it's not means it doesn't mean it's going to happen super fast.
+9:27
+Andrew Ippolito: Okay, if you pour a little bit of hydrogen peroxide into a little glass and watch it.
+9:33
+Andrew Ippolito: it's not going to look like soda where it's fizzing. Andrew Ippolito: Okay.
+9:39
+Andrew Ippolito: If you trap it into something, and you hold it up to light, you might eventually see some bubbles.
+9:45
+Andrew Ippolito: Right, but what happens when you pour hydrogen peroxide on a wound.
+9:52
+doesn't sting. Andrew Ippolito: It does stick interesting yes.
+9:58
+Andrew Ippolito: What does it do, though, when you. Andrew Ippolito: Look at it. It bubbles. Andrew Ippolito: Okay, the reason of bubbles is you have an enzyme in your blood called Catalina.
+10:11
+Andrew Ippolito: it's called catalyst, because it was the very first enzyme discovered hey look here's a protein oh look at this protein it's a catalyst well it's called Catalina.
+10:20
+Andrew Ippolito: Not a very imaginative name it's a historical name.
+10:26
+Andrew Ippolito: But get that you pour peroxide on your skin and it doesn't bubble.
+10:32
+Andrew Ippolito: Even though it's a spontaneous reaction peroxide breaks down to oxygen gas and water it's not happening very quickly, but when you pour it on your wound it happens instantly millions of reactions per second that Catalina enzyme can handle and then seemingly fast reaction now.
+10:52
+Andrew Ippolito: So you've just sped things up that are already happened, anyway, like hitting the fast forward button.
+10:58
+Andrew Ippolito: And that's what an enzyme. Andrew Ippolito: Okay, an enzyme connect there are no enzymes in the world that exists that can make that oxygen guests and that water molecule going the other direction without another input of energy okay enzymes don't allow you to reverse the course of the flow, they just let you speed things up.
+11:18
+Andrew Ippolito: Okay, so here this, this is a really good, this is the next few chapters really on the left hand side of the screen you see a highly ordered molecule that's that's glucose.
+11:26
+Andrew Ippolito: And on the right hand side of the screen, you see, carbon dioxide and water okay so again Imagine you had Imagine you had some magnetic magnetic chemistry set and you built that and then you dropped it.
+11:38
+Andrew Ippolito: Okay, that that's basically the idea here so as we eat this sugar and break it down to its building blocks, we will extract some useful energy in the process.
+11:51
+that's the idea. Andrew Ippolito: Okay, and then this is the opposite, this is not spontaneous we got to go up hill we got to put energy into the system and that's what plants do so plants get the energy from the sun and they build their sugars and that's the basics.
+12:12
+Andrew Ippolito: Okay, so these are intergalactic reactions.
+12:18
+Andrew Ippolito: Alright, so Tory here we go here's where we start understanding free energy. Andrew Ippolito: So the first thing is is this concept, the concept of free energy, this is the ability to do a useful process like build a sugar molecule or build a DNA molecule or build a nucleotide okay.
+12:36
+Andrew Ippolito: As opposed to just warming things up. Andrew Ippolito: Right.
+12:43
+Andrew Ippolito: That you can think going back to her here my cards again remember I card analogy imagine, I did throw all these on the ground.
+12:50
+Andrew Ippolito: Okay, and I got on my hands and knees and I could do a couple things right, I could I can pick them all up again, I can put them back into an altered state.
+12:59
+Andrew Ippolito: I could go one step further and put a lot of energy and time and and build a car Castle there right there on the floor, or I could just show it just move them around like this right, I could just use my hands and just shuffle the cards around that those are all inputs of energy right.
+13:18
+Andrew Ippolito: The question is what's the difference between them and the answer to that has to do with the entropy right when I when I just move them around randomly i'm i'm adding energy but that's not useful energy that's temperature.
+13:32
+Jordan Russell: Right so. Jordan Russell: So what thermal energy fee like well so like thermal no no wait, the thermal energy would be like a form of free energy because it's not.
+13:44
+Andrew Ippolito: No, no, no, no, no, no, no, no, the free energy would be you directing your muscles to build a card Castle okay there's a thermal energy is thermal energy.
+13:55
+Andrew Ippolito: You have thermal energy, you have free energy and you have entropy that's that's the conceptual idea, so when we look at the equation, we have this, so the total energy of a system, the useful energy and the useless energy.
+14:13
+Andrew Ippolito: And or say it this way there's energy in this system. Andrew Ippolito: that's available for work and then there's energy in the system that is not available to work, it is inaccessible, you can do anything with it Okay, so you can think of this as kind of an x plus y.
+14:34
+Andrew Ippolito: Where X is. Andrew Ippolito: equal to the useful. Andrew Ippolito: And y is equal to the non useful.
+14:43
+Andrew Ippolito: And that makes sense right, I mean there's a total that now some systems don't have any useful energy in it and so X would be zero.
+14:51
+Andrew Ippolito: And there are no systems, I can think of, where y is zero. Andrew Ippolito: or just pure useful energy that's just and why because everything's always vibrating a little bit okay so there's nine useful component.
+15:03
+Andrew Ippolito: I want you to think there's a temperature there okay so again when I say temperature you're thinking this you're thinking tremors you're thinking vibrations.
+15:11
+Andrew Ippolito: Okay, you can't not have that why that's how atoms are think of the electrons whizzing around the atom like a gyroscope.
+15:22
+Andrew Ippolito: If you ever play with a gyroscope before you pull the string of the things going super fast and the kind of wobbles just a little bit that's what all atoms are they wouldn't be Adams otherwise.
+15:33
+Andrew Ippolito: let's just call that T. Andrew Ippolito: Okay, and then there's a chaos, which is not something you can just look at and get and put a number on that's why we went to the degrees of freedom stuff before right, but just we're going to call the entropy s.
+15:50
+Andrew Ippolito: And you multiply those two things together, and you get some magnitude of useless energy you can't do work with temperature and you can't do work with chaos.
+16:02
+Andrew Ippolito: Okay, and then we're going to just say gee instead of X, because we call it gives free energy but it's really gives doesn't own it he just discovered this process well enough.
+16:12
+Andrew Ippolito: to the point where we popularized by naming it after him Okay, and so that's where you get this equation H equals G plus T s.
+16:23
+Andrew Ippolito: Good now that's not your bucket right we haven't gotten there i'm deriving this equation, for you okay so go with me here in biological systems we assume that temperature is constant.
+16:35
+Andrew Ippolito: That is not a variable in our play.
+16:40
+Andrew Ippolito: Okay, No H H is an LP.
+16:46
+Andrew Ippolito: And soapy versus entropy that's why your brain to that that's the very they're almost homonyms there they sound very similar entropy entropy okay info P is total heat of a system.
+16:59
+Andrew Ippolito: total energy of a system. Andrew Ippolito: entropy is the amount of disorder, the system has.
+17:09
+Andrew Ippolito: Okay, so hey you remember when we did water, remember that state diagram where we talked about liquid water and solid water and gas, and we, we had that it looked like this.
+17:22
+Andrew Ippolito: Remember that. Andrew Ippolito: Okay, so we talked about this idea that, as you heat water up and you look at the temperature from from here, this is your degree liquid water to here, this was zero 100 degree liquid water and then here is 100 degree vapor.
+17:42
+Andrew Ippolito: Okay, so you can get this now you have 100 degree water that is liquid.
+17:49
+Andrew Ippolito: And you have 100 degree water that is a gas. Andrew Ippolito: Or you have zero degree water that is a solid and you have zero degree water that is a liquid.
+18:02
+Andrew Ippolito: Okay, the question, there is let's compare. Andrew Ippolito: ice at zero degrees and water it's zero degrees what's different between them, the temperatures, the same.
+18:14
+Andrew Ippolito: The answer to that is entropy. Andrew Ippolito: Okay, so when you put energy into a system that energy can be going towards two different things, making it move faster or orienting them in specific ways.
+18:31
+Andrew Ippolito: The highly intricate structure of an ice. Angela Harbeck: crystal. Andrew Ippolito: versus the chaos of liquid water, both at zero degrees.
+18:40
+Andrew Ippolito: that's the Ts part. Andrew Ippolito: That makes sense. Angela Harbeck: um I just i'm confused, why would you want um non useful energy in a system.
+18:52
+Andrew Ippolito: that's a great question. Andrew Ippolito: So remember one of my favorite sayings science doesn't care what we think.
+19:00
+Andrew Ippolito: The universe is in different to the human condition okay it's not a function of what we want it's a question of what the system is and how we think about it, so no we don't necessarily want useless energy on there it's there and we have to deal with it.
+19:22
+Andrew Ippolito: So when we're thinking about as engineers building something or designing a system to help us do something easier like like gasoline engine or an iPhone.
+19:35
+Andrew Ippolito: or one plants are competing with each other and trying to maximize their efficiency of using their resources to outcompete their neighbors.
+19:44
+Andrew Ippolito: What they want to do is they want to minimize that Ts part and then, when I maximize the G part.
+19:51
+Andrew Ippolito: But both are there and for the same reason that you can never jumped into a pool and have a cannonball happen without the sound of it.
+20:02
+Okay. Andrew Ippolito: Alright, so let's go back to this equation here the H equals G plus to us.
+20:11
+Andrew Ippolito: And so we're going to say that when we observe a metabolic reaction in a cell so we're limiting our use cases now we're thinking only about what's happening inside a cell at this point.
+20:21
+Andrew Ippolito: We are going to learn about metabolism we're going to learn about the chemical reactions that drive life now that's the scope of our thinking so forget cars and air pressure and we're inside of cell and we're considering the life of a cell.
+20:37
+Andrew Ippolito: And we're considering some metabolic reaction in the cell or some pathway some metabolic pathway, which is a series of chemical reaction that lead to some product.
+20:47
+Andrew Ippolito: Okay, like taking sugar and making a pie ravi there's a series of 10 chemical reactions, there is a bylaw that's a metabolic pathway.
+20:55
+Andrew Ippolito: Okay, so we're thinking about that pathway or just one of the reactions of that pathway temperature is not a variable we're going to consider.
+21:03
+Andrew Ippolito: we're not going to talk about the environment, heating up or cooling down. Andrew Ippolito: All we're going to talk about is the order part this molecule goes from this to this for changing structure or breaking bonds were rebuilding them to new bonds temperatures, not a factor temper so temperatures a constant.
+21:20
+Andrew Ippolito: there's no delta T here. Andrew Ippolito: OK, now that S, on the other hand, is everything that's the difference between what carbon dioxide and water looks like versus glucose that's what that concept of what they look like their orders trapped in that number s So yes, we are going to consider the changes in entropy.
+21:47
+Andrew Ippolito: And because of this equation we're just going to multiply that by T so there's your T delta X.
+21:54
+Andrew Ippolito: Okay, so this here when you see that delta you're thinking that's your friends analysis, this is the reaction before, this is the reaction after.
+22:06
+Andrew Ippolito: what's changed. Andrew Ippolito: Right, he was alive and now he's dead.
+22:13
+Andrew Ippolito: Right you come to the crime scene dead body, how did it happen you come to this reaction it either has more free energy or less free energy.
+22:23
+Andrew Ippolito: How did it happen. Andrew Ippolito: Okay, and and or we're going to have that reaction happen over there, that person is going to go walking over there are they going to die or not.
+22:34
+Andrew Ippolito: That reaction is going to happen over there, does it have more or less free energy and when we're done with the game, can we make a prediction because remember the power of Sciences and prediction.
+22:42
+Andrew Ippolito: that's all point of this Okay, so we have a ti delta X and now also could G here.
+22:48
+Andrew Ippolito: And let's just say delta G for now we're going to look at changes and free energy, the system has more or less of it when we're done with this game.
+22:55
+Andrew Ippolito: And so you add up the changes in free energy and you add up the changes of the useless energy, and that gives you a change in entropy and there's your delta eight.
+23:05
+Andrew Ippolito: Which you've seen in your science your chemistry classes. Andrew Ippolito: Okay, and what I want you to do here.
+23:13
+Andrew Ippolito: Is I want you to solve that equation for delta g. Andrew Ippolito: going to do that in your notebook and you're going to see when you solve a correctly, that you have derived the equation that is in your book for the free energy the equation for free energy.
+23:29
+Andrew Ippolito: Okay, so what i'm going to do here is, if I have to software G or delta delta T equals Okay, on one hand we got this delta age.
+23:37
+Andrew Ippolito: And then, because this is plus T delta so i'm going to have to subtract that minus T delta Oh, and I just wanted the end of my screen here because PowerPoint does that when you're in.
+23:50
+Andrew Ippolito: let's do this again H equals G plus Ts delta H equals delta G plus T delta ass right again there's no delta T T is constant because we're dealing with this inside of the cell.
+24:07
+Andrew Ippolito: OK, and now software Delta. Andrew Ippolito: delta H minus T delta X just borrow some math skills you got from your chemistry and physics and there's the equation from your book.
+24:23
+Alexa Deprisco: Excuse me. Alexa Deprisco: Yes, if you're working with this equation China solve for delta G than the adults or will not the delta T just the T would be dependent on like what cell I guess you're referring to.
+24:36
+Andrew Ippolito: yeah yeah. Andrew Ippolito: You can say like this it just it depends on the environment.
+24:43
+Andrew Ippolito: Okay, and so, once you master this equation, you can you can do little little thought experiments.
+24:50
+Andrew Ippolito: Okay, like take ice to take some water and put it in your refrigerator rather put it in your freezer Okay, the freezer.
+25:01
+Andrew Ippolito: Has a brand new T now as much, much smaller right, so this factor here this T delta so small.
+25:12
+Andrew Ippolito: Right, so we talked about the change in the total energy minus a smaller number.
+25:19
+Andrew Ippolito: Okay, and this is hard for me to do because this This is where my brain starts hurting This is my kind of my math ceiling here so i'm going to have to talk out loud for a second to kind of reason, through this so this delta s here, if you think about what ice does in the freezer.
+25:35
+Andrew Ippolito: With the lower temperature. Andrew Ippolito: This component here.
+25:42
+Andrew Ippolito: has to go up. Andrew Ippolito: To keep the overall system, the same.
+25:50
+Andrew Ippolito: Right, because the water itself is the system we've changed its environment we've changed the temperature we've dropped its temperature.
+25:59
+Andrew Ippolito: But remember the first law of thermodynamics we can't take anything in or out we can't create or destroy energy in the system.
+26:05
+Andrew Ippolito: Right so we're talking about the system of the ice and the tray and so, if the temperature goes down the delta s has to go up in other words, we have to increase order.
+26:15
+Andrew Ippolito: And that's why we have an ice crystal. Andrew Ippolito: Because the total entropy of the system can't change because you can't change or destroy energy in the system.
+26:26
+Alexa Deprisco: So, then, is the delta s going up because it's good. Andrew Ippolito: That we went down.
+26:32
+Andrew Ippolito: Because you put it in the freezer. Andrew Ippolito: So, so this whole this whole T delta X, whatever that is has to ultimately be the same number.
+26:44
+Andrew Ippolito: To keep things the same, and so, if it goes up so was down have to squeeze down it goes up and we put it in the freezer so we've changed it we have changed, I mean you in that case because of our analogy we've changed the temperature.
+26:56
+Andrew Ippolito: Right we've put ice in the freezer i'm sorry we put water in the freezer.
+27:02
+Andrew Ippolito: Okay, and so the temperature goes down the S therefore has to go up.
+27:07
+Andrew Ippolito: Okay, this is the exact same concept and physics, we talk about the conservation of momentum right if you're sitting in your chair.
+27:15
+Andrew Ippolito: Right and you stick your legs out your go slow and what happened when you took your legs in go faster you put your legs out, you can go slower.
+27:22
+Andrew Ippolito: Right, so this is the same idea here where these things are related to each other intricately you can't have one without the other one goes up the other goes down one goes down the other goes up.
+27:31
+Andrew Ippolito: And that's why ice turns into a solid at a lower temperature.
+27:37
+Andrew Ippolito: makes sense sort of. Andrew Ippolito: And that's Okay, but if it's one of those yeah kind of that's good that's good enough Okay, because now okay let's do let's do some real free energy now.
+27:49
+Andrew Ippolito: Here we go so there's a guy willard gibbs he figured all this out, so we call it gives free energy or just G for certain when we talk about G we're talking about where it's coming from.
+28:01
+Andrew Ippolito: And where it's going to. Andrew Ippolito: write, for example, making ATP from sunlight.
+28:07
+Andrew Ippolito: If you're a plant or an algae that can be an auto drove or we're talking about it going into glucose right.
+28:15
+Andrew Ippolito: or I should be saying, making not making glucose. Andrew Ippolito: I don't I have to rewrite this example here this this might be, so I would say let's let's rewrite this so example making ATP from sunlight.
+28:27
+Andrew Ippolito: or oh or and then the implication is making ATP from glucose that's that's the original example right so you're you're making ATP you're either making ATP by using sunlight or you're making ATP by using your food right so you're a plan or an animal your head retro Fernando.
+28:47
+Andrew Ippolito: So, in other words tight with GE there we need free energy to make ATP that's the goal here is to make ATP, so we need to put energy we are getting it from the sun or food.
+29:02
+Andrew Ippolito: Okay, all right so because we're interested in both an amount and the direction gives free energy is a vector quantity.
+29:12
+Andrew Ippolito: Alright, so you may be remember this from high school you guys remember this there's a scholar and vector you guys remember this at all so anybody want explain the difference here.
+29:25
+Andrew Ippolito: Go ahead Jordan give it a step. Andrew Ippolito: No it's okay to see what you got.
+29:31
+Jordan Russell: No, I was just showing like I like I can. Jordan Russell: Remember yeah. Andrew Ippolito: All right, somebody else anybody have enough.
+29:38
+Zachary Lucas: Like magnitude and victor's like direction and. Andrew Ippolito: magnitude that is perfect, that is not they're not like that they are exactly that good job.
+29:46
+Andrew Ippolito: Okay, so so when we say a scale or quantity. Andrew Ippolito: we're talking about just magnitude like I weigh 150 pounds.
+29:57
+that's a lie, you don't wait. Andrew Ippolito: I would like to a maybe 160 that probably a healthier wait for me right i'm definitely nowhere near 160 right now, but you know so that's just 160 pounds that's a magnitude.
+30:13
+Andrew Ippolito: Which like nobody asks which direction, do you weigh but I down I guess there's only one one way that you can weigh yourself down the ground, the earth's pulling me right, so that that's what we mean by scholar or how about this i'm driving 60 miles an hour.
+30:32
+Andrew Ippolito: that's how fast i'm going that's my speed right so speed would be a scholar.
+30:38
+Andrew Ippolito: Okay. Andrew Ippolito: Now, what if I told you i'm going 60 miles an hour due north.
+30:45
+Andrew Ippolito: that's very different than going 60 miles an hour due South you're going the wrong way. Andrew Ippolito: Maybe the right way okay now I have both the magnitude and direction, and you can represent a vector with an arrow right.
+30:59
+Andrew Ippolito: The scheduler is what is the sketches so you can represent a scholar, maybe by the size of the dot.
+31:07
+Andrew Ippolito: Right so like this was be a light person, and this would be a heavy person.
+31:13
+Andrew Ippolito: Whereas. Andrew Ippolito: This would be a light person moving 60 miles an hour south.
+31:18
+Andrew Ippolito: This would be a heavy person moving 15 miles an hour self. Andrew Ippolito: that's the difference between a scholar and a vector.
+31:26
+Andrew Ippolito: Okay, so gives free energy is a vector. Andrew Ippolito: there's a direction here and the direction here the concept is here's the system.
+31:38
+Andrew Ippolito: The system is either losing energy. Andrew Ippolito: Now I just felt lacing instead of losing losing.
+31:48
+Andrew Ippolito: Losing energy. Andrew Ippolito: So that's negative or or the system is gaining energy and it's plus.
+32:05
+Andrew Ippolito: Right, and so you have a negative change in the free energy or a positive change and the free energy.
+32:14
+Angela Harbeck: To free energies vector you said yes. Andrew Ippolito: Because it's got that arrow.
+32:20
+Andrew Ippolito: And so it's got a its got not just a magnitude, but it has a charge, not a charge, it has a.
+32:28
+Andrew Ippolito: plus or minus side. Andrew Ippolito: Okay, so so just like we don't have there's no such thing as a negative dollar bill.
+32:37
+Andrew Ippolito: Right like here is minus one dollars know we talked about owing $1.
+32:44
+Andrew Ippolito: that's minus one that's an accounting trick, this is an accounting trick there's no such thing as negative energy there's a loss and we represent, that with a negative sign.
+32:54
+Andrew Ippolito: Okay, so that negative is not the same as a negative for and electrons charge or or an accounting sheets naked free we just use that negative for different things, maybe we should have different signs for that, but we don't that's which is explained some people's confusions.
+33:10
+Andrew Ippolito: Okay, so because we're interested in both in a mountain interaction gives free energy is a better quantity.
+33:16
+Andrew Ippolito: And don't ignore the bottom of the screen now so energy is never negative in the same way, money is never negative there's no such thing as a negative dollar bill, we talked about energy.
+33:25
+Andrew Ippolito: being lost or being gained mathematically we use a negative and a positive so negative free energy minus G is when a system, we are concerned with is losing energy and positive free energy is when the system is gaining energy.
+33:39
+Andrew Ippolito: Everything has some energy already remember Brownian motion and so that means that we consider positive negative energy we're really talking about changing the amount of energy, this is the mass.
+33:51
+Andrew Ippolito: And so we're talking about changes in the free energy of a system.
+33:56
+Andrew Ippolito: So in math we use the delta sign, and thus we write a change and gives free energy delta g.
+34:06
+Andrew Ippolito: OK, so at the bottom of the screen there let's see if you got this now, you can privately to answer this quietly in your head.
+34:11
+Andrew Ippolito: But answer it one way or another, and see if it got it so on the left hand side, we have a glucose molecule on the right hand side we have carbon dioxide and water is going from the left to the right a positive or a negative delta g.
+34:28
+What do you think.
+34:48
+Andrew Ippolito: feel free to try to give me the answer.
+34:53
+Alexis Micewski: Yes. Andrew Ippolito: Good. Taylor Campbell: Good negative.
+34:59
+Andrew Ippolito: Alright, so you know that answer now, you know that negative is the right answer stare at that i'm going to give you 30 seconds of stare at that and chew on that idea that as a negative really some free energy feel that, with your bonus don't memorize it.
+35:15
+Andrew Ippolito: And they asked me questions if you need to.
+35:34
+Andrew Ippolito: Know everybody's this making sense. Andrew Ippolito: Okay, good you got it so tori.
+35:42
+Andrew Ippolito: Does this make sense to you. Victoria Bloemker: yeah a lot more than it was. Andrew Ippolito: Okay, good that's that's the best we can do, every day we get a little better than last day.
+35:52
+Victoria Bloemker: Thank you. Andrew Ippolito: Alright So here we go here's your second law. Andrew Ippolito: there's this sign and there's some beats down on the leaves and the leaves take that carbon dioxide and water and use it to build some glucose and a little bit he comes out of the process, because it's not 100% efficient.
+36:08
+Andrew Ippolito: And then, a cow eats that sugar and breaks it down to do some work, for example, this say mo.
+36:18
+Andrew Ippolito: And ma he says mo he gives off a little bit of heat to.
+36:23
+Andrew Ippolito: right if you hold your hand up to your mouth and breathe on it, as I feel so hot or cold.
+36:31
+Andrew Ippolito: it's hot rate that's because your metabolism is not 100% efficient.
+36:36
+Andrew Ippolito: This is why a body temperature. Andrew Ippolito: The average human being, gives off the equivalent amount of heat of a 60 Watt light bulb a tungsten 60 Watt light bulb, we have to say now.
+36:51
+Andrew Ippolito: right if you've ever tried to change a light bulb after burst it's really hot to touch right too hot you don't want to touch that you want to wait for it to cool off slow down.
+37:01
+Andrew Ippolito: If you can't slow down you got it put like a ray on it, or something on screen that's hot that's how much you're given off throughout your whole body, not in one concentrated point because our metabolism 100% efficient.
+37:12
+Andrew Ippolito: Okay, so this goes through everything we already did i'm going to skip all this here. Andrew Ippolito: And I want to say this now chemical reactions here we're going to leading to enzymes now so so breaking bonds requires energy forming bonds releases energy we talked about this already strong bonds require more energy to break down weak bonds.
+37:30
+Andrew Ippolito: And you know what I suppose you can add to this strong bonds release more energy.
+37:42
+Victoria Bloemker: than weak bonds and i'm quick not sick. Victoria Bloemker: Because.
+37:48
+Andrew Ippolito: it's a good story. Victoria Bloemker: Direct message you and I said sit question sort of quick question like auto corrected.
+37:56
+Andrew Ippolito: autocrat wait what i'm so confused i'm sorry. Andrew Ippolito: No, no, no don't see nevermind so there's my hearing and me being.
+38:03
+Victoria Bloemker: I am. Victoria Bloemker: I direct messaged you I say. Victoria Bloemker: Oh, but it auto correct. Andrew Ippolito: Oh sick question you're looking at, because you look like confused when you're looking down, I was like oh.
+38:14
+Andrew Ippolito: I just saw that i'm like why that was a sick question. Victoria Bloemker: yeah I didn't mean to say that.
+38:20
+Andrew Ippolito: Do you guys still see sick like that anymore. That was sick.
+38:26
+Andrew Ippolito: I don't know I haven't used that word in years myself anyway what's what's your. Victoria Bloemker: quick question oh i'm so for the second law, could you say that entropy of the universe only increases.
+38:38
+Andrew Ippolito: yeah. Andrew Ippolito: yeah yeah the you know if you've taken the whole universe itself that's that's our closed system, and so you would, so the second law states the entropy of a closed system increases over time.
+38:55
+Andrew Ippolito: Okay. Andrew Ippolito: And so that key there that closest in part that's that's, the most important part because open systems allow you to go against entropy and do things like evolve life.
+39:08
+Andrew Ippolito: Right and so that's why you have to be careful with you ever have an argument with somebody or a debate with somebody about evolution and they tell you that evolution goes against the natural order.
+39:21
+Andrew Ippolito: You can tell that person that that is not an accurate statement because you are you you're invoking the second law of thermodynamics and the second law of thermodynamics states that entropy increases in a closed system.
+39:33
+Andrew Ippolito: Not an open system, and so the corollary to that is entropy will decrease in an open system.
+39:41
+Andrew Ippolito: And there's actually mathematics now there's there are people working on this notion that life itself is an emergent property.
+39:49
+Andrew Ippolito: of an open system that has a chronic input of energy that you can't escape that that life will inevitably arise from any system that has energy coming into it like that.
+40:02
+Andrew Ippolito: it's an exciting thought means life's everywhere in the universe.
+40:09
+Andrew Ippolito: Okay, so let's focus now down into the the metabolism here now sorry so so bonds break bonds form energy is released energies form energy is absorbed energy is released okay.
+40:21
+Andrew Ippolito: Alright, so i'm going to skip this we talked about this already i'm going to get right here, here we go so on the left hand side of the screen, this is the before and after let's let's put the before and afters put a line right here.
+40:32
+Andrew Ippolito: Okay, so on the left hand side of the screen is the left hand side of this chemical reaction see six 812 oh six plus 602 okay here's your C six 812 oh six and here are your 602 and what we're gonna do is we're going to break each and every one of those chemical bonds.
+40:52
+Andrew Ippolito: And we're going to add up the amount of energy, it takes to do that, so this side of the equation, we can think of there's some value X there's X energy and our to break all that.
+41:07
+Andrew Ippolito: And then on the left hand side of the screen, you can imagine, each one of these bonds has an arrow facing outwards it's releasing energy as they're formed.
+41:18
+Andrew Ippolito: Okay, and so there's an amount of energy that is released. Andrew Ippolito: Okay, so every chemical reaction itself, you can think of as having a little accounting table next to it.
+41:31
+Andrew Ippolito: Of the energy in and the energy out and then you have a total.
+41:37
+Andrew Ippolito: Of that total is negative, or that total is positive that's what we're talking about here.
+41:46
+Andrew Ippolito: Okay, because again remember temperatures constant if temperatures constant.
+41:52
+Andrew Ippolito: The free energy is the thing that's going to be changing so zach remember the other day, you were talking about delta each.
+41:57
+Andrew Ippolito: You were asking like does this mean delta delta G, so I was thinking a lot about that question afterwards cuz I didn't I don't feel like I give you a great answer for that and so now that we're here and i'm thinking about it more because the temperature is constant.
+42:12
+Andrew Ippolito: The only two other variables, there are the free energy in the entropy, and so we can see here.
+42:18
+Andrew Ippolito: The entropy is going down i'm sorry the entry is going up see I just did it the entropy is going up here as we move from the left to the right or increasing the chaos Okay, and so the free energy.
+42:31
+Andrew Ippolito: has to also go up to compensate. Andrew Ippolito: Because it's it's it's eight minus Ts right and so we're going to release i'm sorry i'm sorry the free energy has to go down.
+42:41
+Andrew Ippolito: The the free energy has to go down as the entropy goes up to keep everything the same and So where does that energy go it gets released from the system and we use that we use that energy to do something else.
+42:56
+Andrew Ippolito: Okay, so when you look at this slide here this now starts to give you the, so this is on the Internet, this isn't in your book, but this gives you the concept we're gonna break these 23 chemical bonds we're gonna break the six chemical bonds.
+43:12
+Andrew Ippolito: So there's 29 total chemical bonds, in other words one complex molecule and six simple molecules so Tyler when you say complex again there it is okay there's complex meanings or not chaos.
+43:27
+Andrew Ippolito: Okay, and then on the right hand side, you can see that we have only 24 bonds and we have 12 simple molecules.
+43:36
+Andrew Ippolito: And so you can kind of use this as a proxy to determine which way the energy which way the chemical reaction is going to go.
+43:44
+Andrew Ippolito: Is it going to go from the left to the right of the right to the left is going to go uphill or downhill downhill, which way which way is downhill that's the simplest way to think.
+43:52
+Andrew Ippolito: Okay that's going to go downhill.
+43:57
+Andrew Ippolito: OK, and then here we can look at actual numbers, so, if you look at this chart right here.
+44:04
+Andrew Ippolito: This gives us what are called bond energies or maybe maybe bond enthralled piece I forgot how they officially cause, but like just looking at the.
+44:12
+Andrew Ippolito: News bond energies, thank you. Andrew Ippolito: So carbon oxygen has what does that say it says 78 oops.
+44:21
+Andrew Ippolito: No, why are you telling me to. Andrew Ippolito: Sorry guys, I have to. Andrew Ippolito: Somehow click the button on my stylist as closing the PowerPoint down i'm gonna have to open it again.
+44:35
+Andrew Ippolito: That was really frustrating. I have no idea how I did that. I was just share my screen again here.
+44:45
+Okay. Andrew Ippolito: Oh, you know what that did to shut my monitor off again.
+44:54
+Andrew Ippolito: So, sharing the screen canceling the share now disables your monitor, which is absolutely ridiculous.
+45:02
+Okay.
+45:07
+Okay. Andrew Ippolito: Okay, you guys can see again right.
+45:13
+Andrew Ippolito: Can you. Taylor Campbell: Know that's the grey square it's not the power.
+45:23
+Taylor Campbell: Now you can see, and you're looking at the whiteboard. Andrew Ippolito: yeah I know you're looking.
+45:29
+Taylor Campbell: At PowerPoint there you go. Andrew Ippolito: Is that better yes okay okay. Andrew Ippolito: All right, so.
+45:34
+Andrew Ippolito: You see, I love this likes the color coded it too so let's let's consider that one bond here the CEO and it says 78 times seven What that means is this single bond right here.
+45:46
+Andrew Ippolito: That requires that either either that requires 78 units of energy to break or it will release 78 units of energy when it's made.
+45:57
+Andrew Ippolito: Okay, so that's that's the strength of that book, so if I take glucose here and I add up all those numbers and which is what this table is doing here, this is saying there are seven co bonds.
+46:10
+Andrew Ippolito: There are five o H bonds seven ch bonds and five CC bonds and each with these accounting numbers, so we add all this up and this says 2182 kilocalories Okay, so I need to put in an order break all those bonds, I need to add 2182 units of energy.
+46:31
+Andrew Ippolito: And then here's the double bond oxygen you can see it's 116 and there are six of those so when you add all this up together, you get 3564.
+46:43
+Andrew Ippolito: kilocalories input. Andrew Ippolito: Okay, on the right hand side of the equation, you can see, we have oxygen bonds to hydrogen so there's water, and then we have these in carbon dioxide, we have these pairs of double bonds.
+46:58
+Andrew Ippolito: Look at these numbers, so that so that's the first intuition years Look how strong those bonds are carbon oxygen double bonds are 187 kilocalories.
+47:08
+Andrew Ippolito: versus a carbon oxygen single bond, which is only 78.
+47:14
+Andrew Ippolito: Okay, so what that means is when I make these bonds they're going to make enormous thunder claps they're giving off tons of energy, when you add up this side of the equation, you get i'm sorry i'm sorry guys what I did this backwards in my head this side had 2878.
+47:34
+Andrew Ippolito: Okay that's how much we had to put in to break all those buttons on the right hand side we release 3600 3500 684 3564.
+47:48
+Andrew Ippolito: So, in other words, if you made it an investment if you took $2,878 and you put it into a stock and then immediately it rose and it went up to and you sold it at $3,564 you've just netted 686.
+48:10
+Andrew Ippolito: Okay, so that right there you would see the delta G there is 686 kilocalories.
+48:18
+Andrew Ippolito: that's a number, you should burn into your head actually that that's the free energy of a glucose molecule 66 that's a good number to have.
+48:25
+Andrew Ippolito: Okay Now the question is is is that a negative or a plus you tell me what what should I put next to that we're going from a glucose molecule to hydrogen to water and carbon dioxide.
+48:39
+Andrew Ippolito: minus minus because we're releasing the energy good, so what that means is we get that energy, the environment, gets that energy and we can then go and do stuff with that.
+48:54
+Andrew Ippolito: Like make ATP. Andrew Ippolito: Okay, so so you can do this exact same thing with ATP we're not going to do this, but i'm going to give just give me the number here, so when I take ATP and I go down to a dp plus inorganic phosphate.
+49:11
+Andrew Ippolito: That change and free energy. Andrew Ippolito: So you would say the hydrolysis of ATP the free energy of the hydrolysis of ATP is negative 7.2 kilocalories.
+49:24
+Andrew Ippolito: You see how the numbers way smaller than 686. Andrew Ippolito: That that tells your brain, that means that I can use that energy from sugar to make some glucose i'm sorry to make some ATP.
+49:39
+Andrew Ippolito: Okay, in other words you have enough money to make this.
+49:45
+Andrew Ippolito: Okay, so going back to the investment strategy analogy you just made $686 on your investment, you can now turn around and go and buy something for.
+49:56
+Andrew Ippolito: Well, you can't really buy something for $686 right so going back to our stock analogy, why can I do, I really have $686 in my account after all that.
+50:07
+Andrew Ippolito: What do you have to do when you when you sell a stock. Andrew Ippolito: have to pay taxes on it.
+50:15
+Andrew Ippolito: And they're really high, especially if they're short term profits it's like 25%.
+50:21
+Andrew Ippolito: Okay, so that 6086 dwindles down now to maybe $400 we can still make glucose molecule.
+50:29
+Andrew Ippolito: right and it turns out, when you look at the math here, I remember earlier, I said 30 you can make about 30 ATP.
+50:36
+Andrew Ippolito: When you do the math here when you multiply this by 30 and you compare it to this number it's about 30%.
+50:44
+Andrew Ippolito: And that's your efficiency. Andrew Ippolito: So what about where's the 70% going heat entropy temperature chaos.
+50:57
+Andrew Ippolito: And no you won't need to know how to calculate any of this what i'm trying to do is put it further deeper into your mind and how all this works.
+51:05
+Andrew Ippolito: And for those of you who are mathematically inclined right quick show of hands, how many of you were kind of mathematically inclined you got math in your head and you're okay with it yeah.
+51:13
+Andrew Ippolito: i'm talking to you guys for the rest of you, like me, where you're like Okay, I get me, I mean I get math but I don't think in math germs some people do this is good for them.
+51:23
+Andrew Ippolito: Okay. Andrew Ippolito: So work through this slide on your own if you can work through the slot on your own and chew on it and make sense to you, you got free energy okay so i'm just going to leave this as well, so so next week, when you come to me, maybe ask me stuff about this slide.
+51:43
+Andrew Ippolito: Okay, all right. Andrew Ippolito: So, but really both of these slides Okay, these are these are spontaneous reactions and non spontaneous reactions.
+51:53
+Andrew Ippolito: Alright, so be able to puzzle your way through this and understand the the impact conceptually on the math you don't have to ever do calculations, but you should have an intuitive understanding here.
+52:05
+Andrew Ippolito: Okay, so now we can start almost get to enzymes here ready, so this slide here shows you on the left hand side you have some amounts so so the.
+52:16
+Andrew Ippolito: y axis here is is G is free energy. Andrew Ippolito: And so you would say that glucose has a lot of free energy in it, to start with, and then, when you're done with the reaction it went down So you see here the key here is this big gap.
+52:33
+Andrew Ippolito: That is that represents the change in the free energy from start to finish.
+52:43
+Andrew Ippolito: And so, because we're going from high to low we have lost energy, this is a negative delta g.
+52:50
+Andrew Ippolito: OK and contrast you go the other way okay you're going up Hill, this is still the change and free energy, but this is now a positive change and free energy we started with low energy we end with higher energy, this is going up Hill, this is, this is not spontaneous.
+53:09
+Andrew Ippolito: Okay, so this is a slide that puts it all together for you, you can use this as a study as a study slide.
+53:16
+Andrew Ippolito: Okay, so do you see what I did here so on one hand we put extra Yannick, on the other hand, we put Andrew Yannick and we associated.
+53:24
+Andrew Ippolito: Each of these concepts, with one side or the other, so it's either releasing or absorbing energy it's either considered negative or positive delta G it's spontaneous or not spontaneous it's part of a catabolic process or an anabolic process.
+53:37
+Andrew Ippolito: Including the hydraulic reactions hydrolysis versus dehydration synthesis.
+53:42
+Andrew Ippolito: Okay, and then stability it's either more or less stable so be able to this, this is your master map of this whole topic.
+53:51
+Okay. All right.
+54:01
+Andrew Ippolito: Alright, so now we can start talking about biology, so these concepts as applied to biology there's chemical work there's mechanical work and there's transport work.
+54:16
+Okay. Andrew Ippolito: And so you can think of a cell as a microscopic chemical factory.
+54:25
+Andrew Ippolito: that's producing millions and millions and millions of reactions every second all the time long as it's alive.
+54:33
+Okay.
+54:44
+Andrew Ippolito: You can also think of those little energy transformers like the thing down the road that helps take your energy from the power plant to your neighborhood.
+54:52
+and go to step down transformers. Andrew Ippolito: Okay alright So how do we go a pill.
+54:59
+Andrew Ippolito: That we talked about this, the idea here's your ATP cycle, this is in your book now, and you can understand this let's just walk through this very quickly and i'll tell you what i'll reconstruct this so here here is some breakdown process some catabolic pro.
+55:15
+Andrew Ippolito: Some catabolic process. Andrew Ippolito: It releases energies that plus or minus delta g.
+55:23
+Andrew Ippolito: What am I right and right here.
+55:30
+Liberal. April Neeld: Would it be minus good.
+55:36
+Andrew Ippolito: Okay now For those of you who are like plus what you're thinking in your head is if this is you over here you're like I got some energy.
+55:43
+Andrew Ippolito: But that's not what this is about that sign isn't you that's not the environment that's the system, the system lost it for your game, so the system last energy negative delta g.
+55:53
+Andrew Ippolito: OK, and now we get this ATP stuff and you can cartoon ATP out maybe as a circle, with three phosphates on it.
+56:02
+Andrew Ippolito: that's the charge battery. Andrew Ippolito: triphosphate at okay and we're going to integrate it we're going to hydro hydro hydro lies it.
+56:11
+Andrew Ippolito: To a dp and all adp is a circle, with two phosphates on it, plus another phosphate that came off it broke.
+56:20
+Okay. Andrew Ippolito: And so, when this breakdown happens it's releasing energy.
+56:27
+Andrew Ippolito: Is that so what am I writing right here.
+56:41
+Andrew Ippolito: Anybody. Alexa Deprisco: Energy. Andrew Ippolito: So my.
+56:46
+Andrew Ippolito: delta G is this plus or minus delta G O plus. Andrew Ippolito: So you want to say, plus because I wrote that over here is minus and so you're like well this has to be plus but you see what I did.
+56:57
+Andrew Ippolito: i'm losing energy again on this side i'm going from ATP to a dp I am breaking this down and see this hour is going downhill so i'm also releasing energy here.
+57:09
+Andrew Ippolito: And this is all cellular work. Andrew Ippolito: Okay, so so watch this This is where the plus delta he comes in i'm going to go from a dp up hill to ATP that's my plus delta g.
+57:27
+Andrew Ippolito: OK, and then the cell work whatever i'm doing making DNA roots of the mechanical work that transport work or the chemical work that's where the plus delta G is going to happen.
+57:39
+Andrew Ippolito: So ATP is the middleman. Andrew Ippolito: ATP is the conduit through which the energy flows.
+57:46
+Andrew Ippolito: Like a watermelon. Andrew Ippolito: Like a chemical waterman okay.
+57:53
+Andrew Ippolito: So that's the slide down here that's from your book, you can hopefully understand that now.
+58:00
+Andrew Ippolito: And so let's let's add this word here when we say phosphor ELISE and what we mean is we're going to add a phosphate group to a substrate.
+58:12
+Andrew Ippolito: Okay, so in this case, we have a dp plus phosphate we're gonna fast, so you would say this we're going too fast for lead EDP to etv.
+58:24
+Andrew Ippolito: we're going to D phosphorylation ATP guide alexa.
+58:30
+Andrew Ippolito: we're going to ask question. Andrew Ippolito: Oh, I saw the little window around you and I thought I heard them okay.
+58:37
+Andrew Ippolito: So there it is that you just I just gave us Oh, and I said 7.2 before I was wrong 7.3 I always get that wrong i've you know i've seen that 7.2 other what other blessing, maybe different books use different values.
+58:49
+Andrew Ippolito: Anyway, okay. Andrew Ippolito: So we can actually walk through here let's do so reaction one ready, so this slide has a lot of noise on it and it's overwhelming so pay attention to me.
+59:02
+Andrew Ippolito: And where I direct your attention to is chemical reaction one here is a glucose molecule we're going to add a phosphate to glucose we're going to get a reaction to go that's going to give us this product glucose six phosphate.
+59:19
+Andrew Ippolito: Okay, so that's just a glucose molecule that's phosphor they didn't know and some water.
+59:24
+Andrew Ippolito: Okay, if you see here the change in free energy is plus 3.3.
+59:30
+Andrew Ippolito: Plus 3.3 we're going up Hill, this is an underdog reaction, this is not a spontaneous reaction this doesn't just happen by itself.
+59:40
+Andrew Ippolito: We need to couple this with something here's a reaction to here's a tip and water we're going to hide your lies ATP ATP we're going to rip off that phosphate we're going downhill, the change in that free energy is negative 7.3.
+59:57
+Okay. Andrew Ippolito: So you see here this phosphate that's this phosphate.
+1:00:04
+Andrew Ippolito: we're going to take the tps phosphate and we're going to rip it off and put it on the glucose that's essentially what we're doing here.
+1:00:12
+Andrew Ippolito: And when you look at the delta G and you're compared to this one Okay, when you take.
+1:00:19
+Andrew Ippolito: We have given off 7.3 we need 3.3 that is an overall net change of four and so you can say these two reactions when you mash them together ready glucose.
+1:00:33
+Andrew Ippolito: Plus ATP yields glucose six phosphate plus EDP basically take this take this reaction and take this reaction and take the left hand side of this reaction on the left hand side of that reaction and mash them together and you get this.
+1:00:49
+Andrew Ippolito: And do the same thing with this side and you get that. Andrew Ippolito: And you add it all together, and if that final number is negative, you know that when you put those two reactions together it just happens it's spontaneous and that's the point of learning about free energy and biology.
+1:01:09
+Andrew Ippolito: When we study the metabolism, we want to know which reactions are going to happen by themselves, and which ones aren't.
+1:01:15
+Andrew Ippolito: By by understanding metabolic reactions, we can then start to understand how we can regulate them how we can target them for drugs or therapeutics etc, etc.
+1:01:26
+Okay. Andrew Ippolito: All right.
+1:01:31
+Andrew Ippolito: So really part two here, this is this is going to just flow downhill like an enzymatic reactions now it's going to be pretty easy to understand, compared to everything else.
+1:01:41
+Andrew Ippolito: Alright, so we already understand a chemical reaction as this exchange of energy right the shuffling around about atoms or molecules.
+1:01:51
+Andrew Ippolito: The key here is that the exchange occurs in the form of electrons.
+1:01:56
+Andrew Ippolito: Okay electrons make the world go round.
+1:02:03
+Andrew Ippolito: and recall that breaking the bond requires energy. Andrew Ippolito: And that different bonds require different amounts of energy to break so some bonds are easy to break some bonds are hard to break some molecules are easy to break some molecules are hard to break sugars are easy to break fats are hard to break.
+1:02:20
+Andrew Ippolito: Okay that's why we use sugar as a fast short term energy and we use lip is is a long term energy storage.
+1:02:29
+Okay. Andrew Ippolito: And so metabolic reactions so chemical reaction versus metabolic reactions metabolic reactions are just chemical reaction that happened inside of cell and they're associated with a specific enzyme.
+1:02:43
+Andrew Ippolito: Right so whatever reaction you're talking about a goes to B plus C chemical reaction put an e one over that arrow and now you got a metabolic reaction.
+1:02:55
+Andrew Ippolito: that's it. Andrew Ippolito: Okay, so all a metabolic reaction is is a chemical reaction that is mediated by an enzyme.
+1:03:06
+Andrew Ippolito: Okay, and so a metabolic pathway is a chain of chemical pathways mediated by a series of enzymes, so you can write a metabolic pathway like this, a goes to be.
+1:03:20
+Andrew Ippolito: Right catalyzed by enzyme one. Andrew Ippolito: Be goes to see catalyzed by enzyme there you go that's the simplest you get that's a metabolic pathway.
+1:03:33
+Andrew Ippolito: Okay, you say that a is the substrate and see as the product and B is the intermediate.
+1:03:41
+Andrew Ippolito: And you can imagine, for more complex pathways you're going to have a series of intermediate.
+1:03:46
+Andrew Ippolito: But at the end of the day, you got to see. Andrew Ippolito: You got a product waiting in the end and that product could be one of 1000 different things 10s of thousands of different things.
+1:03:59
+Okay. Andrew Ippolito: So for a chemical reaction to actually happen, what has to occur let's think about this let's go into the minutia we talked about the forensic analysis now let's talk about the middle of the story.
+1:04:09
+Andrew Ippolito: So the molecules have to physically bump into each other right they have to collide, and not just that they have to collide, and a precise orientation.
+1:04:19
+Andrew Ippolito: right if they bump into each other the wrong way they're not going to react, they have to react, they have to be in the exact same position that the right position in order for the chemistry to happen.
+1:04:29
+Andrew Ippolito: And they have to be able to hit each other hard enough to get over each other's electron clouds because remember electrons push each other away right so two things are like two magnets they don't like each other so Ram them together.
+1:04:42
+Andrew Ippolito: Okay, so you can understand that temperature is going to play a role here right the hotter, it is the faster they're hitting each other.
+1:04:49
+Andrew Ippolito: and eventually some maybe that was confusing to you here's some molecule here's another molecule these things all have electrons right they're all electron clouds.
+1:04:57
+Andrew Ippolito: These are all just a little negative, these are all little negative at the end of the day, you got pairs of other you got electron clouds that have to punch through each other.
+1:05:04
+Andrew Ippolito: Right to overcome that repulsion you have to push them faster. Andrew Ippolito: Okay, so there's a there's a temperature.
+1:05:12
+Andrew Ippolito: that's why, when you increase that's why you heat things up to make them go faster you're increasing the rate of collisions and you're allowing them to overcome what's called stark hindrance.
+1:05:26
+Okay. Andrew Ippolito: And so, a chemical reaction doesn't really happen that quickly a lot of the times okay so metabolic reactions in the absence of an enzyme don't happen fast at all, just like your hydrogen peroxide sitting in your shelf is not just bubbling away.
+1:05:44
+Andrew Ippolito: it'll happen and i'll just take a really, really, really long time for it to go to completion Okay, so you can think of, is there being blocked by some energy barrier.
+1:05:55
+Andrew Ippolito: Okay, so that that concept there that energy barrier.
+1:06:01
+Andrew Ippolito: that's what keeps things stable. Andrew Ippolito: that's what you're able to be sitting right now and you're not falling over.
+1:06:10
+Andrew Ippolito: Okay, it would require energy to move you, it would require energy to knock a glass off the table, once the glasses in midair it's going to give up a lot of energy very quickly and shatter on the floor, but so long as you haven't put the energy into shove, it.
+1:06:28
+Andrew Ippolito: Okay, and that's that concept of energy of activation ISA bay.
+1:06:35
+Andrew Ippolito: Okay, so to get over these energy barriers, we need the enzymes, the enzymes, give us the push, so to speak.
+1:06:44
+Andrew Ippolito: Okay, but again remember not everything's about how fast they're moving it's also about their orientation think of the entropy idea, the degrees of freedom we need them to be in a position in space, the enzyme takes care of that it arranges things to happen by moving them into position.
+1:07:02
+Andrew Ippolito: Okay, and so this This is where we are now we have this thing we have this protein here I got my remember this, my old friend my magnets here right, and so we have some.
+1:07:15
+Andrew Ippolito: Some size, you really can't see this that well, can you take a picture here just my pen right, so the pen is the substrate and the enzyme is my my magnet ball right so somewhere on that magnet ball.
+1:07:29
+Andrew Ippolito: somewhere on that protein is a groove like your glove when you're playing baseball.
+1:07:36
+Andrew Ippolito: there's some special point in there that fits the enzymes substrate that's called the active site.
+1:07:45
+Andrew Ippolito: And the active site will grab the substrate and wrap around it and that induced fit model.
+1:07:52
+Andrew Ippolito: Okay, so here's how you're going to write it out, and what I want you to do is I want you to see this as a precursor of one of your biochemistry classes someday so you have ready, you have your enzyme E plus your substrate s.
+1:08:07
+Andrew Ippolito: And then you can do a bi directional arrow like this, and that will combine to form what we call the enzyme substrate complex.
+1:08:25
+Andrew Ippolito: The enzyme substrate So you see how that's bi directional so, in other words the Balkan Lou get out of the glove and go into the glove and go out of the globe and go into the glove okay.
+1:08:33
+Andrew Ippolito: By direct all this is bi directional Okay, and then you do another bi directional arrow here, and you get the actual chemical reaction occurs, where you get a product EP So this is the enzyme product complex.
+1:08:52
+Andrew Ippolito: And that can oscillate between substrate product substrate product and then over here, you have the enzyme releasing the product he plus p.
+1:09:03
+Andrew Ippolito: Okay, so this is it, this is not a chemical reaction, this is how we map out and play with enzymes and products and subjects.
+1:09:12
+Andrew Ippolito: And each one of those areas has an associated value that's a mathematical number that that was a constant.
+1:09:19
+Andrew Ippolito: Okay you'll learn about things like your pk your we're not doing any of that right now that's that's biochemistry we're not worrying about any of the math here, but what I want you to understand is that these interactions are transient.
+1:09:35
+Andrew Ippolito: they're transient interactions. Andrew Ippolito: A transit interaction.
+1:09:42
+Andrew Ippolito: is one that happens, for a very brief amount of time. Andrew Ippolito: These are those electrostatic interactions they're temporary.
+1:09:51
+Andrew Ippolito: Okay, you still with me, is making sense.
+1:09:56
+Andrew Ippolito: Questions so far. Andrew Ippolito: Is a substrate another word for Ratan that's a great question a substrate is the reactant in a metabolic pathway.
+1:10:05
+Andrew Ippolito: So yes, yes, you are correct, a substrate is it's not but it's not another word for it, you would say that all chemical reactions have reactants on one side right so by just generic chemical reaction A to B.
+1:10:19
+Andrew Ippolito: A is the reactant be as the product right in a metabolic reaction when we're concerning ourselves with an enzyme we would now appropriately call a substrate.
+1:10:32
+Andrew Ippolito: You could call it a reaction, but calling it a substrate is a more accurate word when you see the word substrate you're thinking enzyme when I say ends i'm using substrate.
+1:10:43
+Andrew Ippolito: Just like if I say daughter you're thinking parent.
+1:10:48
+Andrew Ippolito: Right, the word daughter implies there's a parent somewhere. Andrew Ippolito: The word enzyme implies there's a substrate somewhere.
+1:10:59
+Okay. Andrew Ippolito: All right. Andrew Ippolito: So what the enzymes going to do is lower the activation energy.
+1:11:11
+Andrew Ippolito: Right, think about a pure here's the simplest analogy, I come up with I use this in home or in person, I have slightly different analogies but here I am usually holding a pen and lab right or in class I got here here's my black and white marker.
+1:11:23
+Andrew Ippolito: Okay, so here here's the analogy here's the substrates there is this pen and the CAP, and I want you to imagine if I put these two things are imagine, I had 100 of each of these, and I put them in a big garbage bag and I just started shaking the garbage bag.
+1:11:40
+Andrew Ippolito: And I shook that garbage bag for 30 seconds. Andrew Ippolito: How many markers do you think just randomly in there are going to look.
+1:11:51
+Andrew Ippolito: like this. Andrew Ippolito: Probably none of them what am I shook that back for a year.
+1:11:58
+Andrew Ippolito: hard. Andrew Ippolito: Right eventually just from sheer probabilities right time right place right orientation right energy i'll probably have at least one marker that got kept successfully in that year of banging them around.
+1:12:15
+Andrew Ippolito: Okay now here's my hands, putting these together.
+1:12:21
+Andrew Ippolito: And clicking it look at I just did I just did, and I could probably do that at a rate of you know 10 markers a minute or whatever.
+1:12:29
+Andrew Ippolito: way faster than a random bag right that's so my hands are the enzyme what did my hands do that the garbage bag couldn't do I was able to do two things I was able to orient these in space, precisely, and I was able to put energy in to snap it.
+1:12:48
+Andrew Ippolito: Okay, and that's what the enzymes are doing they're orienting the molecules into their favorite arrangements to make the reaction happen.
+1:12:55
+Andrew Ippolito: Okay, so in the case of an idealistic enzyme here's here's a di saccharine right here so here's glucose here's motos ready glucose and glucose makes motos number that number from Chapter four or five years martyrs.
+1:13:08
+Andrew Ippolito: OK, and then remember, I said that motos has Maltese the enzyme to break it down. Andrew Ippolito: Well here's what the enzyme does it takes this molecule and in the active site, it will put it into a position where it's binding here is binding here from some kind of charge surfaces.
+1:13:22
+Andrew Ippolito: And then there's some other magic charge surface that goes to the bonnet attacking it in the physically it bends it, it can towards it, so that this is now unstable.
+1:13:31
+Andrew Ippolito: Okay, so it's in this precarious position and remember Brownian motion remember everything's always vibrating so here's the thing what takes it home, what makes this break isn't the enzyme it's the fat of the enzyme put it into this horrible bendy pattern, and then the vibrations break.
+1:13:51
+Andrew Ippolito: Okay, so you still need a little energy in the environment, and so the enzyme basically lowers the energy of activation by putting it into an unstable state.
+1:14:01
+Andrew Ippolito: Okay that's that's a conceptual idea of how enzymes work so when we look at this diagram now right, this is all coming home to this diagram, this is the most complicated thing in this chunk of the chapter.
+1:14:12
+Andrew Ippolito: And so, in order to understand this i'm going to draw it out for you So here we go we're talking about free energy.
+1:14:20
+Andrew Ippolito: And time. Andrew Ippolito: Okay, and so we're going to talk about a high energy molecule falling down to a low energy molecule through an enzymatic reactions so we're going to start up here on the shelf okay and we'll call this you know, a is bound to B.
+1:14:36
+Andrew Ippolito: and C is bound to those are two chemicals they're bound together Kobe only they're stable.
+1:14:45
+Andrew Ippolito: Okay. Andrew Ippolito: And so we can represented there up here there are this amount of free energy they have this amount of free energy.
+1:14:52
+Andrew Ippolito: Okay now in order for me to break those bonds, we all agree, I have to put energy into the system, remember that we need energy in to break bonds, so I have to take this system, and I have to go up hill.
+1:15:11
+Andrew Ippolito: And I finally reach so I put so much energy into it, where they reach what's called this transition point where a is just barely bound to be it's like taking a branch and bending it to the point, but not where it breaks, but almost breaks.
+1:15:25
+Andrew Ippolito: And we do the same with C and D this transition point.
+1:15:32
+Andrew Ippolito: Okay it's at the precipice of disaster. Andrew Ippolito: So from here to here this input of the energy that's your ISA bay.
+1:15:42
+Andrew Ippolito: oops you know, so I have a bandage on my fingers, I have a really nasty cut and I can't feel the the way i'm normally holding this that's why I keep making these mistakes right now, so I mean just redraw that.
+1:15:58
+Andrew Ippolito: So we have a bound to be you know see bound to D, we have a Weber wobbling with B and C webb a while, so that very unstable.
+1:16:09
+Andrew Ippolito: Okay, and so this cliff that this this difference there, that is your energy of activation that's the equivalent of you poking it or bending it or pushing the ball off the cliff.
+1:16:19
+Andrew Ippolito: Okay, and then, once it goes past that threshold, it will give up all of its energy.
+1:16:26
+Andrew Ippolito: Until it falls down and comes to arrest, so the new chemical bonds the bond between A and C that's made gives off all that extra energy so A and C.
+1:16:37
+Andrew Ippolito: And B and D i'm just making that up i'm just putting them together in a different way, that the slide might say something different.
+1:16:44
+Andrew Ippolito: Okay, but watch this from here Okay, so this point here of the original amount of energy to this final resting point from here to here, that is your delta g.
+1:17:06
+Andrew Ippolito: And in some diagrams that could be delta each okay we're just changing energy.
+1:17:12
+Andrew Ippolito: But because we're in biology we're in a cell we're dealing with enzymes and metabolism that's delta G in particular.
+1:17:21
+Andrew Ippolito: And so, this is was this positive or negative, right here.
+1:17:26
+Andrew Ippolito: what's the sign of. Zachary Lucas: delta G right now. Zachary Lucas: And this is good naked.
+1:17:34
+Andrew Ippolito: Okay, so if you're taking notes, what I want you to do right now is just quickly draw a version of this where you have a positive delta g.
+1:17:42
+Andrew Ippolito: see if you can do that give me a positive delta G give me the cartoony version of a positive delta G i'll give you a minute.
+1:18:43
+Andrew Ippolito: Alright, what you got. Andrew Ippolito: When you can anybody want to be able to show me hold it up and show me.
+1:18:52
+Andrew Ippolito: That even possible. hi Julia let's see what you got.
+1:19:00
+Andrew Ippolito: Okay, good good, let me think for a minute, let me think.
+1:19:06
+Andrew Ippolito: you're going down first so so we're gonna go here we're starting low.
+1:19:13
+Andrew Ippolito: Right. Andrew Ippolito: And then we're going to put energy into the system.
+1:19:21
+Andrew Ippolito: And so we're high. Andrew Ippolito: Okay, so, so the thing that you did like this right, the suggestion of that diagram is that the difference here you're starting here and you're losing energy.
+1:19:37
+Andrew Ippolito: To gain it and we're never going to do that right, so the idea here is because we're going up we're building things we're just going to start here and we're just going to push them up hill there's no there's no need for a hump.
+1:19:51
+Andrew Ippolito: Okay, and actually if you did have a hump here, I suppose it would look like this.
+1:19:59
+Andrew Ippolito: Something like that, I suppose, and this would be this would be an intermediate a stable intermediate it's got a little while of stability there right so really a complicated metabolic pathway that's up hill would probably look something like this.
+1:20:19
+Andrew Ippolito: That would be a positive delta G metabolic pathway Okay, where each one of these would be a transition point so like we would talk about you know, a going to be and so let's say a going to be and then be going to see and then see going to be.
+1:20:40
+Andrew Ippolito: So, each one of those reactions in and of itself has an energy well, you can call us energy wells there that will be as a stable intermediate see as a stable intermediate they hang out there, because they need some energy to get over to the next.
+1:20:54
+Andrew Ippolito: But but also but also be so, but also what's going backwards that there's an error it's like the idea that be a stable is because you see this little hump here.
+1:21:02
+Andrew Ippolito: Okay, so picture these like marbles in a game right the marble can kind of sit there rolling around in that little well and you push it hard, and it goes up and then it lands on to the next one right.
+1:21:14
+Andrew Ippolito: So that that's how things work in a kind of a way alright guys What was your question or comment. Alexa Deprisco: That kind of like building a protein.
+1:21:22
+Andrew Ippolito: Sure yeah. Andrew Ippolito: By putting a poly peptide chain together or nucleic acid chained together or a poly soccer I chained together yeah exactly.
+1:21:32
+Alexis Micewski: So for the positive delta G it goes up and then it remains constant at the top.
+1:21:40
+Andrew Ippolito: What do you mean by remains remains stable. Alexis Micewski: Like it's a flat line it goes.
+1:21:45
+Alexis Micewski: out oh yeah that's flat. Alexis Micewski: yeah yeah. Andrew Ippolito: But, but, to be fair, the other one.
+1:21:53
+Andrew Ippolito: that's also flat, so the flat thing suggest. Andrew Ippolito: Some constant amount of energy there.
+1:22:04
+Andrew Ippolito: where's the curve is the transition point anytime you see the curve, that means it's not staying still.
+1:22:10
+Andrew Ippolito: Alright cool so now we've kind of get that you can go and you can do Okay, so the key points here the take homes to all this.
+1:22:18
+Andrew Ippolito: Is understanding both the ISA a and the delta G OK, so if you if you get that you're good to go the ISA Bay the activation energy would be the difference between the starting point.
+1:22:31
+Andrew Ippolito: And the transition point okay so here's what an enzyme does ready watch this, this is what the ends on does.
+1:22:40
+Andrew Ippolito: So the red line would represent. Andrew Ippolito: The metabolic reaction and the presence of the enzyme.
+1:22:48
+Andrew Ippolito: Do you notice there's still a hump there. Andrew Ippolito: I still gotta kick it that's the thermal energy this little difference here this this little bit of energy that's that's the wind, taking the ball okay or in this case that's the vibrations of the energy around the internal intrinsic energy.
+1:23:07
+Andrew Ippolito: Okay, so, then what this is that part of the energy that's the whole having to orient it in space and giving it a move or putting it into an unstable state okay so that's why we see enzymes lower the energy of activation.
+1:23:22
+Andrew Ippolito: And so you can also understand that an enzyme can never make this go uphill do you see that.
+1:23:29
+Andrew Ippolito: an enzyme can never make a spawn non spontaneous reaction spontaneous.
+1:23:38
+Andrew Ippolito: And by the way, I miss, I have to change the case on these it's not East Bay it's The sub a with a cat with just the subscript capital a not a lowercase a, and the reason I got confused with that, as you know, as you guys learn pk that's a lower case say but don't worry about them.
+1:23:58
+Okay. Andrew Ippolito: All right, so the rest of their there's there's your.
+1:24:05
+Andrew Ippolito: You would say your. Andrew Ippolito: reaction is catalyzed versus on catalyzed okay so red represents the catalyzed reaction.
+1:24:19
+Andrew Ippolito: Whereas let's see if I can do this.
+1:24:31
+Andrew Ippolito: Black represents. On catalyzed.
+1:24:39
+Let me go back to read, because otherwise often will ride my bike background okay.
+1:24:45
+Andrew Ippolito: So you see this A, B and C. Andrew Ippolito: use this in your studying and maybe we can we can play with this slide next week, when we do a little review for us all right i'm gonna go through.
+1:24:58
+Andrew Ippolito: To the next one, because we got we got ever so slightly a little bit more, you know may see see that there's a bending you can see the bending of it, the contortion of it it's gonna snap it.
+1:25:09
+Okay. Andrew Ippolito: OK, so now that you understand the basics here let's play the game now, what can we do to the ends on the mess it up.
+1:25:21
+Andrew Ippolito: All right, or how can, how can we regulate this there's two key variables there's temperature mph we've already talked about these.
+1:25:29
+Andrew Ippolito: Okay, the two key variables that affect the rate of an enzymatic reaction, the two key areas there's more, but these are the two big big ones from the environmental perspective is the temperature of the environment, the PhD mark.
+1:25:41
+Andrew Ippolito: Okay, and here's how you can see the temperature effects it in this way.
+1:25:46
+Andrew Ippolito: As you increase the temperature of the environment, the rate of the reaction will increase up to a point.
+1:25:55
+Andrew Ippolito: At that point, remember that enzymes can do nature right, because at the end of the day, an enzyme is a protein, like any other, protein and so if we move this fast enough what happens to it, it starts to fall apart.
+1:26:08
+Andrew Ippolito: And that's represented by this downhill slope right here, so this is the rate of the reaction on the y axis, and this is temperature, as you move along the X axis so as it gets hotter and hotter and hotter the rate of the reaction will go up until the enzyme teenagers and that will collapse.
+1:26:26
+Okay. Andrew Ippolito: Most metabolic enzymes have the ideal temperature of body temperature, which is about 37 degrees Celsius.
+1:26:42
+Andrew Ippolito: Okay, and they'll work even better, a little hotter, this is why we have fevers.
+1:26:49
+Andrew Ippolito: Okay, that kind of kicks them into overdrive. Andrew Ippolito: But then you get too hot.
+1:26:55
+Andrew Ippolito: And you can see it starts to fall apart, this is why a high fever is going to kill you this is why, if somebody has a temperature of 105 to 107 degrees.
+1:27:05
+Andrew Ippolito: You throw them in a bathtub full of bias you're literally preventing our enzymes and their body from Dean, a string like us like a fried egg.
+1:27:15
+Andrew Ippolito: that's what kills you when you have the high fever your your nature eating of the enzymes and there's a whole.
+1:27:23
+Andrew Ippolito: evolved response, called the heat shock response, there are proteins called heat shock proteins that act like body Armor for enzymes.
+1:27:33
+Andrew Ippolito: That protect them in the same way iron man cause his suit to him and the soup flies all from different parts of his house or whatever and he's now iron man, we have these heat shock proteins that that help our enzymes not ballpark.
+1:27:46
+Andrew Ippolito: Okay, but but an enzyme by itself in a test tube that's exactly what it's going to do fall fall right apart.
+1:27:53
+Andrew Ippolito: Now pH remember when we learned pH initially the reason why I spent so much time with pH with you earlier, is for this reason, understand pH.
+1:28:03
+Andrew Ippolito: As the as a proxy for the environments reactivity think of its charge right remember that a low pH you have a lot of these at a high pH you got a lot of these.
+1:28:16
+Andrew Ippolito: Okay, so you have charges and remember that the surface of a protein the surface of an enzyme, this is a lobby protein there's charges and there's polarity.
+1:28:29
+Andrew Ippolito: And so, whatever and every single enzyme has its own charge surface, it will have its own little active site with its own charges in there.
+1:28:42
+Andrew Ippolito: And so it's going to have its own favorite pH.
+1:28:47
+Andrew Ippolito: Okay it's not like a temperature thing okay this pH range can be very different so think of the difference between the enzymes in your stomach where they're living around the pH between wanting to.
+1:28:59
+Andrew Ippolito: And the pH is deep inside your paroxysms or in your nucleus, or the pH is very alkaline.
+1:29:06
+Andrew Ippolito: Okay, and so, for any given for any given enzyme you're going let's just say that the enzymes favorite pH is right here Okay, so this is pH at the bottom here from one to 14 and i'm making this up this is this is again this is activity of the enzyme.
+1:29:23
+Andrew Ippolito: If this is my favorite piece right here what that means is i'm going to maximum activity and so any deviation from that pH is going to result in a lower rate of reaction.
+1:29:36
+Andrew Ippolito: So at the top of the roller coaster. Andrew Ippolito: Okay, and some enzymes have a very narrow range of pH and they might look like this.
+1:29:47
+Andrew Ippolito: And some enzymes can function over a broad pH range and they might look.
+1:29:52
+like this. Andrew Ippolito: But they all have that sweet spot.
+1:29:59
+Okay. Andrew Ippolito: So a robust enzyme enzyme that can withstand green changes and pH might have a broad spectrum of pH activity Okay, whereas other ones that are delicate like a snowflake they have to be like 7.2 or bust.
+1:30:17
+Andrew Ippolito: Okay, and they'll have a very narrow. Andrew Ippolito: Okay, this is good.
+1:30:24
+Andrew Ippolito: here's a eukaryotic cell. Andrew Ippolito: here's the nucleus here's the lice ISM.
+1:30:31
+Andrew Ippolito: And I want you to imagine now you have all these enzymes in the license um let's see the inside of the license has a pH of five I just made that up.
+1:30:38
+Andrew Ippolito: And let's say that the cytoplasm as a pH of seven. Andrew Ippolito: OK, and now, what would happen, you can imagine, remember what lice isms do they break things down right there like bags of hydrostatic enzymes are like paper shredder what would happen if this burst open and these enzymes leaked into the cytoplasm.
+1:30:57
+Andrew Ippolito: right if those enzymes operated at a pH of seven that sells dead.
+1:31:04
+Andrew Ippolito: But good thing that the inside of the license has a pH of five and those enzymes like five and eight seven because now, when you're releasing the all become non functional.
+1:31:14
+Andrew Ippolito: Okay, so this is a way that we can compartmentalize and protect.
+1:31:20
+Okay. Andrew Ippolito: Now, in addition to its environment enzymes can also be regulated.
+1:31:29
+Andrew Ippolito: By requiring an essential helper molecule.
+1:31:37
+Andrew Ippolito: Think of a stapler. Andrew Ippolito: stapler is only as good as the staples that you put inside of it right as much as awesomely mechanical as a stapler is, at the end of the day, you have to load it with staples and staples don't get reused right you use up staples.
+1:31:52
+Andrew Ippolito: Right or think of a gun with bullets you run out of bullets you're kicking the guns might as well just be a paperweight.
+1:32:00
+Andrew Ippolito: Alright, so we have this concept, called the co-factor. Andrew Ippolito: Until we have co founders and co enzymes and the key here is a cool factor is simple it's generally.
+1:32:13
+elemental. Andrew Ippolito: Okay, so an example co-factor would be a sodium won't really not sodium more, you would think there's magnesium.
+1:32:23
+Andrew Ippolito: Okay that's the most common co factor in the cell you got magnesium you got manganese Those are the two.
+1:32:31
+Andrew Ippolito: You got zinc. Andrew Ippolito: You have iron. Andrew Ippolito: Okay, and sometimes you have more exotic ones.
+1:32:40
+Andrew Ippolito: Those are those are some good calcium, sometimes okay so, for example, iron is used in hemoglobin to carry oxygen.
+1:32:50
+Okay. Andrew Ippolito: A co enzyme is organic.
+1:32:59
+Andrew Ippolito: You can think of ATP as a co enzyme. Andrew Ippolito: Because it gets used up.
+1:33:04
+Andrew Ippolito: Okay, another example, might be vitamins. Andrew Ippolito: Vitamins or co enzymes they're organic or must see an ad an F ED each and any dp we're going to see all those very soon, and the next chapter.
+1:33:22
+Andrew Ippolito: Okay, these are all co enzymes, the key is a Co factor is simple and elemental and a Co enzyme is organic and can be complex okay there's another one that has the most boring name of all the coins if there's somebody named co enzyme a.
+1:33:39
+Andrew Ippolito: You can just abbreviate that Co. Andrew Ippolito: it's an organic molecule it carries some energy with it.
+1:33:48
+Andrew Ippolito: Alright alright, so I said all that no selenium that's another one that's in copper there's copper.
+1:33:56
+Okay, all right. Andrew Ippolito: Okay, so that's how that's how we make enzymes do their job.
+1:34:06
+Andrew Ippolito: We shut them off now, and so this last topic here in the last five minutes we'll talk about the inhibition.
+1:34:14
+of enzymes. Andrew Ippolito: You can picture some molecule maybe even another protein doesn't matter what it is some substance, and you can imagine that that substance here don't don't scribble down just ignore imagine PAC man.
+1:34:32
+Andrew Ippolito: Okay, and imagine that this PAC man enzyme so that's as active site right, the thing that it eats is this triangle this red triangle.
+1:34:43
+Andrew Ippolito: Here let's let's go to the whiteboard this will be easier to do with multi colors so here's PAC man.
+1:34:50
+Andrew Ippolito: Okay, and here's the yellow triangle.
+1:34:56
+Andrew Ippolito: Okay we'll call that substrate substrate enzyme right.
+1:35:02
+Andrew Ippolito: And so, if we put them together.
+1:35:09
+Andrew Ippolito: This would be the enzyme substrate complex.
+1:35:14
+Andrew Ippolito: Okay. Andrew Ippolito: Now, imagine, I had another molecule.
+1:35:22
+Andrew Ippolito: That looked, just like the substrate.
+1:35:28
+Andrew Ippolito: And it combined into that active site, just as readily, in other words, they would compete for attention right.
+1:35:36
+Andrew Ippolito: there's going to be a competition there, whoever gets their wins. Andrew Ippolito: And so the key here is this would be concentration dependent.
+1:35:50
+Andrew Ippolito: You can imagine if I had way more blue triangles if the blue triangles outnumbered the yellow triangles.
+1:35:58
+Andrew Ippolito: Then the enzyme can't do its job. Andrew Ippolito: So the implication here is that blue triangle.
+1:36:07
+Andrew Ippolito: If you get a situation where the blue triangle is in there instead.
+1:36:14
+Andrew Ippolito: This is an uninhibited enzyme. Andrew Ippolito: Like keeping the mouth shut.
+1:36:21
+Andrew Ippolito: or or imagine a stapler instead of putting a piece of paper in there, which is the substrate.
+1:36:27
+Andrew Ippolito: Put in a piece of steel steel plate that gets wedged in there you can't stay put a piece of steel that's going to break the stapler.
+1:36:36
+Andrew Ippolito: Okay, so this is called competitive inhibition.
+1:36:47
+Andrew Ippolito: And so competitive inhibition is is concentration dependent in order for an inhibitor so you would call them a competitive inhibitor.
+1:37:01
+Andrew Ippolito: In order to. Andrew Ippolito: compete in order to inhibit the competitive inhibitor has to be at a higher concentration than the substrate.
+1:37:11
+Andrew Ippolito: Right, so you can imagine if I just put a little bit of inhibitor into the reaction that's not going to do much.
+1:37:19
+Okay. Andrew Ippolito: Now, imagine.
+1:37:25
+Andrew Ippolito: Imagine some basic chemical pathway now a goes to B.
+1:37:31
+Andrew Ippolito: And then be goes to see and then see it goes to okay and here's enzyme one here's enzyme to and there's enzyme three and get this imagine that D.
+1:37:46
+Andrew Ippolito: can go back and bind to the enzyme one.
+1:37:52
+Andrew Ippolito: You put a little you see this little see that arrow says special kind of our they're the little line on that's an inhibitory arrow so when you see if you ever see this, that means a inhibits see.
+1:38:05
+Andrew Ippolito: Here you're going to see that a lot now Okay, if you see a arrow see that means it activates it.
+1:38:12
+Andrew Ippolito: Okay, these are they think of us like circuit diagrams logic flows.
+1:38:17
+Andrew Ippolito: Okay, so we see we're going to see this a lot this semester, as the time as time goes on, so understand the inhibitory arrow.
+1:38:26
+Andrew Ippolito: Okay, so So do you see this now the map imagine this is some metabolic pathway, and so let's say this is making vitamin C.
+1:38:35
+Andrew Ippolito: Okay, so this is a metabolic you eat your food and you get whatever he is and then your body makes vitamin C.
+1:38:43
+Andrew Ippolito: Okay. Yes, yes story.
+1:38:48
+Andrew Ippolito: Alright, so think about any process where we don't want to we don't want to just make a billion vitamin c's if we don't need it right.
+1:38:57
+Andrew Ippolito: So so imagine a situation where this D molecule builds up and builds up and builds up, we want to stop making it right, otherwise we're wasting energy we don't want to just keep making things.
+1:39:11
+Andrew Ippolito: So we have this idea where the product of the reaction, the product of the pathway can go back and turn the pathway off.
+1:39:22
+Andrew Ippolito: To prevent us from making more that we don't need. Andrew Ippolito: All right, so so imagine we needed it, but what happened we as soon as D is made, we would use it up, and it would go away and we just keep the process going as long as we had more a.
+1:39:35
+Andrew Ippolito: We can keep making D and D we get used and everything would just flow But what if we stopped using D and we still have plenty of a have you start building a stockpile of D, we want to stop that so go and shut off the loop, this is called feedback inhibition.
+1:39:57
+Andrew Ippolito: And this is very typical of a competitive inhibition situation right which makes sense right if I only have a little bit more, I want to tone it down a little bit, but not shut it off completely, whereas I have an overwhelming amount of it that's going to shut it off completely.
+1:40:13
+Andrew Ippolito: And you notice that I targeted enzyme one. Andrew Ippolito: You see, that do you notice I didn't write I didn't inhibit enzyme to.
+1:40:25
+Andrew Ippolito: or enzyme three why because get choked off at the source.
+1:40:30
+Andrew Ippolito: let's see what the most amount of energy. Andrew Ippolito: Okay, so here i'm going to end today I have negative one minutes right now i'm going to go to negative two minutes here really quick imagine PAC man had.
+1:40:42
+Andrew Ippolito: A. Andrew Ippolito: Little hole in the back.
+1:40:48
+Andrew Ippolito: Okay, and imagine that there was this molecule here let's make it read.
+1:40:54
+Andrew Ippolito: There was this little square molecule that when it snuck over here in the back and a bound what that resulted in.
+1:41:04
+Andrew Ippolito: His him shutting his mouth. Andrew Ippolito: We changed his sheep we changed the shape of the active site, do you see that.
+1:41:14
+Andrew Ippolito: And so. Andrew Ippolito: If we have a substrate over here hey if we have 1000 substrates the same it doesn't matter the mouth is closed, take a rubber band and tie it around your stapler you just need one rubber band.
+1:41:29
+Andrew Ippolito: Okay that's site is called the other site it's distinguished from the active site, the other site and, of course, scientists don't like saying things like other site, we have to name it something fancy so we call it the aloes Derek site that literally means other place.
+1:41:50
+Andrew Ippolito: aloe means other. Andrew Ippolito: Okay, so that's the Alastair excited, so this is called an aloe static inhibitor.
+1:41:59
+Andrew Ippolito: Which is synonymous with non competitive inhibitor.
+1:42:05
+Andrew Ippolito: Okay, so you can say non competitive. Andrew Ippolito: And you can say Alice Derek and they would be equivalent statements.
+1:42:15
+Andrew Ippolito: Okay.
+1:42:20
+Andrew Ippolito: Okay, so tori you wanted to go back to the last slide here was that this one. Victoria Bloemker: yeah Thank you.
+1:42:26
+Andrew Ippolito: yeah so this, this is what I just explained. Andrew Ippolito: On the whiteboard. Andrew Ippolito: Alright, and this will be in the.
+1:42:31
+Andrew Ippolito: In the laughter, and this will be well, you can tell me you guys most of you did this, at least half the laps or did you get to the point where you're doing with inhibitors in there.
+1:42:41
+Andrew Ippolito: Okay well that'll probably be towards the end of the lab then. Andrew Ippolito: Okay, and so that's that's where we're going to end today on TV let's take a quick whirlwind tour, to see what we didn't hit today.
+1:42:53
+Andrew Ippolito: I think I hit, most of them, we already talked about it yeah okay that's gonna be we're right where we need to because here's the thing understanding the docs that's going to bleed us right into photosynthesis, and so we are exactly where I want to be This is great so.
+1:43:09
+Andrew Ippolito: We talked about inhibition here's just another slide on ambition, you can use this for your studying so i'm not going to cover this next time we already covered it.
+1:43:18
+Andrew Ippolito: Practical uses this is this is. Andrew Ippolito: Brain candy you're not gonna are just contextualizing your information, I don't have to teach you this, you can just read about it.
+1:43:29
+Andrew Ippolito: We already talked about metabolic pathways we have this idea of intermediate points okay.
+1:43:37
+Andrew Ippolito: and Andrew Ippolito: We talked about feedback inhibition already.
+1:43:42
+Andrew Ippolito: yeah, so this is we're gonna pick up right here, this is going to be, you can think of this as the beginning of Chapter 10 even though it's not this is This is fully in this chapter eight, but this is where i'm going to start chapter 10 okay.
+1:43:57
+Andrew Ippolito: The the idea here, as you guys work through your weekend the idea here is that energy flows through biological systems by being piggybacked on electrons Okay, so if you can track the electrons through a system, you can track the energy through a system.
+1:44:12
+Okay. Andrew Ippolito: Did you have a dog to do your dog eat your favorite they get along.
+1:44:19
+Andrew Ippolito: The dogs affairs get along. April Neeld: And they can coexist.
+1:44:25
+Andrew Ippolito: Oh, like cats and dogs. Andrew Ippolito: I each other, like. Andrew Ippolito: I don't trust you.
+1:44:31
+April Neeld: This is my food my food. Andrew Ippolito: I want to stop the recording now.

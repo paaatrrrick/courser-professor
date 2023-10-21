@@ -1,0 +1,1016 @@
+0:01
+Andrew Ippolito: This is the beginning of unit three, this is our first lecture and really this.
+0:07
+Andrew Ippolito: This first part. Andrew Ippolito: Is a representation of just how much material, there is in this class, now that we don't have time to do this chapter, we don't talk through this whole chapter we're just going to parts of it.
+0:19
+Andrew Ippolito: The key to this chapter and what I want you to take out of this is the basics of how cells talk to each other, particularly in multicellular organisms, particularly in animals so we're going to talk about cell to cell communication that's the basic idea.
+0:41
+Andrew Ippolito: The first question, even before how cells communicated why, why do cells talk to each other there's a whole bunch of reasons for that.
+0:48
+Andrew Ippolito: single celled organisms out in nature, probably talk to each other to either guard or their own territory is for nutrients or war and other cells.
+1:00
+Andrew Ippolito: If they're the same species and they're part of a colony they'll try to synchronize their activities right in multicellular organisms like us.
+1:10
+Andrew Ippolito: There has to be coordination between the moving parts to have a cohesive whole right.
+1:16
+Andrew Ippolito: In the same way that you think of the difference between. Andrew Ippolito: A soloist like somebody who's playing a guitar versus an orchestra.
+1:29
+Andrew Ippolito: Both have their own beauty right, but we would agree that the symphony is by far the more complicated.
+1:36
+Andrew Ippolito: Right and there's a whole bunch of criteria that need to be in place for that to work, otherwise it's going to sound awful if everybody's doing their own thing at their own time right imagine a symphony where everybody started, you know within one or two seconds of each other.
+1:51
+Andrew Ippolito: And just sound terrible right, so this idea of coordination is important.
+1:58
+Andrew Ippolito: we've already covered this idea of cells being able to talk to each other when they're in direct contact right remember, there are these these gap junctions.
+2:07
+Andrew Ippolito: Right and that allows them to seamlessly exchange cytoplasm we see this and things like in heart tissue when when to heart muscle cells.
+2:18
+Andrew Ippolito: are attached to each other, they actually have a lot of surface area in touch so that they can maximize the amount of contact and they can maximize the efficiency of sharing their cytoplasm ultimately so that they compete in sync with each other that's how our heart works.
+2:35
+Andrew Ippolito: When cells are near each other, like within the same tissue neighborly or down the road, a bit we call this kind of signaling now we have to release a factor, we have to play catch basically we have to throw something over at them.
+2:52
+Andrew Ippolito: We call this kind of thing parents parents signaling.
+2:58
+Andrew Ippolito: Parents signaling is in our bodies as an example, mostly seen, we want to increase the mass of some kind of tissue like growing muscle.
+3:07
+Andrew Ippolito: or regrowing your skin after a warmed or constantly shedding your skin or your endothelial cells and so these kinds of factors.
+3:18
+Andrew Ippolito: That contribute to making cells grow are called growth factors but there's a fancier word i'm going to use this word it's called a nitrogen mito like mitosis right and then Jen like genesis creation.
+3:35
+Andrew Ippolito: Okay.
+3:42
+Andrew Ippolito: The same thing that happened with.
+3:49
+Andrew Ippolito: My other program is happening with PowerPoint now, I just have to.
+3:54
+Andrew Ippolito: Okay, I got it. Andrew Ippolito: Sorry guys.
+4:03
+Andrew Ippolito: I think I have to update or driver something at some point. Andrew Ippolito: The settings all look right.
+4:10
+Andrew Ippolito: But it's difficult to draw on the screen okay there I got it so so para para krantz signaling nearby right within the same tissue.
+4:22
+Andrew Ippolito: growth factors of the most common and so we're going to use this word. Andrew Ippolito: Might I might, as you know, as a growth factor.
+4:32
+Andrew Ippolito: Alright, so this is something that's going to come out next chapter bonus say this now cells don't divide unless you tell them to.
+4:42
+Andrew Ippolito: that's a very important thing. Andrew Ippolito: The default state of a cell, therefore, is to not grow.
+4:51
+Andrew Ippolito: And if you think about it, that makes sense right, otherwise we have cancer everywhere.
+4:57
+Andrew Ippolito: So the most common way we tell cells to grow is by giving them a signal that signals we call that a mighty.
+5:04
+Andrew Ippolito: Okay, and we call that my energetic stimulation or might agenda growth.
+5:11
+Andrew Ippolito: For cells that are far far away from each other, think of your brain and your big toe.
+5:17
+Andrew Ippolito: Right, as far as you can get in your body and still be in your body right that distance communication that's called endocrine signaling.
+5:27
+Andrew Ippolito: And that's the eponymous form of signaling that we refer to, when we talk about the endocrine system.
+5:34
+Andrew Ippolito: Your body has an endocrine system it's one of our body systems that we don't normally think about and consider we think about our skeletal system in our muscular system in our cardiovascular system in our.
+5:45
+Andrew Ippolito: nervous system, we don't usually say endocrine system because it's not structural it's functional you don't see your endocrine system it's scattered throughout your body, and these various.
+5:57
+Andrew Ippolito: glands. Andrew Ippolito: Like your thyroid your pancreas your hypothalamus is all parts to it Okay, and so those signaling molecules we refer to that's what a hormone is.
+6:10
+Andrew Ippolito: Right, but all no hormones or whole life generally we learned about hormones when it comes to. Andrew Ippolito: going through puberty and in sexuality, we talked about hormones, but really hormones control almost everything that is not immediate, so the way you now as a mature biology student can think about the endocrine system.
+6:28
+Andrew Ippolito: Is paired off with the nervous system Okay, the nervous system allows us to respond to things quickly like fire run right or you're sweating okay so so relatively fast things the endocrine system lets us respond to things in a slower way.
+6:47
+Andrew Ippolito: Like going through puberty. Andrew Ippolito: Okay, or tanning.
+6:53
+Andrew Ippolito: or being hungry or thirsty or having a temperature.
+6:58
+Andrew Ippolito: OK, so the endocrine system controls all sorts of things that don't require a split second to occur.
+7:07
+Andrew Ippolito: And there's crosstalk, for example the fight or flight instinct is sent set off by a nerve attached to a hormone system that's what that surge of adrenaline is when you get surprised.
+7:18
+Andrew Ippolito: your eyes dilate your hair stands on in your muscles get a flood of sugar, you can run really fast you get angry, maybe rate that fight or flight or you get scared you run right fight or flight.
+7:30
+Taylor Campbell: One of the about what about like when people and, like like deer in the headlights like when you freeze up what what is that.
+7:37
+Andrew Ippolito: So when you freeze up due to what. Taylor Campbell: Like a deer in the headlights. Taylor Campbell: is like it's like people fight or flight or they freeze.
+7:45
+Taylor Campbell: Like right back. Andrew Ippolito: To that so so that that's a really good question um i'm going to give you this really gives you this quickly it's important to know going through life I learned what i'm about to tell you from a chief of police a couple years ago.
+8:03
+Andrew Ippolito: They call it, I think, was it 80 8020 rule.
+8:10
+Andrew Ippolito: 84 8020 rule so basically. Andrew Ippolito: 80% of people in a crisis situation like active shooter or earthquake something traumatic 80% of people will do what you just said they'll freeze up.
+8:27
+Andrew Ippolito: They might fall into a fetal position would you say. Andrew Ippolito: Would you say April.
+8:33
+April Neeld: i'm just I didn't realize, I was on but yeah I was like wait why. Andrew Ippolito: What so it's.
+8:39
+Andrew Ippolito: it's a stress response it's it's the deer in headlights it's we lock up out of fear it's it's a I think honestly if it's on spit balling here it's probably.
+8:53
+Andrew Ippolito: Going into shock. Andrew Ippolito: Okay shock is something our bodies do when something.
+9:01
+Andrew Ippolito: epic happens to it like severe sudden blood loss you get your arm chopped off and blood gushing your body goes in shock as a survival technique.
+9:14
+Andrew Ippolito: And, and so a lot of people freeze up. Andrew Ippolito: About so I began, based on what I was told by this chief of police I don't take this with a grain of salt this isn't like something that I have researched with psychology journals and stuff.
+9:27
+Andrew Ippolito: Most people freeze up and then there's there's two other groups of people another group of people will not freeze up.
+9:35
+Andrew Ippolito: They won't take the lead, or initiative, but they will listen to things that people tell them to do.
+9:40
+Andrew Ippolito: You go over there jump over there to hide behind that thing and they'll just do that don't call 911 they'll do that and then there's a 10% of people who will take charge.
+9:50
+Andrew Ippolito: And they something go into this calm relaxed hyper focus date they look at the situation they do their best to try to you know, to think they see what's going on and they they're the leaders of those traumatic situations.
+10:00
+Andrew Ippolito: So the human population is divided up into those roughly three categories of people there are the ones that take charge the ones that listened and can take orders from the ones that take charge than everybody else.
+10:12
+Andrew Ippolito: And it's kind of consistent over various things, so the deer in headlights thing that i'm going to say that that's probably a shock response.
+10:20
+Taylor Campbell: Okay, so it doesn't incorporate like how you're saying. Andrew Ippolito: Right and it's probably triggered it's probably triggered in the same pathways and from the endocrine system that the fight or flight instinct is right.
+10:31
+Andrew Ippolito: Now, everybody has fight or flight, not everybody you want always lock up, it depends on how traumatic, the situation is, I imagine right, I mean if you're like I have a test tomorrow that you didn't study for you're not going to fall into a fetal position.
+10:45
+Andrew Ippolito: you're going to go into a fight or flight instinct you're going to have a surge of adrenaline we've all had that kind of panic attack. Andrew Ippolito: That right there is when the nervous system is connected to the endocrine system right because because think about it, after that there's no way of coming down from it instantly.
+10:58
+Andrew Ippolito: Okay, the nerve turns it on, but what turns it off is the diffusion of those hormones, which takes 20 minutes or so that's why you feel like crap afterwards and you can't just come right back from it.
+11:12
+Andrew Ippolito: Okay, so. So that. Andrew Ippolito: it's like what. Alexa Deprisco: Is that like positive feedback like.
+11:18
+Andrew Ippolito: A which one yeah yeah the first one yeah yeah so so it'll it'll dramatically increase stuff.
+11:29
+Andrew Ippolito: there's probably a positive feedback loop in the beginning of that somewhere I can't pinpoint it no so instead it's more it's more of a.
+11:36
+Andrew Ippolito: What we're gonna I mean really in the nervous system, you have stimulus, you have a factor and you i'm sorry, you have an affront.
+11:44
+Andrew Ippolito: So, like the signal comes in, then you process it and think about it, and then you return an effective response, so the after and pathway, the processing and the effort pathway.
+11:54
+Andrew Ippolito: And so that's the response it's not necessarily there's the feedback loop happens like when you shiver right you get cold you shiver shivering drops it increase the temperature that takes the same stimulus away that's a negative feedback loop.
+12:08
+Andrew Ippolito: Okay, so, so the endocrine system has a whole bunch of opposing hormones that give us negative feedback loops like insulin versus glucagon.
+12:15
+Andrew Ippolito: Your blood sugar goes up insulin kicks in takes the sugar out and then insulin goes away so there's there's feedback loops in all of this.
+12:23
+Andrew Ippolito: The fight or flight instinct that's that's the reason why I brought that up was that's the interface between the nervous system and the endocrine system that's one of them there's a few but in general they're very well partition.
+12:36
+Andrew Ippolito: Okay, and honestly if you, if you like, this kind of stuff but you don't really want to dig too deeply into it go to.
+12:42
+Andrew Ippolito: that's the class I taught is basic human anatomy and i'll give you all this stuff without the lab it's a three credit lecture class you'll learn all about the body in a very simple overview it's really good.
+12:52
+Andrew Ippolito: If you want, I can throw I can give you guys some of my lectures from that I taught that class a few times.
+12:59
+Andrew Ippolito: Okay, which is why I know this stuff that's why like when I first started teaching I didn't teach anatomy and physiology I didn't know any of that stuff until I started teaching it and so now, I can pull that in for you guys the majors and give you a little bit.
+13:10
+Andrew Ippolito: But here we are right and I don't know there's no such thing as a parent system, the endocrine system is historically name to take into account all cell signaling.
+13:21
+Andrew Ippolito: In the body that includes power can signal it doesn't include cell cell recognition that's everything's doing that all the time parent and different growth factors, hormones and basically anything that gets.
+13:34
+Andrew Ippolito: created from a cell, with the goal of influencing another cells behavior that's the endocrine system.
+13:45
+Andrew Ippolito: And the exception to the immune system, there are. Andrew Ippolito: signaling molecules and the immune system we don't call hormones, but we're not going there right now.
+14:00
+Andrew Ippolito: When a hormone does tell a cell what to do, there are two basic pathways that have evolved, the first they both involve a receptor okay so think of this as a ligand receptor situation, just like enzymes and substrates liggins interceptors.
+14:24
+Andrew Ippolito: If that signaling molecule is hydrophobic.
+14:29
+Andrew Ippolito: Like a steroid hormone. Andrew Ippolito: That hydrophobic molecule will freely enter into the cell freely go into the nucleus and freely find around its receptor protein.
+14:45
+Andrew Ippolito: Okay, so that's how steroids work steroid hormones so there's an estrogen receptor there's a progesterone receptor there's a testosterone receptor there's receptors these receptors are not what, in your mind thinking, the traditional here's the cell membrane and here's the receptor.
+15:03
+Andrew Ippolito: Okay, so there's two classes of receptors there's there's. Andrew Ippolito: steroid hormone receptors.
+15:11
+Andrew Ippolito: which are in the cell. Andrew Ippolito: And then there are the receptors outside on the surface of the cell and those are the ones we're going to be focused on today we're not going to cover any of this in the class other than be aware that they exist.
+15:29
+Andrew Ippolito: Okay, so basically some hormones are protein based and some hormones are lifted based.
+15:37
+Andrew Ippolito: Your book will go into more detail than my study guide will require, you have the limited based ones in particular, there are steroids, and then there are ones based more on.
+15:48
+Andrew Ippolito: A triglyceride but really fatty acid type you don't have to know the differences between those.
+15:54
+Andrew Ippolito: I want you to focus on the protein based ones. Andrew Ippolito: So so here's the secret here here's really not the secret here's the problem, how can I tell a cell to do something if i'm not getting inside.
+16:09
+Andrew Ippolito: Right these proteins are not entering into the cell but they're telling the cell to do stuff.
+16:16
+Andrew Ippolito: Think of a situation in real life, where you have people inside of a house and you're outside the House and you're not allowed inside the House, but you start to tell them what to do, how would you do that and don't think about telephones, you have no technology.
+16:32
+Andrew Ippolito: What would you do. Andrew Ippolito: walk up somebody.
+16:38
+Julia Lakchin: from outside. Andrew Ippolito: Would you say Julia. Julia Lakchin: Like signal signal to them outside.
+16:44
+Andrew Ippolito: How about like knock on the door. Andrew Ippolito: yeah yeah so let's think about that now, when you knock on the door right when you're not on somebody's door.
+16:53
+Andrew Ippolito: you're creating a sound. Andrew Ippolito: That sound is driven by your energy bop and into the door and then, on the other side.
+17:02
+Andrew Ippolito: The vibrations the seeds of wood door the vibrations from the would hit the air, the air then transfers that energy into the south, so you get the soundwave because into somebody here and they hear it somebody that the door.
+17:16
+Andrew Ippolito: Right you what's what's actually entered the House think about that what what got into the House.
+17:24
+Taylor Campbell: Energy. Andrew Ippolito: Energy yeah exactly isn't that cool like nothing actually came into the House like information did.
+17:34
+Andrew Ippolito: Right you you sent information through or percussion wave basically.
+17:39
+Andrew Ippolito: So, in the same basic way not sound waves, now the cell is going to have something knock on it like a knocking on the door and the way that works is through this process called a signal transduction pathways Okay, the word transduction.
+17:58
+Andrew Ippolito: it's it's it's kind of hard to find how to. Andrew Ippolito: Define that in English, without already knowing this stuff.
+18:07
+Andrew Ippolito: Usually, if you see like if you Google transduction on biology you'll talk all about viruses viral transduction that's how viruses send their genes into cells.
+18:17
+Andrew Ippolito: In English, the word transduction when we transducers things transducer means to basically move in move over into a different medium so, for example, you ever put your ear.
+18:28
+Andrew Ippolito: On the railroad tracks and you can hear the train coming from miles away because sound will carry through the dense metal way faster than the air, so you will hear something coming if you have your head, you know when you're on track.
+18:44
+Andrew Ippolito: Or if you put your ear gets a door you take a cup and put it against the door, you can hear people on the other side right so transduction as the idea of being with the past things across boundaries.
+18:56
+Andrew Ippolito: Different media. Andrew Ippolito: But we're gonna do is we're gonna come up with the system here we're gonna reveal the system here we're using a series of proteins bumping into each other.
+19:09
+Andrew Ippolito: that's the basic idea so here's here's the concept, you can imagine, something binding here so let's call this the primary messenger.
+19:21
+Andrew Ippolito: The primary messenger binds to the cell through a receptor very specifically.
+19:27
+Andrew Ippolito: Okay. Andrew Ippolito: Actually, actually i'm sorry guys this, this is actually.
+19:33
+Andrew Ippolito: This is supposed to be a protein, so I want you to see this this thing right here this circle that I just read that's an enzyme let's say.
+19:41
+Andrew Ippolito: And you see how that enzyme can activate not just one but multiple downstream partners that themselves are enzymes.
+19:53
+Andrew Ippolito: That themselves can now activate another bunch So do you see how I can amplify one signal into many signals very quickly.
+20:04
+Andrew Ippolito: This is called a signal cascade. Andrew Ippolito: And there's one universal mechanism this happens in every cell on earth through phosphorylation.
+20:16
+Andrew Ippolito: Right that's why I focus so much on that in the last couple of chapters this idea of phosphorylation.
+20:25
+Andrew Ippolito: Remember that phosphorylation is adding a phosphate group to a substrate.
+20:32
+Andrew Ippolito: So does anybody remember the name of the class or family of enzymes that phosphor all the things.
+20:56
+Andrew Ippolito: kinase kinase kinase. kinase is.
+21:01
+Andrew Ippolito: Our a class of protein, they are enzymes and they catalyze the transfer of a phosphate group to their substrate.
+21:10
+Andrew Ippolito: So Oh, by the way, Julia when I said that 20 Minutes that was how long it takes once the stimulus goes away and like you're not being freaked out anymore, it takes about 20 minutes to come down from that, but the adrenaline can last longer than 20 minutes.
+21:24
+Julia Lakchin: No yeah I know I was just saying that because. Andrew Ippolito: i'll tell you after class okay.
+21:31
+Andrew Ippolito: And then Tyler so the primary messenger is another way of saying yeah yeah it's another way of saying the signaling actually you would say the signaling molecule is the primary messenger the primary messengers that first thing that comes to the door and says we gotta grow or whatever.
+21:47
+Andrew Ippolito: So for our purposes they'll say the same thing I can't think of another.
+21:55
+Andrew Ippolito: i'm trying to think of an exception to this but I can't right now yeah let's say the same thing so signaling molecule primary messenger.
+22:04
+Andrew Ippolito: The reason I said primary message or we're going to learn later about the secondary messengers, and so the concept of secondary messenger makes more sense when you understand that there's a primary messenger.
+22:15
+Andrew Ippolito: Alright, so this is a kinase this would be an enzyme that fast for leads and so these all get phosphor related and then guess what these are also kinases So there you can also call this, you can see a phosphorylation cascade you can see a kindness cascade.
+22:33
+Andrew Ippolito: So i'm going to give you a real example of a class of these kinases they're called might engine, we learned that word already my attention activated.
+22:45
+Andrew Ippolito: Protein kinase and so they're called map case.
+22:54
+Andrew Ippolito: Right, so this right here let's say this is map K.
+23:01
+Andrew Ippolito: The kindness that phosphor ELISE map K is called map kk that's a map kinase kinase.
+23:10
+Andrew Ippolito: And then, this primary one up here is map KKK this is map kinase kinase kinase and we do actually named them this way.
+23:21
+Andrew Ippolito: Those aren't names of specific ones, those are classes right like like we learned about nucleus is or protein cases their specific Those are just broad categories alright, so this is a subcategory of kinases my agent activated.
+23:42
+Andrew Ippolito: So one really liked the name of one would be irk.
+23:48
+Andrew Ippolito: E rk it was like one or two those are the names of the actual proteins and we're not going this now we're getting to molecular biology and we're just stop it right now.
+24:00
+Andrew Ippolito: Alright, so that's the idea of multi step amplification signal cascade.
+24:07
+Andrew Ippolito: And I said all this already so so the reason I drew the boat imagine there's a boat in the ocean.
+24:12
+Andrew Ippolito: And there's a person there at the in the crow's nest looking out at the ocean for threats and they see a boat racing at them really fast they get on the walkie talkie or they get on the radio and they say, down to the engine room or down down to the.
+24:26
+Andrew Ippolito: Captain you know the enemy's incoming and so somebody pushes a button somewhere and the whole ship goes on alert right and iceberg now whatever we're not thinkable.
+24:41
+Andrew Ippolito: So, but think about that one person in the crow's nest is able to very rapidly they go down, they talk to another person or maybe there's three people.
+24:54
+Andrew Ippolito: That are on that same radio that all here the alert and then those three people.
+24:59
+Andrew Ippolito: All tell another three people, and then a buttons pushed somewhere in every section of the ship so everybody starts seeing the red blacks on going off the air and, and that means everybody goes to the battle stations.
+25:11
+Andrew Ippolito: Okay, so we can go from one person seeing one boat to 1000 people being activated within seconds in the cell it takes thousands of a second to do.
+25:23
+Andrew Ippolito: Okay, so single application good. Andrew Ippolito: we've already talked about phosphorylation so i'm not going to dig into the details too much here, but here are here's the slide on kinases now here's the official invocation of them.
+25:38
+Andrew Ippolito: there's protein kindnesses there's limited kinases there's carbohydrate kinases there's nuclear side kinases okay so so basically there are kinases for all the macro molecules we previously learned about you can phosphor late anything.
+25:55
+Andrew Ippolito: Okay, so examples i'm just giving you some examples here we're going to learn, and the next chapter about CD case.
+26:04
+Andrew Ippolito: By the way, start getting comfortable with the idea of alphabet soup.
+26:10
+Andrew Ippolito: there's gonna be lots of acronyms in these areas, when we learn about genes and we learn about protein names, most of the names of things in molecular biology are acronyms because otherwise they're all mouthfuls.
+26:27
+Andrew Ippolito: Right so like well learn about like so find me Dean kinase or a fastball fruit we you've seen this you saw this guy in the last chapter during the homework and that slide I told you have to study right that was one of the key enzymes regulating like calluses Bosco fruit do kinase.
+26:44
+Andrew Ippolito: But then, you see all these acronyms and we're going to see a lot of acronyms coming up.
+26:49
+Andrew Ippolito: So start to get to know them a little bit cycling will learn about that, during the cell cycle cycling's or proteins.
+26:57
+Andrew Ippolito: And so, these kinases depend on whether or not the sequence there so that's why they're called cycling dependent kindnesses and they're actually the ones that drive the cell cycle as we'll see in a bit.
+27:09
+Okay. Andrew Ippolito: Any questions yeah. Alexa Deprisco: So, like the carbohydrate kinase.
+27:16
+Andrew Ippolito: Oh no I can't hear you. Andrew Ippolito: Oh, oh wait. Andrew Ippolito: hold on one second.
+27:21
+Andrew Ippolito: I have to turn this back on i'm so tired take that knowledge, you know this thing just randomly shut off, you know it's plugged in.
+27:31
+Andrew Ippolito: Okay it's got a little droid lights on come on.
+27:41
+Andrew Ippolito: Okay, should be able to hear now. Alexa Deprisco: Can you hear me now. Alexa Deprisco: Yes, like the commercial Okay, so these that you have listed here protein kinase kinase is what i'm So these are all classes of enzymes that would phosphor ELISE that specific macro molecule.
+28:00
+Andrew Ippolito: they're not named after their. Andrew Ippolito: target they're named after.
+28:06
+Andrew Ippolito: Their either what makes them turn on or the pathway they're involved in not their downstream like we're used to like everything we've talked about to this point in the semester we talked about the names of enzymes is their downstream target.
+28:22
+Andrew Ippolito: Right in this case a cycle independent Chinese doesn't phosphor ELISE cycling's it actually.
+28:30
+Andrew Ippolito: Has. Andrew Ippolito: A whole bunch of downstream targets.
+28:35
+Andrew Ippolito: Okay, so one thing that we're going to learn as we move forward. Andrew Ippolito: Is this idea, but actually what we're learning right now what you're starting to get an inkling of this is for everybody, not just Alexis everybody listen to this is very important.
+28:48
+Andrew Ippolito: When you're starting to run the secrets of how cells really work that's what molecular biology is all about okay.
+28:57
+Andrew Ippolito: Genes make proteins proteins do everything and.
+29:03
+Andrew Ippolito: Everything is driven by gene control. Andrew Ippolito: And genes are controlled by proteins not enzymes necessarily there's all sorts of stuff that I haven't even begun to teach you.
+29:14
+Andrew Ippolito: One would be called a transcription factor it binds to DNA and it turns the gene on like little little switches those things get activated by kinases it gets complicated.
+29:25
+Andrew Ippolito: And we're not going to go too deep down the rabbit holes, but to just kind of what the appetite here, these kinases have many downstream effects.
+29:35
+Andrew Ippolito: Not just one it's not like this thing breaks DNA it's more like this kindness phosphorylation this transcription factor that turns on that transcription factor and also turns off this transcription factor it's a web of things.
+29:49
+Andrew Ippolito: And that's the complexity it's kind of amazing. Andrew Ippolito: So when you're learning these things learn their jobs.
+29:57
+Andrew Ippolito: Why they're they're what they're doing not what they're fast for our lady necessarily but why they're there what what pathway are the controlling.
+30:08
+Andrew Ippolito: CD case control the cell cycle. Andrew Ippolito: Okay map ks activate pathways they have downstream consequences.
+30:17
+Andrew Ippolito: Maybe the cells going to start shedding glucose as a response, maybe it's going to start going through cell division, maybe it's going to turn a few genes on to make a hormone everything that sells do everything in biology so literally everything in biology drills down to these concepts.
+30:37
+Andrew Ippolito: This probably the most important thing you learned this semester, and yes i'm a little slant that i'm a molecular biologist but, really, this is the core of it all.
+30:47
+Andrew Ippolito: Right. Andrew Ippolito: Where you see the bottom say kindness, is there a fundamental part of all cellular control mechanisms they are universal.
+30:56
+Andrew Ippolito: And they are found in all cells, there is not a single species of a single weirdo bacterium our protein that does not use cases literally every cell on earth that we've ever looked at uses cases that this is as fundamental as the protein itself or DNA.
+31:17
+Andrew Ippolito: Okay alright. Andrew Ippolito: So here's the cartoony version of a signal pathway there's three basic steps to how they work, the first step is the signaling molecule binds to the receptor and the process called reception.
+31:32
+Andrew Ippolito: The second part is that complex web of activation that cascade we collectively just called the transduction step.
+31:40
+Andrew Ippolito: And that's carried out by a series of relay molecules that can relay race passing the baton down right.
+31:47
+Andrew Ippolito: But imagine instead of passing the baton down the baton you tap imagine there's five people lined up frozen one person runs up to them and taps them all the same time, and they all go and then those five top five more people and, eventually, you have an entire army running forward.
+32:04
+Andrew Ippolito: And then, at the end of it, you have the response, this is generic. Andrew Ippolito: It can be so many things go ahead Taylor.
+32:12
+Taylor Campbell: So it goes it kind of like you know how. Taylor Campbell: Do you lean on the one motorcycle and then you knock down everybody's motorcycles.
+32:21
+Andrew Ippolito: TIM talking yeah, then the people at the end, the. Taylor Campbell: dominoes yeah.
+32:27
+Andrew Ippolito: And the right at the end of it there's a goddess angry. Andrew Ippolito: that's a faster response.
+32:32
+Andrew Ippolito: I like that yeah. Taylor Campbell: i'm trying to like visualize this that's a good visualization I like that the other.
+32:39
+Andrew Ippolito: The other would just going along with that idea. Andrew Ippolito: Think of the end of the dominoes it knocks like a little marble that goes down a little slow that goes and does something fun right that idea of one thing bumping into another thing bumping into another thing that's what this is.
+32:51
+Andrew Ippolito: And so, this response can be many different things, what I do in my head as just I always assume it has something to do with a gene being turned on or a gene being turned off or a bunch of genes being turned on and off it's not always gene regulation but that's that's a big one.
+33:12
+Andrew Ippolito: And so here read page in your book and I don't know if your electronic book doesn't have page numbers I don't know just the three stages of cell signaling a preview that's a really nice paragraph that explains this succinctly.
+33:26
+Okay. Andrew Ippolito: So here's my these are study notes on that everything I just said, basically, but or want to add to this, you see how at each step the signal is transducer into a different form usually a shape change in a protein.
+33:43
+Andrew Ippolito: Alright, so when we first formally things you can imagine it's changing the shape of it, so now it's going to be more likely to do something that might not have previously.
+33:55
+Andrew Ippolito: Okay.
+34:01
+Andrew Ippolito: When, so we have the signaling molecule so here so Tyler there's actually there's three words, you can associate you got primary messenger signaling molecule ligon okay generically the word ligand is used whenever we have a receptor.
+34:15
+Andrew Ippolito: Okay, so there are other types of liggins besides signaling molecules but that's that's the general idea.
+34:23
+Andrew Ippolito: When a ligand binds to the receptor you would say it's cognitive receptor there's another new word for you.
+34:31
+Andrew Ippolito: that's the one that's meant for so you would say the ligand has a cognitive receptor not that receptor this receptor its cognitive is over okay.
+34:40
+Andrew Ippolito: That causes a change in the shape of the receptor so here's the simplest way to think of the receptor itself let's talk about the receptor for two seconds here's the cell membrane.
+34:53
+Andrew Ippolito: Okay, and here let's let's think about this, like a traditional trans membrane protein 123123456 must see it has.
+35:05
+Andrew Ippolito: Many passes. Andrew Ippolito: 1234567 Okay, now we So you see here's the end terminus there's a C terminus number polly peptide chains and all that right okay so collectively this region of the protein here we're gonna call this the extra cellular domain.
+35:32
+Andrew Ippolito: In here, we would have what's called the Trans membrane.
+35:38
+Andrew Ippolito: domain. Andrew Ippolito: And then in here, we would have the intro cellular.
+35:46
+Andrew Ippolito: domain. Andrew Ippolito: So the login binds to the extracellular domain, causing a sheep change to the intracellular domain, which is going to make it more or less likely to do something that's going to be differential there's gonna be some differential some difference to it.
+36:04
+Andrew Ippolito: Okay, so the cartoony version of this now that you see that the cartoony version would be something more like this, and maybe even put a little circle here right extracellular domain.
+36:19
+Andrew Ippolito: Here trans membrane domain intracellular domain. Andrew Ippolito: So you can imagine there's a peripheral protein next door to it that dormant that when the ligand binds it changes the shape the intracellular domain does something to the peripheral protein maybe it kicks it off, and now you have a process.
+36:41
+Andrew Ippolito: Okay.
+36:50
+Andrew Ippolito: It turns out evolution has given you karaoke three basic universal schemas or.
+36:57
+Andrew Ippolito: strategies for these kinds of cascades we're going to learn about three of them, but we're only going to focus on one there's going to be a single detailed pathway, I want you to know about.
+37:08
+Andrew Ippolito: And you're going to learn the details of it, just like you learn the details a photo system photosynthesis linear.
+37:14
+Andrew Ippolito: electron flow or the detailed steps of cell respiration there's going to be the details of Sub G protein couple of receptors that's why that's in yellow on this slide.
+37:23
+Andrew Ippolito: be aware of the other two but we're not going to dig into their mechanisms So here we go the first class of signal transduction receptors are called receptor terracing kinases.
+37:38
+Andrew Ippolito: Okay tire seen does anybody know what tire scene is or remember. Andrew Ippolito: you've seen that word before it's one of 20 of the amino acids that make proteins up.
+37:53
+Andrew Ippolito: Remember amino acids nigga proteins so so receptor tire seen kinases these are receptors that are also kinases.
+38:04
+Andrew Ippolito: So this receptor has excuse me this receptor has kindness activity.
+38:10
+Andrew Ippolito: Specifically, its target. Andrew Ippolito: i'm sorry it is activated by its tyra scenes being bus formulated by itself so with auto phosphor ELISE if you look at the picture here, there is a pair of these so here's one, these are called RT case so here's an RT K and here's an article.
+38:32
+Andrew Ippolito: You can see the signaling molecule binds to the extracellular domain to its binding site all right, two of them bind what happens is you get what's called diarization the proteins come together to form an active dimer that's just coronary structure now.
+38:55
+Andrew Ippolito: This dime merrick activated receptor Tarzan kinase well then phosphor ELISE itself one more phosphor ELISE the other So you see here we're giving you six https.
+39:08
+Andrew Ippolito: And now all six you see that tyr those are the amino acids tyrese or that seminars entire scene there's six of them so each one of those piracy is gets us formulated.
+39:19
+Andrew Ippolito: And now you have an active receptor and that active receptor can now go and do all sorts of stuff you see the really protein, it makes it active.
+39:33
+Andrew Ippolito: And that's as detailed as we're going to get. Andrew Ippolito: These are typically associated when they get mutated with certain kinds of cancers.
+39:44
+Andrew Ippolito: And you're going to now i'm now going to be able to start to teach you intelligently about cancer okay cancer at its heart is a disease.
+39:52
+Andrew Ippolito: of unchecked growth cancer cells grow when they're not supposed to and they don't die when they're told to okay so it's a lot more complicated than you've probably learned in your past it's not just about growth is about growth and not dying.
+40:09
+Andrew Ippolito: And so, one of the basic mechanisms of carcinogenesis is mutations that affect these kinds of pathways you go from a pathway, that is, naturally dormant unless you tell it to turn on.
+40:24
+Andrew Ippolito: The mutation occurs where they're now signaling downstream, even if there's no ligon if there's no mileage and it's called might agenda independent growth.
+40:40
+Andrew Ippolito: Think about a machine that has a button on it that you have to hold down so think about your refrigerator when you open your refrigerator and the lights go on right you got that button in there when you close it the button gets pushed.
+40:53
+Andrew Ippolito: Right and I turned it off, so you can imagine let's say that, like somebody spilled some syrup in there something that's sticky so you open the door and the light stays off because that button stuck.
+41:04
+Andrew Ippolito: That would be an example of that's called a loss of function mutation actually, that would be when it's broken.
+41:10
+Andrew Ippolito: OK, so now imagine the same button is stuck in the opposition, so, even if you close the refrigerator the buttons days on.
+41:18
+Andrew Ippolito: All right, so you no longer have a way of regulating it it's always on that's, the key to understanding mutations in cancer that cause things to grow when they're not supposed to.
+41:28
+Andrew Ippolito: And that's it that's our tk. Andrew Ippolito: The next class is a little easier because you have this concept already have a channel protein, the idea of just flooding the cell at ions downhill Member, we talked about it earlier today facilitated transport.
+41:42
+Andrew Ippolito: The idea of allowing an eye on to freely enter across the membrane going downhill now just add to that an ID card right or a button, so the idea is is the Channel can open and close depending on whether or not the signaling molecule is bound to it.
+41:59
+Andrew Ippolito: So take the idea of a receptor and merge that idea with the idea of a channel protein and now you have what's called an eye on gate or ligon gated a ligand gated Ion channel.
+42:12
+Andrew Ippolito: Right you push you you put the signaling molecule in the hole, and then the Channel opens and when the login comes out it closes again.
+42:21
+Andrew Ippolito: And that's it that's literally all say about it examples of that would be things for sodium or calcium.
+42:28
+Andrew Ippolito: monkey so ligand gated calcium receptors login gated sodium channels.
+42:34
+Andrew Ippolito: You can you can imagine, now a hormone might control that.
+42:40
+Andrew Ippolito: If that's a hormone now the cells getting saltier.
+42:46
+Okay. Andrew Ippolito: Now this is the important one, and this is the one you should really pay attention to.
+42:55
+Andrew Ippolito: So i'll break the name down right away, there are a class of proteins called G proteins.
+43:01
+Andrew Ippolito: Okay, the reason they're called G proteins is because they use GDP remember ATP okay GDP that's what the GM GDP is they are activated by GDP if we remember GDP is producing the Krebs cycle.
+43:21
+Andrew Ippolito: And usually it's converted to an NTP. Andrew Ippolito: You can see GDP as a much, much stronger molecule than ATP.
+43:33
+Andrew Ippolito: it's like three times more energetic. Andrew Ippolito: So so it's an expensive molecule you can imagine a cell has to really be rich in energy in order to use this stuff, and this is used in all your carrier's.
+43:50
+Andrew Ippolito: Part of the cost of being so complicated. Andrew Ippolito: Okay, so G protein that's what a G protein is now we have receptors that are activated by God, and so we have G protein coupled receptors and that's where the name comes from gpc RS a GP car is a receptor that can be activated by the GP.
+44:16
+Andrew Ippolito: or I should say I haven't got the cart before the horse, I should say that it's coupled not activated so, in other words the receptor converts the G protein from a dormant state to inactive state right which makes sense, we got a ligand coming in to do something.
+44:34
+Andrew Ippolito: So here, look at forget the words and look at the picture right now.
+44:39
+Andrew Ippolito: Right let's look at this first picture here, so there is a membrane protein and integral membrane protein, this is one that I remember when I just due to the seven spans.
+44:48
+Andrew Ippolito: Like time to say seven there that's because these things that you have to know have seven spans they're all the same, in that sense there's a highly there a highly conserved family of proteins, they all kind of look the same.
+45:03
+Andrew Ippolito: And the extracellular domain has a binding site for a ligand. Andrew Ippolito: Okay, so he So this is the GP car right there that's the G protein coupled receptor okay this.
+45:17
+Andrew Ippolito: Teal colored thing that's the inactive G protein so that's nurses peripheral peripheral protein and it's currently bound to GDP, remember that ATP and a dp right triphosphate di phosphate this is going die philosophy.
+45:35
+Andrew Ippolito: Quantity anti philosophy. Andrew Ippolito: And then we got some enzymes generic right just because there's there are dozens of these different pathways So this is the generic version.
+45:48
+Andrew Ippolito: What we're gonna do in this, so this next picture here is we're going to bind the signaling molecule to the G protein couple of receptor.
+45:55
+Andrew Ippolito: That is going to instigate the G protein losing its GDP, so it associates GDP gets dropped off and in its place, a G tp comes in, so it allows it to swap out an old battery for a new battery.
+46:13
+Andrew Ippolito: that's the way to think of it. Andrew Ippolito: Okay, so now we have an active G protein.
+46:22
+Andrew Ippolito: The active G protein once it's activated goes in does its thing and what it does, it will activate some enzyme.
+46:32
+Andrew Ippolito: That will then go in cause some cellular response.
+46:40
+Andrew Ippolito: And then to turn it off see here the p that's the inorganic phosphate dissociating so when you first for lead, something you can also undo that.
+46:52
+Andrew Ippolito: Okay, sometimes there's an enzyme that will do that and i'm going to give you the name for the opposite of a kinase so kinases are opposed.
+47:01
+Andrew Ippolito: By things, called phosphate cases.
+47:07
+Andrew Ippolito: Okay, these are opposing force enzymes kinases add phosphates possibilities is remove foss foss feeds.
+47:15
+Andrew Ippolito: So, have a kindness activate something the possibilities inactivity it's it it's a way of turning things off again.
+47:23
+Andrew Ippolito: On off particularly difficult for elite.
+47:36
+Andrew Ippolito: Okay, sometimes the phosphate will associate naturally it'll just fall off.
+47:48
+Andrew Ippolito: right back to our slide.
+47:54
+Alexis Micewski: and Andrew Ippolito: yeah. Alexis Micewski: I have a question just step two so unlike ATP GDP isn't turned into GDP it's just removed.
+48:05
+Andrew Ippolito: Well, so no, no, there, there is.
+48:10
+Andrew Ippolito: There is a let's call it the GDP cycle, because we learned about the ATP cycle it's just not a universal energy mechanism it's specific to certain things in the cell, and this is one of those things is specific to so in this case.
+48:25
+Andrew Ippolito: Yes, they do so this GDP where's my house this GDP will fall away, and then it will be taken into a situation where it gets us for later to get and comes back as GDP.
+48:37
+Andrew Ippolito: Okay, it just doesn't have that happen on the G protein. Andrew Ippolito: All right, good good question.
+48:44
+Taela Shahid: I have a question about. Taela Shahid: um so once the enzyme gets activated because they have to go to transduction first or visitor.
+48:53
+Andrew Ippolito: Oh that's a great question so actually you'll see i'll tell you what i'll jump ahead, really. Andrew Ippolito: quick. Andrew Ippolito: Just to show you.
+49:03
+Andrew Ippolito: Okay, this is this I just jumped ahead, this is what you're going to this is your specific case study.
+49:10
+Andrew Ippolito: Alright So here we have a G protein coupled receptor that binds to the G protein, and so the ends the first enzyme it activates is called a dental they'll cyclists so here's a dental Cyclades what a dental a cyclist does is it takes ATP.
+49:25
+Andrew Ippolito: And it converts it to cyclic am P so there's your secondary messenger a secondary messengers a small easily to fusible molecule that can go throughout the cell and spread its word.
+49:37
+Andrew Ippolito: So in this case the dental cyclists get stimulated to start producing a bunch of cyclic amp lots and lots of it that cyclic a MP it's downstream target is another kinase called it's got a boring name protein kinase a.
+49:56
+Andrew Ippolito: And at that point protein kinase a is actually one of these sorts of.
+50:03
+Andrew Ippolito: crossroads, it depends on the cell we're in the organism we're in the genes that are on this, the cell response down here can be many, many different things.
+50:16
+Andrew Ippolito: So, think of this as a modular component, you can swap in like an engineering, you might buy a little self contained kit that lets you connected to bluetooth and turn things on and off, and if you, you can attach that to any machine you want.
+50:30
+Andrew Ippolito: Alright, so this this basic. Andrew Ippolito: The G protein coupled receptor G protein and dental cyclists cyclic amp P protein kinase a that whole thing.
+50:42
+Andrew Ippolito: You can bolt that on to many different situations and have many possible downstream consequences, so the enzyme in the generic welcome back to this, but so let's go back now to where we were earlier.
+50:59
+Andrew Ippolito: The enzyme here when we say enzyme this is generic and it will investigate that relay molecule situation it is it's itself not part of it, but it starts it.
+51:10
+All right, good. Andrew Ippolito: You know what let's let's say it is part of its the first part of it, because it does create a whole bunch of cyclic amp.
+51:20
+Andrew Ippolito: And then eventually something shuts it off some faster paced comes along and inactive beats it okay.
+51:26
+Andrew Ippolito: or any other questions. Andrew Ippolito: All right, and you'll see here to 1234567 it's always seven that's G proteins i'm sorry that's gpc.
+51:39
+Julia Lakchin: This might be a stupid question, but what is that for like. Julia Lakchin: Like for what process.
+51:46
+Andrew Ippolito: Many processes so one one example would be when your liver me and it's what your book uses when your liver needs to suddenly release a lot of sugar like during.
+51:58
+Andrew Ippolito: An adrenaline surge like the fight or flight instinct right, you need to pump a whole bunch of sugar into your bloods you can have energy to run or fight.
+52:12
+Andrew Ippolito: Here so here she response, this is your like what's it for here's the response right you see glycogen glycogen remember glaciers in your liver it's that polly saccharine glucose so there's an enzyme called glycogen phosphor ELISE.
+52:28
+Andrew Ippolito: That it will ultimately activated enzyme that will start popping glucose off this chain and releasing them into your blood.
+52:36
+Andrew Ippolito: And notice that we go from a single molecule of adrenaline.
+52:41
+Andrew Ippolito: To 100,000 active enzymes.
+52:47
+Andrew Ippolito: Okay, so this is one example of when it's used there are many others, but this is the general idea.
+52:54
+Andrew Ippolito: Okay, my first class in Grad school was was a class that basically was a tour of.
+53:04
+Andrew Ippolito: Dozens of different single in cascades and modeling cancer so there's like this, this idea of you know, a going to be going to see going to do there's there's a whole.
+53:15
+Andrew Ippolito: website i'll show you later bye next time. Andrew Ippolito: That catalogs all these it's called the interactive them.
+53:26
+Andrew Ippolito: Okay, so no that's a great question so so here's the thing guys you're gonna right now in this moment in time you're learning.
+53:34
+Andrew Ippolito: principles, not necessarily the specifics, and so it is, I remember being there, I remember thinking like well what's this for what are we doing with it, the answer that is lots of things that it's not important right now.
+53:47
+Andrew Ippolito: it's ambiguous so think instead of the concept we trigger a cell to turn on to do, do something.
+53:58
+Andrew Ippolito: Okay, so here's here's a picture of what the gpc are actually looks like in So this is the beta two.
+54:04
+Andrew Ippolito: and energetic receptor, this is the the the adrenaline receptor basically. Andrew Ippolito: me see there's two of them here there's one here there's one here and that's our stuff is cluster on the memory, so this is actually the the real complex, and you can kind of see how the sticking up here.
+54:20
+Andrew Ippolito: that's that's where the reception occurs, and you can see down here there are these regions that will be activated or that will interact with the G pretty.
+54:31
+Andrew Ippolito: Okay, you see all the Alpha jealousies, so this is a great you can see, the primary the primary structure, if we pull all the sound like did the amino acids.
+54:38
+Andrew Ippolito: Right this here's some secondary structures here there's some alpha Ulysses and then here would be the tertiary structure and then this whole thing would be the cautionary structure.
+54:52
+Andrew Ippolito: All right now the rest of this stuff here we go here's the website.
+55:02
+Andrew Ippolito: it's called this is called the reactive.
+55:08
+there.
+55:14
+Andrew Ippolito: Alright, so here i'm not going to actually show you the react to them, this is the website, so this is something researchers use frequently let's look at the so you guys can see my screen okay let's let you click on pathway browser.
+55:36
+Andrew Ippolito: This is the rabbit hole watch this I can zoom in here.
+55:42
+Andrew Ippolito: there's glucose metabolism, this is going to show me all the pathways there's like calluses so look at look on the left here here are all the enzymes.
+55:52
+Andrew Ippolito: associate with like college, this is the regulation of like causes. Andrew Ippolito: Here here are the circuit diagrams this is molecular biology, that this is the difference between molecular biology and biochemistry.
+56:03
+Andrew Ippolito: biochemistry would be dealing with the actual interactions molecular biology focuses on the interplay and interactions between things and basically building the wiring like understanding the circuits.
+56:16
+Andrew Ippolito: Okay, and so, when you look at these kinds of diagrams these universal things you see you see this hour right here, these when you see that line there that's inhibitory whereas when you see an arrow that's positive.
+56:29
+Andrew Ippolito: Okay, so this would tell us, whatever fruit one of us probably like fructose one phosphate will inhibit whatever this is.
+56:37
+Andrew Ippolito: This will activate this this will activate that it's a web this and it's insanely complicated alright, so if I zoom all the way out here.
+56:49
+Andrew Ippolito: So let's go all the way back to the root here.
+56:55
+Andrew Ippolito: i'm here see signal transduction so here's the root of signal transduction and if we zoom into this.
+57:03
+Andrew Ippolito: Here you go signaling by receptor piracy kinases we just learned about those right and so let's look all the way down here signaling by this is a platelet derived growth factor.
+57:14
+Andrew Ippolito: So you see all the you see the alphabet soup now you're starting to get that Okay, I mean I can sit here right now and for an hour I can just rattle off various acronyms and what their names are.
+57:24
+Andrew Ippolito: that's how many there are there's so many of them it's disgusting I might not be able to do it as well anymore it's been a couple years but right, but you see this they're all these acronyms here.
+57:35
+Andrew Ippolito: Okay signaling by these are all five, these are fiberglass growth factors.
+57:41
+Andrew Ippolito: there's herbs Okay, so this is all I don't know it's i'm like tilting my head, so I can read this stuff so some of the things we're learning about will be here.
+57:53
+Andrew Ippolito: In addition to a whole bunch of other things right now, this is interesting what's this if I click here ah OK.
+58:00
+Andrew Ippolito: You see math there's map case there is your map kinases there's an APP K right there.
+58:07
+Andrew Ippolito: Ras. Andrew Ippolito: Is a protein, that is a G protein.
+58:13
+Andrew Ippolito: So rass an example of a G protein you see this signaling by gpc ours here's a GP car Okay, this is fast food like pacey that's a lipid boss lipid kinase.
+58:27
+Andrew Ippolito: Okay, so these, the reason why we have all this, the reason why we dig into this by understanding the circuits of cells, we understand cancer.
+58:36
+Andrew Ippolito: Cancer is the bottom line to all this research funding it's all about cancer research right you see how all these arrows come into the nucleus easy gene expression.
+58:47
+Andrew Ippolito: Right, all these arrows from the top coming down, you can trace all of this, you can funnel it all down to the nucleus every single arrow pathway, this is a means, basically.
+59:00
+Andrew Ippolito: Okay, so if you want to just go and play in this website just cruise around and play it's it's really it's kind of fun and some of the names are ridiculous like hedgehog.
+59:11
+Andrew Ippolito: yeah so so generally when you see ridiculous names of genes it's probably named by address SAFA researcher people who study fruit flies fruit flies are a model organism for studying genetic complexity and so they'll name and.
+59:27
+Andrew Ippolito: The earliest researchers had to start coming up with the names of phenotypes like oh look, this is a meeting fly that has really we're looking wings and they call them dumpy wings.
+59:38
+Andrew Ippolito: And I think that just started this whole inside joke forever all these ridiculous names and just awful oh man there's like son of seven.
+59:46
+Andrew Ippolito: motherless saxophone there's all sorts of hedgehog there's all these if it's got a weird name is probably from it was originally discovered into software.
+59:56
+Andrew Ippolito: And so we have houma locks on the logs are genes that look like the genes and the other organisms that have an evolutionary route that came from a common ancestor.
+1:00:04
+Andrew Ippolito: that's the idea, like so the genes that we study in mice, for example, we can translate a lot of those molecular mechanisms back to humans.
+1:00:13
+Andrew Ippolito: Because we can we have the same genes that might have we have we have 86% identical genes as mice are genomes or 86% identical to mine.
+1:00:22
+Andrew Ippolito: Which is alarmingly high if you think about that right, I mean a little mouse that we trapped in our basement and kill because they're rodin's like they're your cousin.
+1:00:37
+Andrew Ippolito: So so Tyler I asked you don't have to answer this India but can the gpc RD nature, when one has a fever, yes yeah absolutely.
+1:00:46
+Andrew Ippolito: that's probably so, so I would say that one of the dangers of when you have a fever, the most dangerous situations or the situation occurs probably on the surface of the cells first right, that would be the one that's most at risk for the damage.
+1:01:01
+Andrew Ippolito: yeah they are honest, so any anytime you have like the complexity go back to the slide now.
+1:01:08
+back to the slides here. Andrew Ippolito: Did I.
+1:01:16
+Andrew Ippolito: hold on, let me do a new share here PowerPoint.
+1:01:24
+Andrew Ippolito: Okay, can you see my PowerPoint again. Andrew Ippolito: No.
+1:01:39
+Andrew Ippolito: Okay, oh that's that's because I have to minimize that there we go.
+1:01:44
+Andrew Ippolito: Now, can you see it. Andrew Ippolito: No.
+1:01:50
+Andrew Ippolito: Okay something's alarming here oh screen that's why resume share oh that's weird.
+1:01:57
+Andrew Ippolito: Okay, now, you can see it Okay, and I have darn it I hit escape.
+1:02:03
+Andrew Ippolito: I have to turn. Andrew Ippolito: off my.
+1:02:13
+There we go.
+1:02:19
+Andrew Ippolito: Can you see it now. Andrew Ippolito: So here whenever you have a really, really delicate complexity folded protein like this, they are very fragile.
+1:02:29
+Andrew Ippolito: there's a whole class of proteins called heat shock proteins heat shock proteins get activated in response to heat, as you can imagine, and their job is to basically swarm the delicate proteins and protect them.
+1:02:39
+Andrew Ippolito: In the same way, like iron man's Armor protects iron man when he calls to it right get all swarms on to him and now he's our man so heat shock proteins kind of do the same thing.
+1:02:49
+Andrew Ippolito: Okay. Andrew Ippolito: Alright So here we go here we go i'm.
+1:02:57
+Andrew Ippolito: already told you about this there's your foster cases right, so this idea of universal control.
+1:03:04
+Andrew Ippolito: and Andrew Ippolito: We have this thing called the phosphorylation cascade so here let's just pull this diagram apart really quick this this is generic not specific.
+1:03:13
+Andrew Ippolito: ready i'm going to watch, so you can watch this later if you want i'll go slow here here's the G protein couple of receptor binding to the signaling molecule, in turn, you have a really molecule activated that would be the G protein.
+1:03:27
+Andrew Ippolito: The G proteins job is to take an inactive protein kinase and activate it and so now we have this active protein kinase that will, in turn, take ATP and activate another one.
+1:03:42
+Andrew Ippolito: Okay, and so this activated protein now can finally go and activate some downstream effects, so this final notice that this protein of the purple one here notice that that's not a kinase now it's shaped differently, and just as active protein.
+1:04:02
+Andrew Ippolito: That would be, for example, a transcription factor or transcription factor is a protein that turns genes.
+1:04:11
+Okay. Andrew Ippolito: That could also be maybe acting or turbulence or one of the many other approaches we've talked about earlier alright see you later.
+1:04:23
+Andrew Ippolito: Okay now so here's here's why this I wanted to walk through this see this PP here that's a protein phosphate piece notice what it's doing it's ripping the phosphate off and it's returning the act of kindness into an inactive state, so this is the way to shut the whole system down again.
+1:04:43
+Andrew Ippolito: And the only place in biology, you can see pee pee out loud. Andrew Ippolito: And not giggle too late.
+1:04:54
+Andrew Ippolito: toilet humor really as the bottom of the barrel of the schumer land.
+1:04:59
+Andrew Ippolito: Anyway, right makes sense, makes sense. Andrew Ippolito: Okay, so here here's the deal, this is from your book, and so I want you to start getting a sense now the numbers, the scale, the numbers alright so tend to the two right, that would be 100.
+1:05:16
+Andrew Ippolito: And then tend to the four. Andrew Ippolito: That would be 10,000 right, so we go from one molecule activating 100 those hundred g proteins activate 100 dental side places those hundred dental cyclists each phosphor late 1000 sickly game PS.
+1:05:34
+Andrew Ippolito: ATP discipline campy and then from there, those thousand act i'm sorry those 10,000 activate 10,000 protein.
+1:05:41
+Andrew Ippolito: The protein kinase say.
+1:05:47
+Andrew Ippolito: let's talk about cyclic MP for a second. Andrew Ippolito: there's a class of molecule called a secondary messenger these, so this is a functional class of molecule in cells it's a specific.
+1:05:59
+Andrew Ippolito: thing for cells and how they talk to each other, so this isn't. Andrew Ippolito: A category like kinase or protein, this is some, this is a functionally defined group of molecules and they're important because they allow a rapid.
+1:06:15
+Andrew Ippolito: Communication to occur because they're small they're not proteins their water soluble and they can spread throughout the entire cell from diffusion.
+1:06:26
+Andrew Ippolito: Okay, and so the two main ones that you learn about in traditional classes this cyclical MP and calcium.
+1:06:35
+Andrew Ippolito: we're going to focus on cyclic amp D we're not going to do the calcium Okay, because, again we just don't have time.
+1:06:44
+Andrew Ippolito: You take ATP. Andrew Ippolito: You remove a pair of the phosphates now so we're not using ATP too fast for lay things right now, this is another use of ATP we're gonna chop off.
+1:06:57
+Andrew Ippolito: Two phosphates this molecule here this double phosphate This is called pyro phosphate.
+1:07:04
+Andrew Ippolito: And that says other uses and other parts of the metabolism we're not going to focus on and then what we're gonna do is we're going to attach this phosphate that's remaining on to it.
+1:07:14
+Andrew Ippolito: To that three prime hydroxyl group that we've previously learned about so again if we remember when we draw the ribosome backbone.
+1:07:23
+Andrew Ippolito: Right here's the phosphate we talked about this oh each group right here we're just going to link these together that's the cyclical part of cyclicality.
+1:07:33
+Andrew Ippolito: Okay, so this molecule now serves. Andrew Ippolito: to bind to say Alice Derek sites hold on one second guys.
+1:07:43
+i'm just.
+1:08:11
+Andrew Ippolito: i'm back. Andrew Ippolito: Alright, so right this molecule when it's done being made can go through the cell diffuse and then there are protein there's various proteins that combined to this.
+1:08:24
+Andrew Ippolito: One of those proteins that's activated by this is protein kinase.
+1:08:30
+Andrew Ippolito: Okay, now the enzyme that does this that takes ATP and makes it into camp is called a dental Cyclades or AC.
+1:08:41
+Andrew Ippolito: Okay. Andrew Ippolito: All right. Andrew Ippolito: This is all you can read this said it already so here's pk.
+1:08:50
+Andrew Ippolito: Right there's pk pk be there's a whole bunch of protein kindnesses with single letter names pk is the one I want you to know, and this is just a, this is the principal downstream effect or molecule of the gpc yours.
+1:09:03
+Andrew Ippolito: Alright, so you see its function at phosphor ELISE various other proteins.
+1:09:10
+Andrew Ippolito: It depends on where it is and what's going on OK, so its context dependent.
+1:09:19
+Andrew Ippolito: in humans, this is a fundamental protein to our metabolism Okay, this allows us to regulate our homeostatic control of sugar.
+1:09:31
+Andrew Ippolito: that's the basic idea okay.
+1:09:38
+Andrew Ippolito: Alright let's see so this slide just generically talks about the cell response step three great response to external signals can happen in many ways, one of the most fundamental ways, as I said earlier, is by changing the way genes are turned on and off.
+1:09:50
+Andrew Ippolito: Some responses are more immediate though alright so, for example, let's say that you want to tell a.
+1:09:58
+Andrew Ippolito: soul some immune cells spewed dangerous chemicals and for the environment to kill bacteria unless you want them to do that this would be.
+1:10:07
+Andrew Ippolito: The downstream effects in that case alright so basically anything that you want to tell a cell to do, can be thought of as this downstream cell response.
+1:10:17
+Andrew Ippolito: In the next chapter we're gonna learn how we're going to tell cells hey start growing go through mitosis go through the cell cycle and go through mitosis.
+1:10:28
+Andrew Ippolito: Okay alright. Andrew Ippolito: So, again ready gpc are you going to know this is going to be quiz questions you know me test questions on this will burn this into your head.
+1:10:38
+Andrew Ippolito: g protein couple receptor activates the G protein which activates the downloads Cyclades which which takes ATP and makes it cyclical MP, which is that's the secondary messenger So you can see here.
+1:10:51
+Andrew Ippolito: here's the primary messenger there is a secondary messenger and then the cyclic MP activates protein kinase.
+1:10:59
+Andrew Ippolito: And then, many things can happen from there.
+1:11:07
+Andrew Ippolito: So here is one example of the downstream pathway after pk so here's protein kinase a.
+1:11:16
+Andrew Ippolito: In this case, so in our insulin response i'm sorry in our in our glucose activation response we're going to take protein kinase a and we're going to us formulate another protein called phosphor ELISE kinase.
+1:11:32
+Andrew Ippolito: which in turn will activate glycogen phosphor always.
+1:11:37
+Andrew Ippolito: In glycogen phosphor ELISE removes a phosphate group from glucose in glycogen and that's what causes it to dissociate.
+1:11:47
+Andrew Ippolito: Okay. Andrew Ippolito: I want you to focus on this part to get into your head, I want you to know up to protein kinase say you don't have to memorize phosphor ELISE kinase and glycogen phosphor ELISE.
+1:12:00
+Andrew Ippolito: But this is really Julia, this is the direct answer to your original question about like what's an example of one we could actually use this and this happens in your liver.
+1:12:09
+Okay. Andrew Ippolito: Excuse me, yes, so even remember the amounts how you have off to the right it's like you know you don't have to know the specific numbers just get get the scale, the idea of.
+1:12:22
+Andrew Ippolito: exponential amplification. Andrew Ippolito: Right. Andrew Ippolito: One molecule can activate hundreds of others and those each one of those hundreds can in turn activate hundreds.
+1:12:38
+Andrew Ippolito: Alright, so that's it that's chapter 11 and its mass told 52 alright so i'm not going to go into details, but I wanted to at least.
+1:12:46
+Andrew Ippolito: Get the beginnings of this out of the way here, and this is where things really start to get interesting because what we've learned up to this point.
+1:12:57
+Let me share my screen here. Andrew Ippolito: What we've learned up to this point are all of these principles and building blocks in in how cells do things now we're going to actually start to learn the the behavior and the life of the cell.
+1:13:13
+Andrew Ippolito: So the cell cycle. Andrew Ippolito: Is.
+1:13:19
+Andrew Ippolito: The process by which this complex eukaryotic cell goes through a growth phase and then ultimately divides into two identical daughter cells So the first thing I want you to do is remove the idea that mitosis is cell division it's not mitosis is nuclear division.
+1:13:40
+Andrew Ippolito: Okay, the nucleus is so important, it does its own thing.
+1:13:45
+Andrew Ippolito: And this slide in front of you this beautiful microscopy this is immuno fluorescence and if you go to the bottom, right here and click on that.
+1:13:54
+Andrew Ippolito: This will take you to a website of the lab that produces these amazing images they've gotten when I was in Grad school I did a lot of cell imaging and a lot of them, you know for essence.
+1:14:05
+Andrew Ippolito: Since I left the lab in 2006 there have been a lot of advances in microscopy and visualization techniques that make me rule they're just amazing because that's that's the stuff that really got me into photography.
+1:14:16
+Andrew Ippolito: So some of this stuff is just it's just so mesmerizing and incredible what they can do now.
+1:14:22
+Andrew Ippolito: And a lot of this stuff is even in live cells they've mastered these techniques that let you take living cells that have glowing parts that watch you track them in real time so there's all sorts of amazing stuff here.
+1:14:35
+Andrew Ippolito: The most important. Andrew Ippolito: focal point in all of this will ultimately be our genes and our genes are within chromosomes so understanding chromosomes is going to be a key point to this entire unit.
+1:14:51
+Andrew Ippolito: Right, this is going to lead us into genetics and ultimately into DNA structure and function and ultimately into gene regulation right so from this moment until that's the last day of class.
+1:15:01
+Andrew Ippolito: you're now going to have itching in the back your head the whole time genes and genetics and chromosome okay it's all about that they're, the most important.
+1:15:12
+Andrew Ippolito: So we're going to end today i'm gonna spend the next six minutes talking to you about we hold on did I do it again.
+1:15:21
+Andrew Ippolito: No one o'clock we're done at one right yeah Okay, so what you're looking at here is the higher levels of DNA organization So the first thing you're going to master here is how DNA goes from a double helix.
+1:15:37
+Andrew Ippolito: up and wraps up into its functional relevant components and that's what I teach now and i'm not even going to use the slides here i'm going to whiteboard this.
+1:15:47
+Andrew Ippolito: So let me. Get rid of all this here.
+1:15:53
+Andrew Ippolito: here's how it works. Andrew Ippolito: Right so here's oh i'm not gonna do here here's okay here's the double helix.
+1:16:06
+Andrew Ippolito: We remember the basic structure of this from our early. Alexis Micewski: I can't see anything.
+1:16:11
+Andrew Ippolito: Oh i'm sorry i'm Sorry, I have to share my. Alexis Micewski: I thought I shared both my whiteboard.
+1:16:16
+There we go sorry about that. Andrew Ippolito: Okay, you can see now okay so here's here's the DNA double helix we learned the basics of how this will put together so one thing you can do is go back and just quickly review.
+1:16:29
+Andrew Ippolito: The double strand that he likes and the nucleotides coming together the five of the three of the anti parallel yada yada.
+1:16:35
+Andrew Ippolito: Right, so one important fundamental here is that this molecule is negatively charged.
+1:16:44
+Andrew Ippolito: Okay, so I want you to know just in the back your mind DNA double helix negatively charged, that means that it's going to be staticky anything that's positive can stick to it okay that's the basic idea.
+1:16:57
+Andrew Ippolito: Remember i've said earlier, the DNA. Andrew Ippolito: is never found.
+1:17:06
+Andrew Ippolito: Make it. Andrew Ippolito: In the cell. Andrew Ippolito: There is never a moment in time, when DNA looks like this in real life ever it is always interacting or associating with proteins always.
+1:17:23
+Andrew Ippolito: Okay. Andrew Ippolito: The way our chromosomes are built the most fundamental unit of structure comes from these class of proteins called histones.
+1:17:38
+Andrew Ippolito: You carry yourself histones are cans have histones bacteria do not.
+1:17:46
+Andrew Ippolito: that's one of the fundamental differences in the domains of life is our can that's one of the things that makes us more like our cans than the bacteria that's why we can't put bacteria in our cans, in the same grouping anymore.
+1:18:01
+Andrew Ippolito: Okay, so this is uniquely are can and eukaryotic histones they have these kinds of names there's H1.
+1:18:11
+Andrew Ippolito: H2 so there's H1 a. Andrew Ippolito: there's H to a.
+1:18:17
+Andrew Ippolito: there's H3 H4. Andrew Ippolito: You know what i'm messing this up hold on a second where's.
+1:18:37
+Andrew Ippolito: Each to each to each. Andrew Ippolito: Each each lesson here we go, let me just copy this.
+1:18:53
+copy. Andrew Ippolito: alright.
+1:19:04
+Andrew Ippolito: So here, so if you're writing so there's H1 but then there's H, to be.
+1:19:10
+Andrew Ippolito: And there's H3 H4. Andrew Ippolito: there's a.
+1:19:18
+Andrew Ippolito: there's a there's a total of eight that's the key there's eight of these in those complex, you can do it like this 1234 and then you can kind of pretend there's.
+1:19:28
+Andrew Ippolito: Like a little grape cluster of eight things. Andrew Ippolito: Okay, so it's called an October.
+1:19:34
+Andrew Ippolito: This is called the history.
+1:19:40
+Andrew Ippolito: and actually this I just grabbed a random image on, let me, let me get a better one here.
+1:19:46
+Andrew Ippolito: That shows you all.
+1:19:53
+Andrew Ippolito: Actually that's kind of a cool picture here this this is more molecular Lee molecular Lee accurate if that's a word So you see the dark blue that's the entrepreneur.
+1:20:04
+Andrew Ippolito: Okay, and so what I want you to see in this picture, particularly this right here, you can see a best you see that it's hard to see this because the DNA is kind of grew light Gray, you see, others DNA right here so here's the idea, take a PIC a soda can.
+1:20:20
+Andrew Ippolito: And an old phone cord. Andrew Ippolito: Okay, and wrap that phone quarter around the soda can twice exactly twice, so that you get here i'll draw you can see it's better if I try so here's the cylinder.
+1:20:37
+Andrew Ippolito: Get rid of all this now here's a cylinder this cylinder that i'm doodling here represents the histone October.
+1:20:45
+Andrew Ippolito: So this cylinder represents this thing right here it's just a simple cartoony version of it.
+1:20:50
+Andrew Ippolito: And then DNA will be in yellow and i'm going to draw the double helix as if it's a single line again for simplicity, so you can see, this right, so the DNA comes in here.
+1:21:09
+Andrew Ippolito: It wraps around once. Andrew Ippolito: And that wraps around twice and then it keeps going.
+1:21:18
+Andrew Ippolito: Okay, so there's two wraps. Andrew Ippolito: Two turns.
+1:21:26
+Andrew Ippolito: So this this is double stranded DNA. like that.
+1:21:32
+Andrew Ippolito: Alright, so so this thing here.
+1:21:39
+Andrew Ippolito: This thing here is a functional unit of the chromosome This is called the nucleus.
+1:21:49
+Andrew Ippolito: Okay, so a nucleus. Andrew Ippolito: is to wrappings of double stranded DNA around a protein core that protein core is an optimizer of history go ahead alexa.
+1:22:04
+Andrew Ippolito: Like your head Okay, I thought your hand was up there. Okay. Andrew Ippolito: Okay now in between the cylinders right so there's another cylinder over here sorry there's another cylinder over here that's got to wrappings to all right, so in between them there's another protein, this is called the linker.
+1:22:25
+histone. Andrew Ippolito: His name is each one so each one's the linker than the H2 H3 H4 are part of the.
+1:22:37
+Andrew Ippolito: Okay, so under the electron microscope you can actually see it looks like this under the electron microscope.
+1:22:45
+Andrew Ippolito: They literally look. Andrew Ippolito: And they call it, this beads on a string.
+1:22:53
+Andrew Ippolito: that's what it looks like visually under the electron microscope. Okay.
+1:22:58
+Andrew Ippolito: And so we call this complex in general, this is the word I want you just from now on, you don't see chromosomes are made out of DNA you don't say chromosomes are made out of DNA and protein you see chromosomes are made out of chrome it.
+1:23:10
+Andrew Ippolito: All right, this word is going to be part of your everyday life now here chromatin is simply DNA plus protein.
+1:23:21
+Alexa Deprisco: So, as the chromatin like a string of these like nucleus. Andrew Ippolito: yeah yeah yeah yeah.
+1:23:27
+Andrew Ippolito: And so now we're we're gonna do. Andrew Ippolito: Is we're going to apply energy and we're going to twist it, and so, once you can do this now, you can do this follows her and take some string tie it to a pencil Okay, and then take another part of the string tied to a different pencil.
+1:23:45
+Andrew Ippolito: And then start just sit there when next time you're binge watching netflix just twist them in opposite directions just keep applying what's called super coiling.
+1:23:56
+Andrew Ippolito: and actually one thing that I did last semester here.
+1:24:02
+Andrew Ippolito: So I use this model now if I take my drill and I take all this and I grabbed my drill with this, so if you have an electric drill.
+1:24:11
+Andrew Ippolito: Some somewhere in your House you clamp this down this, this is an old wire that I grabbed from some broken lamp or something and I put this around.
+1:24:22
+Andrew Ippolito: A woods piece of wood, because I don't want to do is to my hand and I turn the drill on and what the drill did was this i'll just do a little bit of it.
+1:24:31
+Andrew Ippolito: So here, let me attach this to my. Andrew Ippolito: To my foot and i'm going to twist this like this here i'm just twisting right now, so this is mechanical this i'm super coiling this and i'm going to do this and off here.
+1:24:47
+Andrew Ippolito: it's good exercise. Andrew Ippolito: Okay, take it off my toe alright so yeah you can just see i've twist it looks like double stranded DNA but watch this watch this if I so there's a lot of tension in this now lots of energy in here don't care some more.
+1:25:07
+Andrew Ippolito: Okay watch this when I just relax so i'm going to now take the distance from my hands i'm going to bring my hands together watch what happens to the rope to the wire.
+1:25:18
+Andrew Ippolito: see that. Andrew Ippolito: This is called super coiling, and this is exactly how we build chromosomes okay so chromosomes are always under tension.
+1:25:30
+Andrew Ippolito: If I took some scissors like let's see I did this to the nth degree let's say that I really took my maybe i'll do this for you guys on a Wednesday i'll get my power at my drills Actually, I have a impact driver.
+1:25:40
+Andrew Ippolito: Actually, would probably break this wire, so it will twist this so much that this will develop a lot that you can see, actually there's some look at that there's already there are those are chromatin loops.
+1:25:53
+Andrew Ippolito: Okay, so we see all sorts of these calls sheeps that just come out of what you can think of this is not theory.
+1:26:01
+Andrew Ippolito: Okay there's a whole physics environment that talks about tension and strings and knots and all that.
+1:26:07
+Andrew Ippolito: So go back to the PowerPoint now. Andrew Ippolito: Can you guys see my PowerPoint to share my screen again.
+1:26:14
+Andrew Ippolito: Can you see it okay. Andrew Ippolito: There we go this this right here here first this look so go there's your double helix there's a nuclear isms the next level up is called the solenoid and this word isn't written here.
+1:26:31
+Andrew Ippolito: My haste to find there is, I can find my stylist here we go this is called where's my house, this is generally called the solenoid.
+1:26:43
+Andrew Ippolito: A solid line traditionally is a piece of metal with a copper wire wrapped all around it to make a super magnet.
+1:26:50
+Andrew Ippolito: Okay, in DNA land, we also call this a solo annex it looks like that so each purple thing here, each of these here are nucleus, this is also sometimes called a 39 Amir fiber.
+1:27:08
+Andrew Ippolito: And this is like this is chromatin that's pure romantic. Andrew Ippolito: If you keep going and you zoom out you now get this looped chromatin.
+1:27:19
+Andrew Ippolito: and honestly right here, is where we draw the line. Andrew Ippolito: For a cell, that is just hanging out not dividing okay chromosomes in our nucleus, naturally, you can't see them as organized units.
+1:27:36
+Andrew Ippolito: They are fluffy and dispersed. Andrew Ippolito: Okay, and so it turns out, scientists and elucidated have discovered their native state.
+1:27:48
+Andrew Ippolito: And that's what this is your book doesn't call it, this this has to be in the textbooks but it's not so i'm giving it to you this thing is called because it's got such a cool name it's called the fractal.
+1:28:00
+Andrew Ippolito: globule. Andrew Ippolito: A fractal is a mathematical pattern that is scale independent use them all the way into it or use them all the way out of it, and it has the same shape.
+1:28:14
+Andrew Ippolito: Think of a coastline on Google earth if you zoomed into the east coast of the United States, and you saw the jagged little sea coast and you kept zooming in.
+1:28:24
+Andrew Ippolito: You couldn't show me a picture of black and white image of that of just the coastline and tell me what that scale was it might be one inch equals 1000 mile or 100 miles or might be one inch equals 10 feet.
+1:28:38
+Andrew Ippolito: Okay that's what a fractal is in math it's this idea, this concept of scale free shape this is that okay and here's the beautiful part if you look that's the front cover science from 2009.
+1:28:52
+Andrew Ippolito: Each color represents a chromosome.
+1:28:57
+Andrew Ippolito: That you know what not no that's not true, not in this picture each color represents what we would call a chromatin territory but notice there's no knots.
+1:29:09
+Andrew Ippolito: Do you see that do you notice there's no tangling anywhere, you can grab that if you were to make you know if you were to take a bunch of paper clips and make that shape this this flat grid of this weird twisted shape, you can grab any random area here.
+1:29:27
+Andrew Ippolito: let's just say right here let's imagine we grabbed it right there at that red dot and pulled on it look what would happen, we would get.
+1:29:40
+Andrew Ippolito: You know, depending on how hard you pulled you would get a little bit or a lot, but it would fold out very elegantly.
+1:29:47
+Andrew Ippolito: And then we could put it back again. Andrew Ippolito: Okay that's how our chromosomes turn chunks on and off okay that's it's this tangled organization and so chromosomes now, you can see here take up.
+1:30:05
+Andrew Ippolito: A defined region of the nucleus. Andrew Ippolito: Okay, these are called, these are called chromatin.
+1:30:14
+Andrew Ippolito: territories.
+1:30:19
+Andrew Ippolito: And there are composed of loops of chromatin. Andrew Ippolito: Some of them are dense and tight.
+1:30:28
+Andrew Ippolito: And those regions are associated with genes that are off that's called header row crompton, this is an important word to note to header row chromatin.
+1:30:39
+Andrew Ippolito: associate that with off associate that with dense okay.
+1:30:47
+Andrew Ippolito: The fluffier areas where the active genes are. Andrew Ippolito: is called you chrome into.
+1:30:54
+Andrew Ippolito: associate that word with being on. Andrew Ippolito: Okay, so at any given moment of any given day when it sells hanging out living its life its nucleus is in this state a fluffy chromatin with regions that are dark and hidden and fluffy and open.
+1:31:13
+Andrew Ippolito: And that's the level of detail, we need to know right now. Andrew Ippolito: For how chromosomes.
+1:31:19
+Andrew Ippolito: are reached Okay, so we are at 110 i'm already over time here so i'm going to stop and we're going to pick up right where we left off on on.
+1:31:29
+Andrew Ippolito: Wednesday Andrew Ippolito: Okay, so i'm gonna stop my share, I see a chat message yeah sorry Julia.
+1:31:39
+Andrew Ippolito: got carried away. Andrew Ippolito: So um. Andrew Ippolito: i'll stop the recording.

@@ -1,0 +1,606 @@
+0:00
+Andrew Ippolito: This is our first lecture in our unit to this is going to cover Chapter seven, in your textbook memory.
+0:13
+Andrew Ippolito: and Andrew Ippolito: Just hold on one second.
+0:39
+Andrew Ippolito: yeah there we go sorry jack's gonna come in and say hi. Andrew Ippolito: that's his arm there, he is a jack Of course he can't hear you sit.
+0:48
+Angela Harbeck: In glasses. Andrew Ippolito: They said, we have the same glasses oh.
+0:55
+Andrew Ippolito: Now he's awkward. Andrew Ippolito: You didn't Okay, you want to go go good have fun Thank you bye.
+1:05
+Andrew Ippolito: I think you said body that that wasn't to me. Andrew Ippolito: All right, here we go here we go.
+1:12
+Andrew Ippolito: i'm gonna watch this 20 years from a big oh Look how young he was.
+1:18
+Andrew Ippolito: So this membrane. Andrew Ippolito: This is the third.
+1:23
+Andrew Ippolito: The third. Andrew Ippolito: functional. Andrew Ippolito: Area of a cell right we focus last chapter Chapter six we focused on the inside of the cell, we talked about the cytoplasm MC components, we talked about the nucleus now we're going to talk about the memory.
+1:42
+Andrew Ippolito: And this is arguably the most important part of this cell, because this is the boundary of life right, so what the memory does.
+1:52
+Andrew Ippolito: Is. Andrew Ippolito: It selectively allow some things to come in and some things to go out and attract some things within and prevent some things from getting in.
+2:06
+Andrew Ippolito: Right so. Andrew Ippolito: The idea here is, we have an internal environment that is different from the outside.
+2:16
+Andrew Ippolito: And we're going to establish that difference and we're going to maintain that difference and that's what homeostasis really is at the cellular level.
+2:26
+Andrew Ippolito: establishing and maintaining. Andrew Ippolito: You can think of them as greediness concentration.
+2:36
+Andrew Ippolito: And we talked about this a little bit. Andrew Ippolito: In the last chapter at the beginning of it, the idea of self size, so this is here just to review the idea that cells are small, because they have to continually.
+2:50
+Andrew Ippolito: interact with their environment, and the only place, they can do that interaction. Andrew Ippolito: Is at the memory.
+2:59
+Yes, there is supposed to be something on the screen.
+3:04
+Andrew Ippolito: There it is, I thought I was sharing my screen um let's roll back here alright, so you guys are just listening to the sound of my voice looking at darkness okay so let's start here we go so there's a membrane Okay, and you can see there's the external environment and the internal environment.
+3:24
+Andrew Ippolito: So the idea is some things are allowed in and some things are allowed out and some things are trapped in and some things are trapped out.
+3:35
+Andrew Ippolito: Right, and so in this game here. Andrew Ippolito: which requires energy.
+3:41
+Andrew Ippolito: This is the maintenance of the homeostasis right so maintaining homeostasis means keeping that internal environment different from the outside, which makes sense right because of the inside the outside of the Environment we're all the same, then there'd be nothing there there's no life.
+3:57
+Andrew Ippolito: You can start to understand like what life actually is now you can't really define it still but one of the things that makes life life is this idea of a pattern establishing and maintaining a pattern of some kind that's that's distinct from the surroundings like an ocean wave.
+4:19
+Andrew Ippolito: Then we review this concept of cell size as a reminder, we talked about this at the beginning of Chapter six this idea that cells are small, because they need to be able to quickly interact with their environment and they can only do this at the memory.
+4:36
+Right. Andrew Ippolito: We talked about how cells are built you in particular we're going to use eukaryotic cells as a model for our discussions, because.
+4:49
+Andrew Ippolito: You carry out eukaryotes are the ones that this entire class focuses on as opposed to like a Microbiology class.
+4:57
+Andrew Ippolito: And the reason why the eukaryotic cell so big remember is because of all of these internal membranes right So if you just picked a random spot on the screen there.
+5:07
+Andrew Ippolito: you're never too far away from a membrane you're never too far away from the ability to.
+5:15
+Andrew Ippolito: move something in or out of something so there's all of these environments that we've established.
+5:25
+Andrew Ippolito: And it's also review and remind ourselves of the fossil lip itself, this is back from chapter for now Chapter five.
+5:32
+Andrew Ippolito: The idea of this empty Philip are empathic molecule that has both the polar head and the hydrophobic tales that allows us to establish the gradient i'm sorry allows us to establish remembering, to begin with.
+5:45
+Andrew Ippolito: Right, so we have we have the fossil it but and all the different kinds of possibilities.
+5:52
+Andrew Ippolito: And the way they interact remember there's the entirely flood and the outer leaflet right so that's that's going to be our.
+5:58
+Andrew Ippolito: Our starting point here, and the fact that there's cholesterol on the membrane remember the cholesterol stabilizes the membrane we've talked a little bit about that.
+6:06
+Andrew Ippolito: i'll talk more about that today. Andrew Ippolito: And the fact that when you put these fossil lipids into water, depending on the temperature and the pH and the liquid concentration and the Ionic concentrations, they can form these different types of structures.
+6:24
+Andrew Ippolito: Right now, this, this is a slide is all text like I hate all tech slides, but this is a slide you can review this establishes the rules of the game.
+6:34
+Andrew Ippolito: And so i'm gonna skip this slide use this for your studying, I think this is in the study guide to but, instead, what I want to do is, I want to go to the whiteboard now.
+6:43
+Andrew Ippolito: So I have to share my whiteboard screen.
+6:53
+Andrew Ippolito: And that's where I want to do a little bit of active learning for you, because the one thing I want you to get out of this lecture right now is is the the rules of the game, so to speak.
+7:13
+Andrew Ippolito: I really have to reboot my computer.
+7:18
+Andrew Ippolito: I can't write like this oh my gosh hold on just want to zoom in to something around here is where.
+7:29
+Andrew Ippolito: But my wife and graphic driver. that's why.
+7:34
+Andrew Ippolito: So this is me trying to draw a circle. Andrew Ippolito: I can't draw circles.
+7:45
+Andrew Ippolito: Okay, just give me one second. Andrew Ippolito: i'm gonna try to.
+7:51
+Andrew Ippolito: shut down doing the control alt delete and.
+7:57
+There it is.
+8:04
+Anything with it. Andrew Ippolito: Please work, please tablet drivers not responding turn off your computer and turn it on again nevermind i'm not i'm not nevermind I can do this with a broken tablet so rules just.
+8:25
+Andrew Ippolito: there's two variables charge. Andrew Ippolito: And size.
+8:35
+Andrew Ippolito: Okay, so this is me teaching you chess this is me teaching you basic rules and then we're going to apply these rules to problems okay.
+8:43
+Andrew Ippolito: So we're all one. Andrew Ippolito: Big things can't get in the cell that's obvious.
+8:50
+Andrew Ippolito: that's the easy rule right it just makes sense big things can't get in it can't just leak into this remember that the membrane being this phosphor lifted by layer
+9:00
+Andrew Ippolito: Right this isn't a solid this isn't like a protein code Okay, this is like more like an oil layer so something so big things.
+9:12
+Andrew Ippolito: Will physically just not be able to get through that little things okay little things that are uncharged that are non polar they can literally pass through the membrane like it's not even there.
+9:29
+Andrew Ippolito: Things like oxygen gas or carbon dioxide guess the gas exchange you breathing in and out right now, all that oxygen guests you're breathing in and all the Karma acid you're breathing out are passing through membranes like they're not even there.
+9:44
+Andrew Ippolito: may be zoom all the way down into your lungs and you look at the alveoli you notice the little cells in there, the oxygen and carbon DAS or just diffusing right across that memory okay.
+9:53
+Angela Harbeck: RON polar. Andrew Ippolito: nonpolar. Angela Harbeck: They are and that's the key here. Andrew Ippolito: Non polar So what does that so here's my first little active learning, I want you guys to take what I just I gave you two simple concepts if they're big they can't get in if they're small and non charged, they can get in.
+10:12
+Andrew Ippolito: Okay, so what's the relationship between those concepts and a charged molecule all the non polar get so not just guesses but solid to non non polar solid so there's they're small not non polar molecules.
+10:38
+Andrew Ippolito: So, for example. hydrocarbons.
+10:43
+Andrew Ippolito: Small hydrocarbon chains, this is why, if you've ever gone and pump your own gas and you've accidentally got gasoline on your hand.
+10:52
+Andrew Ippolito: Oh, that smells terrible and you go in you try to wash it off, and you wash your hands you got soap and water and you're done with it all it's still smells terrible that's because the gasoline actually went right through your skin you can't wash it off it's inside you.
+11:08
+Andrew Ippolito: Because it's lipid soluble because your skin is made of cells and cells have a membrane and small non polar molecules easily pass through those membranes This is like guessing dangerous that's why in New Jersey, they ban you from pumping your own gas.
+11:24
+Andrew Ippolito: Instead, they make all the workers get exposed to the carcinogens.
+11:30
+Andrew Ippolito: that's more ethical somehow. Andrew Ippolito: hey don't don't let those people poison themselves you poison yourself for them and we'll pay you a little bit of money for that not too much, though.
+11:42
+Taylor Campbell: So it's not good when it gets on you right. Andrew Ippolito: Now that said.
+11:49
+Andrew Ippolito: A little bit of guests on your hands every once in a while it's fine if you're working with guests, every day, and you get it on your hands every day that's not fine.
+11:58
+Andrew Ippolito: Okay, so that's a good rule of thumb for your life for working in lab if you get a little bit of something on your hands just depending on what it is, I mean there's some things that even a little bit of it will do some permanent damage.
+12:12
+Andrew Ippolito: But the vast like a little bit of virus little bit of virus never heard anyone right we know that's that's not true, it off that's that's so very wrong now.
+12:23
+Andrew Ippolito: But, but most most things in the lab you know you're not going to do, permission or harm to yourself it's a little bit of it gets on your hands.
+12:30
+Andrew Ippolito: and get you can pump pump your own gas if you get a little on your hand they don't wear rubber gloves when you're using the gas pump you don't have to go see Dr me here.
+12:39
+Andrew Ippolito: Right, but if you're in the garage and you're pouring gas in your lawn mower every week and you're done and all over the place, the first of all you're doing something wrong, you should learn how to pour gas in your lamar.
+12:51
+Andrew Ippolito: But uh but if you're getting that all over your hands every week that's not right, if your dad's in the garage every week doing that that's not good for him either he's by this point i've been doing that for years, so you might want to stop doing that.
+13:06
+Andrew Ippolito: So what I want you to do now is to think of the game there's things outside the cell that can get in and there's things out so this other kick it and what are they Okay, so let me throw somebody how about how about.
+13:17
+Andrew Ippolito: approaching. Andrew Ippolito: Like insulin and insulin just pass through the membrane, what do you think.
+13:23
+Andrew Ippolito: No good. Taylor Campbell: too big. Andrew Ippolito: Right, what if what if I took insulin and I made it completely electrically neutral how about now.
+13:33
+Taylor Campbell: it's still too. Andrew Ippolito: Good. Andrew Ippolito: Right so it's so the most important variable is how big things are.
+13:41
+Andrew Ippolito: OK now it's small than the next question you're asking yourself as well as charged or not, how about polar molecules What about polar molecules.
+13:51
+Andrew Ippolito: So ariana you're saying know. Andrew Ippolito: what's your what's your thought process there. Arianna Siliverdis: So don't they have to be non polar.
+13:59
+Andrew Ippolito: right because I said that because I said so right, but so instead of just following the strict rule there why why why can't polar things get across the membrane.
+14:09
+Arianna Siliverdis: What didn't mess up like the charge of what's already been established.
+14:14
+Andrew Ippolito: When you say mess up the charge of what. Andrew Ippolito: The molecule or the cell. Arianna Siliverdis: Of the cell okay.
+14:21
+So. Andrew Ippolito: By mess up What do you mean. Arianna Siliverdis: Well, if it was already a specific charge and you're adding new things with opposite charges it's going to change.
+14:36
+Andrew Ippolito: Oh okay I I like that idea but here's here's the truth of it, the.
+14:41
+Andrew Ippolito: insides of I want to say. Andrew Ippolito: All that's a dangerous word, but the insides of all eukaryotic cells Okay, so this is a eukaryotic cell.
+14:51
+Andrew Ippolito: The inside of the cell tends to be more negative than the outside, and the reason for that is there's a pump that will talk about the sodium potassium pump and what the sodium potassium pump does is it establishes and maintains that electrical gradient.
+15:13
+Andrew Ippolito: Okay, so there's an electrical gradient that cells establish right so now, you can imagine the inside of the cells negative and we have this polar molecule here.
+15:23
+Andrew Ippolito: Can you imagine that, as it gets a little closer to this if it's polarity is also a little negative it's going to act kind of like a magnet pulling a wave pushing away from another another magnet right it's going to literally pushed away if this is slightly negative.
+15:41
+Andrew Ippolito: Right it's just there's gonna be a little bit of a repulsion not too much, but a little bit likewise if it's a little bit positive, what do you think's going to happen then would it go in.
+15:55
+Andrew Ippolito: Remember that the the heads of foster lipids are polar.
+16:02
+Andrew Ippolito: So what's going to happen to a positively charged thing. Andrew Ippolito: Can those go in.
+16:09
+Zachary Lucas: Those just be attracted to them, they give the charge of the philosophy.
+16:14
+Andrew Ippolito: Excellent. Andrew Ippolito: So, in other words, positive charge things are going to stick. Andrew Ippolito: To the membrane.
+16:20
+Andrew Ippolito: let's use red So you can see, this better they're going to stick to the membrane they're not going in either good.
+16:27
+Andrew Ippolito: And it turns out, as we'll see later in the Semester. Andrew Ippolito: Member H plus number of protons and pH and all that so protons will actually accumulate along the surface of a membrane.
+16:40
+Andrew Ippolito: Okay, so so here's the rule charged molecules. Andrew Ippolito: And polar molecules to not get into the cell, they do not pass a membrane a membrane is impermeable to them.
+16:54
+Andrew Ippolito: Okay, so the easiest way to think of all this is to think of the one case of things that can get in.
+17:01
+Andrew Ippolito: and commit that to memory and then you can into it or logic your way to everything else, and that is small uncharged particles can freely go across the memory, the membrane is permeable to non polar small molecules.
+17:21
+Andrew Ippolito: What about medium sized. molecules. Angela Harbeck: yeah.
+17:26
+Andrew Ippolito: hold on a second yeah what's up buddy watch TV know.
+17:36
+Andrew Ippolito: He knew the answer to that before he asked he just wanted to make me look bad in front of you guys. Andrew Ippolito: that's kind of like number one you're a little and you're like hey mommy can Bobby eat dinner over tonight and like you asked in front of Bobby and if mom says no, then she's a jerk and so, of course, yes, say yes that's what he just did.
+17:53
+Andrew Ippolito: But I don't care, I can look like a jerk he still can watch TV.
+18:00
+Andrew Ippolito: They watch so much TV lately anyway right jack.
+18:07
+Andrew Ippolito: He said what I thought he might have been eavesdropping. that's just paranoia that's just.
+18:15
+Andrew Ippolito: All right, so so right you got the rules of the game that's it it's that simple alright, so now here's my next question to you well, how do we get things.
+18:25
+Andrew Ippolito: That are impermeable across the membrane.
+18:32
+Andrew Ippolito: What do you think. Andrew Ippolito: Energy okay well it's like brute force just shove, it in there.
+18:41
+Andrew Ippolito: just put push it really hard until I mean I guess that i'm sure there's some mechanism somewhere in biology that just.
+18:47
+Andrew Ippolito: brute forces it in there, but so. Andrew Ippolito: Like I like that I like energy okay yeah but but.
+18:53
+Andrew Ippolito: The woody, what are we going to do with that energy.
+18:59
+Andrew Ippolito: Right yeah i'm not really sure here all right well so here i'm going to give you a little hand remember when we learned about the rough er what was special about the rough endoplasmic reticulum What did it do.
+19:09
+Angela Harbeck: It had Dr is a. Andrew Ippolito: Okay, and what the ripe isms do. Angela Harbeck: They produce protein.
+19:16
+Andrew Ippolito: Good what kinds of proteins to the ripe isms make in the rough year.
+19:22
+Andrew Ippolito: How deep this rabbit hole go Angela. Andrew Ippolito: How far can you get your although you're all the way there that's right that's exactly where I wanted you now let's see if we can go further.
+19:32
+Andrew Ippolito: Right so there's remember that there were different kinds of proteins in the cell. Andrew Ippolito: That we produce right, so the cell the rhizomes that are out in the situs cytoplasm make all the proteins and just float around and Bob around and do other jobs, the rough er makes specialized kind of proteins right there's two kinds of proteins, that the rough er makes anybody remember.
+19:53
+The beginning, one of the two. Andrew Ippolito: got Alexis. Alexis Micewski: Secret sick I can't pronounce the word.
+20:02
+Andrew Ippolito: ready Secretary proteins. yeah. Andrew Ippolito: Good okay that's one what's the other one.
+20:11
+Andrew Ippolito: Angela did that trigger your memory, a little bit there's there's there's something sitting now okay that's fine.
+20:17
+Andrew Ippolito: Anybody. Alexa Deprisco: Like the memory.
+20:23
+Andrew Ippolito: Okay, so Tyler said, like okay technically you're right and that's the best kind of correct.
+20:28
+Andrew Ippolito: glycoproteins are created by the rough er the glide constellation part So if you guys remember glycoproteins are proteins that have a sugar on them.
+20:39
+Andrew Ippolito: They have a sugar modi attached to them and attachment happens and the goal G right remember the goals the apparatus so so what that glycol protein in order to do what it's doing there, what kind of protein is a glycoproteins with respect to membranes.
+21:00
+April. Andrew Ippolito: you're answering my question, I know how you're like i'm just gonna say it out loud, to see how it sounds if I like it then i'll mute myself, though, because I want to hear.
+21:10
+April Neeld: What was your thought process there. April Neeld: Well, I kind of saw one lizzie pilot and she said structure structure proteins, so I was thinking of like that kind of sounds right like structural proteins.
+21:22
+Andrew Ippolito: Okay okay so. Andrew Ippolito: kind of kind of it's even more general than that remember so there's there's there's seibel proteins and structural or you're thinking of maybe the filament proteins like acted and stuff yeah.
+21:36
+Andrew Ippolito: Okay, what about proteins that get actually put in the membrane that's what we're going for here remember I described that some of the proteins, that the rub is a mix and the rough er stitched into the.
+21:47
+Andrew Ippolito: membrane and I drew this. Andrew Ippolito: Number this. Andrew Ippolito: Number the stitching like that we stitch the protein into the membrane they're called integral membrane proteins.
+21:58
+Angela Harbeck: Can you spell that. Andrew Ippolito: Yes, it's actually it's on the slide, let me just go to the. slide.
+22:05
+To do skip all this right now. Andrew Ippolito: I was trying to teach you guys in a more active way i'd rather just mindlessly go to the PowerPoint here where's the word.
+22:17
+Andrew Ippolito: Here we go here we go alright So these are the kinds of proteins that interact with membranes there's integral proteins and what that means.
+22:25
+Andrew Ippolito: Is the poly peptide chain is literally stitched into the membrane at the time it's made by the ribosome so as arrive isms going through translation and that polly peptides getting extended that polly pets are getting directed into the membrane.
+22:41
+Andrew Ippolito: Your book actually goes into some details there that's beyond the scope so that's why this study guides useful that you don't have to know the level of detail that the book was into there.
+22:49
+Andrew Ippolito: OK okay so there's integral proteins and then there's another class of protein called a peripheral protein.
+22:55
+Andrew Ippolito: By peripheral the English word peripheral means nearby. Andrew Ippolito: Okay, so so like jack right now, if he was standing literally right here, you can kind of see him and kind of not he'd be peripheral to the screen, they just right next to so a peripheral protein to doodle that if this is the membrane.
+23:14
+Andrew Ippolito: An integral protein with thread through the membrane a peripheral protein would just kind of like.
+23:23
+Andrew Ippolito: Most into it a little bit like a really comfy pillow and putting your head on it.
+23:29
+Andrew Ippolito: or like in finding Nemo the way clownfish interact with the anemones you kind of like tuck in there, so you can kind of there that's a peripheral protein because they can easily come out again.
+23:39
+Andrew Ippolito: Okay integral proteins are permanently stitched into the membrane you can't get them out, and they so they once they're there they're there.
+23:53
+Okay. Andrew Ippolito: So let's let's talk just for a second about integral proteins here.
+24:00
+Andrew Ippolito: integral proteins have so have I introduced this concept called a domain to get a protein domain, we talked about those yet anybody remember no.
+24:10
+Andrew Ippolito: Okay, a protein them and just a part of the protein it's a functionally distinct part of the protein we've learned that proteins have that primary structure.
+24:19
+Andrew Ippolito: We fold it up, and yet the various secondary structures and then they have this overall 3D structure that that tertiary right.
+24:27
+Andrew Ippolito: And so, when we consider the tertiary structure of a protein, we can see that protein as a machine that has different regions of it like so think think of your body right now.
+24:37
+Andrew Ippolito: everything's continuous right your head as a test your shoulders and your arms and your legs and your torso So if I talked about your head.
+24:44
+Andrew Ippolito: Or, I talked about your finger or your arm right, you would call this your head domain your leg domain your elbow domain or really your arm domain right, so the domain is just a functionally distinct part of a protein so.
+25:01
+Andrew Ippolito: If I have a trans trans an integral membrane protein also called the Trans membrane protein.
+25:06
+Andrew Ippolito: let's do this let's pretend this got a doodle like this and, like this and, like this that are so I just drew a bunch of Africa policies and stuff right, so this part of the protein here that's outside the cell, that is, the extracellular domain.
+25:20
+Andrew Ippolito: Okay inside the cells part is the intra cellular domain. Andrew Ippolito: Be so here's the here's my question to you guys which part of the protein would a hormone bind to or if this was so if this was a receptor on the cell membrane which part of the protein which domain on the protein would be the part that binds to the important signaling molecule.
+25:49
+Andrew Ippolito: The extracellular domain right the one on the outside sure Okay, and the middle part here that's called the Trans membrane domain.
+26:01
+Andrew Ippolito: Number trans means across right system transformers transformers one it's, on the other side, the trans membrane domain goes through the membrane it goes across the memory.
+26:12
+Andrew Ippolito: You can imagine if I took the primary sequence of this protein and we looked.
+26:17
+Andrew Ippolito: At the you know the 40 amino acids that are making up that extracellular domain we'd probably find polar amino acids and maybe even charged amino acids.
+26:27
+Andrew Ippolito: And if we looked at that stretch of membrane i'm sorry if we looked at that stretch of the sequence that goes across the membrane we'd probably find a bunch of hydrophobic non charged.
+26:37
+Andrew Ippolito: nonpolar amino acids and then we'd see another stretch of charge ones on the inside and sure enough when a scientist reads through a protein sequence they're looking for stuff like that.
+26:50
+Andrew Ippolito: they're looking for regions of hydrophobic and hydrophobic amino acids in there and that's the telltale sign that you found it integral membrane protein.
+26:58
+Andrew Ippolito: And some of these proteins will actually span the memory, not just once, like this, but they will literally stitch across it several times.
+27:07
+Andrew Ippolito: And so, when you think of the sequence there let's let's just mark your mark these three those parts of the protein go across the membrane right if I pull That apart, and I looked at just the primary structure.
+27:19
+Andrew Ippolito: I would see. Andrew Ippolito: These alternating regions of hydrophobic hydrophobic stretches of amino acid.
+27:27
+Andrew Ippolito: Does that make sense. April Neeld: question. April Neeld: yeah good so, is it is a purging either an interval protein our peripheral or can there be one that's like kind of both.
+27:39
+Andrew Ippolito: Oh that's a great Question No it's one or the other. April Neeld: Okay yeah.
+27:44
+Andrew Ippolito: And then I guess the third kind of protein that we're not talking about would be will not just like in the cell hanging out right, and you can call those you can call that a.
+27:54
+Andrew Ippolito: call a soluble protein, I suppose. Andrew Ippolito: Her so there's soluble.
+28:00
+Andrew Ippolito: But really they're called globular it's a fun word color there globs right there called kolob you learn proteins so there's really all proteins can be loosely classified into two kinds filament is in globular.
+28:15
+Andrew Ippolito: Right basically does if you put it in water what happens to it, is it like albumin like an egg white and it's goofy or is it like hair on the top of your water.
+28:25
+Angela Harbeck: let's globular protein. Andrew Ippolito: So globular protein is a protein that. soluble in solution.
+28:33
+Andrew Ippolito: So site a solid proteins, the proteins that are bopping around inside your cell running your metabolism Those are all the most of them are enzymes, those are globular protein.
+28:48
+Andrew Ippolito: Okay, and if it's part of the site with skeleton it's you know filament those are filament is proteins okay so they're like they're soluble or they're not soluble that's that's the rough way of categorizing protein.
+29:03
+Andrew Ippolito: Okay alright, so now that you understand that let's talk about the ones that let's go back to the membrane now okay so here's my question again.
+29:09
+Andrew Ippolito: How do we get something across that membrane that otherwise is impermeable to it like a like a reasonably sized protein or hey how about this glucose.
+29:19
+Andrew Ippolito: Right, you know that you're selling these to eat glucose but glucose is too big to get across and it's polar so, how does glucose get into the cell.
+29:29
+Alexis Micewski: Protein carries it. Andrew Ippolito: yeah exactly. Andrew Ippolito: there's there's this whole world of proteins called protein carriers there's carriers there's so they're called carrier proteins and there's things, called channels.
+29:42
+Andrew Ippolito: So there's channel proteins and there's carrier proteins, so the difference is the Channel protein think of the word channel, not in the sense of changing the Channel on your TV, but a channel like the English Channel.
+29:54
+Andrew Ippolito: Right a a pathway or a corridor through something so a channel protein literally creates.
+30:05
+Andrew Ippolito: a hole in the membrane and I can't draw today because it remember my this whole thing is broken so that's why everything is like messy and weird I mean just look at the PowerPoint here there, right here.
+30:19
+Andrew Ippolito: see that guy right there that's a channel protein. Andrew Ippolito: It literally creates a tunnel for something to get through, they are specific to whatever's coming in, so there are things like chloride channels.
+30:35
+Andrew Ippolito: That would be an example, a chloride channel. Andrew Ippolito: there's also the sodium potassium pump right So what do you think the differences between me calling something a channel versus a pump.
+30:53
+Angela Harbeck: channel just allows it to go through or it's like on a court, and that will pump kind of pushes it through our out.
+31:01
+Andrew Ippolito: Excellent. Andrew Ippolito: that's agree we so like when I say the word pump you're thinking energy. Andrew Ippolito: or there's a word energy we talked about earlier so so think about it, there are some things that were okay flowing.
+31:13
+Andrew Ippolito: downhill like flowing out the download concentration gradient like let's say you're building up a bunch of waste in the cell.
+31:19
+Andrew Ippolito: And you just open a hole and it just flows out right now have to worry about pumping anything because it's a higher concentration inside the cell and so just going to flow downhill.
+31:29
+Andrew Ippolito: And then there are other things that there's not a lot of in the environment, we want to grab it and bring it in against this concentration gradient.
+31:36
+Andrew Ippolito: Right and so that's the difference between the pump in the Channel. Andrew Ippolito: Okay, now, in addition, there are some things.
+31:47
+Andrew Ippolito: Like so the right hand side there that that's the pump you can see it's pumping red dots into this or whatever, but notice notice that that molecule there, the one on the right.
+31:58
+Andrew Ippolito: it's got like a weird shape to it, you see, like there's like a wedge on the bottom, and then a tunnel is this like a different seat be thing there so.
+32:06
+Andrew Ippolito: it's not represented in this picture very well, but what that's doing is that's changing it shape.
+32:11
+Andrew Ippolito: it's literally changing its shape to pump things across and so these kinds of things that changed their shape are called carrier proteins.
+32:20
+Andrew Ippolito: Okay thing to think about glucose again you can't just open a hole in the cell that glucose in because then everything's going to come in Okay, so instead you have this class of molecule that binds to something specific and then kind of moves it into it by changing it sheep.
+32:37
+Andrew Ippolito: Think of a very strange door. Andrew Ippolito: That looks kind of like.
+32:44
+Andrew Ippolito: goopy jello. Andrew Ippolito: That when you go into it, it kind of wraps around your body brings you in and then puts you on the other side and the whole time it's like changing shape.
+32:57
+Andrew Ippolito: Okay, so care there's carrier proteins and there's channel proteins. Andrew Ippolito: And some of those carrier proteins are classified as pumps if they're pumping things up Hill and using energy in this case in this diagram you can see the ATP.
+33:13
+Okay. April Neeld: I may put like a weird analogy real quick. Andrew Ippolito: yeah please Hello.
+33:20
+April Neeld: Have you ever seen monsters vs aliens. Andrew Ippolito: Yes. April Neeld: So you know they're a little blob like us name is Bob and he will like eat things and then he'll kind of shoot them out if he can actually.
+33:31
+Andrew Ippolito: Yes, and that's kind of like fingers psychosis yeah yeah so that's now now the problem, the only problem with that, and my analogy to my weird door analogy is that it's it's more like a machine with moving parts, not a liquid gel it's not this isn't jelly this is.
+33:51
+Andrew Ippolito: Actually. Andrew Ippolito: This is like my little toy here this thing can change sheet to move something through.
+33:59
+Andrew Ippolito: Right, so this thing can move the pieces of it it's like a machine.
+34:05
+Andrew Ippolito: I got it, this is the classic example I usually use, I know I thought in my head a turnstile if you ever go to the subway or some big stadium, you have to go through the turnstile.
+34:14
+Andrew Ippolito: Right, the turnstile moves and it gets you through it and they can also lock it so you can't get in right he just jumped the turnstile but.
+34:22
+Andrew Ippolito: That that idea of a moving thing okay good. All right now the rest of the season.
+34:28
+Andrew Ippolito: Go ahead. Alexa Deprisco: One of those toys, where it's like a tube and you can like you.
+34:34
+Yes. Andrew Ippolito: Yes, yes, yes, that that would be another good example, actually, that would be more like a more like a channel, though, but it's got a hole in the Center.
+34:43
+Andrew Ippolito: Right so but yeah that that comes to mind I forgot about those things yeah those are fun that reminds like moebius strips and all that, like.
+34:51
+Andrew Ippolito: that's like an infinite surface area somehow okay good good good okay you guys are getting this so so back to the power or back to the slide here so ready, we got a cell think about this now you have this cell here, and you have this still here.
+35:07
+Andrew Ippolito: Okay let's calm sell a and selby and if I I told you that so be can let some things in but sell a can't.
+35:17
+Andrew Ippolito: Why. Andrew Ippolito: What could be an example difference.
+35:24
+Angela Harbeck: Once positive and once gave like I don't let him polar polar thing.
+35:29
+Andrew Ippolito: Oh, I like that okay now. Andrew Ippolito: But so in theory that could work but remember there's there's one underlying rule here, and that is.
+35:36
+Andrew Ippolito: Most cells, I always say more, they all cells, to my knowledge, the inside, has established a gradient using a sodium potassium pump which i'll teach you how those work in a bit Okay, so what else could be different between them.
+35:51
+Andrew Ippolito: Why would Why would sell be let something in that cell a is not letting him.
+35:56
+Taylor Campbell: Like the different channels, we just went over like you would contain these different protein.
+36:02
+Exactly. Andrew Ippolito: Right so sell a might be. Andrew Ippolito: A skin cell. Andrew Ippolito: and sell be might be a neuron.
+36:11
+Andrew Ippolito: Right, so one of the things that makes us different is they have different components to their memory and.
+36:18
+Andrew Ippolito: This is the reason why the coven but why why the source code to virus can infect some cells, but not other cells.
+36:26
+Andrew Ippolito: it's also why, as we're learning, it can infect a lot more different kinds of cells than we thought.
+36:33
+Andrew Ippolito: We used to think it was limited to the respiratory system, but once the virus gains passage into your body, it turns out there's a whole other slew of different tissues that it affects.
+36:42
+Andrew Ippolito: And it turns out it's because the protein it's binding to which is a it's normally a receptor for and.
+36:54
+Andrew Ippolito: wow it's been too long since i've put walls up at this point for this stuff.
+36:59
+Andrew Ippolito: It just say here there's there's approaching the membrane that for the life of me I can't remember the name of it and.
+37:04
+Andrew Ippolito: It turns out that is found in a lot of tissues there's there's a lot of different cells that express that so the virus does this little secret handshake to that protein and that's how it gets into this up.
+37:19
+Andrew Ippolito: I gotta look this up, because my brain is failing me.
+37:33
+Andrew Ippolito: As to the East to you guys have probably seen this in the news, the East to receptor. Andrew Ippolito: The East to receptor is involved in maintaining our blood pressure.
+37:42
+Andrew Ippolito: And so it's found on all endothelial cells it's found it's found in a lot of different issues, including our lung cells.
+37:50
+Andrew Ippolito: And so, once the buyer skins entry to our lung cells and it spreads it can infect the kidneys the liver, it can even get into our nervous system, this is this, this is not the flu, the flu virus does not do that.
+38:05
+Andrew Ippolito: Okay. Andrew Ippolito: And so the one little secret thing that I could start planting seeds for here is ultimately what's different between A and B is their genes right, even though these two cells have the same genome cell be has some jeans on that cell a dozen.
+38:25
+Andrew Ippolito: And that's what makes the cells different from each other, as we get to decide, or the cell gets to decide which genes are on and which genes are off and that's what makes us different from each other, even though they have the same gene.
+38:36
+Andrew Ippolito: everybody's working from the same cookbook. Okay.
+38:42
+All right, great. Andrew Ippolito: Alright, so so is this working I know i'm being more chaotic with the PowerPoint but i'm being more interactive is this working for you guys like yeah I like this, too.
+38:56
+Andrew Ippolito: And for those of you who are introverts and like I hate this i'm sorry I know even people that hate this kind of stuff so i'll you know i'll trade off every once a month all right let's go back now.
+39:04
+Andrew Ippolito: And do a little bit more classic storytelling here, so we learn the rules of the road here, this is so, this is a slide you can study, if you can recreate the slide from scratch from your head you win.
+39:16
+Andrew Ippolito: Okay, this is how the how the game is played this is this isn't the chess game, this is how the pieces.
+39:22
+Andrew Ippolito: Right and your book does you a disservice, and I really don't understand why they don't put the oxygen and carbon dioxide in there, I added that you can tell, because they look like.
+39:34
+Andrew Ippolito: PowerPoint circles. Andrew Ippolito: because their powerpoints. Andrew Ippolito: Right, but they should be there because the next two chapters are going to talk about these molecules, for they just go on and on about them.
+39:47
+Andrew Ippolito: Right we're gonna learn about photosynthesis and so respiration and. Andrew Ippolito: And you should have an intuitive understanding of how those work OK, so now, the last thing I want to talk about here is water.
+39:59
+Andrew Ippolito: Water is a very interesting molecule in the sense of permeability because, for the longest time we used to think but couldn't explain well from a scientific perspective that water want to cross membranes very easily.
+40:13
+Andrew Ippolito: And it does, we used to think it's because water just permeated through the cell i'm sorry water just diffused across the membrane.
+40:22
+Andrew Ippolito: By like it just went across the membrane like oxygen or carbon dioxide it just went a little slower, because it was polar.
+40:31
+Andrew Ippolito: However, that thought process could not explain why some protein sorry why some membranes allowed water to go through way faster than it looks like it was supposed to by diffusion and some membranes we slower, so I want you to picture a water balloon that's damp it's just clammy.
+40:55
+Andrew Ippolito: And you dry it off with a towel, and then within a couple of seconds is just clammy and damp again.
+41:02
+Andrew Ippolito: Right, so, in other words it's like the rubbers just a little leaky to water.
+41:08
+Andrew Ippolito: And that's how I want you to think of cells that's how they are cells are just a little bit leaky to water they're not airtight they're not watertight.
+41:16
+Andrew Ippolito: you're not waterproof okay without coatings we can put coatings on them and do that, like like plants have a waxy cuticle that trap some water in there, so there's the top of the surface of belief, yes, but that's not a cell right that's a leaf.
+41:29
+Andrew Ippolito: A cell itself without a cell wall without any of this stuff around the just a membrane is leaky it's damp.
+41:36
+Andrew Ippolito: Okay there's a slow leak of water, so the question is, though, is some cells do very quickly, let water come in and out and it turns out there's a whole secret class of protein, we discovered back in the 2000s called the aqua.
+41:49
+Andrew Ippolito: aqua water pouring pours like pores in your skin the aqua parents and so that's why this picture here, you see this Green molecule that the water is going across that's an article point.
+42:01
+Andrew Ippolito: It is a water channel, it is specific to water.
+42:08
+Andrew Ippolito: And this is what allows a lot of osmotic regulation. Andrew Ippolito: Okay, which will learn about in this chapter to osmosis where are we with time okay.
+42:17
+Andrew Ippolito: All right, you guys need to break. Andrew Ippolito: there's want to take a break. Angela Harbeck: We only have like 10 minutes of class roster.
+42:25
+Andrew Ippolito: Oh that's right that's right that's right i'm sorry I keep in my head goes to 140 minutes my micro class the other class goes to 140, on the other days yeah that part time management skills.
+42:37
+Andrew Ippolito: Alright, so. Andrew Ippolito: Okay, this you can use for your like studying like I could sit here and ask you, you know, so we got something that's positively charged and polar and big.
+42:50
+Andrew Ippolito: For example, some proteins cannot get across the memory by itself right No, of course, not how about it was negative and polar and big.
+42:58
+Andrew Ippolito: know how about of it's neutral and polar in big. Andrew Ippolito: Know right you guys, do you guys are all in unison here you guys get this now that's good good and that's that's what I wanted to take them to today to be as the rules of the road so that's good.
+43:11
+Andrew Ippolito: Alright, so i'm going to the last 10 minutes here i'm going to tell you the story of how we got to this point how we understand all this.
+43:17
+Andrew Ippolito: So the membrane itself we call, as we understand our best understanding of it now it's called the fluid mosaic model, this is how we understand the membrane and it's made out of lipids and proteins and carbs.
+43:28
+Andrew Ippolito: Know lipitor fossil lipids and cholesterol the proteins are both the integral in the peripheral. Andrew Ippolito: And the carbohydrates, are attached to the lipids and the proteins, so you gotta you like approach and you're like olympians right so everything on the slide just everything makes sense we've already covered all this.
+43:43
+Andrew Ippolito: Okay, so for the for the rest of this lecture will pick up with on Wednesday.
+43:49
+Andrew Ippolito: Is a we're going to focus on these next three topics okay so that's that's, this is just the overview of the rest of the lecture.
+43:59
+Andrew Ippolito: that's the earliest picture of a membrane we didn't know it was a membrane at the time, this was taken in 1840 somebody looking under a microscope and they were looking at muscles.
+44:10
+Andrew Ippolito: And we're comparing human muscle and I think it was a lizard muscle or an alligator muscle and they were finding this is, this is the period of time when when biologists were realizing that.
+44:21
+Andrew Ippolito: The underlying structures of animals, even though you look different on the outside and you're right there's not too much in common between an alligator any human at this level, it was, like all the same.
+44:34
+Andrew Ippolito: They were able to look at like muscle cells or muscle cells right, so the building blocks of animals are like all the same, the building blocks of plants are all the same, this is so, this is beyond cell theory.
+44:43
+Andrew Ippolito: The idea that all life is you know made of cells, but what you're looking at, there are two muscle cells.
+44:50
+Andrew Ippolito: connected by their cell membranes. Andrew Ippolito: So really it's, is it really it's really one cell with two two parts to it, but this little below we part right here that's memory.
+45:01
+Andrew Ippolito: Now what was an 1840. Andrew Ippolito: By 1895 this guy overton realized that the membrane of a cell.
+45:12
+Andrew Ippolito: is made out of liquid, in other words, he so he did these experiments chemistry was more advanced at the time.
+45:19
+Andrew Ippolito: And so what he learned in his chemistry was that things that are hydrophobic limits.
+45:26
+Andrew Ippolito: move across the membrane more readily than things that are hydrophobic water soluble So if you think of water soluble things in fat soluble things the fat soluble things were able to go across the membrane.
+45:38
+Andrew Ippolito: By. Andrew Ippolito: This this couple here quarter and grendel they did some really ingenious experiments.
+45:48
+Andrew Ippolito: To postulate that the membrane was a limited by layer without looking.
+45:57
+Andrew Ippolito: This is how they did it. Andrew Ippolito: And this is we're going to end today on this story here there's this there's this device called the human cytometry.
+46:07
+Andrew Ippolito: chemo for blood site Tom mentor for measuring cells, you can cause it's basically it's something I use this on lab every day, this was like my hammer in the microscope.
+46:17
+Andrew Ippolito: He must say Tom joyner has a it's made of class and it has this grid etched in it like this.
+46:25
+Andrew Ippolito: And from a from a side view. looks like this.
+46:32
+Andrew Ippolito: So the etchings are here. Andrew Ippolito: And one of the ideas you put your cells, so you take yourself, you mix them up into a solution so they're evenly distributed and you quickly pipe pet them put a drop on the he must like commoner and you put a cover slip on it.
+46:48
+Andrew Ippolito: And you look under the microscope when you're looking at under the microscope, you will see.
+46:54
+Andrew Ippolito: This grid, and you will see cells randomly on the microscope slide and all you do is you count the cells within the grid you see the bigger grid here, you can see there's a square here.
+47:08
+Andrew Ippolito: You count the cells in that grid and you see, I got 27 and you go somewhere else in the slide you can you count like five or six of them, and you get some average number like 25.2.
+47:20
+Andrew Ippolito: And then you do some math you know that you added one micro leader, you had you know 10 you had 1000 Michael leaders and so blah blah blah, there are 120 sales per milliliter.
+47:32
+Andrew Ippolito: Right that's how we count cells. Andrew Ippolito: Okay, and so what Gordon and gretel did was they took some red blood cells.
+47:39
+Andrew Ippolito: And they put it on this really cool device, I think I have a picture, but actually I think I yeah yeah I updated this last semester So you see that weird membrane that we're machine what they did was they took the cells and they liked them.
+47:56
+Andrew Ippolito: And they extracted their memory. Andrew Ippolito: And then they let the membrane spread out on this plate forming a Mano layer and they measured it.
+48:07
+Andrew Ippolito: So, in other words, they were able to at the macro scale take the surface area of the of the cell membrane.
+48:16
+Andrew Ippolito: Parallel to that they knew how many cells, they used they counted them under the microscope of the most a commoner they did some math and, and this is where the brilliance comes in, here they assume the cells are circle spherical right.
+48:30
+Andrew Ippolito: So they took the formula for the surface area of a sphere. Andrew Ippolito: And they use that to calculate.
+48:39
+Andrew Ippolito: The they took the amount of liquid they had they took the surface area and they deduced that the amount of liquid they extracted from a given set of cells was always twice as much.
+48:53
+Andrew Ippolito: That there was always enough lip ID to make a double layer around a cell.
+49:02
+Andrew Ippolito: Okay, and so, knowing the chemistry of the fossil it but knowing it was an MP pathak molecule.
+49:09
+Andrew Ippolito: They deduced that you would get this double leaflet structure.
+49:18
+Andrew Ippolito: And it wasn't until the 1940s when electron microscopes were good enough.
+49:25
+Andrew Ippolito: That they confirmed it. Andrew Ippolito: So they they figured this out just by this brilliant math and extraction technique pretty cool Okay, and that that's what will end today.
+49:39
+Andrew Ippolito: Okay, so what I want you guys to try to do try to read through Chapter seven on your own.
+49:45
+Andrew Ippolito: Do the dynamic study modules don't do the homework, unless you want to, but really I want you to try to do the dynamic study modules for Chapter seven on your own outline the chapter go through it.
+49:56
+Andrew Ippolito: Look at my PowerPoint look at the lecture notes write them in your own words, build your own set of notes for Chapter seven.
+50:05
+Andrew Ippolito: Using the study guide as a template or as a literal guide Okay, and then i'll come in with that will go through this lecture but i'm also know, but the clicker questions Okay, and we might have a quiz we might not i'm not sure yet.
+50:20
+Andrew Ippolito: Okay, as soon we will, and if we do have a quiz it will be just on the basics of membrane permeability we're not going to go into and and the protein stuff we I taught you the protein stuff.
+50:30
+Andrew Ippolito: So, again it's not linear in the PowerPoint it's the topics we talked about today that you took notes on okay.
+50:37
+All right, any questions. Andrew Ippolito: All right, so all.
+50:42
+Andrew Ippolito: yeah Oh, we just enjoy. Victoria Bloemker: Alright um so I noticed somebody said in the chat if there was any possible way that you could rename the recording and the zoom.
+50:52
+Andrew Ippolito: yeah and the answer to that is unfortunately no, I have no ability to modify or tweak any of that that's all zoom integration into canvas.
+51:02
+Andrew Ippolito: And i'm sorry and it stinks you have to basically click on them and figure out. Andrew Ippolito: yeah method to their madness.
+51:07
+Andrew Ippolito: Okay, so so here's what I will say there there's four.
+51:13
+Andrew Ippolito: there's four recordings Okay, the first recording is just me just this that's useless, the second is just this the class that's useless The third is just a PowerPoint that's useless, the one you want is the one that has the PowerPoint and then me in the corner.
+51:29
+Andrew Ippolito: that's the only one, you should be watching. Andrew Ippolito: And so just click on it, you scrub somewhere in the middle, and if you see PowerPoint in me.
+51:38
+Andrew Ippolito: that's the one you want to watch. Andrew Ippolito: If it's not just go out of the next one, I mean you get you know you have a 25% chance to find it every time and then I don't even think there's a method to it in terms of like the way they lay them out from recording to recording I think it's in a random place each time.
+51:54
+Andrew Ippolito: it's frustrating i'm sure zoom's aware of this and i'm sure they don't care right. Now.
+52:00
+Julia Lakchin: there's no way for you to upload just the PowerPoint and you and little corner because, like with my other classes, they don't have like eight different recording things of the same thing.
+52:12
+Andrew Ippolito: will hold the fall off for us, let me end this recording to keep listening to this.
+52:18
+Okay.
