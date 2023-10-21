@@ -3,15 +3,15 @@ import './globals.css'
 
 const inter = Inter({ subsets: ['latin'] })
 
-export const metadata = {
-  title: 'Courser',
-  description: 'Courser ChatBot for Courses',
-}
+// components/RootLayout.js
+import React from 'react';
 
-export default function RootLayout({ children }) {
+const RootLayout = ({ children }) => {
   return (
-    <html lang="en">
-      <body className={inter.className}>{children}</body>
-    </html>
-  )
-}
+    <div className="min-h-screen flex flex-col justify-center items-center">
+      {children}
+    </div>
+  );
+};
+
+export default RootLayout;
