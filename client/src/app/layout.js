@@ -1,17 +1,20 @@
 import { Inter } from 'next/font/google'
 import './globals.css'
+import "@fortawesome/fontawesome-svg-core/styles.css";
+import { config } from "@fortawesome/fontawesome-svg-core";
+config.autoAddCss = false;
 
 const inter = Inter({ subsets: ['latin'] })
 
-// components/RootLayout.js
-import React from 'react';
+export const metadata = {
+  title: 'Courser | Dr. Ippolito',
+  description: 'A course management system for Dr. Ippolito\'s classes at the Bucks County Community College.',
+}
 
-const RootLayout = ({ children }) => {
+export default function RootLayout({ children }) {
   return (
-    <div className="min-h-screen flex flex-col justify-center items-center">
-      {children}
-    </div>
-  );
-};
-
-export default RootLayout;
+    <html lang="en">
+      <body className={inter.className}>{children}</body>
+    </html>
+  )
+}
