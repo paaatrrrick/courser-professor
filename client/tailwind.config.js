@@ -11,6 +11,18 @@ module.exports = {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
         'gradient-conic':
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
+        'bucks': 'url("/static/images/bucks.png")',
+      },
+      backgroundColor: {
+        bucksBlue: '#206ca4',
+        nextGray: 'rgb(214, 219, 220)'
+      },
+      textColor: {
+        bucksBlue: '#206ca4',
+      },
+      // add a custom border color
+      borderColor: {
+        bucksBlue: '#206ca4',
       },
     },
   },
