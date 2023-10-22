@@ -11,8 +11,17 @@ function ChatInput({handleSubmit}) {
     if (!trimmedMessage) return; // Check if the trimmed message is empty (no non-whitespace characters)
     handleSubmit(message);
     formRef.current.reset(); // Reset the form using the ref
+    // return text area to its normal height
+    const textArea = document.querySelector("textarea");
+    textArea.style.height = "inherit";
     setMessage("");
   };
+
+  const handleTextAreaChange = (e) => {
+    setMessage(e.target.value);
+    e.target.style.height = "inherit";
+    e.target.style.height = `${e.target.scrollHeight}px`; 
+  }
 
   return (
     <div className="bg-white w-full flex-col flex justify-center items-center sticky z-10 bottom-0 right-0 p-4 max-w-3xl">
@@ -21,16 +30,20 @@ function ChatInput({handleSubmit}) {
         onSubmit={handleChatSubmit}
         ref={formRef}
       >
-        <div className="w-full flex justify-center items-center border-bucksBlue border-2 bg-white rounded-xl">
+        <div className="w-full h-auto flex justify-center items-center border-bucksBlue border-2 bg-white rounded-xl">
           <textarea
             placeholder="What is a prokaryote?"
-            className="text-zinc-700 py-2 px-3 resize-none leading-tight mr-1 w-full rounded-l-xl focus:outline-none"
-            onChange={(e) => setMessage(e.target.value)}
+            className="max-h-[100px] min-h-full text-zinc-700 py-2 px-3 resize-none leading-tight mr-1 w-full rounded-l-xl focus:outline-none"
+            onChange={(e) => handleTextAreaChange(e)}
             autoFocus
             name="message"
             autoComplete="off"
+            rows={1}
             onKeyDown={(e) => {
-              if (e.key === "Enter" && !e.shiftKey) handleChatSubmit(e);
+              if (e.key === "Enter" && !e.shiftKey) {
+                e.preventDefault(); 
+                handleChatSubmit(e);
+              }
             }}
           />
           <svg

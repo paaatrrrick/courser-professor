@@ -7,7 +7,7 @@ function ChatMessage({ message, isUser }) {
       }`}
     >
       <div
-        className={`px-4 py-2 flex justify-between min-w-3/4 items-center ${
+        className={`px-4 py-2 flex justify-between min-w-3/4 max-w-5/6 items-center shrink ${
           isUser ? "bg-bucksBlue rounded-l-lg" : "bg-zinc-500 rounded-r-lg"
         }`}
       >
