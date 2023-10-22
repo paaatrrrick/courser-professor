@@ -7,8 +7,7 @@ function ChatInput({handleSubmit}) {
   const formRef = useRef(null); // Create a ref for the form element
 
   const handleChatSubmit = (e) => {
-    const trimmedMessage = message.trim();
-    if (!trimmedMessage) return; // Check if the trimmed message is empty (no non-whitespace characters)
+    if (!message.trim()) return; // Check if the trimmed message is empty (no non-whitespace characters)
     handleSubmit(message);
     formRef.current.reset(); // Reset the form using the ref
     // return text area to its normal height
@@ -41,7 +40,7 @@ function ChatInput({handleSubmit}) {
             rows={1}
             onKeyDown={(e) => {
               if (e.key === "Enter" && !e.shiftKey) {
-                e.preventDefault(); 
+                e.preventDefault();
                 handleChatSubmit(e);
               }
             }}
@@ -51,7 +50,7 @@ function ChatInput({handleSubmit}) {
             viewBox="0 0 16 16"
             fill="none"
             className={`${
-              !message ? "opacity-50" : "hover:opacity-80 cursor-pointer"
+              !message.trim() ? "opacity-50" : "hover:opacity-80 cursor-pointer"
             } text-bucksBlue w-5 h-5 transition duration-200 mr-2`}
             onClick={handleChatSubmit}
           >
