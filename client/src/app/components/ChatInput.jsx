@@ -1,31 +1,45 @@
 "use client";
+import {useState, useRef} from "react";
 
 function ChatInput({handleSubmit}) {
 
+  const [message, setMessage] = useState("")
+  const formRef = useRef(null); // Create a ref for the form element
+
   const handleChatSubmit = (e) => {
-    e.preventDefault();
-    const message = e.target.elements.message.value;
+    const trimmedMessage = message.trim();
+    if (!trimmedMessage) return; // Check if the trimmed message is empty (no non-whitespace characters)
     handleSubmit(message);
-    e.target.reset();
-  }
+    formRef.current.reset(); // Reset the form using the ref
+    setMessage("");
+  };
 
   return (
-    <div className="bg-white w-full flex-col flex justify-center items-center sticky z-10 bottom-0 p-4 max-w-3xl">
-      <form className="w-full" onSubmit={handleChatSubmit}>
+    <div className="bg-white w-full flex-col flex justify-center items-center sticky z-10 bottom-0 right-0 p-4 max-w-3xl">
+      <form
+        className="w-full shadow-2xl rounded-xl"
+        onSubmit={handleChatSubmit}
+        ref={formRef}
+      >
         <div className="w-full flex justify-center items-center border-bucksBlue border-2 bg-white rounded-xl">
-          <input
-            type="text"
+          <textarea
             placeholder="What is a prokaryote?"
-            className="text-zinc-700 p-3 w-full rounded-l-xl focus:outline-none"
+            className="text-zinc-700 py-2 px-3 resize-none leading-tight mr-1 w-full rounded-l-xl focus:outline-none"
+            onChange={(e) => setMessage(e.target.value)}
             autoFocus
             name="message"
             autoComplete="off"
+            onKeyDown={(e) => {
+              if (e.key === "Enter" && !e.shiftKey) handleChatSubmit(e);
+            }}
           />
           <svg
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 16 16"
             fill="none"
-            className="text-bucksBlue w-5 h-5 hover:opacity-80 transition duration-200 cursor-pointer mr-2"
+            className={`${
+              !message ? "opacity-50" : "hover:opacity-80 cursor-pointer"
+            } text-bucksBlue w-5 h-5 transition duration-200 mr-2`}
             onClick={handleChatSubmit}
           >
             <path
