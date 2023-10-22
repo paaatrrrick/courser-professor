@@ -1,37 +1,42 @@
 'use client';
 import ChatInput from "./components/ChatInput";
 import ChatMessage from "./components/ChatMessage";
-import { useState } from "react";
+import { useState, useRef, useEffect } from "react";
 
 export default function Home() {
-  const [userMessages, setUserMessages] = useState([]);
-  const [botMessages, setBotMessages] = useState([]);
+  const [messages, setMessages] = useState([]);
+  const messagesEndRef = useRef(null);
 
   const handleSubmit = (msg) => {
-    setUserMessages([...userMessages, msg]);
-    setTimeout(() => {
-      handleResponse(msg);
-    }, 500);
+    const newUserMessage = { text: msg, isUser: true };
+    setMessages((prevMessages) => [...prevMessages, newUserMessage]);
+    // after 500ms simulate a response from the bot
+    setTimeout(() => handleResponse(msg), 500);
   };
 
   const handleResponse = (msg) => {
-    setBotMessages([...botMessages, `This was your last message: '${msg}'`]);
+    const botResponse = `This was your last message: '${msg}'`;
+    const newBotMessage = { text: botResponse, isUser: false };
+    setMessages((prevMessages) => [...prevMessages, newBotMessage]);
   };
+
+  useEffect(() => {
+    messagesEndRef.current.scrollIntoView({ behavior: "smooth" });
+  }, [messages]);
 
   return (
     <main className="flex min-h-screen flex-col items-center justify-center">
       <img
         src="/static/images/bucks.png"
         alt="bucks"
-        className="w-1/2 md:w-1/4 absolute top-1/3 z-[-10] opacity-40"
+        className="w-1/2 md:w-1/4 fixed top-1/3 z-[-10] opacity-40"
       />
-      <div className="max-w-3xl w-full h-full flex-1 justify-start items-center flex flex-col">
-        {userMessages.map((msg, i) => (
-          <ChatMessage key={i} message={msg} isUser={true} />
+      <div className="max-w-3xl w-full flex-1 justify-start items-center flex flex-col overflow-y-scroll px-2 md:px-0 ">
+        {messages.map((msg, i) => (
+          <ChatMessage key={i} message={msg.text} isUser={msg.isUser} />
         ))}
-        {botMessages.map((msg, i) => (
-          <ChatMessage key={i} message={msg} isUser={false} />
-        ))}
+        <div ref={messagesEndRef} />{" "}
+        {/* This empty div acts as a reference to scroll to */}
       </div>
       <ChatInput handleSubmit={handleSubmit} />
     </main>

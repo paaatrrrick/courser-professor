@@ -15,6 +15,7 @@ module.exports = {
       },
       backgroundColor: {
         bucksBlue: '#206ca4',
+        nextGray: 'rgb(214, 219, 220)'
       },
       textColor: {
         bucksBlue: '#206ca4',

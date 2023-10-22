@@ -1,46 +1,20 @@
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faCopy, faCheck } from "@fortawesome/free-solid-svg-icons";
-import { useState } from "react";
-
 function ChatMessage({ message, isUser }) {
 
-    const [copied , setCopied] = useState(false);
-
-    const copyToClipboard = () => {
-        navigator.clipboard.writeText(message);
-        setCopied(true);
-        setTimeout(() => {
-            setCopied(false);
-        }, 1000);
-    }
-
-    return (
+  return (
+    <div
+      className={`my-1 w-full flex items-center ${
+        isUser ? "justify-end" : "justify-start"
+      }`}
+    >
       <div
-        className={`w-full flex justify-center items-center ${
-          isUser ? "bg-bucksBlue" : "bg-zinc-500"
+        className={`px-4 py-2 flex justify-between min-w-3/4 items-center ${
+          isUser ? "bg-bucksBlue rounded-l-lg" : "bg-zinc-500 rounded-r-lg"
         }`}
       >
-        <div className={`p-4 text-white text-md w-full`}>{message}</div>
-        {!isUser ? (
-          copied ? (
-            <FontAwesomeIcon
-              icon={faCheck}
-              className={`text-lg text-white cursor-pointer mr-2 hover:opacity-80 transition duration-200 ${
-                isUser ? "bg-bucksBlue" : "bg-zinc-500"
-              }`}
-            />
-          ) : (
-            <FontAwesomeIcon
-              icon={faCopy}
-              className={`text-lg text-white cursor-pointer mr-2 hover:opacity-80 transition duration-200 ${
-                isUser ? "bg-bucksBlue" : "bg-zinc-500"
-              }`}
-              onClick={copyToClipboard}
-            />
-          )
-        ): null}
+        <p className="break-words text-white text-md w-full">{message}</p>
       </div>
-    );
+    </div>
+  );
 }
 
 export default ChatMessage;
