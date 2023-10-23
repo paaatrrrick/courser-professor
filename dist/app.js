@@ -18,7 +18,7 @@ const server = createServer(app);
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(cookieParser());
-app.use(cors({ credentials: true, origin: ['http://localhost:3000', 'https://courser-beta.vercel.app', 'https://chatcourser.com'] }));
+app.use(cors({ credentials: true, origin: ['http://localhost:3000', 'https://courser-beta.vercel.app', 'https://chatcourser.com', 'https://biodoc.vercel.app'] }));
 app.use('', Routes);
 // Starting the server
 const PORT = process.env.PORT || 8000;

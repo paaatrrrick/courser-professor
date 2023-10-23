@@ -59,10 +59,38 @@ Routes.post('/answer', (req, res) => __awaiter(void 0, void 0, void 0, function*
     const llamaResponse = yield queryEngine.query(query);
     const answer = llamaResponse.toString();
     console.log(answer);
-    res.json({ answer: answer });
-    // at the end of response, concatenate source links from chunks (can add start timestamp to these)
-    // return response+links chunks to to client
+    const sources = [];
+    for (let i = 0; i < relevantChunks.length; i++) {
+        const chunk = relevantChunks[i];
+        sources.push({
+            url: linkFormatter(chunk.link, chunk.start),
+            title: `${chunk.lectureTitle} (${chunk.start})`,
+            type: "YouTube",
+            number: i
+        });
+    }
+    res.json({ answer: answer, sources });
 }));
+const linkFormatter = (link, startTime) => {
+    const splitted = startTime.split(':');
+    var totalSeconds = 0;
+    if (splitted.length == 3) {
+        //Hours
+        totalSeconds += parseInt(splitted[0]) * 3600;
+        //Minutes
+        totalSeconds += (parseInt(splitted[1]) * 60);
+        //Seconds
+        totalSeconds += parseInt(splitted[2]);
+    }
+    else {
+        //Minutes
+        totalSeconds += (parseInt(splitted[0]) * 60);
+        //Seconds
+        totalSeconds += parseInt(splitted[1]);
+    }
+    const newLink = `${link}&t=${totalSeconds}`;
+    return newLink;
+};
 Routes.get('/vectorize', (req, res) => __awaiter(void 0, void 0, void 0, function* () {
     try {
         // await vectorize();
@@ -102,7 +130,6 @@ const getChunks = () => {
     let text = "";
     try {
         text = fs.readFileSync('./lectureInfo.json', 'utf-8');
-        console.log('File content:', text);
     }
     catch (err) {
         console.error('Error reading the file:', err);

@@ -31,7 +31,7 @@ function ChatInput({handleSubmit}) {
       >
         <div className="w-full h-auto flex justify-center items-center border-bucksBlue border-2 bg-white rounded-xl">
           <textarea
-            placeholder="What is a prokaryote?"
+            placeholder="What is significant about horseshoe crabs?"
             className="max-h-[100px] min-h-full text-zinc-700 py-2 px-3 resize-none leading-tight mr-1 w-full rounded-l-xl focus:outline-none"
             onChange={(e) => handleTextAreaChange(e)}
             autoFocus

@@ -58,6 +58,7 @@ Routes.post('/answer', async (req: Request, res: Response) => {
     const llamaResponse = await queryEngine.query(
         query
     );
+
     const answer: string = llamaResponse.toString();
     console.log(answer);
     type Source = {
@@ -76,9 +77,8 @@ Routes.post('/answer', async (req: Request, res: Response) => {
             number: i  
         })
     }
+
     res.json({ answer: answer, sources });
-    // at the end of response, concatenate source links from chunks (can add start timestamp to these)
-    // return response+links chunks to to client
 });
 
 const linkFormatter = (link: string, startTime: string) : string => {
