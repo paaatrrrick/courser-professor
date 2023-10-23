@@ -13,13 +13,13 @@ const handleSubmit = async (msg) => {
   const newUserMessage = { text: msg, isUser: true };
   setMessages((prevMessages) => [...prevMessages, newUserMessage]);
   const data = new FormData();
-  data.append("prompt", prompt);
+  data.append("prompt", msg);
   const response = await fetch(`${constants.url}/answer`, {
     method: "POST",
     body: data,
   });
   const res = await response.json();
-  // handleResponse(res.answer); 
+  handleResponse(res.answer); 
   console.log(res);
 };
 
