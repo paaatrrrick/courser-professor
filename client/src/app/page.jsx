@@ -3,16 +3,25 @@ import ChatInput from "./components/ChatInput";
 import ChatMessage from "./components/ChatMessage";
 import { useState, useRef, useEffect } from "react";
 
+import constants from '@/helpers/constants';
+
 export default function Home() {
   const [messages, setMessages] = useState([]);
   const messagesEndRef = useRef(null);
 
-  const handleSubmit = (msg) => {
-    const newUserMessage = { text: msg, isUser: true };
-    setMessages((prevMessages) => [...prevMessages, newUserMessage]);
-    // after 500ms simulate a response from the bot
-    setTimeout(() => handleResponse(msg), 500);
-  };
+const handleSubmit = async (msg) => {
+  const newUserMessage = { text: msg, isUser: true };
+  setMessages((prevMessages) => [...prevMessages, newUserMessage]);
+  const data = new FormData();
+  data.append("prompt", prompt);
+  const response = await fetch(`${constants.url}/answer`, {
+    method: "POST",
+    body: data,
+  });
+  const res = await response.json();
+  // handleResponse(res.answer); 
+  console.log(res);
+};
 
   const handleResponse = (msg) => {
     const botResponse = `This was your last message: '${msg}'`;
