@@ -103,7 +103,6 @@ const getChunks = (): Array<Chunk> => {
     let text: string = "";
     try {
         text = fs.readFileSync('./lectureInfo.json', 'utf-8');
-        console.log('File content:', text);
     } catch (err) {
         console.error('Error reading the file:', err);
     }
