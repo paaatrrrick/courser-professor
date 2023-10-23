@@ -7,11 +7,8 @@ const http = require("http");
 const cors = require("cors");
 const app = express();
 const bodyParser = require("body-parser");
-const mongoose = require("mongoose");
 const Routes = require("./routes");
 const cookieParser = require("cookie-parser");
-const fileUpload = require('express-fileupload');
-const { MongoClient, ServerApiVersion } = require('mongodb');
 
 
 app.use(bodyParser.json(), bodyParser.urlencoded({ extended: false }));

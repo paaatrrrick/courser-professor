@@ -4,6 +4,11 @@ if (process.env.NODE_ENV !== "production") {
 
 const express = require("express");
 const Routes = express.Router();
+const fs = require('fs');
+
+Routes.get('/test', async (req, res) => {
+    res.send("succesful: live server");
+});
 
 Routes.get('/answer', async (req, res) => {
     // get query from request body or something
@@ -19,7 +24,28 @@ Routes.get('/answer', async (req, res) => {
     // return response+links chunks to to client
 });
 
+Routes.get('/vectorize', async (req, res) => {
+    try{
+        await vectorize();
+    }catch(e){
+        res.send("error: ", e);
+        return;
+    }
+    res.send("succesful: vectorized");
+});
+
 vectorize = async() => {
+    let text = "";
+    try {
+        text = fs.readFileSync('./lectureInfo.json', 'utf-8');
+        console.log('File content:', text);
+    } catch (err) {
+        console.error('Error reading the file:', err);
+    }
+    const chunksList = JSON(text);
+    console.log(chunksList);
+    console.log(typeof chunksList);
+
     // assuming there's a json file with: [    {lectureTitle: , link: , chunkTitle: , chunkSummary: start:, end: , content: },  ...   ]
     // iterate through that array
     // make pinecone index
@@ -28,6 +54,7 @@ vectorize = async() => {
         // make embedding of the title + " " summary + " " + content concatenated)
         // records.push({ id: id, values: currEmbedding.data[0].embedding });
     // await index.upsert(records);
+
 };
 
 Routes.use((err, req, res, next) => {
