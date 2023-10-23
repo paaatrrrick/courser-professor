@@ -1,4 +1,4 @@
-function ChatMessage({ message, isUser }) {
+function ChatMessage({ message, isUser, sources }) {
 
   return (
     <div
@@ -15,6 +15,19 @@ function ChatMessage({ message, isUser }) {
       >
         <p className="break-words text-white text-md w-full whitespace-no-wrap overflow-hidden">
           {message}
+          {sources ? (
+            <div className="text-sm">
+              <hr className="opacity-50 mt-4" />
+              {sources.map((source, i) => (
+                <p
+                  key={i}
+                  className="text-zinc-300 hover:text-zinc-100 transition duration-200 cursor-pointer w-fit"
+                >
+                  {source}
+                </p>
+              ))}
+            </div>
+          ) : null}
         </p>
       </div>
     </div>
