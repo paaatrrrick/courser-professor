@@ -60,7 +60,6 @@ Routes.post('/answer', async (req: Request, res: Response) => {
     );
 
     const answer: string = llamaResponse.toString();
-    console.log(answer);
     type Source = {
         url: string,
         number: number,
@@ -77,6 +76,8 @@ Routes.post('/answer', async (req: Request, res: Response) => {
             number: i  
         })
     }
+
+    console.log(`q: ${query}`, "\n", `a: ${answer} \n ${JSON.stringify(sources)}`);
 
     res.json({ answer: answer, sources });
 });

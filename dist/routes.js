@@ -58,7 +58,6 @@ Routes.post('/answer', (req, res) => __awaiter(void 0, void 0, void 0, function*
     const queryEngine = llamaIndex.asQueryEngine();
     const llamaResponse = yield queryEngine.query(query);
     const answer = llamaResponse.toString();
-    console.log(answer);
     const sources = [];
     for (let i = 0; i < relevantChunks.length; i++) {
         const chunk = relevantChunks[i];
@@ -69,6 +68,7 @@ Routes.post('/answer', (req, res) => __awaiter(void 0, void 0, void 0, function*
             number: i
         });
     }
+    console.log(`q: ${query}`, "\n", `a: ${answer} \n ${JSON.stringify(sources)}`);
     res.json({ answer: answer, sources });
 }));
 const linkFormatter = (link, startTime) => {
