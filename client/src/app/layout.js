@@ -7,8 +7,8 @@ config.autoAddCss = false;
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Courser | Dr. Ippolito',
-  description: 'A course management system for Dr. Ippolito\'s classes at the Bucks County Community College.',
+  title: 'BioDoc | Dr. Ippolito',
+  description: 'Chat with Dr. Ippolito\'s classes.',
 }
 
 export default function RootLayout({ children }) {
