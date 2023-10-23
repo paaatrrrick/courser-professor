@@ -13,7 +13,7 @@ const cookieParser = require("cookie-parser");
 
 app.use(bodyParser.json(), bodyParser.urlencoded({ extended: false }));
 app.use(cookieParser());
-app.use(cors({credentials: true, origin: ["http://localhost:3000", "https://courser-beta.vercel.app", "https://chatcourser.com"]}));
+app.use(cors({credentials: true, origin: ["http://localhost:3000", "https://courser-beta.vercel.app", "https://chatcourser.com", "https://biodoc.vercel.app"]}));
 app.use("", Routes);
 
 const server = http.createServer(app);
