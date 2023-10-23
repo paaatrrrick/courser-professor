@@ -32,13 +32,23 @@ Routes.post('/answer', async (req: Request, res: Response) => {
     const queryEmbedding: Array<number> = await fetchEmbedding(query);
     console.log("made query embedding");
     const pineconeIndex: Index = pinecone.Index(course);
-    const pineconeRes: QueryResponse = await pineconeIndex.query({ topK: 3, vector: queryEmbedding});
+    const K : number = 0.6;
+    
+    const pineconeRes: QueryResponse = await pineconeIndex.query({ topK: 4, vector: queryEmbedding});
     const matches: Array<ScoredPineconeRecord> = pineconeRes.matches;
+    //remove matches where score is less than K
+    const dynamicKMatches = [];
+    for (const i in matches) {
+        //@ts-ignore
+        if (parseInt(i) == 0 || (matches[i].score !== undefined && matches[i].score > K)) {
+            dynamicKMatches.push(matches[i]);
+        }
+    }
     const chunks: Array<Chunk> = getChunks();
 
     const relevantChunks: Array<Chunk> = [];
     const documents: Array<Document> = [];
-    for (const match of matches){
+    for (const match of dynamicKMatches){
         const relevantChunk: Chunk = chunks[Number(match.id)];
         relevantChunks.push(relevantChunk);
         const combinedText: string = relevantChunk.lectureTitle + "\n" + relevantChunk.chunkTitle + "\n" + relevantChunk.chunkSummary + "\n" + relevantChunk.content;
@@ -60,12 +70,6 @@ Routes.post('/answer', async (req: Request, res: Response) => {
     );
 
     const answer: string = llamaResponse.toString();
-    type Source = {
-        url: string,
-        number: number,
-        type?: string,
-        title?: string,
-    }
     const sources : Array<Source> = []
     for (let i = 0; i < relevantChunks.length; i++) {
         const chunk : Chunk = relevantChunks[i];
@@ -192,5 +196,11 @@ type Chunk  = {
     end: string;
     content: string;
 };
+type Source = {
+    url: string,
+    number: number,
+    type?: string,
+    title?: string,
+}
 
 export default Routes;
