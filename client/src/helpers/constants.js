@@ -5,7 +5,7 @@ try {
 // const TESTING = false;
 
 const constants = {
-  url: isLocal ? "http://localhost:8000" : "https://courser-production.up.railway.app",
+  url: isLocal ? "http://localhost:8000" : "https://courser-professor.up.railway.app",
 //   clientUrl: isLocal ? "http://localhost:3000" : "https://courser-beta.vercel.app",
 //   authToken: "my-courser-auth-token",
 //   firebaseConfig: {
