@@ -28,7 +28,8 @@ export default function Home() {
   };
 
   const handleResponse = (res) => {
-    const newResponseMessage = { text: res.answer, isUser: false, sources: ['source1', 'source2'] }; // once res.sources is implemented, add it here
+    console.log(res);
+    const newResponseMessage = { text: res.answer, isUser: false, sources: res.sources }; // once res.sources is implemented, add it here
     setMessages((prevMessages) => [...prevMessages, newResponseMessage]);
   };
 
@@ -43,7 +44,7 @@ export default function Home() {
         alt="bucks"
         className="w-1/2 md:w-1/4 fixed top-1/3 z-[-10] opacity-40"
       />
-      <div className="max-w-3xl w-full flex-1 justify-start items-center flex flex-col overflow-y-scroll px-2 md:px-0 ">
+      <div id='chatSection' className="max-w-3xl w-full flex-1 justify-start items-center flex flex-col overflow-y-scroll px-2 md:px-0 ">
         {messages.map((msg, i) => (
           <ChatMessage key={i} message={msg.text} isUser={msg.isUser} sources={msg.sources}/>
         ))}

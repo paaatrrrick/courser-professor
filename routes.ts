@@ -10,6 +10,8 @@ dotenv.config()
 //     dotenv.config();
 // });  
 
+
+
 const Routes: Router = express.Router();
 const course: string = "bio-228-microbiology";
 const pinecone: Pinecone = new Pinecone({
@@ -58,10 +60,46 @@ Routes.post('/answer', async (req: Request, res: Response) => {
     );
     const answer: string = llamaResponse.toString();
     console.log(answer);
-    res.json({ answer: answer });
+    type Source = {
+        url: string,
+        number: number,
+        type?: string,
+        title?: string,
+    }
+    const sources : Array<Source> = []
+    for (let i = 0; i < relevantChunks.length; i++) {
+        const chunk : Chunk = relevantChunks[i];
+        sources.push({
+            url: linkFormatter(chunk.link, chunk.start),
+            title: `${chunk.lectureTitle} (${chunk.start})`,
+            type: "YouTube",
+            number: i  
+        })
+    }
+    res.json({ answer: answer, sources });
     // at the end of response, concatenate source links from chunks (can add start timestamp to these)
     // return response+links chunks to to client
 });
+
+const linkFormatter = (link: string, startTime: string) : string => {
+    const splitted = startTime.split(':');
+    var totalSeconds : number = 0
+    if (splitted.length == 3) {
+        //Hours
+        totalSeconds += parseInt(splitted[0]) * 3600
+        //Minutes
+        totalSeconds += (parseInt(splitted[1]) * 60)
+        //Seconds
+        totalSeconds += parseInt(splitted[2])
+    } else {
+        //Minutes
+        totalSeconds += (parseInt(splitted[0]) * 60)
+        //Seconds
+        totalSeconds += parseInt(splitted[1])
+    }
+    const newLink : string = `${link}&t=${totalSeconds}`
+    return newLink
+}
 
 Routes.get('/vectorize', async (req: Request, res: Response) => {
   try {

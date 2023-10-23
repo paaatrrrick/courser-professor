@@ -16,15 +16,17 @@ function ChatMessage({ message, isUser, sources }) {
         <p className="break-words text-white text-md w-full whitespace-no-wrap overflow-hidden">
           {message}
           {sources ? (
-            <div className="text-sm">
+            <div className="text-sm flex flex-col items-start">
               <hr className="opacity-50 mt-4" />
               {sources.map((source, i) => (
-                <p
+                <a
                   key={i}
                   className="text-zinc-300 hover:text-zinc-100 transition duration-200 cursor-pointer w-fit"
+                  target="_blank"
+                  href={source.url}
                 >
-                  {source}
-                </p>
+                  {source.title}
+                </a>
               ))}
             </div>
           ) : null}
