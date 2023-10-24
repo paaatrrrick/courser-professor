@@ -17,7 +17,14 @@ dotenv.config();
 // Load environment variables
 // import('dotenv').then(({ default: dotenv }) => {
 //     dotenv.config();
-// });  
+// });
+import mongoose from 'mongoose';
+const Schema = mongoose.Schema;
+const QASchema = new Schema({
+    query: { type: String, required: false },
+    response: { type: String, required: false }
+});
+const QA = mongoose.model('QA', QASchema);
 const Routes = express.Router();
 const course = "bio-228-microbiology";
 const pinecone = new Pinecone({
@@ -68,7 +75,11 @@ Routes.post('/answer', (req, res) => __awaiter(void 0, void 0, void 0, function*
             number: i
         });
     }
-    console.log(`q: ${query}`, "\n", `a: ${answer} \n ${JSON.stringify(sources)}`);
+    const response = answer + "\n" + JSON.stringify(sources);
+    console.log(`q: ${query}`, "\n", `a: ${response}`);
+    //@ts-ignore
+    const log = yield QA.create({ query: query, response: response });
+    console.log(log);
     res.json({ answer: answer, sources });
 }));
 const linkFormatter = (link, startTime) => {
@@ -169,3 +180,13 @@ Routes.use((err, req, res) => {
     res.status(500).json({ error: `Internal error: ${err.message}` });
 });
 export default Routes;
+// export interface QAAttributes {
+//     query?: string;
+//     response?: string;
+// }
+// export interface QADocument extends mongoose.Document {
+//     query: string;
+//     response: string;
+// }
+// declare const QAModel: mongoose.Model<QADocument>;
+// export = QAModel;

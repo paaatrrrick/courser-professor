@@ -3,14 +3,21 @@ import fetch from 'node-fetch';
 import fs from 'fs';
 import { Pinecone, Index, PineconeRecord, QueryResponse, ScoredPineconeRecord } from '@pinecone-database/pinecone';
 import { Document, SummaryIndex, ServiceContext, serviceContextFromDefaults, OpenAI, BaseQueryEngine } from "llamaindex";
-import * as dotenv from 'dotenv'
-dotenv.config()
+import * as dotenv from 'dotenv';
+dotenv.config();
 // Load environment variables
 // import('dotenv').then(({ default: dotenv }) => {
 //     dotenv.config();
-// });  
+// });
+import mongoose from 'mongoose';
+const Schema = mongoose.Schema;
 
+const QASchema = new Schema({
+    query: { type: String, required: false },
+    response: { type: String, required: false }
+}); 
 
+const QA = mongoose.model('QA', QASchema);
 
 const Routes: Router = express.Router();
 const course: string = "bio-228-microbiology";
@@ -77,7 +84,11 @@ Routes.post('/answer', async (req: Request, res: Response) => {
         })
     }
 
-    console.log(`q: ${query}`, "\n", `a: ${answer} \n ${JSON.stringify(sources)}`);
+    const response: string = answer + "\n" + JSON.stringify(sources);
+    console.log(`q: ${query}`, "\n", `a: ${response}`);
+    //@ts-ignore
+    const log = await QA.create({query: query, response: response});
+    console.log(log);
 
     res.json({ answer: answer, sources });
 });
@@ -194,3 +205,17 @@ type Chunk  = {
 };
 
 export default Routes;
+
+// export interface QAAttributes {
+//     query?: string;
+//     response?: string;
+// }
+
+// export interface QADocument extends mongoose.Document {
+//     query: string;
+//     response: string;
+// }
+
+// declare const QAModel: mongoose.Model<QADocument>;
+
+// export = QAModel;
