@@ -29,7 +29,7 @@ export default function Home() {
 
   const handleResponse = (res) => {
     console.log(res);
-    const newResponseMessage = { text: res.answer, isUser: false, sources: res.sources }; // once res.sources is implemented, add it here
+    const newResponseMessage = { text: res.answer, isUser: false, sources: res.sources };
     setMessages((prevMessages) => [...prevMessages, newResponseMessage]);
   };
 

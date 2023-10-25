@@ -36,12 +36,21 @@ Routes.post('/answer', (req, res) => __awaiter(void 0, void 0, void 0, function*
     const queryEmbedding = yield fetchEmbedding(query);
     console.log("made query embedding");
     const pineconeIndex = pinecone.Index(course);
-    const pineconeRes = yield pineconeIndex.query({ topK: 3, vector: queryEmbedding });
+    const K = 0.6;
+    const pineconeRes = yield pineconeIndex.query({ topK: 4, vector: queryEmbedding });
     const matches = pineconeRes.matches;
+    //remove matches where score is less than K
+    const dynamicKMatches = [];
+    for (const i in matches) {
+        //@ts-ignore
+        if (parseInt(i) == 0 || (matches[i].score !== undefined && matches[i].score > K)) {
+            dynamicKMatches.push(matches[i]);
+        }
+    }
     const chunks = getChunks();
     const relevantChunks = [];
     const documents = [];
-    for (const match of matches) {
+    for (const match of dynamicKMatches) {
         const relevantChunk = chunks[Number(match.id)];
         relevantChunks.push(relevantChunk);
         const combinedText = relevantChunk.lectureTitle + "\n" + relevantChunk.chunkTitle + "\n" + relevantChunk.chunkSummary + "\n" + relevantChunk.content;
@@ -68,7 +77,8 @@ Routes.post('/answer', (req, res) => __awaiter(void 0, void 0, void 0, function*
             number: i
         });
     }
-    console.log(`q: ${query}`, "\n", `a: ${answer} \n ${JSON.stringify(sources)}`);
+    // console.log(`q: ${query}`, "\n", `a: ${answer} \n ${JSON.stringify(sources)}`);
+    console.log(answer);
     res.json({ answer: answer, sources });
 }));
 const linkFormatter = (link, startTime) => {

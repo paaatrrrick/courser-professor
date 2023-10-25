@@ -16,8 +16,7 @@ function ChatMessage({ message, isUser, sources }) {
         <p className="break-words text-white text-md w-full whitespace-no-wrap overflow-hidden">
           {message}
           {sources ? (
-            <div className="text-sm flex flex-col items-start">
-              <hr className="opacity-50 mt-4" />
+            <div className="text-sm flex flex-col items-start border-t-2 border-zinc-400 mt-2">
               {sources.map((source, i) => (
                 <a
                   key={i}
