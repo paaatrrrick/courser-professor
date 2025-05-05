@@ -29,8 +29,6 @@ const Routes = express.Router();
 const course = "bio-228-microbiology";
 const pinecone = new Pinecone({
     //@ts-ignore
-    environment: process.env.PINECONE_ENVIRONMENT,
-    //@ts-ignore
     apiKey: process.env.PINECONE_API_KEY
 });
 Routes.get('/test', (req, res) => __awaiter(void 0, void 0, void 0, function* () {
@@ -43,7 +41,9 @@ Routes.post('/answer', (req, res) => __awaiter(void 0, void 0, void 0, function*
     const queryEmbedding = yield fetchEmbedding(query);
     console.log("made query embedding");
     const pineconeIndex = pinecone.Index(course);
+    console.log('a');
     const pineconeRes = yield pineconeIndex.query({ topK: 3, vector: queryEmbedding });
+    console.log('b');
     const matches = pineconeRes.matches;
     const chunks = getChunks();
     const relevantChunks = [];
@@ -54,16 +54,19 @@ Routes.post('/answer', (req, res) => __awaiter(void 0, void 0, void 0, function*
         const combinedText = relevantChunk.lectureTitle + "\n" + relevantChunk.chunkTitle + "\n" + relevantChunk.chunkSummary + "\n" + relevantChunk.content;
         documents.push(new Document({ text: combinedText }));
     }
+    console.log('c');
     // Specify LLM model
     const serviceContext = serviceContextFromDefaults({
         llm: new OpenAI({ model: "gpt-3.5-turbo-16k", temperature: 0 }),
     });
+    console.log('d');
     // Indexing
     const llamaIndex = yield SummaryIndex.fromDocuments(documents, { serviceContext });
     console.log("made summary index");
     // Make query
     const queryEngine = llamaIndex.asQueryEngine();
     const llamaResponse = yield queryEngine.query(query);
+    console.log('e');
     const answer = llamaResponse.toString();
     const sources = [];
     for (let i = 0; i < relevantChunks.length; i++) {
@@ -77,6 +80,7 @@ Routes.post('/answer', (req, res) => __awaiter(void 0, void 0, void 0, function*
     }
     const response = answer + "\n" + JSON.stringify(sources);
     console.log(`q: ${query}`, "\n", `a: ${response}`);
+    console.log("f");
     //@ts-ignore
     const log = yield QA.create({ query: query, response: response });
     console.log(log);
@@ -111,32 +115,31 @@ Routes.get('/vectorize', (req, res) => __awaiter(void 0, void 0, void 0, functio
         res.status(500).send('error: ' + err);
     }
 }));
-const vectorize = () => __awaiter(void 0, void 0, void 0, function* () {
-    // get list of transcript chunks from lectureInfo.json
-    const chunks = getChunks();
-    // make pinecone / retrieve Pinecone index to put chunk embeddings in
-    try {
-        yield pinecone.createIndex({
-            name: course,
-            dimension: 1536,
-            waitUntilReady: true
-        });
-    }
-    catch (err) {
-        console.log('Error creating Pinecone index:', err);
-    }
-    const index = pinecone.index(course);
-    console.log("done making index", chunks.length);
-    // for each chunk, make embedding, and put in records list
-    for (let i = 0; i < chunks.length; i++) {
-        const chunk = chunks[i];
-        const chunkEmbedding = yield fetchEmbedding(JSON.stringify(chunk)); // choosing to embed the entire chunk object instead of just title + summary + content string
-        const record = { id: String(i), values: chunkEmbedding };
-        yield index.upsert([record]);
-        console.log("vector", i, "done");
-    }
-    ;
-});
+// const vectorize = async (): Promise<void> => {
+//     // get list of transcript chunks from lectureInfo.json
+//     const chunks: Array<Chunk> =  getChunks();
+//     // make pinecone / retrieve Pinecone index to put chunk embeddings in
+//     try {
+//         await pinecone.createIndex({
+//             name: course,
+//             dimension: 1536,
+//             waitUntilReady: true,
+//             spec: {}
+//         });
+//     } catch (err) {
+//         console.log('Error creating Pinecone index:', err);
+//     }
+//     const index: Index = pinecone.index(course);
+//     console.log("done making index", chunks.length);
+//     // for each chunk, make embedding, and put in records list
+//     for (let i: number = 0; i < chunks.length; i++) {
+//         const chunk: Chunk = chunks[i];
+//         const chunkEmbedding: number[] = await fetchEmbedding(JSON.stringify(chunk)); // choosing to embed the entire chunk object instead of just title + summary + content string
+//         const record: PineconeRecord = { id: String(i), values: chunkEmbedding };
+//         await index.upsert([record]);
+//         console.log("vector", i, "done");
+//     };
+// };
 const getChunks = () => {
     let text = "";
     try {
@@ -168,6 +171,10 @@ const fetchEmbedding = (input) => __awaiter(void 0, void 0, void 0, function* ()
             throw new Error(`HTTP error! Status: ${response.status}`);
         }
         const jsonData = yield response.json();
+        console.log(jsonData);
+        if (jsonData.error) {
+            throw new Error(`Error from OpenAI API: ${jsonData.error.message}`);
+        }
         return jsonData.data[0].embedding;
     }
     catch (error) {
