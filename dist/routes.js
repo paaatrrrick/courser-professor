@@ -65,7 +65,9 @@ Routes.post('/answer', (req, res) => __awaiter(void 0, void 0, void 0, function*
     console.log("made summary index");
     // Make query
     const queryEngine = llamaIndex.asQueryEngine();
-    const llamaResponse = yield queryEngine.query(query);
+    const llamaResponse = yield queryEngine.query({
+        query: query
+    });
     console.log('e');
     const answer = llamaResponse.toString();
     const sources = [];

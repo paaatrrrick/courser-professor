@@ -65,9 +65,9 @@ Routes.post('/answer', async (req: Request, res: Response) => {
     console.log("made summary index");
     // Make query
     const queryEngine: BaseQueryEngine = llamaIndex.asQueryEngine();
-    const llamaResponse = await queryEngine.query(
-        query
-    );
+    const llamaResponse = await queryEngine.query({
+        query: query
+    });
 
     console.log('e')
     const answer: string = llamaResponse.toString();
